@@ -1,0 +1,157 @@
+{
+	"$id": "https://opendata.slo.nl/curriculum/schemas/curriculum-fo/context.json",
+	"$schema": "http://json-schema.org/draft-07/schema#",
+	"type": "object",
+	"properties": {
+		"fo_domein": {
+			"#file": "data/domeinen.json",
+			"type" : "array",
+			"items": {
+				"$ref": "#/definitions/fo_domein"
+			}
+		},
+		"fo_subdomein": {
+			"#file": "data/subdomeinen.json",
+			"type": "array",
+			"items": {
+				"$ref": "#/definitions/fo_subdomein"
+			}
+		},
+		"fo_doelzin": {
+			"#file": "data/doelzinnen.json",
+			"type" : "array",
+			"items": {
+				"$ref": "#/definitions/fo_doelzin"
+			}
+		},
+		"fo_toelichting": {
+			"#file": "data/toelichtingen.json",
+			"type" : "array",
+			"items": {
+				"$ref": "#/definitions/fo_toelichting"
+			}
+		},
+		"fo_uitwerking": {
+			"#file": "data/uitwerkingen.json",
+			"type" : "array",
+			"items": {
+				"$ref": "#/definitions/fo_uitwerking"
+			}
+		},
+		"deprecated": {
+			"#file": "data/deprecated.json",
+			"type" : "array"
+		}
+	},
+	"definitions": {
+		"fo_domein": {
+			"allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/base" } ],
+			"properties": {
+				"vakleergebied_id": {
+					"allOf": [
+						{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
+						{ "items": { "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/vakleergebied" } }
+					]
+				},
+				"fo_subdomein_id": {
+					"allOf": [
+						{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
+						{ "items": { "itemTypeReference": "#/definitions/fo_subdomein" } }
+					]
+				},
+				"prefix": { "type": "string" }
+			},
+			"required": ["id", "title", "vakleergebied_id", "fo_subdomein_id"]
+		},
+		"fo_subdomein": {
+			"allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/base" } ],
+			"properties": {
+				"fo_doelzin_id": {
+					"allOf": [
+						{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
+						{ "items": { "itemTypeReference": "#/definitions/fo_doelzin" } }
+					]
+				},
+				"prefix": { "type": "string" }
+			},
+			"required": ["id", "title", "fo_doelzin_id"]
+		},
+		"fo_doelzin": {
+			"allOf": [ { "$ref":"https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/base" } ],
+			"properties": {
+				"fo_toelichting_id": {
+					"allOf": [
+						{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
+						{ "items": { "itemTypeReference": "#/definitions/fo_toelichting" } }
+					]
+				},
+				"fo_uitwerking_id": {
+					"allOf": [
+						{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
+						{ "items": { "itemTypeReference": "#/definitions/fo_uitwerking" } }
+					]
+				},
+				"prefix": { "type": "string" },
+				"niveau_id" : {
+					"allOf": [
+						{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
+						{ "items": { "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/niveau" } }
+					]
+				},
+				"soort": { "type": "string",
+						  "enum": ["kerndoel", "eindterm"]	
+				}
+			},
+			"required": ["id", "title", "fo_toelichting_id", "fo_uitwerking_id"]
+		},
+		"fo_toelichting": {
+			"allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/base" } ],
+			"properties": {
+				"prefix": { "type": "string" }
+			},
+			"required": ["id", "title"]			
+		},
+		"fo_uitwerking": {
+			"allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/base" } ],
+			"properties": {
+				"prefix": { "type": "string" }
+			},
+			"required": ["id", "title"]			
+		},
+		"allEntities" : {
+			"properties" : {
+				"fo_domein_id" : {
+					"allOf": [ {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"} ],
+					"items": {
+						"itemTypeReference": "#/definitions/fo_domein"
+					}
+				},
+				"fo_subdomein_id" : {
+					"allOf": [ {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"} ],
+					"items": {
+						"itemTypeReference": "#/definitions/fo_subdomein"
+					}
+				},
+				"fo_doelzin_id" : {
+					"allOf": [ {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"} ],
+					"items": {
+						"itemTypeReference": "#/definitions/fo_doelzin"
+					}
+				},
+				"fo_toelichting_id" : {
+					"allOf": [ {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"} ],
+					"items": {
+						"itemTypeReference": "#/definitions/fo_toelichting"
+					}
+				},
+				"fo_uitwerking_id" : {
+					"allOf": [ {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"} ],
+					"items": {
+						"itemTypeReference": "#/definitions/fo_uitwerking"
+					}
+				}
+			}
+		}
+	},
+	"required": ["fo_domein","fo_subdomein","fo_doelzin","fo_toelichting","fo_uitwerking"]
+}
