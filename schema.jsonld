@@ -1,0 +1,34 @@
+{
+	"@context": {
+		"fo": "http://opendata.slo.nl/curriculum/schemas/fo.jsonld",
+		"id": {
+			"@id": "@id"
+		},
+		"title": {
+			"@id": "http://purl.org/dc/terms/title",
+			"@type": "@id"
+		},
+		"description": {
+			"@id": "http://purl.org/dc/terms/description",
+			"@type": "@id"
+		},
+		"fo_domein": {
+			"@id": "fo:#fo_domein"
+		},
+		"fo_subdomein": {
+			"@id": "fo:#fo_subdomein"
+		},
+		"fo_doelzin": {
+			"@id": "fo:#fo_doelzin"
+		},
+		"fo_toelichting": {
+			"@id": "fo:#fo_toelichting"
+		},
+		"fo_uitwerking": {
+			"@id": "fo:#fo_uitwerking"
+		},
+		"deprecated": {
+			"@id": "fo:#Deprecated"
+		}
+	}
+}
