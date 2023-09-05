@@ -24,7 +24,7 @@
 					},
 					"required": ["id", "title", "vakleergebied_id", "fo_subdomein_id"]
 				}
-			],
+			]
 		},
 		"fo_subdomein": {
 			"allOf": [ 
@@ -41,7 +41,7 @@
 					},
 					"required": ["id", "title", "fo_doelzin_id"]
 				}
-			],
+			]
 		},
 		"fo_doelzin": {
 			"allOf": [ 
@@ -73,7 +73,7 @@
 					},
 					"required": ["id", "title", "fo_toelichting_id", "fo_uitwerking_id"]
 				}
-			],
+			]
 		},
 		"fo_uitwerking": {
 			"allOf": [ 
@@ -84,7 +84,7 @@
 					},
 					"required": ["id", "title"]
 				}
-			],
+			]
 		},
 		"fo_toelichting": {
 			"allOf": [ 
@@ -95,7 +95,7 @@
 					},
 					"required": ["id", "title"]
 				}
-			],
+			]
 		},
 		"allEntities" : {
 			"properties" : {
