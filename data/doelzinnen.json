@@ -779,5 +779,446 @@
 		],
 		"id": "561469ee-a769-4997-bc6e-e38335eaaf0a",
 		"unreleased": true
+	},
+	{
+		"title": "Concept - De leerling redeneert en rekent met getallen en grootheden.",
+		"description": "Beheersingsdoel",
+		"fo_uitwerking_id": [
+			"a6bb58e0-c392-4294-8ca3-7971832d970b",
+			"5bcd1d36-f984-41fd-a22a-e92694c1beb9",
+			"c37697f5-193a-4466-afee-cd788c6bbbd4",
+			"048f01f5-4e51-4011-ae3f-6beaa7be5513",
+			"265c5e16-e583-4812-989e-094bb16c4af3"
+		],
+		"fo_toelichting_id": [
+			"9bff7d78-088b-44bb-b76a-85149fcda7af",
+			"0f56cf3a-5af5-4350-9a08-3272441a7681",
+			"f406c4fd-666d-4b54-b2b1-c4c4ff11d339",
+			"f760955d-159e-4c42-b328-d18d14d5b4c6",
+			"774d75a7-3a7e-477d-8185-dab1faa0be88"
+		],
+		"prefix": "B1.1",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
+		],
+		"id": "f1c491e6-16f5-45c5-a28a-44654d660085",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - De leerling redeneert en rekent met getallen, grootheden, variabelen en algebraïsche uitdrukkingen.",
+		"description": "Beheersingsdoel",
+		"fo_uitwerking_id": [
+			"f0522392-3206-4b7c-bb28-815ee3b19433",
+			"8f9eb028-7ee6-4516-a524-2a7a4b9fd74a",
+			"fd055ad5-9a1c-4033-b4a3-e2c5dc9be851",
+			"fa10d4de-d2d9-42de-be32-5550f37e179f"
+		],
+		"fo_toelichting_id": [
+			"5257abaf-0184-4b17-857c-a88bfcb73a13",
+			"3f4f7c02-8999-4e29-8f45-901a20b3572e",
+			"87a6db9b-f591-4920-a1e1-2c16587d417f",
+			"65ef2c05-4f31-40da-9e57-6dc5713f8fed"
+		],
+		"prefix": "B1.2",
+		"niveau_id": [
+			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		],
+		"id": "bbd09b8c-1618-4c7c-baf9-34b206a6cf7f",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - De leerling analyseert en voert berekeningen uit in de twee- en driedimensionale ruimte.",
+		"description": "Beheersingsdoel",
+		"fo_uitwerking_id": [
+			"bc7136ea-97bd-4dd8-935e-353dee80e1d0",
+			"71001e4e-3dd8-412d-8f35-666fdfa32689",
+			"2af4a3e0-39e9-4552-bdeb-346e37fa7913",
+			"13959ad6-3bf8-42ab-ba36-2bce6c5516fa",
+			"d326847f-a000-4868-a221-cf898a746470"
+		],
+		"fo_toelichting_id": [
+			"06a0abbb-5f56-4b73-ae13-1fe86fd89f6c",
+			"77a5063b-8980-40a3-9e2a-6bc1f554949b",
+			"6146963a-6134-40eb-ad07-c7edad6de732",
+			"e56a6e5a-b858-42c8-acd2-63959027dcc7",
+			"37bba1e0-2c95-4634-ab6a-5fdddd4b83b9",
+			"4e4eb521-d839-4750-8297-6e7a7042f304",
+			"18ce0edf-383e-452e-b42f-e8961181cf29",
+			"06952d39-7751-417d-9408-bba85e1ed24c",
+			"c7705f86-08c9-4608-942a-ca04f56fe162",
+			"257a9ee6-9fee-4f8f-99df-5ee163598554"
+		],
+		"prefix": "B5.1",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
+		],
+		"id": "3089168f-c571-43d4-8ccc-4587fa3094d7",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - De leerling analyseert en redeneert over datasets.",
+		"description": "Beheersingsdoel",
+		"fo_uitwerking_id": [
+			"78b37ede-bf76-4cb4-a1de-e70078afaee4",
+			"d47d76e8-5820-42a9-a9ae-1d99896f3ff5",
+			"fa51bfed-1099-4312-83cf-49720282f46e",
+			"199bad75-67e3-443d-af42-6bbceb8ba6c8",
+			"db548812-0687-47ff-97c7-e5171b2cf39b",
+			"f5f947c0-dee3-462a-8b5e-e572291e36ea",
+			"70011aa3-0849-4edc-a264-2c4a973cdb04",
+			"18152397-5e39-49ca-9832-1bded8496a35",
+			"ee8fd311-6784-4f93-8af6-fa64debb983b"
+		],
+		"fo_toelichting_id": [
+			"a9628789-d24f-4b2c-8896-7aa0a070e37c",
+			"b805e487-9be7-4991-b6ae-b76ecf1df932",
+			"64078609-201e-4b79-9f0f-280eb3ecc0f7",
+			"1cf14bd1-95b1-4c16-a057-424d9c28c0ef",
+			"1f17bacb-f61f-4116-ba41-72642fe570a9"
+		],
+		"prefix": "B6.1",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
+		],
+		"id": "9dbb4295-a30b-45fa-82da-a62ae1a09916",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - De leerling analyseert en redeneert over patronen en verbanden.",
+		"description": "Beheersingsdoel",
+		"fo_uitwerking_id": [
+			"3c7336f9-f881-4202-bf58-2c957cd83760",
+			"125d2c0b-ce33-4c6c-b79f-b8c9784f5bb0",
+			"b6de2467-2f59-437c-8bfb-8de369186a7b",
+			"5422462e-3662-4555-b12f-57fb52e82191",
+			"90f9961e-aea0-44db-8069-329c0f469c53",
+			"9d54e051-df4a-49c4-9a4c-8aeb77a520cc",
+			"9bfe24ba-2083-4d01-a8aa-d9b8b1dbf8d3",
+			"dc0813a5-19dc-4167-b221-7c21935a6bf2",
+			"5e081e14-a588-44c1-85fb-6bca031e0744",
+			"a96f92fd-7e15-4ded-9fab-4f5d1b4ca510"
+		],
+		"fo_toelichting_id": [
+			"92d8a2cf-27f1-4d35-862a-4120f2fdd4bf",
+			"d3b359ab-3633-4119-bdcd-71ff5ee7bfb7",
+			"79bf40c8-0eb2-4791-9421-633e973c54c3",
+			"18d5e2e5-a722-45e1-b07b-5e61ea30d73b",
+			"c3b374c7-afe5-4fac-990e-10e9db99abfe",
+			"d5124c8e-bbdc-4818-a0c6-071571ef5109"
+		],
+		"prefix": "B7.1",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
+		],
+		"id": "87ea652f-c267-46b9-b1d0-ffb27248abc0",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - De leerling gebruikt wiskndige vergelijkingen",
+		"description": "Beheersingsdoel",
+		"fo_uitwerking_id": [
+			"695f7ad9-e8cf-40de-baa4-5eb2f593cba1",
+			"2f43eaab-54c5-4bc0-8eef-783835cc444d",
+			"7c8a8255-274d-4f97-801b-4ff6d12af6b7",
+			"7f64a204-d578-43c1-9b25-7facc9025126",
+			"35c2c916-c6aa-4012-b6e6-2ac9903dc42c",
+			"993f978b-b56e-49b6-a923-b43b6ace620a",
+			"223a7204-4046-484d-8da4-f13d5419d0b2"
+		],
+		"fo_toelichting_id": [
+			"b0c71069-b334-4782-8155-d75d304b6d52",
+			"258a9a0c-972b-4c7c-aea9-dd6f9881cea4",
+			"46dc98a0-4f0f-4afa-9a3d-758e08129d6c",
+			"aff6a03b-3573-4650-bf0d-68442465fb40",
+			"bbeba9fb-0dc3-46c5-9851-7d97eb2042c1",
+			"0b00ce1d-32f8-4cc3-9bbf-981b08ef0e9c",
+			"ec28ae0b-8029-4e96-914f-391b3e97fd37"
+		],
+		"prefix": "B8.1",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
+		],
+		"id": "f3992bb7-8658-4ff1-9317-dccd8603d9cf",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - De leerling redeneert en rekent met kansen.",
+		"description": "Beheersingsdoel",
+		"fo_uitwerking_id": [
+			"0da9fe9e-7dec-4eb9-9726-4c8b88053828",
+			"fb54b77f-01b1-4437-81cb-ddad3286a31d",
+			"618c1668-d038-40bf-b31f-151fed33b2ca"
+		],
+		"fo_toelichting_id": [
+			"c0ab1844-4e13-49f1-9580-79393473440d",
+			"3031555a-89a1-4d93-82e6-24fdf7deba5f"
+		],
+		"prefix": "B9.1",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
+		],
+		"id": "33766238-41bd-46d5-8462-15075b1e330f",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - De leerling berekent kansen",
+		"description": "Beheersingsdoel",
+		"fo_uitwerking_id": [
+			"de63da87-7e93-423c-9163-9ea383fc3e97",
+			"91cadf11-b763-463b-ae74-b97413ea4bdc"
+		],
+		"fo_toelichting_id": [
+			"f51c32c1-d1cc-40c4-b866-4cb7d60edf12",
+			"dcf9591e-b56e-4b4f-9705-ed8e92976b24",
+			"31a26c67-e709-40dd-8bf2-eb3ed5dd154f"
+		],
+		"prefix": "B9.2",
+		"niveau_id": [
+			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		],
+		"id": "0ed7e779-7884-4848-9bec-89e51dfcf572",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - De leerling lost wiskundige problemen en toepassingsproblemen op.",
+		"description": "Beheersingsdoel",
+		"fo_uitwerking_id": [
+			"7aca5aec-9b08-4774-a4d7-be13fe50f102",
+			"d715d211-8888-4397-8b0f-fc79eabfea88",
+			"3a4b6a72-547b-434c-92a7-f83a80399b78",
+			"cdab04cc-1c2f-45ac-97af-5cf0ae2a397b",
+			"b914b06b-de21-4daf-8d6a-82abf80217ad"
+		],
+		"fo_toelichting_id": [
+			"3812aae4-0abb-4280-9a88-32d9c989ef4a",
+			"0c4271a0-b353-4323-960a-99799b11cf2c",
+			"797967bd-08e5-4e69-8fb8-09c449d4301a",
+			"6280ba58-2f46-4d97-a4a6-f0b9db9dab9b",
+			"5f08c372-198e-46e9-87ca-952b9d92e5e8"
+		],
+		"prefix": "C1.1",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
+		],
+		"id": "c9e39d4f-dc31-4931-b15a-f46a74eb17f1",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - De leerling maakt en gebruikt abstracte modeelen van situaties en problemen",
+		"description": "Beheersingsdoel",
+		"fo_uitwerking_id": [
+			"6eb2b203-8e9c-4bfe-adbf-748a52789ccc",
+			"3f28044a-3b09-4c20-9a06-53d843c7a7c7",
+			"ae84a9b6-49fa-43bf-9ae0-067a7f91c793",
+			"06a4ca9d-b50f-4df8-94ef-17ab41ccac19",
+			"c9c6ed82-a8bb-48a6-adea-9ed7c207771e",
+			"4f69a8c9-fa7d-4197-ac15-d3ce27c4bafb"
+		],
+		"fo_toelichting_id": [
+			"5a7b65bf-7a36-47fd-8628-d08b7811a91e",
+			"5f0bdbec-0f18-41fd-a4e7-d63d938b577e",
+			"c6cf42ed-9d56-49c5-99a9-c0980315afdd",
+			"4fc752f1-6f45-424b-a401-9b5fed27c852",
+			"4d303026-fa17-4813-89a1-0a0124c15a43",
+			"26e113b6-2d34-4504-b805-45d21a2c8bd7"
+		],
+		"prefix": "C2.1",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
+		],
+		"id": "0c42c5f9-5e3d-477b-a4e2-09b95c9d8133",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - De leerling toont de juistheid van een wiskundige bewering of redenering aan.",
+		"description": "Beheersingsdoel",
+		"fo_uitwerking_id": [
+			"65844a3e-743a-4ccf-97a4-a93d4a25d645",
+			"4d9b3f5c-2dbe-4f06-8209-a70b4e654949",
+			"70d2710a-a676-409a-86c6-ad454cf2b496",
+			"36dcb5d5-e982-41a3-b222-da34df6c3fbc",
+			"10990516-3e6f-45f0-a071-38e6c9c9bf6a",
+			"56e5f063-331a-425d-826e-7dda4c114862"
+		],
+		"fo_toelichting_id": [
+			"853c6dee-8c26-46a3-9668-c7a1fe7c084d",
+			"e9aeb603-cafb-4857-beb9-4d4983ee26c2",
+			"55107cd2-8d6a-48da-902a-ac5628f55691",
+			"2891ea3c-5e7b-43e7-95ae-113f1229b207",
+			"321dfaba-2b55-4c89-a59c-1498e328fcc8",
+			"e1551871-a8ec-4663-8f96-b48e2a5474d3"
+		],
+		"prefix": "C3.1",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
+		],
+		"id": "3f2a764a-3055-4128-80e1-763476691bdf",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - De leerling beschrijft en ontwerpt eenvoudige algoritmen.",
+		"description": "Beheersingsdoel",
+		"fo_uitwerking_id": [
+			"c1c3451b-0676-4d69-9bef-81507bb41b96",
+			"5a13d5b0-4b9b-4c37-aa1a-00844147e6b1",
+			"83125ca4-a12f-4961-b1c6-038bc7921368",
+			"e7353df5-4d06-4d28-a4cd-6ab56bc63627",
+			"7deb96b5-4549-407f-90f6-e02ca5793529",
+			"54e01707-8c44-42ea-887f-d60705618327"
+		],
+		"fo_toelichting_id": [
+			"e538f7ab-61bc-4716-8ad2-d03e455913ac",
+			"29424b55-7192-43ed-8fb8-77498cd5d1cc",
+			"a5122401-5884-4f73-87df-705bf84b6f1a",
+			"0015c7d9-aa7d-4970-9955-d93d34156892",
+			"75d01958-073b-4c04-a3fe-d286e2f80766",
+			"107403a6-775c-46ff-a60f-9669b3440c5c",
+			"1db4cf87-3f40-4953-b374-02efcc9e8976"
+		],
+		"prefix": "C4.1",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
+		],
+		"id": "0956691b-5ed5-4c1f-a952-58e16b07ad5d",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - De leerling gebruikt wiskundetaal en wiskundige representaties.",
+		"description": "Beheersingsdoel",
+		"fo_uitwerking_id": [
+			"3f6ac9fa-cf0e-4fdb-97b1-465f132b3afa",
+			"7f3fc213-d0ec-41a2-8fc0-03276d3acabe",
+			"ee3b2184-5262-40af-9881-04005e2c4b94",
+			"f5903977-a73c-411c-81a7-31e794f4b74a",
+			"16a24ff9-a8c3-4361-9e3a-f8d563ec0ed9"
+		],
+		"fo_toelichting_id": [
+			"2288bfb0-b318-4f79-935a-6d454f3c22e9",
+			"364a75cb-d5cf-4325-bc0a-8e157e422da8",
+			"8f1fab05-1158-4871-8910-eab7ed6f76d8",
+			"47bd17f9-f652-4d03-a3dd-3e613a3cfa78"
+		],
+		"prefix": "C5.1",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
+		],
+		"id": "62a0730b-8c50-43f7-a6cd-3342d0c0607f",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - De leerling gebruikt meetinstrumenten en andere wiskundige instrumenten.",
+		"description": "Beheersingsdoel",
+		"fo_uitwerking_id": [
+			"7e486f51-cc8c-4d15-be6a-febcb98c3aa8",
+			"edb0329b-4eb9-4803-bb57-6ce302ac5b8e",
+			"2e3cf114-b5df-418d-8ed5-7accfcbb3372",
+			"e6607881-af20-40a6-8cf6-6e18abe2f3b2",
+			"8398ccbf-c7e9-47ed-9aea-662bfee886c9"
+		],
+		"fo_toelichting_id": [
+			"b0841b1e-db67-457d-9286-92dabc18a89e",
+			"009e3f0e-d68e-4466-8a1b-6ba270df6746",
+			"0fe3ac92-26bf-4372-9707-cd73bcd5cbf6",
+			"f2269dfe-ddb6-497f-bbd3-b01da420ab25"
+		],
+		"prefix": "C6.1",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
+		],
+		"id": "ff4483c9-86da-4de8-8661-b4d4801ebbcf",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - De leerling herkent en gebruikt wiskunde in dagelijkse, maatschappelijke en beroepsmatige situaties.",
+		"description": "Beheersingsdoel",
+		"fo_uitwerking_id": [
+			"ca09d48a-49b5-4c92-83e9-52cf2db24d20",
+			"b5976ff0-6265-44f0-b24e-d70747796a61",
+			"12d2e3ac-173f-4ec2-a57e-dd254654c5df",
+			"55bcd96e-fc81-46fc-a4d1-96ba713ccb38",
+			"f08f1470-5275-4f5a-9dc1-a9e97ef21c0d",
+			"ea78d075-a07a-41a2-ac44-337dbffa09ff"
+		],
+		"fo_toelichting_id": [
+			"c4c084a3-7d43-4f0c-9f05-f963acdf85ba",
+			"c0d21016-4a0b-472d-805a-03511f0ecb2d",
+			"439959b6-7ba3-4e41-862b-df6ef200d3e8",
+			"1708328c-8944-46b1-9245-dc31bdda7284"
+		],
+		"prefix": "D1.1",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
+		],
+		"id": "347fe2cf-3c24-4502-8111-b811cd981675",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - De school ondersteunt het gebruik van wiskunde in andere leergebieden",
+		"description": "Aanbodsdoel",
+		"fo_uitwerking_id": [
+			"a78e38af-b531-4a04-a184-f3b570d31e2b",
+			"084d6fb9-fab1-4e7d-b1aa-22dbba0db987",
+			"0765e736-b37d-4012-b7f8-808417937e22",
+			"fe472165-8655-4770-b6b4-08d777f12e78",
+			"2db47992-145e-4457-a2be-07478ba8908c"
+		],
+		"fo_toelichting_id": [
+			"610dd232-a8fb-4634-a580-5a0219530436",
+			"194f90ba-6980-4acf-914d-6409b9e0f784",
+			"679ac6c5-8984-4bf2-a3e7-c74ca0157ae8",
+			"c3981e78-09ab-4ad8-a8c1-58a0adb72f07",
+			"f36d4c84-a2ec-4d3d-83c7-e086d7728601"
+		],
+		"prefix": "D2.1",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
+		],
+		"id": "24509a03-2564-48bc-80ff-5df287166046",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - De school biedt wiskundige concepten en wiskundige denk/werkwijzen in onderlinge samenhang aan",
+		"description": "Aanbodsdoel",
+		"fo_uitwerking_id": [
+			"4a6bce45-20c5-4639-a4a4-155db19686cc",
+			"70917d43-27c5-4c06-9a7d-6b64e6fcbcec",
+			"d439e7c8-0283-41da-82c8-06ff98d8e1f3",
+			"3902bf38-48bd-41ab-8a85-91f1f753e500",
+			"fbe28710-17ad-4996-af95-81b30ccd7f56"
+		],
+		"fo_toelichting_id": [
+			"23fe0fae-895f-4f94-975f-a6bc4a22412b",
+			"c4f0dd15-1997-496d-ac26-1bab6ef7a827",
+			"ef2d600e-6852-43f1-a529-00e6985460a8"
+		],
+		"prefix": "D3.1",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
+		],
+		"id": "9c5c8409-4d99-407e-a23c-18fd88d63de4",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - De school stimuleert een wiskundige attitude van leerlingen.",
+		"description": "Aanbodsdoel",
+		"fo_uitwerking_id": [
+			"925b27d1-7706-40ae-906b-93fa495d64e3",
+			"89775bfc-1ca1-4afc-8107-6604fe1c9fbc",
+			"3a649a72-9d33-45ea-9021-bf266906ef8c",
+			"32596138-3a08-4873-8522-d6fde8448b9d",
+			"c0515655-ce7e-474c-8fea-5d915793634c"
+		],
+		"fo_toelichting_id": [
+			"9ea08573-8792-4283-a8f0-37c3c12ec9be",
+			"cb7bbd90-2f8b-4c1a-9704-ff4b6d53c849",
+			"e7df11c3-841a-4393-b51d-efbd0cd1aac0",
+			"be110d51-ea5d-4549-bc37-a3d739e5b797"
+		],
+		"prefix": "A1.1",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
+		],
+		"id": "718ea081-6bc6-45d3-84dc-f8aabf7a13e6",
+		"unreleased": true
 	}
 ]
