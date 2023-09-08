@@ -1,2 +1,86 @@
 [
+	{
+		"title": "Taalvaardigheid",
+		"fo_doelzin_id": [
+			"75ee36f1-4e54-48fa-8e0e-09bca848fa15",
+			"907bc4e8-3eb8-482f-8fc0-93bc33e50f62",
+			"be096fc3-d3c5-4b21-82df-0601b31c0ca2",
+			"8152fce2-4971-4632-a6b2-6e76804dad49",
+			"64ccb673-e75c-4ef1-9274-311e7910bba4",
+			"af47a22d-dd64-4fcf-a147-7c830d53e5e8",
+			"254caadd-5870-4458-9a11-ef71a0c69ce0"
+		],
+		"prefix": "A1",
+		"id": "ec631940-2fa2-4104-8534-48c321938064",
+		"unreleased": true
+	},
+	{
+		"title": "Interactie",
+		"fo_doelzin_id": [
+			"2744a98d-e0af-4127-bf97-37b3ea359a02",
+			"5d349652-de45-4a35-8de6-b7ce54a461cc"
+		],
+		"prefix": "A2",
+		"id": "c06ef855-4173-4098-8093-faf2fc662a3d",
+		"unreleased": true
+	},
+	{
+		"title": "Taal als systeem",
+		"fo_doelzin_id": [
+			"21725a98-baa3-45c3-b8a5-ac3026ff35e2",
+			"886e4275-3b58-4b31-b639-b64934589013"
+		],
+		"prefix": "B1",
+		"id": "7d7429dc-a684-402b-9de2-70cbde32fe2e",
+		"unreleased": true
+	},
+	{
+		"title": "Taal en individu & maatschappij",
+		"fo_doelzin_id": [
+			"056fbb68-129a-454e-98d8-72eb67c0ba03",
+			"86df4812-465c-49af-83f6-1d3885326e47",
+			"d9344c6e-2b0d-4cb0-9055-6a990b9b16f0"
+		],
+		"prefix": "B2",
+		"id": "c4bc56e6-5bf7-4f82-8cb8-e87e4874d262",
+		"unreleased": true
+	},
+	{
+		"title": "Literatuur als systeem",
+		"fo_doelzin_id": [
+			"012306f2-bb1c-44ce-9548-16efc4ef8c3e",
+			"19ba7c42-1e92-4b9f-9c9f-32e894b19af2"
+		],
+		"prefix": "C1",
+		"id": "fcfd6fc2-8c96-4899-baa4-c891ed5cfc30",
+		"unreleased": true
+	},
+	{
+		"title": "Literatuur en individu & maatschappij",
+		"fo_doelzin_id": [
+			"0081d62f-1e75-4835-b586-12d01ce252b9",
+			"23003d19-a582-44d0-94ad-be0c2013e6be"
+		],
+		"prefix": "C2",
+		"id": "0c5615c5-79a0-4e1e-9514-37d37483c4d4",
+		"unreleased": true
+	},
+	{
+		"title": "Taal- en leesomgeving",
+		"fo_doelzin_id": [
+			"efff8a4b-cbd5-4775-aa8f-0d3f98733e6b"
+		],
+		"prefix": "O1",
+		"id": "aee67b40-36cb-47c1-938d-c6fc5e1fa969",
+		"unreleased": true
+	},
+	{
+		"title": "Taal in de andere leergebieden",
+		"fo_doelzin_id": [
+			"9f550d27-58cf-4252-8b6b-ff8246c8eca6"
+		],
+		"prefix": "O2",
+		"id": "016e67b5-b872-4aed-9f6d-692f74e8d147",
+		"unreleased": true
+	}
 ]
