@@ -640,5 +640,526 @@
 		"description": "Te denken valt aan",
 		"id": "0ba028ea-9393-407e-b97b-69f192cc8629",
 		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan gehele en decimale getallen, breuken en irrationale getallen.",
+		"description": "Te denken valt aan",
+		"prefix": "B1.1/a",
+		"id": "9bff7d78-088b-44bb-b76a-85149fcda7af",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan eigenschappen van en rekenen met negatieve getallen in concrete situaties.",
+		"description": "Te denken valt aan",
+		"prefix": "B1.1/b",
+		"id": "0f56cf3a-5af5-4350-9a08-3272441a7681",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan rekenen met de kalender en andere getallenstelsesl zoals binair.",
+		"description": "Te denken valt aan",
+		"prefix": "B1.1/c",
+		"id": "f406c4fd-666d-4b54-b2b1-c4c4ff11d339",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan enkelvoudige en samengestelde grootheden.",
+		"description": "Te denken valt aan",
+		"prefix": "B1.1/d",
+		"id": "f760955d-159e-4c42-b328-d18d14d5b4c6",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan rekenen met afstand, oppervlakte, inhoud en massa",
+		"description": "Te denken valt aan",
+		"prefix": "B1.1/e",
+		"id": "774d75a7-3a7e-477d-8185-dab1faa0be88",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan uitvoeren van bewerkingen met breuken met standaardprocedures.",
+		"description": "Te denken valt aan",
+		"prefix": "B1.2/a",
+		"id": "5257abaf-0184-4b17-857c-a88bfcb73a13",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan gebruiken van andere getallenstelsels zoals het Romeinse en Babylonische.",
+		"description": "Te denken valt aan",
+		"prefix": "B1.2/b",
+		"id": "3f4f7c02-8999-4e29-8f45-901a20b3572e",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan beredeneren dat negatieve getallen een uitbreiding vormen van de positieve getallen.",
+		"description": "Te denken valt aan",
+		"prefix": "B1.2/c",
+		"id": "87a6db9b-f591-4920-a1e1-2c16587d417f",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan noteren van een meetresultaat of de uitkomst van een berekening met een relevant aantal significante cijfers.",
+		"description": "Te denken valt aan",
+		"prefix": "B1.2/d",
+		"id": "65ef2c05-4f31-40da-9e57-6dc5713f8fed",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan lijnen, hoeken, symmetrie, figuren en gelijkvormigheid en coördinaten.",
+		"description": "Te denken valt aan",
+		"prefix": "B5…...",
+		"id": "06a0abbb-5f56-4b73-ae13-1fe86fd89f6c",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan representaties van driedimensionale figuren in de vorm van aanzichten, uitslagen, projecties en doorsneden.",
+		"description": "Te denken valt aan",
+		"prefix": "B5…...",
+		"id": "77a5063b-8980-40a3-9e2a-6bc1f554949b",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan aantonen van relaties tussen figuren, zoals een vierkant is een ruit, maar een ruit is niet altijd een vierkant, en een gelijkzijdige driehoek is een gelijkbenige driehoek, maar een gelijkbenige driehoek is niet altijd een gelijkzijdige driehoek.",
+		"description": "Te denken valt aan",
+		"prefix": "B5…...",
+		"id": "6146963a-6134-40eb-ad07-c7edad6de732",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan meetkundige figuren als parallellogram, trapezium, kegel en prisma.",
+		"description": "Te denken valt aan",
+		"prefix": "B5…...",
+		"id": "e56a6e5a-b858-42c8-acd2-63959027dcc7",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan de stelling van Pythagoras in het platte vlak",
+		"description": "Te denken valt aan",
+		"prefix": "B5…...",
+		"id": "37bba1e0-2c95-4634-ab6a-5fdddd4b83b9",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan bewijzen dat de som van de hoeken van een vijfhoek gelijk is aan 540o",
+		"description": "Te denken valt aan",
+		"prefix": "B5…...",
+		"id": "4e4eb521-d839-4750-8297-6e7a7042f304",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan loodlijn, deellijn, zwaartelijn en hoogtelijn.",
+		"description": "Te denken valt aan",
+		"prefix": "B5…...",
+		"id": "18ce0edf-383e-452e-b42f-e8961181cf29",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan redeneren met hoeken en hoekeigenschappen, en berekenen van hoeken met behulp van Z- en F-hoeken en de hoeksomeigenschap van veelhoeken.",
+		"description": "Te denken valt aan",
+		"prefix": "B5…...",
+		"id": "06952d39-7751-417d-9408-bba85e1ed24c",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan de stelling van Pythagoras in de ruimte.",
+		"description": "Te denken valt aan",
+		"prefix": "B5…...",
+		"id": "c7705f86-08c9-4608-942a-ca04f56fe162",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan in een rechthoekige driehoek een hoek berekenen aan de hand van twee zijden en een zijde berekenen aan de hand van een hoek en een zijde.",
+		"description": "Te denken valt aan",
+		"prefix": "B5…...",
+		"id": "257a9ee6-9fee-4f8f-99df-5ee163598554",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan frequentietabellen.",
+		"prefix": "B6…....",
+		"id": "a9628789-d24f-4b2c-8896-7aa0a070e37c",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan staaf-, cirkel-, beeld- en steelbladdiagrammen, lijngrafieken en infographics.",
+		"prefix": "B6…....",
+		"id": "b805e487-9be7-4991-b6ae-b76ecf1df932",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan gemiddelde, modus en mediaan.",
+		"prefix": "B6…....",
+		"id": "64078609-201e-4b79-9f0f-280eb3ecc0f7",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan uitleggen wat er gebeurt met centrummaten als alle getallen in een dataset op eenzelfde manier veranderen, bijvoorbeeld 1 groter worden.",
+		"prefix": "B6…....",
+		"id": "1cf14bd1-95b1-4c16-a057-424d9c28c0ef",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan histogram, boxplot en spreidingsdiagram.",
+		"prefix": "B6…....",
+		"id": "1f17bacb-f61f-4116-ba41-72642fe570a9",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan woordformules en formules waarin de variabelen met een letter zijn aangeduid.",
+		"prefix": "B7….",
+		"id": "92d8a2cf-27f1-4d35-862a-4120f2fdd4bf",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan beschrijven van toe- en afname in een tabel.",
+		"prefix": "B7….",
+		"id": "d3b359ab-3633-4119-bdcd-71ff5ee7bfb7",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan herkennen en beschrijven van lineaire, kwadratische, wortel- en periodieke verbanden.",
+		"prefix": "B7….",
+		"id": "79bf40c8-0eb2-4791-9421-633e973c54c3",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan verwoorden of beschrijven met een toenamediagram van het veranderingsgedrag van een functie.",
+		"prefix": "B7…..",
+		"id": "18d5e2e5-a722-45e1-b07b-5e61ea30d73b",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan herkennen van veelterm-, machts-, exponentiële en gebroken functies en het verband dat weergegeven wordt door middel van een formule van de vorm x = a.",
+		"prefix": "B7…..",
+		"id": "c3b374c7-afe5-4fac-990e-10e9db99abfe",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan relateren van verhoudingen aan evenredige functies.",
+		"prefix": "B7…..",
+		"id": "d5124c8e-bbdc-4818-a0c6-071571ef5109",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan oplossen van een vergelijking door middel van terugrekenen of inklemmen.",
+		"prefix": "B8….",
+		"id": "b0c71069-b334-4782-8155-d75d304b6d52",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan toepassen van de balansmethode om een lineaire vergelijking exact op te lossen.",
+		"prefix": "B8….",
+		"id": "258a9a0c-972b-4c7c-aea9-dd6f9881cea4",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan de oplossing van een vergelijking in verband brengen met een concrete situatie of met karakteristieke punten van grafieken, zoals het snijpunt met de assen en het snijpunt van twee grafieken.",
+		"prefix": "B8….",
+		"id": "46dc98a0-4f0f-4afa-9a3d-758e08129d6c",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan oplossen van kwadratische vergelijkingen door ontbinden in factoren, kwadraten afsplitsen en gebruiken van de ABC-formule.",
+		"prefix": "B8…..",
+		"id": "aff6a03b-3573-4650-bf0d-68442465fb40",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan oplossen van een stelsel lineaire vergelijkingen.",
+		"prefix": "B8…..",
+		"id": "bbeba9fb-0dc3-46c5-9851-7d97eb2042c1",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan toepassen van de balansmethode bij het oplossen van vergelijkingen.",
+		"prefix": "B8…..",
+		"id": "0b00ce1d-32f8-4cc3-9bbf-981b08ef0e9c",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan toepassen van inklemmen om de oplossing te benaderen van vergelijkingen die niet exact oplosbaar zijn.",
+		"prefix": "B8…..",
+		"id": "ec28ae0b-8029-4e96-914f-391b3e97fd37",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan kansen zoals bij situaties, spelen en spellen, en risico’s.",
+		"prefix": "B9….",
+		"id": "c0ab1844-4e13-49f1-9580-79393473440d",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan uitrekenen van een verwachtingswaarde, bijvoorbeeld: hoe vaak verwacht je vier ogen bij duizend keer gooien met een dobbelsteen.",
+		"prefix": "B9….",
+		"id": "3031555a-89a1-4d93-82e6-24fdf7deba5f",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan berekenen van kansen aan de hand van een boomdiagram.",
+		"prefix": "B9…...",
+		"id": "f51c32c1-d1cc-40c4-b866-4cb7d60edf12",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan permutaties en roosters.",
+		"prefix": "B9…...",
+		"id": "dcf9591e-b56e-4b4f-9705-ed8e92976b24",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan berekenen van een kans op twee onafhankelijke gebeurtenissen.",
+		"prefix": "B9…...",
+		"id": "31a26c67-e709-40dd-8bf2-eb3ed5dd154f",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan verhelderen van een probleem door relevante gegevens te selecteren.",
+		"id": "3812aae4-0abb-4280-9a88-32d9c989ef4a",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan gebruiken van getalreferenties en meetreferenties om ontbrekende gegevens in te schatten.",
+		"id": "0c4271a0-b353-4323-960a-99799b11cf2c",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan vooraf een inschatting geven van de oplossing.",
+		"id": "797967bd-08e5-4e69-8fb8-09c449d4301a",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan structureren van probleemsituaties met een schema of een abstract model.",
+		"id": "6280ba58-2f46-4d97-a4a6-f0b9db9dab9b",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan gebruiken van heuristieken zoals guess and check, vereenvoudigen van het probleem, terugredeneren en het opdelen van het probleem in deelproblemen.",
+		"id": "5f08c372-198e-46e9-87ca-952b9d92e5e8",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan gebruiken van een verhoudingstabel bij het oplossen van verhoudingsproblemen.",
+		"prefix": "C2.1.....",
+		"id": "5a7b65bf-7a36-47fd-8628-d08b7811a91e",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan gebruiken van een boomdiagram bij het redeneren met kansen.",
+		"id": "5f0bdbec-0f18-41fd-a4e7-d63d938b577e",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan uitlichten van de meetkundige essentie van een afbeelding door het weglaten van details.",
+		"id": "c6cf42ed-9d56-49c5-99a9-c0980315afdd",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan doorrekenen van een probleemsituatie met gebruik van een spreadsheetprogramma.",
+		"id": "4fc752f1-6f45-424b-a401-9b5fed27c852",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan met een grafiek laten zien hoe een verschijnsel zich in de tijd ontwikkelt.",
+		"id": "4d303026-fa17-4813-89a1-0a0124c15a43",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan een situatie weergeven met behulp van een vergelijking of een formule.",
+		"id": "26e113b6-2d34-4504-b805-45d21a2c8bd7",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan beweringen over getallen aantonen, bijvoorbeeld dat elk tweetal oneven getallen opgeteld een even getal oplevert.",
+		"prefix": "C3….",
+		"id": "853c6dee-8c26-46a3-9668-c7a1fe7c084d",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan beweringen over meetkundige figuren aantonen, bijvoorbeeld dat elke ruit ook een vlieger is.",
+		"id": "e9aeb603-cafb-4857-beb9-4d4983ee26c2",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan gebruiken van redeneerprincipes zoals als-dan-redeneringen.",
+		"id": "55107cd2-8d6a-48da-902a-ac5628f55691",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan voorbeelden en tegenvoorbeelden geven.",
+		"id": "2891ea3c-5e7b-43e7-95ae-113f1229b207",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan een wiskundige bewering aannemelijk maken met behulp van een model.",
+		"id": "321dfaba-2b55-4c89-a59c-1498e328fcc8",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan bewijzen van beweringen over meetkundige figuren, bijvoorbeeld dat de som van de hoeken van een driehoek altijd 180 graden is.",
+		"id": "e1551871-a8ec-4663-8f96-b48e2a5474d3",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan beschrijven van de werking van een algoritme in een stroomschema.",
+		"id": "e538f7ab-61bc-4716-8ad2-d03e455913ac",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan ontwerpen van een algoritme voor het tekenen van meetkundige figuren.",
+		"id": "29424b55-7192-43ed-8fb8-77498cd5d1cc",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan vaststellen of een algoritme kan worden toegepast in een bepaalde situatie.",
+		"id": "a5122401-5884-4f73-87df-705bf84b6f1a",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan herkennen dat algoritmen voorkomen in alledaagse situaties, zoals bij klantenkaarten en social media.",
+		"id": "0015c7d9-aa7d-4970-9955-d93d34156892",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan verbeteren van de efficiëntie van een algoritme voor deling van twee getallen.",
+		"id": "75d01958-073b-4c04-a3fe-d286e2f80766",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan beschrijven van een algoritme in de vorm van een stroomschema.",
+		"id": "107403a6-775c-46ff-a60f-9669b3440c5c",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan beschrijven van een formule als een algoritme.",
+		"id": "1db4cf87-3f40-4953-b374-02efcc9e8976",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan gebruiken van representaties als aanzichten, plattegronden, grafische representaties en formules.",
+		"id": "2288bfb0-b318-4f79-935a-6d454f3c22e9",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan weergeven van berekeningen en probleemaanpakken.",
+		"id": "364a75cb-d5cf-4325-bc0a-8e157e422da8",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan herkennen en interpreteren van representaties, zoals grafieken en diagrammen, ook als deze misleidend zijn.",
+		"id": "8f1fab05-1158-4871-8910-eab7ed6f76d8",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan relateren van representaties aan elkaar, zoals formules en grafieken.",
+		"id": "47bd17f9-f652-4d03-a3dd-3e613a3cfa78",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan kiezen en gebruiken van meet- en tekeninstrumenten zoals een geodriehoek en kompasroos.",
+		"id": "b0841b1e-db67-457d-9286-92dabc18a89e",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan verantwoord kiezen voor het gebruik van digitale instrumenten zoals een rekenmachine, routeplanner en stopwatch.",
+		"id": "009e3f0e-d68e-4466-8a1b-6ba270df6746",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan gebruiken van een spreadsheetprogramma of ander digitaal instrument om bij een dataset een diagram of grafiek te maken.",
+		"id": "0fe3ac92-26bf-4372-9707-cd73bcd5cbf6",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan gebruiken van een spreadsheetprogramma en een tekenprogramma",
+		"id": "f2269dfe-ddb6-497f-bbd3-b01da420ab25",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan interpreteren van situaties met behulp van wiskunde.",
+		"id": "c4c084a3-7d43-4f0c-9f05-f963acdf85ba",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan gebruiken van wiskunde om de juistheid van berichten in de media te beoordelen.",
+		"id": "c0d21016-4a0b-472d-805a-03511f0ecb2d",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan benoemen van onzichtbare wiskunde, bijvoorbeeld in digitale middelen en de media.",
+		"id": "439959b6-7ba3-4e41-862b-df6ef200d3e8",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan verschillen in de wereld verkennen met behulp van wiskunde, bijvoorbeeld verschillen in inkomen, bevolkingsdichtheid, klimaat.",
+		"id": "1708328c-8944-46b1-9245-dc31bdda7284",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan gebruiken van de wiskundige structuren in plattegronden en kaarten, zoals schaallijn, coördinaten en hoogtelijnen.",
+		"id": "610dd232-a8fb-4634-a580-5a0219530436",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan de wet van Ohm in formulevorm van U = I x R gebruiken bij het oplossen van een natuurkundig probleem.",
+		"id": "194f90ba-6980-4acf-914d-6409b9e0f784",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan benoemen van snelheid en prijs als samengestelde grootheden en hiermee berekeningen uitvoeren.",
+		"id": "679ac6c5-8984-4bf2-a3e7-c74ca0157ae8",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan berekeningen met procenten en andere wiskundige bewerkingen.",
+		"id": "c3981e78-09ab-4ad8-a8c1-58a0adb72f07",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan laten zien van patronen en structuren in kunst en creatieve uitingen.",
+		"id": "f36d4c84-a2ec-4d3d-83c7-e086d7728601",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan aanbieden van formele wiskundetaal als vervanging van informeel taalgebruik.",
+		"id": "23fe0fae-895f-4f94-975f-a6bc4a22412b",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan algoritmisch denken toepassen bij getallen en andere wiskundige concepten.",
+		"id": "c4f0dd15-1997-496d-ac26-1bab6ef7a827",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan een eigenschap van bewerkingen laten zien met meetkundige figuren, zoals de commutatieve eigenschap van vermenigvuldigen van twee getallen laten zien met een rechthoekmodel.",
+		"id": "ef2d600e-6852-43f1-a529-00e6985460a8",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan verbinden van vragen van leerlingen en actuele situaties aan wiskundige concepten en denk/werkwijzen.",
+		"description": "Te denken valt aan",
+		"prefix": "A1….",
+		"id": "9ea08573-8792-4283-a8f0-37c3c12ec9be",
+		"unreleased": true
+	},
+	{
+		"title": "Concept  - Te denken valt aan bespreken van ideeën en aanpakken van leerlingen.",
+		"description": "Te denken valt aan",
+		"prefix": "A1….",
+		"id": "cb7bbd90-2f8b-4c1a-9704-ff4b6d53c849",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan deelnemen aan uitdagende, landelijk georganiseerde activiteiten.",
+		"description": "Te denken valt aan",
+		"prefix": "A1….",
+		"id": "e7df11c3-841a-4393-b51d-efbd0cd1aac0",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan aandacht besteden aan de geschiedenis van wiskunde.",
+		"description": "Te denken valt aan",
+		"prefix": "A1….",
+		"id": "be110d51-ea5d-4549-bc37-a3d739e5b797",
+		"unreleased": true
 	}
 ]
