@@ -122,7 +122,8 @@
 	{
 		"title": "Vorm en ruimte",
 		"fo_doelzin_id": [
-			"3440792f-6cce-4f11-88d7-1c4ea5688665"
+			"3440792f-6cce-4f11-88d7-1c4ea5688665",
+			"3089168f-c571-43d4-8ccc-4587fa3094d7"
 		],
 		"prefix": "B5",
 		"id": "7ea9982f-a272-4041-890c-7f8f88b7b810",
@@ -131,7 +132,8 @@
 	{
 		"title": "Data",
 		"fo_doelzin_id": [
-			"56596b75-b0da-4d54-b5cb-2778b26a16a7"
+			"56596b75-b0da-4d54-b5cb-2778b26a16a7",
+			"9dbb4295-a30b-45fa-82da-a62ae1a09916"
 		],
 		"prefix": "B6",
 		"id": "26ab0c31-a706-4c6f-aa5a-324e1350de32",
@@ -140,7 +142,8 @@
 	{
 		"title": "Patronen en verbanden",
 		"fo_doelzin_id": [
-			"65649cd4-ad64-4187-942c-d82792c3d7d3"
+			"65649cd4-ad64-4187-942c-d82792c3d7d3",
+			"87ea652f-c267-46b9-b1d0-ffb27248abc0"
 		],
 		"prefix": "B7",
 		"id": "dc8d41c4-75aa-44d1-8294-f8483e20a0d8",
@@ -149,7 +152,8 @@
 	{
 		"title": "Wiskundig probleemoplossen",
 		"fo_doelzin_id": [
-			"3e321838-9e34-4db8-af4a-ca5f92e62049"
+			"3e321838-9e34-4db8-af4a-ca5f92e62049",
+			"c9e39d4f-dc31-4931-b15a-f46a74eb17f1"
 		],
 		"prefix": "C1",
 		"id": "1403209e-27f4-44e0-9165-e692e7c6b7b9",
@@ -158,31 +162,37 @@
 	{
 		"title": "Modelleren",
 		"fo_doelzin_id": [
-			"4e99fb88-c09c-4de7-b062-d2e1671a879b"
+			"4e99fb88-c09c-4de7-b062-d2e1671a879b",
+			"0c42c5f9-5e3d-477b-a4e2-09b95c9d8133"
 		],
 		"prefix": "C2",
 		"id": "cb62974e-f1f1-4b0d-94ad-ff59b39aeb2b",
 		"unreleased": true
 	},
 	{
-		"title": "Aantonen - dit fo_subdomein komt niet in het po",
+		"title": "Aantonen",
 		"prefix": "C3",
 		"id": "8e6acbe9-d7ac-40df-8b46-757bbf24f4a2",
-		"unreleased": true
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"3f2a764a-3055-4128-80e1-763476691bdf"
+		]
 	},
 	{
 		"title": "Algoritmisch denken",
 		"fo_doelzin_id": [
-			"b9fce428-e0b3-4524-832d-22dfb2a44af7"
+			"b9fce428-e0b3-4524-832d-22dfb2a44af7",
+			"0956691b-5ed5-4c1f-a952-58e16b07ad5d"
 		],
-		"prefix": "C4.11",
+		"prefix": "C4",
 		"id": "916f627b-027a-49db-812f-cac54f668b6b",
 		"unreleased": true
 	},
 	{
-		"title": "Gebruiken van wiskunde taal en wiskundige representaties",
+		"title": "Gebruiken van wiskundetaal en wiskundige representaties",
 		"fo_doelzin_id": [
-			"6cabfbd4-c370-47fb-9144-776e7bf4cd5f"
+			"6cabfbd4-c370-47fb-9144-776e7bf4cd5f",
+			"62a0730b-8c50-43f7-a6cd-3342d0c0607f"
 		],
 		"prefix": "C5",
 		"id": "306a635a-1fe8-4669-9c4a-0990589981e2",
@@ -200,7 +210,8 @@
 	{
 		"title": "Wiskunde in de realiteit",
 		"fo_doelzin_id": [
-			"bb06ac58-b4c5-4dd6-b75f-50941ffb2380"
+			"bb06ac58-b4c5-4dd6-b75f-50941ffb2380",
+			"347fe2cf-3c24-4502-8111-b811cd981675"
 		],
 		"prefix": "D1",
 		"id": "ab9ed902-977f-4446-bdba-1fc71aeb691f",
@@ -209,7 +220,8 @@
 	{
 		"title": "Wiskunde in andere leergebieden",
 		"fo_doelzin_id": [
-			"7c5743b8-2c72-4fbd-b308-a3eea257ce07"
+			"7c5743b8-2c72-4fbd-b308-a3eea257ce07",
+			"24509a03-2564-48bc-80ff-5df287166046"
 		],
 		"prefix": "D2",
 		"id": "95216c9d-0b03-4937-b4c5-d780d4e78a87",
@@ -218,7 +230,8 @@
 	{
 		"title": "Interne samenhang",
 		"fo_doelzin_id": [
-			"ec3fe6d1-5f47-425f-8075-df6b98c605b7"
+			"ec3fe6d1-5f47-425f-8075-df6b98c605b7",
+			"9c5c8409-4d99-407e-a23c-18fd88d63de4"
 		],
 		"prefix": "D3",
 		"id": "86c6d359-30b1-40b9-883d-5279704f6825",
@@ -227,10 +240,57 @@
 	{
 		"title": "Wiskundige attitude",
 		"fo_doelzin_id": [
-			"561469ee-a769-4997-bc6e-e38335eaaf0a"
+			"561469ee-a769-4997-bc6e-e38335eaaf0a",
+			"718ea081-6bc6-45d3-84dc-f8aabf7a13e6"
 		],
 		"prefix": "A1",
 		"id": "80728dbe-872f-4966-97dd-254c407a62a9",
+		"unreleased": true
+	},
+	{
+		"title": "Getallen en grootheden - bij PO Gehele en decimale getallen!",
+		"fo_doelzin_id": [
+			"f1c491e6-16f5-45c5-a28a-44654d660085"
+		],
+		"prefix": "B1",
+		"id": "1bf7f6c7-9f88-4d9a-97c6-2033f3f6f675",
+		"unreleased": true
+	},
+	{
+		"title": "Getallen en grootheden en Algebra",
+		"fo_doelzin_id": [
+			"bbd09b8c-1618-4c7c-baf9-34b206a6cf7f"
+		],
+		"prefix": "B1….",
+		"id": "14ff2946-023a-4d61-9fb1-1e132408da53",
+		"unreleased": true
+	},
+	{
+		"title": "Vergelijkingen",
+		"fo_doelzin_id": [
+			"f3992bb7-8658-4ff1-9317-dccd8603d9cf"
+		],
+		"prefix": "B8",
+		"id": "b081353d-0eaf-4264-b00b-3751e8af8379",
+		"unreleased": true
+	},
+	{
+		"title": "Kans",
+		"fo_doelzin_id": [
+			"33766238-41bd-46d5-8462-15075b1e330f",
+			"0ed7e779-7884-4848-9bec-89e51dfcf572"
+		],
+		"prefix": "B9",
+		"id": "ba3be884-54c3-465e-8dd7-34d6424398f5",
+		"unreleased": true
+	},
+	{
+		"title": "Gebruiken van wiskundige instrumenten",
+		"fo_doelzin_id": [
+			"ff4483c9-86da-4de8-8661-b4d4801ebbcf"
+		],
+		"prefix": "C6",
+		"id": "fef7f188-ebe3-4dc8-8545-de86b24de15b",
 		"unreleased": true
 	}
 ]
