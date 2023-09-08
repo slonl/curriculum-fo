@@ -82,5 +82,155 @@
 		"prefix": "O2",
 		"id": "016e67b5-b872-4aed-9f6d-692f74e8d147",
 		"unreleased": true
+	},
+	{
+		"title": "Gehele en decimale getallen",
+		"fo_doelzin_id": [
+			"a93af3e3-91f0-49ee-8e28-42fb57daf454"
+		],
+		"prefix": "B1",
+		"id": "d67aef82-df50-4694-8bf5-d598f440a2aa",
+		"unreleased": true
+	},
+	{
+		"title": "Breuken",
+		"fo_doelzin_id": [
+			"da74e273-b43e-40d5-8e74-74cd4758ca62"
+		],
+		"prefix": "B2",
+		"id": "ce8334e9-9f85-4150-a6d0-b979d74023b1",
+		"unreleased": true
+	},
+	{
+		"title": "Verhoudingen",
+		"fo_doelzin_id": [
+			"afd82083-0658-472a-a516-b278b569c30c"
+		],
+		"prefix": "B3",
+		"id": "865a753b-0cd6-41a4-a746-90c06109ef5b",
+		"unreleased": true
+	},
+	{
+		"title": "Grootheden en eenheden",
+		"fo_doelzin_id": [
+			"038bf3e2-c920-430b-8c0a-ccbf820b7c55"
+		],
+		"prefix": "B4",
+		"id": "1405dcb6-881d-4dcc-bb2c-2999911cbc46",
+		"unreleased": true
+	},
+	{
+		"title": "Vorm en ruimte",
+		"fo_doelzin_id": [
+			"3440792f-6cce-4f11-88d7-1c4ea5688665"
+		],
+		"prefix": "B5",
+		"id": "7ea9982f-a272-4041-890c-7f8f88b7b810",
+		"unreleased": true
+	},
+	{
+		"title": "Data",
+		"fo_doelzin_id": [
+			"56596b75-b0da-4d54-b5cb-2778b26a16a7"
+		],
+		"prefix": "B6",
+		"id": "26ab0c31-a706-4c6f-aa5a-324e1350de32",
+		"unreleased": true
+	},
+	{
+		"title": "Patronen en verbanden",
+		"fo_doelzin_id": [
+			"65649cd4-ad64-4187-942c-d82792c3d7d3"
+		],
+		"prefix": "B7",
+		"id": "dc8d41c4-75aa-44d1-8294-f8483e20a0d8",
+		"unreleased": true
+	},
+	{
+		"title": "Wiskundig probleemoplossen",
+		"fo_doelzin_id": [
+			"3e321838-9e34-4db8-af4a-ca5f92e62049"
+		],
+		"prefix": "C1",
+		"id": "1403209e-27f4-44e0-9165-e692e7c6b7b9",
+		"unreleased": true
+	},
+	{
+		"title": "Modelleren",
+		"fo_doelzin_id": [
+			"4e99fb88-c09c-4de7-b062-d2e1671a879b"
+		],
+		"prefix": "C2",
+		"id": "cb62974e-f1f1-4b0d-94ad-ff59b39aeb2b",
+		"unreleased": true
+	},
+	{
+		"title": "Aantonen - dit fo_subdomein komt niet in het po",
+		"prefix": "C3",
+		"id": "8e6acbe9-d7ac-40df-8b46-757bbf24f4a2",
+		"unreleased": true
+	},
+	{
+		"title": "Algoritmisch denken",
+		"fo_doelzin_id": [
+			"b9fce428-e0b3-4524-832d-22dfb2a44af7"
+		],
+		"prefix": "C4.11",
+		"id": "916f627b-027a-49db-812f-cac54f668b6b",
+		"unreleased": true
+	},
+	{
+		"title": "Gebruiken van wiskunde taal en wiskundige representaties",
+		"fo_doelzin_id": [
+			"6cabfbd4-c370-47fb-9144-776e7bf4cd5f"
+		],
+		"prefix": "C5",
+		"id": "306a635a-1fe8-4669-9c4a-0990589981e2",
+		"unreleased": true
+	},
+	{
+		"title": "Gebruiken van wiskundige instrumenten en hulpmiddelen",
+		"fo_doelzin_id": [
+			"b071f771-aae1-4438-9661-85d53ac885d8"
+		],
+		"prefix": "C6.13",
+		"id": "509b37e3-1c21-4566-9a1b-aca28fa78e3c",
+		"unreleased": true
+	},
+	{
+		"title": "Wiskunde in de realiteit",
+		"fo_doelzin_id": [
+			"bb06ac58-b4c5-4dd6-b75f-50941ffb2380"
+		],
+		"prefix": "D1",
+		"id": "ab9ed902-977f-4446-bdba-1fc71aeb691f",
+		"unreleased": true
+	},
+	{
+		"title": "Wiskunde in andere leergebieden",
+		"fo_doelzin_id": [
+			"7c5743b8-2c72-4fbd-b308-a3eea257ce07"
+		],
+		"prefix": "D2",
+		"id": "95216c9d-0b03-4937-b4c5-d780d4e78a87",
+		"unreleased": true
+	},
+	{
+		"title": "Interne samenhang",
+		"fo_doelzin_id": [
+			"ec3fe6d1-5f47-425f-8075-df6b98c605b7"
+		],
+		"prefix": "D3",
+		"id": "86c6d359-30b1-40b9-883d-5279704f6825",
+		"unreleased": true
+	},
+	{
+		"title": "Wiskundige attitude",
+		"fo_doelzin_id": [
+			"561469ee-a769-4997-bc6e-e38335eaaf0a"
+		],
+		"prefix": "A1",
+		"id": "80728dbe-872f-4966-97dd-254c407a62a9",
+		"unreleased": true
 	}
 ]
