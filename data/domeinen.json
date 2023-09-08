@@ -50,5 +50,66 @@
 		"prefix": "C",
 		"id": "5d0676d3-fbea-4ab9-8ce1-fb1b3a622236",
 		"unreleased": true
+	},
+	{
+		"title": "Wiskundige attitude",
+		"vakleergebied_id": [
+			"fdd97fff-f5e5-4b82-b937-9ab302666c50"
+		],
+		"fo_subdomein_id": [
+			"80728dbe-872f-4966-97dd-254c407a62a9"
+		],
+		"prefix": "A",
+		"id": "60d3f360-a7ba-421f-9f4b-c18a48bd4c13",
+		"unreleased": true
+	},
+	{
+		"title": "Wiskundige concepten",
+		"vakleergebied_id": [
+			"fdd97fff-f5e5-4b82-b937-9ab302666c50"
+		],
+		"fo_subdomein_id": [
+			"d67aef82-df50-4694-8bf5-d598f440a2aa",
+			"ce8334e9-9f85-4150-a6d0-b979d74023b1",
+			"865a753b-0cd6-41a4-a746-90c06109ef5b",
+			"1405dcb6-881d-4dcc-bb2c-2999911cbc46",
+			"7ea9982f-a272-4041-890c-7f8f88b7b810",
+			"26ab0c31-a706-4c6f-aa5a-324e1350de32",
+			"dc8d41c4-75aa-44d1-8294-f8483e20a0d8"
+		],
+		"prefix": "B",
+		"id": "f87d2b59-714b-4b94-9dfa-81e49632ad4e",
+		"unreleased": true
+	},
+	{
+		"title": "Wiskundige denk/werkwijze",
+		"vakleergebied_id": [
+			"fdd97fff-f5e5-4b82-b937-9ab302666c50"
+		],
+		"fo_subdomein_id": [
+			"1403209e-27f4-44e0-9165-e692e7c6b7b9",
+			"cb62974e-f1f1-4b0d-94ad-ff59b39aeb2b",
+			"8e6acbe9-d7ac-40df-8b46-757bbf24f4a2",
+			"916f627b-027a-49db-812f-cac54f668b6b",
+			"306a635a-1fe8-4669-9c4a-0990589981e2",
+			"509b37e3-1c21-4566-9a1b-aca28fa78e3c"
+		],
+		"prefix": "C",
+		"id": "7b38ff3a-19b8-4980-b282-5f27e9bf38c6",
+		"unreleased": true
+	},
+	{
+		"title": "Wiskunde en de wereld",
+		"vakleergebied_id": [
+			"fdd97fff-f5e5-4b82-b937-9ab302666c50"
+		],
+		"fo_subdomein_id": [
+			"ab9ed902-977f-4446-bdba-1fc71aeb691f",
+			"95216c9d-0b03-4937-b4c5-d780d4e78a87",
+			"86c6d359-30b1-40b9-883d-5279704f6825"
+		],
+		"prefix": "D",
+		"id": "499a6542-3e4b-4595-b9b6-543591e66ae1",
+		"unreleased": true
 	}
 ]
