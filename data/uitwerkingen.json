@@ -1,2 +1,445 @@
 [
+	{
+		"title": "Concept - Het gaat hierbij aandachtig kijken en luisteren naar of vloeiend lezen van  zakelijke en literaire teksten.",
+		"description": "Het gaat hierbij om",
+		"prefix": "A1.3a",
+		"id": "f0c720a2-4ebc-4ad1-a1a2-ccd6540e0aab",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om zowel inzetten als vergroten van kennis van de wereld, woordenschat, kennis over teksten en taal.",
+		"description": "Het gaat hierbij om",
+		"prefix": "A1.3b",
+		"id": "fe253d39-ebdc-4ea3-9b97-d38abfde8e31",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om herkennen van perspectieven, publiek, context en communicatief doel: informeren, amuseren, instrueren of overtuigen.",
+		"description": "Het gaat hierbij om",
+		"prefix": "A1.3c",
+		"id": "3b154955-79ae-4b49-9c6d-52c6de321177",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om bepalen van de aanpak en het flexibel toepassen van begripsverhogende strategieën.",
+		"description": "Het gaat hierbij om",
+		"prefix": "A1.3d",
+		"id": "1a4cbb9a-06d7-49a3-a6ed-8c71ae48978a",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om formuleren van gesproken, geschreven en multimediale teksten passend bij een bekend publiek, een herkenbare context en een communicatief doel: informeren, amuseren, instrueren of overtuigen.",
+		"id": "2b78f0d1-54d5-40eb-a666-074f248813bf",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om zowel inzetten als vergroten van kennis van de wereld, verteltechnieken, tekstkenmerken en -structuren, woordkeus, zinsbouw, taal- en schriftconventies, taalverzorging en tekstopmaak.",
+		"id": "b1d2ceb1-faba-48d6-abed-8a134eb9b92e",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om schrijven op letter-, schrift- en tekstniveau met een leesbaar handschrift en typschrift, en verstaanbaar spreken.",
+		"id": "0eb25223-8cfc-4789-987d-3d9c6d358eea",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om bepalen van de spreek- of schrijfaanpak.",
+		"id": "d152f3fb-1801-4b1e-8c5b-9227a55eef8a",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om reviseren van teksten aan de hand van feedback.",
+		"id": "aa693155-bd3b-4d8a-8204-3e847a307528",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om uitdrukking geven aan ideeën, gedachten, ervaringen, gevoelens en fantasieën.",
+		"id": "dc5ce356-167b-48bf-9f29-c533d07efdfc",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om experimenteren met klanken, woorden, zinnen, literaire genres, taalregels, taalconventies en visuele vormen.",
+		"id": "33328379-30ca-47b3-8300-1d04528e5d59",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om verkennen van verschillende creatieve manieren van spreken en schrijven.",
+		"id": "5f69a194-9fcd-4f57-a7d5-62fafd467020",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om openstaan voor talige creaties van anderen.",
+		"id": "bf7e6d7b-e093-4c18-a0b6-19a925e022b2",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om noteren en samenvatten van gelezen, bekeken of beluisterde informatie.",
+		"id": "e3e2761b-3a2c-4731-8ce9-50ff314d0d71",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om verwoorden, ordenen en structureren van gedachten, verworven inzichten en kennis in tekst of visuele vorm.",
+		"id": "fe5d4811-95d3-454f-81dd-faaa91082e30",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om uitbreiden van school- en vaktaal.",
+		"id": "1d63d69e-c6af-4138-9475-7411efc9882d",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om schrijven op letter-, schrift- en tekstniveau met een leesbaar handschrift en typschrift.",
+		"id": "3accb55d-9dd6-4cf9-9e46-564d2cd35720",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om inschatten van betrouwbaarheid op basis van duidelijk aanwezige kenmerken van de bron: maker, communicatief doel en actualiteit.",
+		"id": "74ce4ffc-ac56-4791-9622-42294c2091e8",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om toekennen van waarde aan de inhoud van de bron en onderscheiden van hoofd- en bijzaken, feiten en meningen.",
+		"id": "65920382-e074-477c-b67b-e9d01db9f22a",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om vergelijken van soorten aangereikte bronnen op basis van betrouwbaarheid en inhoud.",
+		"id": "ce4c708e-f89a-4451-a41a-47895bb745a6",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om verkennen van zoekmogelijkheden binnen verschillende aangereikte bronnen.",
+		"id": "35cf6093-1104-4b84-b3cb-4fbde96c336e",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om hanteren van een passende lees-, kijk- of luisteraanpak bij het zoeken naar informatie in aangreikte bronnen.",
+		"id": "ec57c2c0-eae7-42ba-93b7-0f664c4792e6",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om doelgericht selecteren en vergelijken van bruikbare informatie uit aangereikte bronnen.",
+		"id": "090e40a7-b4cd-4f0f-bc63-80431ca9cb93",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om structureren en parafraseren van informatie met vermelding van gebruikte bronnen.",
+		"id": "d931c227-1e3b-42be-bf2c-09c10c47044c",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om formuleren van een eenvoudige tekst op basis van geselecteerde informatie, afgestemd op doel, publiek en context.",
+		"id": "39c4e18e-15a9-4498-b43c-ab6b36bf87b1",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om verwoorden van gedachten en waarnemingen bij de uitvoering van een activiteit.",
+		"id": "298e7c43-93ac-4858-a9f7-21dfe76f8f2f",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om evalueren van het product van de taalactiviteit.",
+		"id": "6916568e-c98f-4567-93da-ffac5d0341c2",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om reflecteren op de gekozen aanpak en strategieën in relatie tot het proces en product.",
+		"id": "ffab7565-4737-4ae2-9a73-766743845784",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om geven, ontvangen en verwerken van feedback.",
+		"id": "9d6e573e-86c9-4798-bbe0-daa39ec39630",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om formuleren van leerdoelen en maken van keuzes voor toekomstige taalactiviteiten op basis van evaluatie en reflectie.",
+		"id": "23456259-c86c-4a94-880b-fdb9a3360749",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om afstemmen op communicatief doel: informeren, amuseren, instrueren of overtuigen, in een herkenbare context.",
+		"id": "dfa06936-ffdb-4155-8175-31968a48ba14",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om afstemmen op gesprekspartner: kennis en achtergrond.",
+		"id": "829c9624-6230-4605-b093-d43aca158f5f",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om afstemmen op context: talig repertoire, toon, intonatie, volume en non-verbale communicatie.",
+		"id": "8c700ee0-25b1-44ee-9f07-0f45bd9e2307",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om constructief laten verlopen van on- en offline gesprekken met behulp van schrift- en gespreksconventies.",
+		"id": "b0820f25-a6d1-4ca0-8d1c-927905ba050d",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om constructief laten verlopen van gesprekken met behulp van gespreksconventies.",
+		"id": "6dec8016-87ef-4f7d-92c6-4075a1be50f6",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om verwoorden van gedachten, inzichten en kennis over concepten, verschijnselen en aanpakken.",
+		"id": "e1522e1f-e240-41b2-8fca-836832a70e02",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om vragen om en antwoorden op verzoek om toelichting, verklaring of verificatie.",
+		"id": "8429c7ef-3ead-4399-be88-b48058c33236",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om analyseren van informatie en perspectieven.",
+		"id": "89ecfad3-ebad-40aa-93b2-a9ba391c7988",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om beargumenteren en samenvatten van standpunten, opgedane kennis, beslissingen of gekozen aanpak.",
+		"id": "e6229dbf-36fb-496e-8dad-e1c60c09e9f8",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om beschouwen van relaties tussen klankvormen en hun betekenis: letterklanken, intonatie, ritme.",
+		"id": "dd01cf1b-9b4c-4a06-9e11-cee207d630ad",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om beschouwen van relaties tussen woordvorming en hun betekenissen: lettergrepen, samenstellingen, afleidingen, verbuigingen, vervoegingen.",
+		"id": "e48bd1ee-b74e-4dba-a79f-c38cb8850802",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om beschouwen van woordvolgorde en eenvoudige zinsopbouw rondom een werkwoord, waarbij elk zinsdeel en elke woordsoort een stukje informatie toevoegt aan de zin.",
+		"id": "eee43006-7e31-47b0-8976-795b7d075d10",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om inzetten van taalkundige begrippen en taalbeschouwingsstrategieën: analyseren, vergelijken, ordenen, relateren, categoriseren.",
+		"id": "42ce9d99-4dd7-4555-80b1-244f7e4b2cd0",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om opmerken van effecten van keuzes in taalgebruik: woordgebruik, register, zins- en tekstopbouw en stijlmiddelen.",
+		"id": "a9f23877-a838-43ec-991c-74db6e9d7a39",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om toepassen van kennis over klankvorm, woordvorming en zinsbouw bij spelling.",
+		"id": "c2720bd9-dd08-4d99-b1e5-7377c3dc315c",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om toepassen van regels en procedures op woord-, zins- en tekstniveau: spelling, formulering, interpunctie, tekstconventies en tekstopmaak.",
+		"id": "9fcf71b1-318b-431a-a67e-4454b1deba2f",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om tonen van spellinggeweten en spellingbewustzijn.",
+		"id": "a3c40435-afac-47a1-afaf-f42b99b0e7b6",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om inzetten van hulpmiddelen en bronnen om regels en procedures correct toe te passen en teksten te redigeren.",
+		"id": "8be95d97-675c-4d2e-bc37-5979b4d17147",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om verkennen van het eigen talige repertoire in de volle breedte: talen en taalvariëteiten, gebaren, lichaamstaal.",
+		"id": "e0ee4584-c780-4502-8f6f-987b0c7fa173",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om experimenteren met het eigen talige repertoire om zich bewust te worden van het effect, in relatie tot publiek, doel en context.",
+		"id": "ba052f11-2c42-4632-ad76-d8c78d22c4ae",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om reflecteren op hoe je overkomt op anderen op basis van keuzes in je eigen talige repertoire.",
+		"id": "76bbbbab-14f9-4117-a980-ad5a8640ff6c",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om waarderen van het eigen talige repertoire.",
+		"id": "cbd29bcc-e90a-4f57-a4e1-7e731fe78023",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om beschouwen van de meest voorkomende taalvariëteiten van het Nederlands: school- en vaktaal, groeps- en streektalen.",
+		"id": "07465876-2721-4718-b452-01d1624abee6",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om verkennen van de contexten waarin verschillende talen en taalvariëteiten worden gebruikt.",
+		"id": "67d741e9-c548-4b64-92ad-28fea7789ae7",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om verkennen van oordelen over verschillende talen en taalvariëteiten.",
+		"id": "280babcc-990e-4d6f-a883-d127465e24fb",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om verkennen van overeenkomsten en verschillen tussen het Nederlands en andere talen en taalvariëteiten op klank-, woord- en zinsniveau.",
+		"id": "dfc4261d-435d-452a-8019-4be4c33c5400",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om herkennen van verschillen tussen taalgebruik van vroeger en nu in gesproken en geschreven teksten.",
+		"id": "5474c008-6a99-4d5c-ab66-78f1d8a42e08",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om onderscheiden van veranderingen in vorm, betekenis en gebruik.",
+		"id": "5a0e762e-a4f0-47f9-a917-3c7d82c93815",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om herkennen van nieuwe woorden en uitdrukkingen in het Nederlands onder invloed van media, digitalisering en andere talen.",
+		"id": "5d97db59-b393-4a0e-b6a1-8f242576fec6",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om beschrijven welk probleem of welke wens van een hoofdpersoon de motor van het verhaal is en hoe het verhaal zich ontwikkelt.",
+		"id": "77203dda-4845-4a17-8160-f34b6caf0b34",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om onderscheiden van soorten personages als hoofd- en bijfiguren, helpers en tegenspelers.",
+		"id": "f0a5de08-0300-4213-b391-c4e774b0888d",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om beschrijven van de vertelperspectieven.",
+		"id": "e0af3a37-cd5c-4696-a475-f63814e5ee2a",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om herkennen van technieken die een schrijver gebruikt om spanning op te bouwen.",
+		"id": "f7201132-0227-41a9-b9a4-af4903fa7f45",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om beschrijven waar, wanneer en onder welke omstandigheden een verhaal zich afspeelt.",
+		"id": "adc47cdb-0fed-43bf-8240-16c3ab540cda",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om verkennen van genres in poëzie-, proza- en dramateksten",
+		"id": "f7f7b9af-fed2-45a3-88a1-c1c07310df19",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om verkennen van de rol van beeldgebruik in diverse genres.",
+		"id": "fe99a2a4-a912-4e92-a633-d2c979e888e3",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om herkennen van figuurlijk taalgebruik, stijlfiguren, beeldspraak, rijm, ritme en visuele elementen.",
+		"id": "c8d57718-adf2-4123-a36c-d92df6f2f3c9",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om verkennen van rijke en gevarieerde literatuur, van verschillende genres en schrijvers.",
+		"id": "f376c44b-c8ed-4543-b7d5-3691cf39113c",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om evalueren van persoonlijke lees-, luister- en kijkervaringen.",
+		"id": "8f7bd39a-7340-4b35-973a-372c8f83e030",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om verwoorden van persoonlijke voorkeuren en keuzes op basis van tekstgenres en -kenmerken, de eigen leesvaardigheid en interesse.",
+		"id": "364bfca7-4158-4bb6-b134-8c0852172671",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om aangaan van nieuwe leesuitdagingen binnen een vaste leesroutine en verbreden van de eigen leesvoorkeur.",
+		"id": "c97368b9-bcd9-4301-82bf-caa49b3615c7",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om lezen, luisteren en bekijken van rijke en gevarieerde literaire teksten in allerlei verschijningsvormen: mondeling, schriftelijk en multimediaal.",
+		"id": "0d7d9289-c236-406a-b62b-b77aa167a6d1",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om verwoorden van persoonlijke leeservaring en -beleving na het lezen van literatuur.",
+		"id": "220359f4-b6d3-46d7-b6dd-2eb4ac13b148",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om verwoorden van opgedane inzichten en kennis over zichzelf en andere mensen na het lezen van literatuur.",
+		"id": "bf3fc5d9-2650-4859-b653-38444a799832",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om verwoorden van opgedane inzichten en kennis over de wereld en culturen na het lezen van literatuur.",
+		"id": "163de4ac-8e87-4c63-ae2b-1f41c2657f9b",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om geven van een waardeoordeel over de tekst.",
+		"id": "74290fe8-aca3-448b-b192-7019037cb5e6",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om in aanraking laten komen met authentieke, vakoverstijgende, thematische contexten.",
+		"description": "Het gaat hierbij om",
+		"id": "f01cc0c6-cf6e-4aa1-8e29-ff23740c4dec",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om in aanraking laten komen met uitdagende teksten en een divers en actueel aanbod van literatuur binnen een vaste leesroutine.",
+		"description": "Het gaat hierbij om",
+		"id": "eea58305-daf4-4f64-997d-944ae8af8814",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om aanbieden van kennis en vaardigheden uit het leergebied Nederlands in onderlinge samenhang.",
+		"description": "Het gaat hierbij om",
+		"id": "379bde9c-f402-4be8-9f22-46ad8cc8c5c6",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om stimuleren van de leesmotivatie en de durf om te spreken en te schrijven.",
+		"description": "Het gaat hierbij om",
+		"id": "8a7dd92c-975f-4731-ab7e-1c5fa8c9882a",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om ruimte bieden aan verschillende talen en taalvariëteiten van leerlingen.",
+		"description": "Het gaat hierbij om",
+		"id": "40d26836-990f-439e-a5f8-6f0cff9a0a6c",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om gelegenheid bieden tot taalproductie in alle leergebieden: gesprekken voeren, schrijven en spreken.",
+		"id": "43029119-0cc0-4710-b8ff-72fbeaa5bbfa",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om gelegenheid bieden tot het lezen, bekijken en beluisteren van authentieke en uitdagende teksten die passen bij het leergebied.",
+		"id": "1a26db43-eeef-43a9-99d5-93de8177e236",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om aanbieden van activiteiten in betekenisvolle contexten waarin vakspecifieke taalvaardigheden en school- en vaktaal verworven kunnen worden.",
+		"id": "b57a7643-74bd-4a79-9572-fc516e3281f2",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om stimuleren van het inzetten van kennis over taal, teksten, tekststructuur en taalverzorging bij talige activiteiten in het leergebied.",
+		"id": "35d22154-7913-42dd-8e83-92b69f0eb713",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om aanbieden van een set van aanpakken en flexibel inzetbare strategieën bij het uitvoeren van taalactiviteiten.",
+		"id": "c4ea8dd0-2ec5-40e8-9ffb-72ac0e45c96a",
+		"unreleased": true
+	}
 ]
