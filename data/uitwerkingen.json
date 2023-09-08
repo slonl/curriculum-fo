@@ -809,5 +809,573 @@
 		"description": "Het gaat hierbij om",
 		"id": "561a832e-8783-4574-959a-aa6f8eb6df91",
 		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om wendbaar en met inzicht gebruiken van en rekenen met getallen en hun eigenschappen, en met grootheden en eenheden.",
+		"description": "Het gaat hierbij om",
+		"prefix": "B1.1a",
+		"id": "a6bb58e0-c392-4294-8ca3-7971832d970b",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om wendbaar en met inzicht gebruiken van en rekenen met verhoudingen.",
+		"description": "Het gaat hierbij om",
+		"prefix": "B1.1b",
+		"id": "5bcd1d36-f984-41fd-a22a-e92694c1beb9",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om de bewerkingen optellen, aftrekken, vermenigvuldigen, delen, machtsverheffen en worteltrekken.",
+		"description": "Het gaat hierbij om",
+		"prefix": "B1.1c",
+		"id": "c37697f5-193a-4466-afee-cd788c6bbbd4",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om relaties leggen tussen eenheden.",
+		"description": "Het gaat hierbij om",
+		"prefix": "B1.1d",
+		"id": "048f01f5-4e51-4011-ae3f-6beaa7be5513",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om bepalen van oppervlakte, omtrek en inhoud van meetkundige figuren.",
+		"description": "Het gaat hierbij om",
+		"prefix": "B1.1e",
+		"id": "265c5e16-e583-4812-989e-094bb16c4af3",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om rekenen met standaardprocedures en eigenschappen van bewerkingen.",
+		"description": "Het gaat hierbij om",
+		"prefix": "B1.2a",
+		"id": "f0522392-3206-4b7c-bb28-815ee3b19433",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om herleiden van algebraïsche uitdrukkingen.",
+		"description": "Het gaat hierbij om",
+		"prefix": "B1.2b",
+		"id": "8f9eb028-7ee6-4516-a524-2a7a4b9fd74a",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om gebruiken van de wetenschappelijke notatie van grote en kleine getallen.",
+		"description": "Het gaat hierbij om",
+		"prefix": "B1.2c",
+		"id": "fd055ad5-9a1c-4033-b4a3-e2c5dc9be851",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om meten van grootheden en daarbij bepalen van de meet(on)nauwkeurigheid en effecten daarvan bepalen.",
+		"description": "Het gaat hierbij om",
+		"prefix": "B1.2d",
+		"id": "fa10d4de-d2d9-42de-be32-5550f37e179f",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om redeneren met en over eigenschappen van meetkundige figuren en begrippen en deze eigenschappen gebruiken in berekeningen en constructies.",
+		"description": "Het gaat hierbij om",
+		"prefix": "B5.1a",
+		"id": "bc7136ea-97bd-4dd8-935e-353dee80e1d0",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om redeneren met kijklijnen",
+		"description": "Het gaat hierbij om",
+		"prefix": "B5.1b",
+		"id": "71001e4e-3dd8-412d-8f35-666fdfa32689",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om construeren en interpreteren van tweedimensionale representaties van driedimensionale figuren.",
+		"description": "Het gaat hierbij om",
+		"prefix": "B5.1c",
+		"id": "2af4a3e0-39e9-4552-bdeb-346e37fa7913",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om verschuiven, draaien, spiegelen, vergroten en verkleinen van figuren.",
+		"description": "Het gaat hierbij om",
+		"prefix": "B5.1d",
+		"id": "13959ad6-3bf8-42ab-ba36-2bce6c5516fa",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om berekenen van hoeken en afmetingen van rechthoekige driehoeken met behulp van goniometrische verhoudingen.",
+		"description": "Het gaat hierbij om",
+		"prefix": "B5.1a",
+		"id": "d326847f-a000-4868-a221-cf898a746470",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om opstellen van tabellen bij datasets.",
+		"prefix": "B6.1a",
+		"id": "78b37ede-bf76-4cb4-a1de-e70078afaee4",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om berekenen, interpreteren en gebruiken van centrummaten.",
+		"prefix": "B6.1b",
+		"id": "d47d76e8-5820-42a9-a9ae-1d99896f3ff5",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om maken van grafische representaties van datasets en daaruit conclusies trekken.",
+		"prefix": "B6.1c",
+		"id": "fa51bfed-1099-4312-83cf-49720282f46e",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om onderbouwd kiezen van passende representaties.",
+		"prefix": "B6.1d",
+		"id": "199bad75-67e3-443d-af42-6bbceb8ba6c8",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om interpreteren van grafische representaties en beredeneren of daarbij gepresenteerde conclusies wel, niet of deels kloppen.",
+		"prefix": "B6.1e",
+		"id": "db548812-0687-47ff-97c7-e5171b2cf39b",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om analyseren van univariate en bivariate datasets.",
+		"prefix": "B6.1a",
+		"id": "f5f947c0-dee3-462a-8b5e-e572291e36ea",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om berekenen, interpreteren en gebruiken van spreidingsbreedte en interkwartielafstand.",
+		"prefix": "B6.1b",
+		"id": "70011aa3-0849-4edc-a264-2c4a973cdb04",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om globaal vergelijken van twee datasets.",
+		"prefix": "B6.1c",
+		"id": "18152397-5e39-49ca-9832-1bded8496a35",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om onderscheiden van correlatie en causaliteit.",
+		"prefix": "B6.1d",
+		"id": "ee8fd311-6784-4f93-8af6-fa64debb983b",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om herkennen, beschrijven en voortzetten van een patroon in een rij getallen of figuren.",
+		"prefix": "B7.1a",
+		"id": "3c7336f9-f881-4202-bf58-2c957cd83760",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om identificeren van een patroon of een verband in een dataset.",
+		"prefix": "B7.1b",
+		"id": "125d2c0b-ce33-4c6c-b79f-b8c9784f5bb0",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om identificeren van grootheden die met elkaar in verband staan, en dat verband beschrijven.",
+		"prefix": "B7.1c",
+		"id": "b6de2467-2f59-437c-8bfb-8de369186a7b",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om weergeven van patronen en verbanden in een beschrijving, tabel, grafiek en formule, en deze weergaven in elkaar omzetten.",
+		"prefix": "B7.1d",
+		"id": "5422462e-3662-4555-b12f-57fb52e82191",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om herkennen en beschrijven van een standaardverband in verschillende representaties, en redeneren met standaardverbanden.",
+		"prefix": "B7.1e",
+		"id": "90f9961e-aea0-44db-8069-329c0f469c53",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om beschrijven van een patroon in een rij getallen met een formule.",
+		"prefix": "B7.1a",
+		"id": "9d54e051-df4a-49c4-9a4c-8aeb77a520cc",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om uitleggen wanneer een verband een functie is.",
+		"prefix": "B7.1a",
+		"id": "9bfe24ba-2083-4d01-a8aa-d9b8b1dbf8d3",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om beschrijven van het veranderingsgedrag van een functie.",
+		"prefix": "B7.1a",
+		"id": "dc0813a5-19dc-4167-b221-7c21935a6bf2",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om herkennen van een standaardverband in verschillende representaties.",
+		"prefix": "B7.1a",
+		"id": "5e081e14-a588-44c1-85fb-6bca031e0744",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om gebruiken van de eigenschappen van een standaardverband.",
+		"prefix": "B7.1a",
+		"id": "a96f92fd-7e15-4ded-9fab-4f5d1b4ca510",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om betekenis geven aan een wiskundige vergelijking.",
+		"prefix": "B8.1a",
+		"id": "695f7ad9-e8cf-40de-baa4-5eb2f593cba1",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om opstellen van een vergelijking om een situatie te modelleren.",
+		"prefix": "B8.1b",
+		"id": "2f43eaab-54c5-4bc0-8eef-783835cc444d",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om een gegeven vergelijking in verband brengen met een situatie en met andere gelijkwaardige vergelijkingen.",
+		"prefix": "B8.1c",
+		"id": "7c8a8255-274d-4f97-801b-4ff6d12af6b7",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om oplossen van vergelijkingen.",
+		"prefix": "B8.1d",
+		"id": "7f64a204-d578-43c1-9b25-7facc9025126",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om interpreteren van de gevonden oplossing.",
+		"prefix": "B8.1e",
+		"id": "35c2c916-c6aa-4012-b6e6-2ac9903dc42c",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om exact oplossen van kwadratische en machtsvergelijkingen.",
+		"prefix": "B8.1f",
+		"id": "993f978b-b56e-49b6-a923-b43b6ace620a",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om oplossen van ongelijkheden.",
+		"prefix": "B8.1g",
+		"id": "223a7204-4046-484d-8da4-f13d5419d0b2",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om een kans weergeven als breuk, verhouding, percentage en decimaal getal.",
+		"prefix": "B9.1a",
+		"id": "0da9fe9e-7dec-4eb9-9726-4c8b88053828",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om op basis van kansen inschatten hoe waarschijnlijk het is dat gebeurtenissen plaatsvinden.",
+		"prefix": "B9.1a",
+		"id": "fb54b77f-01b1-4437-81cb-ddad3286a31d",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om uitrekenen van verwachtingswaarden met behulp van kansen.",
+		"prefix": "B9.1a",
+		"id": "618c1668-d038-40bf-b31f-151fed33b2ca",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om interpreteren van empirische en theoretische kansen",
+		"prefix": "B9.2a",
+		"id": "de63da87-7e93-423c-9163-9ea383fc3e97",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om berekenen van kansen met behulp van kansregels en combinatoriek.",
+		"prefix": "B9.2b",
+		"id": "91cadf11-b763-463b-ae74-b97413ea4bdc",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om herkennen of een probleem met wiskunde kan worden opgelost.",
+		"prefix": "C1.1a",
+		"id": "7aca5aec-9b08-4774-a4d7-be13fe50f102",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om analyseren van een niet-routinematig oplosbaar probleem en bedenken en uitvoeren van een aanpak.",
+		"id": "d715d211-8888-4397-8b0f-fc79eabfea88",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om gebruiken van heuristieken.",
+		"id": "3a4b6a72-547b-434c-92a7-f83a80399b78",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om bewerken van de uitkomsten van berekeningen tot een oplossing van een probleem.",
+		"id": "cdab04cc-1c2f-45ac-97af-5cf0ae2a397b",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om reflecteren op aanpak, uitvoering en oplossing.",
+		"id": "b914b06b-de21-4daf-8d6a-82abf80217ad",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om weergeven van een situatie met gebruik van een digitaal instrument.",
+		"prefix": "C2.1a",
+		"id": "6eb2b203-8e9c-4bfe-adbf-748a52789ccc",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om selecteren van relevante details en weglaten van niet relevante details.",
+		"id": "3f28044a-3b09-4c20-9a06-53d843c7a7c7",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om kiezen van een geschikt model en evalueren van deze keuze.",
+		"id": "ae84a9b6-49fa-43bf-9ae0-067a7f91c793",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om gebruiken van een model om een rekenwijze te laten zien, een situatie te interpreteren of een probleem op te lossen.",
+		"id": "06a4ca9d-b50f-4df8-94ef-17ab41ccac19",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om gebruiken van een model om te redeneren over een situatie.",
+		"id": "c9c6ed82-a8bb-48a6-adea-9ed7c207771e",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om wiskundig modelleren van een situatie",
+		"prefix": "C2.1a",
+		"id": "4f69a8c9-fa7d-4197-ac15-d3ce27c4bafb",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om uiten van een vermoeden of formuleren van een bewering.",
+		"prefix": "C3.1a",
+		"id": "65844a3e-743a-4ccf-97a4-a93d4a25d645",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om toepassen van logische redeneerprincipes en daarmee conclusies trekken.",
+		"id": "4d9b3f5c-2dbe-4f06-8209-a70b4e654949",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om gebruiken van wiskundetaal en wiskundige representaties bij het formuleren en onderbouwen van een redenering.",
+		"id": "70d2710a-a676-409a-86c6-ad454cf2b496",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om kritisch beschouwen van een redenering van iemand anders.",
+		"id": "36dcb5d5-e982-41a3-b222-da34df6c3fbc",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om wiskundig bewijzen van een bewering.",
+		"id": "10990516-3e6f-45f0-a071-38e6c9c9bf6a",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om verantwoorden van een redeneeraanpak in formele stappen",
+		"id": "56e5f063-331a-425d-826e-7dda4c114862",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om beschrijven en schematisch weergeven hoe een algoritme tot een vast resultaat leidt.",
+		"id": "c1c3451b-0676-4d69-9bef-81507bb41b96",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om beoordelen van het resultaat van een doorlopen algoritme.",
+		"id": "5a13d5b0-4b9b-4c37-aa1a-00844147e6b1",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om ontwerpen van een algoritme voor de aanpak van een probleem.",
+		"id": "83125ca4-a12f-4961-b1c6-038bc7921368",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om benoemen van mogelijkheden en beperkingen in de bruikbaarheid van algoritmen.",
+		"id": "e7353df5-4d06-4d28-a4cd-6ab56bc63627",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om verbeteren van de efficiëntie van een algoritme door een aanpassing te bedenken.",
+		"id": "7deb96b5-4549-407f-90f6-e02ca5793529",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om schematisch beschrijven van een algoritme met een formele beschrijvingstechniek.",
+		"id": "54e01707-8c44-42ea-887f-d60705618327",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om gebruiken van wiskundige symbolen en begrippen.",
+		"id": "3f6ac9fa-cf0e-4fdb-97b1-465f132b3afa",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om kiezen en bedenken van representaties om berekeningen en wiskundige redeneringen weer te geven.",
+		"id": "7f3fc213-d0ec-41a2-8fc0-03276d3acabe",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om kritisch beschouwen van een representatie.",
+		"id": "ee3b2184-5262-40af-9881-04005e2c4b94",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om relaties leggen tussen verschillende representaties van een wiskundig concept.",
+		"id": "f5903977-a73c-411c-81a7-31e794f4b74a",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om uitwisselen van wiskundige ideeën en gedachten.",
+		"id": "16a24ff9-a8c3-4361-9e3a-f8d563ec0ed9",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om kiezen voor gebruik van een instrument op basis van de mogelijkheden, beperkingen en meetnauwkeurigheid.",
+		"id": "7e486f51-cc8c-4d15-be6a-febcb98c3aa8",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om vooraf schatten van een meetresultaat of een uitkomst.",
+		"id": "edb0329b-4eb9-4803-bb57-6ce302ac5b8e",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om hanteren van een instrument en de bijbehorende wiskundetaal.",
+		"id": "2e3cf114-b5df-418d-8ed5-7accfcbb3372",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om interpreteren en beoordelen van het resultaat.",
+		"id": "e6607881-af20-40a6-8cf6-6e18abe2f3b2",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om uitvoeren van berekeningen met een digitaal instrument, en aangeven van de mate van nauwkeurigheid van de uitkomst.",
+		"id": "8398ccbf-c7e9-47ed-9aea-662bfee886c9",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om gebruiken van getallen en andere wiskundige concepten in concrete, voor de leerling relevante dagelijkse en beroepsmatige situaties.",
+		"id": "ca09d48a-49b5-4c92-83e9-52cf2db24d20",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om inzetten van wiskundige instrumenten voor gebruik bij meten en andere praktische handelingen.",
+		"id": "b5976ff0-6265-44f0-b24e-d70747796a61",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om wiskunde gebruiken bij het nemen van beslissingen.",
+		"id": "12d2e3ac-173f-4ec2-a57e-dd254654c5df",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om herkennen dat met grafische representaties een bepaalde boodschap wordt overgebracht of benadrukt.",
+		"id": "55bcd96e-fc81-46fc-a4d1-96ba713ccb38",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om gebruiken en beoordelen van wiskundige informatie uit de samenleving, de media en een beroepscontext bij het vormen van een mening.",
+		"id": "f08f1470-5275-4f5a-9dc1-a9e97ef21c0d",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om herkennen hoe wiskunde in allerlei beroepen op uiteenlopende manieren een rol speelt.",
+		"id": "ea78d075-a07a-41a2-ac44-337dbffa09ff",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om laten zien hoe andere leergebieden wiskundetaal en wiskundige representaties toepassen.",
+		"id": "a78e38af-b531-4a04-a184-f3b570d31e2b",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om laten zien hoe getallen en andere wiskundige concepten in andere leergebieden voorkomen.",
+		"id": "084d6fb9-fab1-4e7d-b1aa-22dbba0db987",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om afstemmen hoe rekenwijzen en andere wiskundige aanpakken bij verschillende leergebieden worden uitgevoerd.",
+		"id": "0765e736-b37d-4012-b7f8-808417937e22",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om gebruiken van wiskundige instrumenten in andere leergebieden.",
+		"id": "fe472165-8655-4770-b6b4-08d777f12e78",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om toepassen van modelgebruik en algoritmisch denken in andere leergebieden.",
+		"id": "2db47992-145e-4457-a2be-07478ba8908c",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om leerlingen aanmoedigen om wiskundetaal en wiskundige representaties te gebruiken die passen bij de verschillende wiskundige concepten.",
+		"id": "4a6bce45-20c5-4639-a4a4-155db19686cc",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om laten gebruiken van wiskundige instrumenten.",
+		"id": "70917d43-27c5-4c06-9a7d-6b64e6fcbcec",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om aanbieden van problemen met betrekking tot verschillende wiskundige concepten.",
+		"id": "d439e7c8-0283-41da-82c8-06ff98d8e1f3",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om gebruiken van modellen en algoritmisch denken bij verschillende wiskundige concepten.",
+		"id": "3902bf38-48bd-41ab-8a85-91f1f753e500",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om leerlingen vragen om beweringen over verschillende wiskundige concepten aan te tonen.",
+		"id": "fbe28710-17ad-4996-af95-81b30ccd7f56",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om laten zien van het nut en de kracht van wiskunde in uiteenlopende toepassingen.",
+		"description": "Het gaat hierbij om",
+		"prefix": "A1.1a",
+		"id": "925b27d1-7706-40ae-906b-93fa495d64e3",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om stimuleren om vragen te stellen bij concrete getalsmatige en wiskundige informatie.",
+		"description": "Het gaat hierbij om",
+		"prefix": "A1.1b",
+		"id": "89775bfc-1ca1-4afc-8107-6604fe1c9fbc",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om stimuleren van een onderzoekende en houding ten aanzien van getallen en andere wiskundige concepten.",
+		"description": "Het gaat hierbij om",
+		"prefix": "A1.1c",
+		"id": "3a649a72-9d33-45ea-9021-bf266906ef8c",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om laten reflecteren op eigen en andermans rekenwijze en overig wiskundig handelen.",
+		"description": "Het gaat hierbij om",
+		"prefix": "A1.1d",
+		"id": "32596138-3a08-4873-8522-d6fde8448b9d",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om inzicht bieden in hoe leerlingen wiskunde kunnen inzetten in de bovenbouw en het verdere leven.",
+		"description": "Het gaat hierbij om",
+		"prefix": "A1.1e",
+		"id": "c0515655-ce7e-474c-8fea-5d915793634c",
+		"unreleased": true
 	}
 ]
