@@ -1,6 +1,6 @@
 [
 	{
-		"title": "Concept - Het gaat hierbij aandachtig kijken en luisteren naar of vloeiend lezen van  zakelijke en literaire teksten.",
+		"title": "Concept - Het gaat hierbij om aandachtig kijken en luisteren naar of vloeiend lezen van zakelijke en literaire teksten.",
 		"description": "Het gaat hierbij om",
 		"prefix": "A1.3a",
 		"id": "f0c720a2-4ebc-4ad1-a1a2-ccd6540e0aab",
@@ -21,9 +21,16 @@
 		"unreleased": true
 	},
 	{
-		"title": "Concept - Het gaat hierbij om bepalen van de aanpak en het flexibel toepassen van begripsverhogende strategieën.",
+		"title": "Concept - Het gaat hierbij om reageren op, evalueren van en reflecteren op de waarde en inhoud van teksten.",
 		"description": "Het gaat hierbij om",
 		"prefix": "A1.3d",
+		"id": "240ef636-538a-4ec9-94be-e115b1bd0a7a",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om bepalen van de aanpak en het flexibel toepassen van begripsverhogende strategieën.",
+		"description": "Het gaat hierbij om",
+		"prefix": "A1.3e",
 		"id": "1a4cbb9a-06d7-49a3-a6ed-8c71ae48978a",
 		"unreleased": true
 	},
@@ -73,8 +80,13 @@
 		"unreleased": true
 	},
 	{
-		"title": "Concept - Het gaat hierbij om noteren en samenvatten van gelezen, bekeken of beluisterde informatie.",
+		"title": "Concept - Het gaat hierbij om noteren van gelezen, bekeken of beluisterde informatie.",
 		"id": "e3e2761b-3a2c-4731-8ce9-50ff314d0d71",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om samenvatten van gelezen informatie.",
+		"id": "e102de42-dba3-4e38-a051-fc9d504d527d",
 		"unreleased": true
 	},
 	{
@@ -1358,7 +1370,7 @@
 		"unreleased": true
 	},
 	{
-		"title": "Concept - Het gaat hierbij om stimuleren van een onderzoekende en houding ten aanzien van getallen en andere wiskundige concepten.",
+		"title": "Concept - Het gaat hierbij om stimuleren van een onderzoekende en kritische houding ten aanzien van getallen en andere wiskundige concepten.",
 		"description": "Het gaat hierbij om",
 		"prefix": "A1.1c",
 		"id": "3a649a72-9d33-45ea-9021-bf266906ef8c",
@@ -1379,7 +1391,7 @@
 		"unreleased": true
 	},
 	{
-		"title": "Concept - Het gaat hierbij om aandachtig kijken en luisteren naar of vloeiend lezen van  zakelijke en literaire teksten.",
+		"title": "Concept - Het gaat hierbij om aandachtig kijken en luisteren naar of vloeiend lezen van zakelijke en literaire teksten.",
 		"description": "Het gaat hierbij om",
 		"prefix": "A1.1a",
 		"id": "3fd71129-c7e8-4adc-8d70-971c7a9eab82",
@@ -1414,7 +1426,7 @@
 		"unreleased": true
 	},
 	{
-		"title": "Concept - Het gaat hierbij om formuleren van gesproken, geschreven en multimediale complexere teksten passend bij een divers publiek, context en communicatieve doel: informeren, amuseren, instrueren of overtuigen.",
+		"title": "Concept - Het gaat hierbij om formuleren van gesproken, geschreven en multimediale teksten die toenemen in complexiteit en abstractie met betrekken tot onderwerp en tekststructuur, passend bij een divers publiek, formelere contexten en verschillende communicatieve doelen: informeren, amuseren, instrueren of overtuigen.",
 		"id": "08ca123b-0f96-4369-95da-31f042b3715f",
 		"unreleased": true
 	},
@@ -1464,8 +1476,13 @@
 		"unreleased": true
 	},
 	{
-		"title": "Concept - Het gaat hierbij om noteren en samenvatten van gelezen, bekeken of beluisterde informatie.",
+		"title": "Concept - Het gaat hierbij om noteren van gelezen, bekeken of beluisterde informatie.",
 		"id": "dc7c00e1-41d7-4107-a0cf-37457ca228e0",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Het gaat hierbij om samenvatten van gelezen informatie.",
+		"id": "55c8700a-f5e5-492a-ad78-6ed7b5fb2563",
 		"unreleased": true
 	},
 	{

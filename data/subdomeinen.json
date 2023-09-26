@@ -95,7 +95,7 @@
 		"unreleased": true
 	},
 	{
-		"title": "Taal in andere leergebieden",
+		"title": "Taal in de leergebieden",
 		"fo_doelzin_id": [
 			"9f550d27-58cf-4252-8b6b-ff8246c8eca6",
 			"51cea2c3-4e4c-443f-8975-3f4501a51af3"
@@ -220,16 +220,7 @@
 		"unreleased": true
 	},
 	{
-		"title": "Gebruiken van wiskundige instrumenten en hulpmiddelen",
-		"fo_doelzin_id": [
-			"b071f771-aae1-4438-9661-85d53ac885d8"
-		],
-		"prefix": "C6.13",
-		"id": "509b37e3-1c21-4566-9a1b-aca28fa78e3c",
-		"unreleased": true
-	},
-	{
-		"title": "Wiskunde in de realiteit",
+		"title": "Wiskunde in de werkelijkheid",
 		"fo_doelzin_id": [
 			"bb06ac58-b4c5-4dd6-b75f-50941ffb2380",
 			"347fe2cf-3c24-4502-8111-b811cd981675"
@@ -269,7 +260,7 @@
 		"unreleased": true
 	},
 	{
-		"title": "Getallen en grootheden - bij PO Gehele en decimale getallen!",
+		"title": "Getallen en grootheden",
 		"fo_doelzin_id": [
 			"f1c491e6-16f5-45c5-a28a-44654d660085"
 		],
@@ -308,6 +299,7 @@
 	{
 		"title": "Gebruiken van wiskundige instrumenten",
 		"fo_doelzin_id": [
+			"b071f771-aae1-4438-9661-85d53ac885d8",
 			"ff4483c9-86da-4de8-8661-b4d4801ebbcf"
 		],
 		"prefix": "C6",

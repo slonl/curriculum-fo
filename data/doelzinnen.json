@@ -6,6 +6,7 @@
 			"f0c720a2-4ebc-4ad1-a1a2-ccd6540e0aab",
 			"fe253d39-ebdc-4ea3-9b97-d38abfde8e31",
 			"3b154955-79ae-4b49-9c6d-52c6de321177",
+			"240ef636-538a-4ec9-94be-e115b1bd0a7a",
 			"1a4cbb9a-06d7-49a3-a6ed-8c71ae48978a"
 		],
 		"fo_toelichting_id": [
@@ -68,6 +69,7 @@
 		"description": "Beheersingsdoel; Schrijven om te leren",
 		"fo_uitwerking_id": [
 			"e3e2761b-3a2c-4731-8ce9-50ff314d0d71",
+			"e102de42-dba3-4e38-a051-fc9d504d527d",
 			"fe5d4811-95d3-454f-81dd-faaa91082e30",
 			"1d63d69e-c6af-4138-9475-7411efc9882d",
 			"3accb55d-9dd6-4cf9-9e46-564d2cd35720"
@@ -914,7 +916,7 @@
 		"unreleased": true
 	},
 	{
-		"title": "Concept - De leerling gebruikt wiskndige vergelijkingen",
+		"title": "Concept - De leerling gebruikt wiskundige vergelijkingen",
 		"description": "Beheersingsdoel",
 		"fo_uitwerking_id": [
 			"695f7ad9-e8cf-40de-baa4-5eb2f593cba1",
@@ -1004,7 +1006,7 @@
 		"unreleased": true
 	},
 	{
-		"title": "Concept - De leerling maakt en gebruikt abstracte modeelen van situaties en problemen",
+		"title": "Concept - De leerling maakt en gebruikt abstracte modellen van situaties en problemen",
 		"description": "Beheersingsdoel",
 		"fo_uitwerking_id": [
 			"6eb2b203-8e9c-4bfe-adbf-748a52789ccc",
@@ -1299,6 +1301,7 @@
 		"description": "Beheersingsdoel, Schrijven om te leren",
 		"fo_uitwerking_id": [
 			"dc7c00e1-41d7-4107-a0cf-37457ca228e0",
+			"55c8700a-f5e5-492a-ad78-6ed7b5fb2563",
 			"b9e8e767-467d-47d4-b036-07f477e8421f",
 			"5348ac1f-fcbd-418e-b156-6bcc59a79445",
 			"34427b27-6904-4c61-a533-d1e981c92dfc"
