@@ -20,8 +20,7 @@
 			"35ae3aa0-5100-4e9a-9f8e-2d3281487d83"
 		],
 		"prefix": "A1",
-		"id": "ec631940-2fa2-4104-8534-48c321938064",
-		"unreleased": true
+		"id": "ec631940-2fa2-4104-8534-48c321938064"
 	},
 	{
 		"title": "Interactie",
@@ -30,8 +29,7 @@
 			"5d349652-de45-4a35-8de6-b7ce54a461cc"
 		],
 		"prefix": "A2",
-		"id": "c06ef855-4173-4098-8093-faf2fc662a3d",
-		"unreleased": true
+		"id": "c06ef855-4173-4098-8093-faf2fc662a3d"
 	},
 	{
 		"title": "Taal als systeem",
@@ -42,8 +40,7 @@
 			"0a247c35-3e9a-48b9-bebd-1ab6810c5b48"
 		],
 		"prefix": "B1",
-		"id": "7d7429dc-a684-402b-9de2-70cbde32fe2e",
-		"unreleased": true
+		"id": "7d7429dc-a684-402b-9de2-70cbde32fe2e"
 	},
 	{
 		"title": "Taal en individu & maatschappij",
@@ -56,8 +53,7 @@
 			"450eefee-b96e-4379-9646-9254bf482f9a"
 		],
 		"prefix": "B2",
-		"id": "c4bc56e6-5bf7-4f82-8cb8-e87e4874d262",
-		"unreleased": true
+		"id": "c4bc56e6-5bf7-4f82-8cb8-e87e4874d262"
 	},
 	{
 		"title": "Literatuur als systeem",
@@ -68,8 +64,7 @@
 			"ad8f866e-2374-4eb7-b3cc-e46b61efd94c"
 		],
 		"prefix": "C1",
-		"id": "fcfd6fc2-8c96-4899-baa4-c891ed5cfc30",
-		"unreleased": true
+		"id": "fcfd6fc2-8c96-4899-baa4-c891ed5cfc30"
 	},
 	{
 		"title": "Literatuur en individu & maatschappij",
@@ -81,8 +76,7 @@
 			"0a6cd39a-020f-4449-8a0c-b283f1d271ff"
 		],
 		"prefix": "C2",
-		"id": "0c5615c5-79a0-4e1e-9514-37d37483c4d4",
-		"unreleased": true
+		"id": "0c5615c5-79a0-4e1e-9514-37d37483c4d4"
 	},
 	{
 		"title": "Taal- en leesomgeving",
@@ -91,8 +85,7 @@
 			"ef048d52-0a42-4dd1-a529-ca059c3572bf"
 		],
 		"prefix": "O1",
-		"id": "aee67b40-36cb-47c1-938d-c6fc5e1fa969",
-		"unreleased": true
+		"id": "aee67b40-36cb-47c1-938d-c6fc5e1fa969"
 	},
 	{
 		"title": "Taal in de leergebieden",
@@ -101,8 +94,7 @@
 			"51cea2c3-4e4c-443f-8975-3f4501a51af3"
 		],
 		"prefix": "O2",
-		"id": "016e67b5-b872-4aed-9f6d-692f74e8d147",
-		"unreleased": true
+		"id": "016e67b5-b872-4aed-9f6d-692f74e8d147"
 	},
 	{
 		"title": "Gehele en decimale getallen",
@@ -110,8 +102,7 @@
 			"a93af3e3-91f0-49ee-8e28-42fb57daf454"
 		],
 		"prefix": "B1",
-		"id": "d67aef82-df50-4694-8bf5-d598f440a2aa",
-		"unreleased": true
+		"id": "d67aef82-df50-4694-8bf5-d598f440a2aa"
 	},
 	{
 		"title": "Breuken",
@@ -119,8 +110,7 @@
 			"da74e273-b43e-40d5-8e74-74cd4758ca62"
 		],
 		"prefix": "B2",
-		"id": "ce8334e9-9f85-4150-a6d0-b979d74023b1",
-		"unreleased": true
+		"id": "ce8334e9-9f85-4150-a6d0-b979d74023b1"
 	},
 	{
 		"title": "Verhoudingen",
@@ -128,8 +118,7 @@
 			"afd82083-0658-472a-a516-b278b569c30c"
 		],
 		"prefix": "B3",
-		"id": "865a753b-0cd6-41a4-a746-90c06109ef5b",
-		"unreleased": true
+		"id": "865a753b-0cd6-41a4-a746-90c06109ef5b"
 	},
 	{
 		"title": "Grootheden en eenheden",
@@ -137,8 +126,7 @@
 			"038bf3e2-c920-430b-8c0a-ccbf820b7c55"
 		],
 		"prefix": "B4",
-		"id": "1405dcb6-881d-4dcc-bb2c-2999911cbc46",
-		"unreleased": true
+		"id": "1405dcb6-881d-4dcc-bb2c-2999911cbc46"
 	},
 	{
 		"title": "Vorm en ruimte",
@@ -147,8 +135,7 @@
 			"3089168f-c571-43d4-8ccc-4587fa3094d7"
 		],
 		"prefix": "B5",
-		"id": "7ea9982f-a272-4041-890c-7f8f88b7b810",
-		"unreleased": true
+		"id": "7ea9982f-a272-4041-890c-7f8f88b7b810"
 	},
 	{
 		"title": "Data",
@@ -157,8 +144,7 @@
 			"9dbb4295-a30b-45fa-82da-a62ae1a09916"
 		],
 		"prefix": "B6",
-		"id": "26ab0c31-a706-4c6f-aa5a-324e1350de32",
-		"unreleased": true
+		"id": "26ab0c31-a706-4c6f-aa5a-324e1350de32"
 	},
 	{
 		"title": "Patronen en verbanden",
@@ -167,8 +153,7 @@
 			"87ea652f-c267-46b9-b1d0-ffb27248abc0"
 		],
 		"prefix": "B7",
-		"id": "dc8d41c4-75aa-44d1-8294-f8483e20a0d8",
-		"unreleased": true
+		"id": "dc8d41c4-75aa-44d1-8294-f8483e20a0d8"
 	},
 	{
 		"title": "Wiskundig probleemoplossen",
@@ -177,8 +162,7 @@
 			"c9e39d4f-dc31-4931-b15a-f46a74eb17f1"
 		],
 		"prefix": "C1",
-		"id": "1403209e-27f4-44e0-9165-e692e7c6b7b9",
-		"unreleased": true
+		"id": "1403209e-27f4-44e0-9165-e692e7c6b7b9"
 	},
 	{
 		"title": "Modelleren",
@@ -187,14 +171,12 @@
 			"0c42c5f9-5e3d-477b-a4e2-09b95c9d8133"
 		],
 		"prefix": "C2",
-		"id": "cb62974e-f1f1-4b0d-94ad-ff59b39aeb2b",
-		"unreleased": true
+		"id": "cb62974e-f1f1-4b0d-94ad-ff59b39aeb2b"
 	},
 	{
 		"title": "Aantonen",
 		"prefix": "C3",
 		"id": "8e6acbe9-d7ac-40df-8b46-757bbf24f4a2",
-		"unreleased": true,
 		"fo_doelzin_id": [
 			"3f2a764a-3055-4128-80e1-763476691bdf"
 		]
@@ -206,8 +188,7 @@
 			"0956691b-5ed5-4c1f-a952-58e16b07ad5d"
 		],
 		"prefix": "C4",
-		"id": "916f627b-027a-49db-812f-cac54f668b6b",
-		"unreleased": true
+		"id": "916f627b-027a-49db-812f-cac54f668b6b"
 	},
 	{
 		"title": "Gebruiken van wiskundetaal en wiskundige representaties",
@@ -216,8 +197,7 @@
 			"62a0730b-8c50-43f7-a6cd-3342d0c0607f"
 		],
 		"prefix": "C5",
-		"id": "306a635a-1fe8-4669-9c4a-0990589981e2",
-		"unreleased": true
+		"id": "306a635a-1fe8-4669-9c4a-0990589981e2"
 	},
 	{
 		"title": "Wiskunde in de werkelijkheid",
@@ -226,8 +206,7 @@
 			"347fe2cf-3c24-4502-8111-b811cd981675"
 		],
 		"prefix": "D1",
-		"id": "ab9ed902-977f-4446-bdba-1fc71aeb691f",
-		"unreleased": true
+		"id": "ab9ed902-977f-4446-bdba-1fc71aeb691f"
 	},
 	{
 		"title": "Wiskunde in andere leergebieden",
@@ -236,8 +215,7 @@
 			"24509a03-2564-48bc-80ff-5df287166046"
 		],
 		"prefix": "D2",
-		"id": "95216c9d-0b03-4937-b4c5-d780d4e78a87",
-		"unreleased": true
+		"id": "95216c9d-0b03-4937-b4c5-d780d4e78a87"
 	},
 	{
 		"title": "Interne samenhang",
@@ -246,8 +224,7 @@
 			"9c5c8409-4d99-407e-a23c-18fd88d63de4"
 		],
 		"prefix": "D3",
-		"id": "86c6d359-30b1-40b9-883d-5279704f6825",
-		"unreleased": true
+		"id": "86c6d359-30b1-40b9-883d-5279704f6825"
 	},
 	{
 		"title": "Wiskundige attitude",
@@ -256,8 +233,7 @@
 			"718ea081-6bc6-45d3-84dc-f8aabf7a13e6"
 		],
 		"prefix": "A1",
-		"id": "80728dbe-872f-4966-97dd-254c407a62a9",
-		"unreleased": true
+		"id": "80728dbe-872f-4966-97dd-254c407a62a9"
 	},
 	{
 		"title": "Getallen en grootheden",
@@ -265,8 +241,7 @@
 			"f1c491e6-16f5-45c5-a28a-44654d660085"
 		],
 		"prefix": "B1",
-		"id": "1bf7f6c7-9f88-4d9a-97c6-2033f3f6f675",
-		"unreleased": true
+		"id": "1bf7f6c7-9f88-4d9a-97c6-2033f3f6f675"
 	},
 	{
 		"title": "Getallen en grootheden en Algebra",
@@ -274,8 +249,7 @@
 			"bbd09b8c-1618-4c7c-baf9-34b206a6cf7f"
 		],
 		"prefix": "B1….",
-		"id": "14ff2946-023a-4d61-9fb1-1e132408da53",
-		"unreleased": true
+		"id": "14ff2946-023a-4d61-9fb1-1e132408da53"
 	},
 	{
 		"title": "Vergelijkingen",
@@ -283,8 +257,7 @@
 			"f3992bb7-8658-4ff1-9317-dccd8603d9cf"
 		],
 		"prefix": "B8",
-		"id": "b081353d-0eaf-4264-b00b-3751e8af8379",
-		"unreleased": true
+		"id": "b081353d-0eaf-4264-b00b-3751e8af8379"
 	},
 	{
 		"title": "Kans",
@@ -293,8 +266,7 @@
 			"0ed7e779-7884-4848-9bec-89e51dfcf572"
 		],
 		"prefix": "B9",
-		"id": "ba3be884-54c3-465e-8dd7-34d6424398f5",
-		"unreleased": true
+		"id": "ba3be884-54c3-465e-8dd7-34d6424398f5"
 	},
 	{
 		"title": "Gebruiken van wiskundige instrumenten",
@@ -303,7 +275,6 @@
 			"ff4483c9-86da-4de8-8661-b4d4801ebbcf"
 		],
 		"prefix": "C6",
-		"id": "fef7f188-ebe3-4dc8-8545-de86b24de15b",
-		"unreleased": true
+		"id": "fef7f188-ebe3-4dc8-8545-de86b24de15b"
 	}
 ]
