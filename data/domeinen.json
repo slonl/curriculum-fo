@@ -1,0 +1,111 @@
+[
+	{
+		"title": "Overstijgend",
+		"vakleergebied_id": [
+			"e41b8c50-d002-4a9f-be8b-9b5da0008656"
+		],
+		"fo_subdomein_id": [
+			"aee67b40-36cb-47c1-938d-c6fc5e1fa969",
+			"016e67b5-b872-4aed-9f6d-692f74e8d147"
+		],
+		"prefix": "O",
+		"id": "0d2e4fb8-cc61-427d-8ce7-ef6a2bf12e5e"
+	},
+	{
+		"title": "Communicatie",
+		"vakleergebied_id": [
+			"e41b8c50-d002-4a9f-be8b-9b5da0008656"
+		],
+		"fo_subdomein_id": [
+			"ec631940-2fa2-4104-8534-48c321938064",
+			"c06ef855-4173-4098-8093-faf2fc662a3d"
+		],
+		"prefix": "A",
+		"id": "eabb7766-d2b2-4e03-a296-234330510a63"
+	},
+	{
+		"title": "Taal",
+		"vakleergebied_id": [
+			"e41b8c50-d002-4a9f-be8b-9b5da0008656"
+		],
+		"fo_subdomein_id": [
+			"7d7429dc-a684-402b-9de2-70cbde32fe2e",
+			"c4bc56e6-5bf7-4f82-8cb8-e87e4874d262"
+		],
+		"prefix": "B",
+		"id": "6d328b4b-a3b9-4080-a92e-de84b802907b"
+	},
+	{
+		"title": "Literatuur",
+		"vakleergebied_id": [
+			"e41b8c50-d002-4a9f-be8b-9b5da0008656"
+		],
+		"fo_subdomein_id": [
+			"fcfd6fc2-8c96-4899-baa4-c891ed5cfc30",
+			"0c5615c5-79a0-4e1e-9514-37d37483c4d4"
+		],
+		"prefix": "C",
+		"id": "5d0676d3-fbea-4ab9-8ce1-fb1b3a622236"
+	},
+	{
+		"title": "Wiskundige attitude",
+		"vakleergebied_id": [
+			"fdd97fff-f5e5-4b82-b937-9ab302666c50"
+		],
+		"fo_subdomein_id": [
+			"80728dbe-872f-4966-97dd-254c407a62a9"
+		],
+		"prefix": "A",
+		"id": "60d3f360-a7ba-421f-9f4b-c18a48bd4c13"
+	},
+	{
+		"title": "Wiskundige concepten",
+		"vakleergebied_id": [
+			"fdd97fff-f5e5-4b82-b937-9ab302666c50"
+		],
+		"fo_subdomein_id": [
+			"14ff2946-023a-4d61-9fb1-1e132408da53",
+			"1bf7f6c7-9f88-4d9a-97c6-2033f3f6f675",
+			"d67aef82-df50-4694-8bf5-d598f440a2aa",
+			"ce8334e9-9f85-4150-a6d0-b979d74023b1",
+			"865a753b-0cd6-41a4-a746-90c06109ef5b",
+			"1405dcb6-881d-4dcc-bb2c-2999911cbc46",
+			"7ea9982f-a272-4041-890c-7f8f88b7b810",
+			"26ab0c31-a706-4c6f-aa5a-324e1350de32",
+			"dc8d41c4-75aa-44d1-8294-f8483e20a0d8",
+			"ba3be884-54c3-465e-8dd7-34d6424398f5",
+			"b081353d-0eaf-4264-b00b-3751e8af8379"
+		],
+		"prefix": "B",
+		"id": "f87d2b59-714b-4b94-9dfa-81e49632ad4e"
+	},
+	{
+		"title": "Wiskundige denk/werkwijze",
+		"vakleergebied_id": [
+			"fdd97fff-f5e5-4b82-b937-9ab302666c50"
+		],
+		"fo_subdomein_id": [
+			"1403209e-27f4-44e0-9165-e692e7c6b7b9",
+			"cb62974e-f1f1-4b0d-94ad-ff59b39aeb2b",
+			"8e6acbe9-d7ac-40df-8b46-757bbf24f4a2",
+			"916f627b-027a-49db-812f-cac54f668b6b",
+			"fef7f188-ebe3-4dc8-8545-de86b24de15b",
+			"306a635a-1fe8-4669-9c4a-0990589981e2"
+		],
+		"prefix": "C",
+		"id": "7b38ff3a-19b8-4980-b282-5f27e9bf38c6"
+	},
+	{
+		"title": "Wiskunde en de wereld",
+		"vakleergebied_id": [
+			"fdd97fff-f5e5-4b82-b937-9ab302666c50"
+		],
+		"fo_subdomein_id": [
+			"ab9ed902-977f-4446-bdba-1fc71aeb691f",
+			"95216c9d-0b03-4937-b4c5-d780d4e78a87",
+			"86c6d359-30b1-40b9-883d-5279704f6825"
+		],
+		"prefix": "D",
+		"id": "499a6542-3e4b-4595-b9b6-543591e66ae1"
+	}
+]
