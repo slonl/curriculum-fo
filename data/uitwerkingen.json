@@ -827,7 +827,7 @@
 		"description": "Het gaat hierbij om",
 		"prefix": "B1.1a",
 		"id": "a6bb58e0-c392-4294-8ca3-7971832d970b",
-		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om wendbaar en met inzicht gebruiken van en rekenen met verhoudingen.",
@@ -996,7 +996,7 @@
 		"title": "Concept - Het gaat hierbij om herkennen, beschrijven en voortzetten van een patroon in een rij getallen of figuren.",
 		"prefix": "B7.1a",
 		"id": "3c7336f9-f881-4202-bf58-2c957cd83760",
-		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om identificeren van een patroon of een verband in een dataset.",
@@ -1066,7 +1066,7 @@
 		"title": "Concept - Het gaat hierbij om betekenis geven aan een wiskundige vergelijking.",
 		"prefix": "B8.1a",
 		"id": "695f7ad9-e8cf-40de-baa4-5eb2f593cba1",
-		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om opstellen van een vergelijking om een situatie te modelleren.",
