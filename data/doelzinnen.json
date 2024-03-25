@@ -1407,5 +1407,188 @@
 		],
 		"prefix": "2.",
 		"id": "51cea2c3-4e4c-443f-8975-3f4501a51af3"
+	},
+	{
+		"title": "Concept - Kerndoel 1 - Digitale systemen",
+		"description": "Concept - De leerling zet digitale systemen functioneel in.",
+		"fo_uitwerking_id": [
+			"1ba7dca9-477a-4233-8d3c-0d649a60109a",
+			"e836dd41-f9c1-49ee-94e3-14486d49a27a",
+			"d70165b2-58ee-4109-b120-e5ae252e5e39",
+			"1d658fd2-3919-44cd-8970-b3ae0afdf40c"
+		],
+		"fo_toelichting_id": [
+			"9fcbd258-bf47-4a2f-baf7-e688072611b7",
+			"8d1f1b97-f658-4ed0-9e27-62eaa120fdb1",
+			"18a2213b-a25d-4c5d-8d61-a6d6ae112ebd",
+			"2775b544-b044-461d-a583-0e687193ff81",
+			"170712c0-d30b-469e-9f76-0ea4528ec547"
+		],
+		"prefix": "1",
+		"id": "200f5b2b-e948-4057-a67c-95636166a2c4",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Kerndoel 2 - Digitale media en informatie",
+		"description": "Concept - De leerling navigeert doelgericht in het digitale media- en informatielandschap voor het verwerven en verwerken van informatie.",
+		"fo_uitwerking_id": [
+			"1197b9bd-f5b2-45e2-b9aa-ddd5243437aa",
+			"0caf5d8b-8c1f-4fac-8d41-5248d0417cf4",
+			"2a77eec2-b41d-41ea-8180-c8539c405e1b",
+			"0c293e61-d77f-403d-90d3-66c52959350c",
+			"e0c88b72-7284-446e-9316-f7128f9e2092"
+		],
+		"fo_toelichting_id": [
+			"c033c44f-e955-4479-8353-94d32aed47e0",
+			"d19815c6-cfa1-4736-b34e-39d7cafb99ef",
+			"5dd9cdd4-1d51-47fb-8391-0f0f97c467ab",
+			"0490bbf0-e25c-4d73-af01-2a6568ca48a2",
+			"ae259a96-4a67-4c5c-91d1-1aadc33dd25a"
+		],
+		"prefix": "2",
+		"id": "05fbe26c-7723-42f3-ba84-ccea0a3288e4",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Kerndoel 3 - Veiligheid en privacy",
+		"description": "Concept - De leerling gaat veilig om met digitale systemen, data en de privacy van zichzelf en anderen.",
+		"fo_uitwerking_id": [
+			"a0315e7c-92e2-4a63-ab02-1c558d5b5c3a",
+			"a2aabe2b-25dc-4e21-adf2-762e7ad1cd52",
+			"6d1d69a0-c4eb-43f0-b260-b7ad85d48383",
+			"52809307-c4a0-4c67-a869-4e5dbdf6776b"
+		],
+		"fo_toelichting_id": [
+			"b2143107-8d93-4a07-aeed-e19d591656dc",
+			"3adad878-371d-4e3e-ad12-3efdf6f0cb25",
+			"4a5cc695-470a-4e23-8876-3f59b1453f5a",
+			"fe756426-61ee-4c24-b9bb-fcc855273182",
+			"67b7b129-49d2-4d04-a46b-55f554404b2b"
+		],
+		"prefix": "3",
+		"id": "601d04a5-a542-40ef-b1a9-c4d014bd36fe",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Kerndoel 4 - Data",
+		"description": "Concept - De leerling verkent het gebruik van data en dataverwerking.",
+		"fo_uitwerking_id": [
+			"ef24bb7a-f9be-426d-b2df-dd01d24f606a",
+			"b9361485-2f2b-427d-88c1-f901b72703a0",
+			"b65d5a7e-491d-4d60-8c16-17d15bb14958",
+			"efcbcac2-882e-465b-a7bb-cbf59823da22",
+			"9b130cc0-bf3a-4931-bc7c-19ffc587dd18"
+		],
+		"fo_toelichting_id": [
+			"480bb466-4c83-4963-b52e-b7eed7498801",
+			"3b9dae58-413b-4ec9-945b-2634ac9317a1",
+			"19550e7a-600a-46bc-b143-2b929936c017",
+			"e5ae26a3-ea84-4432-98d2-8b4ce3906085"
+		],
+		"prefix": "4",
+		"id": "86bf928b-f7d5-40e2-9188-880f9c841269",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Kerndoel 5 - Artifiële intelligentie (AI)",
+		"description": "Concept -  De leerling verkent hoe AI-systemen werken.",
+		"fo_uitwerking_id": [
+			"1cd24861-89a9-492e-b8a8-26a5e3fe9000",
+			"83d04e85-c4d7-4d2c-a4ea-0a8ba2d116c7",
+			"0e59444f-c750-4c2e-a6c2-26555759c273"
+		],
+		"fo_toelichting_id": [
+			"12e96f77-5a4d-4f9d-865f-899df7b8b4a9",
+			"d5eb8bc6-4243-456b-8624-61654261a21f",
+			"7a691eb3-dd08-410d-be5b-545eadfa78c8",
+			"2ae9ba2b-90e9-4be5-a605-5efade903af8",
+			"bad8adf1-ce63-45dd-af98-c09b8d4a694b"
+		],
+		"prefix": "5",
+		"id": "fdbb266f-ebe3-4a0e-b536-bf9d7be85358",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Kerndoel 6 - Creëren met digitale technologie",
+		"description": "Concept - De leerling gebruikt passende strategieën bij het creëren en gebruiken van verschillende typen digitale producten.",
+		"fo_uitwerking_id": [
+			"c13c3c3d-a299-47d0-9324-d38a9422060b",
+			"cae2ad58-1ade-4e20-a97c-dec80a49bd4a",
+			"169c45fb-963d-41d5-ad0f-1f321f556edb",
+			"e1500981-069b-451c-870c-25abc371b283",
+			"95ea3767-ff02-4205-b01e-17ac42d3d2bb",
+			"c0efccec-5879-4a30-a490-831200a80a35"
+		],
+		"fo_toelichting_id": [
+			"7a1674b8-07ce-4e64-bad6-38d0de3ff984",
+			"23caa120-a6aa-4927-97bb-6a2cf444b464",
+			"0c8c5391-5752-467b-a550-916fdda05e07",
+			"20adbfd4-aaed-453c-8559-ed2074a7f4e2"
+		],
+		"prefix": "6",
+		"id": "f09d4f54-b3ad-467b-a233-b3af05e550f9",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Kerndoel 7 - Programmeren",
+		"description": "Concept - De leerling programmeert een computerprogramma met behulp van computationele denkstrategieën.",
+		"fo_uitwerking_id": [
+			"8baa7b7c-e8f5-4f72-a355-a19d6284a3f2",
+			"6ddbbeec-6f98-47b5-92b9-98d335ad7071",
+			"d4ec25c6-d445-4111-b7b4-71e8cc5f6503",
+			"e5049157-cbcf-40d6-91ea-0517bf1b0bf3",
+			"90865fc8-1b18-43ac-b349-8c57a855f4f7"
+		],
+		"fo_toelichting_id": [
+			"86d5de97-dad1-4235-9a53-170dcffd1ec4",
+			"80349455-c8cc-4ad6-84e8-e5527c2d6fd9",
+			"5a7c3475-0c6e-49f4-8541-662c35f67c2d",
+			"b0696eed-ffc3-4ce5-8960-9d1cddeec62d",
+			"6047ec72-90ab-45fe-9c4e-bc0ea01320dc"
+		],
+		"prefix": "7",
+		"id": "3b4e22b1-4acb-4e44-8234-bf05adb70cde",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Kerndoel 8 - Digitale technologie, jezelf en de ander",
+		"description": "Concept - De leerling maakt weloverwogen keuzes bij het gebruik van digitale technologie en digitale media.",
+		"fo_uitwerking_id": [
+			"da37d3d6-8e32-4936-91f6-f2c57fe4c4c6",
+			"3f99ac9f-09a6-4396-bfe5-4dc6ef501632",
+			"8843e183-d0a0-4d4f-a377-f3c4d2ef681e",
+			"eee00e27-74a7-44eb-a5bd-a5c777114a55",
+			"960dd6ac-49d7-4ced-ad58-56857515785b"
+		],
+		"fo_toelichting_id": [
+			"cf2bbd03-a06c-41c1-b2f3-96639a13c96b",
+			"7475b1e7-f06b-40c9-b93f-dd046195cccd",
+			"4ea2f936-d0a2-4b7e-aff9-b5fd316da130",
+			"42793d64-c224-499f-9de4-ab211c547f75",
+			"9f903a1b-29ca-4017-8f7a-1934d87fd2e3"
+		],
+		"prefix": "8",
+		"id": "d4622bff-27a9-464a-8e4d-4f4c4bfd0ada",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Kerndoel 9 - Digitale technologie, de samenleving en de wereld",
+		"description": "Concept - De leerling verkent hoe digitale technologie, digitale media en de samenleving elkaar wederzijds beïnvloeden.",
+		"fo_uitwerking_id": [
+			"4f20b775-44a0-45ad-8e24-241c4f6074b7",
+			"63ffca3d-65f4-4313-bed3-7481f80d8c2c",
+			"38eba558-83bc-47bf-8ebd-c54ac6be3cdd",
+			"d5b8066a-e840-4f2f-a5e6-29232987e39a"
+		],
+		"fo_toelichting_id": [
+			"629f4d8c-01fc-4662-bbba-8ebdbbce5e73",
+			"5022a53e-cf93-46b0-b4d3-c9b97fc5aad1",
+			"ceddc0e4-8b00-46c6-a09b-dff8236bb9af",
+			"ed6bf430-a8ca-4b74-b747-7cdf90703230",
+			"21020af3-44d9-475a-9792-0bc4759c55ee"
+		],
+		"prefix": "9",
+		"id": "31034d4b-e90d-4768-9e17-3c12f77535e6",
+		"unreleased": true
 	}
 ]
