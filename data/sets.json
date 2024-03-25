@@ -26,5 +26,18 @@
 		],
 		"karakteristiek": "blabla",
 		"id": "38c59501-0446-407f-8b44-2f16e30a44fd"
+	},
+	{
+		"title": "Kerndoelen digitale geletterdheid",
+		"vakleergebied_id": [
+			"5542232a-dafd-49e8-a7fa-fa918605f3ba"
+		],
+		"fo_domein_id": [
+			"a6dbff19-0733-4552-a91d-00f9d66a4f18",
+			"9927cd79-3f0a-413c-8978-f8a3b1ce8705",
+			"c75e2e6b-9d38-4e4b-ad2c-cec7e891f09d"
+		],
+		"id": "186a1ede-e94d-4003-9d21-5e8b500fd591",
+		"unreleased": true
 	}
 ]

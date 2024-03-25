@@ -98,5 +98,38 @@
 		],
 		"prefix": "D",
 		"id": "499a6542-3e4b-4595-b9b6-543591e66ae1"
+	},
+	{
+		"title": "Praktische kennis & vaardigheden",
+		"fo_doelzin_id": [
+			"200f5b2b-e948-4057-a67c-95636166a2c4",
+			"05fbe26c-7723-42f3-ba84-ccea0a3288e4",
+			"601d04a5-a542-40ef-b1a9-c4d014bd36fe",
+			"86bf928b-f7d5-40e2-9188-880f9c841269",
+			"fdbb266f-ebe3-4a0e-b536-bf9d7be85358"
+		],
+		"prefix": "A",
+		"id": "a6dbff19-0733-4552-a91d-00f9d66a4f18",
+		"unreleased": true
+	},
+	{
+		"title": "Ontwerpen en maken",
+		"fo_doelzin_id": [
+			"f09d4f54-b3ad-467b-a233-b3af05e550f9",
+			"3b4e22b1-4acb-4e44-8234-bf05adb70cde"
+		],
+		"prefix": "B",
+		"id": "9927cd79-3f0a-413c-8978-f8a3b1ce8705",
+		"unreleased": true
+	},
+	{
+		"title": "Wisselwerking tussen digitale technologie, digitale media, de mens en de samenleving",
+		"fo_doelzin_id": [
+			"d4622bff-27a9-464a-8e4d-4f4c4bfd0ada",
+			"31034d4b-e90d-4768-9e17-3c12f77535e6"
+		],
+		"prefix": "C",
+		"id": "c75e2e6b-9d38-4e4b-ad2c-cec7e891f09d",
+		"unreleased": true
 	}
 ]
