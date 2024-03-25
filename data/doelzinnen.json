@@ -17,9 +17,6 @@
 			"601b7ecf-41cd-487f-94d5-11b47a515124"
 		],
 		"prefix": "A1.3",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725"
-		],
 		"id": "75ee36f1-4e54-48fa-8e0e-09bca848fa15"
 	},
 	{
@@ -37,9 +34,6 @@
 			"69d55e5e-e49c-4779-996c-130d7ce1e78d"
 		],
 		"prefix": "A1.4",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725"
-		],
 		"id": "907bc4e8-3eb8-482f-8fc0-93bc33e50f62"
 	},
 	{
@@ -56,9 +50,6 @@
 			"c972cfd8-c4b4-4bf8-b2b7-003a3578ee35"
 		],
 		"prefix": "A1.5",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725"
-		],
 		"id": "be096fc3-d3c5-4b21-82df-0601b31c0ca2"
 	},
 	{
@@ -76,9 +67,6 @@
 			"377fa0bf-ffbd-45cf-b593-b4b24ee92d33"
 		],
 		"prefix": "A1.6",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725"
-		],
 		"id": "8152fce2-4971-4632-a6b2-6e76804dad49"
 	},
 	{
@@ -95,9 +83,6 @@
 			"dedc07f9-0091-4e94-8bd1-1c4ac617aee7"
 		],
 		"prefix": "A1.7",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725"
-		],
 		"id": "64ccb673-e75c-4ef1-9274-311e7910bba4"
 	},
 	{
@@ -115,9 +100,6 @@
 			"c7c32b37-a18e-4830-884c-3657d53b94fe"
 		],
 		"prefix": "A1.8",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725"
-		],
 		"id": "af47a22d-dd64-4fcf-a147-7c830d53e5e8"
 	},
 	{
@@ -136,9 +118,6 @@
 			"147f64dc-fae8-4410-b52e-7dbc8a8d97c0"
 		],
 		"prefix": "A1.9",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725"
-		],
 		"id": "254caadd-5870-4458-9a11-ef71a0c69ce0"
 	},
 	{
@@ -157,9 +136,6 @@
 			"0992985d-6557-467a-b6b7-548412289a24"
 		],
 		"prefix": "A2.10",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725"
-		],
 		"id": "2744a98d-e0af-4127-bf97-37b3ea359a02"
 	},
 	{
@@ -179,9 +155,6 @@
 			"5ee14da2-c0b2-4233-ab38-314e050659c4"
 		],
 		"prefix": "A2.11",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725"
-		],
 		"id": "5d349652-de45-4a35-8de6-b7ce54a461cc"
 	},
 	{
@@ -200,9 +173,6 @@
 			"a53119ce-b7a9-4e76-8a47-db050b56c1b9"
 		],
 		"prefix": "B1.12",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725"
-		],
 		"id": "21725a98-baa3-45c3-b8a5-ac3026ff35e2"
 	},
 	{
@@ -219,9 +189,6 @@
 			"6954df7c-61e8-4b11-a858-7d7bd20c014d"
 		],
 		"prefix": "B1.13",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725"
-		],
 		"id": "886e4275-3b58-4b31-b639-b64934589013"
 	},
 	{
@@ -240,9 +207,6 @@
 			"159cdc9c-ffa1-45de-b65c-e34e5d0e6355"
 		],
 		"prefix": "B2.14",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725"
-		],
 		"id": "056fbb68-129a-454e-98d8-72eb67c0ba03"
 	},
 	{
@@ -259,9 +223,6 @@
 			"abcae150-eef1-4b4c-a33f-5d46cbc1924e"
 		],
 		"prefix": "B2.15",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725"
-		],
 		"id": "86df4812-465c-49af-83f6-1d3885326e47"
 	},
 	{
@@ -279,9 +240,6 @@
 			"1fcfc735-680c-4f8a-9937-8316294b26f7"
 		],
 		"prefix": "B2.16",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725"
-		],
 		"id": "d9344c6e-2b0d-4cb0-9055-6a990b9b16f0"
 	},
 	{
@@ -301,9 +259,6 @@
 			"6f9bd8c8-e2a0-4880-aa53-2fca1afacefa"
 		],
 		"prefix": "C1.17",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725"
-		],
 		"id": "012306f2-bb1c-44ce-9548-16efc4ef8c3e"
 	},
 	{
@@ -320,9 +275,6 @@
 			"f878d50b-e0e4-47f1-9d40-e881ee04a025"
 		],
 		"prefix": "C1.18",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725"
-		],
 		"id": "19ba7c42-1e92-4b9f-9c9f-32e894b19af2"
 	},
 	{
@@ -340,9 +292,6 @@
 			"07337f2a-3cd9-4876-a856-8b9d931acf2f"
 		],
 		"prefix": "C2.19",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725"
-		],
 		"id": "0081d62f-1e75-4835-b586-12d01ce252b9"
 	},
 	{
@@ -362,20 +311,17 @@
 			"a3c2d4c4-ceca-4ceb-81de-25af76e4a87a"
 		],
 		"prefix": "C2.20",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725"
-		],
 		"id": "23003d19-a582-44d0-94ad-be0c2013e6be"
 	},
 	{
 		"title": "Concept - De school zorgt voor een rijke taal- en leesomgeving voor alle leerlingen.",
 		"description": "Aanbodsdoel",
 		"fo_uitwerking_id": [
-			"f01cc0c6-cf6e-4aa1-8e29-ff23740c4dec",
-			"eea58305-daf4-4f64-997d-944ae8af8814",
-			"379bde9c-f402-4be8-9f22-46ad8cc8c5c6",
-			"8a7dd92c-975f-4731-ab7e-1c5fa8c9882a",
-			"40d26836-990f-439e-a5f8-6f0cff9a0a6c"
+			"8f2405a3-0708-4f9b-a955-16ab877e2bc9",
+			"d0cd729e-b8ac-4b51-8eaf-c891a1622eda",
+			"360a5406-c3e3-4e49-9d14-3c4d71d56dfd",
+			"fa0933e0-1fcd-47f9-81f1-5ef7c6f93653",
+			"aea8823e-a935-4334-a7b1-6c733fe8b8e9"
 		],
 		"fo_toelichting_id": [
 			"68a5d19a-31a9-460c-a5ab-83fdcb43184b",
@@ -384,20 +330,17 @@
 			"c97d8dc6-87f8-4174-a22a-7b4bee1bd5c9"
 		],
 		"prefix": "O1.1",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725"
-		],
 		"id": "efff8a4b-cbd5-4775-aa8f-0d3f98733e6b"
 	},
 	{
 		"title": "Concept - De school stimuleert de taalontwikkeling van de leerling in de andere leergebieden.",
 		"description": "Aanbodsdoel",
 		"fo_uitwerking_id": [
-			"43029119-0cc0-4710-b8ff-72fbeaa5bbfa",
-			"1a26db43-eeef-43a9-99d5-93de8177e236",
-			"b57a7643-74bd-4a79-9572-fc516e3281f2",
-			"35d22154-7913-42dd-8e83-92b69f0eb713",
-			"c4ea8dd0-2ec5-40e8-9ffb-72ac0e45c96a"
+			"208ca70f-9717-4ba9-91aa-c5d9a34fb210",
+			"92011225-276a-4e65-8599-39e7ccf070c5",
+			"91a05aaa-e0c9-4054-b40f-4a0e8f0d3a62",
+			"24fdf3dd-deca-4f8c-9627-c49d4a3c7558",
+			"3bd387ab-c4bb-4e0f-aa8f-020ccf17fc9e"
 		],
 		"fo_toelichting_id": [
 			"fa1730f5-974d-4922-9fc7-e8ec23075d45",
@@ -405,9 +348,6 @@
 			"5333efda-e370-4e44-ad2b-2f54f6755540"
 		],
 		"prefix": "O2.2",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725"
-		],
 		"id": "9f550d27-58cf-4252-8b6b-ff8246c8eca6"
 	},
 	{
@@ -428,9 +368,6 @@
 			"aae3575f-105b-47fc-8254-1c4e1070ee9a"
 		],
 		"prefix": "B1.2",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725"
-		],
 		"id": "a93af3e3-91f0-49ee-8e28-42fb57daf454"
 	},
 	{
@@ -449,9 +386,6 @@
 			"c21a61e5-c419-4f82-9fdf-0089e051fdb6"
 		],
 		"prefix": "B2.3",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725"
-		],
 		"id": "da74e273-b43e-40d5-8e74-74cd4758ca62"
 	},
 	{
@@ -490,9 +424,6 @@
 			"ce672640-6e3b-40b1-b74f-952b875cc864"
 		],
 		"prefix": "B4.5",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725"
-		],
 		"id": "038bf3e2-c920-430b-8c0a-ccbf820b7c55"
 	},
 	{
@@ -513,9 +444,6 @@
 			"053dd029-5f7f-4da7-bba2-99082aa5b28a"
 		],
 		"prefix": "B5.6",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725"
-		],
 		"id": "3440792f-6cce-4f11-88d7-1c4ea5688665"
 	},
 	{
@@ -532,9 +460,6 @@
 			"f15563e2-b443-4ef3-924f-f45f0169bb42"
 		],
 		"prefix": "B6.7",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725"
-		],
 		"id": "56596b75-b0da-4d54-b5cb-2778b26a16a7"
 	},
 	{
@@ -550,9 +475,6 @@
 			"b8067f91-4a46-4121-80c6-7a58899824da"
 		],
 		"prefix": "B7.8",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725"
-		],
 		"id": "65649cd4-ad64-4187-942c-d82792c3d7d3"
 	},
 	{
@@ -572,9 +494,6 @@
 			"2e03c7b3-f0f6-414f-a60b-916c6ef17901"
 		],
 		"prefix": "C1.9",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725"
-		],
 		"id": "3e321838-9e34-4db8-af4a-ca5f92e62049"
 	},
 	{
@@ -593,9 +512,6 @@
 			"18a39372-5dcc-46f6-a0e3-03e653809031"
 		],
 		"prefix": "C2.10",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725"
-		],
 		"id": "4e99fb88-c09c-4de7-b062-d2e1671a879b"
 	},
 	{
@@ -614,9 +530,6 @@
 			"4f26a633-8773-46cf-a3ec-88ae6b1c3a0a"
 		],
 		"prefix": "C4.11",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725"
-		],
 		"id": "b9fce428-e0b3-4524-832d-22dfb2a44af7"
 	},
 	{
@@ -637,9 +550,6 @@
 			"4685c0af-0c9b-482b-9adc-8641e81e36f0"
 		],
 		"prefix": "C5.12",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725"
-		],
 		"id": "6cabfbd4-c370-47fb-9144-776e7bf4cd5f"
 	},
 	{
@@ -657,9 +567,6 @@
 			"c4c62998-683c-456f-af0e-156e4ac353a6"
 		],
 		"prefix": "C6.13",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725"
-		],
 		"id": "b071f771-aae1-4438-9661-85d53ac885d8"
 	},
 	{
@@ -678,9 +585,6 @@
 			"241398fe-7342-4bcb-bfc8-7c8e3745f734"
 		],
 		"prefix": "D1.14",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725"
-		],
 		"id": "bb06ac58-b4c5-4dd6-b75f-50941ffb2380"
 	},
 	{
@@ -701,9 +605,6 @@
 			"4f500c63-9c1f-4535-8ab6-2aa489052e9d"
 		],
 		"prefix": "D2.15",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725"
-		],
 		"id": "7c5743b8-2c72-4fbd-b308-a3eea257ce07"
 	},
 	{
@@ -720,9 +621,6 @@
 			"a621ab04-7b7b-4094-9e74-c4ff65357850"
 		],
 		"prefix": "D3.16",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725"
-		],
 		"id": "ec3fe6d1-5f47-425f-8075-df6b98c605b7"
 	},
 	{
@@ -741,9 +639,6 @@
 			"0ba028ea-9393-407e-b97b-69f192cc8629"
 		],
 		"prefix": "A1.1",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725"
-		],
 		"id": "561469ee-a769-4997-bc6e-e38335eaaf0a"
 	},
 	{
@@ -764,9 +659,6 @@
 			"774d75a7-3a7e-477d-8185-dab1faa0be88"
 		],
 		"prefix": "B1.1",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
-		],
 		"id": "f1c491e6-16f5-45c5-a28a-44654d660085"
 	},
 	{
@@ -785,9 +677,6 @@
 			"65ef2c05-4f31-40da-9e57-6dc5713f8fed"
 		],
 		"prefix": "B1.2",
-		"niveau_id": [
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
 		"id": "bbd09b8c-1618-4c7c-baf9-34b206a6cf7f"
 	},
 	{
@@ -813,9 +702,6 @@
 			"257a9ee6-9fee-4f8f-99df-5ee163598554"
 		],
 		"prefix": "B5.1",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
-		],
 		"id": "3089168f-c571-43d4-8ccc-4587fa3094d7"
 	},
 	{
@@ -840,9 +726,6 @@
 			"1f17bacb-f61f-4116-ba41-72642fe570a9"
 		],
 		"prefix": "B6.1",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
-		],
 		"id": "9dbb4295-a30b-45fa-82da-a62ae1a09916"
 	},
 	{
@@ -869,9 +752,6 @@
 			"d5124c8e-bbdc-4818-a0c6-071571ef5109"
 		],
 		"prefix": "B7.1",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
-		],
 		"id": "87ea652f-c267-46b9-b1d0-ffb27248abc0"
 	},
 	{
@@ -896,9 +776,6 @@
 			"ec28ae0b-8029-4e96-914f-391b3e97fd37"
 		],
 		"prefix": "B8.1",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
-		],
 		"id": "f3992bb7-8658-4ff1-9317-dccd8603d9cf"
 	},
 	{
@@ -914,9 +791,6 @@
 			"3031555a-89a1-4d93-82e6-24fdf7deba5f"
 		],
 		"prefix": "B9.1",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
-		],
 		"id": "33766238-41bd-46d5-8462-15075b1e330f"
 	},
 	{
@@ -932,9 +806,6 @@
 			"31a26c67-e709-40dd-8bf2-eb3ed5dd154f"
 		],
 		"prefix": "B9.2",
-		"niveau_id": [
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
 		"id": "0ed7e779-7884-4848-9bec-89e51dfcf572"
 	},
 	{
@@ -955,9 +826,6 @@
 			"5f08c372-198e-46e9-87ca-952b9d92e5e8"
 		],
 		"prefix": "C1.1",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
-		],
 		"id": "c9e39d4f-dc31-4931-b15a-f46a74eb17f1"
 	},
 	{
@@ -980,9 +848,6 @@
 			"26e113b6-2d34-4504-b805-45d21a2c8bd7"
 		],
 		"prefix": "C2.1",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
-		],
 		"id": "0c42c5f9-5e3d-477b-a4e2-09b95c9d8133"
 	},
 	{
@@ -1005,9 +870,6 @@
 			"e1551871-a8ec-4663-8f96-b48e2a5474d3"
 		],
 		"prefix": "C3.1",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
-		],
 		"id": "3f2a764a-3055-4128-80e1-763476691bdf"
 	},
 	{
@@ -1031,9 +893,6 @@
 			"1db4cf87-3f40-4953-b374-02efcc9e8976"
 		],
 		"prefix": "C4.1",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
-		],
 		"id": "0956691b-5ed5-4c1f-a952-58e16b07ad5d"
 	},
 	{
@@ -1053,9 +912,6 @@
 			"47bd17f9-f652-4d03-a3dd-3e613a3cfa78"
 		],
 		"prefix": "C5.1",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
-		],
 		"id": "62a0730b-8c50-43f7-a6cd-3342d0c0607f"
 	},
 	{
@@ -1075,9 +931,6 @@
 			"f2269dfe-ddb6-497f-bbd3-b01da420ab25"
 		],
 		"prefix": "C6.1",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
-		],
 		"id": "ff4483c9-86da-4de8-8661-b4d4801ebbcf"
 	},
 	{
@@ -1098,9 +951,6 @@
 			"1708328c-8944-46b1-9245-dc31bdda7284"
 		],
 		"prefix": "D1.1",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
-		],
 		"id": "347fe2cf-3c24-4502-8111-b811cd981675"
 	},
 	{
@@ -1121,9 +971,6 @@
 			"f36d4c84-a2ec-4d3d-83c7-e086d7728601"
 		],
 		"prefix": "D2.1",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
-		],
 		"id": "24509a03-2564-48bc-80ff-5df287166046"
 	},
 	{
@@ -1142,9 +989,6 @@
 			"ef2d600e-6852-43f1-a529-00e6985460a8"
 		],
 		"prefix": "D3.1",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
-		],
 		"id": "9c5c8409-4d99-407e-a23c-18fd88d63de4"
 	},
 	{
@@ -1164,9 +1008,6 @@
 			"be110d51-ea5d-4549-bc37-a3d739e5b797"
 		],
 		"prefix": "A1.1",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
-		],
 		"id": "718ea081-6bc6-45d3-84dc-f8aabf7a13e6"
 	},
 	{
@@ -1189,9 +1030,6 @@
 			"f37a92a6-d228-42d3-a2de-96d13bbec9d1"
 		],
 		"prefix": "3.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
-		],
 		"id": "c6136156-dd19-4391-b4cf-544d6e15ce17"
 	},
 	{
@@ -1211,9 +1049,6 @@
 			"4d5f3b00-7f10-42fe-84bb-53f4ba53d26b"
 		],
 		"prefix": "4.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
-		],
 		"id": "44c10504-afb2-4275-879c-bf840f7ef6e3"
 	},
 	{
@@ -1234,9 +1069,6 @@
 			"4a5c54eb-85ff-4c4d-b7a4-10576b70e917"
 		],
 		"prefix": "5.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
-		],
 		"id": "50ec048a-8295-413c-b3f9-18b14504a8af"
 	},
 	{
@@ -1256,9 +1088,6 @@
 			"e078b929-eef1-4560-8369-dc3992b502a2"
 		],
 		"prefix": "6.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
-		],
 		"id": "4b8b8c36-9b85-4c23-98b2-9edc18da8de9"
 	},
 	{
@@ -1277,9 +1106,6 @@
 			"cff5cd22-506b-4a4a-aca1-ea8ee1cd3689"
 		],
 		"prefix": "7.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
-		],
 		"id": "04afcc55-a280-4b92-a19a-c13b653c7381"
 	},
 	{
@@ -1298,9 +1124,6 @@
 			"9adfd27c-2e9b-4376-8918-8b2d94c55668"
 		],
 		"prefix": "8.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
-		],
 		"id": "9f51f9d0-3f95-4179-a0f5-cc905e85be8e"
 	},
 	{
@@ -1319,9 +1142,6 @@
 			"fb8d0070-ef9b-4238-b00d-22dd5f5e95d8"
 		],
 		"prefix": "9.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
-		],
 		"id": "70191486-92d4-4c68-9793-6602e6c29423"
 	},
 	{
@@ -1341,9 +1161,6 @@
 			"96e59404-bc6b-4d49-be28-0aa20af60d02"
 		],
 		"prefix": "10.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
-		],
 		"id": "59c23efd-bdd7-43b0-ba0c-e518dca752a3"
 	},
 	{
@@ -1362,9 +1179,6 @@
 			"235c19a6-5d25-4fbf-9d61-a01372849a8d"
 		],
 		"prefix": "11.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
-		],
 		"id": "35ae3aa0-5100-4e9a-9f8e-2d3281487d83"
 	},
 	{
@@ -1383,9 +1197,6 @@
 			"aa91856c-16fa-403c-977c-b7e713ec073a"
 		],
 		"prefix": "12.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
-		],
 		"id": "0c5c554b-3901-44f8-aaa0-6e7b63caf5fc"
 	},
 	{
@@ -1404,9 +1215,6 @@
 			"8d34d61d-107f-4e0c-825a-3819ac7eb90d"
 		],
 		"prefix": "13.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
-		],
 		"id": "0a247c35-3e9a-48b9-bebd-1ab6810c5b48"
 	},
 	{
@@ -1425,9 +1233,6 @@
 			"60c502e3-6741-4e93-98d2-59cdd003607b"
 		],
 		"prefix": "14.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
-		],
 		"id": "68d3d4e0-b62d-4017-bcfd-f773dfc1773f"
 	},
 	{
@@ -1445,9 +1250,6 @@
 			"948f4b0a-f666-497a-91cc-cd3bb6802a71"
 		],
 		"prefix": "15.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
-		],
 		"id": "ea4f56f1-e2b4-471c-8146-daf144b3209c"
 	},
 	{
@@ -1469,9 +1271,6 @@
 			"b339c1d0-742e-4b10-92e6-80a27fdc3b8c"
 		],
 		"prefix": "16.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
-		],
 		"id": "450eefee-b96e-4379-9646-9254bf482f9a"
 	},
 	{
@@ -1492,9 +1291,6 @@
 			"035e56cb-d3c0-43e4-b387-9756dc127717"
 		],
 		"prefix": "17.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
-		],
 		"id": "0f2d88a0-c594-48d2-835c-c1953eb284d0"
 	},
 	{
@@ -1515,9 +1311,6 @@
 			"78ea8ad7-3f05-4841-94c1-3fa9784be69c"
 		],
 		"prefix": "18.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
-		],
 		"id": "ad8f866e-2374-4eb7-b3cc-e46b61efd94c"
 	},
 	{
@@ -1536,9 +1329,6 @@
 			"8ef3245e-547f-4171-84b9-5d90df4bf50a"
 		],
 		"prefix": "19.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
-		],
 		"id": "dd67bb77-033b-4e01-a8a6-08b75ea8a7ec"
 	},
 	{
@@ -1560,9 +1350,6 @@
 			"7a599910-d1cc-44e4-afb8-8af6ad007f93"
 		],
 		"prefix": "20.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
-		],
 		"id": "d385da82-ed53-4ad6-9617-38bd67a44178"
 	},
 	{
@@ -1582,20 +1369,17 @@
 			"5555c6ba-7dce-4bd5-a6c3-0f08d049c2e8"
 		],
 		"prefix": "21.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
-		],
 		"id": "0a6cd39a-020f-4449-8a0c-b283f1d271ff"
 	},
 	{
 		"title": "Concept - De school zorgt voor een rijke taal- en leesomgeving voor alle leerlingen.",
 		"description": "Aanbodsdoel",
 		"fo_uitwerking_id": [
-			"8f2405a3-0708-4f9b-a955-16ab877e2bc9",
-			"d0cd729e-b8ac-4b51-8eaf-c891a1622eda",
-			"360a5406-c3e3-4e49-9d14-3c4d71d56dfd",
-			"fa0933e0-1fcd-47f9-81f1-5ef7c6f93653",
-			"aea8823e-a935-4334-a7b1-6c733fe8b8e9"
+			"f01cc0c6-cf6e-4aa1-8e29-ff23740c4dec",
+			"eea58305-daf4-4f64-997d-944ae8af8814",
+			"379bde9c-f402-4be8-9f22-46ad8cc8c5c6",
+			"8a7dd92c-975f-4731-ab7e-1c5fa8c9882a",
+			"40d26836-990f-439e-a5f8-6f0cff9a0a6c"
 		],
 		"fo_toelichting_id": [
 			"44b22c23-679d-4e30-a018-94a6b56b6299",
@@ -1604,20 +1388,17 @@
 			"25e203cf-0c4b-4393-8a95-35ffb39df0b2"
 		],
 		"prefix": "1.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
-		],
 		"id": "ef048d52-0a42-4dd1-a529-ca059c3572bf"
 	},
 	{
-		"title": "Concept - De school stimuleert de taalontwikkeling van leerlingen in de andere leergebieden.",
+		"title": "Concept - De school stimuleert de taalontwikkeling van de leerling in de andere leergebieden.",
 		"description": "Aanbodsdoel",
 		"fo_uitwerking_id": [
-			"208ca70f-9717-4ba9-91aa-c5d9a34fb210",
-			"92011225-276a-4e65-8599-39e7ccf070c5",
-			"91a05aaa-e0c9-4054-b40f-4a0e8f0d3a62",
-			"24fdf3dd-deca-4f8c-9627-c49d4a3c7558",
-			"3bd387ab-c4bb-4e0f-aa8f-020ccf17fc9e"
+			"43029119-0cc0-4710-b8ff-72fbeaa5bbfa",
+			"1a26db43-eeef-43a9-99d5-93de8177e236",
+			"b57a7643-74bd-4a79-9572-fc516e3281f2",
+			"35d22154-7913-42dd-8e83-92b69f0eb713",
+			"c4ea8dd0-2ec5-40e8-9ffb-72ac0e45c96a"
 		],
 		"fo_toelichting_id": [
 			"46b82c1e-9394-465b-9fd2-9b88857f485c",
@@ -1625,9 +1406,6 @@
 			"82afb1fa-cbdd-42c5-8109-a36d5c4e9a5a"
 		],
 		"prefix": "2.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
-		],
 		"id": "51cea2c3-4e4c-443f-8975-3f4501a51af3"
 	}
 ]

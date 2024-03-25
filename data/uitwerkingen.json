@@ -3,1544 +3,1951 @@
 		"title": "Concept - Het gaat hierbij om aandachtig kijken en luisteren naar of vloeiend lezen van zakelijke en literaire teksten.",
 		"description": "Het gaat hierbij om",
 		"prefix": "A1.3a",
-		"id": "f0c720a2-4ebc-4ad1-a1a2-ccd6540e0aab"
+		"id": "f0c720a2-4ebc-4ad1-a1a2-ccd6540e0aab",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om zowel inzetten als vergroten van kennis van de wereld, woordenschat, kennis over teksten en taal.",
 		"description": "Het gaat hierbij om",
 		"prefix": "A1.3b",
-		"id": "fe253d39-ebdc-4ea3-9b97-d38abfde8e31"
+		"id": "fe253d39-ebdc-4ea3-9b97-d38abfde8e31",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om herkennen van perspectieven, publiek, context en communicatief doel: informeren, amuseren, instrueren of overtuigen.",
 		"description": "Het gaat hierbij om",
 		"prefix": "A1.3c",
-		"id": "3b154955-79ae-4b49-9c6d-52c6de321177"
+		"id": "3b154955-79ae-4b49-9c6d-52c6de321177",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om reageren op, evalueren van en reflecteren op de waarde en inhoud van teksten.",
 		"description": "Het gaat hierbij om",
 		"prefix": "A1.3d",
-		"id": "240ef636-538a-4ec9-94be-e115b1bd0a7a"
+		"id": "240ef636-538a-4ec9-94be-e115b1bd0a7a",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om bepalen van de aanpak en het flexibel toepassen van begripsverhogende strategieën.",
 		"description": "Het gaat hierbij om",
 		"prefix": "A1.3e",
-		"id": "1a4cbb9a-06d7-49a3-a6ed-8c71ae48978a"
+		"id": "1a4cbb9a-06d7-49a3-a6ed-8c71ae48978a",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om formuleren van gesproken, geschreven en multimediale teksten passend bij een bekend publiek, een herkenbare context en een communicatief doel: informeren, amuseren, instrueren of overtuigen.",
-		"id": "2b78f0d1-54d5-40eb-a666-074f248813bf"
+		"id": "2b78f0d1-54d5-40eb-a666-074f248813bf",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om zowel inzetten als vergroten van kennis van de wereld, verteltechnieken, tekstkenmerken en -structuren, woordkeus, zinsbouw, taal- en schriftconventies, taalverzorging en tekstopmaak.",
-		"id": "b1d2ceb1-faba-48d6-abed-8a134eb9b92e"
+		"id": "b1d2ceb1-faba-48d6-abed-8a134eb9b92e",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om schrijven op letter-, schrift- en tekstniveau met een leesbaar handschrift en typschrift, en verstaanbaar spreken.",
-		"id": "0eb25223-8cfc-4789-987d-3d9c6d358eea"
+		"id": "0eb25223-8cfc-4789-987d-3d9c6d358eea",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om bepalen van de spreek- of schrijfaanpak.",
-		"id": "d152f3fb-1801-4b1e-8c5b-9227a55eef8a"
+		"id": "d152f3fb-1801-4b1e-8c5b-9227a55eef8a",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om reviseren van teksten aan de hand van feedback.",
-		"id": "aa693155-bd3b-4d8a-8204-3e847a307528"
+		"id": "aa693155-bd3b-4d8a-8204-3e847a307528",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om uitdrukking geven aan ideeën, gedachten, ervaringen, gevoelens en fantasieën.",
-		"id": "dc5ce356-167b-48bf-9f29-c533d07efdfc"
+		"id": "dc5ce356-167b-48bf-9f29-c533d07efdfc",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om experimenteren met klanken, woorden, zinnen, literaire genres, taalregels, taalconventies en visuele vormen.",
-		"id": "33328379-30ca-47b3-8300-1d04528e5d59"
+		"id": "33328379-30ca-47b3-8300-1d04528e5d59",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om verkennen van verschillende creatieve manieren van spreken en schrijven.",
-		"id": "5f69a194-9fcd-4f57-a7d5-62fafd467020"
+		"id": "5f69a194-9fcd-4f57-a7d5-62fafd467020",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om openstaan voor talige creaties van anderen.",
-		"id": "bf7e6d7b-e093-4c18-a0b6-19a925e022b2"
+		"id": "bf7e6d7b-e093-4c18-a0b6-19a925e022b2",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om noteren van gelezen, bekeken of beluisterde informatie.",
-		"id": "e3e2761b-3a2c-4731-8ce9-50ff314d0d71"
+		"id": "e3e2761b-3a2c-4731-8ce9-50ff314d0d71",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om samenvatten van gelezen informatie.",
-		"id": "e102de42-dba3-4e38-a051-fc9d504d527d"
+		"id": "e102de42-dba3-4e38-a051-fc9d504d527d",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om verwoorden, ordenen en structureren van gedachten, verworven inzichten en kennis in tekst of visuele vorm.",
-		"id": "fe5d4811-95d3-454f-81dd-faaa91082e30"
+		"id": "fe5d4811-95d3-454f-81dd-faaa91082e30",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om uitbreiden van school- en vaktaal.",
-		"id": "1d63d69e-c6af-4138-9475-7411efc9882d"
+		"id": "1d63d69e-c6af-4138-9475-7411efc9882d",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om schrijven op letter-, schrift- en tekstniveau met een leesbaar handschrift en typschrift.",
-		"id": "3accb55d-9dd6-4cf9-9e46-564d2cd35720"
+		"id": "3accb55d-9dd6-4cf9-9e46-564d2cd35720",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om inschatten van betrouwbaarheid op basis van duidelijk aanwezige kenmerken van de bron: maker, communicatief doel en actualiteit.",
-		"id": "74ce4ffc-ac56-4791-9622-42294c2091e8"
+		"id": "74ce4ffc-ac56-4791-9622-42294c2091e8",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om toekennen van waarde aan de inhoud van de bron en onderscheiden van hoofd- en bijzaken, feiten en meningen.",
-		"id": "65920382-e074-477c-b67b-e9d01db9f22a"
+		"id": "65920382-e074-477c-b67b-e9d01db9f22a",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om vergelijken van soorten aangereikte bronnen op basis van betrouwbaarheid en inhoud.",
-		"id": "ce4c708e-f89a-4451-a41a-47895bb745a6"
+		"id": "ce4c708e-f89a-4451-a41a-47895bb745a6",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om verkennen van zoekmogelijkheden binnen verschillende aangereikte bronnen.",
-		"id": "35cf6093-1104-4b84-b3cb-4fbde96c336e"
+		"id": "35cf6093-1104-4b84-b3cb-4fbde96c336e",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om hanteren van een passende lees-, kijk- of luisteraanpak bij het zoeken naar informatie in aangreikte bronnen.",
-		"id": "ec57c2c0-eae7-42ba-93b7-0f664c4792e6"
+		"id": "ec57c2c0-eae7-42ba-93b7-0f664c4792e6",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om doelgericht selecteren en vergelijken van bruikbare informatie uit aangereikte bronnen.",
-		"id": "090e40a7-b4cd-4f0f-bc63-80431ca9cb93"
+		"id": "090e40a7-b4cd-4f0f-bc63-80431ca9cb93",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om structureren en parafraseren van informatie met vermelding van gebruikte bronnen.",
-		"id": "d931c227-1e3b-42be-bf2c-09c10c47044c"
+		"id": "d931c227-1e3b-42be-bf2c-09c10c47044c",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om formuleren van een eenvoudige tekst op basis van geselecteerde informatie, afgestemd op doel, publiek en context.",
-		"id": "39c4e18e-15a9-4498-b43c-ab6b36bf87b1"
+		"id": "39c4e18e-15a9-4498-b43c-ab6b36bf87b1",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om verwoorden van gedachten en waarnemingen bij de uitvoering van een activiteit.",
-		"id": "298e7c43-93ac-4858-a9f7-21dfe76f8f2f"
+		"id": "298e7c43-93ac-4858-a9f7-21dfe76f8f2f",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om evalueren van het product van de taalactiviteit.",
-		"id": "6916568e-c98f-4567-93da-ffac5d0341c2"
+		"id": "6916568e-c98f-4567-93da-ffac5d0341c2",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om reflecteren op de gekozen aanpak en strategieën in relatie tot het proces en product.",
-		"id": "ffab7565-4737-4ae2-9a73-766743845784"
+		"id": "ffab7565-4737-4ae2-9a73-766743845784",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om geven, ontvangen en verwerken van feedback.",
-		"id": "9d6e573e-86c9-4798-bbe0-daa39ec39630"
+		"id": "9d6e573e-86c9-4798-bbe0-daa39ec39630",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om formuleren van leerdoelen en maken van keuzes voor toekomstige taalactiviteiten op basis van evaluatie en reflectie.",
-		"id": "23456259-c86c-4a94-880b-fdb9a3360749"
+		"id": "23456259-c86c-4a94-880b-fdb9a3360749",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om afstemmen op communicatief doel: informeren, amuseren, instrueren of overtuigen, in een herkenbare context.",
-		"id": "dfa06936-ffdb-4155-8175-31968a48ba14"
+		"id": "dfa06936-ffdb-4155-8175-31968a48ba14",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om afstemmen op gesprekspartner: kennis en achtergrond.",
-		"id": "829c9624-6230-4605-b093-d43aca158f5f"
+		"id": "829c9624-6230-4605-b093-d43aca158f5f",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om afstemmen op context: talig repertoire, toon, intonatie, volume en non-verbale communicatie.",
-		"id": "8c700ee0-25b1-44ee-9f07-0f45bd9e2307"
+		"id": "8c700ee0-25b1-44ee-9f07-0f45bd9e2307",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om constructief laten verlopen van on- en offline gesprekken met behulp van schrift- en gespreksconventies.",
-		"id": "b0820f25-a6d1-4ca0-8d1c-927905ba050d"
+		"id": "b0820f25-a6d1-4ca0-8d1c-927905ba050d",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om constructief laten verlopen van gesprekken met behulp van gespreksconventies.",
-		"id": "6dec8016-87ef-4f7d-92c6-4075a1be50f6"
+		"id": "6dec8016-87ef-4f7d-92c6-4075a1be50f6",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om verwoorden van gedachten, inzichten en kennis over concepten, verschijnselen en aanpakken.",
-		"id": "e1522e1f-e240-41b2-8fca-836832a70e02"
+		"id": "e1522e1f-e240-41b2-8fca-836832a70e02",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om vragen om en antwoorden op verzoek om toelichting, verklaring of verificatie.",
-		"id": "8429c7ef-3ead-4399-be88-b48058c33236"
+		"id": "8429c7ef-3ead-4399-be88-b48058c33236",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om analyseren van informatie en perspectieven.",
-		"id": "89ecfad3-ebad-40aa-93b2-a9ba391c7988"
+		"id": "89ecfad3-ebad-40aa-93b2-a9ba391c7988",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om beargumenteren en samenvatten van standpunten, opgedane kennis, beslissingen of gekozen aanpak.",
-		"id": "e6229dbf-36fb-496e-8dad-e1c60c09e9f8"
+		"id": "e6229dbf-36fb-496e-8dad-e1c60c09e9f8",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om beschouwen van relaties tussen klankvormen en hun betekenis: letterklanken, intonatie, ritme.",
-		"id": "dd01cf1b-9b4c-4a06-9e11-cee207d630ad"
+		"id": "dd01cf1b-9b4c-4a06-9e11-cee207d630ad",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om beschouwen van relaties tussen woordvorming en hun betekenissen: lettergrepen, samenstellingen, afleidingen, verbuigingen, vervoegingen.",
-		"id": "e48bd1ee-b74e-4dba-a79f-c38cb8850802"
+		"id": "e48bd1ee-b74e-4dba-a79f-c38cb8850802",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om beschouwen van woordvolgorde en eenvoudige zinsopbouw rondom een werkwoord, waarbij elk zinsdeel en elke woordsoort een stukje informatie toevoegt aan de zin.",
-		"id": "eee43006-7e31-47b0-8976-795b7d075d10"
+		"id": "eee43006-7e31-47b0-8976-795b7d075d10",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om inzetten van taalkundige begrippen en taalbeschouwingsstrategieën: analyseren, vergelijken, ordenen, relateren, categoriseren.",
-		"id": "42ce9d99-4dd7-4555-80b1-244f7e4b2cd0"
+		"id": "42ce9d99-4dd7-4555-80b1-244f7e4b2cd0",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om opmerken van effecten van keuzes in taalgebruik: woordgebruik, register, zins- en tekstopbouw en stijlmiddelen.",
-		"id": "a9f23877-a838-43ec-991c-74db6e9d7a39"
+		"id": "a9f23877-a838-43ec-991c-74db6e9d7a39",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om toepassen van kennis over klankvorm, woordvorming en zinsbouw bij spelling.",
-		"id": "c2720bd9-dd08-4d99-b1e5-7377c3dc315c"
+		"id": "c2720bd9-dd08-4d99-b1e5-7377c3dc315c",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om toepassen van regels en procedures op woord-, zins- en tekstniveau: spelling, formulering, interpunctie, tekstconventies en tekstopmaak.",
-		"id": "9fcf71b1-318b-431a-a67e-4454b1deba2f"
+		"id": "9fcf71b1-318b-431a-a67e-4454b1deba2f",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om tonen van spellinggeweten en spellingbewustzijn.",
-		"id": "a3c40435-afac-47a1-afaf-f42b99b0e7b6"
+		"id": "a3c40435-afac-47a1-afaf-f42b99b0e7b6",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om inzetten van hulpmiddelen en bronnen om regels en procedures correct toe te passen en teksten te redigeren.",
-		"id": "8be95d97-675c-4d2e-bc37-5979b4d17147"
+		"id": "8be95d97-675c-4d2e-bc37-5979b4d17147",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om verkennen van het eigen talige repertoire in de volle breedte: talen en taalvariëteiten, gebaren, lichaamstaal.",
-		"id": "e0ee4584-c780-4502-8f6f-987b0c7fa173"
+		"id": "e0ee4584-c780-4502-8f6f-987b0c7fa173",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om experimenteren met het eigen talige repertoire om zich bewust te worden van het effect, in relatie tot publiek, doel en context.",
-		"id": "ba052f11-2c42-4632-ad76-d8c78d22c4ae"
+		"id": "ba052f11-2c42-4632-ad76-d8c78d22c4ae",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om reflecteren op hoe je overkomt op anderen op basis van keuzes in je eigen talige repertoire.",
-		"id": "76bbbbab-14f9-4117-a980-ad5a8640ff6c"
+		"id": "76bbbbab-14f9-4117-a980-ad5a8640ff6c",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om waarderen van het eigen talige repertoire.",
-		"id": "cbd29bcc-e90a-4f57-a4e1-7e731fe78023"
+		"id": "cbd29bcc-e90a-4f57-a4e1-7e731fe78023",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om beschouwen van de meest voorkomende taalvariëteiten van het Nederlands: school- en vaktaal, groeps- en streektalen.",
-		"id": "07465876-2721-4718-b452-01d1624abee6"
+		"id": "07465876-2721-4718-b452-01d1624abee6",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om verkennen van de contexten waarin verschillende talen en taalvariëteiten worden gebruikt.",
-		"id": "67d741e9-c548-4b64-92ad-28fea7789ae7"
+		"id": "67d741e9-c548-4b64-92ad-28fea7789ae7",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om verkennen van oordelen over verschillende talen en taalvariëteiten.",
-		"id": "280babcc-990e-4d6f-a883-d127465e24fb"
+		"id": "280babcc-990e-4d6f-a883-d127465e24fb",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om verkennen van overeenkomsten en verschillen tussen het Nederlands en andere talen en taalvariëteiten op klank-, woord- en zinsniveau.",
-		"id": "dfc4261d-435d-452a-8019-4be4c33c5400"
+		"id": "dfc4261d-435d-452a-8019-4be4c33c5400",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om herkennen van verschillen tussen taalgebruik van vroeger en nu in gesproken en geschreven teksten.",
-		"id": "5474c008-6a99-4d5c-ab66-78f1d8a42e08"
+		"id": "5474c008-6a99-4d5c-ab66-78f1d8a42e08",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om onderscheiden van veranderingen in vorm, betekenis en gebruik.",
-		"id": "5a0e762e-a4f0-47f9-a917-3c7d82c93815"
+		"id": "5a0e762e-a4f0-47f9-a917-3c7d82c93815",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om herkennen van nieuwe woorden en uitdrukkingen in het Nederlands onder invloed van media, digitalisering en andere talen.",
-		"id": "5d97db59-b393-4a0e-b6a1-8f242576fec6"
+		"id": "5d97db59-b393-4a0e-b6a1-8f242576fec6",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om beschrijven welk probleem of welke wens van een hoofdpersoon de motor van het verhaal is en hoe het verhaal zich ontwikkelt.",
-		"id": "77203dda-4845-4a17-8160-f34b6caf0b34"
+		"id": "77203dda-4845-4a17-8160-f34b6caf0b34",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om onderscheiden van soorten personages als hoofd- en bijfiguren, helpers en tegenspelers.",
-		"id": "f0a5de08-0300-4213-b391-c4e774b0888d"
+		"id": "f0a5de08-0300-4213-b391-c4e774b0888d",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om beschrijven van de vertelperspectieven.",
-		"id": "e0af3a37-cd5c-4696-a475-f63814e5ee2a"
+		"id": "e0af3a37-cd5c-4696-a475-f63814e5ee2a",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om herkennen van technieken die een schrijver gebruikt om spanning op te bouwen.",
-		"id": "f7201132-0227-41a9-b9a4-af4903fa7f45"
+		"id": "f7201132-0227-41a9-b9a4-af4903fa7f45",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om beschrijven waar, wanneer en onder welke omstandigheden een verhaal zich afspeelt.",
-		"id": "adc47cdb-0fed-43bf-8240-16c3ab540cda"
+		"id": "adc47cdb-0fed-43bf-8240-16c3ab540cda",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om verkennen van genres in poëzie-, proza- en dramateksten",
-		"id": "f7f7b9af-fed2-45a3-88a1-c1c07310df19"
+		"id": "f7f7b9af-fed2-45a3-88a1-c1c07310df19",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om verkennen van de rol van beeldgebruik in diverse genres.",
-		"id": "fe99a2a4-a912-4e92-a633-d2c979e888e3"
+		"id": "fe99a2a4-a912-4e92-a633-d2c979e888e3",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om herkennen van figuurlijk taalgebruik, stijlfiguren, beeldspraak, rijm, ritme en visuele elementen.",
-		"id": "c8d57718-adf2-4123-a36c-d92df6f2f3c9"
+		"id": "c8d57718-adf2-4123-a36c-d92df6f2f3c9",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om verkennen van rijke en gevarieerde literatuur, van verschillende genres en schrijvers.",
-		"id": "f376c44b-c8ed-4543-b7d5-3691cf39113c"
+		"id": "f376c44b-c8ed-4543-b7d5-3691cf39113c",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om evalueren van persoonlijke lees-, luister- en kijkervaringen.",
-		"id": "8f7bd39a-7340-4b35-973a-372c8f83e030"
+		"id": "8f7bd39a-7340-4b35-973a-372c8f83e030",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om verwoorden van persoonlijke voorkeuren en keuzes op basis van tekstgenres en -kenmerken, de eigen leesvaardigheid en interesse.",
-		"id": "364bfca7-4158-4bb6-b134-8c0852172671"
+		"id": "364bfca7-4158-4bb6-b134-8c0852172671",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om aangaan van nieuwe leesuitdagingen binnen een vaste leesroutine en verbreden van de eigen leesvoorkeur.",
-		"id": "c97368b9-bcd9-4301-82bf-caa49b3615c7"
+		"id": "c97368b9-bcd9-4301-82bf-caa49b3615c7",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om lezen, luisteren en bekijken van rijke en gevarieerde literaire teksten in allerlei verschijningsvormen: mondeling, schriftelijk en multimediaal.",
-		"id": "0d7d9289-c236-406a-b62b-b77aa167a6d1"
+		"id": "0d7d9289-c236-406a-b62b-b77aa167a6d1",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om verwoorden van persoonlijke leeservaring en -beleving na het lezen van literatuur.",
-		"id": "220359f4-b6d3-46d7-b6dd-2eb4ac13b148"
+		"id": "220359f4-b6d3-46d7-b6dd-2eb4ac13b148",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om verwoorden van opgedane inzichten en kennis over zichzelf en andere mensen na het lezen van literatuur.",
-		"id": "bf3fc5d9-2650-4859-b653-38444a799832"
+		"id": "bf3fc5d9-2650-4859-b653-38444a799832",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om verwoorden van opgedane inzichten en kennis over de wereld en culturen na het lezen van literatuur.",
-		"id": "163de4ac-8e87-4c63-ae2b-1f41c2657f9b"
+		"id": "163de4ac-8e87-4c63-ae2b-1f41c2657f9b",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om geven van een waardeoordeel over de tekst.",
-		"id": "74290fe8-aca3-448b-b192-7019037cb5e6"
+		"id": "74290fe8-aca3-448b-b192-7019037cb5e6",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om in aanraking laten komen met authentieke, vakoverstijgende, thematische contexten.",
 		"description": "Het gaat hierbij om",
-		"id": "f01cc0c6-cf6e-4aa1-8e29-ff23740c4dec"
+		"id": "f01cc0c6-cf6e-4aa1-8e29-ff23740c4dec",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om in aanraking laten komen met uitdagende teksten en een divers en actueel aanbod van literatuur binnen een vaste leesroutine.",
 		"description": "Het gaat hierbij om",
-		"id": "eea58305-daf4-4f64-997d-944ae8af8814"
+		"id": "eea58305-daf4-4f64-997d-944ae8af8814",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om aanbieden van kennis en vaardigheden uit het leergebied Nederlands in onderlinge samenhang.",
 		"description": "Het gaat hierbij om",
-		"id": "379bde9c-f402-4be8-9f22-46ad8cc8c5c6"
+		"id": "379bde9c-f402-4be8-9f22-46ad8cc8c5c6",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om stimuleren van de leesmotivatie en de durf om te spreken en te schrijven.",
 		"description": "Het gaat hierbij om",
-		"id": "8a7dd92c-975f-4731-ab7e-1c5fa8c9882a"
+		"id": "8a7dd92c-975f-4731-ab7e-1c5fa8c9882a",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om ruimte bieden aan verschillende talen en taalvariëteiten van leerlingen.",
 		"description": "Het gaat hierbij om",
-		"id": "40d26836-990f-439e-a5f8-6f0cff9a0a6c"
+		"id": "40d26836-990f-439e-a5f8-6f0cff9a0a6c",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om gelegenheid bieden tot taalproductie in alle leergebieden: gesprekken voeren, schrijven en spreken.",
-		"id": "43029119-0cc0-4710-b8ff-72fbeaa5bbfa"
+		"id": "43029119-0cc0-4710-b8ff-72fbeaa5bbfa",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om gelegenheid bieden tot het lezen, bekijken en beluisteren van authentieke en uitdagende teksten die passen bij het leergebied.",
-		"id": "1a26db43-eeef-43a9-99d5-93de8177e236"
+		"id": "1a26db43-eeef-43a9-99d5-93de8177e236",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om aanbieden van activiteiten in betekenisvolle contexten waarin vakspecifieke taalvaardigheden en school- en vaktaal verworven kunnen worden.",
-		"id": "b57a7643-74bd-4a79-9572-fc516e3281f2"
+		"id": "b57a7643-74bd-4a79-9572-fc516e3281f2",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om stimuleren van het inzetten van kennis over taal, teksten, tekststructuur en taalverzorging bij talige activiteiten in het leergebied.",
-		"id": "35d22154-7913-42dd-8e83-92b69f0eb713"
+		"id": "35d22154-7913-42dd-8e83-92b69f0eb713",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om aanbieden van een set van aanpakken en flexibel inzetbare strategieën bij het uitvoeren van taalactiviteiten.",
-		"id": "c4ea8dd0-2ec5-40e8-9ffb-72ac0e45c96a"
+		"id": "c4ea8dd0-2ec5-40e8-9ffb-72ac0e45c96a",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om de bewerkingen vergelijken, ordenen, optellen, aftrekken, vermenigvuldigen en delen.",
 		"description": "Het gaat hierbij om",
-		"id": "13756067-b284-4983-980e-1d6b4ca27c18"
+		"id": "13756067-b284-4983-980e-1d6b4ca27c18",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om memoriseren van getalrelaties, splitsingen van getallen tot 20 en de tafels van vermenigvuldiging, en deze kennis vlot en wendbaar toepassen.",
 		"description": "Het gaat hierbij om",
-		"id": "fc534f36-95bd-4b63-9a3f-6fe58618bfcc"
+		"id": "fc534f36-95bd-4b63-9a3f-6fe58618bfcc",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om kiezen van een rekenvorm en rekenwijze en reflecteren op keuze en uitvoering hiervan.",
 		"description": "Het gaat hierbij om",
-		"id": "85f34ed0-465e-4908-83ef-c24c8ee34ed8"
+		"id": "85f34ed0-465e-4908-83ef-c24c8ee34ed8",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om de rekenvormen hoofdrekenen, schattend rekenen, schriftelijk rekenen en rekenen met de rekenmachine.",
 		"description": "Het gaat hierbij om",
-		"id": "ea0a5faf-a209-4fce-8c59-64f78cb26b8d"
+		"id": "ea0a5faf-a209-4fce-8c59-64f78cb26b8d",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om rekenen met eigenschappen van getallen en bewerkingen, en met standaardprocedures.",
 		"description": "Het gaat hierbij om",
-		"id": "9bf614fa-f670-415a-8057-283473616bee"
+		"id": "9bf614fa-f670-415a-8057-283473616bee",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om gebruiken van breukentaal.",
-		"id": "2c0676cd-2866-4321-bcc2-d01d914cca86"
+		"id": "2c0676cd-2866-4321-bcc2-d01d914cca86",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om relaties leggen tussen eenvoudige breuken, decimale getallen, verhoudingen en procenten.",
-		"id": "015473e3-75c3-4a27-bfa5-e329a1d7d4cd"
+		"id": "015473e3-75c3-4a27-bfa5-e329a1d7d4cd",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om beredeneerd ordenen, vereenvoudigen en vergelijken van breuken.",
-		"id": "ea29f484-a554-41c5-82f0-a20ad855bbd7"
+		"id": "ea29f484-a554-41c5-82f0-a20ad855bbd7",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om uitvoeren van bewerkingen met breuken in concrete situaties, ondersteund met een model of met behulp van getalrelaties.",
-		"id": "e9f212b3-2fb6-4b15-8dab-5854144a89dc"
+		"id": "e9f212b3-2fb6-4b15-8dab-5854144a89dc",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om relaties leggen tussen verhoudingen, procenten, eenvoudige breuken en decimale getallen.",
-		"id": "a8e8f1be-8591-464e-b03c-093d5dde9ab8"
+		"id": "a8e8f1be-8591-464e-b03c-093d5dde9ab8",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om verhoudingen identificeren in concrete situaties.",
-		"id": "a912c631-4c4b-40d4-9045-70c9a882c832"
+		"id": "a912c631-4c4b-40d4-9045-70c9a882c832",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om beredeneerd vergelijken van verhoudingen.",
-		"id": "ef0bffde-fed6-492c-b7de-7d373432d7ce"
+		"id": "ef0bffde-fed6-492c-b7de-7d373432d7ce",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om redeneren en rekenen met procenten, schaal en samengestelde grootheden.",
-		"id": "7b4b4ddd-6f24-4ab5-b681-6303433981a6"
+		"id": "7b4b4ddd-6f24-4ab5-b681-6303433981a6",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om oplossen van verhoudingsproblemen.",
-		"id": "5c2c9545-0ff6-40cc-a043-dda1a57fc553"
+		"id": "5c2c9545-0ff6-40cc-a043-dda1a57fc553",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om meten met passende meetinstrumenten.",
-		"id": "930b00cf-5ffa-4032-9703-5ef3cf7768ad"
+		"id": "930b00cf-5ffa-4032-9703-5ef3cf7768ad",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om schatten en controleren met referentiematen en meetreferenties.",
-		"id": "974ce036-5197-4d73-9734-8d56136f613d"
+		"id": "974ce036-5197-4d73-9734-8d56136f613d",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om leggen van relaties tussen eenheden voor de grootheden lengte, oppervlakte, inhoud, gewicht (massa), snelheid, tijd, geld en temperatuur.",
-		"id": "7e95b9bc-41b1-4498-8764-4cdc62e77aa5"
+		"id": "7e95b9bc-41b1-4498-8764-4cdc62e77aa5",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om rekenen met enkelvoudige en samengestelde grootheden.",
-		"id": "a0ea9f83-dea9-4ac5-9256-0c6c0c4c7381"
+		"id": "a0ea9f83-dea9-4ac5-9256-0c6c0c4c7381",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om betekenis geven aan oppervlakte, omtrek en inhoud en deze kunnen bepalen.",
-		"id": "7ee24c12-2c32-4f17-afe5-e00412dc9e13"
+		"id": "7ee24c12-2c32-4f17-afe5-e00412dc9e13",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om redeneren met en over eigenschappen van meetkundige figuren en begrippen.",
-		"id": "353fe9e1-aad3-4884-a3d9-159674ed40cb"
+		"id": "353fe9e1-aad3-4884-a3d9-159674ed40cb",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om redeneren met kijklijnen.",
-		"id": "932ad307-30be-4edb-9129-68e09a4ecc09"
+		"id": "932ad307-30be-4edb-9129-68e09a4ecc09",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om construeren en interpreteren van plattegronden, routebeschrijvingen en wegwijzers.",
-		"id": "b6b60759-5641-424a-8ddc-440a4570d264"
+		"id": "b6b60759-5641-424a-8ddc-440a4570d264",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om construeren en interpreteren van tweedimensionale representaties van eenvoudige driedimensionale figuren.",
-		"id": "f7df61b3-d287-42b1-9bc2-aae18e949d5c"
+		"id": "f7df61b3-d287-42b1-9bc2-aae18e949d5c",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om draaien, spiegelen, vergroten en verkleinen van figuren.",
-		"id": "19d621c7-9380-44fb-89dd-87c5329f9bc9"
+		"id": "19d621c7-9380-44fb-89dd-87c5329f9bc9",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om invullen van tabellen bij datasets.",
-		"id": "eb5af718-7627-4f6c-a7b8-6f6767d4a639"
+		"id": "eb5af718-7627-4f6c-a7b8-6f6767d4a639",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om berekenen en interpreteren van een gemiddelde.",
-		"id": "2319666f-0d94-425a-9979-1c6af140b81e"
+		"id": "2319666f-0d94-425a-9979-1c6af140b81e",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om maken van grafische representaties van datasets en daaruit conclusies trekken.",
-		"id": "33c95219-dd9f-49c9-9a71-0e097e1bafe8"
+		"id": "33c95219-dd9f-49c9-9a71-0e097e1bafe8",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om interpreteren van grafische representaties en beredeneren of daarbij gepresenteerde conclusies wel, niet of deels kloppen.",
-		"id": "54689575-d1e4-4e67-a0cb-e424cba0a350"
+		"id": "54689575-d1e4-4e67-a0cb-e424cba0a350",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om herkennen, beschrijven en voortzetten van een patroon in een rij getallen of figuren.",
-		"id": "0c87ac24-2f34-4fd3-8721-f176030c8def"
+		"id": "0c87ac24-2f34-4fd3-8721-f176030c8def",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om herkennen en beschrijven van een patroon of verband in een dataset.",
-		"id": "de84a915-1f24-4c4d-9770-e3811457c92f"
+		"id": "de84a915-1f24-4c4d-9770-e3811457c92f",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om weergeven van patronen en verbanden in een beschrijving, tabel en grafiek, en deze weergaven in elkaar omzetten.",
-		"id": "4724707c-349b-4841-9d03-da1da0eeb4da"
+		"id": "4724707c-349b-4841-9d03-da1da0eeb4da",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om herkennen of een probleem met wiskunde kan worden opgelost.",
-		"id": "73643c82-8ef9-4026-bdfb-0e153893d222"
+		"id": "73643c82-8ef9-4026-bdfb-0e153893d222",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om bedenken en uitvoeren van een aanpak voor een niet-routinematig oplosbaar probleem.",
-		"id": "4c21658c-47bf-47e3-97ba-103c9ab619ba"
+		"id": "4c21658c-47bf-47e3-97ba-103c9ab619ba",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om gebruiken van heuristieken.",
-		"id": "0ee81375-ca5f-4ee7-aa05-dbd3e2447158"
+		"id": "0ee81375-ca5f-4ee7-aa05-dbd3e2447158",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om bewerken van de uitkomsten van berekeningen tot een oplossing van een probleem.",
-		"id": "129f9de7-c14a-4a52-9709-67539d48ae22"
+		"id": "129f9de7-c14a-4a52-9709-67539d48ae22",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om reflecteren op aanpak, uitvoering en oplossing.",
-		"id": "2253ecf2-f328-4d96-8dd7-6ae6af937867"
+		"id": "2253ecf2-f328-4d96-8dd7-6ae6af937867",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om schematisch weergeven van een situatie.",
 		"description": "Overwegingen en fo_toelichting",
-		"id": "91286a45-6dc5-40b2-a49b-6d6f7a3a4791"
+		"id": "91286a45-6dc5-40b2-a49b-6d6f7a3a4791",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om selecteren van relevante details en weglaten van niet relevante details.",
 		"description": "Overwegingen en fo_toelichting",
-		"id": "30ee92c4-93b9-41f6-8dfe-09ce196c3a83"
+		"id": "30ee92c4-93b9-41f6-8dfe-09ce196c3a83",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om gebruiken van een model om een rekenwijze te laten zien, een situatie te interpreteren of een probleem op te lossen.",
 		"description": "Overwegingen en fo_toelichting",
-		"id": "8b96105e-3ee1-4336-9738-60bd783676f7"
+		"id": "8b96105e-3ee1-4336-9738-60bd783676f7",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om gebruiken van een model om te redeneren over een situatie.",
 		"description": "Overwegingen en fo_toelichting",
-		"id": "f7863122-af66-4e39-a68a-640e957e1093"
+		"id": "f7863122-af66-4e39-a68a-640e957e1093",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om beschrijven hoe een eenvoudig algoritme tot een vast resultaat leidt.",
-		"id": "777ca27c-0adf-4559-9ccd-b5797890cddf"
+		"id": "777ca27c-0adf-4559-9ccd-b5797890cddf",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om beoordelen van het resultaat van een doorlopen algoritme.",
-		"id": "720fd72d-0369-4157-94e5-dd28d1a0107f"
+		"id": "720fd72d-0369-4157-94e5-dd28d1a0107f",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om bedenken van een algoritme.",
-		"id": "30d221c5-7d08-4871-b675-0f23daa14290"
+		"id": "30d221c5-7d08-4871-b675-0f23daa14290",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om benoemen van mogelijkheden en beperkingen in de bruikbaarheid van algoritmen.",
-		"id": "75b3a809-9e22-4b54-9b9c-4e36f0ccfdef"
+		"id": "75b3a809-9e22-4b54-9b9c-4e36f0ccfdef",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om gebruiken van wiskundige symbolen en begrippen.",
-		"id": "95d910b8-ed20-4ead-98e1-ea3cb8775f3a"
+		"id": "95d910b8-ed20-4ead-98e1-ea3cb8775f3a",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om kiezen en bedenken van representaties om berekeningen en wiskundige redeneringen weer te geven.",
-		"id": "14a1e70d-9f83-4e37-89ab-00582d2511f0"
+		"id": "14a1e70d-9f83-4e37-89ab-00582d2511f0",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om kritisch beschouwen van een presentatie.",
-		"id": "1726ccfb-414e-459c-a118-ac50f560d447"
+		"id": "1726ccfb-414e-459c-a118-ac50f560d447",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om relaties leggen tussen verschillende representaties van een wiskundig concept.",
-		"id": "8fdbe45f-18cd-4b54-a0da-d3bc807a71bf"
+		"id": "8fdbe45f-18cd-4b54-a0da-d3bc807a71bf",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om uitwisselen van wiskundige ideeën en gedachten.",
-		"id": "e96ba707-4caf-46c2-93db-bd7f833ea328"
+		"id": "e96ba707-4caf-46c2-93db-bd7f833ea328",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om kiezen voor gebruik van een instrument op basis van de mogelijkheden, beperkingen en meetnauwkeurigheid.",
-		"id": "bfc7d0aa-f061-464e-9823-d3969997a8f8"
+		"id": "bfc7d0aa-f061-464e-9823-d3969997a8f8",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om vooraf schatten van een meetresultaat of een uitkomst.",
-		"id": "0b557b29-0062-485d-8d0e-066f9510a2df"
+		"id": "0b557b29-0062-485d-8d0e-066f9510a2df",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om hanteren van een instrument en de bijbehorende wiskundetaal.",
-		"id": "17183054-d86d-42df-a6a3-3d2baa0a6496"
+		"id": "17183054-d86d-42df-a6a3-3d2baa0a6496",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om interpreteren en beoordelen van het resultaat.",
-		"id": "334fa869-9f99-4bdf-a11d-af9cddcc3dd9"
+		"id": "334fa869-9f99-4bdf-a11d-af9cddcc3dd9",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om gebruiken van getallen en andere wiskundige concepten in concrete, voor de leerling relevante situaties.",
-		"id": "dc26d79e-5efe-448d-aa82-1b62d722dbf0"
+		"id": "dc26d79e-5efe-448d-aa82-1b62d722dbf0",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om gebruiken van wiskundige instrumenten bij meten en andere praktische handelingen.",
-		"id": "b287bf48-2820-416e-a128-b62148c66576"
+		"id": "b287bf48-2820-416e-a128-b62148c66576",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om wiskunde gebruiken bij het nemen van beslissingen.",
-		"id": "57c63b09-ae75-4f72-b05e-c938f3b55932"
+		"id": "57c63b09-ae75-4f72-b05e-c938f3b55932",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om herkennen dat met grafische representaties een bepaalde boodschap wordt overgebracht of benadrukt.",
-		"id": "c2094811-e85f-4092-a070-fc8c076015e9"
+		"id": "c2094811-e85f-4092-a070-fc8c076015e9",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om gebruiken en beoordelen van wiskundige informatie uit de samenleving en de media bij het vormen van een mening.",
-		"id": "c59b99aa-ca32-4ecd-bf3b-ed588e34beaf"
+		"id": "c59b99aa-ca32-4ecd-bf3b-ed588e34beaf",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om laten zien hoe andere leergebieden wiskundetaal en wiskundige representaties toepassen.",
-		"id": "4abefb7b-fec7-4887-a04b-7bccf41df499"
+		"id": "4abefb7b-fec7-4887-a04b-7bccf41df499",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om laten zien hoe getallen en andere wiskundige concepten in andere leergebieden voorkomen.",
-		"id": "152671bc-31e1-4c9e-a03e-85b224529343"
+		"id": "152671bc-31e1-4c9e-a03e-85b224529343",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om afstemmen hoe rekenwijzen en andere wiskundige aanpakken bij verschillende leergebieden worden uitgevoerd.",
-		"id": "e2451c83-9341-41aa-99d0-e1bb0cf0c473"
+		"id": "e2451c83-9341-41aa-99d0-e1bb0cf0c473",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om gebruiken van wiskundige instrumenten in andere leergebieden.",
-		"id": "9c46c994-a723-4a56-bcf7-268c0243d0db"
+		"id": "9c46c994-a723-4a56-bcf7-268c0243d0db",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om toepassen van modelgebruik en algoritmisch denken in andere leergebieden.",
-		"id": "1281997e-c637-453a-84f2-a91d2699382a"
+		"id": "1281997e-c637-453a-84f2-a91d2699382a",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om leerlingen aanmoedigen om wiskundetaal en wiskundige representaties te gebruiken die passen bij de verschillende concepten.",
-		"id": "e313dc04-d873-4fe8-867b-e4b79fdcfd45"
+		"id": "e313dc04-d873-4fe8-867b-e4b79fdcfd45",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om laten gebruiken van wiskundige instrumenten.",
-		"id": "bdbb5401-1716-4299-872a-9083a4306e5b"
+		"id": "bdbb5401-1716-4299-872a-9083a4306e5b",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om aanbieden van problemen met betrekking tot verschillende wiskundige concepten.",
-		"id": "4c78d3ae-c7a3-4ba9-bb8f-876edfa3c3d5"
+		"id": "4c78d3ae-c7a3-4ba9-bb8f-876edfa3c3d5",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om gebruiken van modellen en algoritmisch denken bij verschillende wiskundige concepten.",
-		"id": "c8b02a12-4af4-4407-bb8a-fb4b780e8cf8"
+		"id": "c8b02a12-4af4-4407-bb8a-fb4b780e8cf8",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om laten zien van het nut en de kracht van wiskunde in uiteenlopende toepassingen",
 		"description": "Het gaat hierbij om",
-		"id": "0599c4ae-4a5d-4d47-a4bd-c0d737a7f4cc"
+		"id": "0599c4ae-4a5d-4d47-a4bd-c0d737a7f4cc",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om stimuleren om vragen te stellen bij concrete getalsmatige en wiskundige informatie.",
 		"description": "Het gaat hierbij om",
-		"id": "bf867da6-5f3c-40e1-8449-55bb08b6b512"
+		"id": "bf867da6-5f3c-40e1-8449-55bb08b6b512",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om stimuleren van een onderzoekende en kritische houding ten aanzien van getallen en andere wiskundige concepten.",
 		"description": "Het gaat hierbij om",
-		"id": "11658461-b414-4a50-96cf-02b930199028"
+		"id": "11658461-b414-4a50-96cf-02b930199028",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om laten reflecteren op eigen en andermans rekenwijze en overig wiskundig handelen.",
 		"description": "Het gaat hierbij om",
-		"id": "561a832e-8783-4574-959a-aa6f8eb6df91"
+		"id": "561a832e-8783-4574-959a-aa6f8eb6df91",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om wendbaar en met inzicht gebruiken van en rekenen met getallen en hun eigenschappen, en met grootheden en eenheden.",
 		"description": "Het gaat hierbij om",
 		"prefix": "B1.1a",
-		"id": "a6bb58e0-c392-4294-8ca3-7971832d970b"
+		"id": "a6bb58e0-c392-4294-8ca3-7971832d970b",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om wendbaar en met inzicht gebruiken van en rekenen met verhoudingen.",
 		"description": "Het gaat hierbij om",
 		"prefix": "B1.1b",
-		"id": "5bcd1d36-f984-41fd-a22a-e92694c1beb9"
+		"id": "5bcd1d36-f984-41fd-a22a-e92694c1beb9",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om de bewerkingen optellen, aftrekken, vermenigvuldigen, delen, machtsverheffen en worteltrekken.",
 		"description": "Het gaat hierbij om",
 		"prefix": "B1.1c",
-		"id": "c37697f5-193a-4466-afee-cd788c6bbbd4"
+		"id": "c37697f5-193a-4466-afee-cd788c6bbbd4",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om relaties leggen tussen eenheden.",
 		"description": "Het gaat hierbij om",
 		"prefix": "B1.1d",
-		"id": "048f01f5-4e51-4011-ae3f-6beaa7be5513"
+		"id": "048f01f5-4e51-4011-ae3f-6beaa7be5513",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om bepalen van oppervlakte, omtrek en inhoud van meetkundige figuren.",
 		"description": "Het gaat hierbij om",
 		"prefix": "B1.1e",
-		"id": "265c5e16-e583-4812-989e-094bb16c4af3"
+		"id": "265c5e16-e583-4812-989e-094bb16c4af3",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om rekenen met standaardprocedures en eigenschappen van bewerkingen.",
 		"description": "Het gaat hierbij om",
 		"prefix": "B1.2a",
-		"id": "f0522392-3206-4b7c-bb28-815ee3b19433"
+		"id": "f0522392-3206-4b7c-bb28-815ee3b19433",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486",
+						"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		 			]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om herleiden van algebraïsche uitdrukkingen.",
 		"description": "Het gaat hierbij om",
 		"prefix": "B1.2b",
-		"id": "8f9eb028-7ee6-4516-a524-2a7a4b9fd74a"
+		"id": "8f9eb028-7ee6-4516-a524-2a7a4b9fd74a",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486",
+						"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		 			]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om gebruiken van de wetenschappelijke notatie van grote en kleine getallen.",
 		"description": "Het gaat hierbij om",
 		"prefix": "B1.2c",
-		"id": "fd055ad5-9a1c-4033-b4a3-e2c5dc9be851"
+		"id": "fd055ad5-9a1c-4033-b4a3-e2c5dc9be851",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486",
+						"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		 			]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om meten van grootheden en daarbij bepalen van de meet(on)nauwkeurigheid en effecten daarvan bepalen.",
 		"description": "Het gaat hierbij om",
 		"prefix": "B1.2d",
-		"id": "fa10d4de-d2d9-42de-be32-5550f37e179f"
+		"id": "fa10d4de-d2d9-42de-be32-5550f37e179f",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486",
+						"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		 			]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om redeneren met en over eigenschappen van meetkundige figuren en begrippen en deze eigenschappen gebruiken in berekeningen en constructies.",
 		"description": "Het gaat hierbij om",
 		"prefix": "B5.1a",
-		"id": "bc7136ea-97bd-4dd8-935e-353dee80e1d0"
+		"id": "bc7136ea-97bd-4dd8-935e-353dee80e1d0",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om redeneren met kijklijnen",
 		"description": "Het gaat hierbij om",
 		"prefix": "B5.1b",
-		"id": "71001e4e-3dd8-412d-8f35-666fdfa32689"
+		"id": "71001e4e-3dd8-412d-8f35-666fdfa32689",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om construeren en interpreteren van tweedimensionale representaties van driedimensionale figuren.",
 		"description": "Het gaat hierbij om",
 		"prefix": "B5.1c",
-		"id": "2af4a3e0-39e9-4552-bdeb-346e37fa7913"
+		"id": "2af4a3e0-39e9-4552-bdeb-346e37fa7913",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om verschuiven, draaien, spiegelen, vergroten en verkleinen van figuren.",
 		"description": "Het gaat hierbij om",
 		"prefix": "B5.1d",
-		"id": "13959ad6-3bf8-42ab-ba36-2bce6c5516fa"
+		"id": "13959ad6-3bf8-42ab-ba36-2bce6c5516fa",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om berekenen van hoeken en afmetingen van rechthoekige driehoeken met behulp van goniometrische verhoudingen.",
 		"description": "Het gaat hierbij om",
 		"prefix": "B5.1a",
-		"id": "d326847f-a000-4868-a221-cf898a746470"
+		"id": "d326847f-a000-4868-a221-cf898a746470",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486",
+						"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		 			]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om opstellen van tabellen bij datasets.",
 		"prefix": "B6.1a",
-		"id": "78b37ede-bf76-4cb4-a1de-e70078afaee4"
+		"id": "78b37ede-bf76-4cb4-a1de-e70078afaee4",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om berekenen, interpreteren en gebruiken van centrummaten.",
 		"prefix": "B6.1b",
-		"id": "d47d76e8-5820-42a9-a9ae-1d99896f3ff5"
+		"id": "d47d76e8-5820-42a9-a9ae-1d99896f3ff5",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om maken van grafische representaties van datasets en daaruit conclusies trekken.",
 		"prefix": "B6.1c",
-		"id": "fa51bfed-1099-4312-83cf-49720282f46e"
+		"id": "fa51bfed-1099-4312-83cf-49720282f46e",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om onderbouwd kiezen van passende representaties.",
 		"prefix": "B6.1d",
-		"id": "199bad75-67e3-443d-af42-6bbceb8ba6c8"
+		"id": "199bad75-67e3-443d-af42-6bbceb8ba6c8",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om interpreteren van grafische representaties en beredeneren of daarbij gepresenteerde conclusies wel, niet of deels kloppen.",
 		"prefix": "B6.1e",
-		"id": "db548812-0687-47ff-97c7-e5171b2cf39b"
+		"id": "db548812-0687-47ff-97c7-e5171b2cf39b",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om analyseren van univariate en bivariate datasets.",
 		"prefix": "B6.1a",
-		"id": "f5f947c0-dee3-462a-8b5e-e572291e36ea"
+		"id": "f5f947c0-dee3-462a-8b5e-e572291e36ea",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486",
+						"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		 			]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om berekenen, interpreteren en gebruiken van spreidingsbreedte en interkwartielafstand.",
 		"prefix": "B6.1b",
-		"id": "70011aa3-0849-4edc-a264-2c4a973cdb04"
+		"id": "70011aa3-0849-4edc-a264-2c4a973cdb04",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486",
+						"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		 			]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om globaal vergelijken van twee datasets.",
 		"prefix": "B6.1c",
-		"id": "18152397-5e39-49ca-9832-1bded8496a35"
+		"id": "18152397-5e39-49ca-9832-1bded8496a35",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486",
+						"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		 			]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om onderscheiden van correlatie en causaliteit.",
 		"prefix": "B6.1d",
-		"id": "ee8fd311-6784-4f93-8af6-fa64debb983b"
+		"id": "ee8fd311-6784-4f93-8af6-fa64debb983b",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486",
+						"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		 			]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om herkennen, beschrijven en voortzetten van een patroon in een rij getallen of figuren.",
 		"prefix": "B7.1a",
-		"id": "3c7336f9-f881-4202-bf58-2c957cd83760"
+		"id": "3c7336f9-f881-4202-bf58-2c957cd83760",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om identificeren van een patroon of een verband in een dataset.",
 		"prefix": "B7.1b",
-		"id": "125d2c0b-ce33-4c6c-b79f-b8c9784f5bb0"
+		"id": "125d2c0b-ce33-4c6c-b79f-b8c9784f5bb0",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om identificeren van grootheden die met elkaar in verband staan, en dat verband beschrijven.",
 		"prefix": "B7.1c",
-		"id": "b6de2467-2f59-437c-8bfb-8de369186a7b"
+		"id": "b6de2467-2f59-437c-8bfb-8de369186a7b",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om weergeven van patronen en verbanden in een beschrijving, tabel, grafiek en formule, en deze weergaven in elkaar omzetten.",
 		"prefix": "B7.1d",
-		"id": "5422462e-3662-4555-b12f-57fb52e82191"
+		"id": "5422462e-3662-4555-b12f-57fb52e82191",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om herkennen en beschrijven van een standaardverband in verschillende representaties, en redeneren met standaardverbanden.",
 		"prefix": "B7.1e",
-		"id": "90f9961e-aea0-44db-8069-329c0f469c53"
+		"id": "90f9961e-aea0-44db-8069-329c0f469c53",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om beschrijven van een patroon in een rij getallen met een formule.",
 		"prefix": "B7.1a",
-		"id": "9d54e051-df4a-49c4-9a4c-8aeb77a520cc"
+		"id": "9d54e051-df4a-49c4-9a4c-8aeb77a520cc",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486",
+						"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		 			]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om uitleggen wanneer een verband een functie is.",
 		"prefix": "B7.1a",
-		"id": "9bfe24ba-2083-4d01-a8aa-d9b8b1dbf8d3"
+		"id": "9bfe24ba-2083-4d01-a8aa-d9b8b1dbf8d3",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486",
+						"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		 			]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om beschrijven van het veranderingsgedrag van een functie.",
 		"prefix": "B7.1a",
-		"id": "dc0813a5-19dc-4167-b221-7c21935a6bf2"
+		"id": "dc0813a5-19dc-4167-b221-7c21935a6bf2",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486",
+						"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		 			]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om herkennen van een standaardverband in verschillende representaties.",
 		"prefix": "B7.1a",
-		"id": "5e081e14-a588-44c1-85fb-6bca031e0744"
+		"id": "5e081e14-a588-44c1-85fb-6bca031e0744",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486",
+						"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		 			]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om gebruiken van de eigenschappen van een standaardverband.",
 		"prefix": "B7.1a",
-		"id": "a96f92fd-7e15-4ded-9fab-4f5d1b4ca510"
+		"id": "a96f92fd-7e15-4ded-9fab-4f5d1b4ca510",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486",
+						"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		 			]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om betekenis geven aan een wiskundige vergelijking.",
 		"prefix": "B8.1a",
-		"id": "695f7ad9-e8cf-40de-baa4-5eb2f593cba1"
+		"id": "695f7ad9-e8cf-40de-baa4-5eb2f593cba1",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om opstellen van een vergelijking om een situatie te modelleren.",
 		"prefix": "B8.1b",
-		"id": "2f43eaab-54c5-4bc0-8eef-783835cc444d"
+		"id": "2f43eaab-54c5-4bc0-8eef-783835cc444d",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om een gegeven vergelijking in verband brengen met een situatie en met andere gelijkwaardige vergelijkingen.",
 		"prefix": "B8.1c",
-		"id": "7c8a8255-274d-4f97-801b-4ff6d12af6b7"
+		"id": "7c8a8255-274d-4f97-801b-4ff6d12af6b7",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om oplossen van vergelijkingen.",
 		"prefix": "B8.1d",
-		"id": "7f64a204-d578-43c1-9b25-7facc9025126"
+		"id": "7f64a204-d578-43c1-9b25-7facc9025126",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om interpreteren van de gevonden oplossing.",
 		"prefix": "B8.1e",
-		"id": "35c2c916-c6aa-4012-b6e6-2ac9903dc42c"
+		"id": "35c2c916-c6aa-4012-b6e6-2ac9903dc42c",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om exact oplossen van kwadratische en machtsvergelijkingen.",
 		"prefix": "B8.1f",
-		"id": "993f978b-b56e-49b6-a923-b43b6ace620a"
+		"id": "993f978b-b56e-49b6-a923-b43b6ace620a",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486",
+						"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		 			]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om oplossen van ongelijkheden.",
 		"prefix": "B8.1g",
-		"id": "223a7204-4046-484d-8da4-f13d5419d0b2"
+		"id": "223a7204-4046-484d-8da4-f13d5419d0b2",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486",
+						"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		 			]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om een kans weergeven als breuk, verhouding, percentage en decimaal getal.",
 		"prefix": "B9.1a",
-		"id": "0da9fe9e-7dec-4eb9-9726-4c8b88053828"
+		"id": "0da9fe9e-7dec-4eb9-9726-4c8b88053828",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om op basis van kansen inschatten hoe waarschijnlijk het is dat gebeurtenissen plaatsvinden.",
 		"prefix": "B9.1a",
-		"id": "fb54b77f-01b1-4437-81cb-ddad3286a31d"
+		"id": "fb54b77f-01b1-4437-81cb-ddad3286a31d",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om uitrekenen van verwachtingswaarden met behulp van kansen.",
 		"prefix": "B9.1a",
-		"id": "618c1668-d038-40bf-b31f-151fed33b2ca"
+		"id": "618c1668-d038-40bf-b31f-151fed33b2ca",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om interpreteren van empirische en theoretische kansen",
 		"prefix": "B9.2a",
-		"id": "de63da87-7e93-423c-9163-9ea383fc3e97"
+		"id": "de63da87-7e93-423c-9163-9ea383fc3e97",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486",
+						"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		 			]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om berekenen van kansen met behulp van kansregels en combinatoriek.",
 		"prefix": "B9.2b",
-		"id": "91cadf11-b763-463b-ae74-b97413ea4bdc"
+		"id": "91cadf11-b763-463b-ae74-b97413ea4bdc",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486",
+						"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		 			]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om herkennen of een probleem met wiskunde kan worden opgelost.",
 		"prefix": "C1.1a",
-		"id": "7aca5aec-9b08-4774-a4d7-be13fe50f102"
+		"id": "7aca5aec-9b08-4774-a4d7-be13fe50f102",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om analyseren van een niet-routinematig oplosbaar probleem en bedenken en uitvoeren van een aanpak.",
-		"id": "d715d211-8888-4397-8b0f-fc79eabfea88"
+		"id": "d715d211-8888-4397-8b0f-fc79eabfea88",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om gebruiken van heuristieken.",
-		"id": "3a4b6a72-547b-434c-92a7-f83a80399b78"
+		"id": "3a4b6a72-547b-434c-92a7-f83a80399b78",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om bewerken van de uitkomsten van berekeningen tot een oplossing van een probleem.",
-		"id": "cdab04cc-1c2f-45ac-97af-5cf0ae2a397b"
+		"id": "cdab04cc-1c2f-45ac-97af-5cf0ae2a397b",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om reflecteren op aanpak, uitvoering en oplossing.",
-		"id": "b914b06b-de21-4daf-8d6a-82abf80217ad"
+		"id": "b914b06b-de21-4daf-8d6a-82abf80217ad",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om weergeven van een situatie met gebruik van een digitaal instrument.",
 		"prefix": "C2.1a",
-		"id": "6eb2b203-8e9c-4bfe-adbf-748a52789ccc"
+		"id": "6eb2b203-8e9c-4bfe-adbf-748a52789ccc",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om selecteren van relevante details en weglaten van niet relevante details.",
-		"id": "3f28044a-3b09-4c20-9a06-53d843c7a7c7"
+		"id": "3f28044a-3b09-4c20-9a06-53d843c7a7c7",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om kiezen van een geschikt model en evalueren van deze keuze.",
-		"id": "ae84a9b6-49fa-43bf-9ae0-067a7f91c793"
+		"id": "ae84a9b6-49fa-43bf-9ae0-067a7f91c793",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om gebruiken van een model om een rekenwijze te laten zien, een situatie te interpreteren of een probleem op te lossen.",
-		"id": "06a4ca9d-b50f-4df8-94ef-17ab41ccac19"
+		"id": "06a4ca9d-b50f-4df8-94ef-17ab41ccac19",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om gebruiken van een model om te redeneren over een situatie.",
-		"id": "c9c6ed82-a8bb-48a6-adea-9ed7c207771e"
+		"id": "c9c6ed82-a8bb-48a6-adea-9ed7c207771e",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om wiskundig modelleren van een situatie",
 		"prefix": "C2.1a",
-		"id": "4f69a8c9-fa7d-4197-ac15-d3ce27c4bafb"
+		"id": "4f69a8c9-fa7d-4197-ac15-d3ce27c4bafb",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486",
+						"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		 			]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om uiten van een vermoeden of formuleren van een bewering.",
 		"prefix": "C3.1a",
-		"id": "65844a3e-743a-4ccf-97a4-a93d4a25d645"
+		"id": "65844a3e-743a-4ccf-97a4-a93d4a25d645",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om toepassen van logische redeneerprincipes en daarmee conclusies trekken.",
-		"id": "4d9b3f5c-2dbe-4f06-8209-a70b4e654949"
+		"id": "4d9b3f5c-2dbe-4f06-8209-a70b4e654949",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om gebruiken van wiskundetaal en wiskundige representaties bij het formuleren en onderbouwen van een redenering.",
-		"id": "70d2710a-a676-409a-86c6-ad454cf2b496"
+		"id": "70d2710a-a676-409a-86c6-ad454cf2b496",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om kritisch beschouwen van een redenering van iemand anders.",
-		"id": "36dcb5d5-e982-41a3-b222-da34df6c3fbc"
+		"id": "36dcb5d5-e982-41a3-b222-da34df6c3fbc",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om wiskundig bewijzen van een bewering.",
-		"id": "10990516-3e6f-45f0-a071-38e6c9c9bf6a"
+		"id": "10990516-3e6f-45f0-a071-38e6c9c9bf6a",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486",
+						"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		 			]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om verantwoorden van een redeneeraanpak in formele stappen",
-		"id": "56e5f063-331a-425d-826e-7dda4c114862"
+		"id": "56e5f063-331a-425d-826e-7dda4c114862",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486",
+						"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		 			]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om beschrijven en schematisch weergeven hoe een algoritme tot een vast resultaat leidt.",
-		"id": "c1c3451b-0676-4d69-9bef-81507bb41b96"
+		"id": "c1c3451b-0676-4d69-9bef-81507bb41b96",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om beoordelen van het resultaat van een doorlopen algoritme.",
-		"id": "5a13d5b0-4b9b-4c37-aa1a-00844147e6b1"
+		"id": "5a13d5b0-4b9b-4c37-aa1a-00844147e6b1",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om ontwerpen van een algoritme voor de aanpak van een probleem.",
-		"id": "83125ca4-a12f-4961-b1c6-038bc7921368"
+		"id": "83125ca4-a12f-4961-b1c6-038bc7921368",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om benoemen van mogelijkheden en beperkingen in de bruikbaarheid van algoritmen.",
-		"id": "e7353df5-4d06-4d28-a4cd-6ab56bc63627"
+		"id": "e7353df5-4d06-4d28-a4cd-6ab56bc63627",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om verbeteren van de efficiëntie van een algoritme door een aanpassing te bedenken.",
-		"id": "7deb96b5-4549-407f-90f6-e02ca5793529"
+		"id": "7deb96b5-4549-407f-90f6-e02ca5793529",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486",
+						"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		 			]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om schematisch beschrijven van een algoritme met een formele beschrijvingstechniek.",
-		"id": "54e01707-8c44-42ea-887f-d60705618327"
+		"id": "54e01707-8c44-42ea-887f-d60705618327",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486",
+						"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		 			]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om gebruiken van wiskundige symbolen en begrippen.",
-		"id": "3f6ac9fa-cf0e-4fdb-97b1-465f132b3afa"
+		"id": "3f6ac9fa-cf0e-4fdb-97b1-465f132b3afa",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om kiezen en bedenken van representaties om berekeningen en wiskundige redeneringen weer te geven.",
-		"id": "7f3fc213-d0ec-41a2-8fc0-03276d3acabe"
+		"id": "7f3fc213-d0ec-41a2-8fc0-03276d3acabe",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om kritisch beschouwen van een representatie.",
-		"id": "ee3b2184-5262-40af-9881-04005e2c4b94"
+		"id": "ee3b2184-5262-40af-9881-04005e2c4b94",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om relaties leggen tussen verschillende representaties van een wiskundig concept.",
-		"id": "f5903977-a73c-411c-81a7-31e794f4b74a"
+		"id": "f5903977-a73c-411c-81a7-31e794f4b74a",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om uitwisselen van wiskundige ideeën en gedachten.",
-		"id": "16a24ff9-a8c3-4361-9e3a-f8d563ec0ed9"
+		"id": "16a24ff9-a8c3-4361-9e3a-f8d563ec0ed9",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om kiezen voor gebruik van een instrument op basis van de mogelijkheden, beperkingen en meetnauwkeurigheid.",
-		"id": "7e486f51-cc8c-4d15-be6a-febcb98c3aa8"
+		"id": "7e486f51-cc8c-4d15-be6a-febcb98c3aa8",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om vooraf schatten van een meetresultaat of een uitkomst.",
-		"id": "edb0329b-4eb9-4803-bb57-6ce302ac5b8e"
+		"id": "edb0329b-4eb9-4803-bb57-6ce302ac5b8e",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om hanteren van een instrument en de bijbehorende wiskundetaal.",
-		"id": "2e3cf114-b5df-418d-8ed5-7accfcbb3372"
+		"id": "2e3cf114-b5df-418d-8ed5-7accfcbb3372",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om interpreteren en beoordelen van het resultaat.",
-		"id": "e6607881-af20-40a6-8cf6-6e18abe2f3b2"
+		"id": "e6607881-af20-40a6-8cf6-6e18abe2f3b2",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om uitvoeren van berekeningen met een digitaal instrument, en aangeven van de mate van nauwkeurigheid van de uitkomst.",
-		"id": "8398ccbf-c7e9-47ed-9aea-662bfee886c9"
+		"id": "8398ccbf-c7e9-47ed-9aea-662bfee886c9",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486",
+						"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		 			]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om gebruiken van getallen en andere wiskundige concepten in concrete, voor de leerling relevante dagelijkse en beroepsmatige situaties.",
-		"id": "ca09d48a-49b5-4c92-83e9-52cf2db24d20"
+		"id": "ca09d48a-49b5-4c92-83e9-52cf2db24d20",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om inzetten van wiskundige instrumenten voor gebruik bij meten en andere praktische handelingen.",
-		"id": "b5976ff0-6265-44f0-b24e-d70747796a61"
+		"id": "b5976ff0-6265-44f0-b24e-d70747796a61",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om wiskunde gebruiken bij het nemen van beslissingen.",
-		"id": "12d2e3ac-173f-4ec2-a57e-dd254654c5df"
+		"id": "12d2e3ac-173f-4ec2-a57e-dd254654c5df",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om herkennen dat met grafische representaties een bepaalde boodschap wordt overgebracht of benadrukt.",
-		"id": "55bcd96e-fc81-46fc-a4d1-96ba713ccb38"
+		"id": "55bcd96e-fc81-46fc-a4d1-96ba713ccb38",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om gebruiken en beoordelen van wiskundige informatie uit de samenleving, de media en een beroepscontext bij het vormen van een mening.",
-		"id": "f08f1470-5275-4f5a-9dc1-a9e97ef21c0d"
+		"id": "f08f1470-5275-4f5a-9dc1-a9e97ef21c0d",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om herkennen hoe wiskunde in allerlei beroepen op uiteenlopende manieren een rol speelt.",
-		"id": "ea78d075-a07a-41a2-ac44-337dbffa09ff"
+		"id": "ea78d075-a07a-41a2-ac44-337dbffa09ff",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om laten zien hoe andere leergebieden wiskundetaal en wiskundige representaties toepassen.",
-		"id": "a78e38af-b531-4a04-a184-f3b570d31e2b"
+		"id": "a78e38af-b531-4a04-a184-f3b570d31e2b",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om laten zien hoe getallen en andere wiskundige concepten in andere leergebieden voorkomen.",
-		"id": "084d6fb9-fab1-4e7d-b1aa-22dbba0db987"
+		"id": "084d6fb9-fab1-4e7d-b1aa-22dbba0db987",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om afstemmen hoe rekenwijzen en andere wiskundige aanpakken bij verschillende leergebieden worden uitgevoerd.",
-		"id": "0765e736-b37d-4012-b7f8-808417937e22"
+		"id": "0765e736-b37d-4012-b7f8-808417937e22",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om gebruiken van wiskundige instrumenten in andere leergebieden.",
-		"id": "fe472165-8655-4770-b6b4-08d777f12e78"
+		"id": "fe472165-8655-4770-b6b4-08d777f12e78",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om toepassen van modelgebruik en algoritmisch denken in andere leergebieden.",
-		"id": "2db47992-145e-4457-a2be-07478ba8908c"
+		"id": "2db47992-145e-4457-a2be-07478ba8908c",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om leerlingen aanmoedigen om wiskundetaal en wiskundige representaties te gebruiken die passen bij de verschillende wiskundige concepten.",
-		"id": "4a6bce45-20c5-4639-a4a4-155db19686cc"
+		"id": "4a6bce45-20c5-4639-a4a4-155db19686cc",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om laten gebruiken van wiskundige instrumenten.",
-		"id": "70917d43-27c5-4c06-9a7d-6b64e6fcbcec"
+		"id": "70917d43-27c5-4c06-9a7d-6b64e6fcbcec",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om aanbieden van problemen met betrekking tot verschillende wiskundige concepten.",
-		"id": "d439e7c8-0283-41da-82c8-06ff98d8e1f3"
+		"id": "d439e7c8-0283-41da-82c8-06ff98d8e1f3",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om gebruiken van modellen en algoritmisch denken bij verschillende wiskundige concepten.",
-		"id": "3902bf38-48bd-41ab-8a85-91f1f753e500"
+		"id": "3902bf38-48bd-41ab-8a85-91f1f753e500",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om leerlingen vragen om beweringen over verschillende wiskundige concepten aan te tonen.",
-		"id": "fbe28710-17ad-4996-af95-81b30ccd7f56"
+		"id": "fbe28710-17ad-4996-af95-81b30ccd7f56",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om laten zien van het nut en de kracht van wiskunde in uiteenlopende toepassingen.",
 		"description": "Het gaat hierbij om",
 		"prefix": "A1.1a",
-		"id": "925b27d1-7706-40ae-906b-93fa495d64e3"
+		"id": "925b27d1-7706-40ae-906b-93fa495d64e3",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om stimuleren om vragen te stellen bij concrete getalsmatige en wiskundige informatie.",
 		"description": "Het gaat hierbij om",
 		"prefix": "A1.1b",
-		"id": "89775bfc-1ca1-4afc-8107-6604fe1c9fbc"
+		"id": "89775bfc-1ca1-4afc-8107-6604fe1c9fbc",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om stimuleren van een onderzoekende en kritische houding ten aanzien van getallen en andere wiskundige concepten.",
 		"description": "Het gaat hierbij om",
 		"prefix": "A1.1c",
-		"id": "3a649a72-9d33-45ea-9021-bf266906ef8c"
+		"id": "3a649a72-9d33-45ea-9021-bf266906ef8c",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om laten reflecteren op eigen en andermans rekenwijze en overig wiskundig handelen.",
 		"description": "Het gaat hierbij om",
 		"prefix": "A1.1d",
-		"id": "32596138-3a08-4873-8522-d6fde8448b9d"
+		"id": "32596138-3a08-4873-8522-d6fde8448b9d",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om inzicht bieden in hoe leerlingen wiskunde kunnen inzetten in de bovenbouw en het verdere leven.",
 		"description": "Het gaat hierbij om",
 		"prefix": "A1.1e",
-		"id": "c0515655-ce7e-474c-8fea-5d915793634c"
+		"id": "c0515655-ce7e-474c-8fea-5d915793634c",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om aandachtig kijken en luisteren naar of vloeiend lezen van zakelijke en literaire teksten.",
 		"description": "Het gaat hierbij om",
 		"prefix": "A1.1a",
-		"id": "3fd71129-c7e8-4adc-8d70-971c7a9eab82"
+		"id": "3fd71129-c7e8-4adc-8d70-971c7a9eab82",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om zowel inzetten als vergroten van kennis van de wereld, woordenschat en kennis over teksten en taal.",
 		"description": "Het gaat hierbij om",
 		"prefix": "A1.1b",
-		"id": "17c5a89c-9b2e-44ab-ba13-f635cbf1ae5a"
+		"id": "17c5a89c-9b2e-44ab-ba13-f635cbf1ae5a",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om herkennen van perspectieven, publiek, context en communicatief doel: informeren, amuseren, instrueren of overtuigen.",
 		"description": "Het gaat hierbij om",
 		"prefix": "A1.1c",
-		"id": "fa176038-a1ba-44bd-be56-12155013137b"
+		"id": "fa176038-a1ba-44bd-be56-12155013137b",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om reageren op, evalueren van en reflecteren op de waarde en inhoud van teksten.",
 		"description": "Het gaat hierbij om",
 		"prefix": "A1.1d",
-		"id": "27f82b87-4d91-4bfa-ac85-023477c122ab"
+		"id": "27f82b87-4d91-4bfa-ac85-023477c122ab",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om bepalen van aanpak en het flexibel toepassen van begripsverhogende strategieën.",
 		"description": "Het gaat hierbij om",
 		"prefix": "A1.1e",
-		"id": "309ddcc3-a1ff-4ca0-97d1-b6ac921f443e"
+		"id": "309ddcc3-a1ff-4ca0-97d1-b6ac921f443e",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om formuleren van gesproken, geschreven en multimediale teksten die toenemen in complexiteit en abstractie met betrekken tot onderwerp en tekststructuur, passend bij een divers publiek, formelere contexten en verschillende communicatieve doelen: informeren, amuseren, instrueren of overtuigen.",
-		"id": "08ca123b-0f96-4369-95da-31f042b3715f"
+		"id": "08ca123b-0f96-4369-95da-31f042b3715f",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om zowel inzetten als vergroten van kennis van de wereld, verteltechnieken, tekstkenmerken en -structuren, woordkeus, zinsbouw, taal- en schriftconventies, taalverzorging en tekstopmaak.",
-		"id": "3a8f0eda-dd95-4e9c-9f2c-5b632053d616"
+		"id": "3a8f0eda-dd95-4e9c-9f2c-5b632053d616",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om schrijven op letter-, schrift- en tekstniveau met een leesbaar handschrift en typschrift, en verstaanbaar spreken.",
-		"id": "aac4d2f5-9af3-460b-81f9-72e2adca9e7e"
+		"id": "aac4d2f5-9af3-460b-81f9-72e2adca9e7e",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om bepalen van de spreek- of schrijfaanpak.",
-		"id": "62b955f3-796c-42d4-ae45-cfb642214696"
+		"id": "62b955f3-796c-42d4-ae45-cfb642214696",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om reviseren van teksten aan de hand van feedback.",
-		"id": "d63a71d0-0d29-4a39-8a2f-34a3e715c970"
+		"id": "d63a71d0-0d29-4a39-8a2f-34a3e715c970",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om uitdrukking geven aan ideeën, gedachten, ervaringen, gevoelens en fantasieën.",
-		"id": "28709407-4f53-47fc-ba4f-03e369610714"
+		"id": "28709407-4f53-47fc-ba4f-03e369610714",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om experimenteren met klanken, woorden, zinnen, literaire genres, taalregels, taalconventies en visuele vormen, en het bewust doorbreken hiervan.",
-		"id": "ee04293d-6a41-47e0-8695-3b4a1edee028"
+		"id": "ee04293d-6a41-47e0-8695-3b4a1edee028",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om verkennen van ontluikende kenmerken van de eigen stijl.",
-		"id": "424b2260-2ff5-4e2a-a02f-e494a551270a"
+		"id": "424b2260-2ff5-4e2a-a02f-e494a551270a",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om openstaan voor talige creaties van anderen.",
-		"id": "b6c50b88-3307-4aae-8cd8-be553ffe654d"
+		"id": "b6c50b88-3307-4aae-8cd8-be553ffe654d",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om verwoorden van eigen en andermans keuzes met betrekking tot inhoud en vorm.",
-		"id": "97fa385b-f42b-49d9-a9cc-7046be00f89c"
+		"id": "97fa385b-f42b-49d9-a9cc-7046be00f89c",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om noteren van gelezen, bekeken of beluisterde informatie.",
-		"id": "dc7c00e1-41d7-4107-a0cf-37457ca228e0"
+		"id": "dc7c00e1-41d7-4107-a0cf-37457ca228e0",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om samenvatten van gelezen informatie.",
-		"id": "55c8700a-f5e5-492a-ad78-6ed7b5fb2563"
+		"id": "55c8700a-f5e5-492a-ad78-6ed7b5fb2563",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om verwoorden, ordenen en structureren van gedachten, verworven inzichten en kennis in tekst of visuele vorm.",
-		"id": "b9e8e767-467d-47d4-b036-07f477e8421f"
+		"id": "b9e8e767-467d-47d4-b036-07f477e8421f",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om uitbreiden van school- en vaktaal.",
-		"id": "5348ac1f-fcbd-418e-b156-6bcc59a79445"
+		"id": "5348ac1f-fcbd-418e-b156-6bcc59a79445",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om schrijven op letter-, schrift- en tekstniveau met een leesbaar handschrift en typschrift.",
-		"id": "34427b27-6904-4c61-a533-d1e981c92dfc"
+		"id": "34427b27-6904-4c61-a533-d1e981c92dfc",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om beoordelen van betrouwbaarheid op basis van duidelijk aanwezige kenmerken van de bron: maker, communicatief doel en actualiteit.",
-		"id": "0621e04c-ddc5-4ee6-8bb4-9265f4881061"
+		"id": "0621e04c-ddc5-4ee6-8bb4-9265f4881061",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om analyseren en controleren van de inhoud van de bron en onderscheiden van hoofd- en bijzaken, feiten en meningen, perspectieven en framing.",
-		"id": "b242154f-a37a-4d8b-bb32-1b6895a0b59f"
+		"id": "b242154f-a37a-4d8b-bb32-1b6895a0b59f",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om vergelijken en onderscheiden van soorten aangereikte bronnen op basis van betrouwbaarheid en inhoud.",
-		"id": "d6703495-ddb0-4791-874a-7594ce66afb7"
+		"id": "d6703495-ddb0-4791-874a-7594ce66afb7",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om verkennen van zoekmogelijkheden binnen verschillende aangereikte bronnen.",
-		"id": "972e26fb-c0e0-4f08-a426-9b469358bef1"
+		"id": "972e26fb-c0e0-4f08-a426-9b469358bef1",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om hanteren van een passende lees, kijk- of luisteraanpak bij het zoeken naar informatie in bronnen.",
-		"id": "3019fdbb-5720-4ab9-a36c-e8296315bf68"
+		"id": "3019fdbb-5720-4ab9-a36c-e8296315bf68",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om doelgericht selecteren en vergelijken van bruikbare informatie uit bronnen.",
-		"id": "678ba36e-8188-4c63-b024-c55ebc3b5e93"
+		"id": "678ba36e-8188-4c63-b024-c55ebc3b5e93",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om structureren, parafraseren en samenvatten van informatie met correcte vermelding van gebruikte bronnen.",
-		"id": "d8db6839-5ac5-489d-b575-ab28f3301edd"
+		"id": "d8db6839-5ac5-489d-b575-ab28f3301edd",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om formuleren van een gestructureerde tekst op basis van geselecteerde informatie, afgestemd op doel, publiek en context.",
-		"id": "a0fe8562-bd97-4df5-a15c-25d677a9b22d"
+		"id": "a0fe8562-bd97-4df5-a15c-25d677a9b22d",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om verwoorden van gedachten en waarnemingen bij de uitvoering van een activiteit.",
-		"id": "c32bd0a0-6f8b-41fc-9158-12de23ec20b5"
+		"id": "c32bd0a0-6f8b-41fc-9158-12de23ec20b5",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om evalueren van het product van de taalactiviteit.",
-		"id": "c29c5103-a23f-45eb-909a-fa9a01ce3073"
+		"id": "c29c5103-a23f-45eb-909a-fa9a01ce3073",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om reflecteren op en bijstellen van de gekozen aanpak en strategieën in relatie tot het proces en product.",
-		"id": "e772c380-c471-4766-8682-e2cf1c603971"
+		"id": "e772c380-c471-4766-8682-e2cf1c603971",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om geven, ontvangen en verwerken van feedback.",
-		"id": "7820b751-6917-4b65-a374-dfc85b089fbf"
+		"id": "7820b751-6917-4b65-a374-dfc85b089fbf",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om formuleren van leerdoelen en maken van keuzes voor toekomstige taalactiviteiten op basis van evaluatie en reflectie.",
-		"id": "593d1ae0-e877-4f01-88c0-05ce5c894c88"
+		"id": "593d1ae0-e877-4f01-88c0-05ce5c894c88",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om afstemmen op communicatief doel: informeren, amuseren, instrueren of overtuigen, in verschillende contexten.",
-		"id": "bb651c4a-099c-4cf9-af91-999a72bd805e"
+		"id": "bb651c4a-099c-4cf9-af91-999a72bd805e",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om afstemmen op gesprekspartner: kennis, achtergrond, standpunt en perspectief.",
-		"id": "e7f6a8c7-134e-431b-813d-dee1e4857d0e"
+		"id": "e7f6a8c7-134e-431b-813d-dee1e4857d0e",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om afstemmen op context: talig repertoire, toon, intonatie, volume en non-verbale communicatie.",
-		"id": "e0e8993a-fdd4-443d-a06a-68659f730ead"
+		"id": "e0e8993a-fdd4-443d-a06a-68659f730ead",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om constructief laten verlopen van on- en offline gesprekken met behulp van schrift- en gespreksconventies.",
-		"id": "6690ddfd-19fb-4c1f-8af6-3ecf3f394ff3"
+		"id": "6690ddfd-19fb-4c1f-8af6-3ecf3f394ff3",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om constructief laten verlopen van gesprekken met behulp van gespreksconventies.",
-		"id": "28a8e9fa-bef0-4a4d-9d54-e2d0b2e9c7b6"
+		"id": "28a8e9fa-bef0-4a4d-9d54-e2d0b2e9c7b6",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om verwoorden van gedachten, inzichten en kennis over concepten, verschijnselen en aanpakken.",
-		"id": "2acf621a-aa8a-48e8-9ca5-32f111e69481"
+		"id": "2acf621a-aa8a-48e8-9ca5-32f111e69481",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om vragen om en antwoorden op verzoek om toelichting, verklaring of verificatie.",
-		"id": "03148df7-82b2-4311-bc69-58b6107f4417"
+		"id": "03148df7-82b2-4311-bc69-58b6107f4417",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om analyseren van informatie en perspectieven.",
-		"id": "a51376df-8674-422a-9946-e92126239349"
+		"id": "a51376df-8674-422a-9946-e92126239349",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om beargumenteren en samenvatten van standpunten, opgedane kennis, beslissingen of gekozen aanpak.",
-		"id": "a0fda18f-9919-40e8-ab65-c48bdd01013f"
+		"id": "a0fda18f-9919-40e8-ab65-c48bdd01013f",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om beschouwen van relaties tussen klankvormen en hun betekenis en functie: letterklanken, intonatie, klemtoon, ritme.",
-		"id": "a088160e-688a-4ccf-8add-02948b34321e"
+		"id": "a088160e-688a-4ccf-8add-02948b34321e",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om beschouwen van relaties tussen complexe woordvormen, zinnen en teksten en hun betekenissen: lettergrepen, samenstellingen, afleidingen, verbuigingen, vervoegingen, samentrekkingen, samengestelde en complexe zinnen.",
-		"id": "975fde19-978d-4504-9ff7-cf8ad75985bb"
+		"id": "975fde19-978d-4504-9ff7-cf8ad75985bb",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om beschouwen van afwijkende woordvolgordes en de zinsopbouw rondom een werkwoord, waarbij elk zinsdeel en elke woordsoort een stukje informatie toevoegt aan de zin.",
-		"id": "bbe3656a-62ff-429c-a30f-2de8f14fe298"
+		"id": "bbe3656a-62ff-429c-a30f-2de8f14fe298",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om inzetten van taalkundige begrippen en taalbeschouwingsstrategieën: analyseren, vergelijken, ordenen, relateren, categoriseren.",
-		"id": "30fb4587-57f8-44ad-a181-ddd2cd16f572"
+		"id": "30fb4587-57f8-44ad-a181-ddd2cd16f572",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om opmerken van effecten van keuzes in taalgebruik: woordgebruik, register, zins- en tekstopbouw en stijlmiddelen, in relatie tot een communicatief doel.",
-		"id": "a5cde8ce-9cee-462f-aca8-6612c2f65500"
+		"id": "a5cde8ce-9cee-462f-aca8-6612c2f65500",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om toepassen van kennis over klankvorm, woordvorming en zinsbouw bij spelling.",
-		"id": "ca57bc75-5e6e-4c66-871b-98c30e764d8e"
+		"id": "ca57bc75-5e6e-4c66-871b-98c30e764d8e",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om toepassen van regels en procedures op woord-, zins- en tekstniveau: spelling, formulering, interpunctie, tekstconventies en tekstopmaak.",
-		"id": "42b735b5-9e33-41ff-9229-a379919de0bb"
+		"id": "42b735b5-9e33-41ff-9229-a379919de0bb",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om tonen van spellinggeweten en spellingbewustzijn.",
-		"id": "b13cd1df-7962-4d26-908b-5b717c148592"
+		"id": "b13cd1df-7962-4d26-908b-5b717c148592",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om inzetten van hulpmiddelen en bronnen om regels en procedures correct toe te passen en teksten te redigeren.",
-		"id": "171498c1-bf5e-4ed9-8e0d-6522c22f61c7"
+		"id": "171498c1-bf5e-4ed9-8e0d-6522c22f61c7",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om benutten van het eigen talige repertoire in de volle breedte: talen en taalvariëteiten, gebaren, lichaamstaal.",
-		"id": "6deffb4b-6366-48ed-88d9-4ea4116e9ce0"
+		"id": "6deffb4b-6366-48ed-88d9-4ea4116e9ce0",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om experimenteren met het eigen talige repertoire met een beoogd effect, in relatie tot publiek, doel en context.",
-		"id": "54ebf950-8a25-4e57-b192-0b460dd238c6"
+		"id": "54ebf950-8a25-4e57-b192-0b460dd238c6",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om reflecteren op hoe je overkomt op anderen op basis van bewuste keuzes in je eigen talige repertoire.",
-		"id": "f20d4dfa-1a3c-4a98-8017-ce80cc6721d1"
+		"id": "f20d4dfa-1a3c-4a98-8017-ce80cc6721d1",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om herkennen van expressie van verschillende identiteiten in gelezen, beluisterde of bekeken teksten.",
-		"id": "03af05b3-8174-4b58-9dca-623afe96e187"
+		"id": "03af05b3-8174-4b58-9dca-623afe96e187",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om waarderen van het eigen talige repertoire.",
-		"id": "df4cf92d-29b9-4190-b28a-519fbfe704fc"
+		"id": "df4cf92d-29b9-4190-b28a-519fbfe704fc",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om beschouwen van verschillende taalvariëteiten van het Nederlands: school- en vaktaal, groeps- en streektalen en talen in beroepscontexten.",
-		"id": "17f804bb-45b2-4ad9-aa9b-426f93bc1e88"
+		"id": "17f804bb-45b2-4ad9-aa9b-426f93bc1e88",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om verkennen van de contexten waarin verschillende talen en taalvariëteiten worden gebruikt.",
-		"id": "c915ca8a-079d-4985-8824-90b8467ea9c9"
+		"id": "c915ca8a-079d-4985-8824-90b8467ea9c9",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om beschouwen van oordelen over verschillende talen en taalvariëteiten.",
-		"id": "ce4f2edd-0c47-42a7-92d5-29f5dbd4a8ac"
+		"id": "ce4f2edd-0c47-42a7-92d5-29f5dbd4a8ac",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om verkennen van overeenkomsten en verschillen tussen het Nederlands en andere talen en taalvariëteiten op klank-, woord- en zinsniveau.",
-		"id": "8374d6dd-bcfe-482e-9655-cff7ef373d9d"
+		"id": "8374d6dd-bcfe-482e-9655-cff7ef373d9d",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om analyseren van verschillen tussen taalgebruik van vroeger en nu in gesproken en geschreven teksten.",
-		"id": "500cecff-4a39-4ab4-983a-7a12e4043dfd"
+		"id": "500cecff-4a39-4ab4-983a-7a12e4043dfd",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om analyseren van veranderingen in vorm, betekenis en gebruik.",
-		"id": "50ab9b31-a034-40a5-b2e2-e74ed9dae353"
+		"id": "50ab9b31-a034-40a5-b2e2-e74ed9dae353",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om beschouwen van nieuwe woorden en uitdrukkingen in het Nederlands onder invloed van media, digitalisering en taalcontact.",
-		"id": "16e38f8a-7b3a-46a8-92b2-37b5a9cad107"
+		"id": "16e38f8a-7b3a-46a8-92b2-37b5a9cad107",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om herkennen hoe het effect van keuzes in taalgebruik beïnvloed wordt door actuele en maatschappelijke thema’s.",
-		"id": "5752b62a-4cd2-491b-a3d0-a7d6b8428f85"
+		"id": "5752b62a-4cd2-491b-a3d0-a7d6b8428f85",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om verkennen hoe literatuur door de eeuwen heen wordt doorgegeven.",
-		"id": "782e4867-0192-44d3-8242-a93e0bd9bca3"
+		"id": "782e4867-0192-44d3-8242-a93e0bd9bca3",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om beschrijven welk probleem of welke wens van een hoofdpersoon de motor van het verhaal is, hoe het verhaal zich ontwikkelt en wat die ontwikkeling beïnvloedt.",
-		"id": "fce4c74b-60c9-4f7d-9e5d-146a5f5f8d45"
+		"id": "fce4c74b-60c9-4f7d-9e5d-146a5f5f8d45",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om onderscheiden van soorten personages en het beschrijven van hun ontwikkeling.",
-		"id": "2075a809-5fbd-4718-bf90-271fc3262853"
+		"id": "2075a809-5fbd-4718-bf90-271fc3262853",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om uitleggen wat het effect is van het vertelperspectief.",
-		"id": "204fd921-3b3e-40b8-b5f0-db35efff53aa"
+		"id": "204fd921-3b3e-40b8-b5f0-db35efff53aa",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om beschrijven hoe een schrijver verschillende technieken gebruikt om bepaalde effecten te bereiken.",
-		"id": "a2428383-cd5f-43bc-b739-8e1fcfbdc07c"
+		"id": "a2428383-cd5f-43bc-b739-8e1fcfbdc07c",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om beschrijven waar, wanneer en onder welke omstandigheden een verhaal zich afspeelt.",
-		"id": "e181cb1d-2472-4a0d-bd35-3d3418704f8d"
+		"id": "e181cb1d-2472-4a0d-bd35-3d3418704f8d",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om herkennen van genres en mengvormen van genres in poëzie-, proza- en dramateksten.",
-		"id": "0359e292-78bc-4bbd-954c-651426dc92c5"
+		"id": "0359e292-78bc-4bbd-954c-651426dc92c5",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om verkennen van de rol van beeldgebruik in diverse genres.",
-		"id": "035837e2-17e8-4c75-8844-05bef5fdbff9"
+		"id": "035837e2-17e8-4c75-8844-05bef5fdbff9",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om herkennen van het effect van figuurlijk taalgebruik, stijlfiguren, beeldspraak, rijm, ritme en visuele elementen.",
-		"id": "348d776d-aca9-4cd6-b422-c5e3dd4e2f41"
+		"id": "348d776d-aca9-4cd6-b422-c5e3dd4e2f41",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om analyseren van het effect van verschillende verschijningsvormen van literatuur.",
-		"id": "95b43e1b-871c-405d-ae6b-b96b76a7b4a9"
+		"id": "95b43e1b-871c-405d-ae6b-b96b76a7b4a9",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Te denken valt aan ontdekken van de stijl van een schrijver door te kijken naar woord- en taalgebruik.",
-		"id": "1a2c0823-db7e-415f-b6d0-aa69090e99b5"
+		"id": "1a2c0823-db7e-415f-b6d0-aa69090e99b5",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ],
+		"deleted": 1
 	},
 	{
 		"title": "Concept - Het gaat hierbij om verkennen van rijke en gevarieerde literatuur, van verschillende genres en schrijvers.",
-		"id": "a562ce4b-2f13-49de-bab1-56127f893caa"
+		"id": "a562ce4b-2f13-49de-bab1-56127f893caa",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om evalueren van persoonlijke lees-, luister- en kijkervaringen.",
-		"id": "b1c160e4-9ab7-4377-93f5-2f52c658b716"
+		"id": "b1c160e4-9ab7-4377-93f5-2f52c658b716",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om beargumenteren van persoonlijke voorkeur en keuzes op basis van tekstgenres en -kenmerken, de eigen leesvaardigheid en interesse.",
-		"id": "58d7bb3e-205d-4a40-ae88-370a3774802c"
+		"id": "58d7bb3e-205d-4a40-ae88-370a3774802c",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om aangaan van nieuwe leesuitdagingen binnen een vaste leesroutine en verbreden van de eigen leesvoorkeur.",
-		"id": "36e69179-2816-4613-bf45-687287202dee"
+		"id": "36e69179-2816-4613-bf45-687287202dee",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om lezen, luisteren en bekijken van rijke en gevarieerde literaire teksten in allerlei verschijningsvormen: mondeling, schriftelijk en multimediaal.",
-		"id": "d88101fc-2aae-43cb-b21e-6f74337dc154"
+		"id": "d88101fc-2aae-43cb-b21e-6f74337dc154",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om verwoorden van persoonlijke leeservaring en -beleving na het lezen van literatuur.",
-		"id": "512d6152-be29-4199-89f9-3e839414c9fc"
+		"id": "512d6152-be29-4199-89f9-3e839414c9fc",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om verwoorden van opgedane inzichten en kennis over zichzelf en andere mensen na het lezen van literatuur.",
-		"id": "dd453fa7-344f-473c-b74d-c28d49df8c65"
+		"id": "dd453fa7-344f-473c-b74d-c28d49df8c65",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om verwoorden van opgedane inzichten en kennis over de wereld en culturen na het lezen van literatuur.",
-		"id": "afae381b-a84f-48e0-9449-572a66438a15"
+		"id": "afae381b-a84f-48e0-9449-572a66438a15",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om geven van een beargumenteerd waardeoordeel over de tekst.",
-		"id": "d98f01dd-90b1-4e09-933e-5270e0d6e4a1"
+		"id": "d98f01dd-90b1-4e09-933e-5270e0d6e4a1",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Te denken valt aan benutten van literatuur om een bepaald maatschappelijk probleem te beschouwen.",
-		"id": "fe508061-60cd-4472-9ace-1930f9fe7ca8"
+		"id": "fe508061-60cd-4472-9ace-1930f9fe7ca8",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ],
+		"deleted": 1
 	},
 	{
 		"title": "Concept - Het gaat hierbij om lezen, bekijken of beluisteren van literatuur die is ontstaan in verschillende periodes of contexten.",
-		"id": "94335125-e256-4bbc-b990-d01a08bc7c6a"
+		"id": "94335125-e256-4bbc-b990-d01a08bc7c6a",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om benoemen van de periode of context waarin een schrijver de literaire tekst geschreven heeft.",
-		"id": "1216e8a5-63fb-4642-a6fc-59b9b06adaa3"
+		"id": "1216e8a5-63fb-4642-a6fc-59b9b06adaa3",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om vergelijken van verschillende edities van literaire teksten.",
-		"id": "27b27a12-326f-4dff-8b41-072b02e925c8"
+		"id": "27b27a12-326f-4dff-8b41-072b02e925c8",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om herkennen van universele thema’s in literatuur door de tijd heen.",
-		"id": "40c99d9c-9a02-4bde-a395-01479d9427d4"
+		"id": "40c99d9c-9a02-4bde-a395-01479d9427d4",
+		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om in aanraking laten komen met authentieke, vakoverstijgende, thematische contexten.",
 		"description": "Het gaat hierbij om",
-		"id": "8f2405a3-0708-4f9b-a955-16ab877e2bc9"
+		"id": "8f2405a3-0708-4f9b-a955-16ab877e2bc9",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om in aanraking laten komen met uitdagende teksten en een divers en actueel aanbod van literatuur binnen een vaste leesroutine.",
 		"description": "Het gaat hierbij om",
-		"id": "d0cd729e-b8ac-4b51-8eaf-c891a1622eda"
+		"id": "d0cd729e-b8ac-4b51-8eaf-c891a1622eda",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om aanbieden van kennis en vaardigheden uit het leergebied Nederlands in onderlinge samenhang.",
 		"description": "Het gaat hierbij om",
-		"id": "360a5406-c3e3-4e49-9d14-3c4d71d56dfd"
+		"id": "360a5406-c3e3-4e49-9d14-3c4d71d56dfd",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om stimuleren van de leesmotivatie en de durf om te spreken en te schrijven.",
 		"description": "Het gaat hierbij om",
-		"id": "fa0933e0-1fcd-47f9-81f1-5ef7c6f93653"
+		"id": "fa0933e0-1fcd-47f9-81f1-5ef7c6f93653",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om ruimte bieden aan verschillende talen en taalvariëteiten van leerlingen.",
 		"description": "Het gaat hierbij om",
-		"id": "aea8823e-a935-4334-a7b1-6c733fe8b8e9"
+		"id": "aea8823e-a935-4334-a7b1-6c733fe8b8e9",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om gelegenheid bieden tot taalproductie in alle leergebieden: gesprekken voeren, schrijven en spreken.",
-		"id": "208ca70f-9717-4ba9-91aa-c5d9a34fb210"
+		"id": "208ca70f-9717-4ba9-91aa-c5d9a34fb210",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om gelegenheid bieden tot het lezen, bekijken en beluisteren van authentieke en uitdagende teksten die passen bij het leergebied.",
-		"id": "92011225-276a-4e65-8599-39e7ccf070c5"
+		"id": "92011225-276a-4e65-8599-39e7ccf070c5",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om aanbieden van activiteiten in betekenisvolle contexten waarin vakspecifieke taalvaardigheden en school- en vaktaal verworven kunnen worden.",
-		"id": "91a05aaa-e0c9-4054-b40f-4a0e8f0d3a62"
+		"id": "91a05aaa-e0c9-4054-b40f-4a0e8f0d3a62",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om stimuleren van het inzetten van kennis over taal, teksten, tekststructuur en taalverzorging bij talige activiteiten in het leergebied.",
-		"id": "24fdf3dd-deca-4f8c-9627-c49d4a3c7558"
+		"id": "24fdf3dd-deca-4f8c-9627-c49d4a3c7558",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	},
 	{
 		"title": "Concept - Het gaat hierbij om aanbieden van een set van aanpakken en flexibel inzetbare strategieën bij het uitvoeren van taalactiviteiten.",
-		"id": "3bd387ab-c4bb-4e0f-aa8f-020ccf17fc9e"
+		"id": "3bd387ab-c4bb-4e0f-aa8f-020ccf17fc9e",
+		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725" ]
 	}
 ]

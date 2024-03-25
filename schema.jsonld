@@ -12,6 +12,9 @@
 			"@id": "http://purl.org/dc/terms/description",
 			"@type": "@id"
 		},
+		"fo_set": {
+			"@id": "fo:#fo_set"
+		},
 		"fo_domein": {
 			"@id": "fo:#fo_domein"
 		},

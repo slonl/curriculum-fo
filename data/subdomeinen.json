@@ -1,5 +1,17 @@
 [
 	{
+		"title": "Taal- en leesomgeving",
+		"prefix": "1",
+		"id": "aee67b40-36cb-47c1-938d-c6fc5e1fa969",
+		"deleted": 1
+	},
+	{
+		"title": "Taal in de leergebieden",
+		"prefix": "2",
+		"id": "016e67b5-b872-4aed-9f6d-692f74e8d147",
+		"deleted": 1
+	},
+	{
 		"title": "Taalvaardigheid",
 		"fo_doelzin_id": [
 			"75ee36f1-4e54-48fa-8e0e-09bca848fa15",
@@ -15,20 +27,20 @@
 			"4b8b8c36-9b85-4c23-98b2-9edc18da8de9",
 			"04afcc55-a280-4b92-a19a-c13b653c7381",
 			"9f51f9d0-3f95-4179-a0f5-cc905e85be8e",
-			"70191486-92d4-4c68-9793-6602e6c29423",
-			"59c23efd-bdd7-43b0-ba0c-e518dca752a3",
-			"35ae3aa0-5100-4e9a-9f8e-2d3281487d83"
+			"70191486-92d4-4c68-9793-6602e6c29423"
 		],
-		"prefix": "A1",
+		"prefix": "1",
 		"id": "ec631940-2fa2-4104-8534-48c321938064"
 	},
 	{
 		"title": "Interactie",
 		"fo_doelzin_id": [
 			"2744a98d-e0af-4127-bf97-37b3ea359a02",
-			"5d349652-de45-4a35-8de6-b7ce54a461cc"
+			"5d349652-de45-4a35-8de6-b7ce54a461cc",
+			"59c23efd-bdd7-43b0-ba0c-e518dca752a3",
+			"35ae3aa0-5100-4e9a-9f8e-2d3281487d83"
 		],
-		"prefix": "A2",
+		"prefix": "2",
 		"id": "c06ef855-4173-4098-8093-faf2fc662a3d"
 	},
 	{
@@ -39,7 +51,7 @@
 			"0c5c554b-3901-44f8-aaa0-6e7b63caf5fc",
 			"0a247c35-3e9a-48b9-bebd-1ab6810c5b48"
 		],
-		"prefix": "B1",
+		"prefix": "1",
 		"id": "7d7429dc-a684-402b-9de2-70cbde32fe2e"
 	},
 	{
@@ -52,7 +64,7 @@
 			"ea4f56f1-e2b4-471c-8146-daf144b3209c",
 			"450eefee-b96e-4379-9646-9254bf482f9a"
 		],
-		"prefix": "B2",
+		"prefix": "2",
 		"id": "c4bc56e6-5bf7-4f82-8cb8-e87e4874d262"
 	},
 	{
@@ -63,7 +75,7 @@
 			"0f2d88a0-c594-48d2-835c-c1953eb284d0",
 			"ad8f866e-2374-4eb7-b3cc-e46b61efd94c"
 		],
-		"prefix": "C1",
+		"prefix": "1",
 		"id": "fcfd6fc2-8c96-4899-baa4-c891ed5cfc30"
 	},
 	{
@@ -75,33 +87,24 @@
 			"d385da82-ed53-4ad6-9617-38bd67a44178",
 			"0a6cd39a-020f-4449-8a0c-b283f1d271ff"
 		],
-		"prefix": "C2",
+		"prefix": "2",
 		"id": "0c5615c5-79a0-4e1e-9514-37d37483c4d4"
 	},
 	{
-		"title": "Taal- en leesomgeving",
+		"title": "Wiskundige attitude",
 		"fo_doelzin_id": [
-			"efff8a4b-cbd5-4775-aa8f-0d3f98733e6b",
-			"ef048d52-0a42-4dd1-a529-ca059c3572bf"
+			"561469ee-a769-4997-bc6e-e38335eaaf0a",
+			"718ea081-6bc6-45d3-84dc-f8aabf7a13e6"
 		],
-		"prefix": "O1",
-		"id": "aee67b40-36cb-47c1-938d-c6fc5e1fa969"
-	},
-	{
-		"title": "Taal in de leergebieden",
-		"fo_doelzin_id": [
-			"9f550d27-58cf-4252-8b6b-ff8246c8eca6",
-			"51cea2c3-4e4c-443f-8975-3f4501a51af3"
-		],
-		"prefix": "O2",
-		"id": "016e67b5-b872-4aed-9f6d-692f74e8d147"
+		"prefix": "1",
+		"id": "80728dbe-872f-4966-97dd-254c407a62a9"
 	},
 	{
 		"title": "Gehele en decimale getallen",
 		"fo_doelzin_id": [
 			"a93af3e3-91f0-49ee-8e28-42fb57daf454"
 		],
-		"prefix": "B1",
+		"prefix": "1",
 		"id": "d67aef82-df50-4694-8bf5-d598f440a2aa"
 	},
 	{
@@ -109,7 +112,7 @@
 		"fo_doelzin_id": [
 			"da74e273-b43e-40d5-8e74-74cd4758ca62"
 		],
-		"prefix": "B2",
+		"prefix": "2",
 		"id": "ce8334e9-9f85-4150-a6d0-b979d74023b1"
 	},
 	{
@@ -117,7 +120,7 @@
 		"fo_doelzin_id": [
 			"afd82083-0658-472a-a516-b278b569c30c"
 		],
-		"prefix": "B3",
+		"prefix": "3",
 		"id": "865a753b-0cd6-41a4-a746-90c06109ef5b"
 	},
 	{
@@ -125,7 +128,7 @@
 		"fo_doelzin_id": [
 			"038bf3e2-c920-430b-8c0a-ccbf820b7c55"
 		],
-		"prefix": "B4",
+		"prefix": "4",
 		"id": "1405dcb6-881d-4dcc-bb2c-2999911cbc46"
 	},
 	{
@@ -134,7 +137,7 @@
 			"3440792f-6cce-4f11-88d7-1c4ea5688665",
 			"3089168f-c571-43d4-8ccc-4587fa3094d7"
 		],
-		"prefix": "B5",
+		"prefix": "5",
 		"id": "7ea9982f-a272-4041-890c-7f8f88b7b810"
 	},
 	{
@@ -143,7 +146,7 @@
 			"56596b75-b0da-4d54-b5cb-2778b26a16a7",
 			"9dbb4295-a30b-45fa-82da-a62ae1a09916"
 		],
-		"prefix": "B6",
+		"prefix": "6",
 		"id": "26ab0c31-a706-4c6f-aa5a-324e1350de32"
 	},
 	{
@@ -152,8 +155,25 @@
 			"65649cd4-ad64-4187-942c-d82792c3d7d3",
 			"87ea652f-c267-46b9-b1d0-ffb27248abc0"
 		],
-		"prefix": "B7",
+		"prefix": "7",
 		"id": "dc8d41c4-75aa-44d1-8294-f8483e20a0d8"
+	},
+	{
+		"title": "Vergelijkingen",
+		"fo_doelzin_id": [
+			"f3992bb7-8658-4ff1-9317-dccd8603d9cf"
+		],
+		"prefix": "8",
+		"id": "b081353d-0eaf-4264-b00b-3751e8af8379"
+	},
+	{
+		"title": "Kans",
+		"fo_doelzin_id": [
+			"33766238-41bd-46d5-8462-15075b1e330f",
+			"0ed7e779-7884-4848-9bec-89e51dfcf572"
+		],
+		"prefix": "9",
+		"id": "ba3be884-54c3-465e-8dd7-34d6424398f5"
 	},
 	{
 		"title": "Wiskundig probleemoplossen",
@@ -161,7 +181,7 @@
 			"3e321838-9e34-4db8-af4a-ca5f92e62049",
 			"c9e39d4f-dc31-4931-b15a-f46a74eb17f1"
 		],
-		"prefix": "C1",
+		"prefix": "1",
 		"id": "1403209e-27f4-44e0-9165-e692e7c6b7b9"
 	},
 	{
@@ -170,12 +190,12 @@
 			"4e99fb88-c09c-4de7-b062-d2e1671a879b",
 			"0c42c5f9-5e3d-477b-a4e2-09b95c9d8133"
 		],
-		"prefix": "C2",
+		"prefix": "2",
 		"id": "cb62974e-f1f1-4b0d-94ad-ff59b39aeb2b"
 	},
 	{
 		"title": "Aantonen",
-		"prefix": "C3",
+		"prefix": "3",
 		"id": "8e6acbe9-d7ac-40df-8b46-757bbf24f4a2",
 		"fo_doelzin_id": [
 			"3f2a764a-3055-4128-80e1-763476691bdf"
@@ -187,7 +207,7 @@
 			"b9fce428-e0b3-4524-832d-22dfb2a44af7",
 			"0956691b-5ed5-4c1f-a952-58e16b07ad5d"
 		],
-		"prefix": "C4",
+		"prefix": "4",
 		"id": "916f627b-027a-49db-812f-cac54f668b6b"
 	},
 	{
@@ -196,8 +216,17 @@
 			"6cabfbd4-c370-47fb-9144-776e7bf4cd5f",
 			"62a0730b-8c50-43f7-a6cd-3342d0c0607f"
 		],
-		"prefix": "C5",
+		"prefix": "5",
 		"id": "306a635a-1fe8-4669-9c4a-0990589981e2"
+	},
+	{
+		"title": "Gebruiken van wiskundige instrumenten",
+		"fo_doelzin_id": [
+			"b071f771-aae1-4438-9661-85d53ac885d8",
+			"ff4483c9-86da-4de8-8661-b4d4801ebbcf"
+		],
+		"prefix": "6",
+		"id": "fef7f188-ebe3-4dc8-8545-de86b24de15b"
 	},
 	{
 		"title": "Wiskunde in de werkelijkheid",
@@ -205,7 +234,7 @@
 			"bb06ac58-b4c5-4dd6-b75f-50941ffb2380",
 			"347fe2cf-3c24-4502-8111-b811cd981675"
 		],
-		"prefix": "D1",
+		"prefix": "1",
 		"id": "ab9ed902-977f-4446-bdba-1fc71aeb691f"
 	},
 	{
@@ -214,7 +243,7 @@
 			"7c5743b8-2c72-4fbd-b308-a3eea257ce07",
 			"24509a03-2564-48bc-80ff-5df287166046"
 		],
-		"prefix": "D2",
+		"prefix": "2",
 		"id": "95216c9d-0b03-4937-b4c5-d780d4e78a87"
 	},
 	{
@@ -223,24 +252,15 @@
 			"ec3fe6d1-5f47-425f-8075-df6b98c605b7",
 			"9c5c8409-4d99-407e-a23c-18fd88d63de4"
 		],
-		"prefix": "D3",
+		"prefix": "3",
 		"id": "86c6d359-30b1-40b9-883d-5279704f6825"
-	},
-	{
-		"title": "Wiskundige attitude",
-		"fo_doelzin_id": [
-			"561469ee-a769-4997-bc6e-e38335eaaf0a",
-			"718ea081-6bc6-45d3-84dc-f8aabf7a13e6"
-		],
-		"prefix": "A1",
-		"id": "80728dbe-872f-4966-97dd-254c407a62a9"
 	},
 	{
 		"title": "Getallen en grootheden",
 		"fo_doelzin_id": [
 			"f1c491e6-16f5-45c5-a28a-44654d660085"
 		],
-		"prefix": "B1",
+		"prefix": "1",
 		"id": "1bf7f6c7-9f88-4d9a-97c6-2033f3f6f675"
 	},
 	{
@@ -248,33 +268,7 @@
 		"fo_doelzin_id": [
 			"bbd09b8c-1618-4c7c-baf9-34b206a6cf7f"
 		],
-		"prefix": "B1….",
+		"prefix": "1",
 		"id": "14ff2946-023a-4d61-9fb1-1e132408da53"
-	},
-	{
-		"title": "Vergelijkingen",
-		"fo_doelzin_id": [
-			"f3992bb7-8658-4ff1-9317-dccd8603d9cf"
-		],
-		"prefix": "B8",
-		"id": "b081353d-0eaf-4264-b00b-3751e8af8379"
-	},
-	{
-		"title": "Kans",
-		"fo_doelzin_id": [
-			"33766238-41bd-46d5-8462-15075b1e330f",
-			"0ed7e779-7884-4848-9bec-89e51dfcf572"
-		],
-		"prefix": "B9",
-		"id": "ba3be884-54c3-465e-8dd7-34d6424398f5"
-	},
-	{
-		"title": "Gebruiken van wiskundige instrumenten",
-		"fo_doelzin_id": [
-			"b071f771-aae1-4438-9661-85d53ac885d8",
-			"ff4483c9-86da-4de8-8661-b4d4801ebbcf"
-		],
-		"prefix": "C6",
-		"id": "fef7f188-ebe3-4dc8-8545-de86b24de15b"
 	}
 ]

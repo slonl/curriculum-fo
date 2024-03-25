@@ -1,0 +1,30 @@
+[
+	{
+		"title": "Kerndoelen Nederlands",
+		"vakleergebied_id": [
+			"e41b8c50-d002-4a9f-be8b-9b5da0008656"
+		],
+		"fo_domein_id": [
+			"0d2e4fb8-cc61-427d-8ce7-ef6a2bf12e5e",
+			"eabb7766-d2b2-4e03-a296-234330510a63",
+			"6d328b4b-a3b9-4080-a92e-de84b802907b",
+			"5d0676d3-fbea-4ab9-8ce1-fb1b3a622236"
+		],
+		"karakteristiek": "blabla",
+		"id": "8cf4960c-acd2-46eb-8c8c-2658f760f010"
+	},
+	{
+		"title": "Kerndoelen rekenen en wiskunde",
+		"vakleergebied_id": [
+			"fdd97fff-f5e5-4b82-b937-9ab302666c50"
+		],
+		"fo_domein_id": [
+			"60d3f360-a7ba-421f-9f4b-c18a48bd4c13",
+			"f87d2b59-714b-4b94-9dfa-81e49632ad4e",
+			"7b38ff3a-19b8-4980-b282-5f27e9bf38c6",
+			"499a6542-3e4b-4595-b9b6-543591e66ae1"
+		],
+		"karakteristiek": "blabla",
+		"id": "38c59501-0446-407f-8b44-2f16e30a44fd"
+	}
+]

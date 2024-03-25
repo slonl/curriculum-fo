@@ -3,7 +3,7 @@
 	"$schema": "http://json-schema.org/draft-07/schema#",
 	"type": "object",
 	"definitions": {
-		"fo_domein": {
+		"fo_set": {
 			"allOf": [ 
 				{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/base" },
 				{
@@ -14,15 +14,39 @@
 								{ "items": { "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/vakleergebied" } }
 							]
 						},
+						"fo_domein_id": {
+							"allOf": [
+								{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
+								{ "items": { "itemTypeReference": "#/definitions/fo_domein" } }
+							]
+						},
+						"prefix": { "type": "string" },
+						"karakteristiek": { "type": "string" }
+					},
+					"required": ["id", "title", "vakleergebied_id", "fo_domein_id"]
+				}
+			]
+		},
+		"fo_domein": {
+			"allOf": [ 
+				{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/base" },
+				{
+					"properties": {
 						"fo_subdomein_id": {
 							"allOf": [
 								{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
 								{ "items": { "itemTypeReference": "#/definitions/fo_subdomein" } }
 							]
 						},
+						"fo_doelzin_id": {
+							"allOf": [
+								{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
+								{ "items": { "itemTypeReference": "#/definitions/fo_doelzin" } }
+							]
+						},
 						"prefix": { "type": "string" }
 					},
-					"required": ["id", "title", "vakleergebied_id", "fo_subdomein_id"]
+					"required": ["id", "title", "fo_subdomein_id"]
 				}
 			]
 		},
@@ -61,15 +85,8 @@
 							]
 						},
 						"prefix": { "type": "string" },
-						"niveau_id" : {
-							"allOf": [
-								{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
-								{ "items": { "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/niveau" } }
-							]
-						},
-						"soort": { "type": "string",
-								  "enum": ["kerndoel", "eindterm"]	
-						}
+						"soort": { "type": "string",   "enum": ["kerndoel", "eindterm"]	},
+						"ce_se": { "type": "string" }
 					},
 					"required": ["id", "title", "fo_toelichting_id", "fo_uitwerking_id"]
 				}
@@ -82,6 +99,12 @@
 					"properties": {
 						"prefix": { "type": "string" }
 					},
+					"niveau_id" : {
+						"allOf": [
+							{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
+							{ "items": { "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/niveau" } }
+						]
+					},
 					"required": ["id", "title"]
 				}
 			]
@@ -93,12 +116,24 @@
 					"properties": {
 						"prefix": { "type": "string" }
 					},
+					"niveau_id" : {
+						"allOf": [
+							{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
+							{ "items": { "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/niveau" } }
+						]
+					},
 					"required": ["id", "title"]
 				}
 			]
 		},
 		"allEntities" : {
 			"properties" : {
+				"fo_set_id" : {
+					"allOf": [ {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"} ],
+					"items": {
+						"itemTypeReference": "#/definitions/fo_set"
+					}
+				},
 				"fo_domein_id" : {
 					"allOf": [ {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"} ],
 					"items": {
@@ -133,6 +168,13 @@
 		}
 	},
 	"properties": {
+		"fo_set": {
+			"#file": "data/sets.json",
+			"type" : "array",
+			"items": {
+				"$ref": "#/definitions/fo_set"
+			}
+		},
 		"fo_domein": {
 			"#file": "data/domeinen.json",
 			"type" : "array",
@@ -173,5 +215,5 @@
 			"type" : "array"
 		}
 	},
-	"required": ["fo_domein","fo_subdomein","fo_doelzin","fo_uitwerking","fo_toelichting"]
+	"required": ["fo_set","fo_domein","fo_subdomein","fo_doelzin","fo_uitwerking","fo_toelichting"]
 }
