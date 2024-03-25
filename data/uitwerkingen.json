@@ -2638,119 +2638,179 @@
 		"title": "Het gaat hierbij om",
 		"description": "Concept - Het gaat hierbij om beschrijven van de onderdelen en de werking van digitale systemen in termen van invoer-verwerking-uitvoer; gebruiken van de basale mogelijkheden van software voor communicatie, samenwerken tekenen, rekenen, tekstverwerken, presenteren en beeld-, geluid- en videobewerken.",
 		"id": "1ba7dca9-477a-4233-8d3c-0d649a60109a",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om",
 		"description": "Concept - Het gaat hierbij om beheren van bestanden in digitale omgevingen door ze gestructureerd te ordenen, op te slaan en op te vragen.",
 		"id": "e836dd41-f9c1-49ee-94e3-14486d49a27a",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om",
 		"description": "Concept - Het gaat hierbij om herkennen van veelgebruikte digitale systemen.",
 		"id": "d70165b2-58ee-4109-b120-e5ae252e5e39",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om",
 		"description": "Concept - Het gaat hierbij om onderhouden en aanpassen van digitale systemen en het oplossen van problemen daarmee.",
 		"id": "1d658fd2-3919-44cd-8970-b3ae0afdf40c",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om",
 		"description": "Concept - Het gaat hierbij om in kaart brengen van diverse media en bronnen, hun betrouwbaarheid en bruikbaarheid.",
 		"id": "1197b9bd-f5b2-45e2-b9aa-ddd5243437aa",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om",
 		"description": "Concept - Het gaat hierbij om hanteren van een geschikte zoekstrategie, zoekhulpmiddel en zoekopdracht.",
 		"id": "0caf5d8b-8c1f-4fac-8d41-5248d0417cf4",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om",
 		"description": "Concept - Het gaat hierbij om beoordelen van aangeboden en gevonden informatie op betrouwbaarheid en bruikbaarheid.",
 		"id": "2a77eec2-b41d-41ea-8180-c8539c405e1b",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om",
 		"description": "Concept - Het gaat hierbij om beschrijven hoe makers van digitale media de aandacht van gebruikers trekken, vasthouden en beïnvloeden met kleurende en sturende technieken.",
 		"id": "0c293e61-d77f-403d-90d3-66c52959350c",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om",
 		"description": "Concept - Het gaat hierbij om benoemen van factoren die van invloed zijn op de wijze van aanbieden en de zichtbaarheid van zoekresultaten.",
 		"id": "e0c88b72-7284-446e-9316-f7128f9e2092",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om",
 		"description": "Concept - Het gaat hierbij om herkennen van veiligheidsrisico’s bij het gebruik van digitale systemen en data,",
 		"id": "a0315e7c-92e2-4a63-ab02-1c558d5b5c3a",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om",
 		"description": "Concept - Het gaat hierbij om veilig gebruiken van digitale systemen, data en informatie, en passende technische maatregelen nemen om deze te beschermen.",
 		"id": "a2aabe2b-25dc-4e21-adf2-762e7ad1cd52",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om",
 		"description": "Concept - Het gaat hierbij om wegen van dilemma’s bij het delen van zowel eigen persoonsgegevens, data, informatie en digitale content als die van anderen.",
 		"id": "6d1d69a0-c4eb-43f0-b260-b7ad85d48383",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om",
 		"description": "Concept - Het gaat hierbij om adequaat omgaan met ongepaste content, ongepast gedrag en veiligheidsrisico’s in digitale omgevingen.",
 		"id": "52809307-c4a0-4c67-a869-4e5dbdf6776b",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om",
 		"description": "Concept - Het gaat hierbij om beschrijven hoe informatie tot stand komt door data doelgericht te verzamelen, te structureren en te verwerken.",
 		"id": "ef24bb7a-f9be-426d-b2df-dd01d24f606a",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om",
 		"description": "Concept - Het gaat hierbij om uitleggen hoe de resultaten van dataverwerking afhankelijk zijn van de herkomst, juistheid en volledigheid van de gebruikte dataset.",
 		"id": "b9361485-2f2b-427d-88c1-f901b72703a0",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om",
 		"description": "Concept - Het gaat hierbij om gebruiken van een dataset om een vraag te beantwoorden.",
 		"id": "b65d5a7e-491d-4d60-8c16-17d15bb14958",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om",
 		"description": "Concept - Het gaat hierbij om beschrijven van het gebruik van data in de eigen omgeving.",
 		"id": "efcbcac2-882e-465b-a7bb-cbf59823da22",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om",
 		"description": "Concept - Het gaat hierbij om reflecteren op het feit dat de gebruiker van digitale technologie bewust en onbewust data achterlaat en dat die door anderen gebruikt kunnen worden.",
 		"id": "9b130cc0-bf3a-4931-bc7c-19ffc587dd18",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om",
 		"description": "Concept - Het gaat hierbij om beschrijven van elementen van een AI-systeem en hoe het gedrag van AI-systemen lijkt op menselijk gedrag.",
 		"id": "1cd24861-89a9-492e-b8a8-26a5e3fe9000",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om",
 		"description": "Concept - Het gaat hierbij om herkennen van veelvoorkomende AI-systemen en hun toepassingen in de eigen omgeving.",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"id": "83d04e85-c4d7-4d2c-a4ea-0a8ba2d116c7",
 		"unreleased": true
 	},
@@ -2758,126 +2818,189 @@
 		"title": "Het gaat hierbij om",
 		"description": "Concept - Het gaat hierbij om doelgericht, verantwoord en kritisch interacteren met een AI-systeem.",
 		"id": "0e59444f-c750-4c2e-a6c2-26555759c273",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om",
 		"description": "Concept - Het gaat hierbij om experimenteren met digitale middelen om gedachten, ideeën of gevoelens uit te drukken.",
 		"id": "c13c3c3d-a299-47d0-9324-d38a9422060b",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om",
 		"description": "Concept - Het gaat hierbij om delen van informatie en overbrengen van een boodschap.",
 		"id": "cae2ad58-1ade-4e20-a97c-dec80a49bd4a",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om",
 		"description": "Concept - Het gaat hierbij om gebruiken van computationele denkstrategieën bij het ontwerpen van een digitaal product.",
 		"id": "169c45fb-963d-41d5-ad0f-1f321f556edb",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om",
 		"description": "Concept - Het gaat hierbij om ontwerpen van een digitaal product aan de hand van de ontwerpeisen in een iteratief proces.",
 		"id": "e1500981-069b-451c-870c-25abc371b283",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om",
 		"description": "Concept - Het gaat hierbij om rekening houden met auteursrechten, licenties en bron- en naamsvermelding bij het creëren van digitale producten.",
 		"id": "95ea3767-ff02-4205-b01e-17ac42d3d2bb",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Te denken valt aan",
 		"description": "Concept - Te denken valt aan verkennen van verschillende digitale tools om media te maken, zoals presentatiesoftware.",
 		"id": "c0efccec-5879-4a30-a490-831200a80a35",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om",
 		"description": "Concept - Het gaat hierbij om experimenteren met code.",
 		"id": "8baa7b7c-e8f5-4f72-a355-a19d6284a3f2",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om",
 		"description": "Concept - Het gaat hierbij om beschrijven van de taak en doel van een computerprogramma.",
 		"id": "6ddbbeec-6f98-47b5-92b9-98d335ad7071",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om",
 		"description": "Concept - Het gaat hierbij om ontwerpen en schematisch weergeven van het algoritme behorende bij een taak.",
 		"id": "d4ec25c6-d445-4111-b7b4-71e8cc5f6503",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om",
 		"description": "Concept - Het gaat hierbij om gebruikmaken van programmeerconcepten: invoer en uitvoer, variabelen, operatoren, herhaling en controlestructuren.",
 		"id": "e5049157-cbcf-40d6-91ea-0517bf1b0bf3",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om",
 		"description": "Concept - Het gaat hierbij om testen en bijstellen van een eigen computerprogramma of een computerprogramma van anderen.",
 		"id": "90865fc8-1b18-43ac-b349-8c57a855f4f7",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om",
 		"description": "Concept - Het gaat hierbij om online communiceren en handelen op respectvolle en verantwoorde wijze.",
 		"id": "da37d3d6-8e32-4936-91f6-f2c57fe4c4c6",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om",
 		"description": "Concept - Het gaat hierbij om evalueren van de invloed van digitale technologie en digitale media op eigen denken en gedrag en op de interactie met anderen.",
 		"id": "3f99ac9f-09a6-4396-bfe5-4dc6ef501632",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om",
 		"description": "Concept - Het gaat hierbij om rekening houden met eigen fysieke en mentale gezondheid.",
 		"id": "8843e183-d0a0-4d4f-a377-f3c4d2ef681e",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om",
 		"description": "Concept - Het gaat hierbij om reflecteren op de eigen online identiteit en hoe die tot stand komt.",
 		"id": "eee00e27-74a7-44eb-a5bd-a5c777114a55",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om",
 		"description": "Concept - Het gaat hierbij om verkennen van de eigen interesse in de ontwikkeling van digitale technologie en digitale media.",
 		"id": "960dd6ac-49d7-4ced-ad58-56857515785b",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om",
 		"description": "Concept - Het gaat hierbij om verkennen van de invloed van de mens op de ontwikkeling van digitale technologie en digitale media en andersom.",
 		"id": "4f20b775-44a0-45ad-8e24-241c4f6074b7",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om",
 		"description": "Concept - Het gaat hierbij om verkennen hoe digitale technologie en media sociaal welzijn en sociale inclusie beïnvloeden.",
 		"id": "63ffca3d-65f4-4313-bed3-7481f80d8c2c",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om",
 		"description": "Concept - Het gaat hierbij om redeneren over de kansen en risico’s van het gebruik van digitale technologie in de nabije omgeving.",
 		"id": "38eba558-83bc-47bf-8ebd-c54ac6be3cdd",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om",
 		"description": "Concept - Het gaat hierbij om verkennen wat de effecten zijn van digitale technologie op de ecologie.",
 		"id": "d5b8066a-e840-4f2f-a5e6-29232987e39a",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	}
 ]
