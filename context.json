@@ -46,7 +46,14 @@
 						},
 						"prefix": { "type": "string" }
 					},
-					"required": ["id", "title", "fo_subdomein_id"]
+				"anyOf": [
+					{
+						"required": ["id","title","fo_subdomein_id"]
+					},
+					{
+						"required": ["id","title","fo_doelzin_id"]
+					}
+				]			
 				}
 			]
 		},
@@ -63,7 +70,7 @@
 						},
 						"prefix": { "type": "string" }
 					},
-					"required": ["id", "title", "fo_doelzin_id"]
+					"required": ["id", "title"]
 				}
 			]
 		},
@@ -88,7 +95,7 @@
 						"soort": { "type": "string",   "enum": ["kerndoel", "eindterm"]	},
 						"ce_se": { "type": "string" }
 					},
-					"required": ["id", "title", "fo_toelichting_id", "fo_uitwerking_id"]
+					"required": ["id", "title", "fo_uitwerking_id"]
 				}
 			]
 		},
