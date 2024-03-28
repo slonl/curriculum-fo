@@ -1,7 +1,7 @@
 [
 	{
-		"title": "Concept - De leerling toont begrip van beluisterde, gelezen en bekeken teksten",
-		"description": "Beheersingsdoel; begrijpend luisteren, lezen en kijken",
+		"description": "Concept - De leerling toont begrip van beluisterde, gelezen en bekeken teksten",
+		"title": "Beheersingsdoel; begrijpend luisteren, lezen en kijken",
 		"fo_uitwerking_id": [
 			"f0c720a2-4ebc-4ad1-a1a2-ccd6540e0aab",
 			"fe253d39-ebdc-4ea3-9b97-d38abfde8e31",
@@ -20,8 +20,8 @@
 		"id": "75ee36f1-4e54-48fa-8e0e-09bca848fa15"
 	},
 	{
-		"title": "Concept - De leerling spreekt en schrijft afgestemd op bij doel, publiek en context",
-		"description": "Beheersingsdoel; Doelgericht spreken en schrijven",
+		"description": "Concept - De leerling spreekt en schrijft afgestemd op bij doel, publiek en context",
+		"title": "Beheersingsdoel; Doelgericht spreken en schrijven",
 		"fo_uitwerking_id": [
 			"2b78f0d1-54d5-40eb-a666-074f248813bf",
 			"b1d2ceb1-faba-48d6-abed-8a134eb9b92e",
@@ -37,8 +37,8 @@
 		"id": "907bc4e8-3eb8-482f-8fc0-93bc33e50f62"
 	},
 	{
-		"title": "Concept - De leerling gebruikt taal op een cratieve manier.",
-		"description": "Beheersingsdoel; Creatief taal gebruiken",
+		"description": "Concept - De leerling gebruikt taal op een cratieve manier.",
+		"title": "Beheersingsdoel; Creatief taal gebruiken",
 		"fo_uitwerking_id": [
 			"dc5ce356-167b-48bf-9f29-c533d07efdfc",
 			"33328379-30ca-47b3-8300-1d04528e5d59",
@@ -53,8 +53,8 @@
 		"id": "be096fc3-d3c5-4b21-82df-0601b31c0ca2"
 	},
 	{
-		"title": "Concept - De leerling schrijft om te komen tot kennisopbouw of begip.",
-		"description": "Beheersingsdoel; Schrijven om te leren",
+		"description": "Concept - De leerling schrijft om te komen tot kennisopbouw of begip.",
+		"title": "Beheersingsdoel; Schrijven om te leren",
 		"fo_uitwerking_id": [
 			"e3e2761b-3a2c-4731-8ce9-50ff314d0d71",
 			"e102de42-dba3-4e38-a051-fc9d504d527d",
@@ -70,8 +70,8 @@
 		"id": "8152fce2-4971-4632-a6b2-6e76804dad49"
 	},
 	{
-		"title": "Concept - De leerling onderzoekt verschillende bronnen.",
-		"description": "Beheersingsdoel; Bronnen onderzoeken",
+		"description": "Concept - De leerling onderzoekt verschillende bronnen.",
+		"title": "Beheersingsdoel; Bronnen onderzoeken",
 		"fo_uitwerking_id": [
 			"74ce4ffc-ac56-4791-9622-42294c2091e8",
 			"65920382-e074-477c-b67b-e9d01db9f22a",
@@ -86,8 +86,8 @@
 		"id": "64ccb673-e75c-4ef1-9274-311e7910bba4"
 	},
 	{
-		"title": "Concept - De leerling verwerkt informatie uit verschillende bronnen in een gesproken of geschreven tekst.",
-		"description": "Beheersingsdoel; Bronnen verwerken",
+		"description": "Concept - De leerling verwerkt informatie uit verschillende bronnen in een gesproken of geschreven tekst.",
+		"title": "Beheersingsdoel; Bronnen verwerken",
 		"fo_uitwerking_id": [
 			"ec57c2c0-eae7-42ba-93b7-0f664c4792e6",
 			"090e40a7-b4cd-4f0f-bc63-80431ca9cb93",
@@ -103,8 +103,8 @@
 		"id": "af47a22d-dd64-4fcf-a147-7c830d53e5e8"
 	},
 	{
-		"title": "Concept - De leerling reflecteert op de uitvoering van een taalactiviteit.",
-		"description": "Beheersingsdoel; Reflecteren op taalactiviteiten",
+		"description": "Concept - De leerling reflecteert op de uitvoering van een taalactiviteit.",
+		"title": "Beheersingsdoel; Reflecteren op taalactiviteiten",
 		"fo_uitwerking_id": [
 			"298e7c43-93ac-4858-a9f7-21dfe76f8f2f",
 			"6916568e-c98f-4567-93da-ffac5d0341c2",
@@ -121,8 +121,8 @@
 		"id": "254caadd-5870-4458-9a11-ef71a0c69ce0"
 	},
 	{
-		"title": "Concept - De leerling voert gesprekken afgestemd op doel, gesprekspartner en context.",
-		"description": "Beheersingsdoel; Doelgericht gesprekken voeren",
+		"description": "Concept - De leerling voert gesprekken afgestemd op doel, gesprekspartner en context.",
+		"title": "Beheersingsdoel; Doelgericht gesprekken voeren",
 		"fo_uitwerking_id": [
 			"dfa06936-ffdb-4155-8175-31968a48ba14",
 			"829c9624-6230-4605-b093-d43aca158f5f",
@@ -139,8 +139,8 @@
 		"id": "2744a98d-e0af-4127-bf97-37b3ea359a02"
 	},
 	{
-		"title": "Concept - De leerling voert gesprekken om tot kennisopbouw, begrip of een aanpak te komen.",
-		"description": "Beheersingsdoel; Gesprekken voeren om te leren",
+		"description": "Concept - De leerling voert gesprekken om tot kennisopbouw, begrip of een aanpak te komen.",
+		"title": "Beheersingsdoel; Gesprekken voeren om te leren",
 		"fo_uitwerking_id": [
 			"6dec8016-87ef-4f7d-92c6-4075a1be50f6",
 			"e1522e1f-e240-41b2-8fca-836832a70e02",
@@ -158,8 +158,8 @@
 		"id": "5d349652-de45-4a35-8de6-b7ce54a461cc"
 	},
 	{
-		"title": "Concept - De leerling beschouwt de relatie tussen vorm en betekenis van taal.",
-		"description": "Beheersingsdoel; Vorm en betekenis beschouwen",
+		"description": "Concept - De leerling beschouwt de relatie tussen vorm en betekenis van taal.",
+		"title": "Beheersingsdoel; Vorm en betekenis beschouwen",
 		"fo_uitwerking_id": [
 			"dd01cf1b-9b4c-4a06-9e11-cee207d630ad",
 			"e48bd1ee-b74e-4dba-a79f-c38cb8850802",
@@ -176,8 +176,8 @@
 		"id": "21725a98-baa3-45c3-b8a5-ac3026ff35e2"
 	},
 	{
-		"title": "Concept - De leerling verzorgt het schriftelijk taalgebruik.",
-		"description": "Beheersingsdoel; Schriftelijke taalverzorging",
+		"description": "Concept - De leerling verzorgt het schriftelijk taalgebruik.",
+		"title": "Beheersingsdoel; Schriftelijke taalverzorging",
 		"fo_uitwerking_id": [
 			"c2720bd9-dd08-4d99-b1e5-7377c3dc315c",
 			"9fcf71b1-318b-431a-a67e-4454b1deba2f",
@@ -192,8 +192,8 @@
 		"id": "886e4275-3b58-4b31-b639-b64934589013"
 	},
 	{
-		"title": "Concept - De leerling verkent hoe je met taal uiting geeft aan je identiteiten.",
-		"description": "Beheersingsdoel; Talige identiteit",
+		"description": "Concept - De leerling verkent hoe je met taal uiting geeft aan je identiteiten.",
+		"title": "Beheersingsdoel; Talige identiteit",
 		"fo_uitwerking_id": [
 			"e0ee4584-c780-4502-8f6f-987b0c7fa173",
 			"ba052f11-2c42-4632-ad76-d8c78d22c4ae",
@@ -210,8 +210,8 @@
 		"id": "056fbb68-129a-454e-98d8-72eb67c0ba03"
 	},
 	{
-		"title": "Concept - De leerling beschouwt het bestaan en gebruik van verschillende talen en taalvariëteiten in relatie tot het Nederlands.",
-		"description": "Beheersingsdoel; Taalvariatie",
+		"description": "Concept - De leerling beschouwt het bestaan en gebruik van verschillende talen en taalvariëteiten in relatie tot het Nederlands.",
+		"title": "Beheersingsdoel; Taalvariatie",
 		"fo_uitwerking_id": [
 			"07465876-2721-4718-b452-01d1624abee6",
 			"67d741e9-c548-4b64-92ad-28fea7789ae7",
@@ -226,8 +226,8 @@
 		"id": "86df4812-465c-49af-83f6-1d3885326e47"
 	},
 	{
-		"title": "Concept - De leerling verkent de verandering van het Nederlands onder invloed van tijd en maatschappelijke ontwikkelingen.",
-		"description": "Beheersingsdoel; Taalverandering",
+		"description": "Concept - De leerling verkent de verandering van het Nederlands onder invloed van tijd en maatschappelijke ontwikkelingen.",
+		"title": "Beheersingsdoel; Taalverandering",
 		"fo_uitwerking_id": [
 			"5474c008-6a99-4d5c-ab66-78f1d8a42e08",
 			"5a0e762e-a4f0-47f9-a917-3c7d82c93815",
@@ -243,8 +243,8 @@
 		"id": "d9344c6e-2b0d-4cb0-9055-6a990b9b16f0"
 	},
 	{
-		"title": "Concept - De leerling toont inzicht in verhalende teksten met behulp van kennis over verteltechnieken.",
-		"description": "Beheersingsdoel; Inzicht in verhalende teksten",
+		"description": "Concept - De leerling toont inzicht in verhalende teksten met behulp van kennis over verteltechnieken.",
+		"title": "Beheersingsdoel; Inzicht in verhalende teksten",
 		"fo_uitwerking_id": [
 			"77203dda-4845-4a17-8160-f34b6caf0b34",
 			"f0a5de08-0300-4213-b391-c4e774b0888d",
@@ -262,8 +262,8 @@
 		"id": "012306f2-bb1c-44ce-9548-16efc4ef8c3e"
 	},
 	{
-		"title": "Concept - De leerling verkent genrekenmerken van literatuur.",
-		"description": "Beheersingsdoel; Verkennen van literaire genres",
+		"description": "Concept - De leerling verkent genrekenmerken van literatuur.",
+		"title": "Beheersingsdoel; Verkennen van literaire genres",
 		"fo_uitwerking_id": [
 			"f7f7b9af-fed2-45a3-88a1-c1c07310df19",
 			"fe99a2a4-a912-4e92-a633-d2c979e888e3",
@@ -278,8 +278,8 @@
 		"id": "19ba7c42-1e92-4b9f-9c9f-32e894b19af2"
 	},
 	{
-		"title": "Concept - De leerling kiest nieuwe teksten op basis van eerdere lees-, luister- en kijkervaringen.",
-		"description": "Beheersingsdoel; Leesvoorkeur",
+		"description": "Concept - De leerling kiest nieuwe teksten op basis van eerdere lees-, luister- en kijkervaringen.",
+		"title": "Beheersingsdoel; Leesvoorkeur",
 		"fo_uitwerking_id": [
 			"f376c44b-c8ed-4543-b7d5-3691cf39113c",
 			"8f7bd39a-7340-4b35-973a-372c8f83e030",
@@ -295,8 +295,8 @@
 		"id": "0081d62f-1e75-4835-b586-12d01ce252b9"
 	},
 	{
-		"title": "Concept - De leerling verkent welke functies literatuur heeft.",
-		"description": "Beheersingsdoel; Functies van literatuur",
+		"description": "Concept - De leerling verkent welke functies literatuur heeft.",
+		"title": "Beheersingsdoel; Functies van literatuur",
 		"fo_uitwerking_id": [
 			"0d7d9289-c236-406a-b62b-b77aa167a6d1",
 			"220359f4-b6d3-46d7-b6dd-2eb4ac13b148",
@@ -314,8 +314,8 @@
 		"id": "23003d19-a582-44d0-94ad-be0c2013e6be"
 	},
 	{
-		"title": "Concept - De school zorgt voor een rijke taal- en leesomgeving voor alle leerlingen.",
-		"description": "Aanbodsdoel",
+		"description": "Concept - De school zorgt voor een rijke taal- en leesomgeving voor alle leerlingen.",
+		"title": "Aanbodsdoel",
 		"fo_uitwerking_id": [
 			"8f2405a3-0708-4f9b-a955-16ab877e2bc9",
 			"d0cd729e-b8ac-4b51-8eaf-c891a1622eda",
@@ -333,8 +333,8 @@
 		"id": "efff8a4b-cbd5-4775-aa8f-0d3f98733e6b"
 	},
 	{
-		"title": "Concept - De school stimuleert de taalontwikkeling van de leerling in de andere leergebieden.",
-		"description": "Aanbodsdoel",
+		"description": "Concept - De school stimuleert de taalontwikkeling van de leerling in de andere leergebieden.",
+		"title": "Aanbodsdoel",
 		"fo_uitwerking_id": [
 			"208ca70f-9717-4ba9-91aa-c5d9a34fb210",
 			"92011225-276a-4e65-8599-39e7ccf070c5",
@@ -351,8 +351,8 @@
 		"id": "9f550d27-58cf-4252-8b6b-ff8246c8eca6"
 	},
 	{
-		"title": "Concept - De leerling redeneert en rekent met gehele en decimale getallen",
-		"description": "Beheersingsdoel",
+		"description": "Concept - De leerling redeneert en rekent met gehele en decimale getallen",
+		"title": "Beheersingsdoel",
 		"fo_uitwerking_id": [
 			"13756067-b284-4983-980e-1d6b4ca27c18",
 			"fc534f36-95bd-4b63-9a3f-6fe58618bfcc",
@@ -371,8 +371,8 @@
 		"id": "a93af3e3-91f0-49ee-8e28-42fb57daf454"
 	},
 	{
-		"title": "Concept - De leerling redeneert met en gebruikt eenvoudige breuken als getal, verhouding en deling.",
-		"description": "Beheersingsdoel",
+		"description": "Concept - De leerling redeneert met en gebruikt eenvoudige breuken als getal, verhouding en deling.",
+		"title": "Beheersingsdoel",
 		"fo_uitwerking_id": [
 			"2c0676cd-2866-4321-bcc2-d01d914cca86",
 			"015473e3-75c3-4a27-bfa5-e329a1d7d4cd",
@@ -389,8 +389,8 @@
 		"id": "da74e273-b43e-40d5-8e74-74cd4758ca62"
 	},
 	{
-		"title": "Concept - De leerling redeneert met en gebruikt verhoudingen.",
-		"description": "Beheersingsdoel",
+		"description": "Concept - De leerling redeneert met en gebruikt verhoudingen.",
+		"title": "Beheersingsdoel",
 		"fo_uitwerking_id": [
 			"a8e8f1be-8591-464e-b03c-093d5dde9ab8",
 			"a912c631-4c4b-40d4-9045-70c9a882c832",
@@ -408,8 +408,8 @@
 		"id": "afd82083-0658-472a-a516-b278b569c30c"
 	},
 	{
-		"title": "Concept - De leerling meet, redeneert en rekent met gangbare grootheden en bijpassende eenheden.",
-		"description": "Beheersingsdoel",
+		"description": "Concept - De leerling meet, redeneert en rekent met gangbare grootheden en bijpassende eenheden.",
+		"title": "Beheersingsdoel",
 		"fo_uitwerking_id": [
 			"930b00cf-5ffa-4032-9703-5ef3cf7768ad",
 			"974ce036-5197-4d73-9734-8d56136f613d",
@@ -427,8 +427,8 @@
 		"id": "038bf3e2-c920-430b-8c0a-ccbf820b7c55"
 	},
 	{
-		"title": "Concept - De leerling redeneert over meetkundige figuren en plaatsbepalingen en voert meetkundige transformaties uit.",
-		"description": "Beheersingsdoel",
+		"description": "Concept - De leerling redeneert over meetkundige figuren en plaatsbepalingen en voert meetkundige transformaties uit.",
+		"title": "Beheersingsdoel",
 		"fo_uitwerking_id": [
 			"353fe9e1-aad3-4884-a3d9-159674ed40cb",
 			"932ad307-30be-4edb-9129-68e09a4ecc09",
@@ -447,8 +447,8 @@
 		"id": "3440792f-6cce-4f11-88d7-1c4ea5688665"
 	},
 	{
-		"title": "Concept - De leerling interpreteert en representeert datasets.",
-		"description": "Beheersingsdoel",
+		"description": "Concept - De leerling interpreteert en representeert datasets.",
+		"title": "Beheersingsdoel",
 		"fo_uitwerking_id": [
 			"eb5af718-7627-4f6c-a7b8-6f6767d4a639",
 			"2319666f-0d94-425a-9979-1c6af140b81e",
@@ -463,8 +463,8 @@
 		"id": "56596b75-b0da-4d54-b5cb-2778b26a16a7"
 	},
 	{
-		"title": "Concept - De leerling herkent en representeert patronen en verbanden.",
-		"description": "Beheersingsdoel",
+		"description": "Concept - De leerling herkent en representeert patronen en verbanden.",
+		"title": "Beheersingsdoel",
 		"fo_uitwerking_id": [
 			"0c87ac24-2f34-4fd3-8721-f176030c8def",
 			"de84a915-1f24-4c4d-9770-e3811457c92f",
@@ -478,8 +478,8 @@
 		"id": "65649cd4-ad64-4187-942c-d82792c3d7d3"
 	},
 	{
-		"title": "Concept - De leerling lost wiskundige problemen en toepassingsproblemen op.",
-		"description": "Beheersingsdoel",
+		"description": "Concept - De leerling lost wiskundige problemen en toepassingsproblemen op.",
+		"title": "Beheersingsdoel",
 		"fo_uitwerking_id": [
 			"73643c82-8ef9-4026-bdfb-0e153893d222",
 			"4c21658c-47bf-47e3-97ba-103c9ab619ba",
@@ -497,8 +497,8 @@
 		"id": "3e321838-9e34-4db8-af4a-ca5f92e62049"
 	},
 	{
-		"title": "Concept - De leerling maakt en gebruikt abstracte modellen van situaties en problemen.",
-		"description": "Beheersingsdoel",
+		"description": "Concept - De leerling maakt en gebruikt abstracte modellen van situaties en problemen.",
+		"title": "Beheersingsdoel",
 		"fo_uitwerking_id": [
 			"91286a45-6dc5-40b2-a49b-6d6f7a3a4791",
 			"30ee92c4-93b9-41f6-8dfe-09ce196c3a83",
@@ -515,8 +515,8 @@
 		"id": "4e99fb88-c09c-4de7-b062-d2e1671a879b"
 	},
 	{
-		"title": "Concept - De leerling beschrijft en bedenkt eenvoudige algoritmen.",
-		"description": "Beheersingsdoel",
+		"description": "Concept - De leerling beschrijft en bedenkt eenvoudige algoritmen.",
+		"title": "Beheersingsdoel",
 		"fo_uitwerking_id": [
 			"777ca27c-0adf-4559-9ccd-b5797890cddf",
 			"720fd72d-0369-4157-94e5-dd28d1a0107f",
@@ -533,8 +533,8 @@
 		"id": "b9fce428-e0b3-4524-832d-22dfb2a44af7"
 	},
 	{
-		"title": "Concept - De leerling gebruikt wiskundetaal en wiskundige representaties.",
-		"description": "Beheersingsdoel",
+		"description": "Concept - De leerling gebruikt wiskundetaal en wiskundige representaties.",
+		"title": "Beheersingsdoel",
 		"fo_uitwerking_id": [
 			"95d910b8-ed20-4ead-98e1-ea3cb8775f3a",
 			"14a1e70d-9f83-4e37-89ab-00582d2511f0",
@@ -553,8 +553,8 @@
 		"id": "6cabfbd4-c370-47fb-9144-776e7bf4cd5f"
 	},
 	{
-		"title": "Concept - De leerling gebruikt gangbare meetinstrumenten en andere wiskundige instrumenten",
-		"description": "Beheersingsdoel",
+		"description": "Concept - De leerling gebruikt gangbare meetinstrumenten en andere wiskundige instrumenten",
+		"title": "Beheersingsdoel",
 		"fo_uitwerking_id": [
 			"bfc7d0aa-f061-464e-9823-d3969997a8f8",
 			"0b557b29-0062-485d-8d0e-066f9510a2df",
@@ -570,8 +570,8 @@
 		"id": "b071f771-aae1-4438-9661-85d53ac885d8"
 	},
 	{
-		"title": "Concept - De leerling herkent en gebruikt wiskunde in dagelijkse en maatschappelijke situaties.",
-		"description": "Beheersingsdoel",
+		"description": "Concept - De leerling herkent en gebruikt wiskunde in dagelijkse en maatschappelijke situaties.",
+		"title": "Beheersingsdoel",
 		"fo_uitwerking_id": [
 			"dc26d79e-5efe-448d-aa82-1b62d722dbf0",
 			"b287bf48-2820-416e-a128-b62148c66576",
@@ -588,8 +588,8 @@
 		"id": "bb06ac58-b4c5-4dd6-b75f-50941ffb2380"
 	},
 	{
-		"title": "Concept - De school ondersteunt het gebruik van wiskunde in andere leergebieden.",
-		"description": "Aanbodsdoel",
+		"description": "Concept - De school ondersteunt het gebruik van wiskunde in andere leergebieden.",
+		"title": "Aanbodsdoel",
 		"fo_uitwerking_id": [
 			"4abefb7b-fec7-4887-a04b-7bccf41df499",
 			"152671bc-31e1-4c9e-a03e-85b224529343",
@@ -608,8 +608,8 @@
 		"id": "7c5743b8-2c72-4fbd-b308-a3eea257ce07"
 	},
 	{
-		"title": "Concept - De school biedt wiskundige concepten en wiskundige denk/werkwijzen in onderlinge samenhang aan.",
-		"description": "Aanbodsdoel",
+		"description": "Concept - De school biedt wiskundige concepten en wiskundige denk/werkwijzen in onderlinge samenhang aan.",
+		"title": "Aanbodsdoel",
 		"fo_uitwerking_id": [
 			"e313dc04-d873-4fe8-867b-e4b79fdcfd45",
 			"bdbb5401-1716-4299-872a-9083a4306e5b",
@@ -624,8 +624,8 @@
 		"id": "ec3fe6d1-5f47-425f-8075-df6b98c605b7"
 	},
 	{
-		"title": "Concept - De school stimuleert een wiskundige attitude van leerlingen",
-		"description": "Aanbodsdoel",
+		"description": "Concept - De school stimuleert een wiskundige attitude van leerlingen",
+		"title": "Aanbodsdoel",
 		"fo_uitwerking_id": [
 			"0599c4ae-4a5d-4d47-a4bd-c0d737a7f4cc",
 			"bf867da6-5f3c-40e1-8449-55bb08b6b512",
@@ -642,8 +642,8 @@
 		"id": "561469ee-a769-4997-bc6e-e38335eaaf0a"
 	},
 	{
-		"title": "Concept - De leerling redeneert en rekent met getallen en grootheden.",
-		"description": "Beheersingsdoel",
+		"description": "Concept - De leerling redeneert en rekent met getallen en grootheden.",
+		"title": "Beheersingsdoel",
 		"fo_uitwerking_id": [
 			"a6bb58e0-c392-4294-8ca3-7971832d970b",
 			"5bcd1d36-f984-41fd-a22a-e92694c1beb9",
@@ -662,8 +662,8 @@
 		"id": "f1c491e6-16f5-45c5-a28a-44654d660085"
 	},
 	{
-		"title": "Concept - De leerling redeneert en rekent met getallen, grootheden, variabelen en algebraïsche uitdrukkingen.",
-		"description": "Beheersingsdoel",
+		"description": "Concept - De leerling redeneert en rekent met getallen, grootheden, variabelen en algebraïsche uitdrukkingen.",
+		"title": "Beheersingsdoel",
 		"fo_uitwerking_id": [
 			"f0522392-3206-4b7c-bb28-815ee3b19433",
 			"8f9eb028-7ee6-4516-a524-2a7a4b9fd74a",
@@ -680,8 +680,8 @@
 		"id": "bbd09b8c-1618-4c7c-baf9-34b206a6cf7f"
 	},
 	{
-		"title": "Concept - De leerling analyseert en voert berekeningen uit in de twee- en driedimensionale ruimte.",
-		"description": "Beheersingsdoel",
+		"description": "Concept - De leerling analyseert en voert berekeningen uit in de twee- en driedimensionale ruimte.",
+		"title": "Beheersingsdoel",
 		"fo_uitwerking_id": [
 			"bc7136ea-97bd-4dd8-935e-353dee80e1d0",
 			"71001e4e-3dd8-412d-8f35-666fdfa32689",
@@ -705,8 +705,8 @@
 		"id": "3089168f-c571-43d4-8ccc-4587fa3094d7"
 	},
 	{
-		"title": "Concept - De leerling analyseert en redeneert over datasets.",
-		"description": "Beheersingsdoel",
+		"description": "Concept - De leerling analyseert en redeneert over datasets.",
+		"title": "Beheersingsdoel",
 		"fo_uitwerking_id": [
 			"78b37ede-bf76-4cb4-a1de-e70078afaee4",
 			"d47d76e8-5820-42a9-a9ae-1d99896f3ff5",
@@ -729,8 +729,8 @@
 		"id": "9dbb4295-a30b-45fa-82da-a62ae1a09916"
 	},
 	{
-		"title": "Concept - De leerling analyseert en redeneert over patronen en verbanden.",
-		"description": "Beheersingsdoel",
+		"description": "Concept - De leerling analyseert en redeneert over patronen en verbanden.",
+		"title": "Beheersingsdoel",
 		"fo_uitwerking_id": [
 			"3c7336f9-f881-4202-bf58-2c957cd83760",
 			"125d2c0b-ce33-4c6c-b79f-b8c9784f5bb0",
@@ -755,8 +755,8 @@
 		"id": "87ea652f-c267-46b9-b1d0-ffb27248abc0"
 	},
 	{
-		"title": "Concept - De leerling gebruikt wiskundige vergelijkingen",
-		"description": "Beheersingsdoel",
+		"description": "Concept - De leerling gebruikt wiskundige vergelijkingen",
+		"title": "Beheersingsdoel",
 		"fo_uitwerking_id": [
 			"695f7ad9-e8cf-40de-baa4-5eb2f593cba1",
 			"2f43eaab-54c5-4bc0-8eef-783835cc444d",
@@ -779,8 +779,8 @@
 		"id": "f3992bb7-8658-4ff1-9317-dccd8603d9cf"
 	},
 	{
-		"title": "Concept - De leerling redeneert en rekent met kansen.",
-		"description": "Beheersingsdoel",
+		"description": "Concept - De leerling redeneert en rekent met kansen.",
+		"title": "Beheersingsdoel",
 		"fo_uitwerking_id": [
 			"0da9fe9e-7dec-4eb9-9726-4c8b88053828",
 			"fb54b77f-01b1-4437-81cb-ddad3286a31d",
@@ -794,8 +794,8 @@
 		"id": "33766238-41bd-46d5-8462-15075b1e330f"
 	},
 	{
-		"title": "Concept - De leerling berekent kansen",
-		"description": "Beheersingsdoel",
+		"description": "Concept - De leerling berekent kansen",
+		"title": "Beheersingsdoel",
 		"fo_uitwerking_id": [
 			"de63da87-7e93-423c-9163-9ea383fc3e97",
 			"91cadf11-b763-463b-ae74-b97413ea4bdc"
@@ -809,8 +809,8 @@
 		"id": "0ed7e779-7884-4848-9bec-89e51dfcf572"
 	},
 	{
-		"title": "Concept - De leerling lost wiskundige problemen en toepassingsproblemen op.",
-		"description": "Beheersingsdoel",
+		"description": "Concept - De leerling lost wiskundige problemen en toepassingsproblemen op.",
+		"title": "Beheersingsdoel",
 		"fo_uitwerking_id": [
 			"7aca5aec-9b08-4774-a4d7-be13fe50f102",
 			"d715d211-8888-4397-8b0f-fc79eabfea88",
@@ -829,8 +829,8 @@
 		"id": "c9e39d4f-dc31-4931-b15a-f46a74eb17f1"
 	},
 	{
-		"title": "Concept - De leerling maakt en gebruikt abstracte modellen van situaties en problemen",
-		"description": "Beheersingsdoel",
+		"description": "Concept - De leerling maakt en gebruikt abstracte modellen van situaties en problemen",
+		"title": "Beheersingsdoel",
 		"fo_uitwerking_id": [
 			"6eb2b203-8e9c-4bfe-adbf-748a52789ccc",
 			"3f28044a-3b09-4c20-9a06-53d843c7a7c7",
@@ -851,8 +851,8 @@
 		"id": "0c42c5f9-5e3d-477b-a4e2-09b95c9d8133"
 	},
 	{
-		"title": "Concept - De leerling toont de juistheid van een wiskundige bewering of redenering aan.",
-		"description": "Beheersingsdoel",
+		"description": "Concept - De leerling toont de juistheid van een wiskundige bewering of redenering aan.",
+		"title": "Beheersingsdoel",
 		"fo_uitwerking_id": [
 			"65844a3e-743a-4ccf-97a4-a93d4a25d645",
 			"4d9b3f5c-2dbe-4f06-8209-a70b4e654949",
@@ -873,8 +873,8 @@
 		"id": "3f2a764a-3055-4128-80e1-763476691bdf"
 	},
 	{
-		"title": "Concept - De leerling beschrijft en ontwerpt eenvoudige algoritmen.",
-		"description": "Beheersingsdoel",
+		"description": "Concept - De leerling beschrijft en ontwerpt eenvoudige algoritmen.",
+		"title": "Beheersingsdoel",
 		"fo_uitwerking_id": [
 			"c1c3451b-0676-4d69-9bef-81507bb41b96",
 			"5a13d5b0-4b9b-4c37-aa1a-00844147e6b1",
@@ -896,8 +896,8 @@
 		"id": "0956691b-5ed5-4c1f-a952-58e16b07ad5d"
 	},
 	{
-		"title": "Concept - De leerling gebruikt wiskundetaal en wiskundige representaties.",
-		"description": "Beheersingsdoel",
+		"description": "Concept - De leerling gebruikt wiskundetaal en wiskundige representaties.",
+		"title": "Beheersingsdoel",
 		"fo_uitwerking_id": [
 			"3f6ac9fa-cf0e-4fdb-97b1-465f132b3afa",
 			"7f3fc213-d0ec-41a2-8fc0-03276d3acabe",
@@ -915,8 +915,8 @@
 		"id": "62a0730b-8c50-43f7-a6cd-3342d0c0607f"
 	},
 	{
-		"title": "Concept - De leerling gebruikt meetinstrumenten en andere wiskundige instrumenten.",
-		"description": "Beheersingsdoel",
+		"description": "Concept - De leerling gebruikt meetinstrumenten en andere wiskundige instrumenten.",
+		"title": "Beheersingsdoel",
 		"fo_uitwerking_id": [
 			"7e486f51-cc8c-4d15-be6a-febcb98c3aa8",
 			"edb0329b-4eb9-4803-bb57-6ce302ac5b8e",
@@ -934,8 +934,8 @@
 		"id": "ff4483c9-86da-4de8-8661-b4d4801ebbcf"
 	},
 	{
-		"title": "Concept - De leerling herkent en gebruikt wiskunde in dagelijkse, maatschappelijke en beroepsmatige situaties.",
-		"description": "Beheersingsdoel",
+		"description": "Concept - De leerling herkent en gebruikt wiskunde in dagelijkse, maatschappelijke en beroepsmatige situaties.",
+		"title": "Beheersingsdoel",
 		"fo_uitwerking_id": [
 			"ca09d48a-49b5-4c92-83e9-52cf2db24d20",
 			"b5976ff0-6265-44f0-b24e-d70747796a61",
@@ -954,8 +954,8 @@
 		"id": "347fe2cf-3c24-4502-8111-b811cd981675"
 	},
 	{
-		"title": "Concept - De school ondersteunt het gebruik van wiskunde in andere leergebieden",
-		"description": "Aanbodsdoel",
+		"description": "Concept - De school ondersteunt het gebruik van wiskunde in andere leergebieden",
+		"title": "Aanbodsdoel",
 		"fo_uitwerking_id": [
 			"a78e38af-b531-4a04-a184-f3b570d31e2b",
 			"084d6fb9-fab1-4e7d-b1aa-22dbba0db987",
@@ -974,8 +974,8 @@
 		"id": "24509a03-2564-48bc-80ff-5df287166046"
 	},
 	{
-		"title": "Concept - De school biedt wiskundige concepten en wiskundige denk/werkwijzen in onderlinge samenhang aan",
-		"description": "Aanbodsdoel",
+		"description": "Concept - De school biedt wiskundige concepten en wiskundige denk/werkwijzen in onderlinge samenhang aan",
+		"title": "Aanbodsdoel",
 		"fo_uitwerking_id": [
 			"4a6bce45-20c5-4639-a4a4-155db19686cc",
 			"70917d43-27c5-4c06-9a7d-6b64e6fcbcec",
@@ -992,8 +992,8 @@
 		"id": "9c5c8409-4d99-407e-a23c-18fd88d63de4"
 	},
 	{
-		"title": "Concept - De school stimuleert een wiskundige attitude van leerlingen.",
-		"description": "Aanbodsdoel",
+		"description": "Concept - De school stimuleert een wiskundige attitude van leerlingen.",
+		"title": "Aanbodsdoel",
 		"fo_uitwerking_id": [
 			"925b27d1-7706-40ae-906b-93fa495d64e3",
 			"89775bfc-1ca1-4afc-8107-6604fe1c9fbc",
@@ -1011,8 +1011,8 @@
 		"id": "718ea081-6bc6-45d3-84dc-f8aabf7a13e6"
 	},
 	{
-		"title": "Concept - De leerling toont begrip van beluisterde, gelezen en bekeken teksten",
-		"description": "Beheersingsdoel; begrjpend luisteren, lezen en kijken",
+		"description": "Concept - De leerling toont begrip van beluisterde, gelezen en bekeken teksten",
+		"title": "Beheersingsdoel; begrjpend luisteren, lezen en kijken",
 		"fo_uitwerking_id": [
 			"3fd71129-c7e8-4adc-8d70-971c7a9eab82",
 			"17c5a89c-9b2e-44ab-ba13-f635cbf1ae5a",
@@ -1033,8 +1033,8 @@
 		"id": "c6136156-dd19-4391-b4cf-544d6e15ce17"
 	},
 	{
-		"title": "Concept - De leerling spreekt en schrijft afgestemd op die past bij doel, publiek en context.",
-		"description": "Beheersingsdoel, Doelgericht spreken en schrijven",
+		"description": "Concept - De leerling spreekt en schrijft afgestemd op die past bij doel, publiek en context.",
+		"title": "Beheersingsdoel, Doelgericht spreken en schrijven",
 		"fo_uitwerking_id": [
 			"08ca123b-0f96-4369-95da-31f042b3715f",
 			"3a8f0eda-dd95-4e9c-9f2c-5b632053d616",
@@ -1052,8 +1052,8 @@
 		"id": "44c10504-afb2-4275-879c-bf840f7ef6e3"
 	},
 	{
-		"title": "Concept - De leerling gebruikt taal op een creatieve manier.",
-		"description": "Beheersingsdoel, Creatief taal gebruiken",
+		"description": "Concept - De leerling gebruikt taal op een creatieve manier.",
+		"title": "Beheersingsdoel, Creatief taal gebruiken",
 		"fo_uitwerking_id": [
 			"28709407-4f53-47fc-ba4f-03e369610714",
 			"ee04293d-6a41-47e0-8695-3b4a1edee028",
@@ -1072,8 +1072,8 @@
 		"id": "50ec048a-8295-413c-b3f9-18b14504a8af"
 	},
 	{
-		"title": "Concept - De leerling schrijft om te komen tot kennisopbouw of begrip.",
-		"description": "Beheersingsdoel, Schrijven om te leren",
+		"description": "Concept - De leerling schrijft om te komen tot kennisopbouw of begrip.",
+		"title": "Beheersingsdoel, Schrijven om te leren",
 		"fo_uitwerking_id": [
 			"dc7c00e1-41d7-4107-a0cf-37457ca228e0",
 			"55c8700a-f5e5-492a-ad78-6ed7b5fb2563",
@@ -1091,8 +1091,8 @@
 		"id": "4b8b8c36-9b85-4c23-98b2-9edc18da8de9"
 	},
 	{
-		"title": "Concept - De leerling onderzoekt verschillende bronnen.",
-		"description": "Beheersingsdoel, Bronnen onderzoeken",
+		"description": "Concept - De leerling onderzoekt verschillende bronnen.",
+		"title": "Beheersingsdoel, Bronnen onderzoeken",
 		"fo_uitwerking_id": [
 			"0621e04c-ddc5-4ee6-8bb4-9265f4881061",
 			"b242154f-a37a-4d8b-bb32-1b6895a0b59f",
@@ -1109,8 +1109,8 @@
 		"id": "04afcc55-a280-4b92-a19a-c13b653c7381"
 	},
 	{
-		"title": "Concept - De leerling verwerkt informatie uit verschillende bronnen in een gesproken of geschreven tekst.",
-		"description": "Beheersingsdoel, Bronnen verwerken",
+		"description": "Concept - De leerling verwerkt informatie uit verschillende bronnen in een gesproken of geschreven tekst.",
+		"title": "Beheersingsdoel, Bronnen verwerken",
 		"fo_uitwerking_id": [
 			"3019fdbb-5720-4ab9-a36c-e8296315bf68",
 			"678ba36e-8188-4c63-b024-c55ebc3b5e93",
@@ -1127,8 +1127,8 @@
 		"id": "9f51f9d0-3f95-4179-a0f5-cc905e85be8e"
 	},
 	{
-		"title": "Concept - De leerling reflecteert op de uitvoering van een taalactiviteit.",
-		"description": "Beheersingsdoel, Reflecteren op taal activiteit",
+		"description": "Concept - De leerling reflecteert op de uitvoering van een taalactiviteit.",
+		"title": "Beheersingsdoel, Reflecteren op taal activiteit",
 		"fo_uitwerking_id": [
 			"c32bd0a0-6f8b-41fc-9158-12de23ec20b5",
 			"c29c5103-a23f-45eb-909a-fa9a01ce3073",
@@ -1145,8 +1145,8 @@
 		"id": "70191486-92d4-4c68-9793-6602e6c29423"
 	},
 	{
-		"title": "Concept - De leerling voert gesprekken afgestemd op doel, gesprekspartner en context.",
-		"description": "Beheersingsdoel, Doelgericht gesprekken voeren",
+		"description": "Concept - De leerling voert gesprekken afgestemd op doel, gesprekspartner en context.",
+		"title": "Beheersingsdoel, Doelgericht gesprekken voeren",
 		"fo_uitwerking_id": [
 			"bb651c4a-099c-4cf9-af91-999a72bd805e",
 			"e7f6a8c7-134e-431b-813d-dee1e4857d0e",
@@ -1164,8 +1164,8 @@
 		"id": "59c23efd-bdd7-43b0-ba0c-e518dca752a3"
 	},
 	{
-		"title": "Concept - De leerling voert gesprekken om tot kennisopbouw, begrip of een aanpak te komen.",
-		"description": "Beheersingsdoel, Gesprekken voeren om te leren",
+		"description": "Concept - De leerling voert gesprekken om tot kennisopbouw, begrip of een aanpak te komen.",
+		"title": "Beheersingsdoel, Gesprekken voeren om te leren",
 		"fo_uitwerking_id": [
 			"28a8e9fa-bef0-4a4d-9d54-e2d0b2e9c7b6",
 			"2acf621a-aa8a-48e8-9ca5-32f111e69481",
@@ -1182,8 +1182,8 @@
 		"id": "35ae3aa0-5100-4e9a-9f8e-2d3281487d83"
 	},
 	{
-		"title": "Concept - De leerling beschouwt de relatie tussen vorm en betekenis van taal.",
-		"description": "Beheersingsdoel, Vorm en betekenis beschouwen",
+		"description": "Concept - De leerling beschouwt de relatie tussen vorm en betekenis van taal.",
+		"title": "Beheersingsdoel, Vorm en betekenis beschouwen",
 		"fo_uitwerking_id": [
 			"a088160e-688a-4ccf-8add-02948b34321e",
 			"975fde19-978d-4504-9ff7-cf8ad75985bb",
@@ -1200,8 +1200,8 @@
 		"id": "0c5c554b-3901-44f8-aaa0-6e7b63caf5fc"
 	},
 	{
-		"title": "Concept - De leerling verzorgt het schriftelijk taalgebruik.",
-		"description": "Beheersingsdoel, schriftelijke taalverzorging",
+		"description": "Concept - De leerling verzorgt het schriftelijk taalgebruik.",
+		"title": "Beheersingsdoel, schriftelijke taalverzorging",
 		"fo_uitwerking_id": [
 			"ca57bc75-5e6e-4c66-871b-98c30e764d8e",
 			"42b735b5-9e33-41ff-9229-a379919de0bb",
@@ -1218,8 +1218,8 @@
 		"id": "0a247c35-3e9a-48b9-bebd-1ab6810c5b48"
 	},
 	{
-		"title": "Concept - De leerling verkent hoe je met taal uiting geeft aan je identiteiten.",
-		"description": "Beheersingsdoel, Talige identiteit",
+		"description": "Concept - De leerling verkent hoe je met taal uiting geeft aan je identiteiten.",
+		"title": "Beheersingsdoel, Talige identiteit",
 		"fo_uitwerking_id": [
 			"6deffb4b-6366-48ed-88d9-4ea4116e9ce0",
 			"54ebf950-8a25-4e57-b192-0b460dd238c6",
@@ -1236,8 +1236,8 @@
 		"id": "68d3d4e0-b62d-4017-bcfd-f773dfc1773f"
 	},
 	{
-		"title": "Concept - De leerling beschouwt het bestaan en gebruik van verschillende talen en taalvariëteiten in relatie tot het Nederlands.",
-		"description": "Beheersingsdoel, Taalvariatie",
+		"description": "Concept - De leerling beschouwt het bestaan en gebruik van verschillende talen en taalvariëteiten in relatie tot het Nederlands.",
+		"title": "Beheersingsdoel, Taalvariatie",
 		"fo_uitwerking_id": [
 			"17f804bb-45b2-4ad9-aa9b-426f93bc1e88",
 			"c915ca8a-079d-4985-8824-90b8467ea9c9",
@@ -1253,8 +1253,8 @@
 		"id": "ea4f56f1-e2b4-471c-8146-daf144b3209c"
 	},
 	{
-		"title": "Concept - De leerling verkent de verandering van het Nederlands onder invloed van tijd en maatschappelijke ontwikkelingen.",
-		"description": "Beheersingsdoel, Taalverandering",
+		"description": "Concept - De leerling verkent de verandering van het Nederlands onder invloed van tijd en maatschappelijke ontwikkelingen.",
+		"title": "Beheersingsdoel, Taalverandering",
 		"fo_uitwerking_id": [
 			"500cecff-4a39-4ab4-983a-7a12e4043dfd",
 			"50ab9b31-a034-40a5-b2e2-e74ed9dae353",
@@ -1274,8 +1274,8 @@
 		"id": "450eefee-b96e-4379-9646-9254bf482f9a"
 	},
 	{
-		"title": "Concept - De leerling toont inzicht in verhalende teksten met behulp van kennis over verteltechnieken.",
-		"description": "Beheersingsdoel, Inzicht in verhalende teksten",
+		"description": "Concept - De leerling toont inzicht in verhalende teksten met behulp van kennis over verteltechnieken.",
+		"title": "Beheersingsdoel, Inzicht in verhalende teksten",
 		"fo_uitwerking_id": [
 			"fce4c74b-60c9-4f7d-9e5d-146a5f5f8d45",
 			"2075a809-5fbd-4718-bf90-271fc3262853",
@@ -1294,8 +1294,8 @@
 		"id": "0f2d88a0-c594-48d2-835c-c1953eb284d0"
 	},
 	{
-		"title": "Concept - De leerling verkent genrekenmerken van literatuur",
-		"description": "Beheersingsdoel, verkennen van literaire genres",
+		"description": "Concept - De leerling verkent genrekenmerken van literatuur",
+		"title": "Beheersingsdoel, verkennen van literaire genres",
 		"fo_uitwerking_id": [
 			"0359e292-78bc-4bbd-954c-651426dc92c5",
 			"035837e2-17e8-4c75-8844-05bef5fdbff9",
@@ -1314,8 +1314,8 @@
 		"id": "ad8f866e-2374-4eb7-b3cc-e46b61efd94c"
 	},
 	{
-		"title": "Concept - De leerling kiest nieuwe teksten op basis van eerdere lees-, luister- en kijkervaringen",
-		"description": "Ervaringsdoel, leesvoorkeur",
+		"description": "Concept - De leerling kiest nieuwe teksten op basis van eerdere lees-, luister- en kijkervaringen",
+		"title": "Ervaringsdoel, leesvoorkeur",
 		"fo_uitwerking_id": [
 			"a562ce4b-2f13-49de-bab1-56127f893caa",
 			"b1c160e4-9ab7-4377-93f5-2f52c658b716",
@@ -1332,8 +1332,8 @@
 		"id": "dd67bb77-033b-4e01-a8a6-08b75ea8a7ec"
 	},
 	{
-		"title": "Concept - De leerling verkent welke functies literatuur heeft.",
-		"description": "Beheersingsdoel, functies van literatuur",
+		"description": "Concept - De leerling verkent welke functies literatuur heeft.",
+		"title": "Beheersingsdoel, functies van literatuur",
 		"fo_uitwerking_id": [
 			"d88101fc-2aae-43cb-b21e-6f74337dc154",
 			"512d6152-be29-4199-89f9-3e839414c9fc",
@@ -1354,8 +1354,8 @@
 		"id": "d385da82-ed53-4ad6-9617-38bd67a44178"
 	},
 	{
-		"title": "Concept - De leerling verwoordt verbanden tussen literatuur en de periode of context waarin literaire teksten zijn ontstaan",
-		"description": "Beheersingsdoel, Tijd en context",
+		"description": "Concept - De leerling verwoordt verbanden tussen literatuur en de periode of context waarin literaire teksten zijn ontstaan",
+		"title": "Beheersingsdoel, Tijd en context",
 		"fo_uitwerking_id": [
 			"94335125-e256-4bbc-b990-d01a08bc7c6a",
 			"1216e8a5-63fb-4642-a6fc-59b9b06adaa3",
@@ -1373,8 +1373,8 @@
 		"id": "0a6cd39a-020f-4449-8a0c-b283f1d271ff"
 	},
 	{
-		"title": "Concept - De school zorgt voor een rijke taal- en leesomgeving voor alle leerlingen.",
-		"description": "Aanbodsdoel",
+		"description": "Concept - De school zorgt voor een rijke taal- en leesomgeving voor alle leerlingen.",
+		"title": "Aanbodsdoel",
 		"fo_uitwerking_id": [
 			"f01cc0c6-cf6e-4aa1-8e29-ff23740c4dec",
 			"eea58305-daf4-4f64-997d-944ae8af8814",
@@ -1392,8 +1392,8 @@
 		"id": "ef048d52-0a42-4dd1-a529-ca059c3572bf"
 	},
 	{
-		"title": "Concept - De school stimuleert de taalontwikkeling van de leerling in de andere leergebieden.",
-		"description": "Aanbodsdoel",
+		"description": "Concept - De school stimuleert de taalontwikkeling van de leerling in de andere leergebieden.",
+		"title": "Aanbodsdoel",
 		"fo_uitwerking_id": [
 			"43029119-0cc0-4710-b8ff-72fbeaa5bbfa",
 			"1a26db43-eeef-43a9-99d5-93de8177e236",
