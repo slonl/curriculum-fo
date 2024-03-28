@@ -39,5 +39,18 @@
 		],
 		"id": "186a1ede-e94d-4003-9d21-5e8b500fd591",
 		"unreleased": true
+	},
+	{
+		"title": "Kerndoelen burgerschap",
+		"vakleergebied_id": [
+			"a7bd6d47-9885-48f8-accf-5038b827a41d"
+		],
+		"fo_domein_id": [
+			"9964b601-8768-4e69-b8b9-b79d2292603d",
+			"cac1b698-034f-494e-a00f-decaebe019fc",
+			"7743dd74-641b-46ab-b3c8-244ecd5de0c6"
+		],
+		"id": "f5e536e9-97a5-4cfd-908e-c2ced604cc7e",
+		"unreleased": true
 	}
 ]
