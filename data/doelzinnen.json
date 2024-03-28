@@ -1797,5 +1797,126 @@
 		"prefix": "C.9",
 		"id": "cad9486f-f3d8-454b-a656-d4f233fa202d",
 		"unreleased": true
+	},
+	{
+		"title": "Concept - Kerndoel 1 - Schoolcultuur (aanbodsdoel)",
+		"description": "Concept - De school zorgt voor een democratische cultuur.",
+		"fo_uitwerking_id": [
+			"10838365-f6dc-4d07-814f-f6b69b236398",
+			"43e2cd0f-0f0b-4fa8-8047-383cd1cb84ba",
+			"93f977c9-1479-4442-8e7d-8a6bbcf54972",
+			"67588f7c-9f5f-4c2d-9a21-059c4082b0fe",
+			"57d7b06c-26ff-4d7d-a420-518540a0776c"
+		],
+		"fo_toelichting_id": [
+			"741614a5-fabb-4c22-8319-204f044b637e",
+			"8d30e202-da2d-45a9-b23c-58e5dac2fd15",
+			"182e9dda-1b1a-47a6-bc79-f0561fbc728b",
+			"cf6c9647-2431-4f91-a939-bba1900c54df",
+			"4dc8d3eb-fbbd-43bc-93a6-af00f95699d4"
+		],
+		"prefix": "A.1",
+		"id": "5bfce5e1-39ee-4d11-a6aa-4f9afc01304d",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Kerndoel 2 - Diversiteit",
+		"description": "Concept - De leerling handelt respectvol vanuit kennis over een diverse samenleving.",
+		"fo_uitwerking_id": [
+			"a7f0e55d-6d80-417c-a419-d5bbd5ad9cf3",
+			"1266b868-cf61-4bb9-a170-c9d1688bc418",
+			"77c1bddf-c5fa-4f46-89df-944375da14d2",
+			"dba39081-4b35-4249-aba3-79ebc6115d8b"
+		],
+		"fo_toelichting_id": [
+			"3c22f235-57b4-4bb1-bc89-c98662f0c689",
+			"29b2b35d-94e8-4292-9008-dcce39c49158",
+			"5a124928-03da-4b55-9336-917ab3f0d563",
+			"3b319464-a3b6-4fa5-90b7-c6cfda6fe955",
+			"6e8d80cd-0db2-47f9-95c4-b95aa050b9d5"
+		],
+		"prefix": "B.2",
+		"id": "88670244-4eb0-4ee1-8596-a172b52398b2",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Kerndoel 3 - Democratische waarden",
+		"description": "Concept - De leerling geeft aan hoe diens handelen verbonden is met democratische waarden.",
+		"fo_uitwerking_id": [
+			"17a374e8-f2a3-4282-8e92-c3851cb9096a",
+			"019a244f-27dc-409f-a686-736fcb04d137",
+			"4c8fe782-3e05-4e6d-b766-d16ef1a54ff5",
+			"e3bf7525-cd5e-4809-bbb6-388e63bfaeda",
+			"f9854e31-640c-4a9c-936b-f4f2d706fcb1"
+		],
+		"fo_toelichting_id": [
+			"0744f295-4c64-417f-bde3-f42f5aa4fe05",
+			"cd4df733-fc7d-4532-a78d-f43807bb573d",
+			"2bebdb05-2061-473c-99be-f5490d52f221",
+			"4585c65a-935a-4129-90da-9b6e4cfa6246",
+			"6e75d98c-4270-430f-a8a9-c39e7e9812eb"
+		],
+		"prefix": "B.3",
+		"id": "934cd26c-62dd-46fa-b414-f6c1933e28be",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Kerndoel 4 - Maatschappelijke betrokkenheid",
+		"description": "Concept - De leerling verkent verschillende mogelijkheden om bij te dragen aan de samenleving.",
+		"fo_uitwerking_id": [
+			"8268f03e-ce0b-40b3-9dee-843009d30d27",
+			"3cc0986b-74e7-4567-9a7e-a7d785c14ad3",
+			"be328402-7ca7-4e92-9f40-04f8f9d19bbf",
+			"7cf63af2-1485-4a17-b2a9-98ecaa1e426a",
+			"93bbc506-6817-4958-83b2-f3a705231368"
+		],
+		"fo_toelichting_id": [
+			"dd826367-659f-48f0-b2b3-f0bd294ec6f6",
+			"360064c0-2f29-4273-8d01-b7c84e159a2a",
+			"e07363e4-ec11-4281-87f4-11e3d173dc12",
+			"16b0459c-abfc-4f9e-8737-37f8246de4c6"
+		],
+		"prefix": "B.4",
+		"id": "71062293-bbb1-47e5-b14b-92810b87786e",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Kerndoel 5 - Democratische betrokkenheid",
+		"description": "Concept -  De leerling verkent hoe die democratisch handelen in dagelijkse situaties kan vormgeven",
+		"fo_uitwerking_id": [
+			"b26efcf3-96bd-42c4-b433-7ea473e01566",
+			"808a54d2-4650-4380-b712-05a9f83eba1a",
+			"e5b8aeb4-8198-424c-9747-48a8ebcc5410",
+			"0d112d6b-5046-4b8d-b8b9-0c1bf98f8270",
+			"23215d01-2318-4638-8561-68af8a5f147c"
+		],
+		"fo_toelichting_id": [
+			"108e44fb-3005-4e01-a9f6-c2dfed56577f",
+			"4260b97d-0779-4f75-a185-8afa2241ab20",
+			"4681d224-1f7a-41ca-ae3a-64f48af67b33",
+			"be09fa0b-2422-4412-a5ca-9143482a156b"
+		],
+		"prefix": "B.5",
+		"id": "a5fdc9c4-76ff-465b-8bdb-7742eb1136d7",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Kerndoel 6 - Maatschappelijke vraagstukken",
+		"description": "Concept - De leerling weegt af welke mogelijkheden die heeft om ten aanzien van maatschappelijke vraagstukken te handelen.",
+		"fo_uitwerking_id": [
+			"310ef83f-75c0-4c34-92d4-cc1942ceb130",
+			"de01a05e-0935-4d43-a705-728e1044ca5b",
+			"0d8836d4-25f9-44a6-9b14-890ef0e971d8",
+			"26f25a87-596c-4af8-9907-1ab7e22e8384",
+			"9adede1f-3f1b-4430-8c93-9fd34ce874e8"
+		],
+		"fo_toelichting_id": [
+			"094dcaaf-71ca-4bfc-aa6c-124d3635c175",
+			"2675a219-40e7-4106-8a0e-2886c35e3817",
+			"58e034b4-0e0c-4f5e-81f2-7a1659fbafea"
+		],
+		"prefix": "C.6",
+		"id": "ed240ba9-189a-4cfa-83be-bd86078991ab",
+		"unreleased": true
 	}
 ]
