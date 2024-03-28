@@ -135,10 +135,40 @@
 			"d4622bff-27a9-464a-8e4d-4f4c4bfd0ada",
 			"31034d4b-e90d-4768-9e17-3c12f77535e6",
 			"848b3c16-406e-4391-9ea0-c0af9138f238",
-			"cad9486f-f3d8-454b-a656-d4f233fa202d"			
+			"cad9486f-f3d8-454b-a656-d4f233fa202d"
 		],
 		"prefix": "C",
 		"id": "c75e2e6b-9d38-4e4b-ad2c-cec7e891f09d",
+		"unreleased": true
+	},
+	{
+		"title": "Schoolcultuur",
+		"fo_doelzin_id": [
+			"5bfce5e1-39ee-4d11-a6aa-4f9afc01304d"
+		],
+		"prefix": "A",
+		"id": "9964b601-8768-4e69-b8b9-b79d2292603d",
+		"unreleased": true
+	},
+	{
+		"title": "Samenleving en democratie",
+		"fo_doelzin_id": [
+			"88670244-4eb0-4ee1-8596-a172b52398b2",
+			"934cd26c-62dd-46fa-b414-f6c1933e28be",
+			"71062293-bbb1-47e5-b14b-92810b87786e",
+			"a5fdc9c4-76ff-465b-8bdb-7742eb1136d7"
+		],
+		"prefix": "B",
+		"id": "cac1b698-034f-494e-a00f-decaebe019fc",
+		"unreleased": true
+	},
+	{
+		"title": "Maatschappelijke vraagstukken",
+		"fo_doelzin_id": [
+			"ed240ba9-189a-4cfa-83be-bd86078991ab"
+		],
+		"prefix": "C",
+		"id": "7743dd74-641b-46ab-b3c8-244ecd5de0c6",
 		"unreleased": true
 	}
 ]
