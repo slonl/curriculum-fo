@@ -2288,264 +2288,637 @@
 	{
 		"title": "Concept - Te denken valt aan werken aan een opdracht binnen het praktijkgerichte programma, waarin leerlingen ondersteuning krijgen bij uitvoeren van taalactiviteiten.",
 		"id": "82afb1fa-cbdd-42c5-8109-a36d5c4e9a5a",
-		"niveau_id": [ "35715b0c-ad0c-46ab-ab1a-1387bb046486"]
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
+		]
 	},
 	{
 		"title": "Concept  - Te denken valt aan weten wat de functie is van bijv. intern geheugen, processor en router.",
 		"id": "9fcbd258-bf47-4a2f-baf7-e688072611b7",
-		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725"],
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan het vergelijken van de werking van een laptop, spelcomputer en tablet.",
 		"id": "8d1f1b97-f658-4ed0-9e27-62eaa120fdb1",
-		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725"],
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan een tekst met een tekstverwerkingssoftware opmaken en daarin met anderen samenwerken; een logische mappenstructuur aanmaken in een cloud-omgeving, met duidelijke bestandsnamen.",
 		"id": "18a2213b-a25d-4c5d-8d61-a6d6ae112ebd",
-		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725"],
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan weten hoe software te installeren of updaten op een device.",
 		"id": "2775b544-b044-461d-a583-0e687193ff81",
-		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725"],
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan het oplossen van uitval van een scherm of een verloren connectie met internet.",
 		"id": "170712c0-d30b-469e-9f76-0ea4528ec547",
-		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725"],
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Te denken valt aan verkennen welke digitale bronnen veelvuldig gebruikt worden en wat hun betrouwbaarheid is.",
 		"id": "c033c44f-e955-4479-8353-94d32aed47e0",
-		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725"],
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Te denken valt aan formuleren van simpele zoektermen voor een zoekmachine of AI-tool.",
 		"id": "d19815c6-cfa1-4736-b34e-39d7cafb99ef",
-		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725"],
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Te denken valt aan onderzoeken van de betrouwbaarheid van een bepaald online artikel en de afzender ervan.",
 		"id": "5dd9cdd4-1d51-47fb-8391-0f0f97c467ab",
-		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725"],
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Te denken valt aan onderzoeken hoe beelden en teksten gemanipuleerd of gegenereerd kunnen zijn en hoe dat te herkennen.",
 		"id": "0490bbf0-e25c-4d73-af01-2a6568ca48a2",
-		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725"],
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Te denken valt aan doelgericht omgaan met informatie die je niet zelf hebt gevonden of gezocht (bijvoorbeeld reclame die op-popt).",
 		"id": "ae259a96-4a67-4c5c-91d1-1aadc33dd25a",
-		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725"],
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan bespreken van het belang van veilige wachtwoorden. Leerlingen controleren of ze veilige wachtwoorden gebruiken. Zo nodig goede wachtwoorden bedenken en wachtwoorden regelmatig wijzigen.",
 		"id": "b2143107-8d93-4a07-aeed-e19d591656dc",
-		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725"],
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan bespreken wat er gebeurt als je op links klikt in mails van een onbekende afzender of als je ingaat op de verleidingen die in games verborgen zitten. Voorbeelden: een mail waarin gezegd wordt dat je een prijs hebt gewonnen of het aanbod van tips voor een oplossing in een spel.",
 		"id": "3adad878-371d-4e3e-ad12-3efdf6f0cb25",
-		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725"],
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan bespreken dat het nemen van technische maatregelen voor beveiliging belangrijk zijn, maar ook het tonen van veilig gedrag. Bijvoorbeeld niet van je computer weglopen als er nog software open staat.",
 		"id": "4a5cc695-470a-4e23-8876-3f59b1453f5a",
-		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725"],
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan niet zomaar privé-opnames van jezelf of anderen online publiceren.",
 		"id": "fe756426-61ee-4c24-b9bb-fcc855273182",
-		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725"],
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan weten waar je terecht kunt als je een vermoeden hebt dat iets online niet pluis is.",
 		"id": "67b7b129-49d2-4d04-a46b-55f554404b2b",
-		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725"],
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan een digitaal overzicht maken van favoriete huisdieren van leerlingen in de klas. Daaruit een lijst samenstellen van de drie meest populaire huisdieren. Kunnen we hieruit conclusies trekken over de populariteit van deze drie huisdieren in heel Nederland?",
 		"id": "480bb466-4c83-4963-b52e-b7eed7498801",
-		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725"],
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan onderzoeken bij welke hoeveelheid water per dag een plantje het beste groeit door de groeigegevens bij te houden en te verwerken met behulp van een digitaal systeem.",
 		"id": "3b9dae58-413b-4ec9-945b-2634ac9317a1",
-		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725"],
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan voorbeeld bespreken van het gebruik van data bij het oplossen van misdaden (camerabeelden gecombineerd met gsm-gegevens).",
 		"id": "19550e7a-600a-46bc-b143-2b929936c017",
-		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725"],
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan beseffen dat data verzameld worden via formulieren op websites of door gebruikersinvoer op sociale media, door sensoren in apparaten zoals smartphones en smartwatches of door camera’s in openbare ruimtes.",
 		"id": "e5ae26a3-ea84-4432-98d2-8b4ce3906085",
-		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725"],
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan begrijpen dat data van mensen afkomstig zijn, dat de mens beslist welke data AI kan gebruiken, dat het algoritme voor leren door mensen gemaakt wordt, en dat de training van AI door mensen gebeurt.",
 		"id": "12e96f77-5a4d-4f9d-865f-899df7b8b4a9",
-		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725"],
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan beschrijven dat AI gebruikt wordt voor bijvoorbeeld spraakherkenning, chatbots of aanbevelingen op sociale media.",
 		"id": "d5eb8bc6-4243-456b-8624-61654261a21f",
-		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725"],
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan beschrijven hoe sensoren van AI-systemen in een zelfrijdende auto continu nieuwe gegevens verzamelen en de auto laten reageren op de omgeving.",
 		"id": "7a691eb3-dd08-410d-be5b-545eadfa78c8",
-		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725"],
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan kritisch gebruikmaken van AI-systemen bij het verwerven en verwerken van informatie.",
 		"id": "2ae9ba2b-90e9-4be5-a605-5efade903af8",
-		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725"],
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan de vraag bespreken of AI echt kan denken als een mens.",
 		"id": "bad8adf1-ce63-45dd-af98-c09b8d4a694b",
-		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725"],
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan verzamelen en visueel structureren van informatie over digitale geletterdheid in een infographic.",
 		"id": "7a1674b8-07ce-4e64-bad6-38d0de3ff984",
-		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725"],
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan een informatief filmpje maken voor een ouderavond waarin het belang van digitale geletterdheid wordt gepromoot.",
 		"id": "23caa120-a6aa-4927-97bb-6a2cf444b464",
-		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725"],
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan een onderzoek doen en de resultaten verwerken in een audiovisueel verslag.",
 		"id": "0c8c5391-5752-467b-a550-916fdda05e07",
-		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725"],
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan nalopen van elke gebruikte afbeelding op auteursrechten in een presentatie.",
 		"id": "20adbfd4-aaed-453c-8559-ed2074a7f4e2",
-		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725"],
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan in eigen woorden beschrijven wat het programma doet en hoe het werk.",
 		"id": "86d5de97-dad1-4235-9a53-170dcffd1ec4",
-		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725"],
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan het maken van stappenplannen voor het programma en die weergeven in een schema.",
 		"id": "80349455-c8cc-4ad6-84e8-e5527c2d6fd9",
-		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725"],
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan begrijpen en aanpassen van bestaande programma’s, zowel individueel als samen; bijvoorbeeld instructies voor een robot of een spel in een blokgebaseerde programmeertaal.",
 		"id": "5a7c3475-0c6e-49f4-8541-662c35f67c2d",
-		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725"],
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan het aansturen van een robot om een taak uit te voeren, bijvoorbeeld een pad volgen.",
 		"id": "b0696eed-ffc3-4ce5-8960-9d1cddeec62d",
-		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725"],
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan het programmeren van een game die reageert op gebruikersinvoer.",
 		"id": "6047ec72-90ab-45fe-9c4e-bc0ea01320dc",
-		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725"],
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan bespreken en in kaart brengen van de schermtijd van de leerlingen.",
 		"id": "cf2bbd03-a06c-41c1-b2f3-96639a13c96b",
-		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725"],
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan je bewust zijn van het bestaan van een online identiteit, ook als je daar niet zelf bewust aan gewerkt hebt: gegevens over jou bij de overheid, bij zorgverleners, de babyfoto’s die je ouders op Facebook hebben gezet, enz.",
 		"id": "7475b1e7-f06b-40c9-b93f-dd046195cccd",
-		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725"],
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan nagaan welke invloed beeldvorming in media heeft op het zelfbeeld.",
 		"id": "4ea2f936-d0a2-4b7e-aff9-b5fd316da130",
-		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725"],
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan onderzoeken of en welke informatie er over de leerling te vinden is en wie die informatie verspreid heeft.",
 		"id": "42793d64-c224-499f-9de4-ab211c547f75",
-		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725"],
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan bespreken van de situatie dat iedereen onder het eten op zijn mobieltje zit.",
 		"id": "9f903a1b-29ca-4017-8f7a-1934d87fd2e3",
-		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725"],
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan bespreken van de vraag wat er gebeurt als een robot voor een deel van de tijd de leraar zou vervangen.",
 		"id": "629f4d8c-01fc-4662-bbba-8ebdbbce5e73",
-		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725"],
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan onderzoeken van de maatschappelijke gevolgen als sommige mensen geen digitale apparaten of internetabonnement hebben.",
 		"id": "5022a53e-cf93-46b0-b4d3-c9b97fc5aad1",
-		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725"],
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan bespreken dat een slimme thermostaat kan helpen om in huis efficiënt en zuinig met energie om te gaan, maar zelf ook weer energie gebruikt.",
 		"id": "ceddc0e4-8b00-46c6-a09b-dff8236bb9af",
-		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725"],
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan onderzoeken van de invloed van het stroomverbruik van datacenters.",
 		"id": "ed6bf430-a8ca-4b74-b747-7cdf90703230",
-		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725"],
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan onderzoeken van de invloed van digitale technologie op handel en de manier waarop we met geld omgaan.",
 		"id": "21020af3-44d9-475a-9792-0bc4759c55ee",
-		"niveau_id": [ "512e4729-03a4-43a2-95ba-758071d1b725"],
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
+		"unreleased": true
+	},
+	{
+		"title": "Concept  - Te denken valt aan het maken van een schematische tekening van het internet met daarin internetservers, datacenters, slimme apparatuur en apparaten van gebruikers.",
+		"id": "d81a641e-17ed-4b63-9d86-3ac688185b2d",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan de werking van een 'slim'apparaat onderzoeken.",
+		"id": "63a71702-60c0-4820-ab24-d574e0a6819b",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan een tekstverwerkingssoftware efficiënt gebruiken door gebruik te maken van de automatiseringsmogelijkheden zoals een automatische inhoudstabel en de automatische bronnenlijst.",
+		"id": "48ff7bdd-55af-4f92-8e19-f3c01e753789",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan op basis van gegevens in een spreadsheetsoftware een grafiek laten tekenen.",
+		"id": "76b311b6-83ee-4ee7-ab4e-9f54dca5c43d",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan beschrijven hoe het scannen van artikelen in een winkel de bevoorrading van die winkel efficiënt kan laten verlopen.",
+		"id": "f9dcb4f5-1343-4a7f-bcca-349a85f6c908",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan kiezen van de meest geschikte digitale zoekhulpmiddelen aan de hand van de informatiebehoefte.",
+		"id": "c99107eb-bb4d-445c-8dfe-710afc2c8d8c",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan formuleren van geavanceerde invoer voor het meest geschikte zoekhulpmiddel en hierbij gebruik maken van extra filtermogelijkheden en de opties van de tool om geavanceerder te zoeken.",
+		"id": "ee0e9370-59ce-4524-bba9-080b788b0691",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan vergelijken van resultaten van verschillende zoekhulpmiddelen (commercieel en niet commercieel) en verschillen verklaren.",
+		"id": "b0dfddef-b27e-49a1-a60f-e57e9f33f818",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan zich bewust zijn van mogelijke filterbubbels bij het zoeken naar informatie.",
+		"id": "39ab3034-85a2-42ce-8ac6-9a98633c8565",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan nagaan of een bericht al dan niet ‘nep’ is. Daarbij aandacht voor het gegeven dat er voor iedereen er technische mogelijkheden beschikbaar zijn om teksten en beelden te manipuleren of te creëren (nepnaaktfoto’s enz).",
+		"id": "e9ae6e49-70e7-47dd-81f0-c8d79ec62b32",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan zoeken naar beelden van geothermische activiteiten.",
+		"id": "98b4e4c1-a339-4821-94cf-776cfc06d2f7",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan actuele gegevens combineren met online map-locaties op de oceaanbodem.",
+		"id": "651fb5b3-9234-4be0-b8e0-c7ee8338588e",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan gebruikmaken van zoekmachines voor wetenschappelijke literatuur.",
+		"id": "b1b516a4-7ba0-4642-8136-6f2236b247d1",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan antivirussoftware gebruiken, configureren en regelmatig updaten.",
+		"id": "92cd9423-83c2-4991-a001-d315394a2684",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan privacy-voorwaarden bekijken waarmee de gebruiker moet instemmen en bewust kiezen om eigen data al dan niet te delen in voorkomende situaties.",
+		"id": "bb282f2f-8a21-42bc-8f22-33d6aa8338b9",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan weten wat wel en niet mag in het kader van de AVG.",
+		"id": "bd4c3db4-f124-4e82-b614-124557763427",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan werking en noodzaak bespreken van tweetrapsverificatie.",
+		"id": "20b4872c-5fdb-4ad2-900c-139153054bc8",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan weten dat de beveiliging van je digitale systemen en data een voorwaarde is voor de bescherming van je privacy.",
+		"id": "de2aa702-f4b3-48a9-ad45-8b3c9c3deabe",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan voorbeelden van spyare, ransomware en botnets bekijken.",
+		"id": "77cd928a-cf87-4d86-8a4a-e4086dcc9722",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan je bewust zijn van je recht om te weten welke informatie over je verzameld wordt en waarom. Weten dat instellingen daarover transparant moeten zijn.",
+		"id": "a27bd7b0-ad5a-4747-9e4a-f08730307985",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan gebruiken van gedigitaliseerde historische bronnen om meer zicht te krijgen op het leven van mensen in een bepaalde historische periode.",
+		"id": "14a2a77c-8c46-4ccd-ad4b-489e1da81238",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan bespreken van de gegevens die in een adresboek zijn opgenomen. Wat weet je nu wel en niet van een persoon?",
+		"id": "0898ae91-ffe5-4870-80bc-7fe98e53a462",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan bespreken dat de groeiende beschikbaarheid van digitale data en de toenemende rekenkracht van digitale systemen het mogelijk maakt om data in steeds meer gevallen te benutten voor analyses en het verbeteren van producten en dienstverlening.",
+		"id": "a3eb2396-de4c-4260-a552-783f7765be13",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan beschrijven aan de hand van een voorbeeld uit de praktijk hoe data na analyse gebruikt kunnen worden om beslissingen te nemen, bijvoorbeeld hoe data over verkeersdrukte tot een beslissing over het plaatsen van een stoplicht kunnen leiden.",
+		"id": "ff1b3215-15cf-4f81-9ddb-356b961e9a4e",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan reflecteren op het gebruik van AI, waarbij in grote hoeveelheden data naar verbanden en patronen gezocht wordt, zoals in persoonlijke ziekenhuisdossiers, röntgenfoto's etc.",
+		"id": "d684d44c-a995-4d3f-9ea5-ba40e3884083",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan gebruiken van open data van CBS om bijvoorbeeld te onderzoeken of mensen in de loop der jaren meer online zijn gaan winkelen en of ze online meer geld zijn gaan besteden.",
+		"id": "5d09a30b-52b5-46e3-b888-3a80eccaf160",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan uitleggen dat AI leert op basis van data en dat de kwaliteit van die data van invloed is op de kwaliteit van uitvoer van een AI-systeem.",
+		"id": "53972a09-9a0e-4971-ac38-e1e2e245d5b2",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan beschrijven hoe large language models gebruikt worden om bijvoorbeeld samenvattingen te maken en hoe generatieve AI nieuwe content creëert.",
+		"id": "7356c681-3365-47b5-94c9-629cd11284d3",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan beschrijven dat AI-systemen leren op basis van data en dat andersoortige systemen vooraf worden geïnstrueerd om opdrachten uit te voeren zonder daarbij te leren.",
+		"id": "9ffc9a9f-3a51-472a-a8f5-d4f8c63d6abe",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan in gesprek gaan met ChatGPT om ideeën op te doen, structuur in teksten aan te brengen, teksten te vertalen en taalgebruik te verbeteren.",
+		"id": "9272316b-b93b-4d8c-8378-1aa4164b501e",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan trainen van een AI-systeem om dieren op foto’s te herkennen.",
+		"id": "721fbb13-896a-4705-b65a-a141ea96e3cb",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan voorbeelden van AI-systemen kennen zoals machine learning, deep learning, natural language processing, computer vision, expert systemen, generatieve AI enz.",
+		"id": "3ee84f99-43ce-419f-8657-844f34a1af08",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan begrijpen dat AI-systemen getraind kunnen worden, bijvoorbeeld door supervised learning, unsupervised learning en reinforcement learning.",
+		"id": "c118ba7f-1aec-4720-bf0b-8830d2d5cf08",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan een AI-systeem trainen om handgebaren te herkennen of om een modelauto te laten rijden, rekening houden met de (on)wenselijkheid om daarbij eigen data te delen met het AI-systeem.",
+		"id": "19d06cf2-8a0e-488d-9309-c9680144ff0d",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan begrijpen wat de eigenschappen van een AI-systeem zijn: beslissingen van AI zijn moeilijk of niet te herleiden; resultaten van AI zijn altijd gekleurd door beperkingen in datasets waarmee ze getraind zijn en zijn dus niet altijd correct.",
+		"id": "8a218c7c-d7b2-43df-8542-11c099690e25",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan onderzoeken of en hoe een computermodel kan helpen om celdeling te begrijpen.",
+		"id": "1c70a14a-a491-4438-a661-7d6bdf0ec37c",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan ontwerpen van een game op basis van een scenario of spelregels. Kijken of het aan de wensen en eisen voldoet.",
+		"id": "86bf3cb7-5900-4e6e-9682-1b2c62ea5496",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan experimenteren met nieuwe (soorten) software en het combineren ervan. Bijvoorbeeld door nieuwe software voor reference management te koppelen aan je tekstverwerkingssoftware.",
+		"id": "567d00ac-b184-4d3f-8aed-6f053dd57283",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan nadenken over wanneer het handig is om een tool te gebruiken en de juiste kiezen. Is het zinvol om een spreadsheetsoftware te gebruiken om een simpel percentage te berekenen? Of om een statistische analyse van een grote dataset uit te voeren?",
+		"id": "559f8bec-1895-4373-8c8f-227cb4c566e6",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan virutele rondleiding door een kasteel maken.",
+		"id": "38bc79ae-affd-4793-bc34-5dc9c67cb260",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan gebruiken van CAD-software om een kunstwerk te ontwerpen of een technisch ontwerp te maken.",
+		"id": "fdd319ad-07d0-428f-b7cc-a2541e4e48e1",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan gebruiken van spreadsheetsoftware of software voor meetkunde om een wiskundig of natuurkundig probleem op te lossen.",
+		"id": "60772a80-c264-4797-a244-3c3c13c832fc",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan het programmeren van een sensor om data te verzamelen om die te kunnen verwerken, bijvoorbeeld een vochtsensor om te bepalen wanneer een plant water moet krijgen.",
+		"id": "3c4480bb-575a-4f6f-b82b-8becb1d2afa9",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan het ontwerpen en programmeren van een kunstinstallatie, interactieve animatie of verhaal, of het implementeren van een wiskundig algoritme.",
+		"id": "e1e1328b-6b01-490b-af1e-e78f7576f305",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan het stappenplan van een programma weergeven in de vorm van een stroomdiagram of pseudocode.",
+		"id": "b183e568-1ef3-47a2-a5cf-3d3879a1e53a",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan simpele datastructuren zoals lijsten gebruiken, en logische operatoren zoals EN, OF en NIET combineren.",
+		"id": "ca935e22-32c0-4de1-8bf8-dd7a3ef4865b",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan programmeren om een probleem uit een ander leergebied/vak of uit de samenleving aan te pakken.",
+		"id": "9648208a-93ee-4794-8dbd-8ed44cd8d742",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan discussiëren over de verslavende werking van games. Hoe werken die en hoe ga je daarmee om?",
+		"id": "6eb54ef9-b61d-4c27-af69-7f98af401b6f",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan bijhouden van de ontwikkeling van de kwantumcomputer en de mogelijkheden en beperkingen daarvan.",
+		"id": "cede6ad8-7598-426d-980f-c759dd2cd3d0",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan zelf bijdragen aan en beïnvloeden van je online identiteit. Presenteer je jezelf zoals je over wilt komen of op een manier die positief voor je is in je latere leven?",
+		"id": "f190cde1-d5fd-4a7f-9764-21a7c97c1e84",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan weten dat er veel verschillende beroepen zijn in de wereld van digitale technologie en media, die een beroep doen op heel verschillende kwaliteiten van mensen.",
+		"id": "c8c5ced1-9ef7-4d30-841e-e02afcfe0c7d",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan weten dat er veel verschillende beroepen zijn buiten de wereld van digitale technologie en media, die een beroep doen op kennis van digitale technologie en media.",
+		"id": "427f592b-ba41-4b04-a306-a20d4aa00108",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan verkennen van de mogelijkheid om een online crowdfunding op te zetten om de plaatselijke muziekschool te ondersteunen.",
+		"id": "df83b985-e83a-40c2-bf7e-fdac8c8eeaf4",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan onderzoeken van de voor- en nadelen van het gebruik van AI in de gezondheidszorg.",
+		"id": "4800cafe-9b1a-4ef7-ba7f-7ee3cbb40d85",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan inzicht hebben in de economische, ethische en maatschappelijke gevolgen van het grootschalig verzamelen en gebruiken van data door bedrijven en overheden.",
+		"id": "33369e46-de3a-4aa1-b030-62e28258693d",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan ontwikkelen van toekomstscenario’s waarin digitale technologie en digitale media ten goede en ten kwade van de samenleving en de mensheid komen.",
+		"id": "42131e0f-6116-4583-8abd-46696437ecd3",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan discussiëren over de vraag of de ontwikkeling van AI aan regels gebonden moet worden en waar die regels zich op moeten richten. Wat wordt/is er al geregeld? En is dat voldoende?",
+		"id": "e03e41dc-5a58-4e16-8831-adcb6161ad88",
 		"unreleased": true
 	}
 ]
