@@ -1918,5 +1918,137 @@
 		"prefix": "C.6",
 		"id": "ed240ba9-189a-4cfa-83be-bd86078991ab",
 		"unreleased": true
+	},
+	{
+		"title": "Concept - Kerndoel 1 - Schoolcultuur (aanbodsdoel)",
+		"description": "Concept - De school zorgt voor een democratische cultuur.",
+		"fo_uitwerking_id": [
+			"8ca247a7-487e-48f6-b99a-49a42049386f",
+			"87286193-891f-4d1f-a940-29ba7f889660",
+			"27e2f7c0-f28e-4b63-9a6a-87f1864b2cc5",
+			"b4699f3b-cece-46c5-bf45-9bed16285276",
+			"5ac6b17f-022e-42b0-86e7-dd70457b6eb4"
+		],
+		"fo_toelichting_id": [
+			"328dac53-faf0-49a7-8427-0641bce5d9e7",
+			"30b35a3e-a699-4420-ac09-17a04df55dd0",
+			"10d43f04-cfed-4524-a571-8e33869900bd",
+			"c6f9ffe1-e550-478c-87eb-002b293047f6",
+			"85dc2dc4-6343-4417-88ca-200850213c88"
+		],
+		"prefix": "A.1",
+		"id": "b92ca11e-20d2-4fe9-96bd-c0b50aa0530c",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Kerndoel 2 - Diversiteit",
+		"description": "Concept - De leerling handelt respectvol vanuit kennis over een diverse samenleving.",
+		"fo_uitwerking_id": [
+			"b531dff4-8283-4dca-9ec2-aa05092ec11c",
+			"1c572f9d-5b02-4eb5-a74e-432c1c9b9ce4",
+			"73778c69-15ed-415c-bbee-da73e50a3627",
+			"38d351e9-efab-482d-be99-47543e5afc97",
+			"41758eb6-3d88-47e6-8901-be35e41264dd"
+		],
+		"fo_toelichting_id": [
+			"91c7c31e-8a99-4965-9092-f76a22530250",
+			"f554da90-ca01-4f93-ac5a-d8c7f1e729ed",
+			"93310820-4f1e-4b17-a8e6-cbd23b663375",
+			"234a1ea3-3890-4d30-b146-c584bce925e0",
+			"15a4c50c-28d9-4579-9919-5d43e36057c7",
+			"f893e9e7-0a7b-4693-9b4a-a05dc62c1c8d",
+			"f1b31d35-f6a4-4ebe-8587-03277b465fba"
+		],
+		"prefix": "B.2",
+		"id": "54078705-71d5-455f-af75-8b0a480e5840",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Kerndoel 3 - Democratische waarden",
+		"description": "Concept - De leerling geeft aan hoe diens handelen verbonden is met democratische waarden.",
+		"fo_uitwerking_id": [
+			"6f1e030f-f62d-4afa-90cf-88006956c26a",
+			"ad45e64a-a66d-4ade-9fd6-6f8f3ec2945b",
+			"8cedc0ab-4e66-4f08-a475-85411f1a2674",
+			"44e97fa3-2035-4bbd-a29b-262841ddaf8a",
+			"97743668-7de8-46fa-90da-d2958f83d67e"
+		],
+		"fo_toelichting_id": [
+			"b3a48594-7830-478e-b5d2-811e40a27b10",
+			"45b8ef44-6ce1-4608-bc22-0888cc1c6b95",
+			"8a5261f1-6cca-4e9f-aea9-546dbc566269",
+			"45f206da-c990-4d15-bd9e-942a3afe19a2",
+			"5b169b77-14df-4790-8709-2f5a218a1a4b",
+			"4aaae1d9-74ed-4ca9-8d60-a58e9239e25f"
+		],
+		"prefix": "B.3",
+		"id": "7aa961fe-25ec-463d-ab02-e77102b9de13",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Kerndoel 4 - Maatschappelijke betrokkenheid",
+		"description": "Concept - De leerling verkent verschillende mogelijkheden om bij te dragen aan de samenleving.",
+		"fo_uitwerking_id": [
+			"698d6e74-9b87-437d-a8dd-8511b8e81edc",
+			"dfa305d7-3311-4a30-8944-3c2915feb66b",
+			"76a7328b-95b5-477e-9ea8-6787b7c31e32",
+			"c44a0c45-b288-412a-a22c-b85fbf6d7751",
+			"2cb02474-7b77-432e-b87b-69adbe6730d4"
+		],
+		"fo_toelichting_id": [
+			"46d1ac67-da3a-4480-9e24-dff3bb5b1f70",
+			"0d427b04-c5d5-4222-bc52-3f31ec136530",
+			"4d331cf8-8a28-476b-95c0-001448b82a69",
+			"d9b48de8-74aa-4437-abb8-0ab18b8d89ae",
+			"8ebe7b4e-5055-4ddd-8d74-eb49c6c70354"
+		],
+		"prefix": "B.4",
+		"id": "31425075-d4f6-453f-ac1a-d8c44f3b2eb1",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Kerndoel 5 - Democratische betrokkenheid",
+		"description": "Concept -  De leerling verkent hoe die democratisch handelen binnen de democratische rechtsstaat kan vormgeven.",
+		"fo_uitwerking_id": [
+			"53cb99b8-4ce7-4cae-b46e-4cb46ab15ff3",
+			"c4b64a7c-f0de-497d-856c-a7d134c18090",
+			"3c0feab7-49ed-487b-9c29-42d0a7ec89ae",
+			"b0c9572d-f43f-48e7-bd0b-d70c0857693e",
+			"d43f4faa-f312-43c7-a238-ffde6f4104b5"
+		],
+		"fo_toelichting_id": [
+			"39384ebc-cee1-4a66-989f-e8c47ac87707",
+			"0256797d-26a3-4559-b037-78631d4d6adb",
+			"ec0eed14-7e37-4a32-a490-97438213f7c7",
+			"c1dd4225-c627-4657-a199-f1e0d3e7bf06",
+			"a06c006e-15b0-4d98-b86c-572198a2f56e",
+			"d50c3dfe-2c40-4b8f-9967-f0de25165e3a"
+		],
+		"prefix": "B.5",
+		"id": "a6a3b0ab-993d-42c6-9b49-40e21dfc7e0d",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Kerndoel 6 - Maatschappelijke vraagstukken",
+		"description": "Concept - De leerling weegt af welke mogelijkheden die heeft om ten aanzien van maatschappelijke vraagstukken te handelen.",
+		"fo_uitwerking_id": [
+			"cafcf7e4-31b8-4744-a275-3bb39bc6df6f",
+			"a7abb79e-759c-459a-ad74-5d59d7455b57",
+			"d458f9e0-58ca-44bf-8e05-b8b8d5fefe14",
+			"e60c9084-f866-4f81-9349-dab9beb1aef9"
+		],
+		"fo_toelichting_id": [
+			"c9629e9c-7587-4b6a-a76c-ccf24571d530",
+			"0c002cb9-2aa6-4d63-8afa-92f08157c88f",
+			"0f377029-443c-4435-87e0-aa076de2e4b4",
+			"c9b405e2-cc76-47c6-a3dc-4c10a74932f2",
+			"e0c3288e-270e-4afa-9588-d0d596426711",
+			"1f3c1b6e-253f-408c-8ee5-ffa2e5e3742a",
+			"f631379c-c168-48f2-bd79-c54e397908a9",
+			"0aba6981-b452-450c-b93b-179c207d69bf"
+		],
+		"prefix": "C.6",
+		"id": "4edc1d48-6f87-4d59-be84-e1647b1d65ae",
+		"unreleased": true
 	}
 ]
