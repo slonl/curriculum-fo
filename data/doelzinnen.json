@@ -2914,5 +2914,84 @@
 		"prefix": "C.17",
 		"id": "db881125-038b-4ba1-8cee-cd8d7490b8ed",
 		"unreleased": true
+	},
+	{
+		"title": "Eindterm 12 - Ontwerpen van een product",
+		"description": "De leerling ontwerpt een technisch product.",
+		"fo_uitwerking_id": [
+			"63c5d291-5d51-4fe8-ae79-23ad0b940aca",
+			"b88e1878-b4f0-47e9-b427-5a563b1d1494",
+			"26e82891-e310-4be3-8257-4dd56216c2ae",
+			"41418d55-ac78-4a5a-80a9-71f7a08afbd2",
+			"c787733c-ff1c-43ab-97e3-31f6c97fb82c"
+		],
+		"prefix": "C.12",
+		"id": "a85b03b0-572b-45b7-8847-b7d5a8545e3d",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 13 - Maken van een product",
+		"description": "De leerling maakt een technisch product.",
+		"fo_uitwerking_id": [
+			"133399a1-7f77-4b4d-a38b-a5b12a410da1",
+			"2a102276-7daf-4f88-b6e6-8b6b94dd68d4",
+			"0ccf92b0-babe-4866-b169-45468d91519b",
+			"9a2058a7-864d-4ed5-b5fc-b7111e074a82"
+		],
+		"prefix": "C.13",
+		"id": "7e701474-ff8e-43fa-92ce-5795c4b1c2cd",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 14 - Adviseren over oplossingen",
+		"description": "De leerling adviseert over technische installatieoplossingen.",
+		"fo_uitwerking_id": [
+			"68a40688-6d26-4820-bc1e-89d3f379b25f",
+			"827a51c1-8b44-4b27-9ef2-0d01349e0729",
+			"87f4f340-621c-4971-bf6f-cba346abca5c",
+			"c3747ff8-d008-4b8a-8baf-26c6c6a14fd8"
+		],
+		"prefix": "C.14",
+		"id": "7798a1f7-0ccd-42d6-9460-965438b81033",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 15 - Adviseren over een proces",
+		"description": "De leerling adviseert over het verbeteren van een productieproces.",
+		"fo_uitwerking_id": [
+			"56f6261c-4d3c-4202-b47b-1d5745406a86",
+			"e68b6bf5-08e0-4d27-9fc1-1dd70163ec9b",
+			"a8628d81-781c-4bf2-8e4b-14c4311d7c14",
+			"04f2540f-778b-41a1-b5f4-b9e5f93db1a9"
+		],
+		"prefix": "C.15",
+		"id": "99575ec9-30b9-41f3-8c90-7785aa75f292",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 16 - Installeren van een installatie",
+		"description": "De leerling installeert een deel van een technische installatie.",
+		"fo_uitwerking_id": [
+			"97a73b9f-c93b-4e98-86fd-14bb1e453a48",
+			"be3ce063-5550-4953-8223-6cf7e1ec4088",
+			"8aef0fa9-d1dc-486a-94eb-266701db3558"
+		],
+		"prefix": "C.16",
+		"id": "47070b5b-60f7-4959-a8e1-321a4206f503",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 17 - Onderhouden van een installatie",
+		"description": "De leerling onderhoudt een deel van een technische installatie.",
+		"fo_uitwerking_id": [
+			"d3f70888-7ad0-4b15-8585-dbfa20cc6a75",
+			"a006dd8d-0d81-4e07-b397-1b3ed4e499a3",
+			"19d20f92-03eb-42e0-bee1-0c0a382c15c0",
+			"21053e58-b27d-46f0-b7ea-b9e34c9a266a",
+			"cbb154ac-940c-4cbb-847d-11fcce633e3b"
+		],
+		"prefix": "C.17",
+		"id": "49e7b807-86f6-4f57-8934-00d0553ad110",
+		"unreleased": true
 	}
 ]
