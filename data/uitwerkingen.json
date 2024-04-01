@@ -5252,5 +5252,140 @@
 		"title": "Het gaat hierbij om opdienen van een aantrekkelijk gepresenteerd gerecht.",
 		"id": "4a706a15-dfbc-48b6-843c-c36f1b6b4af3",
 		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om genereren van ideeën, rekening houdend met het programma van eisen.",
+		"id": "24f71bd5-04a4-4a8b-b866-5a9831aaa40a",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om beoordelen of ideeën passen bij het programma van eisen.",
+		"id": "18a5c78f-8ef7-4476-8932-9d4e2cda144e",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om onderbouwen van de keuze voor één idee.",
+		"id": "e07fcef0-5273-4491-963e-5c8a65f4fcec",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om omzetten van het gekozen idee naar een concept.",
+		"id": "1414b6e8-9e55-40f0-ad75-b9350d027690",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om visualiseren van het concept in een ontwerp met behulp van ontwerpsoftware.",
+		"id": "e6311f46-1a48-4501-95f0-00df1979c26b",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om opstellen van een plan van aanpak op basis van een ontwerp.",
+		"id": "95c6227f-1b1e-4833-8b12-f50c8aeba1c7",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om verzamelen van beeldmateriaal.",
+		"id": "25433a50-06cc-459b-a714-5505a7438247",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om opmaken van een definitief ontwerp volgens technische eisen.",
+		"id": "e6a5c6c0-30e4-434c-8c1a-7809a847cb84",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om controleren en bijstellen van het product op basis van het programma van eisen.",
+		"id": "d89c3a57-6127-4a67-97b7-7bf0765e760c",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om genereren van mogelijkheden op basis van IT-ontwikkelingen.",
+		"id": "09430da7-041d-4a6f-80a4-136ff8559af5",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om omzetten van mogelijkheden naar duurzame toepassingen.",
+		"id": "da3e5e53-5b31-497c-bbb8-67c7a5fab8a7",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om beoordelen van toepassingen op basis van financiële en organisatorische haalbaarheid.",
+		"id": "3ead9374-2dd4-4102-b69e-6ecf37cd741b",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om presenteren van verschillende toepassingen.",
+		"id": "d489cafc-a07b-44fc-ae1d-7b677abcf237",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om genereren van oplossingsrichtingen op basis van wensen van de gebruiker.",
+		"id": "6e0ac8cb-cbe7-4f33-b5dc-a71a9697416a",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om opstellen van een plan van aanpak op basis van een gekozen oplossing.",
+		"id": "48c0a596-384e-4d31-ab51-2290e5f1cf6f",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om verzamelen van software en apparatuur.",
+		"id": "ec9bb75a-508e-4704-b3b3-32e58ab7f724",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om uitvoeren volgens het plan van aanpak, rekening houdend met programmeerprincipes.",
+		"id": "296a4529-61e7-4c60-8e71-6178c6689ecc",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om testen en debuggen van het product.",
+		"id": "ffcc029b-9dc1-4881-8b37-890cd5956e86",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om controleren van de IT-infrastructuur.",
+		"id": "8994906f-ce0a-4ef5-ad30-296148b2309a",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om vaststellen van benodigde wijzigingen in de IT-infrstructuur.",
+		"id": "224de018-5c0e-4050-9007-bd04ce6f881c",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om opstellen van een plan van aanpak, rekening houdens met beveiligingsmaatregelen en duurzaamheid.",
+		"id": "7f907f87-0a33-48c4-a91e-5d62c3737fe7",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om uitvoeren van de wijzigingen volgens het plan van aanpak.",
+		"id": "9f24842e-e9dc-4c9e-92c4-a16dd9aa35c4",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om inventariseren van de hulpbehoefte van een gebruiker door middel van een meldingsprocedure.",
+		"id": "f306c1d8-dd7d-4972-b7db-37339c47f08d",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om zoeken van gegevens in een gestructureerde gegevensverzameling met behulp van digitale instrumenten.",
+		"id": "2eb45ca2-7d74-4747-bd2e-c6f8788476cb",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om opstellen van een gebruikersinstructie.",
+		"id": "3a55ddf8-bb61-4624-acf2-92e9465f0f6b",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om uitvoeren van ondersteunende werkzaamheden.",
+		"id": "c270b3dd-934c-4fe0-9b04-3555a4df6518",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om rapporteren van werkzaamheden en bijzonderheden.",
+		"id": "1abcec30-3806-40a1-b1a5-41022cd03938",
+		"unreleased": true
 	}
 ]
