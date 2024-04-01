@@ -2831,5 +2831,88 @@
 		"prefix": "C.17",
 		"id": "8ed6bca4-c1ab-4045-92fa-de12ed876fd4",
 		"unreleased": true
+	},
+	{
+		"title": "Eindterm 12 - Ontwerpen van een model",
+		"description": "De leerling ontwerpt een digitaal 3D-model.",
+		"fo_uitwerking_id": [
+			"cc8e615a-bbec-43c9-a36b-475a461a783e",
+			"f51a4670-c33e-4923-a541-6a9f3a311156",
+			"d460dfa0-0b55-4cc8-9aef-caf6172aa656",
+			"e6ffe34f-2c88-4227-b735-dd525e7d1e80",
+			"344f28f3-884f-444f-a928-784adc12b5b7"
+		],
+		"prefix": "C.12",
+		"id": "d61bb3a8-63b9-4f2c-a257-fd2e91e201ef",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 13 - Maken van een mediaproduct",
+		"description": "De leerling maakt een digitaal mediaproduct.",
+		"fo_uitwerking_id": [
+			"44e940b6-0df7-4e61-8e1e-000d95a76b81",
+			"7ff3143d-59cb-429c-9425-a24ab117355c",
+			"1d532c48-04cd-4b32-9512-faa47e4fcb5d",
+			"feb05ac3-91ac-47b0-9960-5fe21769c78f",
+			"446f1100-c891-408b-8a78-067c05074960"
+		],
+		"prefix": "C.13",
+		"id": "4cd3407c-7a3f-4cea-a39a-a85e2f2aa8a2",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 14 - Maken van een audiovisueel product",
+		"description": "De leerling maakt een audiovisueel product.",
+		"fo_uitwerking_id": [
+			"fb21dd8a-44fb-4d91-9263-fd99a9fd6437",
+			"a31b637d-7654-4690-9998-08b877d927ff",
+			"94b60a7a-5ee1-4bad-9789-6dcedb16ada8",
+			"cc5d5a2e-5c4d-4883-8bd9-e6245fbfb98e",
+			"1d7d9ed4-cebe-4d15-8ec2-e77e1794db14"
+		],
+		"prefix": "C.14",
+		"id": "a95363de-3b03-409a-a9b0-97aacae2fceb",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 15 - Adviseren over een omgeving",
+		"description": "De leerling adviseert over een digitale omgeving.",
+		"fo_uitwerking_id": [
+			"4ab75b29-a8fa-4a19-af87-0c0f3f8c821b",
+			"357fb791-57bb-4c44-b935-26be3422a9b4",
+			"bd9ebce6-7b1e-4d8a-91f4-d0e280a19c2b",
+			"cb8ec05a-8967-489e-ad96-11e4ca647303"
+		],
+		"prefix": "C.15",
+		"id": "01882bc1-586b-4ae1-88b3-529d7388d0be",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 16 - Programmeren van een product",
+		"description": "De leerling programmeert een digitaal product.",
+		"fo_uitwerking_id": [
+			"8e6c3b9f-a051-43da-8393-786abd34dd40",
+			"1a93e982-ee22-4d78-99a6-c69621ca1218",
+			"64b9f257-a28d-4b0d-8b65-5fc60c13b8a9",
+			"f1913cac-1f54-430c-89a2-8b8e3987553a",
+			"516f2fe3-6505-4159-8e40-6001a5fae0a7"
+		],
+		"prefix": "C.16",
+		"id": "d2ffc9fc-fe6b-4c97-a32c-8b9776cb8b35",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 17 - Programmeren van een game",
+		"description": "De leerling programmeert een deel van een game.",
+		"fo_uitwerking_id": [
+			"cc934129-5d54-4de2-ab62-b0fff5c6821b",
+			"f803015f-e0ac-4240-a66e-6a18a5c4a508",
+			"f6d047c4-6f82-4ef8-a627-436e8884a3ef",
+			"031f82aa-d020-4963-bd46-fa05638fff72",
+			"4d4e1372-15a6-4520-a5c2-a8354ae4a9e6"
+		],
+		"prefix": "C.17",
+		"id": "db881125-038b-4ba1-8cee-cd8d7490b8ed",
+		"unreleased": true
 	}
 ]
