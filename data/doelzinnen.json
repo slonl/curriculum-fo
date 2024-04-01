@@ -2671,5 +2671,83 @@
 		"prefix": "C.17",
 		"id": "17e7579a-cde8-4e5c-9933-5847bcb3126e",
 		"unreleased": true
+	},
+	{
+		"title": "Eindterm 12 - Ontwerpen van een schip",
+		"description": "De leerling ontwerpt een onderdeel van een schip.",
+		"fo_uitwerking_id": [
+			"fe921bcd-9c68-431e-bc2d-b6af0124f2c3",
+			"c066df98-e8bd-4443-af8c-a3614cf99e69",
+			"9fe0eb94-bb8f-47fd-b6ae-298e2ed98c73",
+			"8faf3556-9f98-4a1a-96a7-350baa6fceee",
+			"4c5327cb-8df3-416e-8bd1-eb20372ad0c3"
+		],
+		"prefix": "C.12",
+		"id": "5be4d419-4ab4-4335-8719-81705decd73d",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 13 - Maken van een prototype",
+		"description": "De leerling maakt een maritiem prototype.",
+		"fo_uitwerking_id": [
+			"cf516b39-11c3-4396-b058-16939d4af109",
+			"94d310d4-e4e3-4f87-af9f-f9749e741876",
+			"8a50ea3f-460f-4a84-a2b7-2b58ad53547f",
+			"6cd668f7-cc1d-4861-a10e-5402ae7cff29"
+		],
+		"prefix": "C.13",
+		"id": "24ba36dc-5384-4bc9-a349-43404e6fac46",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 14 - Adviseren over onderhoud",
+		"description": "De leerling adviseert over duurzaam onderhoud.",
+		"fo_uitwerking_id": [
+			"66fed29a-2db1-4bce-97f0-6a0ddc19ed46",
+			"c98f813e-8a53-490f-9a3c-ef0da404adfc",
+			"11777d3b-9d9f-4547-9eb2-c22e169397cf",
+			"b3d7da43-14fd-4631-81e1-6533974fe6b1"
+		],
+		"prefix": "C.14",
+		"id": "8a0aa850-953d-4bee-86bb-bb598b69564b",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 15 - Adviseren over een proces",
+		"description": "De leerling adviseert over het verbteren van een logistiek proces.",
+		"fo_uitwerking_id": [
+			"7ece36f6-d48d-487b-a4f5-ddbcc9186bb7",
+			"e90f019e-c94a-47cf-a012-5a28ffd13a16",
+			"d3a42669-0722-4594-ac9e-c74816b50e62",
+			"bcc98cfe-de2f-4b70-997a-e7de92bef246"
+		],
+		"prefix": "C.15",
+		"id": "d9980538-df4f-40d7-9b53-000fef9b2bf1",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 16 - Organiseren van een activiteit",
+		"description": "De leerling organiseert een maritieme activiteit.",
+		"fo_uitwerking_id": [
+			"7e2f2b7a-9629-48e9-b468-15dd579296b4",
+			"43e15d02-bd26-4e57-8f4c-d6910e64be87",
+			"058d6531-6214-491b-88ac-60d0dc4b15b6",
+			"f08455ff-df1d-4229-822d-c7fcbe0bea73"
+		],
+		"prefix": "C.16",
+		"id": "cfaf36d9-af5c-4857-80ab-a133d2cf9240",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 17 - Navigeren van een schip",
+		"description": "De leerling navigeert efficiënt een schip.",
+		"fo_uitwerking_id": [
+			"f7b02df2-2b8f-4726-aaaa-8efcc22d6563",
+			"bff451b2-8a66-44a5-9673-d769f97a28eb",
+			"ca904459-4c0b-4d45-8fc5-0967b81b7db7"
+		],
+		"prefix": "C.17",
+		"id": "1f1f6210-6a3e-4e1f-9cb6-8516aa9c88e3",
+		"unreleased": true
 	}
 ]
