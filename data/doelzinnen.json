@@ -2749,5 +2749,87 @@
 		"prefix": "C.17",
 		"id": "1f1f6210-6a3e-4e1f-9cb6-8516aa9c88e3",
 		"unreleased": true
+	},
+	{
+		"title": "Eindterm 12 - Ontwerpen van een voertuig",
+		"description": "De leerling ontwerpt een onderdeel van een voertuig.",
+		"fo_uitwerking_id": [
+			"5ebc8c0d-3373-406b-bdff-41e25cbb550e",
+			"d98f3180-9eef-435d-9759-3e010239515b",
+			"5957155d-cca9-411a-a5b4-cdd472a82958",
+			"f602e590-6b36-4d68-8ecf-e0acd918c094",
+			"8f905952-cf5b-430c-b743-0f97ad3f4725"
+		],
+		"prefix": "C.12",
+		"id": "6f224e0f-c293-4b11-b8e0-db7244156927",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 13 - Maken van een product",
+		"description": "De leerling maakt een technisch product.",
+		"fo_uitwerking_id": [
+			"cd96ec87-1907-45db-bb67-34a0190f9fed",
+			"710079f6-656a-42ef-8769-b9468d1fb353",
+			"cd988d33-9984-4abb-afc8-d70cecf7d601",
+			"ec7e4e77-8d91-4f8a-bffa-77932eb10cb9"
+		],
+		"prefix": "C.13",
+		"id": "4e0e10c7-d01c-473e-bdb6-6f3bf1dfb168",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 14 - Adviseren over een aankoop",
+		"description": "De leerling adviseert over adviseert over de aankoop van een voertuig.",
+		"fo_uitwerking_id": [
+			"043f31be-bffb-4bcb-a694-f03b9ac90501",
+			"80559b02-521f-4451-8f75-5a50b38fc925",
+			"b72e5e4b-95cd-44e5-a9c3-56a3d55c227c",
+			"80acded5-b971-46dd-874b-aa41cdf85e2d"
+		],
+		"prefix": "C.14",
+		"id": "52c39409-ceae-4f47-bf8f-4f1e8da985c1",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 15 - Organiseren van een proces",
+		"description": "De leerling organiseert een logistiek proces.",
+		"fo_uitwerking_id": [
+			"60b90a71-7af9-46d7-ba9c-acadafd87569",
+			"3eff6cd8-d834-432e-8ff3-2cd1f945263b",
+			"c4baf046-38f5-48f0-b018-07f6e269641f",
+			"eafd2358-05c8-4e06-921d-a3cd22abded9",
+			"4683c642-d23e-47b2-b56f-29ffc50b2c5e"
+		],
+		"prefix": "C.15",
+		"id": "4cab4c4b-2727-47c4-960f-f528fdb5b29f",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 16 - Onderhouden van een voertuig",
+		"description": "De leerling onderhoudt een voertuig.",
+		"fo_uitwerking_id": [
+			"836d1bf2-6dd1-4c9b-b089-8e81e13c29e1",
+			"b60a16a9-c224-4e2f-9fac-43b95b98be8d",
+			"32418254-06c1-4ce0-a400-6e43c3981d0a",
+			"3ead0e9f-4990-47d9-9b06-8034713ce762",
+			"91ca3cfd-22f9-4b3b-a3c1-aa4ba6aae4b9"
+		],
+		"prefix": "C.16",
+		"id": "8b06b07a-831f-462e-9553-78398cc355c5",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 17 - Repareren van een voertuig",
+		"description": "De leerling repareert een voertuig.",
+		"fo_uitwerking_id": [
+			"61a04659-bdb1-4504-bb31-b501a42bde8c",
+			"55e61042-cbe2-4dae-a82b-c8f8678d4d9f",
+			"3969e0d8-d5a8-4bf6-b797-bf92a769c4ce",
+			"6e896080-ddba-44a8-a6d8-fc6aaf01dd7c",
+			"2f1f33e0-a09f-4f91-8031-3883a51a21df"
+		],
+		"prefix": "C.17",
+		"id": "8ed6bca4-c1ab-4045-92fa-de12ed876fd4",
+		"unreleased": true
 	}
 ]
