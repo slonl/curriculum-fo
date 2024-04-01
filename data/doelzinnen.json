@@ -2431,5 +2431,85 @@
 		"prefix": "C.17",
 		"id": "e14a69d2-d1a3-4b7b-aea3-a33766c6669f",
 		"unreleased": true
+	},
+	{
+		"title": "Eindterm 12 - Ontwerpen van een ruimte",
+		"description": "De leerling ontwerpt een buitenruimte.",
+		"fo_uitwerking_id": [
+			"03d0a001-0594-4636-a008-a8d952378b46",
+			"c6ad0a5b-7001-4e04-8efe-24cf312f723f",
+			"1cde5002-bc23-4c8c-95d4-a81daa3c6c78",
+			"d26c170e-244e-409e-8d45-535fa2128752",
+			"b14823d2-2472-4d1e-b779-a9472972e0ae"
+		],
+		"prefix": "C.12",
+		"id": "a3e853f2-105c-4c5a-bfef-e10ec7976dfd",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 13 - Maken van een product",
+		"description": "De leerling maakt een product van natuurlijke en plantaardige materialen.",
+		"fo_uitwerking_id": [
+			"5c82ff42-64ae-4872-90b8-e5bacbc7b4a2",
+			"94a10d4f-2dc1-4b69-997b-a1b68be64030",
+			"8d67ec45-572d-45b0-bd37-c60596bc3912",
+			"46ce34b6-78b5-46c0-9bb1-961a76326e61"
+		],
+		"prefix": "C.13",
+		"id": "f37953be-515a-4035-b750-02f348147501",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 14 - Adviseren over bedrijfsvoering",
+		"description": "De leerling adviseert over duurzame bedrijfsvoering.",
+		"fo_uitwerking_id": [
+			"00b78d85-de1d-4001-a892-9b503170cb26",
+			"f2e7807f-da84-48a6-9399-0ca73f3a532e",
+			"5bdff155-a6de-42d0-a0db-b9e5b3c0d3fe",
+			"b0437741-f205-4886-a6fc-b53afb4930f1"
+		],
+		"prefix": "C.14",
+		"id": "86fa7b5c-13ef-46b9-9bec-16f9ec5b97c3",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 15 - Telen van een gewas",
+		"description": "De leerling teelt een gewas.",
+		"fo_uitwerking_id": [
+			"edb49f73-08e6-42a1-8c9a-36b297d245cb",
+			"8620b00f-b412-4cbe-a92b-ac80859bea66",
+			"dee95405-2c97-48a8-b76b-c0fab61ebf7f",
+			"2bcad6f1-a7e8-44dd-ad6c-78587c362a11",
+			"b1f0f528-ad07-40a7-a22c-b53d7e00f46c"
+		],
+		"prefix": "C.15",
+		"id": "bcc07572-ef79-479a-a250-f9184a1767a2",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 16 - Verzorgen van dieren",
+		"description": "De leerling verzorgt dieren.",
+		"fo_uitwerking_id": [
+			"c7ccf574-bb87-4d88-94a0-8cd9f92f4130",
+			"43d65103-76ab-43c0-ac2e-74dc05a6271c",
+			"d198c248-23d9-4f37-a0e0-21acd5813b42",
+			"82a1593f-1c11-4100-ac5c-86773ad7c225",
+			"bcf8a3f2-bb92-43b9-a895-a7f3e4ad7244"
+		],
+		"prefix": "C.16",
+		"id": "35bfe0f3-4801-4540-831f-e0193c81571f",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 17 - Produceren van voedingsmiddelen",
+		"description": "De leerling produceert verantwoorde voedingsmiddelen.",
+		"fo_uitwerking_id": [
+			"c4a877d9-6379-4a1c-8dfd-60953c1d19eb",
+			"15f6e0a7-129c-4baa-b0b0-15f4fd7bb96c",
+			"de8c7cf5-c0ff-472e-894b-78240a3f38e4"
+		],
+		"prefix": "C.17",
+		"id": "313e1bf3-9036-42de-896b-d78eba7fe4da",
+		"unreleased": true
 	}
 ]
