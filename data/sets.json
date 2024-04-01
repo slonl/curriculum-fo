@@ -87,5 +87,16 @@
 		],
 		"id": "947bdea5-c529-41df-8432-746fc629a222",
 		"unreleased": true
+	},
+	{
+		"title": "Examenprogramma praktijkgericht programma Groen",
+		"vakleergebied_id": [
+			"c17db255-88b0-450b-bf3f-235ad7eaf65f"
+		],
+		"fo_domein_id": [
+			"78952a10-306c-4c98-b947-910fcc93e908"
+		],
+		"id": "afadb6d0-967c-4cce-a00c-4446aa080485",
+		"unreleased": true
 	}
 ]
