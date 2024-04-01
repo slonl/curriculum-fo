@@ -2511,5 +2511,84 @@
 		"prefix": "C.17",
 		"id": "313e1bf3-9036-42de-896b-d78eba7fe4da",
 		"unreleased": true
+	},
+	{
+		"title": "Eindterm 12 - Ontwerpen van een ruimte",
+		"description": "De leerling ontwerpt een product dat past bij de bedrijfsformule.",
+		"fo_uitwerking_id": [
+			"319210ad-a18d-4119-a082-9fb305fe8a39",
+			"4325a5a6-ac37-47fa-a779-747b2be562d0",
+			"89956276-015a-4818-a18b-679992087cd0",
+			"7306fe1c-64f4-434f-8d73-ac7d34b6e2b1",
+			"b1c2f483-021f-494c-8d9e-c243f71603d9"
+		],
+		"prefix": "C.12",
+		"id": "92e411f2-cc67-4025-9838-c70e2eb2f6d1",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 13 - Maken van promotiemateriaal",
+		"description": "De leerling maakt promotiemateriaal voor een product.",
+		"fo_uitwerking_id": [
+			"c44cbbaf-0ea6-4bb8-a822-5ff1ca9fcb1e",
+			"d84216ef-439b-4dcf-98ee-e3dc9ef76e80",
+			"d0e44f4a-08d8-4262-b181-5d9100b6a5dd",
+			"ff248030-ccb4-4971-a880-16527b91ca81"
+		],
+		"prefix": "C.13",
+		"id": "d73673c8-ccbd-4603-af94-27e87c2bbba8",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 14 - Adviseren over een aankoop",
+		"description": "De leerling adviseert over de aankoop van een arrangement.",
+		"fo_uitwerking_id": [
+			"b00bf39e-d182-4b90-b353-05de18aecdc7",
+			"ffe6e51e-8921-4819-bc8c-f866880e64cd",
+			"b55bc90c-df35-406c-9d94-1a1b5bb72637",
+			"9f6b1f0d-916f-4e7f-9b28-1549de3de50c"
+		],
+		"prefix": "C.14",
+		"id": "cbb2dd44-2b98-418b-8958-05ab2b9568b6",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 15 - Organiseren van een activiteit",
+		"description": "De leerling organiseert een recreatieve activiteitet.",
+		"fo_uitwerking_id": [
+			"d840682a-04c3-4767-8824-70d91c6a8fe0",
+			"a4056e87-b73b-49af-a49e-2aa863ba5bfb",
+			"761d017a-fdec-4737-a72d-5776ef011d01",
+			"6352b623-4d08-4dc9-8b5a-c363815bbf65",
+			"9dcdea20-bc83-4140-891b-f516d93dd1c6"
+		],
+		"prefix": "C.15",
+		"id": "aa2b7d02-0d3a-4d4a-9e4f-48c7e2aa4f24",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 16 - Organiseren van een bezoek",
+		"description": "De leerling organiseert een gastvrij bezoek.",
+		"fo_uitwerking_id": [
+			"ff650420-ada3-4c33-b0a7-2951cfcdeb79",
+			"1a53d87a-7c8a-402f-b323-e3ff1fe2efd3",
+			"47c191b2-051c-4106-b891-8ace78ba40a7"
+		],
+		"prefix": "C.16",
+		"id": "9916ace9-107e-4309-b40d-18cd509299e2",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 17 -Bereiden van een gerecht",
+		"description": "De leerling bereidt een gerecht.",
+		"fo_uitwerking_id": [
+			"8a9b4c7f-ff1f-4e51-9cff-ecf047bdcc9d",
+			"ba3f6fc3-3cc5-4c34-9bb3-30325c235144",
+			"7d2f70c1-fca9-4837-a645-71b3b3744155",
+			"4a706a15-dfbc-48b6-843c-c36f1b6b4af3"
+		],
+		"prefix": "C.17",
+		"id": "ee2bf82a-f875-4875-8269-ca981356bcf2",
+		"unreleased": true
 	}
 ]
