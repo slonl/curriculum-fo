@@ -52,5 +52,18 @@
 		],
 		"id": "f5e536e9-97a5-4cfd-908e-c2ced604cc7e",
 		"unreleased": true
+	},
+	{
+		"title": "Examenprogramma praktijkgericht programma Bouwen, Wonen en Interieur",
+		"vakleergebied_id": [
+			"26eb622d-6239-4f26-bdef-0c9662891285"
+		],
+		"fo_domein_id": [
+			"d0808681-f74b-4717-a706-13d39408d14f",
+			"e6afa4af-9a17-4299-a3c2-7a9e709a9e2f",
+			"ab4ebc2c-2470-4223-a95b-8741cc4e8552"
+		],
+		"id": "a0390f9e-5e64-4ab4-9940-7b73ecd903d8",
+		"unreleased": true
 	}
 ]
