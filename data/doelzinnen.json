@@ -3155,5 +3155,87 @@
 		"prefix": "C.17",
 		"id": "c97bf1d3-293c-4d8d-831e-b66d2d392330",
 		"unreleased": true
+	},
+	{
+		"title": "Eindterm 12 - Ontwerpen van een product",
+		"description": "De leerling ontwerpt een product ter verbetering van de zelfredzaamheid van een klant.",
+		"fo_uitwerking_id": [
+			"c7b72dbb-76aa-4e6e-893c-2f37069f1fa9",
+			"c7cdcbab-c919-4e73-8cf0-d325763d487b",
+			"570adcab-2091-474e-b68f-59ee5be97e67",
+			"632a4449-749e-45f9-8e89-88fb9e2c43c0",
+			"40bb8e4e-7c0a-40fc-a39b-8a5865697560"
+		],
+		"prefix": "C.12",
+		"id": "0a2c5d35-6743-4ecb-8d29-3161a7248956",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 13 - Adviseren over leefstijl",
+		"description": "De leerling adviseert over het verbeteren van een leefstijl.",
+		"fo_uitwerking_id": [
+			"361339c6-81ab-4678-9aae-2241f0dd91f0",
+			"9c896072-6ab2-4189-bb5e-4bf5a349513f",
+			"80a1ca34-fb36-44c9-b605-48e344d47712",
+			"4f29120d-2a32-42ba-aba5-29f3904d619f",
+			"28d6be98-53bc-41a4-9139-1b278538e1e7"
+		],
+		"prefix": "C.13",
+		"id": "f0f068f8-6e16-4230-9415-35358358cfe5",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 14 - Organiseren van een activiteit",
+		"description": "De leerling organiseert een activiteit.",
+		"fo_uitwerking_id": [
+			"20d2a133-2f56-4d53-b37a-6c139dcf2811",
+			"d790fc85-3eda-4596-9391-cefb30c23cbe",
+			"fea01146-4141-49d9-a172-38f283c2cc84",
+			"44b78636-6767-495c-bf14-ce58af3c13df",
+			"4fc22879-8e75-4cba-aed1-c53dc3e7ca98"
+		],
+		"prefix": "C.14",
+		"id": "edfa5dce-9a41-40d9-b04a-26bcc1a5c38a",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 15 - Ondersteunen van een klant",
+		"description": "De leerling ondersteunt een klant bij algemene dagelijkse levensverrichtingen.",
+		"fo_uitwerking_id": [
+			"b2d9e46e-0c7f-47b1-94e3-8d63691c4236",
+			"f06b142d-e255-4619-a704-cc46075a71bd",
+			"756437c0-2369-4611-b70e-06fdd5bd53ee",
+			"d57fa1f9-74a7-42b9-9efc-84e5725a1d16"
+		],
+		"prefix": "C.15",
+		"id": "a4fa376c-7f31-414f-8af3-d4d10e847089",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 16 - Verzorgen van het uiterlijk",
+		"description": "De leerling verzorgt het uiterlijk van een klant.",
+		"fo_uitwerking_id": [
+			"6e55f920-117c-49dd-affe-c6436e96f0d7",
+			"4bdac304-b95e-4050-bf08-93944ab4ef22",
+			"a7682ec6-2dfa-417e-a5cf-c101d37de3b7",
+			"e806d328-51d6-4b22-8d02-813608523b61",
+			"66687bae-aacf-4e59-887a-d606e51c8263"
+		],
+		"prefix": "C.16",
+		"id": "f54abd6f-0804-4556-8eb6-ccff0f142ccb",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 17 - Bereiden van een maaltijd",
+		"description": "De leerling bereidt een gezonde maaltijd.",
+		"fo_uitwerking_id": [
+			"4d481224-6a31-4e1f-b36e-cd477992a28b",
+			"79a441a6-37f8-4ede-92a8-86101c3453bd",
+			"7de4f1fe-a3fc-4783-bbae-0e647e4416f0",
+			"338f8e6f-2ed6-4e07-ac05-ec5dfdc14cbb"
+		],
+		"prefix": "C.17",
+		"id": "1c3d35fa-64d8-4bfd-9b13-1f09d13de0d1",
+		"unreleased": true
 	}
 ]
