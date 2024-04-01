@@ -164,5 +164,16 @@
 		],
 		"id": "2f956cb0-87af-4092-af59-a901abe5f765",
 		"unreleased": true
+	},
+	{
+		"title": "Examenprogramma praktijkgericht programma Technologie en Toepassing",
+		"vakleergebied_id": [
+			"f4f696a2-ddce-4d69-a2bd-6531128f0933"
+		],
+		"fo_domein_id": [
+			"1ed4d94d-c352-4d50-b052-81722b0a3ee2"
+		],
+		"id": "e047331a-a1db-49e5-a3b3-68634898c89d",
+		"unreleased": true
 	}
 ]
