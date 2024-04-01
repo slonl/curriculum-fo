@@ -2051,5 +2051,224 @@
 		"prefix": "C.6",
 		"id": "4edc1d48-6f87-4d59-be84-e1647b1d65ae",
 		"unreleased": true
+	},
+	{
+		"title": "Eindterm 1 - Ontwikkelen van interesses",
+		"description": "De leerling ontwikkelt eigen interesses door middel van ervaringen met externe opdrachtgevers",
+		"fo_uitwerking_id": [
+			"e95c9170-dbe5-4dcd-8c9c-818774b8aa3e",
+			"8b842d69-a43d-4a0a-a3a0-eb4753c468bb",
+			"c8eb70bd-d603-450a-89ad-579330113ecd",
+			"e48370e7-f247-43bc-97f5-a65f719a12fa",
+			"64d31106-8cae-4dce-a69a-cea94cc2dafd"
+		],
+		"prefix": "A.1",
+		"id": "cd5e28a9-8194-47d4-85bb-61a0fd404437",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 2 - Ontwikkelen van kwaliteiten",
+		"description": "De leerling ontwikkelt eigen kwaliteiten door het uitvoeren van praktijkgerichte opdrachten.",
+		"fo_uitwerking_id": [
+			"3857c4d8-3d6c-4269-ae09-7a20077fd982",
+			"f62b18f1-da16-4a3f-b2e8-4357cffc79fe",
+			"8f072021-7bc2-4692-86ae-3f114ba86cc4",
+			"c3c9d9d0-a03b-4fc6-9a79-8d8de1f99f81",
+			"6633ffca-c8b1-46f3-ae2a-d01517bec0f1"
+		],
+		"prefix": "A.2",
+		"id": "b07304b1-fca8-41c4-81a2-64d86fc84e9b",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 3 - Sociaal handelen",
+		"description": "De leerling gaat passend om met mensen en situaties tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.",
+		"fo_uitwerking_id": [
+			"ede4caa1-7104-4a75-a962-fad9e226aef4",
+			"1f5cb271-d470-4dcf-a7f1-b47848d6b04c",
+			"abf450b6-4422-4f38-afae-f7d5e8b36abb",
+			"241a19c2-30c9-4893-99d7-e0a7ce5bb26a"
+		],
+		"prefix": "B.3",
+		"id": "ccb51162-baba-4a59-abb4-303b17abd43a",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 4 - Samenwerken",
+		"description": "De leerling werkt samen aan het realiseren van een gemeenschappelijk doel tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.",
+		"fo_uitwerking_id": [
+			"64e2c79e-660d-44d3-8042-4d09c2d21cc1",
+			"44d18c76-312a-48c9-b860-7aff4031e885",
+			"276b18cf-fbca-4ac2-b60e-fe4259fb307a",
+			"b38d79c6-0965-4973-b1f0-dfd0e2ae78b0"
+		],
+		"prefix": "B.4",
+		"id": "3d00d6aa-402e-42ed-8830-2940fe51c169",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 5 - Taalvaardigheden",
+		"description": "De leerling gebruikt doelgericht taalvaardigheden tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.",
+		"fo_uitwerking_id": [
+			"44895aad-fd43-4d95-9e74-43ac2f6a3260",
+			"2cd59707-e518-4b14-9952-5b0ad77ddb36"
+		],
+		"prefix": "B.5",
+		"id": "35ffdbcb-622b-40df-92ee-fd78bfe96d00",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 6 - Rekenvaardigheden",
+		"description": "De leerling gebruikt doelgericht rekenvaardigheden tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.",
+		"fo_uitwerking_id": [
+			"64165bc7-faff-4680-98ed-39b340b4c479",
+			"659b1024-677c-4176-ac30-75e46fecd2f2"
+		],
+		"prefix": "B.6",
+		"id": "20dcdd7b-03b9-4937-8181-9072c88a7f21",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 7 - Digitale vaardigheden",
+		"description": "De leerling gebruikt op een verantwoorde manier digitale technologie tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.",
+		"fo_uitwerking_id": [
+			"d418dc30-8299-4749-8e90-83dcd3114626",
+			"e7a26485-8cfa-4550-814f-909c57e85bd9",
+			"e6f9f5bb-dbb6-45cf-927e-5799c0068b3f"
+		],
+		"prefix": "B.7",
+		"id": "6d7ebddd-fdc0-4f18-9f2a-6befad38427d",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 8 - Analytische denkvaardigheden",
+		"description": "De leerling gebruikt analytische denkvaardigheden om tot een oplossing te komen tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.",
+		"fo_uitwerking_id": [
+			"0bb2f414-a7fc-4fde-a949-d7ff306b165d",
+			"c3a610c0-b087-4697-8ea6-23a59aae413e",
+			"095c6298-2841-4d83-8f6e-7911e466a000",
+			"eb4daf90-5576-4313-827a-84db39d6c5b0",
+			"b27c8937-c7c2-49e8-8b59-cd9150ba31d7"
+		],
+		"prefix": "B.8",
+		"id": "b1dbc61b-ecf7-40a9-b225-e524157fe910",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 9 - Kritische denkvaardigheden",
+		"description": "De leerling gebruikt kritische denkvaardigheden om tot een oordeel te komen tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.",
+		"fo_uitwerking_id": [
+			"636b5baf-e209-4521-8c02-4cab535508fa",
+			"2c2bc649-89e7-4131-a758-355b7c1651cf",
+			"0fc90f0d-50a0-4438-ab58-4446a8a81044"
+		],
+		"prefix": "B.9",
+		"id": "1418c213-657e-4a16-b5ad-90a543435106",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 10 - Creatieve denkvaardigheden",
+		"description": "De leerling gebruikt creatieve denkvaardigheden om tot nieuwe ideeën te komen tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.",
+		"fo_uitwerking_id": [
+			"1c03f8fd-6200-47bb-8ff6-105f52ce8b84",
+			"cc917721-4ef4-4b17-95b5-88bb6b9b9498",
+			"1b9f0fb2-0389-4bca-b9d9-0450930819e9"
+		],
+		"prefix": "B.10",
+		"id": "1644a31c-ccf3-481e-ae92-670530485c8d",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 11 - Onderzoeken",
+		"description": "De leerling onderzoekt vraagstukken ten dienste van het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.",
+		"fo_uitwerking_id": [
+			"c115e67c-b0b7-4557-82d7-53b09d5d11e6",
+			"fb3b520f-a5d5-44c7-8bb7-c983c0342b68",
+			"6e0abcae-e64e-459c-a5b9-e9576cb51a85",
+			"50b9af84-a37d-4175-b571-008120e63ef2",
+			"cb55b5d2-5ee3-4585-9ffd-c3951c395399"
+		],
+		"prefix": "B.11",
+		"id": "35e100bf-c4c1-449e-8444-2e5d62c11662",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 12 - Ontwerpen van een ruimte",
+		"description": "De leerling ontwerpt de inrichting van een binnenruimte.",
+		"fo_uitwerking_id": [
+			"a059fab8-0331-485b-a17d-7ef1d6579c1d",
+			"bafee400-6fd1-4d5d-a1ff-1620e55d6c7b",
+			"087ba058-8521-4abb-a022-aaede5a346b2",
+			"fe915d7c-1d3b-4b96-9ac7-11c8b4cde026",
+			"39e69276-ecb6-4cfb-a066-bbd18bf911da"
+		],
+		"prefix": "C.12",
+		"id": "f89751ea-9242-4d8f-929d-ce587e1d8f1f",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 13 - Maken van een product",
+		"description": "De leerling maakt een technisch product.",
+		"fo_uitwerking_id": [
+			"6bbf5cfd-70b8-44e5-b83d-de2c2b3a3682",
+			"4304ad49-b80a-4374-88ec-d04386cc7a9a",
+			"1a10e223-3947-4911-a389-5a54d877f6a9",
+			"f844cffd-c518-4b65-8c54-97d02fb0e93e"
+		],
+		"prefix": "C.13",
+		"id": "5645b78a-52d6-48c5-8514-71429635a86d",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 14 - Adviseren over oplossingen",
+		"description": "De leerling adviseert over bouwkundige oplossingen.",
+		"fo_uitwerking_id": [
+			"362ba2e9-c40e-446e-a35a-dad74f2d669c",
+			"5078cf3e-cd12-461d-884f-2b30ea0ebba1",
+			"881d70f0-af8d-4c52-a270-28a2329cf718",
+			"02431fbd-22d5-48c4-a398-d4988c8c15b7"
+		],
+		"prefix": "C.14",
+		"id": "cf028af9-7fa2-49c9-bc25-b76c80ec2a2e",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 15 - Adviseren over materialen",
+		"description": "De leerling adviseert over circulaire bouwmaterialen.",
+		"fo_uitwerking_id": [
+			"4ecfe7d9-2957-4994-a169-e2f720b07725",
+			"9514745a-30cc-4f15-8b20-266936d5763b",
+			"46823d9b-7166-4c40-94a1-87cadd2a8fd2",
+			"25b73cc1-62d6-4a27-81ef-58624f9cf9b7"
+		],
+		"prefix": "C.15",
+		"id": "911224f9-891f-4598-b88a-76f585b9fd5d",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 16 - Monteren van elementen",
+		"description": "De leerling monteert bouwelementen",
+		"fo_uitwerking_id": [
+			"02aa0b05-52df-4dc1-a709-3a804c8a7670",
+			"91e62148-20f8-4cc0-88dc-f0fc21bd39d4",
+			"f0e5abf5-d946-404b-b211-6fb5c4fa750f"
+		],
+		"prefix": "C.16",
+		"id": "a01561c7-76fc-485f-b8e2-2e540c75aba7",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 17 - Onderhouden van een gebouw",
+		"description": "De leerling onderhoudt een deel van een gebouw.",
+		"fo_uitwerking_id": [
+			"6bd307b2-f76f-4ab7-ad21-c139eee6652f",
+			"9fdc97fd-fbcf-4af5-840c-43a0a145bf77",
+			"1434288d-41ac-4049-9f08-324580c9c09e",
+			"8c609d5d-379a-49b3-a401-46be1ffe0491",
+			"9b29f2f8-99dd-4165-97cf-1ecc6a0b2ac4"
+		],
+		"prefix": "C.17",
+		"id": "14b092c2-4282-48ff-afe5-a5aad3e5161c",
+		"unreleased": true
 	}
 ]
