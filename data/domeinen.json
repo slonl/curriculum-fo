@@ -176,5 +176,49 @@
 		"prefix": "C",
 		"id": "7743dd74-641b-46ab-b3c8-244ecd5de0c6",
 		"unreleased": true
+	},
+	{
+		"title": "Domein A",
+		"description": "Domein A: Praktijkgerichte opdrachten",
+		"fo_doelzin_id": [
+			"cd5e28a9-8194-47d4-85bb-61a0fd404437",
+			"b07304b1-fca8-41c4-81a2-64d86fc84e9b"
+		],
+		"prefix": "A",
+		"id": "d0808681-f74b-4717-a706-13d39408d14f",
+		"unreleased": true
+	},
+	{
+		"title": "Domein B",
+		"description": "Domein B; Programmaoverstijgende vaardigheden",
+		"fo_doelzin_id": [
+			"ccb51162-baba-4a59-abb4-303b17abd43a",
+			"3d00d6aa-402e-42ed-8830-2940fe51c169",
+			"35ffdbcb-622b-40df-92ee-fd78bfe96d00",
+			"20dcdd7b-03b9-4937-8181-9072c88a7f21",
+			"6d7ebddd-fdc0-4f18-9f2a-6befad38427d",
+			"b1dbc61b-ecf7-40a9-b225-e524157fe910",
+			"1418c213-657e-4a16-b5ad-90a543435106",
+			"1644a31c-ccf3-481e-ae92-670530485c8d",
+			"35e100bf-c4c1-449e-8444-2e5d62c11662"
+		],
+		"prefix": "B",
+		"id": "e6afa4af-9a17-4299-a3c2-7a9e709a9e2f",
+		"unreleased": true
+	},
+	{
+		"title": "Domein C",
+		"description": "Domein C: Programmaspecifieke vaardigheden",
+		"fo_doelzin_id": [
+			"f89751ea-9242-4d8f-929d-ce587e1d8f1f",
+			"5645b78a-52d6-48c5-8514-71429635a86d",
+			"cf028af9-7fa2-49c9-bc25-b76c80ec2a2e",
+			"911224f9-891f-4598-b88a-76f585b9fd5d",
+			"a01561c7-76fc-485f-b8e2-2e540c75aba7",
+			"14b092c2-4282-48ff-afe5-a5aad3e5161c"
+		],
+		"prefix": "C",
+		"id": "ab4ebc2c-2470-4223-a95b-8741cc4e8552",
+		"unreleased": true
 	}
 ]
