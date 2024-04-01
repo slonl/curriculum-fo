@@ -175,5 +175,16 @@
 		],
 		"id": "e047331a-a1db-49e5-a3b3-68634898c89d",
 		"unreleased": true
+	},
+	{
+		"title": "Examenprogramma praktijkgericht programma Techniek en Innovatief Vakmanschap",
+		"vakleergebied_id": [
+			"df786965-9169-4623-ad9a-e574f8dbcbeb"
+		],
+		"fo_domein_id": [
+			"1bc8dab9-b886-4272-b975-4c5241a99a84"
+		],
+		"id": "a7750ef2-1fcb-4e7b-a299-3566f6c2660b",
+		"unreleased": true
 	}
 ]
