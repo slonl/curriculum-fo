@@ -6187,5 +6187,145 @@
 		"title": "Het gaat hierbij om evalueren van de uitgevoerde procedure.",
 		"id": "e0d4f330-c87d-4d81-bffc-d8fc68259537",
 		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om genereren van ideeën, rekening houdend met het programma van eisen.",
+		"id": "c7b72dbb-76aa-4e6e-893c-2f37069f1fa9",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om beoordelen of ideeën passen bij het programma van eisen.",
+		"id": "c7cdcbab-c919-4e73-8cf0-d325763d487b",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om onderbouwen van de keuze voor één idee.",
+		"id": "570adcab-2091-474e-b68f-59ee5be97e67",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om omzetten van het gekozen idee naar een concept.",
+		"id": "632a4449-749e-45f9-8e89-88fb9e2c43c0",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om visualiseren van het concept in een tekening.",
+		"id": "40bb8e4e-7c0a-40fc-a39b-8a5865697560",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om genereren van ideeën op basis van gebruikersonderzoek.",
+		"id": "361339c6-81ab-4678-9aae-2241f0dd91f0",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om omzetten van ideeën naar aanpassingen voor de leefstijl.",
+		"id": "9c896072-6ab2-4189-bb5e-4bf5a349513f",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om beoordelen van aanpassingen op basis van organisatorische en financiële haalbaarheid.",
+		"id": "80a1ca34-fb36-44c9-b605-48e344d47712",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om opstellen van een leefstijladvies.",
+		"id": "4f29120d-2a32-42ba-aba5-29f3904d619f",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om presenteren van het leefstijladvies.",
+		"id": "28d6be98-53bc-41a4-9139-1b278538e1e7",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om inventariseren van de doelstelling aan de hand van een doelgroepenonderzoek.",
+		"id": "20d2a133-2f56-4d53-b37a-6c139dcf2811",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om selecteren van een activiteit die past bij de doelstelling en de doelgroep.",
+		"id": "d790fc85-3eda-4596-9391-cefb30c23cbe",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om opstellen van een kostenoverzicht en draaiboek.",
+		"id": "fea01146-4141-49d9-a172-38f283c2cc84",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om uitvoeren van de activiteit.",
+		"id": "44b78636-6767-495c-bf14-ce58af3c13df",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om nabespreken van de activiteit.",
+		"id": "4fc22879-8e75-4cba-aed1-c53dc3e7ca98",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om inventariseren van de hulpbehoefte en zelfredzaamheid.",
+		"id": "b2d9e46e-0c7f-47b1-94e3-8d63691c4236",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om gebruiken van in de zorg gangbare hulpmiddelen.",
+		"id": "f06b142d-e255-4619-a704-cc46075a71bd",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om uitvoeren van zorgverlenende werkzaamheden.",
+		"id": "756437c0-2369-4611-b70e-06fdd5bd53ee",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om rapporteren van observaties en bijzonderheden.",
+		"id": "d57fa1f9-74a7-42b9-9efc-84e5725a1d16",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om inventariseren van wensen en gewoonten met betrekking tot de uiterlijke verzorging van de klant.",
+		"id": "6e55f920-117c-49dd-affe-c6436e96f0d7",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om opstellen van een plan van aanpak op basis van fysiologische kenmerken van de klant.",
+		"id": "4bdac304-b95e-4050-bf08-93944ab4ef22",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om verzamelen van verzorgende producten, rekening houdend met het milieu.",
+		"id": "a7682ec6-2dfa-417e-a5cf-c101d37de3b7",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om uitvoeren van werkzaamheden met betrekking tot de uiterlijke verzorging van een klant.",
+		"id": "e806d328-51d6-4b22-8d02-813608523b61",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om evalueren van de uitgevoerde werkzaamheden.",
+		"id": "66687bae-aacf-4e59-887a-d606e51c8263",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om opstellen van een recept, rekening houdend met de levensfase, gezondheidstoestand, omstandigheden en achtergrond van de klant.",
+		"id": "4d481224-6a31-4e1f-b36e-cd477992a28b",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om verzamelen van verantwoorde grondstoffen, ingrediënten en tussenproducten.",
+		"id": "79a441a6-37f8-4ede-92a8-86101c3453bd",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om uitvoeren van het recept met behulp van een keukenapparatuur, rekening houdend met kwaliteit en veiligheid.",
+		"id": "7de4f1fe-a3fc-4783-bbae-0e647e4416f0",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om opdienen van een aantrekkelijk gepresenteerde maaltijd.",
+		"id": "338f8e6f-2ed6-4e07-ac05-ec5dfdc14cbb",
+		"unreleased": true
 	}
 ]
