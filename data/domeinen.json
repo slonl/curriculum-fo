@@ -310,5 +310,20 @@
 		"prefix": "C",
 		"id": "459f5d92-7188-4886-9658-1e7f3803b0e4",
 		"unreleased": true
+	},
+	{
+		"title": "Domein C",
+		"description": "Domein C: Programmaspecifieke vaardigheden",
+		"fo_doelzin_id": [
+			"6f224e0f-c293-4b11-b8e0-db7244156927",
+			"4e0e10c7-d01c-473e-bdb6-6f3bf1dfb168",
+			"52c39409-ceae-4f47-bf8f-4f1e8da985c1",
+			"4cab4c4b-2727-47c4-960f-f528fdb5b29f",
+			"8b06b07a-831f-462e-9553-78398cc355c5",
+			"8ed6bca4-c1ab-4045-92fa-de12ed876fd4"
+		],
+		"prefix": "C",
+		"id": "24f1469e-b9c5-4e89-ae93-6badb8e1ce33",
+		"unreleased": true
 	}
 ]
