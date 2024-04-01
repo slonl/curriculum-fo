@@ -5647,5 +5647,150 @@
 		"title": "Het gaat hierbij om evalueren van de uitgevoerde procedure.",
 		"id": "2f1f33e0-a09f-4f91-8031-3883a51a21df",
 		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om genereren van ideeën, rekening houdend met het programma van eisen.",
+		"id": "cc8e615a-bbec-43c9-a36b-475a461a783e",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om beoordelen of ideeën passen bij het programma van eisen.",
+		"id": "f51a4670-c33e-4923-a541-6a9f3a311156",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om onderbouwen van de keuze voor één idee.",
+		"id": "d460dfa0-0b55-4cc8-9aef-caf6172aa656",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om omzetten van het gekozen idee naar een concept.",
+		"id": "e6ffe34f-2c88-4227-b735-dd525e7d1e80",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om visualiseren van het concept naar een ontwerp in meerdere dimensies, met behulp van binnen de creatieve industrie gangbare software.",
+		"id": "344f28f3-884f-444f-a928-784adc12b5b7",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om opstellen van een plan van aanpak op basis van een ontwerp.",
+		"id": "44e940b6-0df7-4e61-8e1e-000d95a76b81",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om visualiseren van een ontwerp volgens designprincipes.",
+		"id": "7ff3143d-59cb-429c-9425-a24ab117355c",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om verzamelen van beeldmateriaal.",
+		"id": "1d532c48-04cd-4b32-9512-faa47e4fcb5d",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om opmaken van een definitief ontwerp volgens technische eisen met in de creatieve industrie gangbare apparatuur en software.",
+		"id": "feb05ac3-91ac-47b0-9960-5fe21769c78f",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om controleren en bijstellen van het product op basis van het programma van eisen.",
+		"id": "446f1100-c891-408b-8a78-067c05074960",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om opstellen van een plan van aanpak op basis van een ontwerp.",
+		"id": "fb21dd8a-44fb-4d91-9263-fd99a9fd6437",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om verzamelen van audio- en beeldmaterialen.",
+		"id": "a31b637d-7654-4690-9998-08b877d927ff",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om uitvoeren volgens het plan van aanpak met in de creatieve industrie gangbare apparatuur en software.",
+		"id": "94b60a7a-5ee1-4bad-9789-6dcedb16ada8",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om controleren en bijstellen van het product op basis van het programma van eisen.",
+		"id": "cc5d5a2e-5c4d-4883-8bd9-e6245fbfb98e",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om exporteren van het product in het gewenste format.",
+		"id": "1d7d9ed4-cebe-4d15-8ec2-e77e1794db14",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om genereren van ideeën op basis van een behoeftenonderzoek.",
+		"id": "4ab75b29-a8fa-4a19-af87-0c0f3f8c821b",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om omzetten van ideeën naar oplossingen, rekening houdend met inrichting, beheer en beveliging van de omgeving.",
+		"id": "357fb791-57bb-4c44-b935-26be3422a9b4",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om beoordelen van oplossingen op basis van duurzaamheid, financiële en organisatorische haalbaarheid.",
+		"id": "bd9ebce6-7b1e-4d8a-91f4-d0e280a19c2b",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om presenteren van verschillende oplossingen.",
+		"id": "cb8ec05a-8967-489e-ad96-11e4ca647303",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om genereren van oplossingsrichtingen op basis van wensen van de gebruiker.",
+		"id": "8e6c3b9f-a051-43da-8393-786abd34dd40",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om opstellen van een plan van aanpak op basis van een gekozen oplossing.",
+		"id": "1a93e982-ee22-4d78-99a6-c69621ca1218",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om verzamelen van software en apparatuur.",
+		"id": "64b9f257-a28d-4b0d-8b65-5fc60c13b8a9",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om uitvoeren volgens het plan van aanpak, rekening houdend met programmeerprincipes.",
+		"id": "f1913cac-1f54-430c-89a2-8b8e3987553a",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om testen en debuggen van het product.",
+		"id": "516f2fe3-6505-4159-8e40-6001a5fae0a7",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om genereren van oplossingsrichtingen op basis van het doel en de doelgroep.",
+		"id": "cc934129-5d54-4de2-ab62-b0fff5c6821b",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om visualiseren van een gameplay.",
+		"id": "f803015f-e0ac-4240-a66e-6a18a5c4a508",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om verzamelen van beeldmateriaal.",
+		"id": "f6d047c4-6f82-4ef8-a627-436e8884a3ef",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om omzetten van een gameplay naar een passende omgeving met behulp van programmeertaal.",
+		"id": "031f82aa-d020-4963-bd46-fa05638fff72",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om testen en debuggen van een deel van de game.",
+		"id": "4d4e1372-15a6-4520-a5c2-a8354ae4a9e6",
+		"unreleased": true
 	}
 ]
