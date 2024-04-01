@@ -65,5 +65,16 @@
 		],
 		"id": "a0390f9e-5e64-4ab4-9940-7b73ecd903d8",
 		"unreleased": true
+	},
+	{
+		"title": "Examenprogramma praktijkgericht programma Dienstverlening en Producten",
+		"vakleergebied_id": [
+			"8ad1b9a4-8f24-401e-9cf0-0bf9ae0b32b2"
+		],
+		"fo_domein_id": [
+			"1b91e3d0-4114-43da-b486-ebc871d0d829"
+		],
+		"id": "15a13826-f8e1-4405-8b76-8e8f8f435422",
+		"unreleased": true
 	}
 ]
