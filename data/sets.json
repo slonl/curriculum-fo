@@ -131,5 +131,16 @@
 		],
 		"id": "9b392c2a-6ce1-4627-8f66-d7f682d345b9",
 		"unreleased": true
+	},
+	{
+		"title": "Examenprogramma praktijkgericht programma Mobiliteit en Transport",
+		"vakleergebied_id": [
+			"aa197275-236f-451e-85be-ed0902848f08"
+		],
+		"fo_domein_id": [
+			"24f1469e-b9c5-4e89-ae93-6badb8e1ce33"
+		],
+		"id": "9058f272-dc5e-476e-bd4d-90583201ec10",
+		"unreleased": true
 	}
 ]
