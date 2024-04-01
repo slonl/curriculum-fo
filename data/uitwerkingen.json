@@ -5917,5 +5917,145 @@
 		"title": "Het gaat hierbij om evalueren van de uitgevoerde procedure.",
 		"id": "cbb154ac-940c-4cbb-847d-11fcce633e3b",
 		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om genereren van ideeën en schetsen, rekening houdend met het programma van eisen.",
+		"id": "1802d596-fc6c-468d-ad6f-5c6ff093a2d0",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om beoordelen of ideeën en schetsen passen bij het programma van eisen.",
+		"id": "ae3691f0-a179-43e1-b053-a43238398aa0",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om onderbouwen van de keuze voor één idee en schets.",
+		"id": "4707a00a-9441-4f2d-bc18-37a55e2ab828",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om omzetten van het gekozen idee naar een concept.",
+		"id": "9abef51f-bc94-47ea-bf1c-8a6a178d3a56",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om visualiseren van het concept in een CAD-tekening.",
+		"id": "0e7d4ba6-aa38-4b53-9adf-2d24f80ac1e8",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om genereren van ideeën op basis van een omgevingsonderzoek.",
+		"id": "c2c7d29d-bdc1-4378-8b2a-8568aa1c2013",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om vbeoordelen of ideeën passen bij het programma van eisen.",
+		"id": "b43cbee8-5a14-44df-a41a-6f3a69e9a422",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om onderbouwen van de keuze voor één idee op basis van eigenschappen, levensduur en herkomst en kosten van materialen.",
+		"id": "3aba32be-c8f0-4c49-a75d-d88ed70abdce",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om omzetten van het gekozen idee naar een concept.",
+		"id": "178fc1da-8ed8-47e1-a5cf-cf726c13f15e",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om visualiseren van het concept in een model.",
+		"id": "d603a27b-eb25-4521-af74-3281f456eb12",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om opstellen van een plan van aanpak op basis van een ontwerp.",
+		"id": "6cf53d98-d6f9-48f8-b447-ddb59ca0c712",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om verzamelen van duurzame materialen en gereedschappen.",
+		"id": "15d7f141-3476-4cbf-b485-a4e4709e2551",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om uitvoeren volgens het plan van aanpak en zelfgemaakte technische tekening, gebruik makend van persoonlijke beschermingsmiddelen.",
+		"id": "19faaf13-4ef4-4ddf-8c9a-0851e8d91666",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om testen en bijstellen van het prototype op basis van het programma van eisen.",
+		"id": "9a448c3c-a1c3-455a-ad2b-714c172dc707",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om genereren van ideeën op basis van een behoeftenonderzoek.",
+		"id": "15361766-0881-4643-ab67-2f805ae0010c",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om omzetten van ideeën naar technologische toepassingen.",
+		"id": "17cc54ac-4e08-4f97-93fb-0eb30b525757",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om beoordelen van toepassingen op basis van financiële en organisatorische haalbaarheid en duurzaamheid.",
+		"id": "e2c8cff0-e5ef-44d6-8196-4dc62c162caf",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om presenteren van verschillende toepassingen.",
+		"id": "1097e43c-b5f1-4fec-b7ba-74b0809740ff",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om genereren van ideeën op basis van een marktonderzoek.",
+		"id": "b6fe1d1c-194d-4853-8c35-8ed7988058c8",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om omzetten van ideeën naar aanpassingen, rekening houdend met vorm, functie en werking van deelsystemen.",
+		"id": "c4b36915-d7ba-4430-b543-a79830860bab",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om visualiseren van de werking van deelsystemen binnen een groter systeem.",
+		"id": "01574e54-dadc-4188-96a1-099465f79c1f",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om beoordelen van aanpassingen op basis van financiële en organisatorische haalbaarheid en duurzaamheid.",
+		"id": "c69de884-3618-449d-9644-ad5715c6410b",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om presenteren van verschillende aanpassingen.",
+		"id": "b94f0e31-ba2e-4aac-8d14-0cddf158c3c6",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om genereren van oplossingsrichtingen op basis van wensen van de gebruiker.",
+		"id": "01a84dba-bd0c-4bc0-8d4e-0f29663924b3",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om opstellen van een plan van aanpak voor de realisatie van het eindproduct.",
+		"id": "4fe2645d-d4ab-4e2c-b706-08a46572f176",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om onderbouwen van de keuze voor een technologie.",
+		"id": "4fc1d148-8f11-4326-a130-6d94c53cacc2",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om uitvoeren volgens het plan van aanpak.",
+		"id": "dc00ec26-75ec-41b7-b46e-e2b374ffda99",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om evalueren en bijstellen van de toegepaste technologie.",
+		"id": "8100d022-2afd-4719-99ce-3748b140e317",
+		"unreleased": true
 	}
 ]
