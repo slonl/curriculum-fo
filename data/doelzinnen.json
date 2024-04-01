@@ -2351,5 +2351,85 @@
 		"prefix": "C.17",
 		"id": "665becf7-6348-42fb-b908-74264c038021",
 		"unreleased": true
+	},
+	{
+		"title": "Eindterm 12 - Ontwerpen van een product",
+		"description": "De leerling ontwerpt een product dat past bij het bedrijfsconcept.",
+		"fo_uitwerking_id": [
+			"6bc1341a-d482-4f7a-93bc-dab0a767b08c",
+			"6973b668-4ff4-4a8e-a944-2fccd87d8ed1",
+			"3839e03f-800d-4fd9-beb9-8de88da4c15a",
+			"fa3f6c0c-7b7c-458d-a72c-e932fdee8549",
+			"3db2c979-cc68-48af-9461-239229ceb614"
+		],
+		"prefix": "C.12",
+		"id": "dd63d2d8-38b6-49a0-804a-dfe7c1b71d68",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 13 - Maken van een product",
+		"description": "De leerling maakt een product dat past bij het bedrijfsconcept.",
+		"fo_uitwerking_id": [
+			"4ed6b5e1-c4b5-4acd-9c79-4175a2685a56",
+			"0d592857-4970-47b7-aa62-c41eb1644d77",
+			"16e2d331-4a98-4031-a33b-bdded15548d5",
+			"cf78f334-5cc2-4ba5-80e1-77994065ab8b"
+		],
+		"prefix": "C.13",
+		"id": "1f4aa6e7-16b7-4f3a-bd29-6d9102c9bdd2",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 14 - Adviseren over activiteiten",
+		"description": "De leerling adviseert over marketing- en communicatieactiviteiten.",
+		"fo_uitwerking_id": [
+			"61a6c309-6338-4e06-9623-e23d9b508ae9",
+			"0bc56db8-df8d-4a12-aa6b-c92127136a83",
+			"32ec5ea6-55ff-4835-af8b-9a27f988a827",
+			"8bf23316-a95c-4413-976f-b5966cd29e15"
+		],
+		"prefix": "C.14",
+		"id": "4a0e88af-59b0-4f54-8282-ad706bb21e31",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 15 - Adviseren over een strategie",
+		"description": "De leerling adviseert over de verkoopstrategie van een commerciële organisatie.",
+		"fo_uitwerking_id": [
+			"8b3ff147-fee8-49e5-bcd1-1e41fc3c1be3",
+			"5a0a2ec6-dde7-4894-a514-ce1ee67e13ad",
+			"f03088e9-a87e-4713-a3c5-691ff1c6c4cc",
+			"4662d8da-133b-45db-9945-a99990b9bf58"
+		],
+		"prefix": "C.15",
+		"id": "3efd2231-dcf5-4265-92dd-c3e6b3779c18",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 16 - Adviseren over een proces",
+		"description": "De leerling adviseert over een bedrijfsondersteunend proces.",
+		"fo_uitwerking_id": [
+			"9c514d1d-be88-4809-88bd-f1c534539372",
+			"9bc0ab99-6100-496b-99c1-4c8711997ff4",
+			"6a700d3a-70b2-4912-b27e-1f93fac436b2",
+			"3c0ad805-6f31-4377-8de9-5c91545b78f1"
+		],
+		"prefix": "C.16",
+		"id": "2ba49b8b-c37f-4df4-93c7-5ae46c3b2ef6",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 17 - Organiseren van een activiteit",
+		"description": "De leerling organiseert een activiteit die past bij de bedrijfsdoelstelling.",
+		"fo_uitwerking_id": [
+			"1024dbc3-2f0f-4196-9dc9-35284a0ab310",
+			"b222bc4e-04af-4898-bc66-e9dd0b07ad08",
+			"a3e29d03-17aa-470d-8757-0b598fc7adff",
+			"024daaa7-d393-4a35-9870-6bcda3e55fd2",
+			"0d58d503-3a26-4057-9b4e-7f25698b6ad8"
+		],
+		"prefix": "C.17",
+		"id": "e14a69d2-d1a3-4b7b-aea3-a33766c6669f",
+		"unreleased": true
 	}
 ]
