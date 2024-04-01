@@ -2993,5 +2993,87 @@
 		"prefix": "C.17",
 		"id": "49e7b807-86f6-4f57-8934-00d0553ad110",
 		"unreleased": true
+	},
+	{
+		"title": "Eindterm 12 - Ontwerpen van een product",
+		"description": "De leerling ontwerpt een innovatief product.",
+		"fo_uitwerking_id": [
+			"1802d596-fc6c-468d-ad6f-5c6ff093a2d0",
+			"ae3691f0-a179-43e1-b053-a43238398aa0",
+			"4707a00a-9441-4f2d-bc18-37a55e2ab828",
+			"9abef51f-bc94-47ea-bf1c-8a6a178d3a56",
+			"0e7d4ba6-aa38-4b53-9adf-2d24f80ac1e8"
+		],
+		"prefix": "C.12",
+		"id": "d879cb51-2f63-4c2b-8bac-4503e651d429",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 13 - Ontwerpen van een omgeving",
+		"description": "De leerling ontwerpt een duurzame leefomgeving",
+		"fo_uitwerking_id": [
+			"c2c7d29d-bdc1-4378-8b2a-8568aa1c2013",
+			"b43cbee8-5a14-44df-a41a-6f3a69e9a422",
+			"3aba32be-c8f0-4c49-a75d-d88ed70abdce",
+			"178fc1da-8ed8-47e1-a5cf-cf726c13f15e",
+			"d603a27b-eb25-4521-af74-3281f456eb12"
+		],
+		"prefix": "C.13",
+		"id": "3566daed-2758-4594-bd96-239b2b9c9c27",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 14 - Maken van een prototype",
+		"description": "De leerling maakt een functioneel prototype.",
+		"fo_uitwerking_id": [
+			"6cf53d98-d6f9-48f8-b447-ddb59ca0c712",
+			"15d7f141-3476-4cbf-b485-a4e4709e2551",
+			"19faaf13-4ef4-4ddf-8c9a-0851e8d91666",
+			"9a448c3c-a1c3-455a-ad2b-714c172dc707"
+		],
+		"prefix": "C.14",
+		"id": "0843bbd3-1a57-43f3-abc2-327e39c0d0cb",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 15 - Adviseren over toepassingen",
+		"description": "De leerling adviseert over technologische toepassingen in de maatschappelijke sector.",
+		"fo_uitwerking_id": [
+			"15361766-0881-4643-ab67-2f805ae0010c",
+			"17cc54ac-4e08-4f97-93fb-0eb30b525757",
+			"e2c8cff0-e5ef-44d6-8196-4dc62c162caf",
+			"1097e43c-b5f1-4fec-b7ba-74b0809740ff"
+		],
+		"prefix": "C.15",
+		"id": "4d87a51b-fc95-4316-a264-35b5e458e72f",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 16 - Adviseren over een energiesysteem",
+		"description": "De leerling adviseert over het verbeteren van een energiesysteem.",
+		"fo_uitwerking_id": [
+			"b6fe1d1c-194d-4853-8c35-8ed7988058c8",
+			"c4b36915-d7ba-4430-b543-a79830860bab",
+			"01574e54-dadc-4188-96a1-099465f79c1f",
+			"c69de884-3618-449d-9644-ad5715c6410b",
+			"b94f0e31-ba2e-4aac-8d14-0cddf158c3c6"
+		],
+		"prefix": "C.16",
+		"id": "9ec38d23-c93f-45fc-8f5d-a3f38dbf0207",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 17 - Programmeren van software",
+		"description": "De leerling programmeert een deel van de software voor de realisatie van een eindproduct.",
+		"fo_uitwerking_id": [
+			"01a84dba-bd0c-4bc0-8d4e-0f29663924b3",
+			"4fe2645d-d4ab-4e2c-b706-08a46572f176",
+			"4fc1d148-8f11-4326-a130-6d94c53cacc2",
+			"dc00ec26-75ec-41b7-b46e-e2b374ffda99",
+			"8100d022-2afd-4719-99ce-3748b140e317"
+		],
+		"prefix": "C.17",
+		"id": "fcc477fa-f71d-4903-9320-d1b61f52842a",
+		"unreleased": true
 	}
 ]
