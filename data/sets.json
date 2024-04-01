@@ -76,5 +76,16 @@
 		],
 		"id": "15a13826-f8e1-4405-8b76-8e8f8f435422",
 		"unreleased": true
+	},
+	{
+		"title": "Examenprogramma praktijkgericht programma Economie en Ondernemen",
+		"vakleergebied_id": [
+			"18126dde-b79b-4231-826d-b902a6fa70db"
+		],
+		"fo_domein_id": [
+			"8ae5907b-8950-44bd-ad96-589bc0a1c50d"
+		],
+		"id": "947bdea5-c529-41df-8432-746fc629a222",
+		"unreleased": true
 	}
 ]
