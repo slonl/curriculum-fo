@@ -5387,5 +5387,125 @@
 		"title": "Het gaat hierbij om rapporteren van werkzaamheden en bijzonderheden.",
 		"id": "1abcec30-3806-40a1-b1a5-41022cd03938",
 		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om genereren van ideeën en schetsen, rekening houdend met het programma van eisen.",
+		"id": "fe921bcd-9c68-431e-bc2d-b6af0124f2c3",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om beoordelen of ideeën en schetsen passen bij het programma van eisen.",
+		"id": "c066df98-e8bd-4443-af8c-a3614cf99e69",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om onderbouwen van de keuze voor één idee en schets.",
+		"id": "9fe0eb94-bb8f-47fd-b6ae-298e2ed98c73",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om omzetten van het gekozen idee naar een concept.",
+		"id": "8faf3556-9f98-4a1a-96a7-350baa6fceee",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om visualiseren van het concept in een model.",
+		"id": "4c5327cb-8df3-416e-8bd1-eb20372ad0c3",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om opstellen van een plan van aanpak op basis van een ontwerp.",
+		"id": "cf516b39-11c3-4396-b058-16939d4af109",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om verzamelen van duurzame materialen en gereedschappen.",
+		"id": "94d310d4-e4e3-4f87-af9f-f9749e741876",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om uitvoeren volgens het plan van aanpak.",
+		"id": "8a50ea3f-460f-4a84-a2b7-2b58ad53547f",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om testen en bijstellen van het prototype op basis van het programma van eisen.",
+		"id": "6cd668f7-cc1d-4861-a10e-5402ae7cff29",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om genereren van ideeën op basis van marktonderzoek.",
+		"id": "66fed29a-2db1-4bce-97f0-6a0ddc19ed46",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om omzetten van ideeën naar opties.",
+		"id": "c98f813e-8a53-490f-9a3c-ef0da404adfc",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om beoordelen van opties op basis van organisatorische haalbaarheid en duurzaamheid.",
+		"id": "11777d3b-9d9f-4547-9eb2-c22e169397cf",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om presenteren van verschillende opties.",
+		"id": "b3d7da43-14fd-4631-81e1-6533974fe6b1",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om genereren van ideeën op basis van behoeftenonderzoek.",
+		"id": "7ece36f6-d48d-487b-a4f5-ddbcc9186bb7",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om omzetten van ideeën naar logistieke aanpassingen.",
+		"id": "e90f019e-c94a-47cf-a012-5a28ffd13a16",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om beoordelen van aanpassingen op basis van financiële en organisatorische haalbaarheid.",
+		"id": "d3a42669-0722-4594-ac9e-c74816b50e62",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om presenteren van verschillende logistieke aanpassingen.",
+		"id": "bcc98cfe-de2f-4b70-997a-e7de92bef246",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om inventariseren van de doelstelling aan de hand van een doelgroepenonderzoek.",
+		"id": "7e2f2b7a-9629-48e9-b468-15dd579296b4",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om selecteren van een activiteit die past bij de doelstelling en doelgroep.",
+		"id": "43e15d02-bd26-4e57-8f4c-d6910e64be87",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om opstellen van een draaiboek.",
+		"id": "058d6531-6214-491b-88ac-60d0dc4b15b6",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om uitvoeren van de activiteit.",
+		"id": "f08455ff-df1d-4229-822d-c7fcbe0bea73",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om bepalen van de huidige positie.",
+		"id": "f7b02df2-2b8f-4726-aaaa-8efcc22d6563",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om opstellen van een routeplanning, rekening houdens met omstandigheden.",
+		"id": "bff451b2-8a66-44a5-9673-d769f97a28eb",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om uitvoeren van de opgestelde route in een simulator.",
+		"id": "ca904459-4c0b-4d45-8fc5-0967b81b7db7",
+		"unreleased": true
 	}
 ]
