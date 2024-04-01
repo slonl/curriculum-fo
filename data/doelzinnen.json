@@ -2590,5 +2590,86 @@
 		"prefix": "C.17",
 		"id": "ee2bf82a-f875-4875-8269-ca981356bcf2",
 		"unreleased": true
+	},
+	{
+		"title": "Eindterm 12 - Ontwerpen van een product",
+		"description": "De leerling ontwerpt een 3D-product.",
+		"fo_uitwerking_id": [
+			"24f71bd5-04a4-4a8b-b866-5a9831aaa40a",
+			"18a5c78f-8ef7-4476-8932-9d4e2cda144e",
+			"e07fcef0-5273-4491-963e-5c8a65f4fcec",
+			"1414b6e8-9e55-40f0-ad75-b9350d027690",
+			"e6311f46-1a48-4501-95f0-00df1979c26b"
+		],
+		"prefix": "C.12",
+		"id": "107e2d3b-d531-4764-8c31-6cf5916775e5",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 13 - Maken van een mediaproduct",
+		"description": "De leerling maakt een digitaal mediaproduct.",
+		"fo_uitwerking_id": [
+			"95c6227f-1b1e-4833-8b12-f50c8aeba1c7",
+			"25433a50-06cc-459b-a714-5505a7438247",
+			"e6a5c6c0-30e4-434c-8c1a-7809a847cb84",
+			"d89c3a57-6127-4a67-97b7-7bf0765e760c"
+		],
+		"prefix": "C.13",
+		"id": "2b57ca5c-17fb-4ac0-b64f-88029d0cc655",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 14 - Adviseren over ontwikkelingen",
+		"description": "De leerling adviseert over de toepasbaarheid van IT-ontwikkelingen.",
+		"fo_uitwerking_id": [
+			"09430da7-041d-4a6f-80a4-136ff8559af5",
+			"da3e5e53-5b31-497c-bbb8-67c7a5fab8a7",
+			"3ead9374-2dd4-4102-b69e-6ecf37cd741b",
+			"d489cafc-a07b-44fc-ae1d-7b677abcf237"
+		],
+		"prefix": "C.14",
+		"id": "f7e29c72-e182-4733-830a-d481bcf67d96",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 15 - Programmeren van een product",
+		"description": "De leerling programmeert een softwareproduct.",
+		"fo_uitwerking_id": [
+			"6e0ac8cb-cbe7-4f33-b5dc-a71a9697416a",
+			"48c0a596-384e-4d31-ab51-2290e5f1cf6f",
+			"ec9bb75a-508e-4704-b3b3-32e58ab7f724",
+			"296a4529-61e7-4c60-8e71-6178c6689ecc",
+			"ffcc029b-9dc1-4881-8b37-890cd5956e86"
+		],
+		"prefix": "C.15",
+		"id": "b020bad2-e0fa-41b3-9bc6-7c07eccad4f6",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 16 - Beheren van een dienst",
+		"description": "De leerling beheert een IT-dienst.",
+		"fo_uitwerking_id": [
+			"8994906f-ce0a-4ef5-ad30-296148b2309a",
+			"224de018-5c0e-4050-9007-bd04ce6f881c",
+			"7f907f87-0a33-48c4-a91e-5d62c3737fe7",
+			"9f24842e-e9dc-4c9e-92c4-a16dd9aa35c4"
+		],
+		"prefix": "C.16",
+		"id": "b4b56685-9c98-4a4e-b041-1e30741caa6d",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 17 - Ondersteunen van afnemers",
+		"description": "De leerling ondersteunt afnemers van IT-diensten.",
+		"fo_uitwerking_id": [
+			"f306c1d8-dd7d-4972-b7db-37339c47f08d",
+			"2eb45ca2-7d74-4747-bd2e-c6f8788476cb",
+			"3a55ddf8-bb61-4624-acf2-92e9465f0f6b",
+			"c270b3dd-934c-4fe0-9b04-3555a4df6518",
+			"1abcec30-3806-40a1-b1a5-41022cd03938"
+		],
+		"prefix": "C.17",
+		"id": "17e7579a-cde8-4e5c-9933-5847bcb3126e",
+		"unreleased": true
 	}
 ]
