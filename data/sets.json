@@ -142,5 +142,16 @@
 		],
 		"id": "9058f272-dc5e-476e-bd4d-90583201ec10",
 		"unreleased": true
+	},
+	{
+		"title": "Examenprogramma praktijkgericht programma Media, Vormgeving en ICT",
+		"vakleergebied_id": [
+			"f4848ad5-47b5-4539-8d50-437d15385368"
+		],
+		"fo_domein_id": [
+			"977cf831-d14e-4bc4-a390-eb1c23b59618"
+		],
+		"id": "86cdfb3e-20d0-4d0b-8535-1268a68ad8cd",
+		"unreleased": true
 	}
 ]
