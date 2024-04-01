@@ -5792,5 +5792,130 @@
 		"title": "Het gaat hierbij om testen en debuggen van een deel van de game.",
 		"id": "4d4e1372-15a6-4520-a5c2-a8354ae4a9e6",
 		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om genereren van ideeën en schetsen, rekening houdend met het programma van eisen.",
+		"id": "63c5d291-5d51-4fe8-ae79-23ad0b940aca",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om beoordelen of ideeën en schetsen passen bij het programma van eisen.",
+		"id": "b88e1878-b4f0-47e9-b427-5a563b1d1494",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om onderbouwen van de keuze voor één idee en schets.",
+		"id": "26e82891-e310-4be3-8257-4dd56216c2ae",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om omzetten van het gekozen idee naar een concept.",
+		"id": "41418d55-ac78-4a5a-80a9-71f7a08afbd2",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om visualiseren van het concept in een CAD-tekening.",
+		"id": "c787733c-ff1c-43ab-97e3-31f6c97fb82c",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om opstellen van een plan van aanpak op basis van een ontwerp.",
+		"id": "133399a1-7f77-4b4d-a38b-a5b12a410da1",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om verzamelen van duurzame materialen en gereedschappen.",
+		"id": "2a102276-7daf-4f88-b6e6-8b6b94dd68d4",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om uitvoeren volgens het plan van aanpak en een werktekening, gebruikmakend van persoonlijke beschermingsmiddelen.",
+		"id": "0ccf92b0-babe-4866-b169-45468d91519b",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om testen en bijstellen van het product op basis van het programma van eisen.",
+		"id": "9a2058a7-864d-4ed5-b5fc-b7111e074a82",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om genereren van ideeën op basis van een behoeftenonderzoek.",
+		"id": "68a40688-6d26-4820-bc1e-89d3f379b25f",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om omzetten van ideeën naar technische installatieoplossingen.",
+		"id": "827a51c1-8b44-4b27-9ef2-0d01349e0729",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om beoordelen van oplossingen op basis van financiële en organisatorische haalbaarheid en duurzaamheid.",
+		"id": "87f4f340-621c-4971-bf6f-cba346abca5c",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om presenteren van verschillende technische installatieoplossingen.",
+		"id": "c3747ff8-d008-4b8a-8baf-26c6c6a14fd8",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om genereren van ideeën op basis van een marktonderzoek.",
+		"id": "56f6261c-4d3c-4202-b47b-1d5745406a86",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om omzetten van ideeën naar mogelijke aanpassingen.",
+		"id": "e68b6bf5-08e0-4d27-9fc1-1dd70163ec9b",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om beoordelen van aanpassingen op basis van financiële en organisatorische haalbaarheid en duurzaamheid.",
+		"id": "a8628d81-781c-4bf2-8e4b-14c4311d7c14",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om presenteren van verschillende aanpassingen.",
+		"id": "04f2540f-778b-41a1-b5f4-b9e5f93db1a9",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om verzamelen van onderdelen en gereedschappen.",
+		"id": "97a73b9f-c93b-4e98-86fd-14bb1e453a48",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om koppelen van onderdelen volgens een installatietekening, rekening houdend met veiligheidsvoorschriften.",
+		"id": "be3ce063-5550-4953-8223-6cf7e1ec4088",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om evalueren van de uitgevoerde installatie.",
+		"id": "8aef0fa9-d1dc-486a-94eb-266701db3558",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om inspecteren van de huidige situatie.",
+		"id": "d3f70888-7ad0-4b15-8585-dbfa20cc6a75",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om signaleren van storingen en defecten.",
+		"id": "a006dd8d-0d81-4e07-b397-1b3ed4e499a3",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om vaststellen van de te volgen procedure.",
+		"id": "19d20f92-03eb-42e0-bee1-0c0a382c15c0",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om afstellen en inregelen van onderdelen.",
+		"id": "21053e58-b27d-46f0-b7ea-b9e34c9a266a",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om evalueren van de uitgevoerde procedure.",
+		"id": "cbb154ac-940c-4cbb-847d-11fcce633e3b",
+		"unreleased": true
 	}
 ]
