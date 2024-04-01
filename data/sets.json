@@ -109,5 +109,16 @@
 		],
 		"id": "c845f87b-a924-4dee-bdf6-2cadffbb0ceb",
 		"unreleased": true
+	},
+	{
+		"title": "Examenprogramma praktijkgericht programma Informatietechnologie",
+		"vakleergebied_id": [
+			"e2b27400-7f2e-4cd3-a4fb-933fd2bcd7a9"
+		],
+		"fo_domein_id": [
+			"3c5d0a39-838e-4d68-9cb9-c35d50e27200"
+		],
+		"id": "494c2798-7b65-46e5-813f-68a6947b6f05",
+		"unreleased": true
 	}
 ]
