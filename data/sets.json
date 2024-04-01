@@ -98,5 +98,16 @@
 		],
 		"id": "afadb6d0-967c-4cce-a00c-4446aa080485",
 		"unreleased": true
+	},
+	{
+		"title": "Examenprogramma praktijkgericht programma HBR",
+		"vakleergebied_id": [
+			"430c341c-d861-4076-bbce-b8adcda81555"
+		],
+		"fo_domein_id": [
+			"e7a7ffcc-db5f-4ae2-8d68-4db597966da5"
+		],
+		"id": "c845f87b-a924-4dee-bdf6-2cadffbb0ceb",
+		"unreleased": true
 	}
 ]
