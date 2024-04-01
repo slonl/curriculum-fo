@@ -186,5 +186,16 @@
 		],
 		"id": "a7750ef2-1fcb-4e7b-a299-3566f6c2660b",
 		"unreleased": true
+	},
+	{
+		"title": "Examenprogramma praktijkgericht programma Zorg en Welzijn",
+		"vakleergebied_id": [
+			"73cef23f-df24-4015-8516-072a13dcd369"
+		],
+		"fo_domein_id": [
+			"c1d07b63-95bf-4fc7-96e1-b22a39b7cafa"
+		],
+		"id": "e4ea5f53-4bad-431f-84f8-f4141dbe6d76",
+		"unreleased": true
 	}
 ]
