@@ -153,5 +153,16 @@
 		],
 		"id": "86cdfb3e-20d0-4d0b-8535-1268a68ad8cd",
 		"unreleased": true
+	},
+	{
+		"title": "Examenprogramma praktijkgericht programma Produceren, Installeren en Energie",
+		"vakleergebied_id": [
+			"b8f15528-dedb-4db8-81ee-c820da8453bc"
+		],
+		"fo_domein_id": [
+			"fd67e3d0-5e7a-4b80-8513-85850719b27f"
+		],
+		"id": "2f956cb0-87af-4092-af59-a901abe5f765",
+		"unreleased": true
 	}
 ]
