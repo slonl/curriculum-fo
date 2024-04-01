@@ -4997,5 +4997,161 @@
 		"title": "Het gaat hierbij om uitvoeren van de activiteit.",
 		"id": "0d58d503-3a26-4057-9b4e-7f25698b6ad8",
 		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "Het gaat hierbij om genereren van ideeën en schetsen, rekening houdend met het programma van eisen.",
+		"id": "03d0a001-0594-4636-a008-a8d952378b46",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "Het gaat hierbij om beoordelen of ideeën en schetsen passen bij het programma van eisen.",
+		"id": "c6ad0a5b-7001-4e04-8efe-24cf312f723f",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "Het gaat hierbij om onderbouwen van de keuze voor één idee.",
+		"id": "1cde5002-bc23-4c8c-95d4-a81daa3c6c78",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "Het gaat hierbij om omzetten van het gekozen idee naar een concept.",
+		"id": "d26c170e-244e-409e-8d45-535fa2128752",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "Het gaat hierbij om visualiseren van het concept in een ontwerp.",
+		"id": "b14823d2-2472-4d1e-b779-a9472972e0ae",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "Het gaat hierbij om opstellen van een plan van aanpak op basis van een ontwerp.",
+		"id": "5c82ff42-64ae-4872-90b8-e5bacbc7b4a2",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "Het gaat hierbij om verzamelen van natuurlijke en plantaardige materialen en gereedschappen.",
+		"id": "94a10d4f-2dc1-4b69-997b-a1b68be64030",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "Het gaat hierbij om uitvoeren volgens het plan van aanpak.",
+		"id": "8d67ec45-572d-45b0-bd37-c60596bc3912",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "Het gaat hierbij om testen en bijstellen van het product op basis van het programma van eisen.",
+		"id": "46ce34b6-78b5-46c0-9bb1-961a76326e61",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "Het gaat hierbij om genereren van ideeën op basis van marktonderzoek.",
+		"id": "00b78d85-de1d-4001-a892-9b503170cb26",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "Het gaat hierbij om omzetten van ideeën naar oplossingen, rekening houdend met het gebruik van duurzame energie.",
+		"id": "f2e7807f-da84-48a6-9399-0ca73f3a532e",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "Het gaat hierbij om beoordelen van oplossingen op basis van financiële en organisatorische haalbaarheid.",
+		"id": "5bdff155-a6de-42d0-a0db-b9e5b3c0d3fe",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "Het gaat hierbij om presenteren van verschillende duurzame oplossingen.",
+		"id": "b0437741-f205-4886-a6fc-b53afb4930f1",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "Het gaat hierbij om inspecteren van de gesteldheid en kwaliteit van water en bodem.",
+		"id": "edb49f73-08e6-42a1-8c9a-36b297d245cb",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "Het gaat hierbij om beoordelen van de groeiomstandigheden van een gewas.",
+		"id": "8620b00f-b412-4cbe-a92b-ac80859bea66",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "Het gaat hierbij om vaststellen van benodigde teelthandelingen.",
+		"id": "dee95405-2c97-48a8-b76b-c0fab61ebf7f",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "Het gaat hierbij om uitvoeren van teelthandelingen.",
+		"id": "2bcad6f1-a7e8-44dd-ad6c-78587c362a11",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "Het gaat hierbij om evalueren van de uitgevoerde werkzaamheden",
+		"id": "b1f0f528-ad07-40a7-a22c-b53d7e00f46c",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "Het gaat hierbij om inventariseren van het gedrag en welzijn van verschillende diersoorten.",
+		"id": "c7ccf574-bb87-4d88-94a0-8cd9f92f4130",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "Het gaat hierbij om genereren van ideeën op basis van inventarisatie.",
+		"id": "43d65103-76ab-43c0-ac2e-74dc05a6271c",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "Het gaat hierbij om omzetten van ideeën naar oplossingen om natuurlijk gedrag en dierenwelzijn te bevorderen.",
+		"id": "d198c248-23d9-4f37-a0e0-21acd5813b42",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "Het gaat hierbij om opstellen van een plan van aanpak om natuurlijk gedrag en dierenwelzijn te bevorderen.",
+		"id": "82a1593f-1c11-4100-ac5c-86773ad7c225",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "Het gaat hierbij om uitvoeren van het plan van aanpak.",
+		"id": "bcf8a3f2-bb92-43b9-a895-a7f3e4ad7244",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "Het gaat hierbij om verzamelen van duurzaam verkregen grondstoffen.",
+		"id": "c4a877d9-6379-4a1c-8dfd-60953c1d19eb",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "Het gaat hierbij om bewerken van grondstoffen tot voedingsmiddelen.",
+		"id": "15f6e0a7-129c-4baa-b0b0-15f4fd7bb96c",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "Het gaat hierbij om conserveren van voedingsmiddelen.",
+		"id": "de8c7cf5-c0ff-472e-894b-78240a3f38e4",
+		"unreleased": true
 	}
 ]
