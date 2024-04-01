@@ -4867,5 +4867,135 @@
 		"title": "Het gaat hierbij om uitvoeren van de activiteit.",
 		"id": "3fe49d63-0264-4550-9587-fe523c4cfde3",
 		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om genereren van ideeën, rekening houdend met het programma van eisen.",
+		"id": "6bc1341a-d482-4f7a-93bc-dab0a767b08c",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om beoordelen of ideeën passen bij het programma van eisen.",
+		"id": "6973b668-4ff4-4a8e-a944-2fccd87d8ed1",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om onderbouwen van de keuze voor één idee.",
+		"id": "3839e03f-800d-4fd9-beb9-8de88da4c15a",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om omzetten van het gekozen idee naar een concept.",
+		"id": "fa3f6c0c-7b7c-458d-a72c-e932fdee8549",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om visualiseren van het concept in een ontwerp.",
+		"id": "3db2c979-cc68-48af-9461-239229ceb614",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om opstellen van een plan van aanpak op basis van een ontwerp.",
+		"id": "4ed6b5e1-c4b5-4acd-9c79-4175a2685a56",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om verzamelen van duurzame materialen en gereedschappen.",
+		"id": "0d592857-4970-47b7-aa62-c41eb1644d77",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om uitvoeren volgens het plan van aanpak.",
+		"id": "16e2d331-4a98-4031-a33b-bdded15548d5",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om testen en bijstellen van het product op basis van het programma van eisen.",
+		"id": "cf78f334-5cc2-4ba5-80e1-77994065ab8b",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om genereren van ideeën op basis van doelstelling en behoeftenonderzoek.",
+		"id": "61a6c309-6338-4e06-9623-e23d9b508ae9",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om vomzetten van ideeën naar oplossingen op basis van eigen uitgevoerd marktonderzoek, waarbij inhoud en boodschap op elkaar worden afgestemd.",
+		"id": "0bc56db8-df8d-4a12-aa6b-c92127136a83",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om beoordelen van oplossingen op basis van financiële en organisatorische haalbaarheid.",
+		"id": "32ec5ea6-55ff-4835-af8b-9a27f988a827",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om presenteren van verschillende oplossingen.",
+		"id": "8bf23316-a95c-4413-976f-b5966cd29e15",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om genereren van ideeën op basis van doelstelling, behoefteonderzoek en customer journey.",
+		"id": "8b3ff147-fee8-49e5-bcd1-1e41fc3c1be3",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om omzetten van ideeën naar oplossingen.",
+		"id": "5a0a2ec6-dde7-4894-a514-ce1ee67e13ad",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om beoordelen van oplossingen op basis van financiële en organisatorische haalbaarheid en duurzaamheid.",
+		"id": "f03088e9-a87e-4713-a3c5-691ff1c6c4cc",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om presenteren van verschillende oplossingen.",
+		"id": "4662d8da-133b-45db-9945-a99990b9bf58",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om genereren van ideeën op basis van doelstelling en behoeftenonderzoek.",
+		"id": "9c514d1d-be88-4809-88bd-f1c534539372",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om omzetten van ideeën naar oplossingen op basis van zelf uitgevoerd marktonderzoek.",
+		"id": "9bc0ab99-6100-496b-99c1-4c8711997ff4",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om beoordelen van oplossingen op basis van financiële en organisatorische haalbaarheid.",
+		"id": "6a700d3a-70b2-4912-b27e-1f93fac436b2",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om presenteren van verschillende oplossingen.",
+		"id": "3c0ad805-6f31-4377-8de9-5c91545b78f1",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om inventariseren van de doelstelling aan de hand van een doelgroepenonderzoek.",
+		"id": "1024dbc3-2f0f-4196-9dc9-35284a0ab310",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om selecteren van een activiteit die past bij de doelstelling en de doelgroep.",
+		"id": "b222bc4e-04af-4898-bc66-e9dd0b07ad08",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om opstellen van een financieel plan.",
+		"id": "a3e29d03-17aa-470d-8757-0b598fc7adff",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om opstellen van een draaiboek, rekening houdend met wet- en regelomgeving.",
+		"id": "024daaa7-d393-4a35-9870-6bcda3e55fd2",
+		"unreleased": true
+	},
+	{
+		"title": "Het gaat hierbij om uitvoeren van de activiteit.",
+		"id": "0d58d503-3a26-4057-9b4e-7f25698b6ad8",
+		"unreleased": true
 	}
 ]
