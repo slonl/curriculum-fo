@@ -4736,1596 +4736,2872 @@
 	{
 		"title": "Het gaat hierbij om genereren van ideeën, rekening houdend met het programma van eisen.",
 		"id": "8026203a-e173-446e-b879-cacfa146359d",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om beoordelen of ideeën passen bij het programma van eisen.",
 		"id": "fdbdb0f7-f830-4af7-8c54-ffaff8bbd894",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om onderbouwen van de keuze voor één idee.",
 		"id": "e22ca3aa-dc88-41e5-96db-e427e16d4e0d",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om omzetten van het gekozen idee naar een concept.",
 		"id": "ccab84b1-aa49-4f3b-a9bf-e4c648bc2caa",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om visualiseren van het concept in een schaalmodel.",
 		"id": "93a226dc-22ea-497e-a032-b31eacc20bb1",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om opstellen van een plan van aanpak op basis van een ontwerp.",
 		"id": "d1089ff6-4448-47bd-ad7c-ea9221c18dd3",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om verzamelen van duurzame materialen en gereedschappen.",
 		"id": "4ee4ee15-754d-42e2-b120-ff24973d7b65",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om uitvoeren volgens het plan van aanpak.",
 		"id": "09e64192-46d4-405f-b18a-075b02237b8b",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om testen en bijstellen van het product op basis van het programma van eisen.",
 		"id": "0e9034d3-d171-44af-b4d0-00cfc30a902e",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om opstellen van een plan van aanpak op basis van een ontwerp.",
 		"id": "85af7924-8431-4380-a0a0-fe81d4b178e1",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om verzamelen van audio- en beeldmateriaal.",
 		"id": "4787874a-9625-40f7-bb90-be0b357be13a",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om samenvoegen van audio- en beeldmateriaal tot een geheel, gebruikmakend van in de creatieve industrie gangbare apparatuur en software.",
 		"id": "9943f0d0-6e77-43e1-9321-6fe65a21b5ef",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om opmaken van een definitief ontwerp volgens technische eisen, gebruikmakend van in de creatieve industrie gangbare apparatuur en software.",
 		"id": "1f907502-1082-401f-b8c7-8ea1f7df75dd",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om controleren en bijstellen van het product op basis van het programma van eisen.",
 		"id": "140dd634-1c54-475e-a3b7-a03cddae1ec4",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om genereren van ideeën op basis van gebruikersonderzoek.",
 		"id": "fed62942-1120-456f-bdae-d597e85d3fd8",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om omzetten van ideeën naar aanpassingen.",
 		"id": "e79ab8d2-37ac-42a5-ab82-d11b76e73806",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om beoordelen van aanpassingen op basis van financiële en organisatorische haalbaarheid en duurzaamheid.",
 		"id": "a7f33a84-58fe-4a25-adcc-52f999dc2f02",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om presenteren van verschillende aanpassingen.",
 		"id": "7a7e580f-d090-4ffa-a863-9996dc9132a9",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om inventariseren van oplossingen voor publieksstromen en beveiliging op basis van een risicoanalyse.",
 		"id": "c7786651-9b14-4db3-8e1b-ac72621fb177",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om beoordelen van oplossingen op basis van financiële en organisatorische haalbaarheid met behulp van een expert.",
 		"id": "e703307a-08c2-431b-9354-f71e395551f2",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om opstellen van een plan van aanpak voor de organisatie van het evenement.",
 		"id": "d4a7ab49-4fa2-4ba2-aa89-f51bafbc2dc0",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om presenteren van het plan van aanpak.",
 		"id": "f622710c-b582-4bb6-ad03-3dbc911225fe",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om inventariseren van de doelstelling aan de hand van een doelgroepenonderzoek.",
 		"id": "446b8317-80a8-4c26-b4b9-9e7d2a0f8b8e",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om selecteren van een activiteit passend bij de doelstelling en doelgroep.",
 		"id": "988605de-4d21-40b1-85f2-2498f4eba74d",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om opstellen van een kostenoverzicht voor de locatie, begeleiding en materialen.",
 		"id": "7d1547db-e4a3-4144-92d9-5aa66715ac73",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om opstellen van een draaiboek.",
 		"id": "aaecb9e6-a8bd-43bb-ba50-b349138fb563",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om uitvoeren van de activiteit.",
 		"id": "3fe49d63-0264-4550-9587-fe523c4cfde3",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om genereren van ideeën, rekening houdend met het programma van eisen.",
 		"id": "6bc1341a-d482-4f7a-93bc-dab0a767b08c",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om beoordelen of ideeën passen bij het programma van eisen.",
 		"id": "6973b668-4ff4-4a8e-a944-2fccd87d8ed1",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om onderbouwen van de keuze voor één idee.",
 		"id": "3839e03f-800d-4fd9-beb9-8de88da4c15a",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om omzetten van het gekozen idee naar een concept.",
 		"id": "fa3f6c0c-7b7c-458d-a72c-e932fdee8549",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om visualiseren van het concept in een ontwerp.",
 		"id": "3db2c979-cc68-48af-9461-239229ceb614",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om opstellen van een plan van aanpak op basis van een ontwerp.",
 		"id": "4ed6b5e1-c4b5-4acd-9c79-4175a2685a56",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om verzamelen van duurzame materialen en gereedschappen.",
 		"id": "0d592857-4970-47b7-aa62-c41eb1644d77",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om uitvoeren volgens het plan van aanpak.",
 		"id": "16e2d331-4a98-4031-a33b-bdded15548d5",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om testen en bijstellen van het product op basis van het programma van eisen.",
 		"id": "cf78f334-5cc2-4ba5-80e1-77994065ab8b",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om genereren van ideeën op basis van doelstelling en behoeftenonderzoek.",
 		"id": "61a6c309-6338-4e06-9623-e23d9b508ae9",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om vomzetten van ideeën naar oplossingen op basis van eigen uitgevoerd marktonderzoek, waarbij inhoud en boodschap op elkaar worden afgestemd.",
 		"id": "0bc56db8-df8d-4a12-aa6b-c92127136a83",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om beoordelen van oplossingen op basis van financiële en organisatorische haalbaarheid.",
 		"id": "32ec5ea6-55ff-4835-af8b-9a27f988a827",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om presenteren van verschillende oplossingen.",
 		"id": "8bf23316-a95c-4413-976f-b5966cd29e15",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om genereren van ideeën op basis van doelstelling, behoefteonderzoek en customer journey.",
 		"id": "8b3ff147-fee8-49e5-bcd1-1e41fc3c1be3",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om omzetten van ideeën naar oplossingen.",
 		"id": "5a0a2ec6-dde7-4894-a514-ce1ee67e13ad",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om beoordelen van oplossingen op basis van financiële en organisatorische haalbaarheid en duurzaamheid.",
 		"id": "f03088e9-a87e-4713-a3c5-691ff1c6c4cc",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om presenteren van verschillende oplossingen.",
 		"id": "4662d8da-133b-45db-9945-a99990b9bf58",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om genereren van ideeën op basis van doelstelling en behoeftenonderzoek.",
 		"id": "9c514d1d-be88-4809-88bd-f1c534539372",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om omzetten van ideeën naar oplossingen op basis van zelf uitgevoerd marktonderzoek.",
 		"id": "9bc0ab99-6100-496b-99c1-4c8711997ff4",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om beoordelen van oplossingen op basis van financiële en organisatorische haalbaarheid.",
 		"id": "6a700d3a-70b2-4912-b27e-1f93fac436b2",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om presenteren van verschillende oplossingen.",
 		"id": "3c0ad805-6f31-4377-8de9-5c91545b78f1",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om inventariseren van de doelstelling aan de hand van een doelgroepenonderzoek.",
 		"id": "1024dbc3-2f0f-4196-9dc9-35284a0ab310",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om selecteren van een activiteit die past bij de doelstelling en de doelgroep.",
 		"id": "b222bc4e-04af-4898-bc66-e9dd0b07ad08",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om opstellen van een financieel plan.",
 		"id": "a3e29d03-17aa-470d-8757-0b598fc7adff",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om opstellen van een draaiboek, rekening houdend met wet- en regelomgeving.",
 		"id": "024daaa7-d393-4a35-9870-6bcda3e55fd2",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om uitvoeren van de activiteit.",
 		"id": "0d58d503-3a26-4057-9b4e-7f25698b6ad8",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om genereren van ideeën en schetsen, rekening houdend met het programma van eisen.",
 		"id": "03d0a001-0594-4636-a008-a8d952378b46",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om beoordelen of ideeën en schetsen passen bij het programma van eisen.",
 		"id": "c6ad0a5b-7001-4e04-8efe-24cf312f723f",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om onderbouwen van de keuze voor één idee.",
 		"id": "1cde5002-bc23-4c8c-95d4-a81daa3c6c78",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om omzetten van het gekozen idee naar een concept.",
 		"id": "d26c170e-244e-409e-8d45-535fa2128752",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om visualiseren van het concept in een ontwerp.",
 		"id": "b14823d2-2472-4d1e-b779-a9472972e0ae",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om opstellen van een plan van aanpak op basis van een ontwerp.",
 		"id": "5c82ff42-64ae-4872-90b8-e5bacbc7b4a2",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om verzamelen van natuurlijke en plantaardige materialen en gereedschappen.",
 		"id": "94a10d4f-2dc1-4b69-997b-a1b68be64030",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om uitvoeren volgens het plan van aanpak.",
 		"id": "8d67ec45-572d-45b0-bd37-c60596bc3912",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om testen en bijstellen van het product op basis van het programma van eisen.",
 		"id": "46ce34b6-78b5-46c0-9bb1-961a76326e61",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om genereren van ideeën op basis van marktonderzoek.",
 		"id": "00b78d85-de1d-4001-a892-9b503170cb26",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om omzetten van ideeën naar oplossingen, rekening houdend met het gebruik van duurzame energie.",
 		"id": "f2e7807f-da84-48a6-9399-0ca73f3a532e",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om beoordelen van oplossingen op basis van financiële en organisatorische haalbaarheid.",
 		"id": "5bdff155-a6de-42d0-a0db-b9e5b3c0d3fe",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om presenteren van verschillende duurzame oplossingen.",
 		"id": "b0437741-f205-4886-a6fc-b53afb4930f1",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om inspecteren van de gesteldheid en kwaliteit van water en bodem.",
 		"id": "edb49f73-08e6-42a1-8c9a-36b297d245cb",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om beoordelen van de groeiomstandigheden van een gewas.",
 		"id": "8620b00f-b412-4cbe-a92b-ac80859bea66",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om vaststellen van benodigde teelthandelingen.",
 		"id": "dee95405-2c97-48a8-b76b-c0fab61ebf7f",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om uitvoeren van teelthandelingen.",
 		"id": "2bcad6f1-a7e8-44dd-ad6c-78587c362a11",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om evalueren van de uitgevoerde werkzaamheden",
 		"id": "b1f0f528-ad07-40a7-a22c-b53d7e00f46c",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om inventariseren van het gedrag en welzijn van verschillende diersoorten.",
 		"id": "c7ccf574-bb87-4d88-94a0-8cd9f92f4130",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om genereren van ideeën op basis van inventarisatie.",
 		"id": "43d65103-76ab-43c0-ac2e-74dc05a6271c",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om omzetten van ideeën naar oplossingen om natuurlijk gedrag en dierenwelzijn te bevorderen.",
 		"id": "d198c248-23d9-4f37-a0e0-21acd5813b42",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om opstellen van een plan van aanpak om natuurlijk gedrag en dierenwelzijn te bevorderen.",
 		"id": "82a1593f-1c11-4100-ac5c-86773ad7c225",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om uitvoeren van het plan van aanpak.",
 		"id": "bcf8a3f2-bb92-43b9-a895-a7f3e4ad7244",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om verzamelen van duurzaam verkregen grondstoffen.",
 		"id": "c4a877d9-6379-4a1c-8dfd-60953c1d19eb",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om bewerken van grondstoffen tot voedingsmiddelen.",
 		"id": "15f6e0a7-129c-4baa-b0b0-15f4fd7bb96c",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om conserveren van voedingsmiddelen.",
 		"id": "de8c7cf5-c0ff-472e-894b-78240a3f38e4",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om genereren van ideeën, rekening houdend met het programma van eisen.",
 		"id": "319210ad-a18d-4119-a082-9fb305fe8a39",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om beoordelen of ideeën passen bij het programma van eisen.",
 		"id": "4325a5a6-ac37-47fa-a779-747b2be562d0",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om onderbouwen van de keuze voor één idee.",
 		"id": "89956276-015a-4818-a18b-679992087cd0",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om omzetten van het gekozen idee naar een concept.",
 		"id": "7306fe1c-64f4-434f-8d73-ac7d34b6e2b1",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om visualiseren van het concept in een ontwerp.",
 		"id": "b1c2f483-021f-494c-8d9e-c243f71603d9",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om opstellen van een plan van aanpak op basis van een doelgroepenonderzoek.",
 		"id": "c44cbbaf-0ea6-4bb8-a822-5ff1ca9fcb1e",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om verzamelen van audio- en beeldmateriaal dat past bij de doelgroep en het product.",
 		"id": "d84216ef-439b-4dcf-98ee-e3dc9ef76e80",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om uitvoeren volgens het plan van aanpak.",
 		"id": "d0e44f4a-08d8-4262-b181-5d9100b6a5dd",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om controleren en bijstellen van het promotiemateriaal op basis van het programma van eisen.",
 		"id": "ff248030-ccb4-4971-a880-16527b91ca81",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om genereren van ideeën op basis van behoefteonderzoek.",
 		"id": "b00bf39e-d182-4b90-b353-05de18aecdc7",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om omzetten van ideeën naar opties.",
 		"id": "ffe6e51e-8921-4819-bc8c-f866880e64cd",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om beoordelen van opties op basis van financiële en organisatorische haalbaarheid.",
 		"id": "b55bc90c-df35-406c-9d94-1a1b5bb72637",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om presenteren van verschillende opties aan de hand van een offerte.",
 		"id": "9f6b1f0d-916f-4e7f-9b28-1549de3de50c",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om inventariseren van de doelstelling aan de hand van een doelgroepenonderzoek.",
 		"id": "d840682a-04c3-4767-8824-70d91c6a8fe0",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om selecteren van een activiteit die past bij de doelstelling en de doelgroep.",
 		"id": "a4056e87-b73b-49af-a49e-2aa863ba5bfb",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om opstellen van een kostenoverzicht.",
 		"id": "761d017a-fdec-4737-a72d-5776ef011d01",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om opstellen van een draaiboek.",
 		"id": "6352b623-4d08-4dc9-8b5a-c363815bbf65",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om uitvoeren van de activiteit.",
 		"id": "9dcdea20-bc83-4140-891b-f516d93dd1c6",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om voorbereiden van de ruimte waarin gasten verblijven.",
 		"id": "ff650420-ada3-4c33-b0a7-2951cfcdeb79",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om ontvangen van gasten.",
 		"id": "1a53d87a-7c8a-402f-b323-e3ff1fe2efd3",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om begeleiden van gasten tijdens hun bezoek.",
 		"id": "47c191b2-051c-4106-b891-8ace78ba40a7",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om opstellen van een recept.",
 		"id": "8a9b4c7f-ff1f-4e51-9cff-ecf047bdcc9d",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om verzamelen van verantwoorde grondstoffen, ingrediënten en tussenproducten.",
 		"id": "ba3f6fc3-3cc5-4c34-9bb3-30325c235144",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om uitvoeren volgens recept met behulp van keukenapparatuur, rekening houdend met HACCP-richtlijnen.",
 		"id": "7d2f70c1-fca9-4837-a645-71b3b3744155",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om opdienen van een aantrekkelijk gepresenteerd gerecht.",
 		"id": "4a706a15-dfbc-48b6-843c-c36f1b6b4af3",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om genereren van ideeën, rekening houdend met het programma van eisen.",
 		"id": "24f71bd5-04a4-4a8b-b866-5a9831aaa40a",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om beoordelen of ideeën passen bij het programma van eisen.",
 		"id": "18a5c78f-8ef7-4476-8932-9d4e2cda144e",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om onderbouwen van de keuze voor één idee.",
 		"id": "e07fcef0-5273-4491-963e-5c8a65f4fcec",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om omzetten van het gekozen idee naar een concept.",
 		"id": "1414b6e8-9e55-40f0-ad75-b9350d027690",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om visualiseren van het concept in een ontwerp met behulp van ontwerpsoftware.",
 		"id": "e6311f46-1a48-4501-95f0-00df1979c26b",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om opstellen van een plan van aanpak op basis van een ontwerp.",
 		"id": "95c6227f-1b1e-4833-8b12-f50c8aeba1c7",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om verzamelen van beeldmateriaal.",
 		"id": "25433a50-06cc-459b-a714-5505a7438247",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om opmaken van een definitief ontwerp volgens technische eisen.",
 		"id": "e6a5c6c0-30e4-434c-8c1a-7809a847cb84",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om controleren en bijstellen van het product op basis van het programma van eisen.",
 		"id": "d89c3a57-6127-4a67-97b7-7bf0765e760c",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om genereren van mogelijkheden op basis van IT-ontwikkelingen.",
 		"id": "09430da7-041d-4a6f-80a4-136ff8559af5",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om omzetten van mogelijkheden naar duurzame toepassingen.",
 		"id": "da3e5e53-5b31-497c-bbb8-67c7a5fab8a7",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om beoordelen van toepassingen op basis van financiële en organisatorische haalbaarheid.",
 		"id": "3ead9374-2dd4-4102-b69e-6ecf37cd741b",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om presenteren van verschillende toepassingen.",
 		"id": "d489cafc-a07b-44fc-ae1d-7b677abcf237",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om genereren van oplossingsrichtingen op basis van wensen van de gebruiker.",
 		"id": "6e0ac8cb-cbe7-4f33-b5dc-a71a9697416a",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om opstellen van een plan van aanpak op basis van een gekozen oplossing.",
 		"id": "48c0a596-384e-4d31-ab51-2290e5f1cf6f",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om verzamelen van software en apparatuur.",
 		"id": "ec9bb75a-508e-4704-b3b3-32e58ab7f724",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om uitvoeren volgens het plan van aanpak, rekening houdend met programmeerprincipes.",
 		"id": "296a4529-61e7-4c60-8e71-6178c6689ecc",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om testen en debuggen van het product.",
 		"id": "ffcc029b-9dc1-4881-8b37-890cd5956e86",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om controleren van de IT-infrastructuur.",
 		"id": "8994906f-ce0a-4ef5-ad30-296148b2309a",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om vaststellen van benodigde wijzigingen in de IT-infrstructuur.",
 		"id": "224de018-5c0e-4050-9007-bd04ce6f881c",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om opstellen van een plan van aanpak, rekening houdens met beveiligingsmaatregelen en duurzaamheid.",
 		"id": "7f907f87-0a33-48c4-a91e-5d62c3737fe7",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om uitvoeren van de wijzigingen volgens het plan van aanpak.",
 		"id": "9f24842e-e9dc-4c9e-92c4-a16dd9aa35c4",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om inventariseren van de hulpbehoefte van een gebruiker door middel van een meldingsprocedure.",
 		"id": "f306c1d8-dd7d-4972-b7db-37339c47f08d",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om zoeken van gegevens in een gestructureerde gegevensverzameling met behulp van digitale instrumenten.",
 		"id": "2eb45ca2-7d74-4747-bd2e-c6f8788476cb",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om opstellen van een gebruikersinstructie.",
 		"id": "3a55ddf8-bb61-4624-acf2-92e9465f0f6b",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om uitvoeren van ondersteunende werkzaamheden.",
 		"id": "c270b3dd-934c-4fe0-9b04-3555a4df6518",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om rapporteren van werkzaamheden en bijzonderheden.",
 		"id": "1abcec30-3806-40a1-b1a5-41022cd03938",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om genereren van ideeën en schetsen, rekening houdend met het programma van eisen.",
 		"id": "fe921bcd-9c68-431e-bc2d-b6af0124f2c3",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om beoordelen of ideeën en schetsen passen bij het programma van eisen.",
 		"id": "c066df98-e8bd-4443-af8c-a3614cf99e69",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om onderbouwen van de keuze voor één idee en schets.",
 		"id": "9fe0eb94-bb8f-47fd-b6ae-298e2ed98c73",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om omzetten van het gekozen idee naar een concept.",
 		"id": "8faf3556-9f98-4a1a-96a7-350baa6fceee",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om visualiseren van het concept in een model.",
 		"id": "4c5327cb-8df3-416e-8bd1-eb20372ad0c3",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om opstellen van een plan van aanpak op basis van een ontwerp.",
 		"id": "cf516b39-11c3-4396-b058-16939d4af109",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om verzamelen van duurzame materialen en gereedschappen.",
 		"id": "94d310d4-e4e3-4f87-af9f-f9749e741876",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om uitvoeren volgens het plan van aanpak.",
 		"id": "8a50ea3f-460f-4a84-a2b7-2b58ad53547f",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om testen en bijstellen van het prototype op basis van het programma van eisen.",
 		"id": "6cd668f7-cc1d-4861-a10e-5402ae7cff29",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om genereren van ideeën op basis van marktonderzoek.",
 		"id": "66fed29a-2db1-4bce-97f0-6a0ddc19ed46",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om omzetten van ideeën naar opties.",
 		"id": "c98f813e-8a53-490f-9a3c-ef0da404adfc",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om beoordelen van opties op basis van organisatorische haalbaarheid en duurzaamheid.",
 		"id": "11777d3b-9d9f-4547-9eb2-c22e169397cf",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om presenteren van verschillende opties.",
 		"id": "b3d7da43-14fd-4631-81e1-6533974fe6b1",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om genereren van ideeën op basis van behoeftenonderzoek.",
 		"id": "7ece36f6-d48d-487b-a4f5-ddbcc9186bb7",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om omzetten van ideeën naar logistieke aanpassingen.",
 		"id": "e90f019e-c94a-47cf-a012-5a28ffd13a16",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om beoordelen van aanpassingen op basis van financiële en organisatorische haalbaarheid.",
 		"id": "d3a42669-0722-4594-ac9e-c74816b50e62",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om presenteren van verschillende logistieke aanpassingen.",
 		"id": "bcc98cfe-de2f-4b70-997a-e7de92bef246",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om inventariseren van de doelstelling aan de hand van een doelgroepenonderzoek.",
 		"id": "7e2f2b7a-9629-48e9-b468-15dd579296b4",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om selecteren van een activiteit die past bij de doelstelling en doelgroep.",
 		"id": "43e15d02-bd26-4e57-8f4c-d6910e64be87",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om opstellen van een draaiboek.",
 		"id": "058d6531-6214-491b-88ac-60d0dc4b15b6",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om uitvoeren van de activiteit.",
 		"id": "f08455ff-df1d-4229-822d-c7fcbe0bea73",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om bepalen van de huidige positie.",
 		"id": "f7b02df2-2b8f-4726-aaaa-8efcc22d6563",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om opstellen van een routeplanning, rekening houdens met omstandigheden.",
 		"id": "bff451b2-8a66-44a5-9673-d769f97a28eb",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om uitvoeren van de opgestelde route in een simulator.",
 		"id": "ca904459-4c0b-4d45-8fc5-0967b81b7db7",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om genereren van ideeën en schetsen, rekening houdend met het programma van eisen.",
 		"id": "5ebc8c0d-3373-406b-bdff-41e25cbb550e",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om beoordelen of ideeën en schetsen passen bij het programma van eisen.",
 		"id": "d98f3180-9eef-435d-9759-3e010239515b",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om onderbouwen van de keuze voor één idee en schets.",
 		"id": "5957155d-cca9-411a-a5b4-cdd472a82958",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om omzetten van het gekozen idee naar een concept.",
 		"id": "f602e590-6b36-4d68-8ecf-e0acd918c094",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om visualiseren van het concept in een CAD-tekening.",
 		"id": "8f905952-cf5b-430c-b743-0f97ad3f4725",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om opstellen van een plan van aanpak op basis van een ontwerp.",
 		"id": "cd96ec87-1907-45db-bb67-34a0190f9fed",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om verzamelen van duurzame materialen en gereedschappen.",
 		"id": "710079f6-656a-42ef-8769-b9468d1fb353",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om uitvoeren volgens het plan van aanpak en een werktekening, gebruikmakend van persoonlijke beschermingsmiddelen.",
 		"id": "cd988d33-9984-4abb-afc8-d70cecf7d601",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om testen en bijstellen van het product op basis van het programma van eisen.",
 		"id": "ec7e4e77-8d91-4f8a-bffa-77932eb10cb9",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om genereren van ideeën op basis van behoeftenonderzoek.",
 		"id": "043f31be-bffb-4bcb-a694-f03b9ac90501",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om omzetten van ideeën naar opties.",
 		"id": "80559b02-521f-4451-8f75-5a50b38fc925",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om beoordelen van opties op basis van financiële haalbaarheid.",
 		"id": "b72e5e4b-95cd-44e5-a9c3-56a3d55c227c",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om presenteren van verschillende opties aan de hand van een offerte.",
 		"id": "80acded5-b971-46dd-874b-aa41cdf85e2d",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om inventariseren van de doelstelling aan de hand van een behoeftenonderzoek.",
 		"id": "60b90a71-7af9-46d7-ba9c-acadafd87569",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om genereren van ideeë, rekening houdend met financiële en organisatorische haalbaarheid en duurzaamheid.",
 		"id": "3eff6cd8-d834-432e-8ff3-2cd1f945263b",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om omzetten van ideeën naar logistieke oplossingen.",
 		"id": "c4baf046-38f5-48f0-b018-07f6e269641f",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om opstellen van een kostenoverzicht.",
 		"id": "eafd2358-05c8-4e06-921d-a3cd22abded9",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om opstellen van een logistieke planning",
 		"id": "4683c642-d23e-47b2-b56f-29ffc50b2c5e",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om inspecteren van de huidige situatie.",
 		"id": "836d1bf2-6dd1-4c9b-b089-8e81e13c29e1",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om controleren van de functionaliteit.",
 		"id": "b60a16a9-c224-4e2f-9fac-43b95b98be8d",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om vaststellen van de te volgen procedure.",
 		"id": "32418254-06c1-4ce0-a400-6e43c3981d0a",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om demonteren, monteren en afstellen van onderdelen.",
 		"id": "3ead0e9f-4990-47d9-9b06-8034713ce762",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om evalueren van de uitgevoerde procedure.",
 		"id": "91ca3cfd-22f9-4b3b-a3c1-aa4ba6aae4b9",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om signaleren van storingen en defecten.",
 		"id": "61a04659-bdb1-4504-bb31-b501a42bde8c",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om stellen van een diagnose.",
 		"id": "55e61042-cbe2-4dae-a82b-c8f8678d4d9f",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om vaststellen van de te volgen procedure.",
 		"id": "3969e0d8-d5a8-4bf6-b797-bf92a769c4ce",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om verhelpen van storingen en defecten.",
 		"id": "6e896080-ddba-44a8-a6d8-fc6aaf01dd7c",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om evalueren van de uitgevoerde procedure.",
 		"id": "2f1f33e0-a09f-4f91-8031-3883a51a21df",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om genereren van ideeën, rekening houdend met het programma van eisen.",
 		"id": "cc8e615a-bbec-43c9-a36b-475a461a783e",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om beoordelen of ideeën passen bij het programma van eisen.",
 		"id": "f51a4670-c33e-4923-a541-6a9f3a311156",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om onderbouwen van de keuze voor één idee.",
 		"id": "d460dfa0-0b55-4cc8-9aef-caf6172aa656",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om omzetten van het gekozen idee naar een concept.",
 		"id": "e6ffe34f-2c88-4227-b735-dd525e7d1e80",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om visualiseren van het concept naar een ontwerp in meerdere dimensies, met behulp van binnen de creatieve industrie gangbare software.",
 		"id": "344f28f3-884f-444f-a928-784adc12b5b7",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om opstellen van een plan van aanpak op basis van een ontwerp.",
 		"id": "44e940b6-0df7-4e61-8e1e-000d95a76b81",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om visualiseren van een ontwerp volgens designprincipes.",
 		"id": "7ff3143d-59cb-429c-9425-a24ab117355c",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om verzamelen van beeldmateriaal.",
 		"id": "1d532c48-04cd-4b32-9512-faa47e4fcb5d",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om opmaken van een definitief ontwerp volgens technische eisen met in de creatieve industrie gangbare apparatuur en software.",
 		"id": "feb05ac3-91ac-47b0-9960-5fe21769c78f",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om controleren en bijstellen van het product op basis van het programma van eisen.",
 		"id": "446f1100-c891-408b-8a78-067c05074960",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om opstellen van een plan van aanpak op basis van een ontwerp.",
 		"id": "fb21dd8a-44fb-4d91-9263-fd99a9fd6437",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om verzamelen van audio- en beeldmaterialen.",
 		"id": "a31b637d-7654-4690-9998-08b877d927ff",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om uitvoeren volgens het plan van aanpak met in de creatieve industrie gangbare apparatuur en software.",
 		"id": "94b60a7a-5ee1-4bad-9789-6dcedb16ada8",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om controleren en bijstellen van het product op basis van het programma van eisen.",
 		"id": "cc5d5a2e-5c4d-4883-8bd9-e6245fbfb98e",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om exporteren van het product in het gewenste format.",
 		"id": "1d7d9ed4-cebe-4d15-8ec2-e77e1794db14",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om genereren van ideeën op basis van een behoeftenonderzoek.",
 		"id": "4ab75b29-a8fa-4a19-af87-0c0f3f8c821b",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om omzetten van ideeën naar oplossingen, rekening houdend met inrichting, beheer en beveliging van de omgeving.",
 		"id": "357fb791-57bb-4c44-b935-26be3422a9b4",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om beoordelen van oplossingen op basis van duurzaamheid, financiële en organisatorische haalbaarheid.",
 		"id": "bd9ebce6-7b1e-4d8a-91f4-d0e280a19c2b",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om presenteren van verschillende oplossingen.",
 		"id": "cb8ec05a-8967-489e-ad96-11e4ca647303",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om genereren van oplossingsrichtingen op basis van wensen van de gebruiker.",
 		"id": "8e6c3b9f-a051-43da-8393-786abd34dd40",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om opstellen van een plan van aanpak op basis van een gekozen oplossing.",
 		"id": "1a93e982-ee22-4d78-99a6-c69621ca1218",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om verzamelen van software en apparatuur.",
 		"id": "64b9f257-a28d-4b0d-8b65-5fc60c13b8a9",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om uitvoeren volgens het plan van aanpak, rekening houdend met programmeerprincipes.",
 		"id": "f1913cac-1f54-430c-89a2-8b8e3987553a",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om testen en debuggen van het product.",
 		"id": "516f2fe3-6505-4159-8e40-6001a5fae0a7",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om genereren van oplossingsrichtingen op basis van het doel en de doelgroep.",
 		"id": "cc934129-5d54-4de2-ab62-b0fff5c6821b",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om visualiseren van een gameplay.",
 		"id": "f803015f-e0ac-4240-a66e-6a18a5c4a508",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om verzamelen van beeldmateriaal.",
 		"id": "f6d047c4-6f82-4ef8-a627-436e8884a3ef",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om omzetten van een gameplay naar een passende omgeving met behulp van programmeertaal.",
 		"id": "031f82aa-d020-4963-bd46-fa05638fff72",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om testen en debuggen van een deel van de game.",
 		"id": "4d4e1372-15a6-4520-a5c2-a8354ae4a9e6",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om genereren van ideeën en schetsen, rekening houdend met het programma van eisen.",
 		"id": "63c5d291-5d51-4fe8-ae79-23ad0b940aca",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om beoordelen of ideeën en schetsen passen bij het programma van eisen.",
 		"id": "b88e1878-b4f0-47e9-b427-5a563b1d1494",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om onderbouwen van de keuze voor één idee en schets.",
 		"id": "26e82891-e310-4be3-8257-4dd56216c2ae",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om omzetten van het gekozen idee naar een concept.",
 		"id": "41418d55-ac78-4a5a-80a9-71f7a08afbd2",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om visualiseren van het concept in een CAD-tekening.",
 		"id": "c787733c-ff1c-43ab-97e3-31f6c97fb82c",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om opstellen van een plan van aanpak op basis van een ontwerp.",
 		"id": "133399a1-7f77-4b4d-a38b-a5b12a410da1",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om verzamelen van duurzame materialen en gereedschappen.",
 		"id": "2a102276-7daf-4f88-b6e6-8b6b94dd68d4",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om uitvoeren volgens het plan van aanpak en een werktekening, gebruikmakend van persoonlijke beschermingsmiddelen.",
 		"id": "0ccf92b0-babe-4866-b169-45468d91519b",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om testen en bijstellen van het product op basis van het programma van eisen.",
 		"id": "9a2058a7-864d-4ed5-b5fc-b7111e074a82",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om genereren van ideeën op basis van een behoeftenonderzoek.",
 		"id": "68a40688-6d26-4820-bc1e-89d3f379b25f",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om omzetten van ideeën naar technische installatieoplossingen.",
 		"id": "827a51c1-8b44-4b27-9ef2-0d01349e0729",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om beoordelen van oplossingen op basis van financiële en organisatorische haalbaarheid en duurzaamheid.",
 		"id": "87f4f340-621c-4971-bf6f-cba346abca5c",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om presenteren van verschillende technische installatieoplossingen.",
 		"id": "c3747ff8-d008-4b8a-8baf-26c6c6a14fd8",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om genereren van ideeën op basis van een marktonderzoek.",
 		"id": "56f6261c-4d3c-4202-b47b-1d5745406a86",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om omzetten van ideeën naar mogelijke aanpassingen.",
 		"id": "e68b6bf5-08e0-4d27-9fc1-1dd70163ec9b",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om beoordelen van aanpassingen op basis van financiële en organisatorische haalbaarheid en duurzaamheid.",
 		"id": "a8628d81-781c-4bf2-8e4b-14c4311d7c14",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om presenteren van verschillende aanpassingen.",
 		"id": "04f2540f-778b-41a1-b5f4-b9e5f93db1a9",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om verzamelen van onderdelen en gereedschappen.",
 		"id": "97a73b9f-c93b-4e98-86fd-14bb1e453a48",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om koppelen van onderdelen volgens een installatietekening, rekening houdend met veiligheidsvoorschriften.",
 		"id": "be3ce063-5550-4953-8223-6cf7e1ec4088",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om evalueren van de uitgevoerde installatie.",
 		"id": "8aef0fa9-d1dc-486a-94eb-266701db3558",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om inspecteren van de huidige situatie.",
 		"id": "d3f70888-7ad0-4b15-8585-dbfa20cc6a75",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om signaleren van storingen en defecten.",
 		"id": "a006dd8d-0d81-4e07-b397-1b3ed4e499a3",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om vaststellen van de te volgen procedure.",
 		"id": "19d20f92-03eb-42e0-bee1-0c0a382c15c0",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om afstellen en inregelen van onderdelen.",
 		"id": "21053e58-b27d-46f0-b7ea-b9e34c9a266a",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om evalueren van de uitgevoerde procedure.",
 		"id": "cbb154ac-940c-4cbb-847d-11fcce633e3b",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om genereren van ideeën en schetsen, rekening houdend met het programma van eisen.",
 		"id": "1802d596-fc6c-468d-ad6f-5c6ff093a2d0",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om beoordelen of ideeën en schetsen passen bij het programma van eisen.",
 		"id": "ae3691f0-a179-43e1-b053-a43238398aa0",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om onderbouwen van de keuze voor één idee en schets.",
 		"id": "4707a00a-9441-4f2d-bc18-37a55e2ab828",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om omzetten van het gekozen idee naar een concept.",
 		"id": "9abef51f-bc94-47ea-bf1c-8a6a178d3a56",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om visualiseren van het concept in een CAD-tekening.",
 		"id": "0e7d4ba6-aa38-4b53-9adf-2d24f80ac1e8",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om genereren van ideeën op basis van een omgevingsonderzoek.",
 		"id": "c2c7d29d-bdc1-4378-8b2a-8568aa1c2013",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om vbeoordelen of ideeën passen bij het programma van eisen.",
 		"id": "b43cbee8-5a14-44df-a41a-6f3a69e9a422",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om onderbouwen van de keuze voor één idee op basis van eigenschappen, levensduur en herkomst en kosten van materialen.",
 		"id": "3aba32be-c8f0-4c49-a75d-d88ed70abdce",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om omzetten van het gekozen idee naar een concept.",
 		"id": "178fc1da-8ed8-47e1-a5cf-cf726c13f15e",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om visualiseren van het concept in een model.",
 		"id": "d603a27b-eb25-4521-af74-3281f456eb12",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om opstellen van een plan van aanpak op basis van een ontwerp.",
 		"id": "6cf53d98-d6f9-48f8-b447-ddb59ca0c712",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om verzamelen van duurzame materialen en gereedschappen.",
 		"id": "15d7f141-3476-4cbf-b485-a4e4709e2551",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om uitvoeren volgens het plan van aanpak en zelfgemaakte technische tekening, gebruik makend van persoonlijke beschermingsmiddelen.",
 		"id": "19faaf13-4ef4-4ddf-8c9a-0851e8d91666",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om testen en bijstellen van het prototype op basis van het programma van eisen.",
 		"id": "9a448c3c-a1c3-455a-ad2b-714c172dc707",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om genereren van ideeën op basis van een behoeftenonderzoek.",
 		"id": "15361766-0881-4643-ab67-2f805ae0010c",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om omzetten van ideeën naar technologische toepassingen.",
 		"id": "17cc54ac-4e08-4f97-93fb-0eb30b525757",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om beoordelen van toepassingen op basis van financiële en organisatorische haalbaarheid en duurzaamheid.",
 		"id": "e2c8cff0-e5ef-44d6-8196-4dc62c162caf",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om presenteren van verschillende toepassingen.",
 		"id": "1097e43c-b5f1-4fec-b7ba-74b0809740ff",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om genereren van ideeën op basis van een marktonderzoek.",
 		"id": "b6fe1d1c-194d-4853-8c35-8ed7988058c8",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om omzetten van ideeën naar aanpassingen, rekening houdend met vorm, functie en werking van deelsystemen.",
 		"id": "c4b36915-d7ba-4430-b543-a79830860bab",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om visualiseren van de werking van deelsystemen binnen een groter systeem.",
 		"id": "01574e54-dadc-4188-96a1-099465f79c1f",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om beoordelen van aanpassingen op basis van financiële en organisatorische haalbaarheid en duurzaamheid.",
 		"id": "c69de884-3618-449d-9644-ad5715c6410b",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om presenteren van verschillende aanpassingen.",
 		"id": "b94f0e31-ba2e-4aac-8d14-0cddf158c3c6",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om genereren van oplossingsrichtingen op basis van wensen van de gebruiker.",
 		"id": "01a84dba-bd0c-4bc0-8d4e-0f29663924b3",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om opstellen van een plan van aanpak voor de realisatie van het eindproduct.",
 		"id": "4fe2645d-d4ab-4e2c-b706-08a46572f176",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om onderbouwen van de keuze voor een technologie.",
 		"id": "4fc1d148-8f11-4326-a130-6d94c53cacc2",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om uitvoeren volgens het plan van aanpak.",
 		"id": "dc00ec26-75ec-41b7-b46e-e2b374ffda99",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om evalueren en bijstellen van de toegepaste technologie.",
 		"id": "8100d022-2afd-4719-99ce-3748b140e317",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om genereren van ideeën en schetsen, rekening houdend met het programma van eisen.",
 		"id": "ff511806-e526-48dd-93af-9412abe63777",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om beoordelen of ideeën en schetsen passen bij het programma van eisen.",
 		"id": "b97965e7-18de-44e0-92af-963025cb050f",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om onderbouwen van de keuze voor één idee en schets.",
 		"id": "7db9974e-5a7d-4616-a2c0-863c510069df",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om omzetten van het gekozen idee naar een concept.",
 		"id": "7a6a27d6-7e60-4904-851e-5aa39d7f033c",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om visualiseren van het concept in een CAD-tekening.",
 		"id": "f6646de1-c0e8-45b9-b4c3-a11dda03f0f6",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om opstellen van een plan van aanpak op basis van een ontwerp.",
 		"id": "4e615b3b-ad28-4af9-989d-eeba0154bcdd",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om verzamelen van duurzame materialen en gereedschappen.",
 		"id": "352f9149-011b-4f73-824e-db439d0d1f13",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om uitvoeren volgens het plan van aanpak en een werktekening, gebruikmakend van persoonlijke beschermingsmiddelen.",
 		"id": "c84208e7-bc47-4cfb-a428-483ee059090f",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om testen en bijstellen van het product op basis van het programma van eisen.",
 		"id": "24be4a81-0929-4d5f-8e76-e5b2a3f12d59",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om genereren van ideeën op basis van een marktonderzoek.",
 		"id": "63032c29-fed7-4a56-90a0-32ad76da93b2",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om omzetten van ideeën naar technische oplossingen.",
 		"id": "35a8ae7e-6c4f-4593-b956-7aa1afff4af2",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om beoordelen van technische oplossingen op basis van financiële en duurzaamheid.",
 		"id": "2204869e-1d71-4608-9e84-6e6bfc54e739",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om presenteren van verschillende technische oplossingen.",
 		"id": "895cf9cd-c22b-45e3-a678-0e5f23309c8c",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om inventariseren van de doelstelling aan de hand van een behoeftenonderzoek.",
 		"id": "3484f5f3-1a0a-4af2-9b54-588388988841",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om genereren van ideeën, rekening houdend met financiële en organisatorische haalbaarheid en duurzaamheid.",
 		"id": "e901499e-58b0-4d55-9075-62def2d9e244",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om omzetten van ideeën naar logistieke oplossingen.",
 		"id": "0ff1c2c3-3b00-4a89-a00b-4ee56e348b0f",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om opstellen van een kostenoverzicht.",
 		"id": "a40b324d-50d6-49fb-ab22-905eb41a3194",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om opstellen van een logistieke planning.",
 		"id": "14993f68-7e76-437d-91f1-8edc0b044e4a",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om verzamelen van bouwelementen en gereedschappen.",
 		"id": "580d68fa-c247-4a0f-8d67-61d1d3eb72a6",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om koppelen van bouwelementen volgens een montagetekening, rekening houdend met veiligheidsvoorschriften.",
 		"id": "29ac8941-b6aa-4d6a-adaf-e4ae091ca134",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om evalueren van de uitgevoerde montage.",
 		"id": "e220df70-0594-405f-ad00-35085768a9ba",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om inspecteren van de huidige situatie.",
 		"id": "0edc3219-79e6-492e-bc67-19be7d0ddced",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om signaleren van storingen en defecten.",
 		"id": "60198c63-a921-45e8-9781-77c9cebfbd34",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om vaststellen van de te volgen procedure.",
 		"id": "edb09fba-33b7-4608-a280-3ff1a3cd1786",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om afstellen en inregelen van onderdelen.",
 		"id": "717d09a2-763e-479b-834a-3780ee4c5952",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om evalueren van de uitgevoerde procedure.",
 		"id": "e0d4f330-c87d-4d81-bffc-d8fc68259537",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om genereren van ideeën, rekening houdend met het programma van eisen.",
 		"id": "c7b72dbb-76aa-4e6e-893c-2f37069f1fa9",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om beoordelen of ideeën passen bij het programma van eisen.",
 		"id": "c7cdcbab-c919-4e73-8cf0-d325763d487b",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om onderbouwen van de keuze voor één idee.",
 		"id": "570adcab-2091-474e-b68f-59ee5be97e67",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om omzetten van het gekozen idee naar een concept.",
 		"id": "632a4449-749e-45f9-8e89-88fb9e2c43c0",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om visualiseren van het concept in een tekening.",
 		"id": "40bb8e4e-7c0a-40fc-a39b-8a5865697560",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om genereren van ideeën op basis van gebruikersonderzoek.",
 		"id": "361339c6-81ab-4678-9aae-2241f0dd91f0",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om omzetten van ideeën naar aanpassingen voor de leefstijl.",
 		"id": "9c896072-6ab2-4189-bb5e-4bf5a349513f",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om beoordelen van aanpassingen op basis van organisatorische en financiële haalbaarheid.",
 		"id": "80a1ca34-fb36-44c9-b605-48e344d47712",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om opstellen van een leefstijladvies.",
 		"id": "4f29120d-2a32-42ba-aba5-29f3904d619f",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om presenteren van het leefstijladvies.",
 		"id": "28d6be98-53bc-41a4-9139-1b278538e1e7",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om inventariseren van de doelstelling aan de hand van een doelgroepenonderzoek.",
 		"id": "20d2a133-2f56-4d53-b37a-6c139dcf2811",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om selecteren van een activiteit die past bij de doelstelling en de doelgroep.",
 		"id": "d790fc85-3eda-4596-9391-cefb30c23cbe",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om opstellen van een kostenoverzicht en draaiboek.",
 		"id": "fea01146-4141-49d9-a172-38f283c2cc84",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om uitvoeren van de activiteit.",
 		"id": "44b78636-6767-495c-bf14-ce58af3c13df",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om nabespreken van de activiteit.",
 		"id": "4fc22879-8e75-4cba-aed1-c53dc3e7ca98",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om inventariseren van de hulpbehoefte en zelfredzaamheid.",
 		"id": "b2d9e46e-0c7f-47b1-94e3-8d63691c4236",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om gebruiken van in de zorg gangbare hulpmiddelen.",
 		"id": "f06b142d-e255-4619-a704-cc46075a71bd",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om uitvoeren van zorgverlenende werkzaamheden.",
 		"id": "756437c0-2369-4611-b70e-06fdd5bd53ee",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om rapporteren van observaties en bijzonderheden.",
 		"id": "d57fa1f9-74a7-42b9-9efc-84e5725a1d16",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om inventariseren van wensen en gewoonten met betrekking tot de uiterlijke verzorging van de klant.",
 		"id": "6e55f920-117c-49dd-affe-c6436e96f0d7",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om opstellen van een plan van aanpak op basis van fysiologische kenmerken van de klant.",
 		"id": "4bdac304-b95e-4050-bf08-93944ab4ef22",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om verzamelen van verzorgende producten, rekening houdend met het milieu.",
 		"id": "a7682ec6-2dfa-417e-a5cf-c101d37de3b7",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om uitvoeren van werkzaamheden met betrekking tot de uiterlijke verzorging van een klant.",
 		"id": "e806d328-51d6-4b22-8d02-813608523b61",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om evalueren van de uitgevoerde werkzaamheden.",
 		"id": "66687bae-aacf-4e59-887a-d606e51c8263",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om opstellen van een recept, rekening houdend met de levensfase, gezondheidstoestand, omstandigheden en achtergrond van de klant.",
 		"id": "4d481224-6a31-4e1f-b36e-cd477992a28b",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om verzamelen van verantwoorde grondstoffen, ingrediënten en tussenproducten.",
 		"id": "79a441a6-37f8-4ede-92a8-86101c3453bd",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om uitvoeren van het recept met behulp van een keukenapparatuur, rekening houdend met kwaliteit en veiligheid.",
 		"id": "7de4f1fe-a3fc-4783-bbae-0e647e4416f0",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Het gaat hierbij om opdienen van een aantrekkelijk gepresenteerde maaltijd.",
 		"id": "338f8e6f-2ed6-4e07-ac05-ec5dfdc14cbb",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
 		"unreleased": true
 	}
 ]
