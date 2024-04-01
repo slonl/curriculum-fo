@@ -2270,5 +2270,86 @@
 		"prefix": "C.17",
 		"id": "14b092c2-4282-48ff-afe5-a5aad3e5161c",
 		"unreleased": true
+	},
+	{
+		"title": "Eindterm 12 - Ontwerpen van een omgeving",
+		"description": "De leerling ontwerpt een deel van een groene leefomgeving.",
+		"fo_uitwerking_id": [
+			"8026203a-e173-446e-b879-cacfa146359d",
+			"fdbdb0f7-f830-4af7-8c54-ffaff8bbd894",
+			"e22ca3aa-dc88-41e5-96db-e427e16d4e0d",
+			"ccab84b1-aa49-4f3b-a9bf-e4c648bc2caa",
+			"93a226dc-22ea-497e-a032-b31eacc20bb1"
+		],
+		"prefix": "C.12",
+		"id": "a45fc86d-35ab-4691-bc44-5d8304b99650",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 13 - Maken van een technisch product",
+		"description": "De leerling maakt een technisch product.",
+		"fo_uitwerking_id": [
+			"d1089ff6-4448-47bd-ad7c-ea9221c18dd3",
+			"4ee4ee15-754d-42e2-b120-ff24973d7b65",
+			"09e64192-46d4-405f-b18a-075b02237b8b",
+			"0e9034d3-d171-44af-b4d0-00cfc30a902e"
+		],
+		"prefix": "C.13",
+		"id": "403e0ed7-0e13-408e-aa7c-60c4c2796c78",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 14 - Maken van een mediaproduct",
+		"description": "De leerling maakt een digitaal mediaproduct.",
+		"fo_uitwerking_id": [
+			"85af7924-8431-4380-a0a0-fe81d4b178e1",
+			"4787874a-9625-40f7-bb90-be0b357be13a",
+			"9943f0d0-6e77-43e1-9321-6fe65a21b5ef",
+			"1f907502-1082-401f-b8c7-8ea1f7df75dd",
+			"140dd634-1c54-475e-a3b7-a03cddae1ec4"
+		],
+		"prefix": "C.14",
+		"id": "2063b323-adf9-4b9f-b2fe-d21da3294b08",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 15 - Adviseren over een proces",
+		"description": "De leerling adviseert over het verbeteren van een proces.",
+		"fo_uitwerking_id": [
+			"fed62942-1120-456f-bdae-d597e85d3fd8",
+			"e79ab8d2-37ac-42a5-ab82-d11b76e73806",
+			"a7f33a84-58fe-4a25-adcc-52f999dc2f02",
+			"7a7e580f-d090-4ffa-a863-9996dc9132a9"
+		],
+		"prefix": "C.15",
+		"id": "ce8ea69d-10d4-4f63-8b00-72d6cd3df41f",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 16 - Adviseren over een evenement",
+		"description": "De leerling adviseert over de organisatie van een evenement.",
+		"fo_uitwerking_id": [
+			"c7786651-9b14-4db3-8e1b-ac72621fb177",
+			"e703307a-08c2-431b-9354-f71e395551f2",
+			"d4a7ab49-4fa2-4ba2-aa89-f51bafbc2dc0",
+			"f622710c-b582-4bb6-ad03-3dbc911225fe"
+		],
+		"prefix": "C.16",
+		"id": "3f3b5cd7-3f2f-4409-b797-970f4f59e9be",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 17 - Organiseren van een activiteit",
+		"description": "De leerling organiseert een sociale activiteit.",
+		"fo_uitwerking_id": [
+			"446b8317-80a8-4c26-b4b9-9e7d2a0f8b8e",
+			"988605de-4d21-40b1-85f2-2498f4eba74d",
+			"7d1547db-e4a3-4144-92d9-5aa66715ac73",
+			"aaecb9e6-a8bd-43bb-ba50-b349138fb563",
+			"3fe49d63-0264-4550-9587-fe523c4cfde3"
+		],
+		"prefix": "C.17",
+		"id": "665becf7-6348-42fb-b908-74264c038021",
+		"unreleased": true
 	}
 ]
