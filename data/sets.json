@@ -120,5 +120,16 @@
 		],
 		"id": "494c2798-7b65-46e5-813f-68a6947b6f05",
 		"unreleased": true
+	},
+	{
+		"title": "Examenprogramma praktijkgericht programma Maritiem en Techniek",
+		"vakleergebied_id": [
+			"36b0661f-9ec6-4b0d-b8b8-8a983eb536d5"
+		],
+		"fo_domein_id": [
+			"459f5d92-7188-4886-9658-1e7f3803b0e4"
+		],
+		"id": "9b392c2a-6ce1-4627-8f66-d7f682d345b9",
+		"unreleased": true
 	}
 ]
