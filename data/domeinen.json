@@ -48,7 +48,8 @@
 		"fo_doelzin_id": [
 			"561469ee-a769-4997-bc6e-e38335eaaf0a",
 			"718ea081-6bc6-45d3-84dc-f8aabf7a13e6",
-			"cd19a94c-1ee9-4360-99f2-1cd65dd19ad5"
+			"cd19a94c-1ee9-4360-99f2-1cd65dd19ad5",
+			"93886e3a-d769-4224-9f8f-2fdeb1905fc8"
 		],
 		"prefix": "A",
 		"id": "60d3f360-a7ba-421f-9f4b-c18a48bd4c13"
@@ -76,7 +77,13 @@
 			"41b01fca-a44f-4762-8132-a089cb0d435b",
 			"fcf77d53-51c9-4535-8887-16b687c12b35",
 			"f266670c-45e1-4dfc-95e4-a9109f1a98c3",
-			"5d08450f-5e0b-4b15-8bb3-e52e5b2e7331"
+			"5d08450f-5e0b-4b15-8bb3-e52e5b2e7331",
+			"19ebbd99-9658-4edc-862c-4a0117dd285f",
+			"2d0132b9-86ed-4b46-8c94-15f2259606c6",
+			"780268c4-5efa-424a-ac71-de00633513fd",
+			"76e7421c-f92f-4f38-84d9-efc2e2f74fe5",
+			"20eade3b-f597-47b9-91c8-4b4cd78f685d",
+			"824219fb-9508-41e6-ae9c-e5a62d4afa30"
 		],
 		"prefix": "B",
 		"id": "f87d2b59-714b-4b94-9dfa-81e49632ad4e"
@@ -96,7 +103,9 @@
 			"b071f771-aae1-4438-9661-85d53ac885d8",
 			"ff4483c9-86da-4de8-8661-b4d4801ebbcf",
 			"56346b00-a8db-472a-983e-0143021570b8",
-			"bdc74166-3003-4deb-b8d8-56a520569564"
+			"bdc74166-3003-4deb-b8d8-56a520569564",
+			"28d6dbbd-9b33-4bb8-bdbe-232c47f4d49a",
+			"0f4c919d-bca5-48f1-bf5e-477fb839697a"
 		],
 		"prefix": "C",
 		"id": "7b38ff3a-19b8-4980-b282-5f27e9bf38c6"
@@ -112,7 +121,10 @@
 			"9c5c8409-4d99-407e-a23c-18fd88d63de4",
 			"d17bf839-dc4f-4de7-b416-12d11a5e0add",
 			"6dea5e47-abc5-40e0-b143-358174ce4db5",
-			"052dd6d2-2732-42a1-b548-8d07a9d1687c"
+			"052dd6d2-2732-42a1-b548-8d07a9d1687c",
+			"41846d7e-ecb0-4a26-93fb-693a444bc4de",
+			"23f99b4d-a3b8-4c0b-a7b6-527036661256",
+			"952009bc-60bc-4de9-8a19-a16aee78028f"
 		],
 		"prefix": "D",
 		"id": "499a6542-3e4b-4595-b9b6-543591e66ae1"
@@ -402,50 +414,6 @@
 		],
 		"prefix": "C",
 		"id": "c1d07b63-95bf-4fc7-96e1-b22a39b7cafa",
-		"unreleased": true
-	},
-	{
-		"title": "Wiskunde en de wereld",
-		"fo_doelzin_id": [
-			"41846d7e-ecb0-4a26-93fb-693a444bc4de",
-			"23f99b4d-a3b8-4c0b-a7b6-527036661256",
-			"952009bc-60bc-4de9-8a19-a16aee78028f"
-		],
-		"prefix": "A",
-		"id": "065765f0-35d4-4474-8ca8-a48b3ee57529",
-		"unreleased": true
-	},
-	{
-		"title": "Wiskundige attitude",
-		"fo_doelzin_id": [
-			"93886e3a-d769-4224-9f8f-2fdeb1905fc8"
-		],
-		"prefix": "B",
-		"id": "4668d944-6a11-466b-b23f-bcb403d50b54",
-		"unreleased": true
-	},
-	{
-		"title": "Wiskundige concepten",
-		"fo_doelzin_id": [
-			"19ebbd99-9658-4edc-862c-4a0117dd285f",
-			"2d0132b9-86ed-4b46-8c94-15f2259606c6",
-			"780268c4-5efa-424a-ac71-de00633513fd",
-			"76e7421c-f92f-4f38-84d9-efc2e2f74fe5",
-			"20eade3b-f597-47b9-91c8-4b4cd78f685d",
-			"824219fb-9508-41e6-ae9c-e5a62d4afa30"
-		],
-		"prefix": "C",
-		"id": "de1c06c5-7936-4657-917f-b4b7ec561166",
-		"unreleased": true
-	},
-	{
-		"title": "Wiskundige denk/werkwijzen",
-		"fo_doelzin_id": [
-			"28d6dbbd-9b33-4bb8-bdbe-232c47f4d49a",
-			"0f4c919d-bca5-48f1-bf5e-477fb839697a"
-		],
-		"prefix": "D",
-		"id": "6d8a2128-2ae4-4f51-969d-20e4038d1b4b",
 		"unreleased": true
 	}
 ]
