@@ -9735,221 +9735,353 @@
 	{
 		"title": "Concept - Het gaat hierbij om herkennen of wiskunde gebruikt kan worden voor het oplossen van een toepassingsprobleem.",
 		"id": "eb67c426-8d11-4087-95ab-62ad935e5e24",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Het gaat hierbij om toepassen van wiskunde in voor de leerling relevante situaties gericht op zelfredzaamheid in wonen, dagbesteding en vrije tijd.",
 		"id": "0b9e1a67-4f44-407e-bbcb-54061e44783e",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Het gaat hierbij om het oplossen van toepassingsproblemen met behulp van wiskundige concepten en wiskundige denk/werkwijzen.",
 		"id": "45a3aa5b-eebd-4a95-8e84-0cc1f26fedc9",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Het gaat hierbij om laten zien dat getallen en andere wiskundige concepten in verschillende leergebieden en praktijkvakken worden toegepast.",
 		"id": "625a82eb-123a-44ef-a4b1-860d6372d275",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Het gaat hierbij om afstemmen hoe rekenwijzen en andere wiskundige aanpakken bij verschillende leergebieden en praktijkvakken worden uitgevoerd.",
 		"id": "fa116ce9-29a8-4209-80a7-ed96ca7a0231",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Het gaat hierbij om toepassen van modelgebruik in andere leergebieden en praktijkvakken.",
 		"id": "3a1fa490-3daa-48a7-85d1-a8f5a2550c79",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Het gaat hierbij om laten zien hoe andere leergebieden wiskundetaal en wiskundige representaties toepassen.",
 		"id": "cf4c7190-520b-42bf-b095-b059aa42773b",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Het gaat hierbij om stimuleren van gebruik van wiskundige instrumenten in andere leergebieden/praktijkvakken.",
 		"id": "7d932e68-5945-41cb-a6e3-e014c922433a",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Het gaat hierbij om aanmoedigen om wiskundetaal en wiskundige representaties te gebruiken die passen bij de verschillende wiskundige concepten.",
 		"id": "e6b63521-a164-4c6f-b96f-5958afd8be7f",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Het gaat hierbij om laten gebruiken van wiskundige instrumenten.",
 		"id": "6ecbfb08-c9b4-4782-9ec8-abe38eac8d64",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Het gaat hierbij om aanbieden van toepassingsproblemen waarbinnen verschillende wiskundige concepten samenkomen.",
 		"id": "a5dff4d6-6edc-47bc-bbb9-d97e81595d25",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Het gaat hierbij om stimuleren van het gebruik van modellen bij verschillende wiskundige concepten.",
 		"id": "e80258fa-e11d-491e-b174-6ed7919b0126",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Het gaat hierbij om laten zien van het nut en de kracht van rekenen en wiskunde in toepassingen.",
 		"id": "45813c85-231f-4ce3-8ca9-2aaf16c0e1b7",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Het gaat hierbij om stimuleren van een onderzoekende houding ten aanzien van getallen en andere wiskundige concepten.",
 		"id": "28dd0454-1900-44b4-acca-065fcd58ace0",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Het gaat hierbij om stimuleren om te reflecteren op eigen rekenwijze en overig wiskundig handelen.",
 		"id": "e93d1f52-d08a-40db-9605-26e78b871892",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Het gaat hierbij om stimuleren van transfer van kennis, inzichten en vaardigheden bij het toepassen van wiskundige concepten en wiskundige denk/werkwijzen.",
 		"id": "5878db1f-d26b-454c-9e5a-6731ab8c3b20",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Het gaat hierbij om herkennen van getallen als weergave van hoeveelheden.",
 		"id": "45b82c71-40a6-4c0e-a977-076cc0979895",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Het gaat hierbij om tellen en benoemen van hoeveelheden.",
 		"id": "f81bfd54-0b2f-4d82-9fd0-7d545f295d38",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Het gaat hierbij om uitvoeren van bewerkingen met hoeveelheden en getallen.",
 		"id": "58fec1c4-444a-44b9-8e2d-f83e53961d92",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Het gaat hierbij om rekenen met passende rekenvormen.",
 		"id": "9c3bd4ab-b420-479d-a760-232ddc0a5985",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Het gaat hierbij om herkennen van verhoudingen met eenvoudige getallen in concrete situaties.",
 		"id": "f6980fa6-61c5-4fbb-8df9-3755959646ec",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Het gaat hierbij om onderzoeken van verhoudingsproblemen.",
 		"id": "dd8daf0b-f71a-4494-8983-fce62df848f3",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Het gaat hierbij om relaties leggen tussen verhoudingen met eenvoudige getallen en gangbare percentages.",
 		"id": "484d9406-d8b0-4e8f-9a84-f32051090244",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Het gaat hierbij om kennen van de grootheden lengte, oppervlakte, inhoud, gewicht en temperatuur.",
 		"id": "da66e653-6a04-47b7-9612-90fd787c1e22",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Het gaat hierbij om rekenen met lengte, inhoud, gewicht en temperatuur.",
 		"id": "742f9bf7-9732-4f78-b7ce-f09433a3b71d",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Het gaat hierbij om toepassen van gangbare standaardmaten.",
 		"id": "beb6cac2-caad-425b-a8ef-96484faf3778",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Het gaat hierbij om schatten en controleren op basis van referentiematen en meetreferenties.",
 		"id": "28e61eca-7661-4fd8-a70c-3ca13250af86",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Het gaat hierbij om kennen en relateren van tijdsaanduidingen aan voor de leerling relevante situaties.",
 		"id": "1bc7d51e-624a-4b72-804f-a7bc93cd2336",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Het gaat hierbij om herkennen en toepassen van tijdsbegrippen en tijdseenheden.",
 		"id": "057af9e5-2815-44c9-8149-2570ff92a53d",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Het gaat hierbij om aflezen en gebruiken van meetinstrumenten voor tijd.",
 		"id": "63d3a427-cedc-4672-a0e7-56ec04d78231",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Het gaat hierbij om begrijpen dat je geld kunt gebruiken om iets te kopen en te betalen.",
 		"id": "98784d22-a907-4d5d-8229-296e3f59fc7f",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Het gaat hierbij om bepalen van de waarde van munten en biljetten.",
 		"id": "3d3b5b1c-db7d-4c2f-bdaf-02953f47fb44",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Het gaat hierbij om herkennen en gebruiken van gangbare betaalmiddelen.",
 		"id": "27550367-0f10-44dc-9574-652472dcfff4",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Het gaat hierbij om rekenen met geldbedragen en referentiebedragen.",
 		"id": "62321cf1-d8e6-4ad5-8e3c-b877ce0a38d9",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Het gaat hierbij om herkennen en benoemen van meetkundige figuren en begrippen.",
 		"id": "89e8dba5-66b3-428a-8c6a-8ee04777be0f",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Het gaat hierbij om herkennen en ervaren van begrippen voor ruimtelijke oriëntatie en plaatsbepaling.",
 		"id": "49b9a675-a485-4ef8-8bfe-a72b1c8aecf6",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Het gaat hierbij om oriënteren en verplaatsen in de ruimte.",
 		"id": "670165df-039c-4e37-a28d-6163ec45f122",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Het gaat hierbij om herkennen en onderzoeken van een meetkundig patroon.",
 		"id": "a9566faf-bff1-447e-8605-585238e8c770",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Het gaat hierbij om kennen en toepassen van gangbare wiskundige begrippen en symbolen.",
 		"id": "b356ca46-e806-4c4b-87fe-b3ad1dcc0661",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Het gaat hierbij om kennen en toepassen van eenvoudige wiskundige representaties.",
 		"id": "d8dd7878-89f8-4157-a623-b0d0ddd28a07",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Het gaat hierbij om aan elkaar relateren van getalsymbolen, telwoorden, representaties en hoeveelheden.",
 		"id": "dfbb8824-f815-44e6-971a-ec568ae46b08",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Het gaat hierbij om hanteren van een instrument en bijbehorende wiskundetaal.",
 		"id": "fa9796f8-199d-40a5-80ae-81023f9f53c2",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Het gaat hierbij om kiezen voor gebruik van een passend instrument.",
 		"id": "5971aea6-06ec-4fe7-a8a9-6b46243528f9",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Het gaat hierbij om bepalen, interpreteren en beoordelen van het resultaat.",
 		"id": "9692c4ef-513a-497c-ae34-def81c9e430d",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	}
 ]

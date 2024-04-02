@@ -5533,246 +5533,393 @@
 	{
 		"title": "Concept - Te denken valt aan gebruiken van getallen bij praktishe handelingen met hoeveelheden.",
 		"id": "a19de616-39af-42a8-ae27-7324d91b0bbe",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan gebruiken van getalreferenties en meetreferenties om ontbrekende gegevens in te schatten.",
 		"id": "d5738a21-32de-4d97-a319-bd5c3a05f7bf",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept  - Te denken valt aan betekenis geven aan de uitkomsten van berekeningen bij toepassingsproblemen.",
 		"id": "4e435486-0250-4e55-a2c3-f25d92f1adfc",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan inzetten van wiskundige instrumenten om berekeningen bij toepassingsproblemen uit te voeren.",
 		"id": "9ae3f4d9-64af-45e6-bbfc-97b5938502e0",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan laten zien van patronen en structuren in kunst en creatieve uitingen.",
 		"id": "4d328c70-8bbd-43c6-a3e1-eb77fc4792e9",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan relateren van een tijdbalk aan de getallenlijn.",
 		"id": "fcc50a09-7b0e-4cce-894e-d4248e17b067",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan gebruiken van de wiskundige structuren in plattegronden en kaarten.",
 		"id": "fefe20ab-ea4d-4773-bb29-6ee716494bb4",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan aanbieden van formele wiskundetaal als vervanging van informeel taalgebruik bij toepassingsproblemen.",
 		"id": "394d5804-c6c6-48c9-b730-0d92eb7da5ff",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan aanbieden van ruimtelijke structuren om aantallen te overzien.",
 		"id": "195823b1-070c-4f34-9a66-977551e8ddc1",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan het expliciet laten zien van verbindingen tussen verschillende representaties, zoals cijfersymbolen en notaties van hoeveelheden.",
 		"id": "a547b751-673b-4eff-b483-cef8d6ef4142",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan stimuleren om betekenis te geven aan getallen in de context van meten en geld.",
 		"id": "5105c2ec-45de-4482-b59b-d42ede5c179a",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan organiseren van activiteiten binnen en buiten school die bij leerlingen het plezier in rekenen en wiskunde stimuleren.",
 		"id": "3ea2423b-b299-4317-a67a-471e0223dab1",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan verbinden van interesses en relevante situaties van leerlingen aan wiskundige concepten en denk/werkwijzen.",
 		"id": "0490d34a-ede8-43a3-b804-a81adcdf4e9c",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan bespreken van ideeën, aanpakken en vragen van leerlingen.",
 		"id": "5eeea6ca-0665-4d8f-b5a2-fd68c86c24e6",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken val aan aanbieden van rijke rekenvragen.",
 		"id": "b14a7e6c-752d-4f15-816d-b7bc29f67a70",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan aanbieden van verschillende en nieuwe situaties om transfer te stimuleren.",
 		"id": "a3c3f83d-40f6-491f-bdb3-a30fb2a2845c",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan eigenschappen van getallen, zoals even/oneven, verschijningsvormen van getallen, zoals hoeveelheidsgetal en meetgetal, en het onderscheid tussen getallen en cijfers.",
 		"id": "b4dda08a-9989-4889-8e6d-793fe706337e",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan betekenis geven aan negatieve getallen zoals bij temperatuur en geld.",
 		"id": "1b2049c1-1ff5-4c03-9fc1-8fbc245345e5",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan heen en terugtellen, ook met sprongen en de getallenlijn.",
 		"id": "c2612a6c-4d0f-4765-9111-55b64e1385bc",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan getalrelaties, splitsingen van getallen, vergelijken, ordenen, optellen, aftrekken, vermenigvuldigen en delen inzetten bij toepassingsproblemen.",
 		"id": "8301e53b-0c86-4a14-890f-b82027e621d7",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan rekenvormen: schriftelijk rekenen en/of rekenen met de rekenmachine.",
 		"id": "3b96bf29-aff9-46e1-83df-abe37ff95464",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan rekenwijze: rekenen met eigenschappen van getallen en bewerkingen.",
 		"id": "9d2e4495-cf9e-4805-86cb-c4a73aae1cc9",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan verschijningsvormen van verhoudingen, zoals recepten.",
 		"id": "57e8dbde-b76a-42a9-8d49-06363a23900f",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan gebruiken van een verhoudingstabel bij het onderzoeken van verhoudingsproblemen.",
 		"id": "1962d542-830e-45ef-9867-010178529f3d",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan herkennen van gangbare percentages.",
 		"id": "89f034e9-3115-4f9f-8245-7bd914ae525b",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan herkennen van eenvoudige relaties, zoals 50% is hetzelfde als de helft of delen door 2.",
 		"id": "a2622e22-2630-4b1e-be05-6d8204caf848",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan verbinden van meetbegrippen aan de grootheden, zoals warm/koud bij temperatuur.",
 		"id": "040f1a79-0788-4f35-9bee-f77ea217fba5",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan meten met meetinstrumenten om betekenis te geven aan grootheden en eenheden.",
 		"id": "458a1504-f473-4149-b8f2-d1ba2bd8a629",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan toepassen van standaardmaten, zoals meter (m), kilogram (kg), liter (L) en graden (°C).",
 		"id": "9bf015dc-e187-4838-af45-937793105a3e",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan meetreferenties en referentiematen, zoals: een pak suiker weegt 1 kg, in een pak melk zit 1 liter.",
 		"id": "e11942b5-61e6-491a-ac91-e247594d8dee",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan verbinden van tijdstippen/volgorde aan een eigen dagindeling.",
 		"id": "a757d504-620e-4831-a838-c64fc5fe0600",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan tijdsbeleving en het toepassen van referenties voor tijdsduur: het duurt ongeveer…",
 		"id": "26bc7989-9cd6-4776-803c-dde064a079a1",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan eenvoudige berekeningen met tijdseenheden, zoals minuut en jaar.",
 		"id": "a2ed7c15-cb8b-4394-a2c8-a1f51678fbff",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan omgaan met tijdnotatie op bijvoorbeeld klok, wekker, kalender en in een agenda.",
 		"id": "60f4534d-b196-465e-aea5-f8e3d8a870d1",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan samenstellen van geldbedragen uit munten of biljetten.",
 		"id": "c2e34cb0-b66f-4978-9802-934829d91cc2",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan verschillende betaalmogelijkheden, zoals contant en met pinpas.",
 		"id": "bae7c42a-80e6-4ba8-b750-125e5e1f84be",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan noteren, aflezen en vergelijken van geldbedragen, ook met eurocenten.",
 		"id": "fe9d30f1-733b-497c-9f5a-575c5e1ba228",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan inwisselen en teruggeven van geld.",
 		"id": "4377ac60-9373-4ee8-b43d-ec5a63eafff6",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan het toepassen van referentiebedragen: een brood kost ongeveer ….",
 		"id": "2012d938-ea58-4a53-b2b7-e160a5bcac32",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan eenvoudige meetkundige figuren zoals rechthoek en kubus.",
 		"id": "9c0dbdb8-301d-448c-ab27-dba3d00619f8",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan uitvoeren van eenvoudige driedimensionale figuren vanuit tweedimensionale representaties zoals blokkenbouwsels.",
 		"id": "fec08cf5-8d12-478f-b8dd-5d49e553b55e",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan toepassen van begrippen voor ruimtelijke oriëntatie zoals links en rechts, bijvoorbeeld bij routes binnen en buiten de school.",
 		"id": "657e16d8-db6f-4fcc-bb8b-1d43c4bbfd81",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan uitvoeren van een patroon van (ruimtelijke) handelingen, zoals het voorzetten van een structuur/reeks.",
 		"id": "7f97b43f-c79c-4c81-8055-4358af823db1",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan wiskundige begrippen, zoals meer, minder, groot, klein en half.",
 		"id": "24f3ac36-73b9-4537-8d31-1fb84240aaed",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan wiskundige symbolen, zoals + en –.",
 		"id": "dd2b2949-aca2-418e-af54-b87d710bf0ae",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan wiskundige representaties, zoals getallenlijn en schema.",
 		"id": "c39d9182-5713-4630-b1f5-ae7a566d5aa5",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan kennen van getalbeelden.",
 		"id": "d6e87b7b-1c50-44f6-a1f5-7181af97b7b3",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan gebruiken van passende (digitale) meetinstrumenten, zoals rolmaat, weegschaal en planner.",
 		"id": "45736f59-d314-442d-9872-7d197b5ed49a",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	},
 	{
 		"title": "Concept - Te denken valt aan rekenen met de rekenmachine.",
 		"id": "664fe4fd-67cb-41a1-aa96-6815be34a3c2",
+		"niveau_id": [
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		],
 		"unreleased": true
 	}
 ]
