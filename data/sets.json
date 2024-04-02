@@ -249,5 +249,19 @@
 		],
 		"id": "cbc7bfbe-839f-4e91-a354-d1a08378a174",
 		"unreleased": true
+	},
+	{
+		"title": "Kerndoelenset Rekenen en wiskunde functioneel",
+		"vakleergebied_id": [
+			"fdd97fff-f5e5-4b82-b937-9ab302666c50"
+		],
+		"fo_domein_id": [
+			"757e5ac9-38ad-49db-b918-f12dd9d28c79",
+			"4ba79e90-1bbb-4fbb-8e00-061202592615",
+			"4855937e-4f20-4567-8f15-e5865574af91",
+			"0131d3ce-a636-4917-9dc5-0026adade560"
+		],
+		"id": "08bae5ca-4195-418c-91c3-69b9bfe4aa7c",
+		"unreleased": true
 	}
 ]
