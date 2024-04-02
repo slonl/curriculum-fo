@@ -20,9 +20,7 @@
 		"title": "Communicatie",
 		"fo_subdomein_id": [
 			"ec631940-2fa2-4104-8534-48c321938064",
-			"c06ef855-4173-4098-8093-faf2fc662a3d",
-			"cd744938-58bf-496c-842a-af94e201839f",
-			"2d07d0cf-b900-4a0b-9cde-6f7dd64683aa"
+			"c06ef855-4173-4098-8093-faf2fc662a3d"
 		],
 		"prefix": "A",
 		"id": "eabb7766-d2b2-4e03-a296-234330510a63"
@@ -31,9 +29,7 @@
 		"title": "Taal",
 		"fo_subdomein_id": [
 			"7d7429dc-a684-402b-9de2-70cbde32fe2e",
-			"c4bc56e6-5bf7-4f82-8cb8-e87e4874d262",
-			"cec0a23d-0151-4886-a64e-b7ab8b0cdc8b",
-			"32e8ccab-c600-4f9d-bbc9-305c64f1828c"
+			"c4bc56e6-5bf7-4f82-8cb8-e87e4874d262"
 		],
 		"prefix": "B",
 		"id": "6d328b4b-a3b9-4080-a92e-de84b802907b"
@@ -42,9 +38,7 @@
 		"title": "Literatuur",
 		"fo_subdomein_id": [
 			"fcfd6fc2-8c96-4899-baa4-c891ed5cfc30",
-			"0c5615c5-79a0-4e1e-9514-37d37483c4d4",
-			"11d4bead-ccc1-48e8-b356-b838e9098797",
-			"76dfccfe-54cd-4647-9a21-ca3b0e86d05f"
+			"0c5615c5-79a0-4e1e-9514-37d37483c4d4"
 		],
 		"prefix": "C",
 		"id": "5d0676d3-fbea-4ab9-8ce1-fb1b3a622236"
