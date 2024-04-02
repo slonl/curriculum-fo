@@ -385,5 +385,49 @@
 		"prefix": "C",
 		"id": "c1d07b63-95bf-4fc7-96e1-b22a39b7cafa",
 		"unreleased": true
+	},
+	{
+		"title": "Overstijgend",
+		"fo_doelzin_id": [
+			"d7c79eed-21bc-4fcd-95d2-c06bbc385de3",
+			"fad80cde-0118-4d43-a2cb-e9efb8c93b53",
+			"aece0d72-7e20-435d-a178-9b0a7a469e06",
+			"37d96134-8fc2-4d58-9e66-df764a836c98",
+			"574c105c-14bc-479d-a620-dd583aaa488c",
+			"6ddfa8f2-7c22-41fc-8a34-8e1c795b709f"
+		],
+		"prefix": "O",
+		"id": "71be4e71-fcec-4538-8593-b0924efc196e",
+		"unreleased": true
+	},
+	{
+		"title": "Communicatie",
+		"fo_subdomein_id": [
+			"cd744938-58bf-496c-842a-af94e201839f",
+			"2d07d0cf-b900-4a0b-9cde-6f7dd64683aa"
+		],
+		"prefix": "A",
+		"id": "f422e64f-a97b-4944-a8d9-0da828301fb4",
+		"unreleased": true
+	},
+	{
+		"title": "Taal",
+		"fo_subdomein_id": [
+			"cec0a23d-0151-4886-a64e-b7ab8b0cdc8b",
+			"32e8ccab-c600-4f9d-bbc9-305c64f1828c"
+		],
+		"prefix": "B",
+		"id": "69e5d03c-5f12-4e10-966f-7246a40df765",
+		"unreleased": true
+	},
+	{
+		"title": "Literatuur",
+		"fo_subdomein_id": [
+			"11d4bead-ccc1-48e8-b356-b838e9098797",
+			"76dfccfe-54cd-4647-9a21-ca3b0e86d05f"
+		],
+		"prefix": "C",
+		"id": "262648af-90b8-42c1-ab1e-d814221003ab",
+		"unreleased": true
 	}
 ]
