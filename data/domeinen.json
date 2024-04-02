@@ -5,7 +5,13 @@
 			"efff8a4b-cbd5-4775-aa8f-0d3f98733e6b",
 			"ef048d52-0a42-4dd1-a529-ca059c3572bf",
 			"9f550d27-58cf-4252-8b6b-ff8246c8eca6",
-			"51cea2c3-4e4c-443f-8975-3f4501a51af3"
+			"51cea2c3-4e4c-443f-8975-3f4501a51af3",
+			"d7c79eed-21bc-4fcd-95d2-c06bbc385de3",
+			"fad80cde-0118-4d43-a2cb-e9efb8c93b53",
+			"aece0d72-7e20-435d-a178-9b0a7a469e06",
+			"37d96134-8fc2-4d58-9e66-df764a836c98",
+			"574c105c-14bc-479d-a620-dd583aaa488c",
+			"6ddfa8f2-7c22-41fc-8a34-8e1c795b709f"
 		],
 		"prefix": "O",
 		"id": "0d2e4fb8-cc61-427d-8ce7-ef6a2bf12e5e"
@@ -14,7 +20,9 @@
 		"title": "Communicatie",
 		"fo_subdomein_id": [
 			"ec631940-2fa2-4104-8534-48c321938064",
-			"c06ef855-4173-4098-8093-faf2fc662a3d"
+			"c06ef855-4173-4098-8093-faf2fc662a3d",
+			"cd744938-58bf-496c-842a-af94e201839f",
+			"2d07d0cf-b900-4a0b-9cde-6f7dd64683aa"
 		],
 		"prefix": "A",
 		"id": "eabb7766-d2b2-4e03-a296-234330510a63"
@@ -23,7 +31,9 @@
 		"title": "Taal",
 		"fo_subdomein_id": [
 			"7d7429dc-a684-402b-9de2-70cbde32fe2e",
-			"c4bc56e6-5bf7-4f82-8cb8-e87e4874d262"
+			"c4bc56e6-5bf7-4f82-8cb8-e87e4874d262",
+			"cec0a23d-0151-4886-a64e-b7ab8b0cdc8b",
+			"32e8ccab-c600-4f9d-bbc9-305c64f1828c"
 		],
 		"prefix": "B",
 		"id": "6d328b4b-a3b9-4080-a92e-de84b802907b"
@@ -32,7 +42,9 @@
 		"title": "Literatuur",
 		"fo_subdomein_id": [
 			"fcfd6fc2-8c96-4899-baa4-c891ed5cfc30",
-			"0c5615c5-79a0-4e1e-9514-37d37483c4d4"
+			"0c5615c5-79a0-4e1e-9514-37d37483c4d4",
+			"11d4bead-ccc1-48e8-b356-b838e9098797",
+			"76dfccfe-54cd-4647-9a21-ca3b0e86d05f"
 		],
 		"prefix": "C",
 		"id": "5d0676d3-fbea-4ab9-8ce1-fb1b3a622236"
@@ -41,7 +53,8 @@
 		"title": "Wiskundige attitude",
 		"fo_doelzin_id": [
 			"561469ee-a769-4997-bc6e-e38335eaaf0a",
-			"718ea081-6bc6-45d3-84dc-f8aabf7a13e6"
+			"718ea081-6bc6-45d3-84dc-f8aabf7a13e6",
+			"cd19a94c-1ee9-4360-99f2-1cd65dd19ad5"
 		],
 		"prefix": "A",
 		"id": "60d3f360-a7ba-421f-9f4b-c18a48bd4c13"
@@ -63,7 +76,13 @@
 			"33766238-41bd-46d5-8462-15075b1e330f",
 			"0ed7e779-7884-4848-9bec-89e51dfcf572",
 			"bbd09b8c-1618-4c7c-baf9-34b206a6cf7f",
-			"f1c491e6-16f5-45c5-a28a-44654d660085"
+			"f1c491e6-16f5-45c5-a28a-44654d660085",
+			"4b246ec4-1ed8-4c52-b43e-5ab6a1c0424e",
+			"fe1bfa69-3e07-4789-b59a-9dff4430d896",
+			"41b01fca-a44f-4762-8132-a089cb0d435b",
+			"fcf77d53-51c9-4535-8887-16b687c12b35",
+			"f266670c-45e1-4dfc-95e4-a9109f1a98c3",
+			"5d08450f-5e0b-4b15-8bb3-e52e5b2e7331"
 		],
 		"prefix": "B",
 		"id": "f87d2b59-714b-4b94-9dfa-81e49632ad4e"
@@ -81,7 +100,9 @@
 			"6cabfbd4-c370-47fb-9144-776e7bf4cd5f",
 			"62a0730b-8c50-43f7-a6cd-3342d0c0607f",
 			"b071f771-aae1-4438-9661-85d53ac885d8",
-			"ff4483c9-86da-4de8-8661-b4d4801ebbcf"
+			"ff4483c9-86da-4de8-8661-b4d4801ebbcf",
+			"56346b00-a8db-472a-983e-0143021570b8",
+			"bdc74166-3003-4deb-b8d8-56a520569564"
 		],
 		"prefix": "C",
 		"id": "7b38ff3a-19b8-4980-b282-5f27e9bf38c6"
@@ -94,7 +115,10 @@
 			"7c5743b8-2c72-4fbd-b308-a3eea257ce07",
 			"24509a03-2564-48bc-80ff-5df287166046",
 			"ec3fe6d1-5f47-425f-8075-df6b98c605b7",
-			"9c5c8409-4d99-407e-a23c-18fd88d63de4"
+			"9c5c8409-4d99-407e-a23c-18fd88d63de4",
+			"d17bf839-dc4f-4de7-b416-12d11a5e0add",
+			"6dea5e47-abc5-40e0-b143-358174ce4db5",
+			"052dd6d2-2732-42a1-b548-8d07a9d1687c"
 		],
 		"prefix": "D",
 		"id": "499a6542-3e4b-4595-b9b6-543591e66ae1"
@@ -384,94 +408,6 @@
 		],
 		"prefix": "C",
 		"id": "c1d07b63-95bf-4fc7-96e1-b22a39b7cafa",
-		"unreleased": true
-	},
-	{
-		"title": "Overstijgend",
-		"fo_doelzin_id": [
-			"d7c79eed-21bc-4fcd-95d2-c06bbc385de3",
-			"fad80cde-0118-4d43-a2cb-e9efb8c93b53",
-			"aece0d72-7e20-435d-a178-9b0a7a469e06",
-			"37d96134-8fc2-4d58-9e66-df764a836c98",
-			"574c105c-14bc-479d-a620-dd583aaa488c",
-			"6ddfa8f2-7c22-41fc-8a34-8e1c795b709f"
-		],
-		"prefix": "O",
-		"id": "71be4e71-fcec-4538-8593-b0924efc196e",
-		"unreleased": true
-	},
-	{
-		"title": "Communicatie",
-		"fo_subdomein_id": [
-			"cd744938-58bf-496c-842a-af94e201839f",
-			"2d07d0cf-b900-4a0b-9cde-6f7dd64683aa"
-		],
-		"prefix": "A",
-		"id": "f422e64f-a97b-4944-a8d9-0da828301fb4",
-		"unreleased": true
-	},
-	{
-		"title": "Taal",
-		"fo_subdomein_id": [
-			"cec0a23d-0151-4886-a64e-b7ab8b0cdc8b",
-			"32e8ccab-c600-4f9d-bbc9-305c64f1828c"
-		],
-		"prefix": "B",
-		"id": "69e5d03c-5f12-4e10-966f-7246a40df765",
-		"unreleased": true
-	},
-	{
-		"title": "Literatuur",
-		"fo_subdomein_id": [
-			"11d4bead-ccc1-48e8-b356-b838e9098797",
-			"76dfccfe-54cd-4647-9a21-ca3b0e86d05f"
-		],
-		"prefix": "C",
-		"id": "262648af-90b8-42c1-ab1e-d814221003ab",
-		"unreleased": true
-	},
-	{
-		"title": "Wiskunde en de wereld",
-		"fo_doelzin_id": [
-			"d17bf839-dc4f-4de7-b416-12d11a5e0add",
-			"6dea5e47-abc5-40e0-b143-358174ce4db5",
-			"052dd6d2-2732-42a1-b548-8d07a9d1687c"
-		],
-		"prefix": "A",
-		"id": "9baa9a1e-5594-46f9-8d4d-b7f99b840e37",
-		"unreleased": true
-	},
-	{
-		"title": "Wiskundige attitude",
-		"fo_doelzin_id": [
-			"cd19a94c-1ee9-4360-99f2-1cd65dd19ad5"
-		],
-		"prefix": "B",
-		"id": "4900345b-07c3-4eba-bdc4-f7262b34d65e",
-		"unreleased": true
-	},
-	{
-		"title": "Wiskundige concepten",
-		"fo_doelzin_id": [
-			"4b246ec4-1ed8-4c52-b43e-5ab6a1c0424e",
-			"fe1bfa69-3e07-4789-b59a-9dff4430d896",
-			"41b01fca-a44f-4762-8132-a089cb0d435b",
-			"fcf77d53-51c9-4535-8887-16b687c12b35",
-			"f266670c-45e1-4dfc-95e4-a9109f1a98c3",
-			"5d08450f-5e0b-4b15-8bb3-e52e5b2e7331"
-		],
-		"prefix": "C",
-		"id": "6de35bd3-ddb9-4966-8e8d-432daad76b9b",
-		"unreleased": true
-	},
-	{
-		"title": "Wiskundige denk/werkwijzen",
-		"fo_doelzin_id": [
-			"56346b00-a8db-472a-983e-0143021570b8",
-			"bdc74166-3003-4deb-b8d8-56a520569564"
-		],
-		"prefix": "D",
-		"id": "bfdff81c-30a2-4d60-91fb-5dc7cacd456f",
 		"unreleased": true
 	}
 ]
