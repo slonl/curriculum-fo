@@ -70,7 +70,7 @@
 						},
 						"prefix": { "type": "string" }
 					},
-					"required": ["id", "title"]
+					"required": ["id", "title","fo_doelzin_id"]
 				}
 			]
 		},
