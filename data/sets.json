@@ -221,5 +221,19 @@
 		],
 		"id": "e4ea5f53-4bad-431f-84f8-f4141dbe6d76",
 		"unreleased": true
+	},
+	{
+		"title": "Functionele kerndoelen Nederlands (concept)",
+		"vakleergebied_id": [
+			"e41b8c50-d002-4a9f-be8b-9b5da0008656"
+		],
+		"fo_domein_id": [
+			"71be4e71-fcec-4538-8593-b0924efc196e",
+			"f422e64f-a97b-4944-a8d9-0da828301fb4",
+			"69e5d03c-5f12-4e10-966f-7246a40df765",
+			"262648af-90b8-42c1-ab1e-d814221003ab"
+		],
+		"id": "9565d806-bf8a-410d-a7e4-05430f3fa56f",
+		"unreleased": true
 	}
 ]
