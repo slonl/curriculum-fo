@@ -3921,5 +3921,535 @@
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
 		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan benutten van een thematafel met rijke teksten rondom een actueel thema.",
+		"id": "585fe9a7-be4c-49f9-948f-3128bfd869e9",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan verdiepen van de betekenis van een verhaal door bij het boek ook de verfilming aan te bieden.",
+		"id": "b2d54980-9244-4e82-aa87-432acc3a7317",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan deelnemen aan leesbevorderingsactiviteiten binnen en buiten de school.",
+		"id": "b2c6ee91-d16b-4426-80f0-25835dc14b31",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan deelnemen aan leesbevorderingsactiviteiten zowel binnen als buiten de school.",
+		"id": "ce73b2ea-8c55-45d1-8019-4459cb3b3263",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan benutten van een thematafel met rijke teksten rondom een thema dat aansluit bij de domeinen wonen, vrije tijd en burgerschap.",
+		"id": "3373f556-0489-4d1d-8035-6c8050730012",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan deelnemen aan leesbevorderingsactiviteiten binnen en buiten de school.",
+		"id": "443cd4b7-7dd4-4169-8e3e-ae1ed6d33ed2",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan benutten van een thematafel met rijke teksten rondom een thema dat aansluit bij de domeinen wonen, vrije tijd en burgerschap.",
+		"id": "e0d8ee1c-3cf2-4efc-9520-de12728c129e",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan deelnemen aan leesbevorderingsactiviteiten binnen en buiten de school.",
+		"id": "f05b8399-3e28-40d6-8989-de021c54d202",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan uitnodigen van beroepsbeoefenaars in de klas.",
+		"id": "28a96428-33ad-419e-948b-415907bc0a2c",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan voor langere tijd werken aan een breed thema, met teksten in allerlei verschijningsvormen.",
+		"id": "54d0e583-cf29-4c5d-8152-7b4b828e3265",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan voor langere tijd werken aan een breed thema, met teksten in allerlei verschijningsvormen.",
+		"id": "7e34ac22-d15a-41d1-ad4b-cfa3e23e14df",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan voor langere tijd werken aan een breed thema, met teksten in allerlei verschijningsvormen.",
+		"id": "154d6d38-4448-4154-bb90-5229d9b9a302",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan met concrete verwijzers vertellen waar een (voor)gelezen of verteld verhaal over ging.",
+		"id": "3efe141c-d809-44dc-a74e-650711cd7ec1",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan afleiden van woorden uit de context.",
+		"id": "8d85de41-77bf-4aa4-8e6a-9d1cd86bb216",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan verdiepen van kennis over een onderwerp door verschillende teksten over dit onderwerp te lezen, beluisteren of bekijken.",
+		"id": "1cdfb78d-82d9-428f-a222-80e737968732",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan pictogrammen, passend bij een bekeken of beluisterde instructie, in de juiste volgorde leggen.",
+		"id": "564d7a80-d9d3-4d1c-90cf-8fab52c1b8ed",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan het volgen van een stappenplan bij een praktijkvak.",
+		"id": "09ca313b-ee31-4f9a-9b7b-60c4286221bd",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan herkennen van belangrijke woorden in een tekst.",
+		"id": "1bbe0bc1-7dbe-4f30-9497-04696fadf118",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan tonen van begrip door het maken van aantekeningen passend bij het luisterdoel tijdens het luisteren naar een padcast.",
+		"id": "2bfd10aa-3512-480a-b86e-79455d6d8299",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan het volgen van een stappenplan bij een praktijkvak.",
+		"id": "8338cff8-5794-4085-a18d-39843bfa435a",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan structureren en ordenen van informatie over een onderwerp op basis van een tekst.",
+		"id": "2aa7b75f-410e-4ac5-be7d-310e0f3ed347",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan bespreken van de inhoudelijke verwachtingen bij het aanklikken van een hyperlink in een tekst.",
+		"id": "a0670f1b-22de-4095-ab4f-07bbeb3c1621",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan maken van een tekst in de vorm van symbolen voor een bekende.",
+		"id": "0c23347e-da72-429c-bfea-71d7253e23cd",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan uitleggen van een spelletje aan een ander.",
+		"id": "c6ef2a93-0633-4c84-9ff7-e4235456da08",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan spelen van een rollenspel, waarbij je je uitdrukt in mondelinge taal, gebaren en/of andere uitingsvormen.",
+		"id": "69f18aff-cb6f-471b-bb41-57fccfec91e0",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan maken van een tekst in de vorm van pictogrammen voor een bekende.",
+		"id": "15ab68e6-0e01-4c1c-873d-4dab6e031d00",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan opstellen van een e-mail om iemand te bedanken.",
+		"id": "76fdbd03-c7e5-40e0-a7ed-69c7adc932da",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan voorbereiden van inhoud, doel en uitvoering van een eigen voordracht bij een bijzondere gelegenheid.",
+		"id": "2b800a03-5d10-4e19-b9f4-e04c878df6af",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan maken van een portfolio op basis van je ontwikkeling.",
+		"id": "2eacdb39-4618-42f3-a891-77e8a2c3c7c8",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan maken van een instructie voor een bekend publiek.",
+		"id": "ba4eee55-bc87-424f-8233-390bd38fc724",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan invullen van formulieren en werkbriefjes.",
+		"id": "062f98c7-29bd-426a-ac53-918342fe43c7",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan houden van een kort betoog over een alledaags of werkgerelateerd onderwerp om je mening over te brengen.",
+		"id": "d49e0b8e-2055-4713-8b58-bafe088d3773",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan beschrijven in een portfolio hoe je jezelf verder wilt ontwikkelen.",
+		"id": "23f8b17e-37d4-43b8-bfb7-c956d1663da9",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan vrij spreken of gebaren in een gedicht over een eigen ervaring.",
+		"id": "85c7dac3-81d1-4d1f-822d-7e523cd63384",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan eigen gevoelens uiten en delen met anderen, waarin taal gecombineerd wordt met beeld, geluid, klank of beweging.",
+		"id": "57c7158c-874a-45a7-9acc-d58867d86fb2",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan maken van een verhaal met behulp van concrete verwijzers over een zelfgekozen onderwerp.",
+		"id": "1f9a5031-c0e6-4aec-a5fb-7f2f37ae1aae",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan vertellen van een grap aan een ander, op verschillende manieren.",
+		"id": "6049f3c9-d16c-45cf-899e-b54a8fd47a71",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan maken van een rap over gevoelens of ervaringen.",
+		"id": "704d081d-5837-4e16-823c-cfa474b46abb",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan creatief verwerken van een taaluiting in de thuistaal op een poster.",
+		"id": "80586041-1172-47b6-b59c-c92fad849a2f",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan vertellen van een grap aan een ander, op verschillende manieren.",
+		"id": "9df3b91e-4e96-4dbc-a36d-b6d274a2a4c1",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan beoordelen van informatie op waarheid, bijvoorbeeld uit (prenten)boeken, illustraties en filmpjes passend bij een thema.",
+		"id": "7d2a81a3-00a0-4dde-be0e-c80cc4366d12",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan geven van een mening naar aanleiding van een bekeken programma.",
+		"id": "8f91783b-197e-4b4e-bc04-8e1a752960f4",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan geven van een mening en/of trekken van een conclusie op basis van voldoende betrouwbare informatie.",
+		"id": "449a4a4a-4bee-4659-bf86-72cdb4da5127",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan ontvangen van reacties van anderen op een product.",
+		"id": "c8184468-0f93-4c2b-aa0f-e8784e9ee272",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan reflecteren op de samenwerking met een ander.",
+		"id": "3ec01eeb-392d-435c-86d8-39bbc4a665b4",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan ontvangen van reacties van anderen op een product.",
+		"id": "c51bfc4f-a053-42b7-a106-150edf4331f1",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan reflecteren in het portolio op de samenwerking met een ander.",
+		"id": "36638e89-53cd-4c2b-9968-c8d1b4a06bcd",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan formuleren van nieuwe leerdoelen met behulp van ondersteunende pictogrammen.",
+		"id": "02a21c38-8673-465a-bac6-cd6bcd012259",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan evalueren van de gekozen aanpak na het maken van een tekst.",
+		"id": "2cb1a132-341f-4b56-a5d3-42be67856db5",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan verwerken van reacties van anderen op een product.",
+		"id": "a04d6ad6-5e2b-4235-9a97-d2bba37b5d9d",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan reflecteren in het portolio op de samenwerking met een ander.",
+		"id": "7da15b86-c132-4c1e-b80a-5f87dad8f68f",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan formuleren van nieuwe leerdoelen na het wel of niet behalen van een vorig leerdoel.",
+		"id": "7b9243bf-8677-47d4-9117-7e1a42d065d1",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan beurt leren nemen en afstaan in een kringgesprek.",
+		"id": "76e82350-33ef-4895-92e5-8547b85886cc",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan deelnemen aan een vertelkring.",
+		"id": "45178cc7-ecaa-46f5-98ff-56305a9b38fc",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan uitwisselen van leeservaringen rondom gelezen of beluisterde boeken.",
+		"id": "f768ddb0-ab56-42b0-a658-a51e32ccfb8b",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan voeren van een eenvoudig gesprek met een bekende.",
+		"id": "80bf039e-9f93-4bb2-9313-19dc8cbde9d2",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan beurt leren nemen en afstaan in een kringgesprek.",
+		"id": "019c17b3-d20d-49a7-9c3e-794e73a76f18",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan uitwisselen van leeservaringen rondom gelezen of beluisterde boeken.",
+		"id": "a8c9622c-3d78-4b56-be4f-7de2c64772e8",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan begrijpelijk uitdrukken van je (on)tevredenheid in een gesprek met een bekende.",
+		"id": "56962ca0-9ce9-4929-820d-f9ee190ea859",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan doorvragen tijdens een interview met een bekende.",
+		"id": "b07f07e1-2191-43c6-9c14-721d8289f9b4",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan ervaringen uitwisselen in een formeel gesprek met de stagebegeleider.",
+		"id": "8b5dfc12-bc00-41be-bafa-c2c6370f7ff1",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan maken van afspraken over vorm en inhoud bij een gezamenlijk werkstuk.",
+		"id": "eafb8c47-fbe9-49e2-9862-8fe4985a7d5b",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan samen terugkijken en vooruitkijken op wat er wordt geleerd.",
+		"id": "9756452e-1d29-4cb0-8b7a-813be19c6645",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan gezamenlijk bepalen van klassenregels.",
+		"id": "e0b6e679-cd82-41b4-9bff-4ea555dcdd43",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan bedenken van oplossingen voor een probleem uit het dagelijks leven.",
+		"id": "f1c1f7cb-0690-4658-b269-465d3a2db157",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan samen terugkijken en vooruitkijken op wat er wordt geleerd.",
+		"id": "10888048-ffc8-4eed-9641-703275b501a3",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan gezamenlijk bepalen van klassenregels.",
+		"id": "0ac03499-2b38-4199-bcf1-02b0448499f9",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan bedenken van oplossingen voor een probleem bij een praktijkvak of uit het dagelijks leven.",
+		"id": "21abfdcc-a4c3-4eaa-b018-d50e05f960c0",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan verzinnen van het vervolg van een gezamenlijk gelezen verhaal.",
+		"id": "7df8f780-1082-43a3-9ffe-fce28eb1236a",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan gezamenlijk bepalen van klassenregels.",
+		"id": "9f1d6f37-40a9-476c-ba9c-983e74d047d4",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan bedenken van oplossingen voor een probleem bij een praktijkvak of uit het dagelijks leven.",
+		"id": "95a55e4a-b704-4994-872f-af6714733c0c",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan samen denken en praten over het verschil tussen rauw en rouw, wij en wei: je schrijft het anders (vorm) en het betekent ook iets anders (betekenis).",
+		"id": "abd6c0ba-4dca-4cc3-9198-4d025faaa24f",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan samen denken en praten over het verschil tussen rauw en rouw, wij en wei: je schrijft het anders (vorm) en het betekent ook iets anders (betekenis).",
+		"id": "9ca30ef5-ffe0-4562-a686-969788d76a87",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan samen denken en praten over de reden waarom woorden als pollepel, kersttomaatje en minister voor uitspraak- en betekenisproblemen kunnen zorgen.",
+		"id": "a2aef281-49b7-4137-851a-757ee8987c7b",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan samen onderzoeken wat voor effect het heeft als je alle bijvoeglijke naamwoorden zou weglaten uit een instructieve tekst.",
+		"id": "fbe41ea9-693d-4f71-8d50-1578f8199588",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan vergelijken van advertenties vanuit de vraag welke advertentie het meest effect zal hebben, op basis van gemaakte keuzes in bouw en taalgebruik.",
+		"id": "31b03f4b-4942-418c-a85f-2ca41d482067",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan correct leren spellen van frequent gebruikte verkleinwoorden.",
+		"id": "da9f11c4-eb29-4851-8ba3-78107f75f527",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan gebruiken van spraakmodules, spelling- of grammaticacorrectie op de computer of het gebruiken van bronnen zoals woordenboeken of een beeld- en gebarenwoordenboek.",
+		"id": "73aacd58-7f7b-41ac-ad8b-18a168b65ac4",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan correct leren spellen van frequent gebruikte verkleinwoorden.",
+		"id": "828eacf3-977e-44de-a7c9-edf8586e6252",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan gebruiken van spraakmodules, spelling- of grammaticacorrectie op de computer of het gebruiken van bronnen zoals woordenboeken of een beeld- en gebarenwoordenboek.",
+		"id": "52bce1a1-b8fb-455a-b8de-3044d22f74fb",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan effect van de komma op de betekenis van een zin (\"Wij staan achter, Oranje\").",
+		"id": "9b7da883-4436-4ac3-8588-ab1fb192de71",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan gebruiken van spelling- of grammaticacorrectie op de computer of het gebruiken van bronnen zoals woordenboeken of een beeld- en gebarenwoordenboek.",
+		"id": "21e5d2c9-5f59-46c3-9c27-16ab27d5e2e4",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan (na)zingen of (mee)neuriën van verjaardagsliedjes in verschillende (eigen) talen en/of taalvariëteiten.",
+		"id": "5e33b006-d3e9-4168-9708-0733fbfa6956",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan een gesprek voeren over de verschillende manieren om met elkaar te communiceren.",
+		"id": "58a2e53d-0fa4-46dc-b67b-c83b0b4b3c35",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan luisteren naar een korte monoloog in straattaal, waarna een gesprek ontstaat over het verschil tussen taal op school, thuis, op straat en in boeken.",
+		"id": "ca3d9fba-4b14-4253-b34c-ab587625a2ec",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan samen een zin bekijken in meerdere verschillende talen en taalvariëteiten, waarna de verschillen en de overeenkomsten worden bekeken en besproken.",
+		"id": "9dabf89c-dd72-4fce-a14a-095112810f44",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan maken van een taalpaspoort.",
+		"id": "a8be1169-68ce-4936-aaad-24cdccdb51ed",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan verkennen op hoeveel manieren je kunt zeggen dat je naar het toilet moet en reflecteren op wanneer welk taalgebruik gepast is.",
+		"id": "71ea9fb4-715f-4aee-8a39-8289e00c02bb",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan luisteren naar, of lezen van een korte monoloog in straattaal, waarna een gesprek ontstaat over het verschil tussen taal op school, thuis, op straat en in boeken.",
+		"id": "c8ee1378-1dd5-487a-9f3d-4e807240b2a7",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan bespreken van de betekenis van een eenvoudig gedicht.",
+		"id": "c68a6361-d448-45c2-9c3d-8cbf39e3ee5e",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan voorspellen wat er gaat gebeuren in een verhaal en vertellen wat je zelf zou doen.",
+		"id": "b29af904-f020-4d24-9e6f-81c93778891e",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan ontdekken hoe andere mensen zich voelen die zich in eenzelfde situatie bevinden als jij.",
+		"id": "fe45e49f-cc9a-408e-acbe-5f5b2de540c8",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan bespreken van de betekenis van een eenvoudig gedicht.",
+		"id": "5488f1d0-2f79-4b6b-8b28-36857b5e659e",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan voeren van een groepsgesprek over de belevenissen van een hoofdpersoon.",
+		"id": "b8ea5e3d-00fa-4d2c-acb1-08dbdb7425a3",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan ontdekken hoe andere mensen zich voelen die zich in eenzelfde situatie bevinden als jij.",
+		"id": "238b2098-f78d-4bd4-a8aa-46dd978ea5af",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan beschrijven van het plot van een verhaal: het probleem waarin het hoofdpersonage verwikkeld raakt en hoe het probleem wordt opgelost.",
+		"id": "332b7748-c382-47ad-9773-0baa462e6334",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan samen bespreken van rollen van personages in een theaterleestekst.",
+		"id": "1eba1d62-fef1-4b95-930c-bb8d86eeb7c2",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan gezamenlijk maken van een tijdlijn voor een voorgelezen boek.",
+		"id": "5e047f69-5412-4357-82f3-0e3f6e949947",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan ontdekken hoe andere mensen zich voelen die zich in eenzelfde situatie bevinden als jij.",
+		"id": "aaec25bd-c091-4e7a-acc7-02beb354493e",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan voeren van leesgesprekken en gesprekken ter ondersteuning van de selectie van nieuwe teksten.",
+		"id": "4b5882db-8ff5-4874-be7f-d2d18738dc64",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan naspelen van een verhaal uit een voorgelezen prentenboek bij een verteltafel.",
+		"id": "46f04c55-f0ce-4946-984e-f5f24def6b0f",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan voeren van leesgesprekken en gesprekken ter ondersteuning van de selectie van nieuwe teksten.",
+		"id": "69477f46-f583-4a13-a8ab-a3b6a6bd69c7",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan maken van een boekendoos naar aanleiding van een gelezen of beluisterd boek.",
+		"id": "7561f177-d55e-4221-af94-52bdf865ddc8",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan voeren van leesgesprekken en gesprekken ter ondersteuning van de selectie van nieuwe teksten.",
+		"id": "87a4334c-6340-4b99-862e-d1d0aa5dbfd6",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te denken valt aan maken van een boekendoos naar aanleiding van een gelezen of beluisterd boek.",
+		"id": "da67ddc8-53b6-4ae0-8037-a8c3a3585b7d",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Te bedenken valt aan vertellen over een tekst, boek of film.",
+		"id": "f4647da7-fefe-4575-b365-ea5633b0ec52",
+		"unreleased": true
 	}
 ]
