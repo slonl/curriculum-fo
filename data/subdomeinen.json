@@ -215,5 +215,89 @@
 		"prefix": "1",
 		"id": "14ff2946-023a-4d61-9fb1-1e132408da53",
 		"deleted": 1
+	},
+	{
+		"title": "Taalvaardigheid",
+		"fo_doelzin_id": [
+			"9561782a-e1ca-442c-86c0-a0eec8cdae2f",
+			"65816e71-4f8a-4e8d-bdad-c2cf4d745a17",
+			"580a18b5-d619-4782-85f2-e7e644867b5e",
+			"7fe4ff43-f868-4988-b36f-67eb6864caed",
+			"c320e4ec-5149-4a41-919f-1d1c7fbf83ce",
+			"1467bb9c-0fd1-44c5-a364-06df8dbcb19e",
+			"07c3d5ad-952d-4fef-b892-93bcab2bb8fe",
+			"e0d648b3-c8ee-48d5-b43d-fa2cc26d4a39",
+			"8a8b3298-09af-4fdc-81be-e6964dbe7270",
+			"8d464645-eeee-4d02-96cc-f44aad0440d3",
+			"2f7f4626-6f7f-46fa-8128-74a2a742fc66",
+			"1b68cbd8-cb1f-4c8c-8fb2-61c319544afa",
+			"bd0564a3-651d-48fb-b2e5-cee16e885c4e",
+			"a6065e1e-ea03-4508-b251-4308a8590b58",
+			"95e9463d-3b66-4c83-ba37-c7e932a8f24e"
+		],
+		"prefix": "A1",
+		"id": "cd744938-58bf-496c-842a-af94e201839f",
+		"unreleased": true
+	},
+	{
+		"title": "Interactie",
+		"fo_doelzin_id": [
+			"090162f7-130a-481d-8d65-3757c348da06",
+			"297f334e-520b-4065-8c96-0f1b55ca11a3",
+			"5b9679fb-664e-4dbe-8146-d887df590370",
+			"f0ba095c-2dda-4417-bc08-601369756749",
+			"f49f8889-3256-4737-90d3-eabbafb6903b",
+			"b7c23d6d-f47a-41c6-8f29-15e9c0fb6786"
+		],
+		"prefix": "A2",
+		"id": "2d07d0cf-b900-4a0b-9cde-6f7dd64683aa",
+		"unreleased": true
+	},
+	{
+		"title": "Taal als systeem",
+		"fo_doelzin_id": [
+			"91f9a7f4-0f4d-43bb-b564-0e8bcd56679a",
+			"7277cd75-566e-4dcb-9086-e9379f42970c",
+			"fca436bf-1988-4fdc-a6fd-7bc87fdebbf7",
+			"fa700a59-bc55-4039-b320-a2d4ec25b32d",
+			"838eb09e-0666-4e6a-ba8d-1df26bb00b70",
+			"4e193aaf-3325-4495-8371-e7d1cce8460c"
+		],
+		"prefix": "B1",
+		"id": "cec0a23d-0151-4886-a64e-b7ab8b0cdc8b",
+		"unreleased": true
+	},
+	{
+		"title": "Taal en individu & maatschappij",
+		"fo_doelzin_id": [
+			"1c55976c-7e3c-4658-9b01-5557ebb46b84",
+			"27c0b6ff-339a-4335-ba4c-859469b40252",
+			"01ada9cf-586f-425e-b01b-d16d4909c3c4"
+		],
+		"prefix": "B2",
+		"id": "32e8ccab-c600-4f9d-bbc9-305c64f1828c",
+		"unreleased": true
+	},
+	{
+		"title": "Literatuur als systeem",
+		"fo_doelzin_id": [
+			"6e65d06a-e919-4165-8e22-a98db5fb0d87",
+			"43fff266-82a2-4998-bab7-914b8b9035cd",
+			"f467fe1d-210b-4d4f-b65a-df8ff29c59f8"
+		],
+		"prefix": "C1",
+		"id": "11d4bead-ccc1-48e8-b356-b838e9098797",
+		"unreleased": true
+	},
+	{
+		"title": "Literatuur en individu & maatschappij",
+		"fo_doelzin_id": [
+			"1a6c3f41-f76d-419a-850c-7a4a9071ff88",
+			"a0798be3-9352-491a-8a27-734489a717b9",
+			"7e5457eb-22ee-4684-aede-94cb9b6ee8fd"
+		],
+		"prefix": "C2",
+		"id": "76dfccfe-54cd-4647-9a21-ca3b0e86d05f",
+		"unreleased": true
 	}
 ]
