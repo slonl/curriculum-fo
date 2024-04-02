@@ -4430,5 +4430,230 @@
 		"prefix": "D.12",
 		"id": "0f4c919d-bca5-48f1-bf5e-477fb839697a",
 		"unreleased": true
+	},
+	{
+		"title": "Concept - Kerrndoel 1 - Wiskunde in de werkelijkheid",
+		"description": "Concept - De leerling herkent en gebruikt wiskunde in dagelijkse en maatschappelijke situaties.",
+		"fo_uitwerking_id": [
+			"eb67c426-8d11-4087-95ab-62ad935e5e24",
+			"0b9e1a67-4f44-407e-bbcb-54061e44783e",
+			"45a3aa5b-eebd-4a95-8e84-0cc1f26fedc9"
+		],
+		"fo_toelichting_id": [
+			"a19de616-39af-42a8-ae27-7324d91b0bbe",
+			"d5738a21-32de-4d97-a319-bd5c3a05f7bf",
+			"4e435486-0250-4e55-a2c3-f25d92f1adfc",
+			"9ae3f4d9-64af-45e6-bbfc-97b5938502e0"
+		],
+		"prefix": "A.1",
+		"id": "6957f96d-fc3f-44ee-8de6-e5f2a4089bd2",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Kerrndoel 2 - Wiskunde in andere leergebieden",
+		"description": "Concept - De school ondersteunt het gebruik van wiskunde in andere leergebieden en praktijkvakken.",
+		"fo_uitwerking_id": [
+			"625a82eb-123a-44ef-a4b1-860d6372d275",
+			"fa116ce9-29a8-4209-80a7-ed96ca7a0231",
+			"3a1fa490-3daa-48a7-85d1-a8f5a2550c79",
+			"cf4c7190-520b-42bf-b095-b059aa42773b",
+			"7d932e68-5945-41cb-a6e3-e014c922433a"
+		],
+		"fo_toelichting_id": [
+			"4d328c70-8bbd-43c6-a3e1-eb77fc4792e9",
+			"fcc50a09-7b0e-4cce-894e-d4248e17b067",
+			"fefe20ab-ea4d-4773-bb29-6ee716494bb4"
+		],
+		"prefix": "A.2",
+		"id": "f77fe97a-e430-4d8f-b21c-f9d420d604dd",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Kerrndoel 3 - Interne samenhang",
+		"description": "Concept - De school biedt wiskundige concepten en wiskundige denk/werkwijzen in onderlinge samenhang aan.",
+		"fo_uitwerking_id": [
+			"e6b63521-a164-4c6f-b96f-5958afd8be7f",
+			"6ecbfb08-c9b4-4782-9ec8-abe38eac8d64",
+			"a5dff4d6-6edc-47bc-bbb9-d97e81595d25",
+			"e80258fa-e11d-491e-b174-6ed7919b0126"
+		],
+		"fo_toelichting_id": [
+			"394d5804-c6c6-48c9-b730-0d92eb7da5ff",
+			"195823b1-070c-4f34-9a66-977551e8ddc1",
+			"a547b751-673b-4eff-b483-cef8d6ef4142",
+			"5105c2ec-45de-4482-b59b-d42ede5c179a"
+		],
+		"prefix": "A.3",
+		"id": "a5aeb7a6-d580-4950-bbd3-b62da9d5a6b9",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Kerndoel 4 - Wiskundige attitude",
+		"description": "Concept - De school stimuleert een wiskundige attitude bij leerlingen.",
+		"fo_uitwerking_id": [
+			"45813c85-231f-4ce3-8ca9-2aaf16c0e1b7",
+			"28dd0454-1900-44b4-acca-065fcd58ace0",
+			"e93d1f52-d08a-40db-9605-26e78b871892",
+			"5878db1f-d26b-454c-9e5a-6731ab8c3b20"
+		],
+		"fo_toelichting_id": [
+			"3ea2423b-b299-4317-a67a-471e0223dab1",
+			"0490d34a-ede8-43a3-b804-a81adcdf4e9c",
+			"5eeea6ca-0665-4d8f-b5a2-fd68c86c24e6",
+			"b14a7e6c-752d-4f15-816d-b7bc29f67a70",
+			"a3c3f83d-40f6-491f-bdb3-a30fb2a2845c"
+		],
+		"prefix": "B.4",
+		"id": "9537dfce-2cee-45cf-9cac-a79e40c27f98",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Kerndoel 5 - Getallen",
+		"description": "Concept - De leerling geeft betekenis aan en gebruikt gehele getallen.",
+		"fo_uitwerking_id": [
+			"45b82c71-40a6-4c0e-a977-076cc0979895",
+			"f81bfd54-0b2f-4d82-9fd0-7d545f295d38",
+			"58fec1c4-444a-44b9-8e2d-f83e53961d92",
+			"9c3bd4ab-b420-479d-a760-232ddc0a5985"
+		],
+		"fo_toelichting_id": [
+			"b4dda08a-9989-4889-8e6d-793fe706337e",
+			"1b2049c1-1ff5-4c03-9fc1-8fbc245345e5",
+			"c2612a6c-4d0f-4765-9111-55b64e1385bc",
+			"8301e53b-0c86-4a14-890f-b82027e621d7",
+			"3b96bf29-aff9-46e1-83df-abe37ff95464",
+			"9d2e4495-cf9e-4805-86cb-c4a73aae1cc9"
+		],
+		"prefix": "C.5",
+		"id": "e1fecc12-0bc2-4d7f-8987-4c6a8b7472dc",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Kerndoel 6 - Verhoudingen",
+		"description": "Concept - De leerling verkent verhoudingen.",
+		"fo_uitwerking_id": [
+			"f6980fa6-61c5-4fbb-8df9-3755959646ec",
+			"dd8daf0b-f71a-4494-8983-fce62df848f3",
+			"484d9406-d8b0-4e8f-9a84-f32051090244"
+		],
+		"fo_toelichting_id": [
+			"57e8dbde-b76a-42a9-8d49-06363a23900f",
+			"1962d542-830e-45ef-9867-010178529f3d",
+			"89f034e9-3115-4f9f-8245-7bd914ae525b",
+			"a2622e22-2630-4b1e-be05-6d8204caf848"
+		],
+		"prefix": "C.6",
+		"id": "8fd8efe3-9501-44fa-a6d6-e00c6a457b12",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Kerndoel 7 - Gangbare grootheden en bijpassende eenheden",
+		"description": "Concept - De leerling meet met en gebruikt gangbare grootheden en bijpassende eenheden en geeft daar betekenis aan.",
+		"fo_uitwerking_id": [
+			"da66e653-6a04-47b7-9612-90fd787c1e22",
+			"742f9bf7-9732-4f78-b7ce-f09433a3b71d",
+			"beb6cac2-caad-425b-a8ef-96484faf3778",
+			"28e61eca-7661-4fd8-a70c-3ca13250af86"
+		],
+		"fo_toelichting_id": [
+			"040f1a79-0788-4f35-9bee-f77ea217fba5",
+			"458a1504-f473-4149-b8f2-d1ba2bd8a629",
+			"9bf015dc-e187-4838-af45-937793105a3e",
+			"e11942b5-61e6-491a-ac91-e247594d8dee"
+		],
+		"prefix": "C.7",
+		"id": "afad66a0-7e6f-4304-b7e7-32f0bd0f6847",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Kerndoel 8 - Grootheid tijd en bijpassende eenheden",
+		"description": "Concept - De leerling geeft betekenis aan tijd en gebruikt bijpassende eenheden.",
+		"fo_uitwerking_id": [
+			"1bc7d51e-624a-4b72-804f-a7bc93cd2336",
+			"057af9e5-2815-44c9-8149-2570ff92a53d",
+			"63d3a427-cedc-4672-a0e7-56ec04d78231"
+		],
+		"fo_toelichting_id": [
+			"a757d504-620e-4831-a838-c64fc5fe0600",
+			"26bc7989-9cd6-4776-803c-dde064a079a1",
+			"a2ed7c15-cb8b-4394-a2c8-a1f51678fbff",
+			"60f4534d-b196-465e-aea5-f8e3d8a870d1"
+		],
+		"prefix": "C.8",
+		"id": "dd81a312-a583-41c0-b95c-e57378c4ac81",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Kerndoel 9 - Grootheid geld en bijpassende eenheden",
+		"description": "Concept - De leerling geeft betekenis aan en rekent met geld.",
+		"fo_uitwerking_id": [
+			"98784d22-a907-4d5d-8229-296e3f59fc7f",
+			"3d3b5b1c-db7d-4c2f-bdaf-02953f47fb44",
+			"27550367-0f10-44dc-9574-652472dcfff4",
+			"62321cf1-d8e6-4ad5-8e3c-b877ce0a38d9"
+		],
+		"fo_toelichting_id": [
+			"c2e34cb0-b66f-4978-9802-934829d91cc2",
+			"bae7c42a-80e6-4ba8-b750-125e5e1f84be",
+			"fe9d30f1-733b-497c-9f5a-575c5e1ba228",
+			"4377ac60-9373-4ee8-b43d-ec5a63eafff6",
+			"2012d938-ea58-4a53-b2b7-e160a5bcac32"
+		],
+		"prefix": "C.9",
+		"id": "6378af10-b801-4930-958c-60b87a243d45",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Kerndoel 10 - Vorm, ruimte en patronen",
+		"description": "Concept - De leerling verkent vorm, ruimte en meetkundige patronen.",
+		"fo_uitwerking_id": [
+			"89e8dba5-66b3-428a-8c6a-8ee04777be0f",
+			"49b9a675-a485-4ef8-8bfe-a72b1c8aecf6",
+			"670165df-039c-4e37-a28d-6163ec45f122",
+			"a9566faf-bff1-447e-8605-585238e8c770"
+		],
+		"fo_toelichting_id": [
+			"9c0dbdb8-301d-448c-ab27-dba3d00619f8",
+			"fec08cf5-8d12-478f-b8dd-5d49e553b55e",
+			"657e16d8-db6f-4fcc-bb8b-1d43c4bbfd81",
+			"7f97b43f-c79c-4c81-8055-4358af823db1"
+		],
+		"prefix": "C.10",
+		"id": "0ae58e3e-d8b9-447a-b773-4f9a8c31e97f",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Kerndoel 11 - Gebruiken van wiskundetaal en wiskundige representaties",
+		"description": "Concept - De leerling gebruikt wiskundetaal en wiskundige representaties..",
+		"fo_uitwerking_id": [
+			"b356ca46-e806-4c4b-87fe-b3ad1dcc0661",
+			"d8dd7878-89f8-4157-a623-b0d0ddd28a07",
+			"dfbb8824-f815-44e6-971a-ec568ae46b08"
+		],
+		"fo_toelichting_id": [
+			"24f3ac36-73b9-4537-8d31-1fb84240aaed",
+			"dd2b2949-aca2-418e-af54-b87d710bf0ae",
+			"c39d9182-5713-4630-b1f5-ae7a566d5aa5",
+			"d6e87b7b-1c50-44f6-a1f5-7181af97b7b3"
+		],
+		"prefix": "D.11",
+		"id": "126c04c7-3959-4bd7-83b0-8c4ba45026f3",
+		"unreleased": true
+	},
+	{
+		"title": "Concept - Kerndoel 12 - Gebruiken van wiskundige instrumenten",
+		"description": "Concept - De leerling gebruikt gangbare meetinstrumenten en andere wiskundige instrumenten.",
+		"fo_uitwerking_id": [
+			"fa9796f8-199d-40a5-80ae-81023f9f53c2",
+			"5971aea6-06ec-4fe7-a8a9-6b46243528f9",
+			"9692c4ef-513a-497c-ae34-def81c9e430d"
+		],
+		"fo_toelichting_id": [
+			"45736f59-d314-442d-9872-7d197b5ed49a",
+			"664fe4fd-67cb-41a1-aa96-6815be34a3c2"
+		],
+		"prefix": "D.12",
+		"id": "11219833-a07d-407b-8f54-5beaf779d062",
+		"unreleased": true
 	}
 ]
