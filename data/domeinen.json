@@ -429,5 +429,49 @@
 		"prefix": "C",
 		"id": "262648af-90b8-42c1-ab1e-d814221003ab",
 		"unreleased": true
+	},
+	{
+		"title": "Wiskunde en de wereld",
+		"fo_doelzin_id": [
+			"d17bf839-dc4f-4de7-b416-12d11a5e0add",
+			"6dea5e47-abc5-40e0-b143-358174ce4db5",
+			"052dd6d2-2732-42a1-b548-8d07a9d1687c"
+		],
+		"prefix": "A",
+		"id": "9baa9a1e-5594-46f9-8d4d-b7f99b840e37",
+		"unreleased": true
+	},
+	{
+		"title": "Wiskundige attitude",
+		"fo_doelzin_id": [
+			"cd19a94c-1ee9-4360-99f2-1cd65dd19ad5"
+		],
+		"prefix": "B",
+		"id": "4900345b-07c3-4eba-bdc4-f7262b34d65e",
+		"unreleased": true
+	},
+	{
+		"title": "Wiskundige concepten",
+		"fo_doelzin_id": [
+			"4b246ec4-1ed8-4c52-b43e-5ab6a1c0424e",
+			"fe1bfa69-3e07-4789-b59a-9dff4430d896",
+			"41b01fca-a44f-4762-8132-a089cb0d435b",
+			"fcf77d53-51c9-4535-8887-16b687c12b35",
+			"f266670c-45e1-4dfc-95e4-a9109f1a98c3",
+			"5d08450f-5e0b-4b15-8bb3-e52e5b2e7331"
+		],
+		"prefix": "C",
+		"id": "6de35bd3-ddb9-4966-8e8d-432daad76b9b",
+		"unreleased": true
+	},
+	{
+		"title": "Wiskundige denk/werkwijzen",
+		"fo_doelzin_id": [
+			"56346b00-a8db-472a-983e-0143021570b8",
+			"bdc74166-3003-4deb-b8d8-56a520569564"
+		],
+		"prefix": "D",
+		"id": "bfdff81c-30a2-4d60-91fb-5dc7cacd456f",
+		"unreleased": true
 	}
 ]
