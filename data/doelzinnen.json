@@ -1294,26 +1294,6 @@
 		"id": "0f2d88a0-c594-48d2-835c-c1953eb284d0"
 	},
 	{
-		"description": "Concept - De leerling verkent genrekenmerken van literatuur",
-		"title": "Beheersingsdoel, verkennen van literaire genres",
-		"fo_uitwerking_id": [
-			"0359e292-78bc-4bbd-954c-651426dc92c5",
-			"035837e2-17e8-4c75-8844-05bef5fdbff9",
-			"348d776d-aca9-4cd6-b422-c5e3dd4e2f41",
-			"95b43e1b-871c-405d-ae6b-b96b76a7b4a9",
-			"1a2c0823-db7e-415f-b6d0-aa69090e99b5"
-		],
-		"fo_toelichting_id": [
-			"f02cb562-9d09-4a72-9105-49df9911e2b2",
-			"9147ffc9-cbca-448f-b761-baf8d8aba05a",
-			"a5bc488f-d4c7-4880-ad8b-eaa560d14962",
-			"6433b644-6e7d-4181-a5bb-42007951dc4f",
-			"78ea8ad7-3f05-4841-94c1-3fa9784be69c"
-		],
-		"prefix": "18.",
-		"id": "ad8f866e-2374-4eb7-b3cc-e46b61efd94c"
-	},
-	{
 		"description": "Concept - De leerling kiest nieuwe teksten op basis van eerdere lees-, luister- en kijkervaringen",
 		"title": "Ervaringsdoel, leesvoorkeur",
 		"fo_uitwerking_id": [
@@ -1426,8 +1406,7 @@
 			"170712c0-d30b-469e-9f76-0ea4528ec547"
 		],
 		"prefix": "1",
-		"id": "200f5b2b-e948-4057-a67c-95636166a2c4",
-		"unreleased": true
+		"id": "200f5b2b-e948-4057-a67c-95636166a2c4"
 	},
 	{
 		"title": "Concept - Kerndoel 2 - Digitale media en informatie",
@@ -1447,8 +1426,7 @@
 			"ae259a96-4a67-4c5c-91d1-1aadc33dd25a"
 		],
 		"prefix": "2",
-		"id": "05fbe26c-7723-42f3-ba84-ccea0a3288e4",
-		"unreleased": true
+		"id": "05fbe26c-7723-42f3-ba84-ccea0a3288e4"
 	},
 	{
 		"title": "Concept - Kerndoel 3 - Veiligheid en privacy",
@@ -1467,8 +1445,7 @@
 			"67b7b129-49d2-4d04-a46b-55f554404b2b"
 		],
 		"prefix": "3",
-		"id": "601d04a5-a542-40ef-b1a9-c4d014bd36fe",
-		"unreleased": true
+		"id": "601d04a5-a542-40ef-b1a9-c4d014bd36fe"
 	},
 	{
 		"title": "Concept - Kerndoel 4 - Data",
@@ -1487,8 +1464,7 @@
 			"e5ae26a3-ea84-4432-98d2-8b4ce3906085"
 		],
 		"prefix": "4",
-		"id": "86bf928b-f7d5-40e2-9188-880f9c841269",
-		"unreleased": true
+		"id": "86bf928b-f7d5-40e2-9188-880f9c841269"
 	},
 	{
 		"title": "Concept - Kerndoel 5 - Artifiële intelligentie (AI)",
@@ -1506,8 +1482,7 @@
 			"bad8adf1-ce63-45dd-af98-c09b8d4a694b"
 		],
 		"prefix": "5",
-		"id": "fdbb266f-ebe3-4a0e-b536-bf9d7be85358",
-		"unreleased": true
+		"id": "fdbb266f-ebe3-4a0e-b536-bf9d7be85358"
 	},
 	{
 		"title": "Concept - Kerndoel 6 - Creëren met digitale technologie",
@@ -1527,8 +1502,7 @@
 			"20adbfd4-aaed-453c-8559-ed2074a7f4e2"
 		],
 		"prefix": "6",
-		"id": "f09d4f54-b3ad-467b-a233-b3af05e550f9",
-		"unreleased": true
+		"id": "f09d4f54-b3ad-467b-a233-b3af05e550f9"
 	},
 	{
 		"title": "Concept - Kerndoel 7 - Programmeren",
@@ -1548,8 +1522,7 @@
 			"6047ec72-90ab-45fe-9c4e-bc0ea01320dc"
 		],
 		"prefix": "7",
-		"id": "3b4e22b1-4acb-4e44-8234-bf05adb70cde",
-		"unreleased": true
+		"id": "3b4e22b1-4acb-4e44-8234-bf05adb70cde"
 	},
 	{
 		"title": "Concept - Kerndoel 8 - Digitale technologie, jezelf en de ander",
@@ -1569,8 +1542,7 @@
 			"9f903a1b-29ca-4017-8f7a-1934d87fd2e3"
 		],
 		"prefix": "8",
-		"id": "d4622bff-27a9-464a-8e4d-4f4c4bfd0ada",
-		"unreleased": true
+		"id": "d4622bff-27a9-464a-8e4d-4f4c4bfd0ada"
 	},
 	{
 		"title": "Concept - Kerndoel 9 - Digitale technologie, de samenleving en de wereld",
@@ -1589,8 +1561,7 @@
 			"21020af3-44d9-475a-9792-0bc4759c55ee"
 		],
 		"prefix": "9",
-		"id": "31034d4b-e90d-4768-9e17-3c12f77535e6",
-		"unreleased": true
+		"id": "31034d4b-e90d-4768-9e17-3c12f77535e6"
 	},
 	{
 		"title": "Concept - Kerndoel 1 - Digitale systemen",
@@ -1610,8 +1581,7 @@
 			"f9dcb4f5-1343-4a7f-bcca-349a85f6c908"
 		],
 		"prefix": "A.1",
-		"id": "81b8e6d2-ace5-4e76-b4d1-d087f717dda2",
-		"unreleased": true
+		"id": "81b8e6d2-ace5-4e76-b4d1-d087f717dda2"
 	},
 	{
 		"title": "Concept - Kerndoel 2 - Digitale media en informatie",
@@ -1634,8 +1604,7 @@
 			"b1b516a4-7ba0-4642-8136-6f2236b247d1"
 		],
 		"prefix": "A.2",
-		"id": "dbf8899e-013b-4958-8745-b9fd4e395849",
-		"unreleased": true
+		"id": "dbf8899e-013b-4958-8745-b9fd4e395849"
 	},
 	{
 		"title": "Concept - Kerndoel 3 - Veiligheid en privacy",
@@ -1658,8 +1627,7 @@
 			"a27bd7b0-ad5a-4747-9e4a-f08730307985"
 		],
 		"prefix": "A.3",
-		"id": "b4257b7b-6a2d-4553-b913-8516912657fb",
-		"unreleased": true
+		"id": "b4257b7b-6a2d-4553-b913-8516912657fb"
 	},
 	{
 		"title": "Concept - Kerndoel 4 - Data",
@@ -1681,8 +1649,7 @@
 			"5d09a30b-52b5-46e3-b888-3a80eccaf160"
 		],
 		"prefix": "A.4",
-		"id": "d11aa6d5-40b0-44c6-9356-e119ad871604",
-		"unreleased": true
+		"id": "d11aa6d5-40b0-44c6-9356-e119ad871604"
 	},
 	{
 		"title": "Concept - Kerndoel 5 - Artifiële intelligentie (AI)",
@@ -1708,8 +1675,7 @@
 			"8a218c7c-d7b2-43df-8542-11c099690e25"
 		],
 		"prefix": "A.5",
-		"id": "438c64cf-4415-4497-bf23-9ba78e0f651f",
-		"unreleased": true
+		"id": "438c64cf-4415-4497-bf23-9ba78e0f651f"
 	},
 	{
 		"title": "Concept - Kerndoel 6 - Creëren met digitale technologie",
@@ -1732,8 +1698,7 @@
 			"60772a80-c264-4797-a244-3c3c13c832fc"
 		],
 		"prefix": "B.6",
-		"id": "33d10f81-0ae1-45d4-9712-e5ac73c3ec91",
-		"unreleased": true
+		"id": "33d10f81-0ae1-45d4-9712-e5ac73c3ec91"
 	},
 	{
 		"title": "Concept - Kerndoel 7 - Programmeren",
@@ -1753,8 +1718,7 @@
 			"9648208a-93ee-4794-8dbd-8ed44cd8d742"
 		],
 		"prefix": "B.7",
-		"id": "7492dbc4-45bd-4241-b225-bd426faaf79b",
-		"unreleased": true
+		"id": "7492dbc4-45bd-4241-b225-bd426faaf79b"
 	},
 	{
 		"title": "Concept - Kerndoel 8 - Digitale technologie, jezelf en de ander",
@@ -1774,8 +1738,7 @@
 			"427f592b-ba41-4b04-a306-a20d4aa00108"
 		],
 		"prefix": "C.8",
-		"id": "848b3c16-406e-4391-9ea0-c0af9138f238",
-		"unreleased": true
+		"id": "848b3c16-406e-4391-9ea0-c0af9138f238"
 	},
 	{
 		"title": "Concept - Kerndoel 9 - Digitale technologie, de samenleving en de wereld",
@@ -1795,8 +1758,7 @@
 			"e03e41dc-5a58-4e16-8831-adcb6161ad88"
 		],
 		"prefix": "C.9",
-		"id": "cad9486f-f3d8-454b-a656-d4f233fa202d",
-		"unreleased": true
+		"id": "cad9486f-f3d8-454b-a656-d4f233fa202d"
 	},
 	{
 		"title": "Concept - Kerndoel 1 - Schoolcultuur (aanbodsdoel)",
@@ -1816,8 +1778,7 @@
 			"4dc8d3eb-fbbd-43bc-93a6-af00f95699d4"
 		],
 		"prefix": "A.1",
-		"id": "5bfce5e1-39ee-4d11-a6aa-4f9afc01304d",
-		"unreleased": true
+		"id": "5bfce5e1-39ee-4d11-a6aa-4f9afc01304d"
 	},
 	{
 		"title": "Concept - Kerndoel 2 - Diversiteit",
@@ -1836,8 +1797,7 @@
 			"6e8d80cd-0db2-47f9-95c4-b95aa050b9d5"
 		],
 		"prefix": "B.2",
-		"id": "88670244-4eb0-4ee1-8596-a172b52398b2",
-		"unreleased": true
+		"id": "88670244-4eb0-4ee1-8596-a172b52398b2"
 	},
 	{
 		"title": "Concept - Kerndoel 3 - Democratische waarden",
@@ -1857,8 +1817,7 @@
 			"6e75d98c-4270-430f-a8a9-c39e7e9812eb"
 		],
 		"prefix": "B.3",
-		"id": "934cd26c-62dd-46fa-b414-f6c1933e28be",
-		"unreleased": true
+		"id": "934cd26c-62dd-46fa-b414-f6c1933e28be"
 	},
 	{
 		"title": "Concept - Kerndoel 4 - Maatschappelijke betrokkenheid",
@@ -1877,8 +1836,7 @@
 			"16b0459c-abfc-4f9e-8737-37f8246de4c6"
 		],
 		"prefix": "B.4",
-		"id": "71062293-bbb1-47e5-b14b-92810b87786e",
-		"unreleased": true
+		"id": "71062293-bbb1-47e5-b14b-92810b87786e"
 	},
 	{
 		"title": "Concept - Kerndoel 5 - Democratische betrokkenheid",
@@ -1897,8 +1855,7 @@
 			"be09fa0b-2422-4412-a5ca-9143482a156b"
 		],
 		"prefix": "B.5",
-		"id": "a5fdc9c4-76ff-465b-8bdb-7742eb1136d7",
-		"unreleased": true
+		"id": "a5fdc9c4-76ff-465b-8bdb-7742eb1136d7"
 	},
 	{
 		"title": "Concept - Kerndoel 6 - Maatschappelijke vraagstukken",
@@ -1917,8 +1874,7 @@
 			"2304ab31-dcb2-4955-b89b-6bf728d585dc"
 		],
 		"prefix": "C.6",
-		"id": "ed240ba9-189a-4cfa-83be-bd86078991ab",
-		"unreleased": true
+		"id": "ed240ba9-189a-4cfa-83be-bd86078991ab"
 	},
 	{
 		"title": "Concept - Kerndoel 1 - Schoolcultuur (aanbodsdoel)",
@@ -1938,8 +1894,7 @@
 			"85dc2dc4-6343-4417-88ca-200850213c88"
 		],
 		"prefix": "A.1",
-		"id": "b92ca11e-20d2-4fe9-96bd-c0b50aa0530c",
-		"unreleased": true
+		"id": "b92ca11e-20d2-4fe9-96bd-c0b50aa0530c"
 	},
 	{
 		"title": "Concept - Kerndoel 2 - Diversiteit",
@@ -1961,8 +1916,7 @@
 			"f1b31d35-f6a4-4ebe-8587-03277b465fba"
 		],
 		"prefix": "B.2",
-		"id": "54078705-71d5-455f-af75-8b0a480e5840",
-		"unreleased": true
+		"id": "54078705-71d5-455f-af75-8b0a480e5840"
 	},
 	{
 		"title": "Concept - Kerndoel 3 - Democratische waarden",
@@ -1983,8 +1937,7 @@
 			"4aaae1d9-74ed-4ca9-8d60-a58e9239e25f"
 		],
 		"prefix": "B.3",
-		"id": "7aa961fe-25ec-463d-ab02-e77102b9de13",
-		"unreleased": true
+		"id": "7aa961fe-25ec-463d-ab02-e77102b9de13"
 	},
 	{
 		"title": "Concept - Kerndoel 4 - Maatschappelijke betrokkenheid",
@@ -2004,8 +1957,7 @@
 			"8ebe7b4e-5055-4ddd-8d74-eb49c6c70354"
 		],
 		"prefix": "B.4",
-		"id": "31425075-d4f6-453f-ac1a-d8c44f3b2eb1",
-		"unreleased": true
+		"id": "31425075-d4f6-453f-ac1a-d8c44f3b2eb1"
 	},
 	{
 		"title": "Concept - Kerndoel 5 - Democratische betrokkenheid",
@@ -2026,8 +1978,7 @@
 			"d50c3dfe-2c40-4b8f-9967-f0de25165e3a"
 		],
 		"prefix": "B.5",
-		"id": "a6a3b0ab-993d-42c6-9b49-40e21dfc7e0d",
-		"unreleased": true
+		"id": "a6a3b0ab-993d-42c6-9b49-40e21dfc7e0d"
 	},
 	{
 		"title": "Concept - Kerndoel 6 - Maatschappelijke vraagstukken",
@@ -2049,8 +2000,7 @@
 			"0aba6981-b452-450c-b93b-179c207d69bf"
 		],
 		"prefix": "C.6",
-		"id": "4edc1d48-6f87-4d59-be84-e1647b1d65ae",
-		"unreleased": true
+		"id": "4edc1d48-6f87-4d59-be84-e1647b1d65ae"
 	},
 	{
 		"title": "Eindterm 1 - Ontwikkelen van interesses",
@@ -2063,8 +2013,7 @@
 			"64d31106-8cae-4dce-a69a-cea94cc2dafd"
 		],
 		"prefix": "A.1",
-		"id": "cd5e28a9-8194-47d4-85bb-61a0fd404437",
-		"unreleased": true
+		"id": "cd5e28a9-8194-47d4-85bb-61a0fd404437"
 	},
 	{
 		"title": "Eindterm 2 - Ontwikkelen van kwaliteiten",
@@ -2077,8 +2026,7 @@
 			"6633ffca-c8b1-46f3-ae2a-d01517bec0f1"
 		],
 		"prefix": "A.2",
-		"id": "b07304b1-fca8-41c4-81a2-64d86fc84e9b",
-		"unreleased": true
+		"id": "b07304b1-fca8-41c4-81a2-64d86fc84e9b"
 	},
 	{
 		"title": "Eindterm 3 - Sociaal handelen",
@@ -2090,8 +2038,7 @@
 			"241a19c2-30c9-4893-99d7-e0a7ce5bb26a"
 		],
 		"prefix": "B.3",
-		"id": "ccb51162-baba-4a59-abb4-303b17abd43a",
-		"unreleased": true
+		"id": "ccb51162-baba-4a59-abb4-303b17abd43a"
 	},
 	{
 		"title": "Eindterm 4 - Samenwerken",
@@ -2103,8 +2050,7 @@
 			"b38d79c6-0965-4973-b1f0-dfd0e2ae78b0"
 		],
 		"prefix": "B.4",
-		"id": "3d00d6aa-402e-42ed-8830-2940fe51c169",
-		"unreleased": true
+		"id": "3d00d6aa-402e-42ed-8830-2940fe51c169"
 	},
 	{
 		"title": "Eindterm 5 - Taalvaardigheden",
@@ -2114,8 +2060,7 @@
 			"2cd59707-e518-4b14-9952-5b0ad77ddb36"
 		],
 		"prefix": "B.5",
-		"id": "35ffdbcb-622b-40df-92ee-fd78bfe96d00",
-		"unreleased": true
+		"id": "35ffdbcb-622b-40df-92ee-fd78bfe96d00"
 	},
 	{
 		"title": "Eindterm 6 - Rekenvaardigheden",
@@ -2125,8 +2070,7 @@
 			"659b1024-677c-4176-ac30-75e46fecd2f2"
 		],
 		"prefix": "B.6",
-		"id": "20dcdd7b-03b9-4937-8181-9072c88a7f21",
-		"unreleased": true
+		"id": "20dcdd7b-03b9-4937-8181-9072c88a7f21"
 	},
 	{
 		"title": "Eindterm 7 - Digitale vaardigheden",
@@ -2137,8 +2081,7 @@
 			"e6f9f5bb-dbb6-45cf-927e-5799c0068b3f"
 		],
 		"prefix": "B.7",
-		"id": "6d7ebddd-fdc0-4f18-9f2a-6befad38427d",
-		"unreleased": true
+		"id": "6d7ebddd-fdc0-4f18-9f2a-6befad38427d"
 	},
 	{
 		"title": "Eindterm 8 - Analytische denkvaardigheden",
@@ -2151,8 +2094,7 @@
 			"b27c8937-c7c2-49e8-8b59-cd9150ba31d7"
 		],
 		"prefix": "B.8",
-		"id": "b1dbc61b-ecf7-40a9-b225-e524157fe910",
-		"unreleased": true
+		"id": "b1dbc61b-ecf7-40a9-b225-e524157fe910"
 	},
 	{
 		"title": "Eindterm 9 - Kritische denkvaardigheden",
@@ -2163,8 +2105,7 @@
 			"0fc90f0d-50a0-4438-ab58-4446a8a81044"
 		],
 		"prefix": "B.9",
-		"id": "1418c213-657e-4a16-b5ad-90a543435106",
-		"unreleased": true
+		"id": "1418c213-657e-4a16-b5ad-90a543435106"
 	},
 	{
 		"title": "Eindterm 10 - Creatieve denkvaardigheden",
@@ -2175,8 +2116,7 @@
 			"1b9f0fb2-0389-4bca-b9d9-0450930819e9"
 		],
 		"prefix": "B.10",
-		"id": "1644a31c-ccf3-481e-ae92-670530485c8d",
-		"unreleased": true
+		"id": "1644a31c-ccf3-481e-ae92-670530485c8d"
 	},
 	{
 		"title": "Eindterm 11 - Onderzoeken",
@@ -2189,8 +2129,7 @@
 			"cb55b5d2-5ee3-4585-9ffd-c3951c395399"
 		],
 		"prefix": "B.11",
-		"id": "35e100bf-c4c1-449e-8444-2e5d62c11662",
-		"unreleased": true
+		"id": "35e100bf-c4c1-449e-8444-2e5d62c11662"
 	},
 	{
 		"title": "Eindterm 12 - Ontwerpen van een ruimte",
@@ -2203,8 +2142,7 @@
 			"39e69276-ecb6-4cfb-a066-bbd18bf911da"
 		],
 		"prefix": "C.12",
-		"id": "f89751ea-9242-4d8f-929d-ce587e1d8f1f",
-		"unreleased": true
+		"id": "f89751ea-9242-4d8f-929d-ce587e1d8f1f"
 	},
 	{
 		"title": "Eindterm 13 - Maken van een product",
@@ -2216,8 +2154,7 @@
 			"f844cffd-c518-4b65-8c54-97d02fb0e93e"
 		],
 		"prefix": "C.13",
-		"id": "5645b78a-52d6-48c5-8514-71429635a86d",
-		"unreleased": true
+		"id": "5645b78a-52d6-48c5-8514-71429635a86d"
 	},
 	{
 		"title": "Eindterm 14 - Adviseren over oplossingen",
@@ -2229,8 +2166,7 @@
 			"02431fbd-22d5-48c4-a398-d4988c8c15b7"
 		],
 		"prefix": "C.14",
-		"id": "cf028af9-7fa2-49c9-bc25-b76c80ec2a2e",
-		"unreleased": true
+		"id": "cf028af9-7fa2-49c9-bc25-b76c80ec2a2e"
 	},
 	{
 		"title": "Eindterm 15 - Adviseren over materialen",
@@ -2242,8 +2178,7 @@
 			"25b73cc1-62d6-4a27-81ef-58624f9cf9b7"
 		],
 		"prefix": "C.15",
-		"id": "911224f9-891f-4598-b88a-76f585b9fd5d",
-		"unreleased": true
+		"id": "911224f9-891f-4598-b88a-76f585b9fd5d"
 	},
 	{
 		"title": "Eindterm 16 - Monteren van elementen",
@@ -2254,8 +2189,7 @@
 			"f0e5abf5-d946-404b-b211-6fb5c4fa750f"
 		],
 		"prefix": "C.16",
-		"id": "a01561c7-76fc-485f-b8e2-2e540c75aba7",
-		"unreleased": true
+		"id": "a01561c7-76fc-485f-b8e2-2e540c75aba7"
 	},
 	{
 		"title": "Eindterm 17 - Onderhouden van een gebouw",
@@ -2268,8 +2202,7 @@
 			"9b29f2f8-99dd-4165-97cf-1ecc6a0b2ac4"
 		],
 		"prefix": "C.17",
-		"id": "14b092c2-4282-48ff-afe5-a5aad3e5161c",
-		"unreleased": true
+		"id": "14b092c2-4282-48ff-afe5-a5aad3e5161c"
 	},
 	{
 		"title": "Eindterm 12 - Ontwerpen van een omgeving",
@@ -2282,8 +2215,7 @@
 			"93a226dc-22ea-497e-a032-b31eacc20bb1"
 		],
 		"prefix": "C.12",
-		"id": "a45fc86d-35ab-4691-bc44-5d8304b99650",
-		"unreleased": true
+		"id": "a45fc86d-35ab-4691-bc44-5d8304b99650"
 	},
 	{
 		"title": "Eindterm 13 - Maken van een technisch product",
@@ -2295,8 +2227,7 @@
 			"0e9034d3-d171-44af-b4d0-00cfc30a902e"
 		],
 		"prefix": "C.13",
-		"id": "403e0ed7-0e13-408e-aa7c-60c4c2796c78",
-		"unreleased": true
+		"id": "403e0ed7-0e13-408e-aa7c-60c4c2796c78"
 	},
 	{
 		"title": "Eindterm 14 - Maken van een mediaproduct",
@@ -2309,8 +2240,7 @@
 			"140dd634-1c54-475e-a3b7-a03cddae1ec4"
 		],
 		"prefix": "C.14",
-		"id": "2063b323-adf9-4b9f-b2fe-d21da3294b08",
-		"unreleased": true
+		"id": "2063b323-adf9-4b9f-b2fe-d21da3294b08"
 	},
 	{
 		"title": "Eindterm 15 - Adviseren over een proces",
@@ -2322,8 +2252,7 @@
 			"7a7e580f-d090-4ffa-a863-9996dc9132a9"
 		],
 		"prefix": "C.15",
-		"id": "ce8ea69d-10d4-4f63-8b00-72d6cd3df41f",
-		"unreleased": true
+		"id": "ce8ea69d-10d4-4f63-8b00-72d6cd3df41f"
 	},
 	{
 		"title": "Eindterm 16 - Adviseren over een evenement",
@@ -2335,8 +2264,7 @@
 			"f622710c-b582-4bb6-ad03-3dbc911225fe"
 		],
 		"prefix": "C.16",
-		"id": "3f3b5cd7-3f2f-4409-b797-970f4f59e9be",
-		"unreleased": true
+		"id": "3f3b5cd7-3f2f-4409-b797-970f4f59e9be"
 	},
 	{
 		"title": "Eindterm 17 - Organiseren van een activiteit",
@@ -2349,8 +2277,7 @@
 			"3fe49d63-0264-4550-9587-fe523c4cfde3"
 		],
 		"prefix": "C.17",
-		"id": "665becf7-6348-42fb-b908-74264c038021",
-		"unreleased": true
+		"id": "665becf7-6348-42fb-b908-74264c038021"
 	},
 	{
 		"title": "Eindterm 12 - Ontwerpen van een product",
@@ -2363,8 +2290,7 @@
 			"3db2c979-cc68-48af-9461-239229ceb614"
 		],
 		"prefix": "C.12",
-		"id": "dd63d2d8-38b6-49a0-804a-dfe7c1b71d68",
-		"unreleased": true
+		"id": "dd63d2d8-38b6-49a0-804a-dfe7c1b71d68"
 	},
 	{
 		"title": "Eindterm 13 - Maken van een product",
@@ -2376,8 +2302,7 @@
 			"cf78f334-5cc2-4ba5-80e1-77994065ab8b"
 		],
 		"prefix": "C.13",
-		"id": "1f4aa6e7-16b7-4f3a-bd29-6d9102c9bdd2",
-		"unreleased": true
+		"id": "1f4aa6e7-16b7-4f3a-bd29-6d9102c9bdd2"
 	},
 	{
 		"title": "Eindterm 14 - Adviseren over activiteiten",
@@ -2389,8 +2314,7 @@
 			"8bf23316-a95c-4413-976f-b5966cd29e15"
 		],
 		"prefix": "C.14",
-		"id": "4a0e88af-59b0-4f54-8282-ad706bb21e31",
-		"unreleased": true
+		"id": "4a0e88af-59b0-4f54-8282-ad706bb21e31"
 	},
 	{
 		"title": "Eindterm 15 - Adviseren over een strategie",
@@ -2402,8 +2326,7 @@
 			"4662d8da-133b-45db-9945-a99990b9bf58"
 		],
 		"prefix": "C.15",
-		"id": "3efd2231-dcf5-4265-92dd-c3e6b3779c18",
-		"unreleased": true
+		"id": "3efd2231-dcf5-4265-92dd-c3e6b3779c18"
 	},
 	{
 		"title": "Eindterm 16 - Adviseren over een proces",
@@ -2415,8 +2338,7 @@
 			"3c0ad805-6f31-4377-8de9-5c91545b78f1"
 		],
 		"prefix": "C.16",
-		"id": "2ba49b8b-c37f-4df4-93c7-5ae46c3b2ef6",
-		"unreleased": true
+		"id": "2ba49b8b-c37f-4df4-93c7-5ae46c3b2ef6"
 	},
 	{
 		"title": "Eindterm 17 - Organiseren van een activiteit",
@@ -2429,8 +2351,7 @@
 			"0d58d503-3a26-4057-9b4e-7f25698b6ad8"
 		],
 		"prefix": "C.17",
-		"id": "e14a69d2-d1a3-4b7b-aea3-a33766c6669f",
-		"unreleased": true
+		"id": "e14a69d2-d1a3-4b7b-aea3-a33766c6669f"
 	},
 	{
 		"title": "Eindterm 12 - Ontwerpen van een ruimte",
@@ -2443,8 +2364,7 @@
 			"b14823d2-2472-4d1e-b779-a9472972e0ae"
 		],
 		"prefix": "C.12",
-		"id": "a3e853f2-105c-4c5a-bfef-e10ec7976dfd",
-		"unreleased": true
+		"id": "a3e853f2-105c-4c5a-bfef-e10ec7976dfd"
 	},
 	{
 		"title": "Eindterm 13 - Maken van een product",
@@ -2456,8 +2376,7 @@
 			"46ce34b6-78b5-46c0-9bb1-961a76326e61"
 		],
 		"prefix": "C.13",
-		"id": "f37953be-515a-4035-b750-02f348147501",
-		"unreleased": true
+		"id": "f37953be-515a-4035-b750-02f348147501"
 	},
 	{
 		"title": "Eindterm 14 - Adviseren over bedrijfsvoering",
@@ -2469,8 +2388,7 @@
 			"b0437741-f205-4886-a6fc-b53afb4930f1"
 		],
 		"prefix": "C.14",
-		"id": "86fa7b5c-13ef-46b9-9bec-16f9ec5b97c3",
-		"unreleased": true
+		"id": "86fa7b5c-13ef-46b9-9bec-16f9ec5b97c3"
 	},
 	{
 		"title": "Eindterm 15 - Telen van een gewas",
@@ -2483,8 +2401,7 @@
 			"b1f0f528-ad07-40a7-a22c-b53d7e00f46c"
 		],
 		"prefix": "C.15",
-		"id": "bcc07572-ef79-479a-a250-f9184a1767a2",
-		"unreleased": true
+		"id": "bcc07572-ef79-479a-a250-f9184a1767a2"
 	},
 	{
 		"title": "Eindterm 16 - Verzorgen van dieren",
@@ -2497,8 +2414,7 @@
 			"bcf8a3f2-bb92-43b9-a895-a7f3e4ad7244"
 		],
 		"prefix": "C.16",
-		"id": "35bfe0f3-4801-4540-831f-e0193c81571f",
-		"unreleased": true
+		"id": "35bfe0f3-4801-4540-831f-e0193c81571f"
 	},
 	{
 		"title": "Eindterm 17 - Produceren van voedingsmiddelen",
@@ -2509,8 +2425,7 @@
 			"de8c7cf5-c0ff-472e-894b-78240a3f38e4"
 		],
 		"prefix": "C.17",
-		"id": "313e1bf3-9036-42de-896b-d78eba7fe4da",
-		"unreleased": true
+		"id": "313e1bf3-9036-42de-896b-d78eba7fe4da"
 	},
 	{
 		"title": "Eindterm 12 - Ontwerpen van een ruimte",
@@ -2523,8 +2438,7 @@
 			"b1c2f483-021f-494c-8d9e-c243f71603d9"
 		],
 		"prefix": "C.12",
-		"id": "92e411f2-cc67-4025-9838-c70e2eb2f6d1",
-		"unreleased": true
+		"id": "92e411f2-cc67-4025-9838-c70e2eb2f6d1"
 	},
 	{
 		"title": "Eindterm 13 - Maken van promotiemateriaal",
@@ -2536,8 +2450,7 @@
 			"ff248030-ccb4-4971-a880-16527b91ca81"
 		],
 		"prefix": "C.13",
-		"id": "d73673c8-ccbd-4603-af94-27e87c2bbba8",
-		"unreleased": true
+		"id": "d73673c8-ccbd-4603-af94-27e87c2bbba8"
 	},
 	{
 		"title": "Eindterm 14 - Adviseren over een aankoop",
@@ -2549,8 +2462,7 @@
 			"9f6b1f0d-916f-4e7f-9b28-1549de3de50c"
 		],
 		"prefix": "C.14",
-		"id": "cbb2dd44-2b98-418b-8958-05ab2b9568b6",
-		"unreleased": true
+		"id": "cbb2dd44-2b98-418b-8958-05ab2b9568b6"
 	},
 	{
 		"title": "Eindterm 15 - Organiseren van een activiteit",
@@ -2563,8 +2475,7 @@
 			"9dcdea20-bc83-4140-891b-f516d93dd1c6"
 		],
 		"prefix": "C.15",
-		"id": "aa2b7d02-0d3a-4d4a-9e4f-48c7e2aa4f24",
-		"unreleased": true
+		"id": "aa2b7d02-0d3a-4d4a-9e4f-48c7e2aa4f24"
 	},
 	{
 		"title": "Eindterm 16 - Organiseren van een bezoek",
@@ -2575,8 +2486,7 @@
 			"47c191b2-051c-4106-b891-8ace78ba40a7"
 		],
 		"prefix": "C.16",
-		"id": "9916ace9-107e-4309-b40d-18cd509299e2",
-		"unreleased": true
+		"id": "9916ace9-107e-4309-b40d-18cd509299e2"
 	},
 	{
 		"title": "Eindterm 17 -Bereiden van een gerecht",
@@ -2588,8 +2498,7 @@
 			"4a706a15-dfbc-48b6-843c-c36f1b6b4af3"
 		],
 		"prefix": "C.17",
-		"id": "ee2bf82a-f875-4875-8269-ca981356bcf2",
-		"unreleased": true
+		"id": "ee2bf82a-f875-4875-8269-ca981356bcf2"
 	},
 	{
 		"title": "Eindterm 12 - Ontwerpen van een product",
@@ -2602,8 +2511,7 @@
 			"e6311f46-1a48-4501-95f0-00df1979c26b"
 		],
 		"prefix": "C.12",
-		"id": "107e2d3b-d531-4764-8c31-6cf5916775e5",
-		"unreleased": true
+		"id": "107e2d3b-d531-4764-8c31-6cf5916775e5"
 	},
 	{
 		"title": "Eindterm 13 - Maken van een mediaproduct",
@@ -2615,8 +2523,7 @@
 			"d89c3a57-6127-4a67-97b7-7bf0765e760c"
 		],
 		"prefix": "C.13",
-		"id": "2b57ca5c-17fb-4ac0-b64f-88029d0cc655",
-		"unreleased": true
+		"id": "2b57ca5c-17fb-4ac0-b64f-88029d0cc655"
 	},
 	{
 		"title": "Eindterm 14 - Adviseren over ontwikkelingen",
@@ -2628,8 +2535,7 @@
 			"d489cafc-a07b-44fc-ae1d-7b677abcf237"
 		],
 		"prefix": "C.14",
-		"id": "f7e29c72-e182-4733-830a-d481bcf67d96",
-		"unreleased": true
+		"id": "f7e29c72-e182-4733-830a-d481bcf67d96"
 	},
 	{
 		"title": "Eindterm 15 - Programmeren van een product",
@@ -2642,8 +2548,7 @@
 			"ffcc029b-9dc1-4881-8b37-890cd5956e86"
 		],
 		"prefix": "C.15",
-		"id": "b020bad2-e0fa-41b3-9bc6-7c07eccad4f6",
-		"unreleased": true
+		"id": "b020bad2-e0fa-41b3-9bc6-7c07eccad4f6"
 	},
 	{
 		"title": "Eindterm 16 - Beheren van een dienst",
@@ -2655,8 +2560,7 @@
 			"9f24842e-e9dc-4c9e-92c4-a16dd9aa35c4"
 		],
 		"prefix": "C.16",
-		"id": "b4b56685-9c98-4a4e-b041-1e30741caa6d",
-		"unreleased": true
+		"id": "b4b56685-9c98-4a4e-b041-1e30741caa6d"
 	},
 	{
 		"title": "Eindterm 17 - Ondersteunen van afnemers",
@@ -2669,8 +2573,7 @@
 			"1abcec30-3806-40a1-b1a5-41022cd03938"
 		],
 		"prefix": "C.17",
-		"id": "17e7579a-cde8-4e5c-9933-5847bcb3126e",
-		"unreleased": true
+		"id": "17e7579a-cde8-4e5c-9933-5847bcb3126e"
 	},
 	{
 		"title": "Eindterm 12 - Ontwerpen van een schip",
@@ -2683,8 +2586,7 @@
 			"4c5327cb-8df3-416e-8bd1-eb20372ad0c3"
 		],
 		"prefix": "C.12",
-		"id": "5be4d419-4ab4-4335-8719-81705decd73d",
-		"unreleased": true
+		"id": "5be4d419-4ab4-4335-8719-81705decd73d"
 	},
 	{
 		"title": "Eindterm 13 - Maken van een prototype",
@@ -2696,8 +2598,7 @@
 			"6cd668f7-cc1d-4861-a10e-5402ae7cff29"
 		],
 		"prefix": "C.13",
-		"id": "24ba36dc-5384-4bc9-a349-43404e6fac46",
-		"unreleased": true
+		"id": "24ba36dc-5384-4bc9-a349-43404e6fac46"
 	},
 	{
 		"title": "Eindterm 14 - Adviseren over onderhoud",
@@ -2709,8 +2610,7 @@
 			"b3d7da43-14fd-4631-81e1-6533974fe6b1"
 		],
 		"prefix": "C.14",
-		"id": "8a0aa850-953d-4bee-86bb-bb598b69564b",
-		"unreleased": true
+		"id": "8a0aa850-953d-4bee-86bb-bb598b69564b"
 	},
 	{
 		"title": "Eindterm 15 - Adviseren over een proces",
@@ -2722,8 +2622,7 @@
 			"bcc98cfe-de2f-4b70-997a-e7de92bef246"
 		],
 		"prefix": "C.15",
-		"id": "d9980538-df4f-40d7-9b53-000fef9b2bf1",
-		"unreleased": true
+		"id": "d9980538-df4f-40d7-9b53-000fef9b2bf1"
 	},
 	{
 		"title": "Eindterm 16 - Organiseren van een activiteit",
@@ -2735,8 +2634,7 @@
 			"f08455ff-df1d-4229-822d-c7fcbe0bea73"
 		],
 		"prefix": "C.16",
-		"id": "cfaf36d9-af5c-4857-80ab-a133d2cf9240",
-		"unreleased": true
+		"id": "cfaf36d9-af5c-4857-80ab-a133d2cf9240"
 	},
 	{
 		"title": "Eindterm 17 - Navigeren van een schip",
@@ -2747,8 +2645,7 @@
 			"ca904459-4c0b-4d45-8fc5-0967b81b7db7"
 		],
 		"prefix": "C.17",
-		"id": "1f1f6210-6a3e-4e1f-9cb6-8516aa9c88e3",
-		"unreleased": true
+		"id": "1f1f6210-6a3e-4e1f-9cb6-8516aa9c88e3"
 	},
 	{
 		"title": "Eindterm 12 - Ontwerpen van een voertuig",
@@ -2761,8 +2658,7 @@
 			"8f905952-cf5b-430c-b743-0f97ad3f4725"
 		],
 		"prefix": "C.12",
-		"id": "6f224e0f-c293-4b11-b8e0-db7244156927",
-		"unreleased": true
+		"id": "6f224e0f-c293-4b11-b8e0-db7244156927"
 	},
 	{
 		"title": "Eindterm 13 - Maken van een product",
@@ -2774,8 +2670,7 @@
 			"ec7e4e77-8d91-4f8a-bffa-77932eb10cb9"
 		],
 		"prefix": "C.13",
-		"id": "4e0e10c7-d01c-473e-bdb6-6f3bf1dfb168",
-		"unreleased": true
+		"id": "4e0e10c7-d01c-473e-bdb6-6f3bf1dfb168"
 	},
 	{
 		"title": "Eindterm 14 - Adviseren over een aankoop",
@@ -2787,8 +2682,7 @@
 			"80acded5-b971-46dd-874b-aa41cdf85e2d"
 		],
 		"prefix": "C.14",
-		"id": "52c39409-ceae-4f47-bf8f-4f1e8da985c1",
-		"unreleased": true
+		"id": "52c39409-ceae-4f47-bf8f-4f1e8da985c1"
 	},
 	{
 		"title": "Eindterm 15 - Organiseren van een proces",
@@ -2801,8 +2695,7 @@
 			"4683c642-d23e-47b2-b56f-29ffc50b2c5e"
 		],
 		"prefix": "C.15",
-		"id": "4cab4c4b-2727-47c4-960f-f528fdb5b29f",
-		"unreleased": true
+		"id": "4cab4c4b-2727-47c4-960f-f528fdb5b29f"
 	},
 	{
 		"title": "Eindterm 16 - Onderhouden van een voertuig",
@@ -2815,8 +2708,7 @@
 			"91ca3cfd-22f9-4b3b-a3c1-aa4ba6aae4b9"
 		],
 		"prefix": "C.16",
-		"id": "8b06b07a-831f-462e-9553-78398cc355c5",
-		"unreleased": true
+		"id": "8b06b07a-831f-462e-9553-78398cc355c5"
 	},
 	{
 		"title": "Eindterm 17 - Repareren van een voertuig",
@@ -2829,8 +2721,7 @@
 			"2f1f33e0-a09f-4f91-8031-3883a51a21df"
 		],
 		"prefix": "C.17",
-		"id": "8ed6bca4-c1ab-4045-92fa-de12ed876fd4",
-		"unreleased": true
+		"id": "8ed6bca4-c1ab-4045-92fa-de12ed876fd4"
 	},
 	{
 		"title": "Eindterm 12 - Ontwerpen van een model",
@@ -2843,8 +2734,7 @@
 			"344f28f3-884f-444f-a928-784adc12b5b7"
 		],
 		"prefix": "C.12",
-		"id": "d61bb3a8-63b9-4f2c-a257-fd2e91e201ef",
-		"unreleased": true
+		"id": "d61bb3a8-63b9-4f2c-a257-fd2e91e201ef"
 	},
 	{
 		"title": "Eindterm 13 - Maken van een mediaproduct",
@@ -2857,8 +2747,7 @@
 			"446f1100-c891-408b-8a78-067c05074960"
 		],
 		"prefix": "C.13",
-		"id": "4cd3407c-7a3f-4cea-a39a-a85e2f2aa8a2",
-		"unreleased": true
+		"id": "4cd3407c-7a3f-4cea-a39a-a85e2f2aa8a2"
 	},
 	{
 		"title": "Eindterm 14 - Maken van een audiovisueel product",
@@ -2871,8 +2760,7 @@
 			"1d7d9ed4-cebe-4d15-8ec2-e77e1794db14"
 		],
 		"prefix": "C.14",
-		"id": "a95363de-3b03-409a-a9b0-97aacae2fceb",
-		"unreleased": true
+		"id": "a95363de-3b03-409a-a9b0-97aacae2fceb"
 	},
 	{
 		"title": "Eindterm 15 - Adviseren over een omgeving",
@@ -2884,8 +2772,7 @@
 			"cb8ec05a-8967-489e-ad96-11e4ca647303"
 		],
 		"prefix": "C.15",
-		"id": "01882bc1-586b-4ae1-88b3-529d7388d0be",
-		"unreleased": true
+		"id": "01882bc1-586b-4ae1-88b3-529d7388d0be"
 	},
 	{
 		"title": "Eindterm 16 - Programmeren van een product",
@@ -2898,8 +2785,7 @@
 			"516f2fe3-6505-4159-8e40-6001a5fae0a7"
 		],
 		"prefix": "C.16",
-		"id": "d2ffc9fc-fe6b-4c97-a32c-8b9776cb8b35",
-		"unreleased": true
+		"id": "d2ffc9fc-fe6b-4c97-a32c-8b9776cb8b35"
 	},
 	{
 		"title": "Eindterm 17 - Programmeren van een game",
@@ -2912,8 +2798,7 @@
 			"4d4e1372-15a6-4520-a5c2-a8354ae4a9e6"
 		],
 		"prefix": "C.17",
-		"id": "db881125-038b-4ba1-8cee-cd8d7490b8ed",
-		"unreleased": true
+		"id": "db881125-038b-4ba1-8cee-cd8d7490b8ed"
 	},
 	{
 		"title": "Eindterm 12 - Ontwerpen van een product",
@@ -2926,8 +2811,7 @@
 			"c787733c-ff1c-43ab-97e3-31f6c97fb82c"
 		],
 		"prefix": "C.12",
-		"id": "a85b03b0-572b-45b7-8847-b7d5a8545e3d",
-		"unreleased": true
+		"id": "a85b03b0-572b-45b7-8847-b7d5a8545e3d"
 	},
 	{
 		"title": "Eindterm 13 - Maken van een product",
@@ -2939,8 +2823,7 @@
 			"9a2058a7-864d-4ed5-b5fc-b7111e074a82"
 		],
 		"prefix": "C.13",
-		"id": "7e701474-ff8e-43fa-92ce-5795c4b1c2cd",
-		"unreleased": true
+		"id": "7e701474-ff8e-43fa-92ce-5795c4b1c2cd"
 	},
 	{
 		"title": "Eindterm 14 - Adviseren over oplossingen",
@@ -2952,8 +2835,7 @@
 			"c3747ff8-d008-4b8a-8baf-26c6c6a14fd8"
 		],
 		"prefix": "C.14",
-		"id": "7798a1f7-0ccd-42d6-9460-965438b81033",
-		"unreleased": true
+		"id": "7798a1f7-0ccd-42d6-9460-965438b81033"
 	},
 	{
 		"title": "Eindterm 15 - Adviseren over een proces",
@@ -2965,8 +2847,7 @@
 			"04f2540f-778b-41a1-b5f4-b9e5f93db1a9"
 		],
 		"prefix": "C.15",
-		"id": "99575ec9-30b9-41f3-8c90-7785aa75f292",
-		"unreleased": true
+		"id": "99575ec9-30b9-41f3-8c90-7785aa75f292"
 	},
 	{
 		"title": "Eindterm 16 - Installeren van een installatie",
@@ -2977,8 +2858,7 @@
 			"8aef0fa9-d1dc-486a-94eb-266701db3558"
 		],
 		"prefix": "C.16",
-		"id": "47070b5b-60f7-4959-a8e1-321a4206f503",
-		"unreleased": true
+		"id": "47070b5b-60f7-4959-a8e1-321a4206f503"
 	},
 	{
 		"title": "Eindterm 17 - Onderhouden van een installatie",
@@ -2991,8 +2871,7 @@
 			"cbb154ac-940c-4cbb-847d-11fcce633e3b"
 		],
 		"prefix": "C.17",
-		"id": "49e7b807-86f6-4f57-8934-00d0553ad110",
-		"unreleased": true
+		"id": "49e7b807-86f6-4f57-8934-00d0553ad110"
 	},
 	{
 		"title": "Eindterm 12 - Ontwerpen van een product",
@@ -3005,8 +2884,7 @@
 			"0e7d4ba6-aa38-4b53-9adf-2d24f80ac1e8"
 		],
 		"prefix": "C.12",
-		"id": "d879cb51-2f63-4c2b-8bac-4503e651d429",
-		"unreleased": true
+		"id": "d879cb51-2f63-4c2b-8bac-4503e651d429"
 	},
 	{
 		"title": "Eindterm 13 - Ontwerpen van een omgeving",
@@ -3019,8 +2897,7 @@
 			"d603a27b-eb25-4521-af74-3281f456eb12"
 		],
 		"prefix": "C.13",
-		"id": "3566daed-2758-4594-bd96-239b2b9c9c27",
-		"unreleased": true
+		"id": "3566daed-2758-4594-bd96-239b2b9c9c27"
 	},
 	{
 		"title": "Eindterm 14 - Maken van een prototype",
@@ -3032,8 +2909,7 @@
 			"9a448c3c-a1c3-455a-ad2b-714c172dc707"
 		],
 		"prefix": "C.14",
-		"id": "0843bbd3-1a57-43f3-abc2-327e39c0d0cb",
-		"unreleased": true
+		"id": "0843bbd3-1a57-43f3-abc2-327e39c0d0cb"
 	},
 	{
 		"title": "Eindterm 15 - Adviseren over toepassingen",
@@ -3045,8 +2921,7 @@
 			"1097e43c-b5f1-4fec-b7ba-74b0809740ff"
 		],
 		"prefix": "C.15",
-		"id": "4d87a51b-fc95-4316-a264-35b5e458e72f",
-		"unreleased": true
+		"id": "4d87a51b-fc95-4316-a264-35b5e458e72f"
 	},
 	{
 		"title": "Eindterm 16 - Adviseren over een energiesysteem",
@@ -3059,8 +2934,7 @@
 			"b94f0e31-ba2e-4aac-8d14-0cddf158c3c6"
 		],
 		"prefix": "C.16",
-		"id": "9ec38d23-c93f-45fc-8f5d-a3f38dbf0207",
-		"unreleased": true
+		"id": "9ec38d23-c93f-45fc-8f5d-a3f38dbf0207"
 	},
 	{
 		"title": "Eindterm 17 - Programmeren van software",
@@ -3073,8 +2947,7 @@
 			"8100d022-2afd-4719-99ce-3748b140e317"
 		],
 		"prefix": "C.17",
-		"id": "fcc477fa-f71d-4903-9320-d1b61f52842a",
-		"unreleased": true
+		"id": "fcc477fa-f71d-4903-9320-d1b61f52842a"
 	},
 	{
 		"title": "Eindterm 12 - Ontwerpen van een product",
@@ -3087,8 +2960,7 @@
 			"f6646de1-c0e8-45b9-b4c3-a11dda03f0f6"
 		],
 		"prefix": "C.12",
-		"id": "53ae834d-3951-4c42-8e51-46b7089ab4dd",
-		"unreleased": true
+		"id": "53ae834d-3951-4c42-8e51-46b7089ab4dd"
 	},
 	{
 		"title": "Eindterm 13 - Maken van een product",
@@ -3100,8 +2972,7 @@
 			"24be4a81-0929-4d5f-8e76-e5b2a3f12d59"
 		],
 		"prefix": "C.13",
-		"id": "fa28c3a7-52b5-484a-86a0-08ef9e70a3c1",
-		"unreleased": true
+		"id": "fa28c3a7-52b5-484a-86a0-08ef9e70a3c1"
 	},
 	{
 		"title": "Eindterm 14 - Adviseren over oplossingen",
@@ -3113,8 +2984,7 @@
 			"895cf9cd-c22b-45e3-a678-0e5f23309c8c"
 		],
 		"prefix": "C.14",
-		"id": "face8b2f-5bb7-42bd-93ac-5a03a8d1a76f",
-		"unreleased": true
+		"id": "face8b2f-5bb7-42bd-93ac-5a03a8d1a76f"
 	},
 	{
 		"title": "Eindterm 15 - Organiseren van een proces",
@@ -3127,8 +2997,7 @@
 			"14993f68-7e76-437d-91f1-8edc0b044e4a"
 		],
 		"prefix": "C.15",
-		"id": "010507c7-81d5-4c21-90b0-7732e7ed148b",
-		"unreleased": true
+		"id": "010507c7-81d5-4c21-90b0-7732e7ed148b"
 	},
 	{
 		"title": "Eindterm 16 - Monteren van elementen",
@@ -3139,8 +3008,7 @@
 			"e220df70-0594-405f-ad00-35085768a9ba"
 		],
 		"prefix": "C.16",
-		"id": "85180a0b-d29d-4121-bb2c-bd3b9d344185",
-		"unreleased": true
+		"id": "85180a0b-d29d-4121-bb2c-bd3b9d344185"
 	},
 	{
 		"title": "Eindterm 17 - Onderhouden van een installatie",
@@ -3153,8 +3021,7 @@
 			"e0d4f330-c87d-4d81-bffc-d8fc68259537"
 		],
 		"prefix": "C.17",
-		"id": "c97bf1d3-293c-4d8d-831e-b66d2d392330",
-		"unreleased": true
+		"id": "c97bf1d3-293c-4d8d-831e-b66d2d392330"
 	},
 	{
 		"title": "Eindterm 12 - Ontwerpen van een product",
@@ -3167,8 +3034,7 @@
 			"40bb8e4e-7c0a-40fc-a39b-8a5865697560"
 		],
 		"prefix": "C.12",
-		"id": "0a2c5d35-6743-4ecb-8d29-3161a7248956",
-		"unreleased": true
+		"id": "0a2c5d35-6743-4ecb-8d29-3161a7248956"
 	},
 	{
 		"title": "Eindterm 13 - Adviseren over leefstijl",
@@ -3181,8 +3047,7 @@
 			"28d6be98-53bc-41a4-9139-1b278538e1e7"
 		],
 		"prefix": "C.13",
-		"id": "f0f068f8-6e16-4230-9415-35358358cfe5",
-		"unreleased": true
+		"id": "f0f068f8-6e16-4230-9415-35358358cfe5"
 	},
 	{
 		"title": "Eindterm 14 - Organiseren van een activiteit",
@@ -3195,8 +3060,7 @@
 			"4fc22879-8e75-4cba-aed1-c53dc3e7ca98"
 		],
 		"prefix": "C.14",
-		"id": "edfa5dce-9a41-40d9-b04a-26bcc1a5c38a",
-		"unreleased": true
+		"id": "edfa5dce-9a41-40d9-b04a-26bcc1a5c38a"
 	},
 	{
 		"title": "Eindterm 15 - Ondersteunen van een klant",
@@ -3208,8 +3072,7 @@
 			"d57fa1f9-74a7-42b9-9efc-84e5725a1d16"
 		],
 		"prefix": "C.15",
-		"id": "a4fa376c-7f31-414f-8af3-d4d10e847089",
-		"unreleased": true
+		"id": "a4fa376c-7f31-414f-8af3-d4d10e847089"
 	},
 	{
 		"title": "Eindterm 16 - Verzorgen van het uiterlijk",
@@ -3222,8 +3085,7 @@
 			"66687bae-aacf-4e59-887a-d606e51c8263"
 		],
 		"prefix": "C.16",
-		"id": "f54abd6f-0804-4556-8eb6-ccff0f142ccb",
-		"unreleased": true
+		"id": "f54abd6f-0804-4556-8eb6-ccff0f142ccb"
 	},
 	{
 		"title": "Eindterm 17 - Bereiden van een maaltijd",
@@ -3235,8 +3097,7 @@
 			"338f8e6f-2ed6-4e07-ac05-ec5dfdc14cbb"
 		],
 		"prefix": "C.17",
-		"id": "1c3d35fa-64d8-4bfd-9b13-1f09d13de0d1",
-		"unreleased": true
+		"id": "1c3d35fa-64d8-4bfd-9b13-1f09d13de0d1"
 	},
 	{
 		"title": "Concept - Kerndoel 1 - Taal- en leesomgeving",
@@ -3255,8 +3116,7 @@
 			"ce73b2ea-8c55-45d1-8019-4459cb3b3263"
 		],
 		"prefix": "O1.1",
-		"id": "d7c79eed-21bc-4fcd-95d2-c06bbc385de3",
-		"unreleased": true
+		"id": "d7c79eed-21bc-4fcd-95d2-c06bbc385de3"
 	},
 	{
 		"title": "Concept - Kerndoel 1 - Taal- en leesomgeving",
@@ -3273,8 +3133,7 @@
 			"443cd4b7-7dd4-4169-8e3e-ae1ed6d33ed2"
 		],
 		"prefix": "O1.1",
-		"id": "fad80cde-0118-4d43-a2cb-e9efb8c93b53",
-		"unreleased": true
+		"id": "fad80cde-0118-4d43-a2cb-e9efb8c93b53"
 	},
 	{
 		"title": "Concept - Kerndoel 1 - Taal- en leesomgeving",
@@ -3292,8 +3151,7 @@
 			"28a96428-33ad-419e-948b-415907bc0a2c"
 		],
 		"prefix": "O1.1",
-		"id": "aece0d72-7e20-435d-a178-9b0a7a469e06",
-		"unreleased": true
+		"id": "aece0d72-7e20-435d-a178-9b0a7a469e06"
 	},
 	{
 		"title": "Concept - Kerndoel 2 - Taal in de leergebieden en praktijkvakken",
@@ -3309,8 +3167,7 @@
 			"54d0e583-cf29-4c5d-8152-7b4b828e3265"
 		],
 		"prefix": "O1.2",
-		"id": "37d96134-8fc2-4d58-9e66-df764a836c98",
-		"unreleased": true
+		"id": "37d96134-8fc2-4d58-9e66-df764a836c98"
 	},
 	{
 		"title": "Concept - Kerndoel 2 - Taal in de leergebieden en praktijkvakken",
@@ -3326,8 +3183,7 @@
 			"7e34ac22-d15a-41d1-ad4b-cfa3e23e14df"
 		],
 		"prefix": "O2.2",
-		"id": "574c105c-14bc-479d-a620-dd583aaa488c",
-		"unreleased": true
+		"id": "574c105c-14bc-479d-a620-dd583aaa488c"
 	},
 	{
 		"title": "Concept - Kerndoel 2 - Taal in de leergebieden en praktijkvakken",
@@ -3344,8 +3200,7 @@
 			"154d6d38-4448-4154-bb90-5229d9b9a302"
 		],
 		"prefix": "O2.2",
-		"id": "6ddfa8f2-7c22-41fc-8a34-8e1c795b709f",
-		"unreleased": true
+		"id": "6ddfa8f2-7c22-41fc-8a34-8e1c795b709f"
 	},
 	{
 		"title": "Concept - Kerndoel 3 - Begrijpend luisteren, lezen en/of kijken",
@@ -3361,8 +3216,7 @@
 			"1cdfb78d-82d9-428f-a222-80e737968732"
 		],
 		"prefix": "A1.3",
-		"id": "9561782a-e1ca-442c-86c0-a0eec8cdae2f",
-		"unreleased": true
+		"id": "9561782a-e1ca-442c-86c0-a0eec8cdae2f"
 	},
 	{
 		"title": "Concept - Kerndoel 3 - Begrijpend luisteren, lezen en/of kijken",
@@ -3378,8 +3232,7 @@
 			"1bbe0bc1-7dbe-4f30-9497-04696fadf118"
 		],
 		"prefix": "A1.3",
-		"id": "65816e71-4f8a-4e8d-bdad-c2cf4d745a17",
-		"unreleased": true
+		"id": "65816e71-4f8a-4e8d-bdad-c2cf4d745a17"
 	},
 	{
 		"title": "Concept - Kerndoel 3 - Begrijpend luisteren, lezen en/of kijken",
@@ -3398,8 +3251,7 @@
 			"a0670f1b-22de-4095-ab4f-07bbeb3c1621"
 		],
 		"prefix": "A1.3",
-		"id": "580a18b5-d619-4782-85f2-e7e644867b5e",
-		"unreleased": true
+		"id": "580a18b5-d619-4782-85f2-e7e644867b5e"
 	},
 	{
 		"title": "Concept - Kerndoel 4 - Doelgericht communiceren",
@@ -3415,8 +3267,7 @@
 			"69f18aff-cb6f-471b-bb41-57fccfec91e0"
 		],
 		"prefix": "A1.4",
-		"id": "7fe4ff43-f868-4988-b36f-67eb6864caed",
-		"unreleased": true
+		"id": "7fe4ff43-f868-4988-b36f-67eb6864caed"
 	},
 	{
 		"title": "Concept - Kerndoel 4 - Doelgericht communiceren",
@@ -3433,8 +3284,7 @@
 			"2eacdb39-4618-42f3-a891-77e8a2c3c7c8"
 		],
 		"prefix": "A1.4",
-		"id": "c320e4ec-5149-4a41-919f-1d1c7fbf83ce",
-		"unreleased": true
+		"id": "c320e4ec-5149-4a41-919f-1d1c7fbf83ce"
 	},
 	{
 		"title": "Concept - Kerndoel 4 - Doelgericht communiceren",
@@ -3452,8 +3302,7 @@
 			"23f8b17e-37d4-43b8-bfb7-c956d1663da9"
 		],
 		"prefix": "A1.4",
-		"id": "1467bb9c-0fd1-44c5-a364-06df8dbcb19e",
-		"unreleased": true
+		"id": "1467bb9c-0fd1-44c5-a364-06df8dbcb19e"
 	},
 	{
 		"title": "Concept - Kerndoel 5 - Creatief taal gebruiken",
@@ -3469,8 +3318,7 @@
 			"57c7158c-874a-45a7-9acc-d58867d86fb2"
 		],
 		"prefix": "A1.5",
-		"id": "07c3d5ad-952d-4fef-b892-93bcab2bb8fe",
-		"unreleased": true
+		"id": "07c3d5ad-952d-4fef-b892-93bcab2bb8fe"
 	},
 	{
 		"title": "Concept - Kerndoel 5 - Creatief taal gebruiken",
@@ -3486,8 +3334,7 @@
 			"6049f3c9-d16c-45cf-899e-b54a8fd47a71"
 		],
 		"prefix": "A1.5",
-		"id": "e0d648b3-c8ee-48d5-b43d-fa2cc26d4a39",
-		"unreleased": true
+		"id": "e0d648b3-c8ee-48d5-b43d-fa2cc26d4a39"
 	},
 	{
 		"title": "Concept - Kerndoel 5 - Creatief taal gebruiken",
@@ -3505,8 +3352,7 @@
 			"9df3b91e-4e96-4dbc-a36d-b6d274a2a4c1"
 		],
 		"prefix": "A1.5",
-		"id": "8a8b3298-09af-4fdc-81be-e6964dbe7270",
-		"unreleased": true
+		"id": "8a8b3298-09af-4fdc-81be-e6964dbe7270"
 	},
 	{
 		"title": "Concept - Kerndoel 6 - Bronnen onderzoeken",
@@ -3520,8 +3366,7 @@
 			"7d2a81a3-00a0-4dde-be0e-c80cc4366d12"
 		],
 		"prefix": "A1.6",
-		"id": "8d464645-eeee-4d02-96cc-f44aad0440d3",
-		"unreleased": true
+		"id": "8d464645-eeee-4d02-96cc-f44aad0440d3"
 	},
 	{
 		"title": "Concept - Kerndoel 6 - Bronnen onderzoeken",
@@ -3535,8 +3380,7 @@
 			"8f91783b-197e-4b4e-bc04-8e1a752960f4"
 		],
 		"prefix": "A1.6",
-		"id": "2f7f4626-6f7f-46fa-8128-74a2a742fc66",
-		"unreleased": true
+		"id": "2f7f4626-6f7f-46fa-8128-74a2a742fc66"
 	},
 	{
 		"title": "Concept - Kerndoel 6 - Bronnen onderzoeken",
@@ -3550,8 +3394,7 @@
 			"449a4a4a-4bee-4659-bf86-72cdb4da5127"
 		],
 		"prefix": "A1.6",
-		"id": "1b68cbd8-cb1f-4c8c-8fb2-61c319544afa",
-		"unreleased": true
+		"id": "1b68cbd8-cb1f-4c8c-8fb2-61c319544afa"
 	},
 	{
 		"title": "Concept - Kerndoel 7 - Reflecteren op taalactiviteiten",
@@ -3567,8 +3410,7 @@
 			"3ec01eeb-392d-435c-86d8-39bbc4a665b4"
 		],
 		"prefix": "A1.7",
-		"id": "bd0564a3-651d-48fb-b2e5-cee16e885c4e",
-		"unreleased": true
+		"id": "bd0564a3-651d-48fb-b2e5-cee16e885c4e"
 	},
 	{
 		"title": "Concept - Kerndoel 7 - Reflecteren op taalactiviteiten",
@@ -3586,8 +3428,7 @@
 			"02a21c38-8673-465a-bac6-cd6bcd012259"
 		],
 		"prefix": "A1.7",
-		"id": "a6065e1e-ea03-4508-b251-4308a8590b58",
-		"unreleased": true
+		"id": "a6065e1e-ea03-4508-b251-4308a8590b58"
 	},
 	{
 		"title": "Concept - Kerndoel 7 - Reflecteren op taalactiviteiten",
@@ -3606,8 +3447,7 @@
 			"7b9243bf-8677-47d4-9117-7e1a42d065d1"
 		],
 		"prefix": "A1.7",
-		"id": "95e9463d-3b66-4c83-ba37-c7e932a8f24e",
-		"unreleased": true
+		"id": "95e9463d-3b66-4c83-ba37-c7e932a8f24e"
 	},
 	{
 		"title": "Concept - Kerndoel 8 - Doelgericht gesprekken voeren",
@@ -3626,8 +3466,7 @@
 			"80bf039e-9f93-4bb2-9313-19dc8cbde9d2"
 		],
 		"prefix": "A2.8",
-		"id": "090162f7-130a-481d-8d65-3757c348da06",
-		"unreleased": true
+		"id": "090162f7-130a-481d-8d65-3757c348da06"
 	},
 	{
 		"title": "Concept - Kerndoel 8 - Doelgericht gesprekken voeren",
@@ -3645,8 +3484,7 @@
 			"56962ca0-9ce9-4929-820d-f9ee190ea859"
 		],
 		"prefix": "A2.8",
-		"id": "297f334e-520b-4065-8c96-0f1b55ca11a3",
-		"unreleased": true
+		"id": "297f334e-520b-4065-8c96-0f1b55ca11a3"
 	},
 	{
 		"title": "Concept - Kerndoel 8 - Doelgericht gesprekken voeren",
@@ -3664,8 +3502,7 @@
 			"eafb8c47-fbe9-49e2-9862-8fe4985a7d5b"
 		],
 		"prefix": "A2.8",
-		"id": "5b9679fb-664e-4dbe-8146-d887df590370",
-		"unreleased": true
+		"id": "5b9679fb-664e-4dbe-8146-d887df590370"
 	},
 	{
 		"title": "Concept - Kerndoel 9 - Gesprekken voeren om te leren",
@@ -3681,8 +3518,7 @@
 			"f1c1f7cb-0690-4658-b269-465d3a2db157"
 		],
 		"prefix": "A2.9",
-		"id": "f0ba095c-2dda-4417-bc08-601369756749",
-		"unreleased": true
+		"id": "f0ba095c-2dda-4417-bc08-601369756749"
 	},
 	{
 		"title": "Concept - Kerndoel 9 - Gesprekken voeren om te leren",
@@ -3698,8 +3534,7 @@
 			"21abfdcc-a4c3-4eaa-b018-d50e05f960c0"
 		],
 		"prefix": "A2.9",
-		"id": "f49f8889-3256-4737-90d3-eabbafb6903b",
-		"unreleased": true
+		"id": "f49f8889-3256-4737-90d3-eabbafb6903b"
 	},
 	{
 		"title": "Concept - Kerndoel 9 - Gesprekken voeren om te leren",
@@ -3716,8 +3551,7 @@
 			"95a55e4a-b704-4994-872f-af6714733c0c"
 		],
 		"prefix": "A2.9",
-		"id": "b7c23d6d-f47a-41c6-8f29-15e9c0fb6786",
-		"unreleased": true
+		"id": "b7c23d6d-f47a-41c6-8f29-15e9c0fb6786"
 	},
 	{
 		"title": "Concept - Kerndoel 10 - Vorm en betekenis van taal",
@@ -3732,8 +3566,7 @@
 			"abd6c0ba-4dca-4cc3-9198-4d025faaa24f"
 		],
 		"prefix": "B1.10",
-		"id": "91f9a7f4-0f4d-43bb-b564-0e8bcd56679a",
-		"unreleased": true
+		"id": "91f9a7f4-0f4d-43bb-b564-0e8bcd56679a"
 	},
 	{
 		"title": "Concept - Kerndoel 10 - Vorm en betekenis van taal",
@@ -3748,8 +3581,7 @@
 			"9ca30ef5-ffe0-4562-a686-969788d76a87"
 		],
 		"prefix": "B1.10",
-		"id": "7277cd75-566e-4dcb-9086-e9379f42970c",
-		"unreleased": true
+		"id": "7277cd75-566e-4dcb-9086-e9379f42970c"
 	},
 	{
 		"title": "Concept - Kerndoel 10 - Vorm en betekenis van taal",
@@ -3766,8 +3598,7 @@
 			"31b03f4b-4942-418c-a85f-2ca41d482067"
 		],
 		"prefix": "B1.10",
-		"id": "fca436bf-1988-4fdc-a6fd-7bc87fdebbf7",
-		"unreleased": true
+		"id": "fca436bf-1988-4fdc-a6fd-7bc87fdebbf7"
 	},
 	{
 		"title": "Concept - Kerndoel 11 - Schriftelijke taalverzorging",
@@ -3782,8 +3613,7 @@
 			"73aacd58-7f7b-41ac-ad8b-18a168b65ac4"
 		],
 		"prefix": "B1.11",
-		"id": "fa700a59-bc55-4039-b320-a2d4ec25b32d",
-		"unreleased": true
+		"id": "fa700a59-bc55-4039-b320-a2d4ec25b32d"
 	},
 	{
 		"title": "Concept - Kerndoel 11 - Schriftelijke taalverzorging",
@@ -3798,8 +3628,7 @@
 			"52bce1a1-b8fb-455a-b8de-3044d22f74fb"
 		],
 		"prefix": "B1.11",
-		"id": "838eb09e-0666-4e6a-ba8d-1df26bb00b70",
-		"unreleased": true
+		"id": "838eb09e-0666-4e6a-ba8d-1df26bb00b70"
 	},
 	{
 		"title": "Concept - Kerndoel 11 - Schriftelijke taalverzorging",
@@ -3815,8 +3644,7 @@
 			"21e5d2c9-5f59-46c3-9c27-16ab27d5e2e4"
 		],
 		"prefix": "B1.11",
-		"id": "4e193aaf-3325-4495-8371-e7d1cce8460c",
-		"unreleased": true
+		"id": "4e193aaf-3325-4495-8371-e7d1cce8460c"
 	},
 	{
 		"title": "Concept - Kerndoel 12 - Talige identiteit",
@@ -3832,8 +3660,7 @@
 			"58a2e53d-0fa4-46dc-b67b-c83b0b4b3c35"
 		],
 		"prefix": "B2.12",
-		"id": "1c55976c-7e3c-4658-9b01-5557ebb46b84",
-		"unreleased": true
+		"id": "1c55976c-7e3c-4658-9b01-5557ebb46b84"
 	},
 	{
 		"title": "Concept - Kerndoel 12 - Talige identiteit",
@@ -3849,8 +3676,7 @@
 			"9dabf89c-dd72-4fce-a14a-095112810f44"
 		],
 		"prefix": "B2.12",
-		"id": "27c0b6ff-339a-4335-ba4c-859469b40252",
-		"unreleased": true
+		"id": "27c0b6ff-339a-4335-ba4c-859469b40252"
 	},
 	{
 		"title": "Concept - Kerndoel 12 - Talige identiteit",
@@ -3867,8 +3693,7 @@
 			"c8ee1378-1dd5-487a-9f3d-4e807240b2a7"
 		],
 		"prefix": "B2.12",
-		"id": "01ada9cf-586f-425e-b01b-d16d4909c3c4",
-		"unreleased": true
+		"id": "01ada9cf-586f-425e-b01b-d16d4909c3c4"
 	},
 	{
 		"title": "Concept - Kerndoel 13 - Literaire teksten",
@@ -3886,8 +3711,7 @@
 			"fe45e49f-cc9a-408e-acbe-5f5b2de540c8"
 		],
 		"prefix": "C1.13",
-		"id": "6e65d06a-e919-4165-8e22-a98db5fb0d87",
-		"unreleased": true
+		"id": "6e65d06a-e919-4165-8e22-a98db5fb0d87"
 	},
 	{
 		"title": "Concept - Kerndoel 13 - Literaire teksten",
@@ -3905,8 +3729,7 @@
 			"238b2098-f78d-4bd4-a8aa-46dd978ea5af"
 		],
 		"prefix": "C1.13",
-		"id": "43fff266-82a2-4998-bab7-914b8b9035cd",
-		"unreleased": true
+		"id": "43fff266-82a2-4998-bab7-914b8b9035cd"
 	},
 	{
 		"title": "Concept - Kerndoel 13 - Literaire teksten",
@@ -3925,8 +3748,7 @@
 			"aaec25bd-c091-4e7a-acc7-02beb354493e"
 		],
 		"prefix": "C1.13",
-		"id": "f467fe1d-210b-4d4f-b65a-df8ff29c59f8",
-		"unreleased": true
+		"id": "f467fe1d-210b-4d4f-b65a-df8ff29c59f8"
 	},
 	{
 		"title": "Concept - Kerndoel 14 - Leesvoorkeur",
@@ -3942,8 +3764,7 @@
 			"46f04c55-f0ce-4946-984e-f5f24def6b0f"
 		],
 		"prefix": "C2.14",
-		"id": "1a6c3f41-f76d-419a-850c-7a4a9071ff88",
-		"unreleased": true
+		"id": "1a6c3f41-f76d-419a-850c-7a4a9071ff88"
 	},
 	{
 		"title": "Concept - Kerndoel 14 - Leesvoorkeur",
@@ -3959,8 +3780,7 @@
 			"7561f177-d55e-4221-af94-52bdf865ddc8"
 		],
 		"prefix": "C2.14",
-		"id": "a0798be3-9352-491a-8a27-734489a717b9",
-		"unreleased": true
+		"id": "a0798be3-9352-491a-8a27-734489a717b9"
 	},
 	{
 		"title": "Concept - Kerndoel 14 - Leesvoorkeur",
@@ -3978,8 +3798,7 @@
 			"f4647da7-fefe-4575-b365-ea5633b0ec52"
 		],
 		"prefix": "C2.14",
-		"id": "7e5457eb-22ee-4684-aede-94cb9b6ee8fd",
-		"unreleased": true
+		"id": "7e5457eb-22ee-4684-aede-94cb9b6ee8fd"
 	},
 	{
 		"title": "Concept - Kerrndoel 1 - Wiskunde in de werkelijkheid",
@@ -3995,8 +3814,7 @@
 			"be1a1e00-f183-4b29-8205-5a793d19f053"
 		],
 		"prefix": "A.1",
-		"id": "d17bf839-dc4f-4de7-b416-12d11a5e0add",
-		"unreleased": true
+		"id": "d17bf839-dc4f-4de7-b416-12d11a5e0add"
 	},
 	{
 		"title": "Concept - Kerrndoel 2 - Wiskunde in andere leergebieden",
@@ -4014,8 +3832,7 @@
 			"f2223a4c-63cb-4bc5-97f8-71f6a6cd8cee"
 		],
 		"prefix": "A.2",
-		"id": "6dea5e47-abc5-40e0-b143-358174ce4db5",
-		"unreleased": true
+		"id": "6dea5e47-abc5-40e0-b143-358174ce4db5"
 	},
 	{
 		"title": "Concept - Kerrndoel 3 - Interne samenhang",
@@ -4033,8 +3850,7 @@
 			"a744e04e-d24a-40f2-b56b-b2d0315533d3"
 		],
 		"prefix": "A.3",
-		"id": "052dd6d2-2732-42a1-b548-8d07a9d1687c",
-		"unreleased": true
+		"id": "052dd6d2-2732-42a1-b548-8d07a9d1687c"
 	},
 	{
 		"title": "Concept - Kerndoel 4 - Wiskundige attitude",
@@ -4053,8 +3869,7 @@
 			"ce14566d-4e83-4513-a720-80448375456b"
 		],
 		"prefix": "B.4",
-		"id": "cd19a94c-1ee9-4360-99f2-1cd65dd19ad5",
-		"unreleased": true
+		"id": "cd19a94c-1ee9-4360-99f2-1cd65dd19ad5"
 	},
 	{
 		"title": "Concept - Kerndoel 5 - Getallen",
@@ -4073,8 +3888,7 @@
 			"a59b84ce-98cf-4819-83b0-c63aef5d9cd7"
 		],
 		"prefix": "C.5",
-		"id": "4b246ec4-1ed8-4c52-b43e-5ab6a1c0424e",
-		"unreleased": true
+		"id": "4b246ec4-1ed8-4c52-b43e-5ab6a1c0424e"
 	},
 	{
 		"title": "Concept - Kerndoel 6 - Verhoudingen",
@@ -4088,8 +3902,7 @@
 			"5e4dc50a-3348-4351-8e97-d0c6d74ea72d"
 		],
 		"prefix": "C.6",
-		"id": "fe1bfa69-3e07-4789-b59a-9dff4430d896",
-		"unreleased": true
+		"id": "fe1bfa69-3e07-4789-b59a-9dff4430d896"
 	},
 	{
 		"title": "Concept - Kerndoel 7 - Gangbare grootheden en bijpassende eenheden",
@@ -4107,8 +3920,7 @@
 			"11a94610-11b0-4d49-af91-12d1b5150ffd"
 		],
 		"prefix": "C.7",
-		"id": "41b01fca-a44f-4762-8132-a089cb0d435b",
-		"unreleased": true
+		"id": "41b01fca-a44f-4762-8132-a089cb0d435b"
 	},
 	{
 		"title": "Concept - Kerndoel 8 - Grootheid tijd en bijpassende eenheden",
@@ -4126,8 +3938,7 @@
 			"47dcaf16-14b8-4041-92af-df6ef227de20"
 		],
 		"prefix": "C.8",
-		"id": "fcf77d53-51c9-4535-8887-16b687c12b35",
-		"unreleased": true
+		"id": "fcf77d53-51c9-4535-8887-16b687c12b35"
 	},
 	{
 		"title": "Concept - Kerndoel 9 - Grootheid geld en bijpassende eenheden",
@@ -4145,8 +3956,7 @@
 			"77e78a8e-3efd-4289-af4e-9e0a764204f3"
 		],
 		"prefix": "C.9",
-		"id": "f266670c-45e1-4dfc-95e4-a9109f1a98c3",
-		"unreleased": true
+		"id": "f266670c-45e1-4dfc-95e4-a9109f1a98c3"
 	},
 	{
 		"title": "Concept - Kerndoel 10 - Vorm, ruimte en patronen",
@@ -4164,8 +3974,7 @@
 			"f448f8ba-cad5-424e-8e8d-e207d852537c"
 		],
 		"prefix": "C.10",
-		"id": "5d08450f-5e0b-4b15-8bb3-e52e5b2e7331",
-		"unreleased": true
+		"id": "5d08450f-5e0b-4b15-8bb3-e52e5b2e7331"
 	},
 	{
 		"title": "Concept - Kerndoel 11 - Gebruiken van wiskundetaal en wiskundige representaties",
@@ -4182,8 +3991,7 @@
 			"28e5fab8-aba6-4fd1-a7c8-65ba9957e7ba"
 		],
 		"prefix": "D.11",
-		"id": "56346b00-a8db-472a-983e-0143021570b8",
-		"unreleased": true
+		"id": "56346b00-a8db-472a-983e-0143021570b8"
 	},
 	{
 		"title": "Concept - Kerndoel 12 - Gebruiken van wiskundige instrumenten",
@@ -4198,8 +4006,7 @@
 			"d2a9d5c5-01cf-4b53-a5e8-c5a8e0498980"
 		],
 		"prefix": "D.12",
-		"id": "bdc74166-3003-4deb-b8d8-56a520569564",
-		"unreleased": true
+		"id": "bdc74166-3003-4deb-b8d8-56a520569564"
 	},
 	{
 		"title": "Concept - Kerrndoel 1 - Wiskunde in de werkelijkheid",
@@ -4217,8 +4024,7 @@
 			"0d3e5539-d81a-43b5-93b1-da0bf273faa8"
 		],
 		"prefix": "A.1",
-		"id": "41846d7e-ecb0-4a26-93fb-693a444bc4de",
-		"unreleased": true
+		"id": "41846d7e-ecb0-4a26-93fb-693a444bc4de"
 	},
 	{
 		"title": "Concept - Kerrndoel 2 - Wiskunde in andere leergebieden",
@@ -4237,8 +4043,7 @@
 			"ffeb9ef1-9077-4627-a495-433e83cbd1ab"
 		],
 		"prefix": "A.2",
-		"id": "23f99b4d-a3b8-4c0b-a7b6-527036661256",
-		"unreleased": true
+		"id": "23f99b4d-a3b8-4c0b-a7b6-527036661256"
 	},
 	{
 		"title": "Concept - Kerrndoel 3 - Interne samenhang",
@@ -4256,8 +4061,7 @@
 			"441a04ea-dc0a-4cd1-aa59-d600557a000b"
 		],
 		"prefix": "A.3",
-		"id": "952009bc-60bc-4de9-8a19-a16aee78028f",
-		"unreleased": true
+		"id": "952009bc-60bc-4de9-8a19-a16aee78028f"
 	},
 	{
 		"title": "Concept - Kerndoel 4 - Wiskundige attitude",
@@ -4276,8 +4080,7 @@
 			"cfca8eb4-6417-41ce-8a8a-73743ac7d815"
 		],
 		"prefix": "B.4",
-		"id": "93886e3a-d769-4224-9f8f-2fdeb1905fc8",
-		"unreleased": true
+		"id": "93886e3a-d769-4224-9f8f-2fdeb1905fc8"
 	},
 	{
 		"title": "Concept - Kerndoel 5 - Getallen",
@@ -4295,8 +4098,7 @@
 			"f805e8ff-9547-478e-b61a-92aa0cdcfcb4"
 		],
 		"prefix": "C.5",
-		"id": "19ebbd99-9658-4edc-862c-4a0117dd285f",
-		"unreleased": true
+		"id": "19ebbd99-9658-4edc-862c-4a0117dd285f"
 	},
 	{
 		"title": "Concept - Kerndoel 6 - Verhoudingen",
@@ -4314,8 +4116,7 @@
 			"e3f7fd89-5972-4ab1-ae1a-2e14d01afe17"
 		],
 		"prefix": "C.6",
-		"id": "2d0132b9-86ed-4b46-8c94-15f2259606c6",
-		"unreleased": true
+		"id": "2d0132b9-86ed-4b46-8c94-15f2259606c6"
 	},
 	{
 		"title": "Concept - Kerndoel 7 - Gangbare grootheden en bijpassende eenheden",
@@ -4335,8 +4136,7 @@
 			"701617f4-304b-4b52-8c8e-903be5456204"
 		],
 		"prefix": "C.7",
-		"id": "780268c4-5efa-424a-ac71-de00633513fd",
-		"unreleased": true
+		"id": "780268c4-5efa-424a-ac71-de00633513fd"
 	},
 	{
 		"title": "Concept - Kerndoel 8 - Grootheid tijd en bijpassende eenheden",
@@ -4353,8 +4153,7 @@
 			"b8bb044a-2847-43b9-b61e-aefed88569b6"
 		],
 		"prefix": "C.8",
-		"id": "76e7421c-f92f-4f38-84d9-efc2e2f74fe5",
-		"unreleased": true
+		"id": "76e7421c-f92f-4f38-84d9-efc2e2f74fe5"
 	},
 	{
 		"title": "Concept - Kerndoel 9 - Grootheid geld en bijpassende eenheden",
@@ -4373,8 +4172,7 @@
 			"8f27cadb-16ee-41a3-8760-4981a64130c1"
 		],
 		"prefix": "C.9",
-		"id": "20eade3b-f597-47b9-91c8-4b4cd78f685d",
-		"unreleased": true
+		"id": "20eade3b-f597-47b9-91c8-4b4cd78f685d"
 	},
 	{
 		"title": "Concept - Kerndoel 10 - Vorm, ruimte en patronen",
@@ -4393,8 +4191,7 @@
 			"bad43f27-564c-4651-9b6d-5c005aae9690"
 		],
 		"prefix": "C.10",
-		"id": "824219fb-9508-41e6-ae9c-e5a62d4afa30",
-		"unreleased": true
+		"id": "824219fb-9508-41e6-ae9c-e5a62d4afa30"
 	},
 	{
 		"title": "Concept - Kerndoel 11 - Gebruiken van wiskundetaal en wiskundige representaties",
@@ -4412,8 +4209,7 @@
 			"c037afd4-dc87-4229-a80c-acc14ee1a9fb"
 		],
 		"prefix": "D.11",
-		"id": "28d6dbbd-9b33-4bb8-bdbe-232c47f4d49a",
-		"unreleased": true
+		"id": "28d6dbbd-9b33-4bb8-bdbe-232c47f4d49a"
 	},
 	{
 		"title": "Concept - Kerndoel 12 - Gebruiken van wiskundige instrumenten",
@@ -4428,8 +4224,7 @@
 			"cb702abd-7ff8-43b8-8511-3a86838cbbf6"
 		],
 		"prefix": "D.12",
-		"id": "0f4c919d-bca5-48f1-bf5e-477fb839697a",
-		"unreleased": true
+		"id": "0f4c919d-bca5-48f1-bf5e-477fb839697a"
 	},
 	{
 		"title": "Concept - Kerrndoel 1 - Wiskunde in de werkelijkheid",
@@ -4446,8 +4241,7 @@
 			"9ae3f4d9-64af-45e6-bbfc-97b5938502e0"
 		],
 		"prefix": "A.1",
-		"id": "6957f96d-fc3f-44ee-8de6-e5f2a4089bd2",
-		"unreleased": true
+		"id": "6957f96d-fc3f-44ee-8de6-e5f2a4089bd2"
 	},
 	{
 		"title": "Concept - Kerrndoel 2 - Wiskunde in andere leergebieden",
@@ -4465,8 +4259,7 @@
 			"fefe20ab-ea4d-4773-bb29-6ee716494bb4"
 		],
 		"prefix": "A.2",
-		"id": "f77fe97a-e430-4d8f-b21c-f9d420d604dd",
-		"unreleased": true
+		"id": "f77fe97a-e430-4d8f-b21c-f9d420d604dd"
 	},
 	{
 		"title": "Concept - Kerrndoel 3 - Interne samenhang",
@@ -4484,8 +4277,7 @@
 			"5105c2ec-45de-4482-b59b-d42ede5c179a"
 		],
 		"prefix": "A.3",
-		"id": "a5aeb7a6-d580-4950-bbd3-b62da9d5a6b9",
-		"unreleased": true
+		"id": "a5aeb7a6-d580-4950-bbd3-b62da9d5a6b9"
 	},
 	{
 		"title": "Concept - Kerndoel 4 - Wiskundige attitude",
@@ -4504,8 +4296,7 @@
 			"a3c3f83d-40f6-491f-bdb3-a30fb2a2845c"
 		],
 		"prefix": "B.4",
-		"id": "9537dfce-2cee-45cf-9cac-a79e40c27f98",
-		"unreleased": true
+		"id": "9537dfce-2cee-45cf-9cac-a79e40c27f98"
 	},
 	{
 		"title": "Concept - Kerndoel 5 - Getallen",
@@ -4525,8 +4316,7 @@
 			"9d2e4495-cf9e-4805-86cb-c4a73aae1cc9"
 		],
 		"prefix": "C.5",
-		"id": "e1fecc12-0bc2-4d7f-8987-4c6a8b7472dc",
-		"unreleased": true
+		"id": "e1fecc12-0bc2-4d7f-8987-4c6a8b7472dc"
 	},
 	{
 		"title": "Concept - Kerndoel 6 - Verhoudingen",
@@ -4543,8 +4333,7 @@
 			"a2622e22-2630-4b1e-be05-6d8204caf848"
 		],
 		"prefix": "C.6",
-		"id": "8fd8efe3-9501-44fa-a6d6-e00c6a457b12",
-		"unreleased": true
+		"id": "8fd8efe3-9501-44fa-a6d6-e00c6a457b12"
 	},
 	{
 		"title": "Concept - Kerndoel 7 - Gangbare grootheden en bijpassende eenheden",
@@ -4562,8 +4351,7 @@
 			"e11942b5-61e6-491a-ac91-e247594d8dee"
 		],
 		"prefix": "C.7",
-		"id": "afad66a0-7e6f-4304-b7e7-32f0bd0f6847",
-		"unreleased": true
+		"id": "afad66a0-7e6f-4304-b7e7-32f0bd0f6847"
 	},
 	{
 		"title": "Concept - Kerndoel 8 - Grootheid tijd en bijpassende eenheden",
@@ -4580,8 +4368,7 @@
 			"60f4534d-b196-465e-aea5-f8e3d8a870d1"
 		],
 		"prefix": "C.8",
-		"id": "dd81a312-a583-41c0-b95c-e57378c4ac81",
-		"unreleased": true
+		"id": "dd81a312-a583-41c0-b95c-e57378c4ac81"
 	},
 	{
 		"title": "Concept - Kerndoel 9 - Grootheid geld en bijpassende eenheden",
@@ -4600,8 +4387,7 @@
 			"2012d938-ea58-4a53-b2b7-e160a5bcac32"
 		],
 		"prefix": "C.9",
-		"id": "6378af10-b801-4930-958c-60b87a243d45",
-		"unreleased": true
+		"id": "6378af10-b801-4930-958c-60b87a243d45"
 	},
 	{
 		"title": "Concept - Kerndoel 10 - Vorm, ruimte en patronen",
@@ -4619,8 +4405,7 @@
 			"7f97b43f-c79c-4c81-8055-4358af823db1"
 		],
 		"prefix": "C.10",
-		"id": "0ae58e3e-d8b9-447a-b773-4f9a8c31e97f",
-		"unreleased": true
+		"id": "0ae58e3e-d8b9-447a-b773-4f9a8c31e97f"
 	},
 	{
 		"title": "Concept - Kerndoel 11 - Gebruiken van wiskundetaal en wiskundige representaties",
@@ -4637,8 +4422,7 @@
 			"d6e87b7b-1c50-44f6-a1f5-7181af97b7b3"
 		],
 		"prefix": "D.11",
-		"id": "126c04c7-3959-4bd7-83b0-8c4ba45026f3",
-		"unreleased": true
+		"id": "126c04c7-3959-4bd7-83b0-8c4ba45026f3"
 	},
 	{
 		"title": "Concept - Kerndoel 12 - Gebruiken van wiskundige instrumenten",
@@ -4653,7 +4437,28 @@
 			"664fe4fd-67cb-41a1-aa96-6815be34a3c2"
 		],
 		"prefix": "D.12",
-		"id": "11219833-a07d-407b-8f54-5beaf779d062",
-		"unreleased": true
+		"id": "11219833-a07d-407b-8f54-5beaf779d062"
+	},
+	{
+		"description": "Concept - De leerling verkent genrekenmerken van literatuur",
+		"title": "Beheersingsdoel, verkennen van literaire genres",
+		"fo_uitwerking_id": [
+			"0359e292-78bc-4bbd-954c-651426dc92c5",
+			"035837e2-17e8-4c75-8844-05bef5fdbff9",
+			"348d776d-aca9-4cd6-b422-c5e3dd4e2f41",
+			"95b43e1b-871c-405d-ae6b-b96b76a7b4a9"
+		],
+		"fo_toelichting_id": [
+			"f02cb562-9d09-4a72-9105-49df9911e2b2",
+			"9147ffc9-cbca-448f-b761-baf8d8aba05a",
+			"a5bc488f-d4c7-4880-ad8b-eaa560d14962",
+			"6433b644-6e7d-4181-a5bb-42007951dc4f",
+			"78ea8ad7-3f05-4841-94c1-3fa9784be69c"
+		],
+		"prefix": "18.",
+		"id": "f5e9675d-503f-4242-837f-33407b9a033e",
+		"replaces": [
+			"ad8f866e-2374-4eb7-b3cc-e46b61efd94c"
+		]
 	}
 ]

@@ -1,1 +1,364 @@
-[]
+[
+	{
+		"title": "Taal- en leesomgeving",
+		"prefix": "1",
+		"id": "aee67b40-36cb-47c1-938d-c6fc5e1fa969",
+		"fo_doelzin_id": [
+			"012306f2-bb1c-44ce-9548-16efc4ef8c3e"
+		],
+		"replacedBy": [],
+		"types": [
+			"fo_subdomein"
+		]
+	},
+	{
+		"title": "Taal in de leergebieden",
+		"prefix": "2",
+		"id": "016e67b5-b872-4aed-9f6d-692f74e8d147",
+		"fo_doelzin_id": [
+			"012306f2-bb1c-44ce-9548-16efc4ef8c3e"
+		],
+		"replacedBy": [],
+		"types": [
+			"fo_subdomein"
+		]
+	},
+	{
+		"title": "Wiskundige attitude",
+		"prefix": "1",
+		"id": "80728dbe-872f-4966-97dd-254c407a62a9",
+		"fo_doelzin_id": [
+			"012306f2-bb1c-44ce-9548-16efc4ef8c3e"
+		],
+		"replacedBy": [],
+		"types": [
+			"fo_subdomein"
+		]
+	},
+	{
+		"title": "Gehele en decimale getallen",
+		"prefix": "1",
+		"id": "d67aef82-df50-4694-8bf5-d598f440a2aa",
+		"fo_doelzin_id": [
+			"012306f2-bb1c-44ce-9548-16efc4ef8c3e"
+		],
+		"replacedBy": [],
+		"types": [
+			"fo_subdomein"
+		]
+	},
+	{
+		"title": "Breuken",
+		"prefix": "2",
+		"id": "ce8334e9-9f85-4150-a6d0-b979d74023b1",
+		"fo_doelzin_id": [
+			"012306f2-bb1c-44ce-9548-16efc4ef8c3e"
+		],
+		"replacedBy": [],
+		"types": [
+			"fo_subdomein"
+		]
+	},
+	{
+		"title": "Verhoudingen",
+		"prefix": "3",
+		"id": "865a753b-0cd6-41a4-a746-90c06109ef5b",
+		"fo_doelzin_id": [
+			"012306f2-bb1c-44ce-9548-16efc4ef8c3e"
+		],
+		"replacedBy": [],
+		"types": [
+			"fo_subdomein"
+		]
+	},
+	{
+		"title": "Grootheden en eenheden",
+		"prefix": "4",
+		"id": "1405dcb6-881d-4dcc-bb2c-2999911cbc46",
+		"fo_doelzin_id": [
+			"012306f2-bb1c-44ce-9548-16efc4ef8c3e"
+		],
+		"replacedBy": [],
+		"types": [
+			"fo_subdomein"
+		]
+	},
+	{
+		"title": "Vorm en ruimte",
+		"prefix": "5",
+		"id": "7ea9982f-a272-4041-890c-7f8f88b7b810",
+		"fo_doelzin_id": [
+			"012306f2-bb1c-44ce-9548-16efc4ef8c3e"
+		],
+		"replacedBy": [],
+		"types": [
+			"fo_subdomein"
+		]
+	},
+	{
+		"title": "Data",
+		"prefix": "6",
+		"id": "26ab0c31-a706-4c6f-aa5a-324e1350de32",
+		"fo_doelzin_id": [
+			"012306f2-bb1c-44ce-9548-16efc4ef8c3e"
+		],
+		"replacedBy": [],
+		"types": [
+			"fo_subdomein"
+		]
+	},
+	{
+		"title": "Patronen en verbanden",
+		"prefix": "7",
+		"id": "dc8d41c4-75aa-44d1-8294-f8483e20a0d8",
+		"fo_doelzin_id": [
+			"012306f2-bb1c-44ce-9548-16efc4ef8c3e"
+		],
+		"replacedBy": [],
+		"types": [
+			"fo_subdomein"
+		]
+	},
+	{
+		"title": "Vergelijkingen",
+		"prefix": "8",
+		"id": "b081353d-0eaf-4264-b00b-3751e8af8379",
+		"fo_doelzin_id": [
+			"012306f2-bb1c-44ce-9548-16efc4ef8c3e"
+		],
+		"replacedBy": [],
+		"types": [
+			"fo_subdomein"
+		]
+	},
+	{
+		"title": "Kans",
+		"prefix": "9",
+		"id": "ba3be884-54c3-465e-8dd7-34d6424398f5",
+		"fo_doelzin_id": [
+			"012306f2-bb1c-44ce-9548-16efc4ef8c3e"
+		],
+		"replacedBy": [],
+		"types": [
+			"fo_subdomein"
+		]
+	},
+	{
+		"title": "Wiskundig probleemoplossen",
+		"prefix": "1",
+		"id": "1403209e-27f4-44e0-9165-e692e7c6b7b9",
+		"fo_doelzin_id": [
+			"012306f2-bb1c-44ce-9548-16efc4ef8c3e"
+		],
+		"replacedBy": [],
+		"types": [
+			"fo_subdomein"
+		]
+	},
+	{
+		"title": "Modelleren",
+		"prefix": "2",
+		"id": "cb62974e-f1f1-4b0d-94ad-ff59b39aeb2b",
+		"fo_doelzin_id": [
+			"012306f2-bb1c-44ce-9548-16efc4ef8c3e"
+		],
+		"replacedBy": [],
+		"types": [
+			"fo_subdomein"
+		]
+	},
+	{
+		"title": "Aantonen",
+		"prefix": "3",
+		"id": "8e6acbe9-d7ac-40df-8b46-757bbf24f4a2",
+		"fo_doelzin_id": [
+			"012306f2-bb1c-44ce-9548-16efc4ef8c3e"
+		],
+		"replacedBy": [],
+		"types": [
+			"fo_subdomein"
+		]
+	},
+	{
+		"title": "Algoritmisch denken",
+		"prefix": "4",
+		"id": "916f627b-027a-49db-812f-cac54f668b6b",
+		"fo_doelzin_id": [
+			"012306f2-bb1c-44ce-9548-16efc4ef8c3e"
+		],
+		"replacedBy": [],
+		"types": [
+			"fo_subdomein"
+		]
+	},
+	{
+		"title": "Gebruiken van wiskundetaal en wiskundige representaties",
+		"prefix": "5",
+		"id": "306a635a-1fe8-4669-9c4a-0990589981e2",
+		"fo_doelzin_id": [
+			"012306f2-bb1c-44ce-9548-16efc4ef8c3e"
+		],
+		"replacedBy": [],
+		"types": [
+			"fo_subdomein"
+		]
+	},
+	{
+		"title": "Gebruiken van wiskundige instrumenten",
+		"prefix": "6",
+		"id": "fef7f188-ebe3-4dc8-8545-de86b24de15b",
+		"fo_doelzin_id": [
+			"012306f2-bb1c-44ce-9548-16efc4ef8c3e"
+		],
+		"replacedBy": [],
+		"types": [
+			"fo_subdomein"
+		]
+	},
+	{
+		"title": "Wiskunde in de werkelijkheid",
+		"prefix": "1",
+		"id": "ab9ed902-977f-4446-bdba-1fc71aeb691f",
+		"fo_doelzin_id": [
+			"012306f2-bb1c-44ce-9548-16efc4ef8c3e"
+		],
+		"replacedBy": [],
+		"types": [
+			"fo_subdomein"
+		]
+	},
+	{
+		"title": "Wiskunde in andere leergebieden",
+		"prefix": "2",
+		"id": "95216c9d-0b03-4937-b4c5-d780d4e78a87",
+		"fo_doelzin_id": [
+			"012306f2-bb1c-44ce-9548-16efc4ef8c3e"
+		],
+		"replacedBy": [],
+		"types": [
+			"fo_subdomein"
+		]
+	},
+	{
+		"title": "Interne samenhang",
+		"prefix": "3",
+		"id": "86c6d359-30b1-40b9-883d-5279704f6825",
+		"fo_doelzin_id": [
+			"012306f2-bb1c-44ce-9548-16efc4ef8c3e"
+		],
+		"replacedBy": [],
+		"types": [
+			"fo_subdomein"
+		]
+	},
+	{
+		"title": "Getallen en grootheden",
+		"prefix": "1",
+		"id": "1bf7f6c7-9f88-4d9a-97c6-2033f3f6f675",
+		"fo_doelzin_id": [
+			"012306f2-bb1c-44ce-9548-16efc4ef8c3e"
+		],
+		"replacedBy": [],
+		"types": [
+			"fo_subdomein"
+		]
+	},
+	{
+		"title": "Getallen en grootheden en Algebra",
+		"prefix": "1",
+		"id": "14ff2946-023a-4d61-9fb1-1e132408da53",
+		"fo_doelzin_id": [
+			"012306f2-bb1c-44ce-9548-16efc4ef8c3e"
+		],
+		"replacedBy": [],
+		"types": [
+			"fo_subdomein"
+		]
+	},
+	{
+		"title": "Concept - Te denken valt aan ontdekken van de stijl van een schrijver door te kijken naar woord- en taalgebruik.",
+		"id": "1a2c0823-db7e-415f-b6d0-aa69090e99b5",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
+		],
+		"replacedBy": [],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"title": "Concept - Te denken valt aan benutten van literatuur om een bepaald maatschappelijk probleem te beschouwen.",
+		"id": "fe508061-60cd-4472-9ace-1930f9fe7ca8",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
+		],
+		"replacedBy": [],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"title": "Concept - De leerling verkent genrekenmerken van literatuur",
+		"description": "Beheersingsdoel, verkennen van literaire genres",
+		"fo_uitwerking_id": [
+			"0359e292-78bc-4bbd-954c-651426dc92c5",
+			"035837e2-17e8-4c75-8844-05bef5fdbff9",
+			"348d776d-aca9-4cd6-b422-c5e3dd4e2f41",
+			"95b43e1b-871c-405d-ae6b-b96b76a7b4a9",
+			"1a2c0823-db7e-415f-b6d0-aa69090e99b5"
+		],
+		"fo_toelichting_id": [
+			"f02cb562-9d09-4a72-9105-49df9911e2b2",
+			"9147ffc9-cbca-448f-b761-baf8d8aba05a",
+			"a5bc488f-d4c7-4880-ad8b-eaa560d14962",
+			"6433b644-6e7d-4181-a5bb-42007951dc4f",
+			"78ea8ad7-3f05-4841-94c1-3fa9784be69c"
+		],
+		"prefix": "18.",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
+		],
+		"id": "ad8f866e-2374-4eb7-b3cc-e46b61efd94c",
+		"replacedBy": [
+			"f5e9675d-503f-4242-837f-33407b9a033e"
+		],
+		"types": [
+			"fo_doelzin"
+		]
+	},
+	{
+		"title": "Literatuur als systeem",
+		"fo_doelzin_id": [
+			"012306f2-bb1c-44ce-9548-16efc4ef8c3e",
+			"19ba7c42-1e92-4b9f-9c9f-32e894b19af2",
+			"0f2d88a0-c594-48d2-835c-c1953eb284d0",
+			"ad8f866e-2374-4eb7-b3cc-e46b61efd94c"
+		],
+		"prefix": "C1",
+		"id": "fcfd6fc2-8c96-4899-baa4-c891ed5cfc30",
+		"replacedBy": [
+			"74c790e2-acb0-4acb-9caf-b6cbb69300eb"
+		],
+		"types": [
+			"fo_subdomein"
+		]
+	},
+	{
+		"title": "Literatuur",
+		"vakleergebied_id": [
+			"e41b8c50-d002-4a9f-be8b-9b5da0008656"
+		],
+		"fo_subdomein_id": [
+			"fcfd6fc2-8c96-4899-baa4-c891ed5cfc30",
+			"0c5615c5-79a0-4e1e-9514-37d37483c4d4"
+		],
+		"prefix": "C",
+		"id": "5d0676d3-fbea-4ab9-8ce1-fb1b3a622236",
+		"replacedBy": [
+			"2520c537-27b6-4394-af35-2ab3b7eeb7fd"
+		],
+		"types": [
+			"fo_domein"
+		]
+	}
+]
