@@ -518,58 +518,53 @@
 		]
 	},
 	{
-		"title": "Te denken valt aan eigenschappen van getallen zoals even/oneven en deelbaarheid, verschijningsvormen van getallen zoals hoeveelheidsgetal en meetgetal, en het onderscheid tussen getallen en cijfers.",
+		"title": "",
 		"description": "Concept - Te denken valt aan eigenschappen van getallen zoals even/oneven en deelbaarheid, verschijningsvormen van getallen zoals hoeveelheidsgetal en meetgetal, de systematiek van de telrij en het onderscheid tussen getallen en cijfers.",
 		"id": "231a0216-ec66-458f-9f46-7fd27cf9da35",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
-		"dirty": true,
 		"prefix": "t1"
 	},
 	{
-		"title": "Te denken valt aan eigenschappen van bewerkingen variërend van de inverse relatie tussen optellen en aftrekken, ook in stipopgaven, tot de commutatieve eigenschap van optellen en vermenigvuldigen.",
+		"title": "",
 		"description": "Concept -Te denken valt aan eigenschappen van bewerkingen, zoals de inverse relatie tussen optellen en aftrekken, ook in stipopgaven, tot de commutatieve eigenschap van optellen en vermenigvuldigen.",
 		"id": "6668d240-eb38-4259-bdc8-22c49a6461d4",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
-		"dirty": true,
 		"prefix": "t2"
 	},
 	{
-		"title": "Te denken val aan standaardprocedures variërend van hoofdrekenend rijgen tot schriftelijk cijferen.",
+		"title": "",
 		"description": "Concept -Te denken valt aan standaardprocedures, zoals  hoofdrekenend rijgen en schriftelijk cijferen.",
 		"id": "cd97f4d1-1694-4630-94a7-1260f230fa4a",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
-		"dirty": true,
 		"prefix": "t3"
 	},
 	{
-		"title": "Te denken valt aan situationeel en volgens afrondingsregels afronden van getallen.",
+		"title": "",
 		"description": "Concept -Te denken valt aan situationeel en volgens afrondingsregels afronden van getallen.",
 		"id": "d13df88e-ed97-4df6-b471-ef86e7068297",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
-		"dirty": true,
 		"prefix": "t4"
 	},
 	{
-		"title": "Te denken valt aan gebruiken van schattingen om de uitkomst van een schriftelijke berekening of berekening met de rekenmachine te controleren.",
+		"title": "",
 		"description": "Concept -Te denken valt aan gebruiken van schatten, ook om de uitkomst van schriftelijke berekening of berekening en  berekeningen met de rekenmachine te controleren.",
 		"id": "aae3575f-105b-47fc-8254-1c4e1070ee9a",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
-		"dirty": true,
 		"prefix": "t5"
 	},
 	{
@@ -619,7 +614,6 @@
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
-		"dirty": true,
 		"description": "",
 		"prefix": ""
 	},
@@ -850,7 +844,6 @@
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
-		"dirty": true,
 		"description": "",
 		"prefix": ""
 	},
@@ -941,7 +934,6 @@
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
-		"dirty": true,
 		"description": "",
 		"prefix": ""
 	},
@@ -1010,7 +1002,6 @@
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
-		"dirty": true,
 		"prefix": ""
 	},
 	{
