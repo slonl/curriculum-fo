@@ -579,7 +579,7 @@
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
-		"description": "Concept - Te denken valt aan breuken plaatsen op een getallenlijn (breuk als getal), een verhouding aangeven met breuken, breuken relateren aan delingen (breuk als deling, bijvoorbeeld 1 : 2 = 1/2).",
+		"description": "Concept - Te denken valt aan breuken plaatsen op een getallenlijn (breuk als getal), een verhouding aangeven met breuken, breuken relateren aan delingen (breuk als deling, bijvoorbeeld 1 : 2 = $\\frac{1}{2}$).",
 		"prefix": "t1"
 	},
 	{
@@ -940,7 +940,7 @@
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
-		"description": "Concept - Te denken valt aan relaties leggen tussen representaties, zoals decimale getallen en breuken, en verschillende breuknotaties (1/2, 1/2).",
+		"description": "Concept - Te denken valt aan relaties leggen tussen representaties, zoals decimale getallen en breuken, en verschillende breuknotaties ($\\frac{1}{2}$, 1/2).",
 		"prefix": "t4"
 	},
 	{
