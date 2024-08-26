@@ -1503,973 +1503,1118 @@
 		"prefix": "u4"
 	},
 	{
-		"title": "",
-		"description": "Concept - Het gaat hierbij om wendbaar en met inzicht gebruiken van en rekenen met getallen en hun eigenschappen, en met grootheden en eenheden.",
-		"prefix": "B1.1a",
+		"title": "xxxxx",
+		"description": "Concept - Het gaat hierbij om optellen, aftrekken, vermenigvuldigen, delen, machtsverheffen en worteltrekken.",
+		"prefix": "u1",
 		"id": "a6bb58e0-c392-4294-8ca3-7971832d970b",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
-		"title": "",
-		"description": "Concept - Het gaat hierbij om wendbaar en met inzicht gebruiken van en rekenen met verhoudingen.",
-		"prefix": "B1.1b",
+		"title": "xxxxx",
+		"description": "Concept - Het gaat hierbij om wendbaar en met inzicht gebruiken van getallen en hun eigenschappen, en enkelvoudige en samengestelde grootheden en eenheden.",
+		"prefix": "u2",
 		"id": "5bcd1d36-f984-41fd-a22a-e92694c1beb9",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
-		"title": "",
-		"description": "Concept - Het gaat hierbij om de bewerkingen optellen, aftrekken, vermenigvuldigen, delen, machtsverheffen en worteltrekken.",
-		"prefix": "B1.1c",
+		"title": "xxxxx",
+		"description": "Concept - Het gaat hierbij om wendbaar en met inzicht gebruiken van en rekenen met verhoudingen.",
+		"prefix": "u3",
 		"id": "c37697f5-193a-4466-afee-cd788c6bbbd4",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
-		"title": "",
-		"description": "Concept - Het gaat hierbij om relaties leggen tussen eenheden.",
-		"prefix": "B1.1d",
+		"title": "xxxxx",
+		"description": "Concept - Het gaat hierbij om relaties leggen tussen grootheden en eenheden, tussen grootheden onderling en tussen eenheden onderling.",
+		"prefix": "u4",
 		"id": "048f01f5-4e51-4011-ae3f-6beaa7be5513",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
-		"title": "",
-		"description": "Concept - Het gaat hierbij om bepalen van oppervlakte, omtrek en inhoud van meetkundige figuren.",
-		"prefix": "B1.1e",
+		"title": "xxxxx",
+		"description": "Concept - Het gaat hierbij om bepalen van afmetingen en inhoud van meetkundige figuren.",
+		"prefix": "u5",
 		"id": "265c5e16-e583-4812-989e-094bb16c4af3",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
-		"title": "",
+		"title": "xxxxx",
 		"description": "Concept - Het gaat hierbij om rekenen met standaardprocedures en eigenschappen van bewerkingen.",
-		"prefix": "B1.2a",
+		"prefix": "u1",
 		"id": "f0522392-3206-4b7c-bb28-815ee3b19433",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		]
+		],
+		"dirty": true
 	},
 	{
-		"title": "",
-		"description": "Concept - Het gaat hierbij om herleiden van algebraÃ¯sche uitdrukkingen.",
-		"prefix": "B1.2b",
+		"title": "xxxxx",
+		"description": "Concept - Het gaat hierbij om herleiden van algebraïsche uitdrukkingen.",
+		"prefix": "u2",
 		"id": "8f9eb028-7ee6-4516-a524-2a7a4b9fd74a",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		]
+		],
+		"dirty": true
 	},
 	{
-		"title": "",
+		"title": "xxxxx",
 		"description": "Concept - Het gaat hierbij om gebruiken van de wetenschappelijke notatie van grote en kleine getallen.",
-		"prefix": "B1.2c",
+		"prefix": "u3",
 		"id": "fd055ad5-9a1c-4033-b4a3-e2c5dc9be851",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		]
+		],
+		"dirty": true
 	},
 	{
-		"title": "",
-		"description": "Concept - Het gaat hierbij om meten van grootheden en daarbij bepalen van de meet(on)nauwkeurigheid en effecten daarvan bepalen.",
-		"prefix": "B1.2d",
+		"title": "xxxxx",
+		"description": "Concept - Het gaat hierbij om meten van grootheden en daarbij meet(on)nauwkeurigheid en effecten daarvan bepalen.",
+		"prefix": "u4",
 		"id": "fa10d4de-d2d9-42de-be32-5550f37e179f",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		]
+		],
+		"dirty": true
 	},
 	{
-		"title": "",
+		"title": "xxxxx",
 		"description": "Concept - Het gaat hierbij om redeneren met en over eigenschappen van meetkundige figuren en begrippen en deze eigenschappen gebruiken in berekeningen en constructies.",
-		"prefix": "B5.1a",
+		"prefix": "u1",
 		"id": "bc7136ea-97bd-4dd8-935e-353dee80e1d0",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
-		"title": "",
-		"description": "Concept - Het gaat hierbij om redeneren met kijklijnen",
-		"prefix": "B5.1b",
+		"title": "xxxxx",
+		"description": "Concept - Het gaat hierbij om redeneren met kijklijnen.",
+		"prefix": "u2",
 		"id": "71001e4e-3dd8-412d-8f35-666fdfa32689",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
-		"title": "",
-		"description": "Concept - Het gaat hierbij om construeren en interpreteren van tweedimensionale representaties van driedimensionale figuren.",
-		"prefix": "B5.1c",
+		"title": "xxxxx",
+		"description": "Concept - Het gaat hierbij om construeren en interpreteren van tweedimensionale representaties van driedimensionale figuren en relaties leggen tussen twee- en driedemensionale representaties van figuren.",
+		"prefix": "u3",
 		"id": "2af4a3e0-39e9-4552-bdeb-346e37fa7913",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
-		"title": "",
-		"description": "Concept - Het gaat hierbij om verschuiven, draaien, spiegelen, vergroten en verkleinen van figuren.",
-		"prefix": "B5.1d",
+		"title": "xxxxx",
+		"description": "Concept - Het gaat hierbij om meetkundige transformaties: verschuiven, draaien, spiegelen, vergroten en verkleinen van figuren.",
+		"prefix": "u4",
 		"id": "13959ad6-3bf8-42ab-ba36-2bce6c5516fa",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
-		"title": "",
-		"description": "Concept - Het gaat hierbij om berekenen van hoeken en afmetingen van rechthoekige driehoeken met behulp van goniometrische verhoudingen.",
-		"prefix": "B5.1a",
+		"title": "xxxxx",
+		"description": "Concept - Het gaat hierbij om berekenen van hoeken en afmetingen van rechthoekige driehoeken met goniometrische verhoudingen.",
+		"prefix": "u5",
 		"id": "d326847f-a000-4868-a221-cf898a746470",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		]
+		],
+		"dirty": true
 	},
 	{
-		"title": "",
-		"prefix": "B6.1a",
+		"title": "xxxxx",
+		"prefix": "u1",
 		"id": "78b37ede-bf76-4cb4-a1de-e70078afaee4",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om opstellen van tabellen bij datasets."
+		"description": "Concept - Het gaat hierbij om opstellen van tabellen bij data.",
+		"dirty": true
 	},
 	{
-		"title": "",
-		"prefix": "B6.1b",
+		"title": "xxxxx",
+		"prefix": "u2",
 		"id": "d47d76e8-5820-42a9-a9ae-1d99896f3ff5",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om berekenen, interpreteren en gebruiken van centrummaten."
+		"description": "Concept - Het gaat hierbij om beredeneerd kiezen, berekenen en interpreteren van gemiddelde, modus en mediaan en berekenen en interpreteren van spreidingsbreedte.",
+		"dirty": true
 	},
 	{
-		"title": "",
-		"prefix": "B6.1c",
+		"title": "xxxxx",
+		"prefix": "u3",
 		"id": "fa51bfed-1099-4312-83cf-49720282f46e",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om maken van grafische representaties van datasets en daaruit conclusies trekken."
+		"description": "Concept - Het gaat hierbij om maken van grafische representaties van data en daaruit conclusies trekken.",
+		"dirty": true
 	},
 	{
-		"title": "",
-		"prefix": "B6.1d",
+		"title": "xxxxx",
+		"prefix": "u4",
 		"id": "199bad75-67e3-443d-af42-6bbceb8ba6c8",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om onderbouwd kiezen van passende representaties."
+		"description": "Concept - Het gaat hierbij om beredeneerd kiezen van representaties.",
+		"dirty": true
 	},
 	{
-		"title": "",
-		"prefix": "B6.1e",
+		"title": "xxxxx",
+		"prefix": "u5",
 		"id": "db548812-0687-47ff-97c7-e5171b2cf39b",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om interpreteren van grafische representaties en beredeneren of daarbij gepresenteerde conclusies wel, niet of deels kloppen."
+		"description": "Concept - Het gaat hierbij om interpreteren van grafische representaties en beredeneren of daarbij gepresenteerde conclusies wel, niet of deels kloppen.",
+		"dirty": true
 	},
 	{
-		"title": "",
-		"prefix": "B6.1a",
+		"title": "xxxxx",
+		"prefix": "u7",
 		"id": "f5f947c0-dee3-462a-8b5e-e572291e36ea",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"description": "Concept - Het gaat hierbij om analyseren van univariate en bivariate datasets."
+		"description": "Concept - Het gaat hierbij om analyseren van univariate en bivariate datasets.",
+		"dirty": true
 	},
 	{
-		"title": "",
-		"prefix": "B6.1b",
+		"title": "xxxxx",
+		"prefix": "u8",
 		"id": "70011aa3-0849-4edc-a264-2c4a973cdb04",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"description": "Concept - Het gaat hierbij om berekenen, interpreteren en gebruiken van spreidingsbreedte en interkwartielafstand."
+		"description": "Concept - Het gaat hierbij om beredeneerd kiezen en gebruiken van meetniveaus: nominaal, ordinaal, interval en ratio.",
+		"dirty": true
 	},
 	{
-		"title": "",
-		"prefix": "B6.1c",
+		"title": "xxxxx",
+		"prefix": "u9",
 		"id": "18152397-5e39-49ca-9832-1bded8496a35",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"description": "Concept - Het gaat hierbij om globaal vergelijken van twee datasets."
+		"description": "Concept - Het gaat hierbij om beredeneerd kiezen, berekenen en interpreteren van spreidingsbreedte en interkwartielafstand.",
+		"dirty": true
 	},
 	{
-		"title": "",
-		"prefix": "B6.1d",
+		"title": "xxxxx",
+		"prefix": "u10",
 		"id": "ee8fd311-6784-4f93-8af6-fa64debb983b",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"description": "Concept - Het gaat hierbij om onderscheiden van correlatie en causaliteit."
+		"description": "Concept - Het gaat hierbij om vergeijken van twee datasets.",
+		"dirty": true
 	},
 	{
-		"title": "",
-		"prefix": "B7.1a",
+		"title": "xxxxx",
+		"prefix": "u1",
 		"id": "3c7336f9-f881-4202-bf58-2c957cd83760",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om herkennen, beschrijven en voortzetten van een patroon in een rij getallen of figuren."
+		"description": "Concept - Het gaat hierbij om herkennen, beschrijven en voortzetten van een patroon in een rijen getallen en figuren.",
+		"dirty": true
 	},
 	{
-		"title": "",
-		"prefix": "B7.1b",
+		"title": "xxxxx",
+		"prefix": "u2",
 		"id": "125d2c0b-ce33-4c6c-b79f-b8c9784f5bb0",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om identificeren van een patroon of een verband in een dataset."
+		"description": "Concept - Het gaat hierbij om identificeren van een patronen en verbanden in een datasets.",
+		"dirty": true
 	},
 	{
-		"title": "",
-		"prefix": "B7.1c",
+		"title": "xxxxx",
+		"prefix": "u3",
 		"id": "b6de2467-2f59-437c-8bfb-8de369186a7b",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om identificeren van grootheden die met elkaar in verband staan, en dat verband beschrijven."
+		"description": "Concept - Het gaat hierbij om identificeren en beschrijven van verbanden tussen grootheden.",
+		"dirty": true
 	},
 	{
-		"title": "",
-		"prefix": "B7.1d",
+		"title": "xxxxx",
+		"prefix": "u4",
 		"id": "5422462e-3662-4555-b12f-57fb52e82191",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om weergeven van patronen en verbanden in een beschrijving, tabel, grafiek en formule, en deze weergaven in elkaar omzetten."
+		"description": "Concept - Het gaat hierbij om weergeven van patronen en verbanden in een beschrijving, tabel, grafiek en formule, en deze weergaven in elkaar omzetten.",
+		"dirty": true
 	},
 	{
-		"title": "",
-		"prefix": "B7.1e",
+		"title": "xxxxx",
+		"prefix": "u5",
 		"id": "90f9961e-aea0-44db-8069-329c0f469c53",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om herkennen en beschrijven van een standaardverband in verschillende representaties, en redeneren met standaardverbanden."
+		"description": "Concept - Het gaat hierbij om beschrijven en interpreteren  van standaardverbanden in verschillende representaties.",
+		"dirty": true
 	},
 	{
-		"title": "",
-		"prefix": "B7.1a",
+		"title": "xxxxx",
+		"prefix": "u6",
 		"id": "9d54e051-df4a-49c4-9a4c-8aeb77a520cc",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"description": "Concept - Het gaat hierbij om beschrijven van een patroon in een rij getallen met een formule."
+		"description": "Concept - Het gaat hierbij om beschrijven van een patroon in een rij getallen met een formule.",
+		"dirty": true
 	},
 	{
-		"title": "",
-		"prefix": "B7.1a",
+		"title": "xxxxx",
+		"prefix": "u7",
 		"id": "9bfe24ba-2083-4d01-a8aa-d9b8b1dbf8d3",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"description": "Concept - Het gaat hierbij om uitleggen wanneer een verband een functie is."
+		"description": "Concept - Het gaat hierbij om uitleggen wanneer een verband een functie is.",
+		"dirty": true
 	},
 	{
-		"title": "",
-		"prefix": "B7.1a",
+		"title": "xxxxx",
+		"prefix": "u8",
 		"id": "dc0813a5-19dc-4167-b221-7c21935a6bf2",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"description": "Concept - Het gaat hierbij om beschrijven van het veranderingsgedrag van een functie."
+		"description": "Concept - Het gaat hierbij om beschrijven van het veranderingsgedrag van een functie.",
+		"dirty": true
 	},
 	{
-		"title": "",
-		"prefix": "B7.1a",
+		"title": "xxxxx",
+		"prefix": "u9",
 		"id": "5e081e14-a588-44c1-85fb-6bca031e0744",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"description": "Concept - Het gaat hierbij om herkennen van een standaardverband in verschillende representaties."
+		"description": "Concept - Het gaat hierbij om herkennen en beschrijven van standaardverbanden in verschillende representaties.",
+		"dirty": true
 	},
 	{
-		"title": "",
-		"prefix": "B7.1a",
+		"title": "xxxxx",
+		"prefix": "u10",
 		"id": "a96f92fd-7e15-4ded-9fab-4f5d1b4ca510",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"description": "Concept - Het gaat hierbij om gebruiken van de eigenschappen van een standaardverband."
+		"description": "Concept - Het gaat hierbij om gebruiken van de eigenschappen van standaardverbanden.",
+		"dirty": true
 	},
 	{
-		"title": "",
-		"prefix": "B8.1a",
+		"title": "xxxxx",
+		"prefix": "u1",
 		"id": "695f7ad9-e8cf-40de-baa4-5eb2f593cba1",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om betekenis geven aan een wiskundige vergelijking."
+		"description": "Concept - Het gaat hierbij om interpreteren van wiskundige vergelijkingen en gevonden oplossingen.",
+		"dirty": true
 	},
 	{
-		"title": "",
-		"prefix": "B8.1b",
+		"title": "xxxxx",
+		"prefix": "u2",
 		"id": "2f43eaab-54c5-4bc0-8eef-783835cc444d",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om opstellen van een vergelijking om een situatie te modelleren."
+		"description": "Concept - Het gaat hierbij om opstellen van vergelijkingen bij situaties.",
+		"dirty": true
 	},
 	{
-		"title": "",
-		"prefix": "B8.1c",
+		"title": "xxxxx",
+		"prefix": "u3",
 		"id": "7c8a8255-274d-4f97-801b-4ff6d12af6b7",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om een gegeven vergelijking in verband brengen met een situatie en met andere gelijkwaardige vergelijkingen."
+		"description": "Concept - Het gaat hierbij om relaties leggen tussen gegeven vergelijkingen en situaties.",
+		"dirty": true
 	},
 	{
-		"title": "",
-		"prefix": "B8.1d",
+		"title": "xxxxx",
+		"prefix": "u4",
 		"id": "7f64a204-d578-43c1-9b25-7facc9025126",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om oplossen van vergelijkingen."
+		"description": "Concept - Het gaat hierbij om oplossen van lineaire vergelijkingen.",
+		"dirty": true
 	},
 	{
-		"title": "",
-		"prefix": "B8.1e",
+		"title": "xxxxx",
+		"prefix": "u5",
 		"id": "35c2c916-c6aa-4012-b6e6-2ac9903dc42c",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+			"dbbc3e87-a848-4425-912a-d494e43e5e59",
+			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"description": "Concept - Het gaat hierbij om interpreteren van de gevonden oplossing."
+		"description": "Concept - Het gaat hierbij om oplossen van lineaire, kwadratische en machtsvergelijkingen.",
+		"dirty": true
 	},
 	{
-		"title": "",
-		"prefix": "B8.1f",
+		"title": "xxxxx",
+		"prefix": "u6",
 		"id": "993f978b-b56e-49b6-a923-b43b6ace620a",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"description": "Concept - Het gaat hierbij om exact oplossen van kwadratische en machtsvergelijkingen."
+		"description": "Concept - Het gaat hierbij om oplossen van een stelsel lineaire vergelijkingen.",
+		"dirty": true
 	},
 	{
-		"title": "",
-		"prefix": "B8.1g",
+		"title": "xxxxx",
+		"prefix": "u7",
 		"id": "223a7204-4046-484d-8da4-f13d5419d0b2",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"description": "Concept - Het gaat hierbij om oplossen van ongelijkheden."
+		"description": "Concept - Het gaat hierbij om oplossen van ongelijkheden.",
+		"dirty": true
 	},
 	{
-		"title": "",
-		"prefix": "B9.1a",
+		"title": "xxxxx",
+		"prefix": "u1",
 		"id": "0da9fe9e-7dec-4eb9-9726-4c8b88053828",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om een kans weergeven als breuk, verhouding, percentage en decimaal getal."
+		"description": "Concept - Het gaat hierbij om een kansen weergeven als breuk, verhouding, percentage en decimaal getal.",
+		"dirty": true
 	},
 	{
-		"title": "",
-		"prefix": "B9.1a",
+		"title": "xxxxx",
+		"prefix": "u2",
 		"id": "fb54b77f-01b1-4437-81cb-ddad3286a31d",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om op basis van kansen inschatten hoe waarschijnlijk het is dat gebeurtenissen plaatsvinden."
+		"description": "Concept - Het gaat hierbij om op basis van kansen inschatten hoe waarschijnlijk het is dat gebeurtenissen plaatsvinden.",
+		"dirty": true
 	},
 	{
-		"title": "",
-		"prefix": "B9.1a",
+		"title": "xxxxx",
+		"prefix": "u3",
 		"id": "618c1668-d038-40bf-b31f-151fed33b2ca",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om uitrekenen van verwachtingswaarden met behulp van kansen."
+		"description": "Concept - Het gaat hierbij om berekenen van verwachtingswaardes.",
+		"dirty": true
 	},
 	{
-		"title": "",
-		"prefix": "B9.2a",
+		"title": "xxxxx",
+		"prefix": "u1",
 		"id": "de63da87-7e93-423c-9163-9ea383fc3e97",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"description": "Concept - Het gaat hierbij om interpreteren van empirische en theoretische kansen"
+		"description": "Concept - Het gaat hierbij om interpreteren van empirische en theoretische kansen",
+		"dirty": true
 	},
 	{
-		"title": "",
-		"prefix": "B9.2b",
+		"title": "xxxxx",
+		"prefix": "u2",
 		"id": "91cadf11-b763-463b-ae74-b97413ea4bdc",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"description": "Concept - Het gaat hierbij om berekenen van kansen met behulp van kansregels en combinatoriek."
+		"description": "Concept - Het gaat hierbij om berekenen van kansen met behulp van kansregels en combinatoriek.",
+		"dirty": true
 	},
 	{
-		"title": "",
-		"prefix": "C1.1a",
+		"title": "xxxxx",
+		"prefix": "u1",
 		"id": "7aca5aec-9b08-4774-a4d7-be13fe50f102",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om herkennen of een probleem met wiskunde kan worden opgelost."
+		"description": "Concept - Het gaat hierbij om analyseren hoe een probleem met wiskunde kan worden opgelost.",
+		"dirty": true
 	},
 	{
-		"title": "",
+		"title": "xxxxx",
 		"id": "d715d211-8888-4397-8b0f-fc79eabfea88",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om analyseren van een niet-routinematig oplosbaar probleem en bedenken en uitvoeren van een aanpak."
+		"description": "Concept - Het gaat hierbij om bedenken en uitvoeren van een aanpak voor een niet-routinematig oplosbaar probleem.",
+		"dirty": true,
+		"prefix": "u2"
 	},
 	{
-		"title": "",
+		"title": "xxxxx",
 		"id": "3a4b6a72-547b-434c-92a7-f83a80399b78",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om gebruiken van heuristieken."
+		"description": "Concept - Het gaat hierbij om gebruiken van heuristieken.",
+		"dirty": true,
+		"prefix": "u3"
 	},
 	{
-		"title": "",
+		"title": "xxxxx",
 		"id": "cdab04cc-1c2f-45ac-97af-5cf0ae2a397b",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om bewerken van de uitkomsten van berekeningen tot een oplossing van een probleem."
+		"description": "Concept - Het gaat hierbij om bewerken van de uitkomsten van berekeningen tot een oplossing van een probleem.",
+		"dirty": true,
+		"prefix": "u4"
 	},
 	{
-		"title": "",
+		"title": "xxxxx",
 		"id": "b914b06b-de21-4daf-8d6a-82abf80217ad",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om reflecteren op aanpak, uitvoering en oplossing."
+		"description": "Concept - Het gaat hierbij om reflecteren op aanpak, uitvoering en oplossing.",
+		"dirty": true,
+		"prefix": "u5"
 	},
 	{
-		"title": "",
-		"prefix": "C2.1a",
+		"title": "xxxxx",
+		"prefix": "u1",
 		"id": "6eb2b203-8e9c-4bfe-adbf-748a52789ccc",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om weergeven van een situatie met gebruik van een digitaal instrument."
+		"description": "Concept - Het gaat hierbij om weergeven van een situatie, ook met gebruik van ICT.",
+		"dirty": true
 	},
 	{
-		"title": "",
+		"title": "xxxxx",
 		"id": "3f28044a-3b09-4c20-9a06-53d843c7a7c7",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om selecteren van relevante details en weglaten van niet relevante details."
+		"description": "Concept - Het gaat hierbij om selecteren van relevante kenmerken en weglaten van niet relevante kenmerken.",
+		"dirty": true,
+		"prefix": "u2"
 	},
 	{
-		"title": "",
+		"title": "xxxxx",
 		"id": "ae84a9b6-49fa-43bf-9ae0-067a7f91c793",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om kiezen van een geschikt model en evalueren van deze keuze."
+		"description": "Concept - Het gaat hierbij om beredeneerd kiezen van een geschikt model en evalueren van deze keuze.",
+		"dirty": true,
+		"prefix": "u3"
 	},
 	{
-		"title": "",
+		"title": "xxxxx",
 		"id": "06a4ca9d-b50f-4df8-94ef-17ab41ccac19",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om gebruiken van een model om een rekenwijze te laten zien, een situatie te interpreteren of een probleem op te lossen."
+		"description": "Concept - Het gaat hierbij om gebruiken van abstracte modellen om een rekenaanpakken te laten zien, situaties te interpreteren en een probleem op te lossen.",
+		"dirty": true,
+		"prefix": "u4"
 	},
 	{
-		"title": "",
+		"title": "xxxxx",
 		"id": "c9c6ed82-a8bb-48a6-adea-9ed7c207771e",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om gebruiken van een model om te redeneren over een situatie."
+		"description": "Concept - Het gaat hierbij om gebruiken van een model om te redeneren over een situatie.",
+		"dirty": true,
+		"prefix": "DELETE"
 	},
 	{
-		"title": "",
-		"prefix": "C2.1a",
+		"title": "xxxxx",
+		"prefix": "u5",
 		"id": "4f69a8c9-fa7d-4197-ac15-d3ce27c4bafb",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"description": "Concept - Het gaat hierbij om wiskundig modelleren van een situatie"
+		"description": "Concept - Het gaat hierbij om wiskundig modelleren volgens een modelleercyclus.",
+		"dirty": true
 	},
 	{
-		"title": "",
-		"prefix": "C3.1a",
+		"title": "xxxxx",
+		"prefix": "u1",
 		"id": "65844a3e-743a-4ccf-97a4-a93d4a25d645",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om uiten van een vermoeden of formuleren van een bewering."
+		"description": "Concept - Het gaat hierbij om formuleren van vermoedens en beweringen.",
+		"dirty": true
 	},
 	{
-		"title": "",
+		"title": "xxxxx",
 		"id": "4d9b3f5c-2dbe-4f06-8209-a70b4e654949",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om toepassen van logische redeneerprincipes en daarmee conclusies trekken."
+		"description": "Concept - Het gaat hierbij om gebruiken van logische redeneerprincipes en daarmee conclusies trekken.",
+		"dirty": true,
+		"prefix": "u2"
 	},
 	{
-		"title": "",
+		"title": "xxxxx",
 		"id": "70d2710a-a676-409a-86c6-ad454cf2b496",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om gebruiken van wiskundetaal en wiskundige representaties bij het formuleren en onderbouwen van een redenering."
+		"description": "Concept - Het gaat hierbij om gebruiken van wiskundetaal en wiskundige representaties bij het formuleren en onderbouwen van een redenering.",
+		"dirty": true,
+		"prefix": "u3"
 	},
 	{
-		"title": "",
+		"title": "xxxxx",
 		"id": "36dcb5d5-e982-41a3-b222-da34df6c3fbc",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om kritisch beschouwen van een redenering van iemand anders."
+		"description": "Concept - Het gaat hierbij om kritisch evalueren van eigen en andermans wiskundige redenering.",
+		"dirty": true,
+		"prefix": "u4"
 	},
 	{
-		"title": "",
+		"title": "xxxxx",
 		"id": "10990516-3e6f-45f0-a071-38e6c9c9bf6a",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"description": "Concept - Het gaat hierbij om wiskundig bewijzen van een bewering."
+		"description": "Concept - Het gaat hierbij om wiskundig bewijzen van een bewering.",
+		"dirty": true,
+		"prefix": "u5"
 	},
 	{
-		"title": "",
+		"title": "xxxxx",
 		"id": "56e5f063-331a-425d-826e-7dda4c114862",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"description": "Concept - Het gaat hierbij om verantwoorden van een redeneeraanpak in formele stappen"
+		"description": "Concept - Het gaat hierbij om verantwoorden van een redeneeraanpak in formele stappen",
+		"dirty": true,
+		"prefix": "u6"
 	},
 	{
-		"title": "",
+		"title": "xxxxx",
 		"id": "c1c3451b-0676-4d69-9bef-81507bb41b96",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om beschrijven en schematisch weergeven hoe een algoritme tot een vast resultaat leidt."
+		"description": "Concept - Het gaat hierbij om algoritmes met een beperkt aantal stappen.",
+		"dirty": true,
+		"prefix": "u1"
 	},
 	{
-		"title": "",
+		"title": "xxxxx",
 		"id": "5a13d5b0-4b9b-4c37-aa1a-00844147e6b1",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om beoordelen van het resultaat van een doorlopen algoritme."
+		"description": "Concept - Het gaat hierbij om beschrijven hoe een algoritme tot een vast resultaat leidt.",
+		"dirty": true,
+		"prefix": "u2"
 	},
 	{
-		"title": "",
+		"title": "xxxxx",
 		"id": "83125ca4-a12f-4961-b1c6-038bc7921368",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om ontwerpen van een algoritme voor de aanpak van een probleem."
+		"description": "Concept - Het gaat hierbij om beoordelen van het resultaat van een doorlopen algoritme.",
+		"dirty": true,
+		"prefix": "u3"
 	},
 	{
-		"title": "",
+		"title": "xxxxx",
 		"id": "e7353df5-4d06-4d28-a4cd-6ab56bc63627",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om benoemen van mogelijkheden en beperkingen in de bruikbaarheid van algoritmen."
+		"description": "Concept - Het gaat hierbij om bedenken van een algoritme voor de aanpak van een probleem.",
+		"dirty": true,
+		"prefix": "u4"
 	},
 	{
-		"title": "",
+		"title": "xxxxx",
 		"id": "7deb96b5-4549-407f-90f6-e02ca5793529",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"description": "Concept - Het gaat hierbij om verbeteren van de efficiÃ«ntie van een algoritme door een aanpassing te bedenken."
+		"description": "Concept - Het gaat hierbij om verbeteren van een algoritme door een aanpassing te bedenken.",
+		"dirty": true,
+		"prefix": "u6"
 	},
 	{
-		"title": "",
+		"title": "xxxxx",
 		"id": "54e01707-8c44-42ea-887f-d60705618327",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"description": "Concept - Het gaat hierbij om schematisch beschrijven van een algoritme met een formele beschrijvingstechniek."
+		"description": "Concept - Het gaat hierbij om schematisch beschrijven van een algoritme.",
+		"dirty": true,
+		"prefix": "u7"
 	},
 	{
-		"title": "",
+		"title": "xxxxx",
 		"id": "3f6ac9fa-cf0e-4fdb-97b1-465f132b3afa",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om gebruiken van wiskundige symbolen en begrippen."
+		"description": "Concept - Het gaat hierbij om gebruiken van wiskundige symbolen, notaties en begrippen.",
+		"dirty": true,
+		"prefix": "u1"
 	},
 	{
-		"title": "",
+		"title": "xxxxx",
 		"id": "7f3fc213-d0ec-41a2-8fc0-03276d3acabe",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om kiezen en bedenken van representaties om berekeningen en wiskundige redeneringen weer te geven."
+		"description": "Concept - Het gaat hierbij om leesbaar weergeven van berekeningen en probleemaanpakken.",
+		"dirty": true,
+		"prefix": "u2"
 	},
 	{
-		"title": "",
+		"title": "xxxxx",
 		"id": "ee3b2184-5262-40af-9881-04005e2c4b94",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om kritisch beschouwen van een representatie."
+		"description": "Concept - Het gaat hierbij om kiezen en bedenken van representaties om berekeningen en wiskundige redeneringen weer te geven en uit te wisselen.",
+		"dirty": true,
+		"prefix": "u3"
 	},
 	{
-		"title": "",
+		"title": "xxxxx",
 		"id": "f5903977-a73c-411c-81a7-31e794f4b74a",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om relaties leggen tussen verschillende representaties van een wiskundig concept."
+		"description": "Concept - Het gaat hierbij om kritisch beoordelen van een representatie.",
+		"dirty": true,
+		"prefix": "u4"
 	},
 	{
-		"title": "",
+		"title": "xxxxx",
 		"id": "16a24ff9-a8c3-4361-9e3a-f8d563ec0ed9",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om uitwisselen van wiskundige ideeÃ«n en gedachten."
+		"description": "Concept - Het gaat hierbij om relaties leggen tussen verschillende representaties van een wiskundig concept.",
+		"dirty": true,
+		"prefix": "u5"
 	},
 	{
-		"title": "",
+		"title": "xxxxx",
 		"id": "7e486f51-cc8c-4d15-be6a-febcb98c3aa8",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om kiezen voor gebruik van een instrument op basis van de mogelijkheden, beperkingen en meetnauwkeurigheid."
+		"description": "Concept - Het gaat hierbij om beredeneerd kiezen voor gebruik van een instrument op basis van de mogelijkheden, beperkingen en meetnauwkeurigheid.",
+		"dirty": true,
+		"prefix": "u1"
 	},
 	{
-		"title": "",
+		"title": "xxxxx",
 		"id": "edb0329b-4eb9-4803-bb57-6ce302ac5b8e",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om vooraf schatten van een meetresultaat of een uitkomst."
+		"description": "Concept - Het gaat hierbij om vooraf schatten van meetresultaten of uitkomsten.",
+		"dirty": true,
+		"prefix": "u2"
 	},
 	{
-		"title": "",
+		"title": "xxxxx",
 		"id": "2e3cf114-b5df-418d-8ed5-7accfcbb3372",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om hanteren van een instrument en de bijbehorende wiskundetaal."
+		"description": "Concept - Het gaat hierbij om gebruiken van een instrument en de bijbehorende wiskundetaal.",
+		"dirty": true,
+		"prefix": "u3"
 	},
 	{
-		"title": "",
+		"title": "xxxxx",
 		"id": "e6607881-af20-40a6-8cf6-6e18abe2f3b2",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om interpreteren en beoordelen van het resultaat."
+		"description": "Concept - Het gaat hierbij om interpreteren en beoordelen van het resultaat.",
+		"dirty": true,
+		"prefix": "u4"
 	},
 	{
-		"title": "",
+		"title": "xxxxx",
 		"id": "8398ccbf-c7e9-47ed-9aea-662bfee886c9",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"description": "Concept - Het gaat hierbij om uitvoeren van berekeningen met een digitaal instrument, en aangeven van de mate van nauwkeurigheid van de uitkomst."
+		"description": "Concept - Het gaat hierbij om uitvoeren van berekeningen met een digitaal instrument, en aangeven van de mate van nauwkeurigheid van de  verkregen uitkomst.",
+		"dirty": true,
+		"prefix": "u5"
 	},
 	{
-		"title": "",
+		"title": "xxxxx",
 		"id": "ca09d48a-49b5-4c92-83e9-52cf2db24d20",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om gebruiken van getallen en andere wiskundige concepten in concrete, voor de leerling relevante dagelijkse en beroepsmatige situaties."
+		"description": "Concept - Het gaat hierbij om gebruiken van getallen en andere wiskundige concepten in concrete, voor de leerling relevante dagelijkse en beroepsmatige situaties.",
+		"dirty": true,
+		"prefix": "u1"
 	},
 	{
-		"title": "",
+		"title": "xxxxx",
 		"id": "b5976ff0-6265-44f0-b24e-d70747796a61",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om inzetten van wiskundige instrumenten voor gebruik bij meten en andere praktische handelingen."
+		"description": "Concept - Het gaat hierbij om gebruiken van wiskundige instrumenten bij meten en andere praktische handelingen.",
+		"dirty": true,
+		"prefix": "u2"
 	},
 	{
-		"title": "",
+		"title": "xxxxx",
 		"id": "12d2e3ac-173f-4ec2-a57e-dd254654c5df",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om wiskunde gebruiken bij het nemen van beslissingen."
+		"description": "Concept - Het gaat hierbij om wiskunde gebruiken bij het nemen van beslissingen en het oplossen van problemen.",
+		"dirty": true,
+		"prefix": "u3"
 	},
 	{
-		"title": "",
+		"title": "xxxxx",
 		"id": "55bcd96e-fc81-46fc-a4d1-96ba713ccb38",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om herkennen dat met grafische representaties een bepaalde boodschap wordt overgebracht of benadrukt."
+		"description": "Concept - Het gaat hierbij om herkennen en beschrijven dat met grafische representaties een bepaalde boodschap wordt overgebracht of benadrukt.",
+		"dirty": true,
+		"prefix": "u4"
 	},
 	{
-		"title": "",
+		"title": "xxxxx",
 		"id": "f08f1470-5275-4f5a-9dc1-a9e97ef21c0d",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om gebruiken en beoordelen van wiskundige informatie uit de samenleving, de media en een beroepscontext bij het vormen van een mening."
+		"description": "Concept - Het gaat hierbij om gebruiken en beoordelen van wiskundige informatie uit de samenleving, de media en een beroepscontext bij het vormen van een mening.",
+		"dirty": true,
+		"prefix": "u5"
 	},
 	{
-		"title": "",
+		"title": "xxxxx",
 		"id": "ea78d075-a07a-41a2-ac44-337dbffa09ff",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om herkennen hoe wiskunde in allerlei beroepen op uiteenlopende manieren een rol speelt."
+		"description": "Concept - Het gaat hierbij om herkennen en beschrijven hoe wiskunde in allerlei beroepen op uiteenlopende manieren een rol speelt.",
+		"dirty": true,
+		"prefix": "u6"
 	},
 	{
-		"title": "",
+		"title": "xxxxx",
 		"id": "a78e38af-b531-4a04-a184-f3b570d31e2b",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om laten zien hoe andere leergebieden wiskundetaal en wiskundige representaties toepassen."
+		"description": "Concept - Het gaat hierbij om aanbieden van wiskundige concepten en denk-werkwijzen in onderling samenhang.",
+		"dirty": true,
+		"prefix": "u1"
 	},
 	{
-		"title": "",
+		"title": "xxxxx",
 		"id": "084d6fb9-fab1-4e7d-b1aa-22dbba0db987",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om laten zien hoe getallen en andere wiskundige concepten in andere leergebieden voorkomen."
+		"description": "Concept - Het gaat hierbij om laten zien hoe verschillende leergebieden wiskundetaal en wiskundige representaties gebruiken.",
+		"dirty": true,
+		"prefix": "u2"
 	},
 	{
-		"title": "",
+		"title": "xxxxx",
 		"id": "0765e736-b37d-4012-b7f8-808417937e22",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om afstemmen hoe rekenwijzen en andere wiskundige aanpakken bij verschillende leergebieden worden uitgevoerd."
+		"description": "Concept - Het gaat hierbij om afstemmen hoe rekenaanpakken en andere wiskundige aanpakken bij verschillende leergebieden worden uitgevoerd.",
+		"dirty": true,
+		"prefix": "u3"
 	},
 	{
-		"title": "",
+		"title": "xxxxx",
 		"id": "fe472165-8655-4770-b6b4-08d777f12e78",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om gebruiken van wiskundige instrumenten in andere leergebieden."
+		"description": "Concept - Het gaat hierbij om laten gebruiken van wiskundigemodellen, wiskundige instrumenten, algoritmes en formules in verschillende leergebieden.",
+		"dirty": true,
+		"prefix": "u4"
 	},
 	{
-		"title": "",
+		"title": "xxxxx",
 		"id": "2db47992-145e-4457-a2be-07478ba8908c",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om toepassen van modelgebruik en algoritmisch denken in andere leergebieden."
+		"description": "Concept - Het gaat hierbij om toepassen van modelgebruik en algoritmisch denken in andere leergebieden.",
+		"dirty": true,
+		"prefix": "DELETE"
 	},
 	{
-		"title": "",
+		"title": "xxxxx",
 		"id": "4a6bce45-20c5-4639-a4a4-155db19686cc",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om leerlingen aanmoedigen om wiskundetaal en wiskundige representaties te gebruiken die passen bij de verschillende wiskundige concepten."
+		"description": "Concept - Het gaat hierbij om leerlingen aanmoedigen om wiskundetaal en wiskundige representaties te gebruiken die passen bij de verschillende wiskundige concepten.",
+		"dirty": true,
+		"prefix": "DELETE"
 	},
 	{
-		"title": "",
+		"title": "xxxxx",
 		"id": "70917d43-27c5-4c06-9a7d-6b64e6fcbcec",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om laten gebruiken van wiskundige instrumenten."
+		"description": "Concept - Het gaat hierbij om laten gebruiken van wiskundige instrumenten.",
+		"dirty": true,
+		"prefix": "DELETE"
 	},
 	{
-		"title": "",
+		"title": "xxxxx",
 		"id": "d439e7c8-0283-41da-82c8-06ff98d8e1f3",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om aanbieden van problemen met betrekking tot verschillende wiskundige concepten."
+		"description": "Concept - Het gaat hierbij om aanbieden van problemen met betrekking tot verschillende wiskundige concepten.",
+		"dirty": true,
+		"prefix": "DELETE"
 	},
 	{
-		"title": "",
+		"title": "xxxxx",
 		"id": "3902bf38-48bd-41ab-8a85-91f1f753e500",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om gebruiken van modellen en algoritmisch denken bij verschillende wiskundige concepten."
+		"description": "Concept - Het gaat hierbij om gebruiken van modellen en algoritmisch denken bij verschillende wiskundige concepten.",
+		"dirty": true,
+		"prefix": "DELETE"
 	},
 	{
-		"title": "",
+		"title": "xxxxx",
 		"id": "fbe28710-17ad-4996-af95-81b30ccd7f56",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om leerlingen vragen om beweringen over verschillende wiskundige concepten aan te tonen."
+		"description": "Concept - Het gaat hierbij om leerlingen vragen om beweringen over verschillende wiskundige concepten aan te tonen.",
+		"dirty": true,
+		"prefix": "DELETE"
 	},
 	{
-		"title": "",
+		"title": "xxxxx",
 		"description": "Concept - Het gaat hierbij om laten zien van het nut en de kracht van wiskunde in uiteenlopende toepassingen.",
-		"prefix": "A1.1a",
+		"prefix": "u1",
 		"id": "925b27d1-7706-40ae-906b-93fa495d64e3",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
-		"title": "",
+		"title": "xxxxx",
 		"description": "Concept - Het gaat hierbij om stimuleren om vragen te stellen bij concrete getalsmatige en wiskundige informatie.",
-		"prefix": "A1.1b",
+		"prefix": "DELETE",
 		"id": "89775bfc-1ca1-4afc-8107-6604fe1c9fbc",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
-		"title": "",
-		"description": "Concept - Het gaat hierbij om stimuleren van een onderzoekende en kritische houding ten aanzien van getallen en andere wiskundige concepten.",
-		"prefix": "A1.1c",
+		"title": "xxxxx",
+		"description": "Concept - Het gaat hierbij om stimuleren van een onderzoekende en kritische houding ten aanzien van getallen en andere wiskundige informatie.",
+		"prefix": "u2",
 		"id": "3a649a72-9d33-45ea-9021-bf266906ef8c",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
-		"title": "",
+		"title": "xxxxx",
 		"description": "Concept - Het gaat hierbij om laten reflecteren op eigen en andermans rekenwijze en overig wiskundig handelen.",
-		"prefix": "A1.1d",
+		"prefix": "u3",
 		"id": "32596138-3a08-4873-8522-d6fde8448b9d",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
-		"title": "",
+		"title": "xxxxx",
 		"description": "Concept - Het gaat hierbij om inzicht bieden in hoe leerlingen wiskunde kunnen inzetten in de bovenbouw en het verdere leven.",
-		"prefix": "A1.1e",
+		"prefix": "u4",
 		"id": "c0515655-ce7e-474c-8fea-5d915793634c",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "",
@@ -10663,6 +10808,52 @@
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"id": "92569c21-7099-4df0-9aa8-2af006f78ccb",
+		"unreleased": true
+	},
+	{
+		"title": "xxxxx",
+		"description": "Concept - Het gaat hierbij om grafische representaties: diagrammen, grafieken en infographics.",
+		"prefix": "u6",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"id": "4f6c64a0-8669-44c3-85af-165d43f588e7",
+		"unreleased": true
+	},
+	{
+		"title": "xxxxx",
+		"description": "Concept - Het gaat hierbij om onderscheiden van correlatie en causaliteit.",
+		"prefix": "u11",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59",
+			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		],
+		"id": "8d7587ef-ef4b-45c0-89e3-ba0bfa74b864",
+		"unreleased": true
+	},
+	{
+		"title": "xxxxx",
+		"description": "Concept - Het gaat hierbij om redeneren met hoeken en eigenschappen van hoeken in meetkundige figuren.",
+		"prefix": "u6",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59",
+			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		],
+		"id": "65f79e0b-bc4f-4cf8-936d-5270501b0ae8",
+		"unreleased": true
+	},
+	{
+		"title": "xxxxx",
+		"description": "Concept - Het gaat hierbij om beschrijven van mogelijkheden en beperkingen in de bruikbaarheid van algoritmes.",
+		"prefix": "u5",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"id": "ba032a89-752d-47fa-af85-7681d9d57c64",
 		"unreleased": true
 	}
 ]
