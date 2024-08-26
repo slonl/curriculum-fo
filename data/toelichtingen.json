@@ -2303,771 +2303,1032 @@
 		"dirty": true
 	},
 	{
-		"title": "Concept - Te denken valt aan tonen van begrip door informatie uit een documentaire in een visualisatie te plaatsen.",
-		"description": "Te denken valt aan",
-		"prefix": "A1.1/a",
+		"title": "xxxxx",
+		"description": "Concept - Te denken valt aan de de betekenis bespreken van gelezen verhalen, toneelstukken of gedichten.",
+		"prefix": "t1",
 		"id": "bd5b6191-12bc-444d-b3d3-13d2ad418dc5",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
-		"title": "Concept - Te denken valt aan bespreken en beoordelen van elkaars (strategisch) leesgedrag bij een complexe tekst.",
-		"description": "Te denken valt aan",
-		"prefix": "A1.1/b",
+		"title": "xxxxx",
+		"description": "Concept - Te denken valt aan begrip tonen door informatie uit een documentaire in een schema te plaatsen.",
+		"prefix": "t2",
 		"id": "a300581d-b742-44d7-8978-9c040b3d7d1f",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
-		"title": "Concept - Te denken valt aan verkennen van de structuur van hyperlinkteksten.",
-		"description": "Te denken valt aan",
-		"prefix": "A1.1/c",
+		"title": "xxxxx",
+		"description": "Concept - Te denken valt aan elkaars strategisch leesgedrag bespreken en beoordelen bij een complexe tekst.",
+		"prefix": "t3",
 		"id": "05eb8ddd-2904-40ef-8012-cd0367e6b7d6",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
-		"title": "Concept - Te denken valt aan verdiepen van het begrip door meerdere teksten over hetzelfde onderwerp met elkaar te vergelijken.",
-		"description": "Te denken valt aan",
-		"prefix": "A1.1/d",
+		"title": "xxxxx",
+		"description": "Concept - Te denken valt aan de structuur van hyperlinkteksten verkennen.",
+		"prefix": "t4",
 		"id": "c3a712e2-0cc8-4785-835d-3311ea982cb9",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
-		"title": "Concept - Te denken valt aan betekenis geven aan gedichten.",
-		"prefix": "A1.1/e",
+		"title": "xxxxx",
+		"prefix": "t5",
 		"id": "3bf2de9f-c15d-4082-9c34-6c3774ee9283",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan vragen bedenken over de te leren inhoud uit teksten."
 	},
 	{
-		"title": "Concept - Te denken valt aan verwoorden van een beargumenteerde mening, naar aanleiding van een talkshow over een maatschappelijk vraagstuk.",
-		"description": "Te denken valt aan",
-		"prefix": "A1.1/e",
+		"title": "xxxxx",
+		"description": "Concept - Te denken valt aan de hoofdlijnen bespreken van een bekeken talkshow over een maatschappelijk vraagstuk.",
+		"prefix": "t6",
 		"id": "44d0c479-dcdb-4f2c-ae40-87f8a6420504",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		]
+		],
+		"dirty": true
 	},
 	{
-		"title": "Concept - Te denken valt aan analyseren van een politieke speech op inhoud en vorm.",
-		"description": "Te denken valt aan",
-		"prefix": "A1.1/f",
+		"title": "xxxxx",
+		"description": "Concept - Te denken valt aan de mening van een schrijver van een opiniestuk uit een kwaliteitskrant bespreken.",
+		"prefix": "t7",
 		"id": "f37a92a6-d228-42d3-a2de-96d13bbec9d1",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		]
+		],
+		"dirty": true
 	},
 	{
-		"title": "Concept - Te denken valt aan review schrijven over een gekocht product voor andere gebruikers.",
+		"title": "xxxxx",
 		"id": "82cdfbda-5c98-4249-8beb-2da628654d4a",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan begrip van een onderwerp verdiepen door meerdere teksten over hetzelfde onderwerp met elkaar te vergelijken.",
+		"prefix": "t1"
 	},
 	{
-		"title": "Concept - Te denken valt aan een verslag schrijven naar aanleiding van een snuffelstage of bedrijfsbezoek in het kader van beroepsoriëntatie.",
+		"title": "xxxxx",
 		"id": "d3e44b8c-e5cd-4095-bff1-1c94f5558e88",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan literaire gesprekken voeren over de waardering van gelezen boeken.",
+		"prefix": "t2"
 	},
 	{
-		"title": "Concept - Te denken valt aan een betoog houden over een maatschappelijk probleem.",
+		"title": "xxxxx",
 		"id": "72632e61-1c68-466c-85bb-93ea8d39bed5",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan een infographic op basis van meerdere teksten maken van inhoud die onthouden moet worden, passend bij het studiedoel.",
+		"prefix": "t3"
 	},
 	{
-		"title": "Concept - Te denken valt aan een uiteenzettende of beschouwende tekst schrijven of uitspreken over een verschijnsel of kwestie.",
+		"title": "xxxxx",
 		"id": "4d5f3b00-7f10-42fe-84bb-53f4ba53d26b",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		]
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan een politiek opiniestuk analyseren op inhoud en vorm.",
+		"prefix": "t5"
 	},
 	{
-		"title": "Concept - Te denken valt aan schrijven of vertellen van een broodjeaapverhaal.",
+		"title": "xxxxx",
 		"id": "a886dccc-b80b-4e14-bc58-4034124ffe2f",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan een schrijfplan maken op basis van doel, publiek en context.",
+		"prefix": "t1"
 	},
 	{
-		"title": "Concept - Te denken valt aan een persoonlijke ervaring verwerken tot een ultrakorte tekst of een elevator pitch.",
+		"title": "xxxxx",
 		"id": "3e3aa55f-fe01-4f7c-8aec-2d9b1f528021",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan een review schrijven over een bezochte theatervoorstelling of een gekocht product voor andere gebruikers.",
+		"prefix": "t2"
 	},
 	{
-		"title": "Concept - Te denken valt aan spelen met afwijkend gebruik van de interpunctie of het doorbreken van genreconventies.",
+		"title": "xxxxx",
 		"id": "ba056cec-e29b-4d98-bc61-4bde297fa1cd",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan een podcast maken naar aanleiding van een snuffelstage of bedrijfsbezoek in het kader van beroepsoriëntatie.",
+		"prefix": "t3"
 	},
 	{
-		"title": "Concept - Te denken valt aan verwoorden van ervaringen, interesses en talenten in een vormvrij cultureel zelfportret.",
+		"title": "xxxxx",
 		"id": "5c84d9df-2736-4511-a136-cf3d3768ad7a",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan een betoog houden over een maatschappelijk probleem.",
+		"prefix": "t4"
 	},
 	{
-		"title": "Concept - Te denken valt aan maken van een rap met zelfbedachte woorden, gebruikmakend van straattaal.",
+		"title": "xxxxx",
 		"id": "4a5c54eb-85ff-4c4d-b7a4-10576b70e917",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		]
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan een uiteenzetting of beschouwing schrijven of uitspreken over een verschijnsel of kwestie.",
+		"prefix": "t6"
 	},
 	{
-		"title": "Concept - Te denken valt aan een infographic maken van een tekst over een maatschappelijk onderwerp.",
+		"title": "xxxxx",
 		"id": "ccc2433b-bb18-419d-b56f-4880330db619",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan een persoonlijke ervaring verwerken tot een ultrakorte tekst of een elevator pitch.",
+		"prefix": "t1"
 	},
 	{
-		"title": "Concept - Te denken valt aan een samenvatting maken van één of enkele bronnen rond een thema.",
+		"title": "xxxxx",
 		"id": "fde6ccaf-9485-4fa9-8dd2-0bca723e9ee3",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan met afwijkende interpunctie spelen, of het doorbreken van genreconventies.",
+		"prefix": "t2"
 	},
 	{
-		"title": "Concept - Te denken valt aan een synthese maken van twee of drie bronnen rond een thema van wereldoriëntatie.",
+		"title": "xxxxx",
 		"id": "5050f303-653f-424b-b473-69b43d6237c8",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59",
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		]
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan ervaringen, interesses en talenten verwoorden in een vorm naar keuze",
+		"prefix": "t3"
 	},
 	{
-		"title": "Concept - Te denken valt aan aantekeningen maken tijdens de uitleg van de docent.",
+		"title": "xxxxx",
 		"id": "e078b929-eef1-4560-8369-dc3992b502a2",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		]
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan een rap maken met zelfbedachte woorden, gebruikmakend van straattaal.",
+		"prefix": "t5"
 	},
 	{
-		"title": "Concept - Te denken valt aan vergelijken en analyseren van verschillende teksten over hetzelfde onderwerp.",
+		"title": "xxxxx",
 		"id": "5aa3e0af-cbe8-4357-8801-36aaaa9eca3e",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan een infographic maken van teksten over een maatschappelijk onderwerp.",
+		"prefix": "t1"
 	},
 	{
-		"title": "Concept - Te denken valt aan uitproberen van verschillende zoektermen bij het onderzoeken van een specifieke zoekvraag.",
+		"title": "xxxxx",
 		"id": "587b1b36-d879-4cf7-b962-23ae74f06286",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan een samenvatting maken van één of enkele bronnen rond een burgerschapsthema.",
+		"prefix": "t2"
 	},
 	{
-		"title": "Concept - Te denken valt aan verkennen van de mogelijkheden en gevaren van teksten geschreven door AI.",
+		"title": "xxxxx",
 		"id": "7ed82c40-f8a1-4caa-a985-4f70823566f8",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan een leerlogboek gebruiken om gedachten en vragen te noteren over het onderwerp dat bestudeerd wordt.",
+		"prefix": "t3"
 	},
 	{
-		"title": "Concept - Te denken valt aan cross-checken van een tekst geschreven door AI, door de tekst te vergelijken met andere bronnen.",
+		"title": "xxxxx",
 		"id": "cff5cd22-506b-4a4a-aca1-ea8ee1cd3689",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		]
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan aantekeningen maken en verbanden daarin aanbrengen tijdens de uitleg van de docent.",
+		"prefix": "t4"
 	},
 	{
-		"title": "Concept - Te denken valt aan schrijven van een informatief werkstuk op basis van gelezen, bekeken of beluisterde bronnen.",
+		"title": "xxxxx",
 		"id": "fdc444f0-7e50-4e38-83b5-93098e947d82",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan verschillende aangereikte teksten over hetzelfde onderwerp vergelijken en analyseren.",
+		"prefix": "t1"
 	},
 	{
-		"title": "Concept - Te denken valt aan houden van een eenvoudig betoog over een actueel thema na het lezen, beluisteren of bekijken van teksten over dit onderwerp.",
+		"title": "xxxxx",
 		"id": "c0b0414c-ff0d-46c1-8330-dbd055897cc4",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan houden de betrouwbaarheid van door AI gegenereerde teksten bespreken.",
+		"prefix": "t2"
 	},
 	{
-		"title": "Concept - Te denken valt aan maken van een infographic op basis van meerdere onderzochte bronnen.",
+		"title": "xxxxx",
 		"id": "0d11d45c-34f4-422e-b9cf-c67d980403dd",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan opmerkelijke uitspraken uit een online tekst halen en fact-checken.",
+		"prefix": "t3"
 	},
 	{
-		"title": "Concept - Te denken valt aan voorbereiden van een presentatie waarbij informatie uit verschillende bronnen vergeleken en geïntegreerd wordt.",
+		"title": "xxxxx",
 		"id": "9adfd27c-2e9b-4376-8918-8b2d94c55668",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		]
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan voorbereiden van een presentatie waarbij informatie uit verschillende bronnen vergeleken en geïntegreerd wordt.",
+		"prefix": "DELETE"
 	},
 	{
-		"title": "Concept - Te denken valt aan bespreken en beoordelen van elkaars (strategische) leesaanpak bij een complexe tekst.",
+		"title": "xxxxx",
 		"id": "273c3c42-3a4b-467b-865e-53a5e9b043ea",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan live of online deelnemen aan een forumdiscussie.",
+		"prefix": "t1"
 	},
 	{
-		"title": "Concept - Te denken valt aan reviseren van een tekst op basis van ontvangen feedback.",
+		"title": "xxxxx",
 		"id": "f42dc702-bf63-48ab-b3f5-156edc81d9ac",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan een debat voorbereiden en voeren over een actueel maatschappelijk onderwerp, waarbij de meningen sterk uiteenlopen.",
+		"prefix": "t2"
 	},
 	{
-		"title": "Concept - Te denken valt aan meenemen van leerdoelen bij het voorbereiden van een mondelinge presentatie.",
+		"title": "xxxxx",
 		"id": "fb8d0070-ef9b-4238-b00d-22dd5f5e95d8",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan een afspraak maken voor een snuffelstage.",
+		"prefix": "t3"
 	},
 	{
-		"title": "Concept - Te denken valt aan deelnemen aan een forumdiscussie (live of online).",
+		"title": "xxxxx",
 		"id": "1e886120-8f9a-4ab7-85b8-23975b0e8bfe",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan kennis opbouwen over geestelijke stromingen of andere vormen van diversiteit in de Nederlandse samenleving door ervaringen uit te wisselen.",
+		"prefix": "t1"
 	},
 	{
-		"title": "Concept - Te denken valt aan voeren van een debat over een actueel maatschappelijk onderwerp, waarbij de meningen sterk uiteenlopen.",
+		"title": "xxxxx",
 		"id": "93483abb-e928-42f9-aff8-6e6db724bb4c",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan ideeën en meningen uitwisselen over gelezen literatuur.",
+		"prefix": "t2"
 	},
 	{
-		"title": "Concept - Te denken valt aan maken van een afspraak voor een snuffelstage.",
+		"title": "xxxxx",
 		"id": "0858a1c1-1c94-464e-8fcf-5e270c5443d3",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan manieren bedenken om het gebruik van dialecten van het Nederlands te blijven stimuleren.",
+		"prefix": "t3"
 	},
 	{
-		"title": "Concept - Te denken valt aan voeren van een groepsgesprek over literatuur.",
+		"title": "xxxxx",
 		"id": "6ba2c828-89b2-4ef0-ac78-167ac64e4255",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+			"dbbc3e87-a848-4425-912a-d494e43e5e59",
+			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan een probleem, vraagstuk of situatie verkennen, vanuit verschillende perspectieven.",
+		"prefix": "t4"
 	},
 	{
-		"title": "Concept - Te denken valt aan in een discussie of debat specifieke, toegekende belangen verdedigen die niet direct betrekking hebben op jezelf.",
+		"title": "xxxxx",
 		"id": "96e59404-bc6b-4d49-be28-0aa20af60d02",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		]
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan de mogelijkheden verkennen om te handelen ten aanzien van maatschappelijke vraagstukken door zienswijzen uit te wisselen.",
+		"prefix": "t5"
 	},
 	{
-		"title": "Concept - Te denken valt aan bedenken van oplossingen om dialecten van het Nederlands te blijven behouden.",
+		"title": "xxxxx",
 		"id": "1febfda1-1b3c-41ba-b494-5facbee930c7",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan elkaars leesaanpak bij een complexe tekst bespreken en beoordelen.",
+		"prefix": "t1"
 	},
 	{
-		"title": "Concept - Te denken valt aan verkennen van een probleem of situatie, vanuit verschillende perspectieven.",
+		"title": "xxxxx",
 		"id": "3393b1dd-e6f3-426e-9781-4512ddaf55a9",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan eerder geformuleerde leerdoelen – bijvoorbeeld meer structuur aanbrengen – meenemen bij het voorbereiden van een mondelinge presentatie.",
+		"prefix": "t2"
 	},
 	{
-		"title": "Concept - Te denken valt aan bedenken van een uitvoerbare, praktische oplossing bij een maatschappelijk of technologisch vraagstuk.",
+		"title": "xxxxx",
 		"id": "235c19a6-5d25-4fbf-9d61-a01372849a8d",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		]
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan meenemen van leerdoelen bij het voorbereiden van een mondelinge presentatie.",
+		"prefix": "DELETE"
 	},
 	{
-		"title": "Concept - Te denken valt aan reflecteren op zinsopbouw en de functies van onderdelen van zinnen.",
+		"title": "xxxxx",
 		"id": "cb255320-bbbb-4e5c-a44e-ee2f0efbc100",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan de betekenis analyseren van krantenkoppen als “een leerling verhuist/verhuisd”, of “een moslima ontsluiert/ontsluierd”.",
+		"prefix": "t1"
 	},
 	{
-		"title": "Concept - Te denken valt aan analyseren van het effect van gebruikte stijlmiddelen in verschillende soorten teksten.",
+		"title": "xxxxx",
 		"id": "418bc4e3-abd3-4d4d-b557-995c473fcd21",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan het wel of niet gebruiken van verkleinwoorden in bepaalde contexten beredeneerd kunnen uitleggen: in de juridische context spreek je bijvoorbeeld niet over een advocaatje en een vonnisje.",
+		"prefix": "t2"
 	},
 	{
-		"title": "Concept - Te denken valt aan vergelijken van het taalgebruik in verschillende soorten brieven en het verwoorden van het effect van dit taalgebruik.",
+		"title": "xxxxx",
 		"id": "aa91856c-16fa-403c-977c-b7e713ec073a",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59",
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		]
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan de plekwisseling van persoonsvorm en onderwerp ontdekken als je een bepaling toevoegt en vergelijken hoe dat in andere talen gebeurt (ik ga naar de bioscoop – morgen ga ik naar de bioscoop).",
+		"prefix": "t3"
 	},
 	{
-		"title": "Concept - Te denken valt aan correct leren spellen van bijvoorbeeld werkwoorden in allerlei vervoegingen.",
+		"title": "xxxxx",
 		"id": "f016ef1c-ae31-429b-b8d6-b777c9900ee9",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan homofone werkwoordsvormen correct leren spellen zoals verhuist en verhuisd, door de context en betekenis erbij te betrekken.",
+		"prefix": "t1"
 	},
 	{
-		"title": "Concept - Te denken valt aan gebruiken van spelling- of grammaticacorrectie op de computer, het gebruiken van AItechnologie of het gebruiken van bronnen zoals woordenboeken, zelfgemaakte lijstjes, taaladviezen of taalboekjes, ook bij het reviseren van een tekst.",
+		"title": "xxxxx",
 		"id": "08fd8cae-0371-4032-8f72-11a962690c03",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan het belang van een correcte spelling in verschillende beroepscontexten bespreken.",
+		"prefix": "t2"
 	},
 	{
-		"title": "Concept - Te denken valt aan correct leren spellen van bijvoorbeeld woorden met tekens die bepalend zijn voor de uitspraak van het woord.",
+		"title": "xxxxx",
 		"id": "11313d8e-c144-4ed1-8ad3-d8c6ff282a82",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59",
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		]
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan bronnen zoals woordenboeken, zelfgemaakte lijstjes, taaladviezen of taalboekjes gebruiken, ook bij het reviseren van een tekst.",
+		"prefix": "t3"
 	},
 	{
-		"title": "Concept - Te denken valt aan reviseren van een tekst naar aanleiding van gevraagde feedback op spelling en formulering.",
+		"title": "xxxxx",
 		"id": "8d34d61d-107f-4e0c-825a-3819ac7eb90d",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59",
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		]
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan veelvoorkomende alledaagse taalfouten bespreken en het effect daarvan.",
+		"prefix": "t4"
 	},
 	{
-		"title": "Concept - Te denken valt aan verwoorden van keuzes rondom taalgebruik en non-verbale communicatie na afloop van een presentatie.",
+		"title": "xxxxx",
 		"id": "81148ad7-ab6e-4886-ae6b-e07af7a83750",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan keuzes verwoorden rondom taalgebruik en non-verbale communicatie na afloop van een presentatie.",
+		"prefix": "t1"
 	},
 	{
-		"title": "Concept - Te denken valt aan reflecteren op de eigen woordkeuze in de interactie met een ander.",
+		"title": "xxxxx",
 		"id": "9ca84e50-2786-46ad-8c9f-d75eb9cfdebb",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan op de eigen woordkeuze reflecteren in de interactie met een ander.",
+		"prefix": "t2"
 	},
 	{
-		"title": "Concept - Te denken valt aan gebruiken van talenkennis bij het interpreteren of schrijven van teksten in het Standaardnederlands.",
+		"title": "xxxxx",
 		"id": "60c502e3-6741-4e93-98d2-59cdd003607b",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan de keuze voor een taal of taalvariëteit van een influencer bespreken.",
+		"prefix": "t3"
 	},
 	{
-		"title": "Concept - Te denken valt aan een gesprek voeren over de positie van verschillende talen in de maatschappij.",
+		"title": "xxxxx",
 		"id": "7addd069-9ed8-4d9a-9e5d-64bee573cfb9",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan over de positie van verschillende talen in de maatschappij een gesprek voeren.",
+		"prefix": "t1"
 	},
 	{
-		"title": "Concept - Te denken valt aan ontdekken van verschillen en overeenkomsten tussen talen en taalvariëteiten ten behoeve van de eigen taalontwikkeling.",
+		"title": "xxxxx",
 		"id": "459ffa01-245e-4d36-a4cc-97383df919e5",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan artikel lezen en bespreken over voorbeelden van taalverandering zoals ‘hun als onderwerp van de zin’.",
+		"prefix": "t2"
 	},
 	{
-		"title": "Concept - Te denken valt aan in gesprek gaan met een vertaler over verschillen en overeenkomsten tussen talen en de uitdagingen die deze met zich meebrengen.",
+		"title": "xxxxx",
 		"id": "948f4b0a-f666-497a-91cc-cd3bb6802a71",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan uitingen herkennen die een negatieve gevoelswaarde hebben gekregen.",
+		"prefix": "t3"
+	},
+	{
+		"title": "xxxxx",
+		"id": "772357de-4cc7-400f-9864-4b4d045dce78",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		]
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan een argumentatieschema maken bij een betogende tekst over een maatschappelijk probleem, bijvoorbeeld roken.",
+		"prefix": "t1"
 	},
 	{
-		"title": "Concept - Te denken valt aan praten over het gebruik van frames in taalgebruikssituaties, gerelateerd aan actuele maatschappelijke thema’s.",
-		"id": "772357de-4cc7-400f-9864-4b4d045dce78",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
-	},
-	{
-		"title": "Concept - Te denken valt aan herkennen van uitingen die als discriminerend of gendertyperend kunnen worden ervaren.",
+		"title": "xxxxx",
 		"id": "0a334ec3-0eb2-4cce-b1a4-e9e51a7f1ca1",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+			"dbbc3e87-a848-4425-912a-d494e43e5e59",
+			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan in een politiek debat benoemen of het gaat om politieke argumentatie of bijvoorbeeld medische argumentatie.",
+		"prefix": "t2"
 	},
 	{
-		"title": "Concept - Te denken valt aan ontdekken van de invloed van taalcontact op straattaal.",
+		"title": "xxxxx",
 		"id": "8b1dd516-b00a-4c91-a881-836bc7bbc80a",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+			"dbbc3e87-a848-4425-912a-d494e43e5e59",
+			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan verschillende opnames van boekpromoties vergelijken en bespreken welke het overtuigendste is.",
+		"prefix": "t3"
 	},
 	{
-		"title": "Concept - Te denken valt aan interviewen van ouderen over taal vroeger en nu, aan de hand van een onderzoeksvraag, en het presenteren van de conclusies.",
+		"title": "xxxxx",
 		"id": "6f3fb427-65db-46b5-a533-61cbf4a2428d",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+			"dbbc3e87-a848-4425-912a-d494e43e5e59",
+			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan een argumentatieschema maken bij een betogende tekst over een maatschappelijk probleem, bijvoorbeeld roken.",
+		"prefix": "DELETE"
 	},
 	{
-		"title": "Concept - Te denken valt aan maken van een moderne hertaling van een historische tekst.",
+		"title": "xxxxx",
 		"id": "c2daf969-0f65-413e-87da-867bdbf31174",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		]
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan in een politiek debat benoemen of het gaat om politieke argumentatie of bijvoorbeeld medische argumentatie.",
+		"prefix": "DELETE"
 	},
 	{
-		"title": "Concept - Te denken valt aan analyseren van de woordvolgorde of het schriftelijk taalgebruik in een historische tekst.",
+		"title": "xxxxx",
 		"id": "b339c1d0-742e-4b10-92e6-80a27fdc3b8c",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		]
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan verschillende opnames van boekpromoties vergelijken en bespreken welke het overtuigendste is.",
+		"prefix": "DELETE"
 	},
 	{
-		"title": "Concept - Te denken valt aan herkennen van flashbacks en flashforwards in een verhaal en het effect bespreken op de spanning van een verhaal.",
+		"title": "xxxxx",
 		"id": "f7f22e31-7c79-4dea-a0e9-f9d023c0a2ff",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan teksten van verschillende literaire genres lezen en de kenmerkende aspecten bespreken, zoals een sonnet, detectives en biografieën.",
+		"prefix": "t1"
 	},
 	{
-		"title": "Concept - Te denken valt aan bespreken welke elementen uit tijd, plaats en omstandigheden van invloed zijn op de spanning en sfeer in een verhaal.",
+		"title": "xxxxx",
 		"id": "31319ccc-c853-4c5e-abd9-baeadffdc7c9",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan beeldspraak analyseren en interpreteren in gedichten.",
+		"prefix": "t2"
 	},
 	{
-		"title": "Concept - Te denken valt aan herkennen van verteltechnieken in game-scenario’s en films.",
+		"title": "xxxxx",
 		"id": "4ae18d95-93e7-4e07-939c-aab9b8255f8b",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan overeenkomsten en verschillen benoemen tussen verschillende verschijningsvormen van hetzelfde verhaal: graphic novel, roman en verfilming.",
+		"prefix": "t3"
 	},
 	{
-		"title": "Concept - Te denken valt aan herkennen van het gebruik van verteltechnieken in een betoog.",
+		"title": "xxxxx",
 		"id": "8070be06-22da-47bd-ba3b-21d9878a78fd",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan het taalgebruik in een gedicht vergelijken met het taalgebruik in een zakelijke tekst over hetzelfde onderwerp.",
+		"prefix": "t4"
 	},
 	{
-		"title": "Concept - Te denken valt aan gezamenlijk verkennen hoe titel, motto en motieven bijdragen aan het centrale thema.",
+		"title": "xxxxx",
 		"id": "035e56cb-d3c0-43e4-b387-9756dc127717",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		]
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan de relatie tussen vorm en betekenis van een gedicht analyseren.",
+		"prefix": "t6"
 	},
 	{
-		"title": "Concept - Te denken valt aan lezen, vergelijken en bespreken van teksten van verschillende literaire genres, zoals een sonnet, detectives en biografieën.",
+		"title": "xxxxx",
 		"id": "f02cb562-9d09-4a72-9105-49df9911e2b2",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+			"dbbc3e87-a848-4425-912a-d494e43e5e59",
+			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan een bewerking van een 17e-eeuws lied lezen en verbinden aan kennis over die tijd.",
+		"prefix": "t1"
 	},
 	{
-		"title": "Concept - Te denken valt aan analyseren van beeldspraak in gedichten.",
+		"title": "xxxxx",
 		"id": "9147ffc9-cbca-448f-b761-baf8d8aba05a",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+			"dbbc3e87-a848-4425-912a-d494e43e5e59",
+			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan verhalen en gedichten over een bepaalde historische gebeurtenis interpreteren vanuit standplaatsgebondenheid.",
+		"prefix": "t2"
 	},
 	{
-		"title": "Concept - Te denken valt aan analyseren van het effect van overeenkomsten en verschillen tussen de graphic novel, roman en verfilming van een verhaal.",
+		"title": "xxxxx",
 		"id": "a5bc488f-d4c7-4880-ad8b-eaa560d14962",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+			"dbbc3e87-a848-4425-912a-d494e43e5e59",
+			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan verwijzingen naar Arthurromans herkennen in voorbeelden van hedendaagse literatuur.",
+		"prefix": "t3"
 	},
 	{
-		"title": "Concept - Te denken valt aan vergelijken van het taalgebruik in een gedicht met het taalgebruik in een zakelijke tekst over hetzelfde onderwerp.",
+		"title": "xxxxx",
 		"id": "6433b644-6e7d-4181-a5bb-42007951dc4f",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+			"dbbc3e87-a848-4425-912a-d494e43e5e59",
+			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan verhalen en gedichten over een bepaalde historische gebeurtenis interpreteren vanuit standplaatsgebondenheid.",
+		"prefix": "DELETE"
 	},
 	{
-		"title": "Concept - Te denken valt aan analyseren van een gedicht met aandacht voor het effect van vorm (klank, ritme) en dichtvorm op betekenis.",
+		"title": "xxxxx",
 		"id": "78ea8ad7-3f05-4841-94c1-3fa9784be69c",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		]
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan verwijzingen naar Arthurromans herkennen in voorbeelden van hedendaagse literatuur.",
+		"prefix": "DELETE"
 	},
 	{
-		"title": "Concept - Te denken valt aan ontdekken van de stijl van een schrijver door te kijken naar woord- en taalgebruik.",
+		"title": "xxxxx",
 		"id": "e3d4119f-23f2-461d-a2ba-1cc898b9286c",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		]
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan verschillende verschijningsvormen van literaire teksten over hetzelfde onderwerp op waarde schatten: een dagboekfragment, een gedicht, een historische roman en een biografie.",
+		"prefix": "DELETE"
 	},
 	{
-		"title": "Concept - Te denken valt aan lezen, beluisteren en bekijken van teksten van verschillende genres en schrijvers, zoals poëzie, spoken word, verhalen, romans, multimediale teksten, theatervoorstellingen, verhalende non-fictie en strips.",
+		"title": "xxxxx",
 		"id": "f9ed79dd-0f3a-4f8d-b4e7-894d5107e22e",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan teksten van verschillende genres en schrijvers lezen en beluisteren, zoals poëzie, spoken word, verhalen, romans, multimediale teksten, theatervoorstellingen, verhalende nonfictie en strips.",
+		"prefix": "t1"
 	},
 	{
-		"title": "Concept - Te denken valt aan gezamenlijk reflecteren op gelezen of beluisterde teksten en het bewust selecteren van nieuwe teksten.",
+		"title": "xxxxx",
 		"id": "dc34cd3c-33e9-4652-9fe5-8526ce05b5fb",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan boekpromotie-activiteiten gericht op het ontwikkelen van de leesvoorkeur.",
+		"prefix": "t2"
 	},
 	{
-		"title": "Concept - Te denken valt aan promoten van een gelezen of beluisterd boek tijdens een boekenpitch.",
+		"title": "xxxxx",
 		"id": "a98d6250-ac89-419a-bbcd-fe51cdbdb3e4",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan een boekenvlog maken om de leeservaring te verwoorden.",
+		"prefix": "t3"
 	},
 	{
-		"title": "Concept - Te denken valt aan schrijven van een leesautobiografie.",
+		"title": "xxxxx",
 		"id": "8ef3245e-547f-4171-84b9-5d90df4bf50a",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		]
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan een leesautobiografie schrijven.",
+		"prefix": "t4"
 	},
 	{
-		"title": "Concept - Te denken valt aan voeren van een literair gesprek over een gezamenlijk gelezen verhaal, waarin verschillende perspectieven van lezers besproken worden.",
+		"title": "xxxxx",
 		"id": "857ade5e-defe-47b3-8b43-74fdd22645e4",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan lezen, vergelijken en bespreken van teksten van verschillende literaire genres, zoals een sonnet, detectives en biografieën.",
+		"prefix": "t1"
 	},
 	{
-		"title": "Concept - Te denken valt aan schrijven van een persoonlijke reflectie na een gedicht of boek te hebben gelezen.",
+		"title": "xxxxx",
 		"id": "bdf46615-0b0d-435f-85e3-fd13ebd85978",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan emoties verwoorden die gelezen gedichten oproepen.",
+		"prefix": "t2"
 	},
 	{
-		"title": "Concept - Te denken valt aan verwoorden hoe je jezelf beter hebt leren kennen door het lezen van een bepaald boek.",
+		"title": "xxxxx",
 		"id": "8c4fcb41-7ff4-4b13-8623-c8bdf4a46820",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan boeken evalueren die handelen over kwesties die spelen in het persoonlijke leven, bijvoorbeeld een echtscheiding of ontluikende liefde.",
+		"prefix": "t3"
 	},
 	{
-		"title": "Concept - Te denken valt aan benutten van literatuur om een bepaald historisch tijdvak te verkennen.",
+		"title": "xxxxx",
 		"id": "010efddb-983d-4659-827b-2b742aafe7a8",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan kennis over een burgerschapsthema verdiepen door er een verhaal of gedicht over te lezen.",
+		"prefix": "t4"
 	},
 	{
-		"title": "Concept - Te denken valt aan vergelijken van de functies van verschillende soorten literaire teksten over hetzelfde onderwerp.",
+		"title": "xxxxx",
 		"id": "7a599910-d1cc-44e4-afb8-8af6ad007f93",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59",
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		]
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan een discussie over een maatschappelijk probleem voeren naar aanleiding van het lezen van boeken over dat thema.",
+		"prefix": "t5"
 	},
 	{
-		"title": "Concept - Te denken valt aan benutten van literatuur om een bepaald maatschappelijk probleem te beschouwen.",
+		"title": "xxxxx",
 		"id": "216afbe6-761d-4581-b6bd-6bc2b5fa9a5a",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		]
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan verschillende verschijningsvormen van literaire teksten over hetzelfde onderwerp op waarde schatten: een dagboekfragment, een gedicht, een historische roman en een biografie.",
+		"prefix": "t6"
 	},
 	{
-		"title": "Concept - Te denken valt aan analyseren van universele thema's zoals trouw, verliefdheid, vriendschap, rouw in teksten uit verschillende periodes.",
+		"title": "xxxxx",
 		"id": "06bef787-f3e8-4ae2-8eb3-a10487341e12",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan flashbacks en flashforwards herkennen in een verhaal en het effect bespreken op de spanning van een verhaal.",
+		"prefix": "t1"
 	},
 	{
-		"title": "Concept - Te denken valt aan relateren van verhalen en gedichten met een historisch thema aan een bepaalde periode uit de geschiedenis.",
+		"title": "xxxxx",
 		"id": "37beb539-c217-4102-b67f-742c8c263526",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan de spanning en sfeer in een verhaal bespreken en verkennen welke elementen uit tijd, plaats en omstandigheden daar invloed op hebben.",
+		"prefix": "t2"
 	},
 	{
-		"title": "Concept - Te denken valt aan praten over de invloed van de culturele setting van het verhaal op de verhaallijn.",
+		"title": "xxxxx",
 		"id": "da5535a4-b9d5-4123-8fed-d36d217a321b",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan verteltechnieken vergelijken in klassieke en hedendaagse sprookjes.",
+		"prefix": "t3"
 	},
 	{
-		"title": "Concept - Te denken valt aan gezamenlijk lezen van en praten over literair-historische teksten in een moderne hertaling.",
+		"title": "xxxxx",
 		"id": "78c7dcd4-ea78-4295-b88b-a0343e9559c6",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+			"dbbc3e87-a848-4425-912a-d494e43e5e59",
+			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan verhalende elementen benoemen in brieven of speeches.",
+		"prefix": "t4"
 	},
 	{
-		"title": "Concept - Te denken valt aan analyseren van een historisch gedicht.",
+		"title": "xxxxx",
 		"id": "5555c6ba-7dce-4bd5-a6c3-0f08d049c2e8",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+			"dbbc3e87-a848-4425-912a-d494e43e5e59",
+			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan titel, motto en motieven koppelen aan het centrale thema.",
+		"prefix": "t5"
 	},
 	{
-		"title": "Concept - Te denken valt aan organiseren van een vakoverstijgende projectweek waarin leerlingen doelgericht moeten spreken of schrijven.",
-		"description": "Te denken valt aan",
+		"title": "xxxxx",
+		"description": "Concept - Te denken valt aan aanbod ontwikkelen voor schoolbreed werken in betekenisvolle thema's met rijke teksten.",
 		"id": "44b22c23-679d-4e30-a018-94a6b56b6299",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true,
+		"prefix": "t1"
 	},
 	{
-		"title": "Concept - Te denken valt aan organiseren van een schooldebat.",
-		"description": "Te denken valt aan",
+		"title": "xxxxx",
+		"description": "Concept - Te denken valt aan schoolbrede afspraken maken waarin het aanbod van literatuur en de leesroutine zijn vastgelegd.",
 		"id": "f99ffed8-5309-4a09-b096-bcd726b7443d",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true,
+		"prefix": "t2"
 	},
 	{
-		"title": "Concept - Te denken valt aan uitnodigen van een professioneel taalgebruiker, zoals een auteur, cabaretier of rapper.",
-		"description": "Te denken valt aan",
+		"title": "xxxxx",
+		"description": "Concept - Te denken valt aan schoolbrede afspraken maken over het bevorderen van samenhang tussen lees- en schrijfactiviteiten.",
 		"id": "8ac93d86-2794-4d30-9739-9402b0661e33",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true,
+		"prefix": "t3"
 	},
 	{
-		"title": "Concept - Te denken valt aan het deelnemen aan leesbevorderingsactiviteiten zowel binnen als buiten de school.",
-		"description": "Te denken valt aan",
+		"title": "xxxxx",
+		"description": "Concept - Te denken valt aan leesbevorderende activiteiten organiseren en deelnemen aan buitenschoolse leesbevorderingsactiviteiten.",
 		"id": "25e203cf-0c4b-4393-8a95-35ffb39df0b2",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true,
+		"prefix": "t4"
 	},
 	{
-		"title": "Concept - Te denken valt aan bieden van schrijfkaders bij het schrijven van een tekst binnen de leergebieden.",
+		"title": "xxxxx",
 		"id": "46b82c1e-9394-465b-9fd2-9b88857f485c",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan sleutelprincipes per taaldomein vastleggen, waarmee binnen alle leergebieden gewerkt wordt.",
+		"prefix": "t1"
 	},
 	{
-		"title": "Concept - Te denken valt aan voeren van een klassengesprek om een natuurkundig concept te verkennen.",
+		"title": "xxxxx",
 		"id": "2aeafe78-998c-4046-bd2f-93d6546c67e7",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan een taalbeleidsplan voor de school uitwerken en uitvoeren waarin is beschreven hoe verbindingen met andere leergebieden eruit kunnen zien.",
+		"prefix": "t2"
 	},
 	{
-		"title": "Concept - Te denken valt aan werken aan een opdracht binnen het praktijkgerichte programma, waarin leerlingen ondersteuning krijgen bij uitvoeren van taalactiviteiten.",
+		"title": "xxxxx",
 		"id": "82afb1fa-cbdd-42c5-8109-a36d5c4e9a5a",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true,
+		"description": "Concept - Te denken valt aan bieden van taalsteun bij het uitvoeren van lees-, schrijf- en spreektaken in de leergebieden.",
+		"prefix": "t3"
 	},
 	{
 		"title": "Concept  - Te denken valt aan weten wat de functie is van bijv. intern geheugen, processor en router.",
@@ -6567,6 +6828,372 @@
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"id": "c4623939-3bfa-4b4f-964f-7591d351946b",
+		"unreleased": true
+	},
+	{
+		"title": "xxxxx",
+		"description": "Concept - Te denken valt aan ouders betrekken bij het in de thuistaal voorlezen op school.",
+		"prefix": "t5",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"id": "472a2644-709c-4a94-9f9f-7fe7fe4f3a4f",
+		"unreleased": true
+	},
+	{
+		"title": "xxxxx",
+		"description": "Concept - Te denken valt aan de samenwerking tussen vaksecties faciliteren om samenhang te creëren.",
+		"prefix": "t4",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"id": "6982ba2f-512a-45f0-818e-187910d18da3",
+		"unreleased": true
+	},
+	{
+		"title": "xxxxx",
+		"description": "Concept - Te denken valt aan een vakoverstijgende projectweek organiseren waarin leerlingen taalactiviteiten uitvoeren.",
+		"prefix": "t5",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"id": "d6268a67-3bf3-405a-adf9-7e3691a27645",
+		"unreleased": true
+	},
+	{
+		"title": "xxxxx",
+		"description": "Concept - Te denken valt aan een door AI gegenereerde tekst kritisch evalueren.",
+		"prefix": "t4",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"id": "97220591-c2c4-4335-be8c-a0686c4d88ed",
+		"unreleased": true
+	},
+	{
+		"title": "xxxxx",
+		"description": "Concept - Te denken valt aan een presentatie voorbereiden waarbij informatie uit verschillende bronnen vergeleken en geïntegreerd wordt.",
+		"prefix": "t6",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59",
+			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		],
+		"id": "c8d71df1-10b0-42be-8af0-a5392710d4c1",
+		"unreleased": true
+	},
+	{
+		"title": "xxxxx",
+		"description": "Concept - Te denken valt aan primaire bronnen bij geschiedenis contextualiseren of vergelijken.",
+		"prefix": "t7",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59",
+			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		],
+		"id": "b88cec55-5fdd-4185-ac8f-555d044d8c49",
+		"unreleased": true
+	},
+	{
+		"title": "xxxxx",
+		"description": "Concept - Te denken valt aan een verslag schrijven naar aanleiding van een activiteit of uitgevoerd proefje.",
+		"prefix": "t5",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"id": "7bf75196-395e-4426-aae3-161fea97f3e1",
+		"unreleased": true
+	},
+	{
+		"title": "xxxxx",
+		"description": "Concept - Te denken valt aan een synthese maken van twee of drie teksten over een maatschappelijk thema.",
+		"prefix": "t7",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59",
+			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		],
+		"id": "fe414bb9-573c-41aa-b539-a28988bdded8",
+		"unreleased": true
+	},
+	{
+		"title": "xxxxx",
+		"description": "Concept - Te denken valt aan tekstinhoud verzamelen en selecteren door kritisch digitale hulpmiddelen te benutten.",
+		"prefix": "t8",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59",
+			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		],
+		"id": "d0960d1d-aba6-4a36-aac9-0cdb35808edd",
+		"unreleased": true
+	},
+	{
+		"title": "xxxxx",
+		"description": "Concept - Te denken valt aan culturele ervaringen waarderen in de vorm van 'spoken word'.",
+		"prefix": "t4",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"id": "c9d7ef8b-800e-4b90-a16a-7f00e188ffcd",
+		"unreleased": true
+	},
+	{
+		"title": "xxxxx",
+		"description": "Concept - Te denken valt aan bewust doorbreken van taalconventies.",
+		"prefix": "t6",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59",
+			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		],
+		"id": "e7b41413-695e-4eeb-88c8-f7e1012f69bc",
+		"unreleased": true
+	},
+	{
+		"title": "xxxxx",
+		"description": "Concept - Te denken valt aan een podcastinterview opnemen met een werknemer van een bedrijf.",
+		"prefix": "t4",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"id": "5bf68449-8451-4247-8627-092db8edc7a4",
+		"unreleased": true
+	},
+	{
+		"title": "xxxxx",
+		"description": "Concept - Te denken valt aan een chatgesprek voeren met een medewerker van een klantenservice.",
+		"prefix": "t5",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"id": "19983f6e-f3c4-486c-b5f1-5cbbadd54c9b",
+		"unreleased": true
+	},
+	{
+		"title": "xxxxx",
+		"description": "Concept - Te denken valt aan in een discussie of debat een andere mening verdedigen dan die van jezelf.",
+		"prefix": "t6",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59",
+			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		],
+		"id": "ff89f5ee-72ee-4d52-ae54-ee868c27f152",
+		"unreleased": true
+	},
+	{
+		"title": "xxxxx",
+		"description": "Concept - Te denken valt aan individuele en collectieve bijdragen verkennen die kunnen bijdragen aan oplossingen van een maatschappelijk vraagstuk.",
+		"prefix": "t6",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59",
+			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		],
+		"id": "282f5f62-5237-4df3-8366-b649bdf3ef60",
+		"unreleased": true
+	},
+	{
+		"title": "xxxxx",
+		"description": "Concept - Te denken valt aan advertenties vergelijken vanuit de vraag welke advertentie het meest effect zal hebben, op basis van gemaakte keuzes in opbouw en taalgebruik.",
+		"prefix": "t4",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"id": "18ce7d76-592d-489c-8cdf-e448dfdc333a",
+		"unreleased": true
+	},
+	{
+		"title": "xxxxx",
+		"description": "Concept - Te denken valt aan het effect analyseren van gebruikte stijlmiddelen in verschillende soorten teksten.",
+		"prefix": "t5",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"id": "08f24962-3d7a-488f-8db2-18b2da037a58",
+		"unreleased": true
+	},
+	{
+		"title": "xxxxx",
+		"description": "Concept - Te denken valt aan woorden met tekens die bepalend zijn voor de uitspraak van het woord correct spellen, zoals defilé, mise-en-scène en zonne-energie.",
+		"prefix": "t5",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59",
+			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		],
+		"id": "628b8e89-bec3-451f-8596-4aac6afc1d30",
+		"unreleased": true
+	},
+	{
+		"title": "xxxxx",
+		"description": "Concept - Te denken valt aan in muziekgenres herkennen hoe uiting wordt gegeven aan talige identiteit.",
+		"prefix": "t4",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59",
+			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		],
+		"id": "d8d1403d-2202-4b6a-9460-94ce9212d94c",
+		"unreleased": true
+	},
+	{
+		"title": "xxxxx",
+		"description": "Concept - Te denken valt aan de invloed van taalcontact op straattaal verkennen.",
+		"prefix": "t4",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"id": "8a7453a0-9d1c-4974-89af-a5c95008f89b",
+		"unreleased": true
+	},
+	{
+		"title": "xxxxx",
+		"description": "Concept - Te denken valt aan een gedicht van vroeger lezen en ‘vertalen’.",
+		"prefix": "t5",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"id": "72cbe1fe-3824-42f7-86d0-9d37aa6f4af7",
+		"unreleased": true
+	},
+	{
+		"title": "xxxxx",
+		"description": "Concept - Te denken valt aan het besef ontwikkelen dat het eigen talig repertoire gebruikt kan worden bij het leren van nieuwe woorden in het Standaardnederlands en het leren van andere talen.",
+		"prefix": "t6",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"id": "f257b607-3545-4da6-a377-a0fb2127b9b1",
+		"unreleased": true
+	},
+	{
+		"title": "xxxxx",
+		"description": "Concept - Te denken valt aan veelvoorkomende fouten in taalgebruik verkennen in relatie tot taalnormen, zoals ‘hun hebben’, ‘die meisje’ en ‘als mij’.",
+		"prefix": "t7",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59",
+			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		],
+		"id": "2e15f23c-d494-440f-ae99-db3cd69cee2a",
+		"unreleased": true
+	},
+	{
+		"title": "xxxxx",
+		"description": "Concept - Te denken valt aan kenmerken en specifiek taalgebruik benoemen in handleidingen.",
+		"prefix": "t1",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59",
+			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		],
+		"id": "6c05e9b1-cfa2-4027-b428-98b1f3d17a7c",
+		"unreleased": true
+	},
+	{
+		"title": "xxxxx",
+		"description": "Concept - Te denken valt aan klachtenbrieven lezen en bespreken welke brief het duidelijkst is en waarom.",
+		"prefix": "t2",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59",
+			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		],
+		"id": "cf2378c3-b3a0-4a43-b5c3-6d776e09899b",
+		"unreleased": true
+	},
+	{
+		"title": "xxxxx",
+		"description": "Concept - Te denken valt aan kenmerken van verhuisberichten bespreken en er zelf een schrijven.",
+		"prefix": "t3",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59",
+			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		],
+		"id": "217ba532-d691-4ea7-a797-6882276e3287",
+		"unreleased": true
+	},
+	{
+		"title": "xxxxx",
+		"description": "Concept - Te denken valt aan de eigen leesvoorkeur beschrijven aan de hand van genres en de daarbij behorende kenmerken.",
+		"prefix": "t5",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"id": "9d399f0b-c72b-4b32-8b8b-b639e1e5d025",
+		"unreleased": true
+	},
+	{
+		"title": "xxxxx",
+		"description": "Concept - Te denken valt aan de stijl van een schrijver ontdekken door te kijken naar woord- en taalgebruik.",
+		"prefix": "t7",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59",
+			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		],
+		"id": "c34c445d-850a-4968-80b1-80c950ace2ae",
+		"unreleased": true
+	},
+	{
+		"title": "xxxxx",
+		"description": "Concept - Te denken valt aan verschillende levens van kinderen tijdens de Tweede Wereldoorlog verkennen aan de hand van kinderdagboekfragmenten uit die tijd.",
+		"prefix": "t1",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"id": "de155ee2-bc62-425c-af33-707cae9b56a3",
+		"unreleased": true
+	},
+	{
+		"title": "xxxxx",
+		"description": "Concept - Te denken valt aan naar aanleiding van een oudere tekst gesprekken voeren over veranderingen in normen en waarden en taalgebruik in de samenleving.",
+		"prefix": "t2",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"id": "052b010e-667c-4051-bcda-c23790d96426",
+		"unreleased": true
+	},
+	{
+		"title": "xxxxx",
+		"description": "Concept - Te denken valt aan aspecten en emoties herkennen van personages uit historische teksten en verbinden met de eigen tijd, leef- en belevingswereld.",
+		"prefix": "t3",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"id": "2097f916-5472-4df7-962e-9c24c87adf9b",
+		"unreleased": true
+	},
+	{
+		"title": "xxxxx",
+		"description": "Concept - Te denken valt aan universele thema’s in teksten uit verschillende periodes benoemen, zoals trouw, verliefdheid, onderdrukking of verzet.",
+		"prefix": "t4",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"id": "b8a6a702-ccdd-4207-bd55-7a39ad81594a",
 		"unreleased": true
 	}
 ]
