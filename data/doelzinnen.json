@@ -1229,14 +1229,15 @@
 		"se": 0
 	},
 	{
-		"description": "Concept - De leerling toont begrip van beluisterde, gelezen en bekeken teksten",
-		"title": "Beheersingsdoel; begrjpend luisteren, lezen en kijken",
+		"description": "Concept - De leerling toont begrip van zakelijke en literaire teksten.",
+		"title": "Concept Kerndoel 3 Luisteren en lezen met begrip",
 		"fo_uitwerking_id": [
 			"3fd71129-c7e8-4adc-8d70-971c7a9eab82",
 			"17c5a89c-9b2e-44ab-ba13-f635cbf1ae5a",
 			"fa176038-a1ba-44bd-be56-12155013137b",
 			"27f82b87-4d91-4bfa-ac85-023477c122ab",
-			"309ddcc3-a1ff-4ca0-97d1-b6ac921f443e"
+			"309ddcc3-a1ff-4ca0-97d1-b6ac921f443e",
+			"60fda3df-32a4-4169-a73d-a35b16074945"
 		],
 		"fo_toelichting_id": [
 			"bd5b6191-12bc-444d-b3d3-13d2ad418dc5",
@@ -1247,12 +1248,16 @@
 			"44d0c479-dcdb-4f2c-ae40-87f8a6420504",
 			"f37a92a6-d228-42d3-a2de-96d13bbec9d1"
 		],
-		"prefix": "3.",
-		"id": "c6136156-dd19-4391-b4cf-544d6e15ce17"
+		"prefix": "3",
+		"id": "c6136156-dd19-4391-b4cf-544d6e15ce17",
+		"dirty": true,
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0
 	},
 	{
-		"description": "Concept - De leerling spreekt en schrijft afgestemd op die past bij doel, publiek en context.",
-		"title": "Beheersingsdoel, Doelgericht spreken en schrijven",
+		"description": "Concept - De leerling evalueert en reflecteert op zakelijke en literaire teksten.",
+		"title": "Concept Kerndoel 4 Luisteren en lezen met diep begrip",
 		"fo_uitwerking_id": [
 			"08ca123b-0f96-4369-95da-31f042b3715f",
 			"3a8f0eda-dd95-4e9c-9f2c-5b632053d616",
@@ -1264,14 +1269,21 @@
 			"82cdfbda-5c98-4249-8beb-2da628654d4a",
 			"d3e44b8c-e5cd-4095-bff1-1c94f5558e88",
 			"72632e61-1c68-466c-85bb-93ea8d39bed5",
-			"4d5f3b00-7f10-42fe-84bb-53f4ba53d26b"
+			"4d5f3b00-7f10-42fe-84bb-53f4ba53d26b",
+			"97220591-c2c4-4335-be8c-a0686c4d88ed",
+			"c8d71df1-10b0-42be-8af0-a5392710d4c1",
+			"b88cec55-5fdd-4185-ac8f-555d044d8c49"
 		],
-		"prefix": "4.",
-		"id": "44c10504-afb2-4275-879c-bf840f7ef6e3"
+		"prefix": "4",
+		"id": "44c10504-afb2-4275-879c-bf840f7ef6e3",
+		"dirty": true,
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0
 	},
 	{
-		"description": "Concept - De leerling gebruikt taal op een creatieve manier.",
-		"title": "Beheersingsdoel, Creatief taal gebruiken",
+		"description": "Concept - De leerling spreekt en schrijft afgestemd op doel, publiek en context.",
+		"title": "Concept Kerndoel 5 Doelgericht spreken en schrijven",
 		"fo_uitwerking_id": [
 			"28709407-4f53-47fc-ba4f-03e369610714",
 			"ee04293d-6a41-47e0-8695-3b4a1edee028",
@@ -1284,14 +1296,21 @@
 			"3e3aa55f-fe01-4f7c-8aec-2d9b1f528021",
 			"ba056cec-e29b-4d98-bc61-4bde297fa1cd",
 			"5c84d9df-2736-4511-a136-cf3d3768ad7a",
-			"4a5c54eb-85ff-4c4d-b7a4-10576b70e917"
+			"4a5c54eb-85ff-4c4d-b7a4-10576b70e917",
+			"7bf75196-395e-4426-aae3-161fea97f3e1",
+			"fe414bb9-573c-41aa-b539-a28988bdded8",
+			"d0960d1d-aba6-4a36-aac9-0cdb35808edd"
 		],
-		"prefix": "5.",
-		"id": "50ec048a-8295-413c-b3f9-18b14504a8af"
+		"prefix": "5",
+		"id": "50ec048a-8295-413c-b3f9-18b14504a8af",
+		"dirty": true,
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0
 	},
 	{
-		"description": "Concept - De leerling schrijft om te komen tot kennisopbouw of begrip.",
-		"title": "Beheersingsdoel, Schrijven om te leren",
+		"description": "Concept - De leerling gebruikt taal op een creatieve manier.",
+		"title": "Concept Kerndoel 6 Creatief taal gebruiken",
 		"fo_uitwerking_id": [
 			"dc7c00e1-41d7-4107-a0cf-37457ca228e0",
 			"55c8700a-f5e5-492a-ad78-6ed7b5fb2563",
@@ -1303,19 +1322,26 @@
 			"ccc2433b-bb18-419d-b56f-4880330db619",
 			"fde6ccaf-9485-4fa9-8dd2-0bca723e9ee3",
 			"5050f303-653f-424b-b473-69b43d6237c8",
-			"e078b929-eef1-4560-8369-dc3992b502a2"
+			"e078b929-eef1-4560-8369-dc3992b502a2",
+			"c9d7ef8b-800e-4b90-a16a-7f00e188ffcd",
+			"e7b41413-695e-4eeb-88c8-f7e1012f69bc"
 		],
-		"prefix": "6.",
-		"id": "4b8b8c36-9b85-4c23-98b2-9edc18da8de9"
+		"prefix": "6",
+		"id": "4b8b8c36-9b85-4c23-98b2-9edc18da8de9",
+		"dirty": true,
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0
 	},
 	{
-		"description": "Concept - De leerling onderzoekt verschillende bronnen.",
-		"title": "Beheersingsdoel, Bronnen onderzoeken",
+		"description": "Concept - De leerling schrijft om tot kennisopbouw of begrip te komen.",
+		"title": "Concept Kerndoel 7 Schrijven om te leren",
 		"fo_uitwerking_id": [
 			"0621e04c-ddc5-4ee6-8bb4-9265f4881061",
 			"b242154f-a37a-4d8b-bb32-1b6895a0b59f",
 			"d6703495-ddb0-4791-874a-7594ce66afb7",
-			"972e26fb-c0e0-4f08-a426-9b469358bef1"
+			"972e26fb-c0e0-4f08-a426-9b469358bef1",
+			"26864932-79ac-4df8-a567-f9c0362437c2"
 		],
 		"fo_toelichting_id": [
 			"5aa3e0af-cbe8-4357-8801-36aaaa9eca3e",
@@ -1323,12 +1349,16 @@
 			"7ed82c40-f8a1-4caa-a985-4f70823566f8",
 			"cff5cd22-506b-4a4a-aca1-ea8ee1cd3689"
 		],
-		"prefix": "7.",
-		"id": "04afcc55-a280-4b92-a19a-c13b653c7381"
+		"prefix": "7",
+		"id": "04afcc55-a280-4b92-a19a-c13b653c7381",
+		"dirty": true,
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0
 	},
 	{
-		"description": "Concept - De leerling verwerkt informatie uit verschillende bronnen in een gesproken of geschreven tekst.",
-		"title": "Beheersingsdoel, Bronnen verwerken",
+		"description": "Concept - De leerling verkent de betrouwbaarheid van verschillende bronnen.",
+		"title": "Concept Kerndoel 8 Bronnen verkennen",
 		"fo_uitwerking_id": [
 			"3019fdbb-5720-4ab9-a36c-e8296315bf68",
 			"678ba36e-8188-4c63-b024-c55ebc3b5e93",
@@ -1341,12 +1371,16 @@
 			"0d11d45c-34f4-422e-b9cf-c67d980403dd",
 			"9adfd27c-2e9b-4376-8918-8b2d94c55668"
 		],
-		"prefix": "8.",
-		"id": "9f51f9d0-3f95-4179-a0f5-cc905e85be8e"
+		"prefix": "8",
+		"id": "9f51f9d0-3f95-4179-a0f5-cc905e85be8e",
+		"dirty": true,
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0
 	},
 	{
-		"description": "Concept - De leerling reflecteert op de uitvoering van een taalactiviteit.",
-		"title": "Beheersingsdoel, Reflecteren op taal activiteit",
+		"description": "Concept - De leerling voert gesprekken afgestemd op doel, gesprekspartner(s) en context.",
+		"title": "Concept Kerndoel 9 Doelgericht gesprekken voeren",
 		"fo_uitwerking_id": [
 			"c32bd0a0-6f8b-41fc-9158-12de23ec20b5",
 			"c29c5103-a23f-45eb-909a-fa9a01ce3073",
@@ -1357,33 +1391,46 @@
 		"fo_toelichting_id": [
 			"273c3c42-3a4b-467b-865e-53a5e9b043ea",
 			"f42dc702-bf63-48ab-b3f5-156edc81d9ac",
-			"fb8d0070-ef9b-4238-b00d-22dd5f5e95d8"
+			"fb8d0070-ef9b-4238-b00d-22dd5f5e95d8",
+			"5bf68449-8451-4247-8627-092db8edc7a4",
+			"19983f6e-f3c4-486c-b5f1-5cbbadd54c9b",
+			"ff89f5ee-72ee-4d52-ae54-ee868c27f152"
 		],
-		"prefix": "9.",
-		"id": "70191486-92d4-4c68-9793-6602e6c29423"
+		"prefix": "9",
+		"id": "70191486-92d4-4c68-9793-6602e6c29423",
+		"dirty": true,
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0
 	},
 	{
-		"description": "Concept - De leerling voert gesprekken afgestemd op doel, gesprekspartner en context.",
-		"title": "Beheersingsdoel, Doelgericht gesprekken voeren",
+		"description": "Concept - De leerling voert gesprekken om tot kennisopbouw, begrip of een aanpak te komen.",
+		"title": "Concept Kerndoel 10 Gesprekken voeren om te leren.",
 		"fo_uitwerking_id": [
 			"bb651c4a-099c-4cf9-af91-999a72bd805e",
 			"e7f6a8c7-134e-431b-813d-dee1e4857d0e",
 			"e0e8993a-fdd4-443d-a06a-68659f730ead",
-			"6690ddfd-19fb-4c1f-8af6-3ecf3f394ff3"
+			"6690ddfd-19fb-4c1f-8af6-3ecf3f394ff3",
+			"24b77529-c0df-44e6-9de5-edd14feb181a"
 		],
 		"fo_toelichting_id": [
 			"1e886120-8f9a-4ab7-85b8-23975b0e8bfe",
 			"93483abb-e928-42f9-aff8-6e6db724bb4c",
 			"0858a1c1-1c94-464e-8fcf-5e270c5443d3",
 			"6ba2c828-89b2-4ef0-ac78-167ac64e4255",
-			"96e59404-bc6b-4d49-be28-0aa20af60d02"
+			"96e59404-bc6b-4d49-be28-0aa20af60d02",
+			"282f5f62-5237-4df3-8366-b649bdf3ef60"
 		],
-		"prefix": "10.",
-		"id": "59c23efd-bdd7-43b0-ba0c-e518dca752a3"
+		"prefix": "10",
+		"id": "59c23efd-bdd7-43b0-ba0c-e518dca752a3",
+		"dirty": true,
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0
 	},
 	{
-		"description": "Concept - De leerling voert gesprekken om tot kennisopbouw, begrip of een aanpak te komen.",
-		"title": "Beheersingsdoel, Gesprekken voeren om te leren",
+		"description": "Concept - De leerling reflecteert op het proces en evalueert het product van een taalactiviteit.",
+		"title": "Concept Kerndoel 11 Reflecteren op taalactiviteiten",
 		"fo_uitwerking_id": [
 			"28a8e9fa-bef0-4a4d-9d54-e2d0b2e9c7b6",
 			"2acf621a-aa8a-48e8-9ca5-32f111e69481",
@@ -1396,12 +1443,16 @@
 			"3393b1dd-e6f3-426e-9781-4512ddaf55a9",
 			"235c19a6-5d25-4fbf-9d61-a01372849a8d"
 		],
-		"prefix": "11.",
-		"id": "35ae3aa0-5100-4e9a-9f8e-2d3281487d83"
+		"prefix": "11",
+		"id": "35ae3aa0-5100-4e9a-9f8e-2d3281487d83",
+		"dirty": true,
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0
 	},
 	{
 		"description": "Concept - De leerling beschouwt de relatie tussen vorm en betekenis van taal.",
-		"title": "Beheersingsdoel, Vorm en betekenis beschouwen",
+		"title": "Concept Kerndoel 12 Vorm en betekenis beschouwen",
 		"fo_uitwerking_id": [
 			"a088160e-688a-4ccf-8add-02948b34321e",
 			"975fde19-978d-4504-9ff7-cf8ad75985bb",
@@ -1412,32 +1463,44 @@
 		"fo_toelichting_id": [
 			"cb255320-bbbb-4e5c-a44e-ee2f0efbc100",
 			"418bc4e3-abd3-4d4d-b557-995c473fcd21",
-			"aa91856c-16fa-403c-977c-b7e713ec073a"
+			"aa91856c-16fa-403c-977c-b7e713ec073a",
+			"18ce7d76-592d-489c-8cdf-e448dfdc333a",
+			"08f24962-3d7a-488f-8db2-18b2da037a58"
 		],
-		"prefix": "12.",
-		"id": "0c5c554b-3901-44f8-aaa0-6e7b63caf5fc"
+		"prefix": "12",
+		"id": "0c5c554b-3901-44f8-aaa0-6e7b63caf5fc",
+		"dirty": true,
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0
 	},
 	{
-		"description": "Concept - De leerling verzorgt het schriftelijk taalgebruik.",
-		"title": "Beheersingsdoel, schriftelijke taalverzorging",
+		"description": "Concept - De leerling toont inzicht in regels en procedures voor spelling, formulering en interpunctie.",
+		"title": "Concept Kerndoel 13 Spelling, formulering en interpunctie",
 		"fo_uitwerking_id": [
 			"ca57bc75-5e6e-4c66-871b-98c30e764d8e",
 			"42b735b5-9e33-41ff-9229-a379919de0bb",
 			"b13cd1df-7962-4d26-908b-5b717c148592",
-			"171498c1-bf5e-4ed9-8e0d-6522c22f61c7"
+			"171498c1-bf5e-4ed9-8e0d-6522c22f61c7",
+			"279081dd-2ff5-4bb7-bc78-6cff96a568ee"
 		],
 		"fo_toelichting_id": [
 			"f016ef1c-ae31-429b-b8d6-b777c9900ee9",
 			"08fd8cae-0371-4032-8f72-11a962690c03",
 			"11313d8e-c144-4ed1-8ad3-d8c6ff282a82",
-			"8d34d61d-107f-4e0c-825a-3819ac7eb90d"
+			"8d34d61d-107f-4e0c-825a-3819ac7eb90d",
+			"628b8e89-bec3-451f-8596-4aac6afc1d30"
 		],
-		"prefix": "13.",
-		"id": "0a247c35-3e9a-48b9-bebd-1ab6810c5b48"
+		"prefix": "13",
+		"id": "0a247c35-3e9a-48b9-bebd-1ab6810c5b48",
+		"dirty": true,
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0
 	},
 	{
-		"description": "Concept - De leerling verkent hoe je met taal uiting geeft aan je identiteiten.",
-		"title": "Beheersingsdoel, Talige identiteit",
+		"description": "Concept - De leerling verkent hoe je met taal uiting geeft aan identiteit.",
+		"title": "Concept Kerndoel 14 Talige identiteit",
 		"fo_uitwerking_id": [
 			"6deffb4b-6366-48ed-88d9-4ea4116e9ce0",
 			"54ebf950-8a25-4e57-b192-0b460dd238c6",
@@ -1448,37 +1511,54 @@
 		"fo_toelichting_id": [
 			"81148ad7-ab6e-4886-ae6b-e07af7a83750",
 			"9ca84e50-2786-46ad-8c9f-d75eb9cfdebb",
-			"60c502e3-6741-4e93-98d2-59cdd003607b"
+			"60c502e3-6741-4e93-98d2-59cdd003607b",
+			"d8d1403d-2202-4b6a-9460-94ce9212d94c"
 		],
-		"prefix": "14.",
-		"id": "68d3d4e0-b62d-4017-bcfd-f773dfc1773f"
+		"prefix": "14",
+		"id": "68d3d4e0-b62d-4017-bcfd-f773dfc1773f",
+		"dirty": true,
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0
 	},
 	{
-		"description": "Concept - De leerling beschouwt het bestaan en gebruik van verschillende talen en taalvariÃ«teiten in relatie tot het Nederlands.",
-		"title": "Beheersingsdoel, Taalvariatie",
+		"description": "Concept - De leerling verkent taalvariatie en taalverandering in het Nederlandse taalgebied.",
+		"title": "Concept Kerndoel 15 Taalvariatie en taalverandering",
 		"fo_uitwerking_id": [
 			"17f804bb-45b2-4ad9-aa9b-426f93bc1e88",
 			"c915ca8a-079d-4985-8824-90b8467ea9c9",
 			"ce4f2edd-0c47-42a7-92d5-29f5dbd4a8ac",
-			"8374d6dd-bcfe-482e-9655-cff7ef373d9d"
+			"8374d6dd-bcfe-482e-9655-cff7ef373d9d",
+			"77e1a912-2f0c-45ae-a81a-a3cd391c5b03"
 		],
 		"fo_toelichting_id": [
 			"7addd069-9ed8-4d9a-9e5d-64bee573cfb9",
 			"459ffa01-245e-4d36-a4cc-97383df919e5",
-			"948f4b0a-f666-497a-91cc-cd3bb6802a71"
+			"948f4b0a-f666-497a-91cc-cd3bb6802a71",
+			"8a7453a0-9d1c-4974-89af-a5c95008f89b",
+			"72cbe1fe-3824-42f7-86d0-9d37aa6f4af7",
+			"f257b607-3545-4da6-a377-a0fb2127b9b1",
+			"2e15f23c-d494-440f-ae99-db3cd69cee2a"
 		],
-		"prefix": "15.",
-		"id": "ea4f56f1-e2b4-471c-8146-daf144b3209c"
+		"prefix": "15",
+		"id": "ea4f56f1-e2b4-471c-8146-daf144b3209c",
+		"dirty": true,
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0
 	},
 	{
-		"description": "Concept - De leerling verkent de verandering van het Nederlands onder invloed van tijd en maatschappelijke ontwikkelingen.",
-		"title": "Beheersingsdoel, Taalverandering",
+		"description": "Concept - De leerling toont inzicht in zakelijke tekstgenres.",
+		"title": "Concept Kerndoel 16 Zakelijke tekstgenres",
 		"fo_uitwerking_id": [
 			"500cecff-4a39-4ab4-983a-7a12e4043dfd",
 			"50ab9b31-a034-40a5-b2e2-e74ed9dae353",
 			"16e38f8a-7b3a-46a8-92b2-37b5a9cad107",
 			"5752b62a-4cd2-491b-a3d0-a7d6b8428f85",
-			"782e4867-0192-44d3-8242-a93e0bd9bca3"
+			"782e4867-0192-44d3-8242-a93e0bd9bca3",
+			"b6091019-bc91-4206-87ee-9579327f6a87",
+			"961b3731-38aa-481f-aba6-341e9186bf64",
+			"831e87f9-3541-447f-adf8-07fcda41269c"
 		],
 		"fo_toelichting_id": [
 			"772357de-4cc7-400f-9864-4b4d045dce78",
@@ -1486,14 +1566,21 @@
 			"8b1dd516-b00a-4c91-a881-836bc7bbc80a",
 			"6f3fb427-65db-46b5-a533-61cbf4a2428d",
 			"c2daf969-0f65-413e-87da-867bdbf31174",
-			"b339c1d0-742e-4b10-92e6-80a27fdc3b8c"
+			"b339c1d0-742e-4b10-92e6-80a27fdc3b8c",
+			"6c05e9b1-cfa2-4027-b428-98b1f3d17a7c",
+			"cf2378c3-b3a0-4a43-b5c3-6d776e09899b",
+			"217ba532-d691-4ea7-a797-6882276e3287"
 		],
-		"prefix": "16.",
-		"id": "450eefee-b96e-4379-9646-9254bf482f9a"
+		"prefix": "16",
+		"id": "450eefee-b96e-4379-9646-9254bf482f9a",
+		"dirty": true,
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0
 	},
 	{
-		"description": "Concept - De leerling toont inzicht in verhalende teksten met behulp van kennis over verteltechnieken.",
-		"title": "Beheersingsdoel, Inzicht in verhalende teksten",
+		"description": "Concept - De leerling toont inzicht in genrekenmerken van literatuur",
+		"title": "Concept Kerndoel 21 Literaire genres",
 		"fo_uitwerking_id": [
 			"fce4c74b-60c9-4f7d-9e5d-146a5f5f8d45",
 			"2075a809-5fbd-4718-bf90-271fc3262853",
@@ -1506,14 +1593,20 @@
 			"31319ccc-c853-4c5e-abd9-baeadffdc7c9",
 			"4ae18d95-93e7-4e07-939c-aab9b8255f8b",
 			"8070be06-22da-47bd-ba3b-21d9878a78fd",
-			"035e56cb-d3c0-43e4-b387-9756dc127717"
+			"035e56cb-d3c0-43e4-b387-9756dc127717",
+			"9d399f0b-c72b-4b32-8b8b-b639e1e5d025",
+			"c34c445d-850a-4968-80b1-80c950ace2ae"
 		],
-		"prefix": "17.",
-		"id": "0f2d88a0-c594-48d2-835c-c1953eb284d0"
+		"prefix": "21",
+		"id": "0f2d88a0-c594-48d2-835c-c1953eb284d0",
+		"dirty": true,
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0
 	},
 	{
-		"description": "Concept - De leerling kiest nieuwe teksten op basis van eerdere lees-, luister- en kijkervaringen",
-		"title": "Ervaringsdoel, leesvoorkeur",
+		"description": "Concept - De leerling ontwikkelt een eigen leesvoorkeur.",
+		"title": "Concept Kerndoel 18 Leesvoorkeur",
 		"fo_uitwerking_id": [
 			"a562ce4b-2f13-49de-bab1-56127f893caa",
 			"b1c160e4-9ab7-4377-93f5-2f52c658b716",
@@ -1526,12 +1619,16 @@
 			"a98d6250-ac89-419a-bbcd-fe51cdbdb3e4",
 			"8ef3245e-547f-4171-84b9-5d90df4bf50a"
 		],
-		"prefix": "19.",
-		"id": "dd67bb77-033b-4e01-a8a6-08b75ea8a7ec"
+		"prefix": "18",
+		"id": "dd67bb77-033b-4e01-a8a6-08b75ea8a7ec",
+		"dirty": true,
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0
 	},
 	{
-		"description": "Concept - De leerling verkent welke functies literatuur heeft.",
-		"title": "Beheersingsdoel, functies van literatuur",
+		"description": "Concept - De leerling verkent de waarde van literatuur.",
+		"title": "Concept Kerndoel 19 Waarde van literatuur",
 		"fo_uitwerking_id": [
 			"d88101fc-2aae-43cb-b21e-6f74337dc154",
 			"512d6152-be29-4199-89f9-3e839414c9fc",
@@ -1548,12 +1645,16 @@
 			"216afbe6-761d-4581-b6bd-6bc2b5fa9a5a",
 			"e3d4119f-23f2-461d-a2ba-1cc898b9286c"
 		],
-		"prefix": "20.",
-		"id": "d385da82-ed53-4ad6-9617-38bd67a44178"
+		"prefix": "19",
+		"id": "d385da82-ed53-4ad6-9617-38bd67a44178",
+		"dirty": true,
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0
 	},
 	{
-		"description": "Concept - De leerling verwoordt verbanden tussen literatuur en de periode of context waarin literaire teksten zijn ontstaan",
-		"title": "Beheersingsdoel, Tijd en context",
+		"description": "Concept - De leerling toont inzicht in verhalende teksten.",
+		"title": "Concept Kerndoel 20 Verhalende teksten",
 		"fo_uitwerking_id": [
 			"94335125-e256-4bbc-b990-d01a08bc7c6a",
 			"1216e8a5-63fb-4642-a6fc-59b9b06adaa3",
@@ -1567,12 +1668,16 @@
 			"78c7dcd4-ea78-4295-b88b-a0343e9559c6",
 			"5555c6ba-7dce-4bd5-a6c3-0f08d049c2e8"
 		],
-		"prefix": "21.",
-		"id": "0a6cd39a-020f-4449-8a0c-b283f1d271ff"
+		"prefix": "20",
+		"id": "0a6cd39a-020f-4449-8a0c-b283f1d271ff",
+		"dirty": true,
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0
 	},
 	{
-		"description": "Concept - De school zorgt voor een rijke taal- en leesomgeving voor alle leerlingen.",
-		"title": "Aanbodsdoel",
+		"description": "Concept - De school zorgt voor een rijke taal- en leesomgeving.",
+		"title": "Concept Kerndoel 1 Taal- en leesomgeving",
 		"fo_uitwerking_id": [
 			"f01cc0c6-cf6e-4aa1-8e29-ff23740c4dec",
 			"eea58305-daf4-4f64-997d-944ae8af8814",
@@ -1584,14 +1689,19 @@
 			"44b22c23-679d-4e30-a018-94a6b56b6299",
 			"f99ffed8-5309-4a09-b096-bcd726b7443d",
 			"8ac93d86-2794-4d30-9739-9402b0661e33",
-			"25e203cf-0c4b-4393-8a95-35ffb39df0b2"
+			"25e203cf-0c4b-4393-8a95-35ffb39df0b2",
+			"472a2644-709c-4a94-9f9f-7fe7fe4f3a4f"
 		],
-		"prefix": "1.",
-		"id": "ef048d52-0a42-4dd1-a529-ca059c3572bf"
+		"prefix": "1",
+		"id": "ef048d52-0a42-4dd1-a529-ca059c3572bf",
+		"dirty": true,
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0
 	},
 	{
-		"description": "Concept - De school stimuleert de taalontwikkeling van de leerling in de andere leergebieden.",
-		"title": "Aanbodsdoel",
+		"description": "Concept - De school stimuleert de taalontwikkeling van de leerling in alle leergebieden.",
+		"title": "Concept Kerndoel 2 Taal in de leergebieden",
 		"fo_uitwerking_id": [
 			"43029119-0cc0-4710-b8ff-72fbeaa5bbfa",
 			"1a26db43-eeef-43a9-99d5-93de8177e236",
@@ -1602,10 +1712,16 @@
 		"fo_toelichting_id": [
 			"46b82c1e-9394-465b-9fd2-9b88857f485c",
 			"2aeafe78-998c-4046-bd2f-93d6546c67e7",
-			"82afb1fa-cbdd-42c5-8109-a36d5c4e9a5a"
+			"82afb1fa-cbdd-42c5-8109-a36d5c4e9a5a",
+			"6982ba2f-512a-45f0-818e-187910d18da3",
+			"d6268a67-3bf3-405a-adf9-7e3691a27645"
 		],
-		"prefix": "2.",
-		"id": "51cea2c3-4e4c-443f-8975-3f4501a51af3"
+		"prefix": "2",
+		"id": "51cea2c3-4e4c-443f-8975-3f4501a51af3",
+		"dirty": true,
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0
 	},
 	{
 		"title": "Concept - Kerndoel 1 - Digitale systemen",
@@ -5033,25 +5149,58 @@
 		"soort": "kerndoel"
 	},
 	{
-		"description": "Concept - De leerling verkent genrekenmerken van literatuur",
-		"title": "Beheersingsdoel, verkennen van literaire genres",
+		"description": "Concept - De leerling verkent literatuur die geschreven is in verschillende periodes en contexten.",
+		"title": "Concept Kerndoel 22 Literatuur uit verschillende tijden",
 		"fo_uitwerking_id": [
 			"0359e292-78bc-4bbd-954c-651426dc92c5",
 			"035837e2-17e8-4c75-8844-05bef5fdbff9",
 			"348d776d-aca9-4cd6-b422-c5e3dd4e2f41",
-			"95b43e1b-871c-405d-ae6b-b96b76a7b4a9"
+			"95b43e1b-871c-405d-ae6b-b96b76a7b4a9",
+			"923e1f30-3ad5-4e6b-ab21-825f3aa3b6c9",
+			"10c24eb9-1e2a-4246-a8f9-6682f409d39a",
+			"e991b8dd-3749-4bab-ac53-c507bd3ceb5f",
+			"be58afd0-6e6a-4e96-a4c0-77a219ddcea1",
+			"741a066d-45e2-4689-b82b-236af07e563c"
 		],
 		"fo_toelichting_id": [
 			"f02cb562-9d09-4a72-9105-49df9911e2b2",
 			"9147ffc9-cbca-448f-b761-baf8d8aba05a",
 			"a5bc488f-d4c7-4880-ad8b-eaa560d14962",
 			"6433b644-6e7d-4181-a5bb-42007951dc4f",
-			"78ea8ad7-3f05-4841-94c1-3fa9784be69c"
+			"78ea8ad7-3f05-4841-94c1-3fa9784be69c",
+			"de155ee2-bc62-425c-af33-707cae9b56a3",
+			"052b010e-667c-4051-bcda-c23790d96426",
+			"2097f916-5472-4df7-962e-9c24c87adf9b",
+			"b8a6a702-ccdd-4207-bd55-7a39ad81594a"
 		],
-		"prefix": "18.",
+		"prefix": "22",
 		"id": "f5e9675d-503f-4242-837f-33407b9a033e",
 		"replaces": [
 			"ad8f866e-2374-4eb7-b3cc-e46b61efd94c"
-		]
+		],
+		"dirty": true,
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0
+	},
+	{
+		"title": "Concept Kerndoel 17 Argumentatief taalgebruik",
+		"description": "Concept - De leerling toont inzicht in de overtuigingskracht van argumentatie.",
+		"prefix": "17",
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0,
+		"id": "263bcf20-8f1d-4f29-937f-f2eaafd10e33",
+		"unreleased": true
+	},
+	{
+		"title": "Concept Kerndoel 23 Literatuur in tijd en context",
+		"description": "Concept - De leerling legt verbanden tussen de inhoud van literatuur en de periode en context waarin deze is geschreven.",
+		"prefix": "23",
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0,
+		"id": "6291da2d-3568-4f3b-8a61-8b496b166f9e",
+		"unreleased": true
 	}
 ]
