@@ -475,13 +475,5 @@
 		],
 		"prefix": "C",
 		"id": "c1d07b63-95bf-4fc7-96e1-b22a39b7cafa"
-	},
-	{
-		"title": "Testdomein",
-		"fo_subdomein_id": [
-			"e22afb99-0164-4b82-a8ec-b97898dc8484"
-		],
-		"prefix": "T",
-		"id": "ce0c1d18-5752-49cb-8896-a6e98da10ee3"
 	}
 ]

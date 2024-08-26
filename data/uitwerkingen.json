@@ -1,970 +1,890 @@
 [
 	{
-		"title": "xxxxx",
+		"title": "",
 		"description": "Concept - Het gaat hierbij aandachtig luisteren, kijken of aandachting vloeiend lezen.",
 		"prefix": "u1",
 		"id": "f0c720a2-4ebc-4ad1-a1a2-ccd6540e0aab",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
-		],
-		"dirty": true
+		]
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"description": "Concept - Het gaat hierbij om inzetten en uitbreiden van woordenschat, kennis over taal en kennis van de wereld.",
 		"prefix": "u2",
 		"id": "fe253d39-ebdc-4ea3-9b97-d38abfde8e31",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
-		],
-		"dirty": true
+		]
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"description": "Concept - Het gaat hierbij om inzetten en uitbreiden van kennis over de vorm van teksten: tekstsoorten, tekststructuren, literaire genres, verteltechnieken.",
 		"prefix": "u3",
 		"id": "3b154955-79ae-4b49-9c6d-52c6de321177",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
-		],
-		"dirty": true
+		]
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"description": "Concept - Het gaat hierbij om beschrijven van perspectieven, communicatieve doelen, publiek, context.",
 		"prefix": "u4",
 		"id": "240ef636-538a-4ec9-94be-e115b1bd0a7a",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
-		],
-		"dirty": true
+		]
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"description": "Concept - Het gaat hierbij om in eigen woorden weergeven van de hoofd- en bijzaken, de hoofdgedachte en betekenis van een tekst, passend bij het lees- of luisterdoel.",
 		"prefix": "u5",
 		"id": "1a4cbb9a-06d7-49a3-a6ed-8c71ae48978a",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
-		],
-		"dirty": true
+		]
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"description": "Concept - Het gaat hierbij om benoemen van inhoudelijke relaties binnen en tussen verschillende teksten.",
 		"id": "2b78f0d1-54d5-40eb-a666-074f248813bf",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
-		"dirty": true,
 		"prefix": "u1"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "b1d2ceb1-faba-48d6-abed-8a134eb9b92e",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om herkennen en benoemen van verschillen en overeenkomsten in feiten, meningen en perspectieven.",
-		"dirty": true,
 		"prefix": "u2"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "0eb25223-8cfc-4789-987d-3d9c6d358eea",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om benoemen van tegenstrijdige en overeenkomstige inhoud binnen en tussen teksten.",
-		"dirty": true,
 		"prefix": "u3"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "d152f3fb-1801-4b1e-8c5b-9227a55eef8a",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om evalueren van bruikbaarheid en betrouwbaarheid van teksten.",
-		"dirty": true,
 		"prefix": "u4"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "aa693155-bd3b-4d8a-8204-3e847a307528",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om reflecteren op de waarde, inhoud en vorm van teksten.",
-		"dirty": true,
 		"prefix": "u5"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "dc5ce356-167b-48bf-9f29-c533d07efdfc",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om hanteren van een passende aanpak.",
-		"dirty": true,
 		"prefix": "u1"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "33328379-30ca-47b3-8300-1d04528e5d59",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om in eigen woorden verwerken van informatie uit verschillende bronnen tot een gestructureerde tekst met bronvermelding.",
-		"dirty": true,
 		"prefix": "u2"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "5f69a194-9fcd-4f57-a7d5-62fafd467020",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om inzetten en uitbreiden van kennis over de vorm van teksten: tekstsoorten, tekststructuren, verteltechnieken.",
-		"dirty": true,
 		"prefix": "u3"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "bf7e6d7b-e093-4c18-a0b6-19a925e022b2",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om schrijven op letter-, schrift- en tekstniveau met een leesbaar handschrift en typschrift, en verstaanbaar spreken.",
-		"dirty": true,
 		"prefix": "u4"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "e3e2761b-3a2c-4731-8ce9-50ff314d0d71",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om verkennen van creatief taalgebruik van anderen in literaire en zakelijke teksten.",
-		"dirty": true,
 		"prefix": "u1"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "e102de42-dba3-4e38-a051-fc9d504d527d",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om verwoorden van eigen ideeën, gedachten, ervaringen, gevoelens en fantasieën.",
-		"dirty": true,
 		"prefix": "u2"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "fe5d4811-95d3-454f-81dd-faaa91082e30",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om experimenteren met klanken, woorden, zinnen, literaire genres, taalregels, taalconventies en visuele vormen.",
-		"dirty": true,
 		"prefix": "u3"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "1d63d69e-c6af-4138-9475-7411efc9882d",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om waarderen van creatief taalgebruik.",
-		"dirty": true,
 		"prefix": "u4"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "3accb55d-9dd6-4cf9-9e46-564d2cd35720",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om schrijven op letter-, schrift- en tekstniveau met een leesbaar handschrift en typschrift.",
-		"dirty": true,
-		"prefix": "DELETE"
+		"prefix": "DELETE",
+		"deleted": 1
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "74ce4ffc-ac56-4791-9622-42294c2091e8",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om noteren van hoofd- en bijzaken, indrukken en vragen bij gelezen, bekeken of beluisterde inhoud.",
-		"dirty": true,
 		"prefix": "u1"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "65920382-e074-477c-b67b-e9d01db9f22a",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om samenvatten van gelezen inhoud.",
-		"dirty": true,
 		"prefix": "u2"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "ce4c708e-f89a-4451-a41a-47895bb745a6",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om verwoorden, onderbouwen en ordenen van gedachten, verworven inzichten en kennis in een tekst of schema.",
-		"dirty": true,
 		"prefix": "u3"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "35cf6093-1104-4b84-b3cb-4fbde96c336e",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om inzetten en uitbreiden van school- en vaktaal.",
-		"dirty": true,
 		"prefix": "u4"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "ec57c2c0-eae7-42ba-93b7-0f664c4792e6",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om oriënteren op kenmerken van aangereikte bronnen: maker, tekstsoort en verschijningsdatum.",
-		"dirty": true,
 		"prefix": "u1"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "090e40a7-b4cd-4f0f-bc63-80431ca9cb93",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om benoemen van inhouds- en vormelementen die vragen oproepen.",
-		"dirty": true,
 		"prefix": "u2"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "d931c227-1e3b-42be-bf2c-09c10c47044c",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om vergelijkend beoordelen van bronnen op basis van hun betrouwbaarheid.",
-		"dirty": true,
 		"prefix": "u3"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "39c4e18e-15a9-4498-b43c-ab6b36bf87b1",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om formuleren van een eenvoudige tekst op basis van geselecteerde informatie, afgestemd op doel, publiek en context.",
-		"dirty": true,
-		"prefix": "DELETE"
+		"prefix": "DELETE",
+		"deleted": 1
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "298e7c43-93ac-4858-a9f7-21dfe76f8f2f",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om inzetten en uitbreiden van vaardigheden om gesprekken constructief te laten verlopen: luisteren, herkennen van signalen en passend reageren op de gesprekspartner(s).",
-		"dirty": true,
 		"prefix": "u1"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "6916568e-c98f-4567-93da-ffac5d0341c2",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om actief deelnemen aan gesprekken.",
-		"dirty": true,
 		"prefix": "u2"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "ffab7565-4737-4ae2-9a73-766743845784",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om afstemmen van taalgebruik, stekgebruik en non-verbale communicatie op communicatief doel en context.",
-		"dirty": true,
 		"prefix": "u3"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "9d6e573e-86c9-4798-bbe0-daa39ec39630",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om verzamelen en inzetten van informatie afgestemd op kennis, achtergrond, standpunt en perspectief van de gesprekspartner(s).",
-		"dirty": true,
 		"prefix": "u4"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "23456259-c86c-4a94-880b-fdb9a3360749",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om toepassen van gespreks- en taalconventies, passend bij de gespreksvorm.",
-		"dirty": true,
 		"prefix": "u5"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "dfa06936-ffdb-4155-8175-31968a48ba14",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om verwoorden van kennis, ideeën en standpunten met onderbouwing.",
-		"dirty": true,
 		"prefix": "u1"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "829c9624-6230-4605-b093-d43aca158f5f",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om vragen om toelichting, verklaring of bevestiging.",
-		"dirty": true,
 		"prefix": "u2"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "8c700ee0-25b1-44ee-9f07-0f45bd9e2307",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om accepteren of verwerpen van andermans ideeën met argumenten.",
-		"dirty": true,
 		"prefix": "u4"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "b0820f25-a6d1-4ca0-8d1c-927905ba050d",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om luisteren naar, doorvragen op en ter discussie stellen van de ideeën en perspectieven van gesprekspartner.",
-		"dirty": true,
 		"prefix": "u3"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "6dec8016-87ef-4f7d-92c6-4075a1be50f6",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om ontvangen en geven van feedback.",
-		"dirty": true,
 		"prefix": "u1"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "e1522e1f-e240-41b2-8fca-836832a70e02",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om verwoorden van het proces: de gemaakte keuzes in aanpak en strategieën tijdens en na de uitvoering van een taalactiviteit.",
-		"dirty": true,
 		"prefix": "u2"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "8429c7ef-3ead-4399-be88-b48058c33236",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om beoordelen van het product van de taalactiviteit aan de hand van aangereikte criteria.",
-		"dirty": true,
 		"prefix": "u3"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "89ecfad3-ebad-40aa-93b2-a9ba391c7988",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om formuleren van leerdoelen voor proces en product bij toekomstige taalactiviteiten.",
-		"dirty": true,
 		"prefix": "u4"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "e6229dbf-36fb-496e-8dad-e1c60c09e9f8",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om beargumenteren en samenvatten van standpunten, opgedane kennis, beslissingen of gekozen aanpak.",
-		"dirty": true,
-		"prefix": "DELETE"
+		"prefix": "DELETE",
+		"deleted": 1
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "dd01cf1b-9b4c-4a06-9e11-cee207d630ad",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om verkennen hoe letterklanken, klemtoon, intonatie en ritme samenhangen met de betekenis van taal.",
-		"dirty": true,
 		"prefix": "u1"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "e48bd1ee-b74e-4dba-a79f-c38cb8850802",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om inzicht tonen in de opbouw van basale woorden om de betekenis af te leiden.",
-		"dirty": true,
 		"prefix": "u2"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "eee43006-7e31-47b0-8976-795b7d075d10",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om verkennen hoe woordvolgorde en zinsdelen de betekenis van een zin bepalen.",
-		"dirty": true,
 		"prefix": "u3"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "42ce9d99-4dd7-4555-80b1-244f7e4b2cd0",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om verkennen hoe woordgebruik, stijlmiddelen en opbouw van teksten de betekenis beïnvloeden.",
-		"dirty": true,
 		"prefix": "u4"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "a9f23877-a838-43ec-991c-74db6e9d7a39",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om functioneel gebruiken van taalkundige begrippen en taalbeschouwingsstrategieën bij het denken en praten over spelling en grammatica.",
-		"dirty": true,
 		"prefix": "u5"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "c2720bd9-dd08-4d99-b1e5-7377c3dc315c",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om toepassen correct formuleren op woord-, zins- en tekstniveau.",
-		"dirty": true,
 		"prefix": "u1"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "9fcf71b1-318b-431a-a67e-4454b1deba2f",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om verbinden van vorm en betekenis om de correcte spelling te achterhalen.",
-		"dirty": true,
 		"prefix": "u2"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "a3c40435-afac-47a1-afaf-f42b99b0e7b6",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om ontwikkelen van spellingbewustzijn en spellinggeweten.",
-		"dirty": true,
 		"prefix": "u3"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "8be95d97-675c-4d2e-bc37-5979b4d17147",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om recflecteren op gemaakte keuzes in woorden en zinnen.",
-		"dirty": true,
 		"prefix": "u4"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "e0ee4584-c780-4502-8f6f-987b0c7fa173",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om verkennen van het eigen talige repertoire in relatie tot hoe je wilt overkomen en tot welke groepen je wilt behoren: talen en taalvariëteiten, gebaren, lichaamstaal.",
-		"dirty": true,
 		"prefix": "u1"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "ba052f11-2c42-4632-ad76-d8c78d22c4ae",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om verkennen met het eigen talige repertoire in relatie tot publiek, doel en context.",
-		"dirty": true,
 		"prefix": "u2"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "76bbbbab-14f9-4117-a980-ad5a8640ff6c",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om reflecteren op hoe je overkomt op anderen op basis van keuzes in het eigen talige repertoire.",
-		"dirty": true,
 		"prefix": "u3"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "cbd29bcc-e90a-4f57-a4e1-7e731fe78023",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om waarderen van het eigen talige repertoire.",
-		"dirty": true,
 		"prefix": "u4"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "07465876-2721-4718-b452-01d1624abee6",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om verkennen van verschillende taalvariëteiten van het Nederlands: school- en vaktaal, groeps- en streektalen.",
-		"dirty": true,
 		"prefix": "u1"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "67d741e9-c548-4b64-92ad-28fea7789ae7",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om vergelijken van de contexten waarin verschillende talen en taalvariëteiten worden gebruikt.",
-		"dirty": true,
 		"prefix": "u2"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "280babcc-990e-4d6f-a883-d127465e24fb",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om herkennen van overeenkomsten en verschillen tussen het Nederlands en andere talen en taalvariëteiten op klank-, woord- en zinsniveau.",
-		"dirty": true,
 		"prefix": "u3"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "dfc4261d-435d-452a-8019-4be4c33c5400",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om verkennen van overtuigingen over verschillende talen en taalvariëteiten.",
-		"dirty": true,
 		"prefix": "u4"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "5474c008-6a99-4d5c-ab66-78f1d8a42e08",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om herkennen van verschillen tussen taalgebruik van vroeger en nu in gesproken en geschreven teksten.",
-		"dirty": true,
-		"prefix": "DELETE"
+		"prefix": "DELETE",
+		"deleted": 1
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "5a0e762e-a4f0-47f9-a917-3c7d82c93815",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om onderscheiden van veranderingen in vorm, betekenis en gebruik.",
-		"dirty": true,
-		"prefix": "DELETE"
+		"prefix": "DELETE",
+		"deleted": 1
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "5d97db59-b393-4a0e-b6a1-8f242576fec6",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om herkennen van nieuwe woorden en uitdrukkingen in het Nederlands onder invloed van media, digitalisering en andere talen.",
-		"dirty": true,
-		"prefix": "DELETE"
+		"prefix": "DELETE",
+		"deleted": 1
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "77203dda-4845-4a17-8160-f34b6caf0b34",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om beschrijven welk probleem of welke wens van een hoofdpersoon de motor van het verhaal is en hoe het verhaal zich ontwikkelt.",
-		"dirty": true,
 		"prefix": "u1"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "f0a5de08-0300-4213-b391-c4e774b0888d",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om beschrijven van verschillende hoofd- en bijfiguren, helpers en tegenspelers en hun karaktereigenschappen.",
-		"dirty": true,
 		"prefix": "u2"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "e0af3a37-cd5c-4696-a475-f63814e5ee2a",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om benoemen van verteltechnieken die een schrijver gebruikt om spanning op te bouwen.",
-		"dirty": true,
 		"prefix": "u3"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "f7201132-0227-41a9-b9a4-af4903fa7f45",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om beschrijven waar, wanneer en onder welke omstandigheden een verhaal zich afspeelt.",
-		"dirty": true,
 		"prefix": "u4"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "adc47cdb-0fed-43bf-8240-16c3ab540cda",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om beschrijven waar, wanneer en onder welke omstandigheden een verhaal zich afspeelt.",
-		"dirty": true,
-		"prefix": "DELETE"
+		"prefix": "DELETE",
+		"deleted": 1
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "f7f7b9af-fed2-45a3-88a1-c1c07310df19",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om onderscheiden van poëzie-, proza- en dramateksten op basis van eenvoudige genrekenmerken.",
-		"dirty": true,
 		"prefix": "u1"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "fe99a2a4-a912-4e92-a633-d2c979e888e3",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om benoemen van kenmerkend taalgebruik in literaire genres: figuurlijk taalgebruik, rijm en ritme.",
-		"dirty": true,
 		"prefix": "u2"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "c8d57718-adf2-4123-a36c-d92df6f2f3c9",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om benoemen van kenmerkende visuele elementen in literaire genres: illustraties, vormgeving .",
-		"dirty": true,
 		"prefix": "u3"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "f376c44b-c8ed-4543-b7d5-3691cf39113c",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om lezen en beluisteren van boeken en teksten, van verschillende schrijvers en literaire genres.",
-		"dirty": true,
 		"prefix": "u1"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "8f7bd39a-7340-4b35-973a-372c8f83e030",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om geven van een waardeoordeel over gelezen of beluisterde boeken en teksten op basis van literaire genres, eigen interesse en belevingswereld.",
-		"dirty": true,
 		"prefix": "u2"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "364bfca7-4158-4bb6-b134-8c0852172671",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om aangaan van nieuwe leesuitdagingen op basis van eerdere lees-, luister- en kijkervaringen.",
-		"dirty": true,
 		"prefix": "u3"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "c97368b9-bcd9-4301-82bf-caa49b3615c7",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om verwoorden van persoonlijke voorkeur op basis van reflectie op ervaringen met literatuur.",
-		"dirty": true,
 		"prefix": "u4"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "0d7d9289-c236-406a-b62b-b77aa167a6d1",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om verwoorden van persoonlijke leeservaring en -beleving na het lezen van literatuur.",
-		"dirty": true,
 		"prefix": "u1"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "220359f4-b6d3-46d7-b6dd-2eb4ac13b148",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om verwoorden van opgedane inzichten en kennis over zichzelf op basis van literatuur.",
-		"dirty": true,
 		"prefix": "u2"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "bf3fc5d9-2650-4859-b653-38444a799832",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om verwoorden van opgedane inzichten en kennis over anderen op basis van literatuur.",
-		"dirty": true,
 		"prefix": "u3"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "163de4ac-8e87-4c63-ae2b-1f41c2657f9b",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om verwoorden van opgedane inzichten en kennis over de wereld en culturen op basis van literatuur.",
-		"dirty": true,
 		"prefix": "u4"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "74290fe8-aca3-448b-b192-7019037cb5e6",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om geven van een waardeoordeel over de tekst.",
-		"dirty": true,
-		"prefix": "DELETE"
+		"prefix": "DELETE",
+		"deleted": 1
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"description": "Concept - Het gaat hierbij om aanbieden van taalactiviteiten in betekenisvolle contexten.",
 		"id": "f01cc0c6-cf6e-4aa1-8e29-ff23740c4dec",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"dirty": true,
 		"prefix": "u1"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"description": "Concept - Het gaat hierbij om aanbieden van een veelzijdig en actueel aanbod van jeugdliteratuur binnen een vaste leesroutine.",
 		"id": "eea58305-daf4-4f64-997d-944ae8af8814",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"dirty": true,
 		"prefix": "u2"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"description": "Concept - Het gaat hierbij om aanbieden van kennis en vaardigheden uit het leergebied Nederlands in onderlinge samenhang.",
 		"id": "379bde9c-f402-4be8-9f22-46ad8cc8c5c6",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"dirty": true,
 		"prefix": "u3"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"description": "Concept - Het gaat hierbij om stimuleren van de leesmotivatie en de durf om te spreken en te schrijven.",
 		"id": "8a7dd92c-975f-4731-ab7e-1c5fa8c9882a",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"dirty": true,
 		"prefix": "u4"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"description": "Concept - Het gaat hierbij om ruimte bieden aan verschillende talen en taalvariëteiten van leerlingen.",
 		"id": "40d26836-990f-439e-a5f8-6f0cff9a0a6c",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"dirty": true,
 		"prefix": "u5"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "43029119-0cc0-4710-b8ff-72fbeaa5bbfa",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om stimuleren van betekenisvolle activiteiten waarin school- en vaktaal en vakspecifieke taalvaardigheden verworven kunnen worden.",
-		"dirty": true,
 		"prefix": "u1"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "1a26db43-eeef-43a9-99d5-93de8177e236",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om stimuleren van het gebruiken van rijke teksten over inhoudelijke thema's in alle leergebieden.",
-		"dirty": true,
 		"prefix": "u2"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "b57a7643-74bd-4a79-9572-fc516e3281f2",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om stimuleren van taalproductie en interactie in alle leergebieden.",
-		"dirty": true,
 		"prefix": "u3"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "35d22154-7913-42dd-8e83-92b69f0eb713",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om stimuleren van aandacht voor taalverzorging en taalgebruik in alle leergebieden.",
-		"dirty": true,
 		"prefix": "u4"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "c4ea8dd0-2ec5-40e8-9ffb-72ac0e45c96a",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om aanbieden van een schoolbrede set van aanpakken en flexibel inzetbare strategieën bij het ondersteunen van taalactiviteiten in de andere leergebieden.",
-		"dirty": true,
 		"prefix": "u5"
 	},
 	{
@@ -1674,62 +1594,57 @@
 		"prefix": "u4"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"description": "Concept - Het gaat hierbij om optellen, aftrekken, vermenigvuldigen, delen, machtsverheffen en worteltrekken.",
 		"prefix": "u1",
 		"id": "a6bb58e0-c392-4294-8ca3-7971832d970b",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
+		]
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"description": "Concept - Het gaat hierbij om wendbaar en met inzicht gebruiken van getallen en hun eigenschappen, en enkelvoudige en samengestelde grootheden en eenheden.",
 		"prefix": "u2",
 		"id": "5bcd1d36-f984-41fd-a22a-e92694c1beb9",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
+		]
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"description": "Concept - Het gaat hierbij om wendbaar en met inzicht gebruiken van en rekenen met verhoudingen.",
 		"prefix": "u3",
 		"id": "c37697f5-193a-4466-afee-cd788c6bbbd4",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
+		]
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"description": "Concept - Het gaat hierbij om relaties leggen tussen grootheden en eenheden, tussen grootheden onderling en tussen eenheden onderling.",
 		"prefix": "u4",
 		"id": "048f01f5-4e51-4011-ae3f-6beaa7be5513",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
+		]
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"description": "Concept - Het gaat hierbij om bepalen van afmetingen en inhoud van meetkundige figuren.",
 		"prefix": "u5",
 		"id": "265c5e16-e583-4812-989e-094bb16c4af3",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
+		]
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"description": "Concept - Het gaat hierbij om rekenen met standaardprocedures en eigenschappen van bewerkingen.",
 		"prefix": "u1",
 		"id": "f0522392-3206-4b7c-bb28-815ee3b19433",
@@ -1737,11 +1652,10 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"dirty": true
+		]
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"description": "Concept - Het gaat hierbij om herleiden van algebraïsche uitdrukkingen.",
 		"prefix": "u2",
 		"id": "8f9eb028-7ee6-4516-a524-2a7a4b9fd74a",
@@ -1749,11 +1663,10 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"dirty": true
+		]
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"description": "Concept - Het gaat hierbij om gebruiken van de wetenschappelijke notatie van grote en kleine getallen.",
 		"prefix": "u3",
 		"id": "fd055ad5-9a1c-4033-b4a3-e2c5dc9be851",
@@ -1761,11 +1674,10 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"dirty": true
+		]
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"description": "Concept - Het gaat hierbij om meten van grootheden en daarbij meet(on)nauwkeurigheid en effecten daarvan bepalen.",
 		"prefix": "u4",
 		"id": "fa10d4de-d2d9-42de-be32-5550f37e179f",
@@ -1773,55 +1685,50 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"dirty": true
+		]
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"description": "Concept - Het gaat hierbij om redeneren met en over eigenschappen van meetkundige figuren en begrippen en deze eigenschappen gebruiken in berekeningen en constructies.",
 		"prefix": "u1",
 		"id": "bc7136ea-97bd-4dd8-935e-353dee80e1d0",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
+		]
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"description": "Concept - Het gaat hierbij om redeneren met kijklijnen.",
 		"prefix": "u2",
 		"id": "71001e4e-3dd8-412d-8f35-666fdfa32689",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
+		]
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"description": "Concept - Het gaat hierbij om construeren en interpreteren van tweedimensionale representaties van driedimensionale figuren en relaties leggen tussen twee- en driedemensionale representaties van figuren.",
 		"prefix": "u3",
 		"id": "2af4a3e0-39e9-4552-bdeb-346e37fa7913",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
+		]
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"description": "Concept - Het gaat hierbij om meetkundige transformaties: verschuiven, draaien, spiegelen, vergroten en verkleinen van figuren.",
 		"prefix": "u4",
 		"id": "13959ad6-3bf8-42ab-ba36-2bce6c5516fa",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
+		]
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"description": "Concept - Het gaat hierbij om berekenen van hoeken en afmetingen van rechthoekige driehoeken met goniometrische verhoudingen.",
 		"prefix": "u5",
 		"id": "d326847f-a000-4868-a221-cf898a746470",
@@ -1829,66 +1736,60 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"dirty": true
+		]
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"prefix": "u1",
 		"id": "78b37ede-bf76-4cb4-a1de-e70078afaee4",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om opstellen van tabellen bij data.",
-		"dirty": true
+		"description": "Concept - Het gaat hierbij om opstellen van tabellen bij data."
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"prefix": "u2",
 		"id": "d47d76e8-5820-42a9-a9ae-1d99896f3ff5",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om beredeneerd kiezen, berekenen en interpreteren van gemiddelde, modus en mediaan en berekenen en interpreteren van spreidingsbreedte.",
-		"dirty": true
+		"description": "Concept - Het gaat hierbij om beredeneerd kiezen, berekenen en interpreteren van gemiddelde, modus en mediaan en berekenen en interpreteren van spreidingsbreedte."
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"prefix": "u3",
 		"id": "fa51bfed-1099-4312-83cf-49720282f46e",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om maken van grafische representaties van data en daaruit conclusies trekken.",
-		"dirty": true
+		"description": "Concept - Het gaat hierbij om maken van grafische representaties van data en daaruit conclusies trekken."
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"prefix": "u4",
 		"id": "199bad75-67e3-443d-af42-6bbceb8ba6c8",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om beredeneerd kiezen van representaties.",
-		"dirty": true
+		"description": "Concept - Het gaat hierbij om beredeneerd kiezen van representaties."
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"prefix": "u5",
 		"id": "db548812-0687-47ff-97c7-e5171b2cf39b",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om interpreteren van grafische representaties en beredeneren of daarbij gepresenteerde conclusies wel, niet of deels kloppen.",
-		"dirty": true
+		"description": "Concept - Het gaat hierbij om interpreteren van grafische representaties en beredeneren of daarbij gepresenteerde conclusies wel, niet of deels kloppen."
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"prefix": "u7",
 		"id": "f5f947c0-dee3-462a-8b5e-e572291e36ea",
 		"niveau_id": [
@@ -1896,11 +1797,10 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"description": "Concept - Het gaat hierbij om analyseren van univariate en bivariate datasets.",
-		"dirty": true
+		"description": "Concept - Het gaat hierbij om analyseren van univariate en bivariate datasets."
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"prefix": "u8",
 		"id": "70011aa3-0849-4edc-a264-2c4a973cdb04",
 		"niveau_id": [
@@ -1908,11 +1808,10 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"description": "Concept - Het gaat hierbij om beredeneerd kiezen en gebruiken van meetniveaus: nominaal, ordinaal, interval en ratio.",
-		"dirty": true
+		"description": "Concept - Het gaat hierbij om beredeneerd kiezen en gebruiken van meetniveaus: nominaal, ordinaal, interval en ratio."
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"prefix": "u9",
 		"id": "18152397-5e39-49ca-9832-1bded8496a35",
 		"niveau_id": [
@@ -1920,11 +1819,10 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"description": "Concept - Het gaat hierbij om beredeneerd kiezen, berekenen en interpreteren van spreidingsbreedte en interkwartielafstand.",
-		"dirty": true
+		"description": "Concept - Het gaat hierbij om beredeneerd kiezen, berekenen en interpreteren van spreidingsbreedte en interkwartielafstand."
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"prefix": "u10",
 		"id": "ee8fd311-6784-4f93-8af6-fa64debb983b",
 		"niveau_id": [
@@ -1932,66 +1830,60 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"description": "Concept - Het gaat hierbij om vergeijken van twee datasets.",
-		"dirty": true
+		"description": "Concept - Het gaat hierbij om vergeijken van twee datasets."
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"prefix": "u1",
 		"id": "3c7336f9-f881-4202-bf58-2c957cd83760",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om herkennen, beschrijven en voortzetten van een patroon in een rijen getallen en figuren.",
-		"dirty": true
+		"description": "Concept - Het gaat hierbij om herkennen, beschrijven en voortzetten van een patroon in een rijen getallen en figuren."
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"prefix": "u2",
 		"id": "125d2c0b-ce33-4c6c-b79f-b8c9784f5bb0",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om identificeren van een patronen en verbanden in een datasets.",
-		"dirty": true
+		"description": "Concept - Het gaat hierbij om identificeren van een patronen en verbanden in een datasets."
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"prefix": "u3",
 		"id": "b6de2467-2f59-437c-8bfb-8de369186a7b",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om identificeren en beschrijven van verbanden tussen grootheden.",
-		"dirty": true
+		"description": "Concept - Het gaat hierbij om identificeren en beschrijven van verbanden tussen grootheden."
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"prefix": "u4",
 		"id": "5422462e-3662-4555-b12f-57fb52e82191",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om weergeven van patronen en verbanden in een beschrijving, tabel, grafiek en formule, en deze weergaven in elkaar omzetten.",
-		"dirty": true
+		"description": "Concept - Het gaat hierbij om weergeven van patronen en verbanden in een beschrijving, tabel, grafiek en formule, en deze weergaven in elkaar omzetten."
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"prefix": "u5",
 		"id": "90f9961e-aea0-44db-8069-329c0f469c53",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om beschrijven en interpreteren  van standaardverbanden in verschillende representaties.",
-		"dirty": true
+		"description": "Concept - Het gaat hierbij om beschrijven en interpreteren  van standaardverbanden in verschillende representaties."
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"prefix": "u6",
 		"id": "9d54e051-df4a-49c4-9a4c-8aeb77a520cc",
 		"niveau_id": [
@@ -1999,11 +1891,10 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"description": "Concept - Het gaat hierbij om beschrijven van een patroon in een rij getallen met een formule.",
-		"dirty": true
+		"description": "Concept - Het gaat hierbij om beschrijven van een patroon in een rij getallen met een formule."
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"prefix": "u7",
 		"id": "9bfe24ba-2083-4d01-a8aa-d9b8b1dbf8d3",
 		"niveau_id": [
@@ -2011,11 +1902,10 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"description": "Concept - Het gaat hierbij om uitleggen wanneer een verband een functie is.",
-		"dirty": true
+		"description": "Concept - Het gaat hierbij om uitleggen wanneer een verband een functie is."
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"prefix": "u8",
 		"id": "dc0813a5-19dc-4167-b221-7c21935a6bf2",
 		"niveau_id": [
@@ -2023,11 +1913,10 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"description": "Concept - Het gaat hierbij om beschrijven van het veranderingsgedrag van een functie.",
-		"dirty": true
+		"description": "Concept - Het gaat hierbij om beschrijven van het veranderingsgedrag van een functie."
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"prefix": "u9",
 		"id": "5e081e14-a588-44c1-85fb-6bca031e0744",
 		"niveau_id": [
@@ -2035,11 +1924,10 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"description": "Concept - Het gaat hierbij om herkennen en beschrijven van standaardverbanden in verschillende representaties.",
-		"dirty": true
+		"description": "Concept - Het gaat hierbij om herkennen en beschrijven van standaardverbanden in verschillende representaties."
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"prefix": "u10",
 		"id": "a96f92fd-7e15-4ded-9fab-4f5d1b4ca510",
 		"niveau_id": [
@@ -2047,55 +1935,50 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"description": "Concept - Het gaat hierbij om gebruiken van de eigenschappen van standaardverbanden.",
-		"dirty": true
+		"description": "Concept - Het gaat hierbij om gebruiken van de eigenschappen van standaardverbanden."
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"prefix": "u1",
 		"id": "695f7ad9-e8cf-40de-baa4-5eb2f593cba1",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om interpreteren van wiskundige vergelijkingen en gevonden oplossingen.",
-		"dirty": true
+		"description": "Concept - Het gaat hierbij om interpreteren van wiskundige vergelijkingen en gevonden oplossingen."
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"prefix": "u2",
 		"id": "2f43eaab-54c5-4bc0-8eef-783835cc444d",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om opstellen van vergelijkingen bij situaties.",
-		"dirty": true
+		"description": "Concept - Het gaat hierbij om opstellen van vergelijkingen bij situaties."
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"prefix": "u3",
 		"id": "7c8a8255-274d-4f97-801b-4ff6d12af6b7",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om relaties leggen tussen gegeven vergelijkingen en situaties.",
-		"dirty": true
+		"description": "Concept - Het gaat hierbij om relaties leggen tussen gegeven vergelijkingen en situaties."
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"prefix": "u4",
 		"id": "7f64a204-d578-43c1-9b25-7facc9025126",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om oplossen van lineaire vergelijkingen.",
-		"dirty": true
+		"description": "Concept - Het gaat hierbij om oplossen van lineaire vergelijkingen."
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"prefix": "u5",
 		"id": "35c2c916-c6aa-4012-b6e6-2ac9903dc42c",
 		"niveau_id": [
@@ -2103,11 +1986,10 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"description": "Concept - Het gaat hierbij om oplossen van lineaire, kwadratische en machtsvergelijkingen.",
-		"dirty": true
+		"description": "Concept - Het gaat hierbij om oplossen van lineaire, kwadratische en machtsvergelijkingen."
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"prefix": "u6",
 		"id": "993f978b-b56e-49b6-a923-b43b6ace620a",
 		"niveau_id": [
@@ -2115,11 +1997,10 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"description": "Concept - Het gaat hierbij om oplossen van een stelsel lineaire vergelijkingen.",
-		"dirty": true
+		"description": "Concept - Het gaat hierbij om oplossen van een stelsel lineaire vergelijkingen."
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"prefix": "u7",
 		"id": "223a7204-4046-484d-8da4-f13d5419d0b2",
 		"niveau_id": [
@@ -2127,44 +2008,40 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"description": "Concept - Het gaat hierbij om oplossen van ongelijkheden.",
-		"dirty": true
+		"description": "Concept - Het gaat hierbij om oplossen van ongelijkheden."
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"prefix": "u1",
 		"id": "0da9fe9e-7dec-4eb9-9726-4c8b88053828",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om een kansen weergeven als breuk, verhouding, percentage en decimaal getal.",
-		"dirty": true
+		"description": "Concept - Het gaat hierbij om een kansen weergeven als breuk, verhouding, percentage en decimaal getal."
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"prefix": "u2",
 		"id": "fb54b77f-01b1-4437-81cb-ddad3286a31d",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om op basis van kansen inschatten hoe waarschijnlijk het is dat gebeurtenissen plaatsvinden.",
-		"dirty": true
+		"description": "Concept - Het gaat hierbij om op basis van kansen inschatten hoe waarschijnlijk het is dat gebeurtenissen plaatsvinden."
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"prefix": "u3",
 		"id": "618c1668-d038-40bf-b31f-151fed33b2ca",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om berekenen van verwachtingswaardes.",
-		"dirty": true
+		"description": "Concept - Het gaat hierbij om berekenen van verwachtingswaardes."
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"prefix": "u1",
 		"id": "de63da87-7e93-423c-9163-9ea383fc3e97",
 		"niveau_id": [
@@ -2172,11 +2049,10 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"description": "Concept - Het gaat hierbij om interpreteren van empirische en theoretische kansen",
-		"dirty": true
+		"description": "Concept - Het gaat hierbij om interpreteren van empirische en theoretische kansen"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"prefix": "u2",
 		"id": "91cadf11-b763-463b-ae74-b97413ea4bdc",
 		"niveau_id": [
@@ -2184,121 +2060,111 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"description": "Concept - Het gaat hierbij om berekenen van kansen met behulp van kansregels en combinatoriek.",
-		"dirty": true
+		"description": "Concept - Het gaat hierbij om berekenen van kansen met behulp van kansregels en combinatoriek."
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"prefix": "u1",
 		"id": "7aca5aec-9b08-4774-a4d7-be13fe50f102",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om analyseren hoe een probleem met wiskunde kan worden opgelost.",
-		"dirty": true
+		"description": "Concept - Het gaat hierbij om analyseren hoe een probleem met wiskunde kan worden opgelost."
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "d715d211-8888-4397-8b0f-fc79eabfea88",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om bedenken en uitvoeren van een aanpak voor een niet-routinematig oplosbaar probleem.",
-		"dirty": true,
 		"prefix": "u2"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "3a4b6a72-547b-434c-92a7-f83a80399b78",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om gebruiken van heuristieken.",
-		"dirty": true,
 		"prefix": "u3"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "cdab04cc-1c2f-45ac-97af-5cf0ae2a397b",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om bewerken van de uitkomsten van berekeningen tot een oplossing van een probleem.",
-		"dirty": true,
 		"prefix": "u4"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "b914b06b-de21-4daf-8d6a-82abf80217ad",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om reflecteren op aanpak, uitvoering en oplossing.",
-		"dirty": true,
 		"prefix": "u5"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"prefix": "u1",
 		"id": "6eb2b203-8e9c-4bfe-adbf-748a52789ccc",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om weergeven van een situatie, ook met gebruik van ICT.",
-		"dirty": true
+		"description": "Concept - Het gaat hierbij om weergeven van een situatie, ook met gebruik van ICT."
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "3f28044a-3b09-4c20-9a06-53d843c7a7c7",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om selecteren van relevante kenmerken en weglaten van niet relevante kenmerken.",
-		"dirty": true,
 		"prefix": "u2"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "ae84a9b6-49fa-43bf-9ae0-067a7f91c793",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om beredeneerd kiezen van een geschikt model en evalueren van deze keuze.",
-		"dirty": true,
 		"prefix": "u3"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "06a4ca9d-b50f-4df8-94ef-17ab41ccac19",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om gebruiken van abstracte modellen om een rekenaanpakken te laten zien, situaties te interpreteren en een probleem op te lossen.",
-		"dirty": true,
 		"prefix": "u4"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "c9c6ed82-a8bb-48a6-adea-9ed7c207771e",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om gebruiken van een model om te redeneren over een situatie.",
-		"dirty": true,
-		"prefix": "DELETE"
+		"prefix": "DELETE",
+		"deleted": 1
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"prefix": "u5",
 		"id": "4f69a8c9-fa7d-4197-ac15-d3ce27c4bafb",
 		"niveau_id": [
@@ -2306,55 +2172,50 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"description": "Concept - Het gaat hierbij om wiskundig modelleren volgens een modelleercyclus.",
-		"dirty": true
+		"description": "Concept - Het gaat hierbij om wiskundig modelleren volgens een modelleercyclus."
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"prefix": "u1",
 		"id": "65844a3e-743a-4ccf-97a4-a93d4a25d645",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"description": "Concept - Het gaat hierbij om formuleren van vermoedens en beweringen.",
-		"dirty": true
+		"description": "Concept - Het gaat hierbij om formuleren van vermoedens en beweringen."
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "4d9b3f5c-2dbe-4f06-8209-a70b4e654949",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om gebruiken van logische redeneerprincipes en daarmee conclusies trekken.",
-		"dirty": true,
 		"prefix": "u2"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "70d2710a-a676-409a-86c6-ad454cf2b496",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om gebruiken van wiskundetaal en wiskundige representaties bij het formuleren en onderbouwen van een redenering.",
-		"dirty": true,
 		"prefix": "u3"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "36dcb5d5-e982-41a3-b222-da34df6c3fbc",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om kritisch evalueren van eigen en andermans wiskundige redenering.",
-		"dirty": true,
 		"prefix": "u4"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "10990516-3e6f-45f0-a071-38e6c9c9bf6a",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
@@ -2362,11 +2223,10 @@
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
 		"description": "Concept - Het gaat hierbij om wiskundig bewijzen van een bewering.",
-		"dirty": true,
 		"prefix": "u5"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "56e5f063-331a-425d-826e-7dda4c114862",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
@@ -2374,55 +2234,50 @@
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
 		"description": "Concept - Het gaat hierbij om verantwoorden van een redeneeraanpak in formele stappen",
-		"dirty": true,
 		"prefix": "u6"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "c1c3451b-0676-4d69-9bef-81507bb41b96",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om algoritmes met een beperkt aantal stappen.",
-		"dirty": true,
 		"prefix": "u1"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "5a13d5b0-4b9b-4c37-aa1a-00844147e6b1",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om beschrijven hoe een algoritme tot een vast resultaat leidt.",
-		"dirty": true,
 		"prefix": "u2"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "83125ca4-a12f-4961-b1c6-038bc7921368",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om beoordelen van het resultaat van een doorlopen algoritme.",
-		"dirty": true,
 		"prefix": "u3"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "e7353df5-4d06-4d28-a4cd-6ab56bc63627",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om bedenken van een algoritme voor de aanpak van een probleem.",
-		"dirty": true,
 		"prefix": "u4"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "7deb96b5-4549-407f-90f6-e02ca5793529",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
@@ -2430,11 +2285,10 @@
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
 		"description": "Concept - Het gaat hierbij om verbeteren van een algoritme door een aanpassing te bedenken.",
-		"dirty": true,
 		"prefix": "u6"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "54e01707-8c44-42ea-887f-d60705618327",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
@@ -2442,110 +2296,100 @@
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
 		"description": "Concept - Het gaat hierbij om schematisch beschrijven van een algoritme.",
-		"dirty": true,
 		"prefix": "u7"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "3f6ac9fa-cf0e-4fdb-97b1-465f132b3afa",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om gebruiken van wiskundige symbolen, notaties en begrippen.",
-		"dirty": true,
 		"prefix": "u1"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "7f3fc213-d0ec-41a2-8fc0-03276d3acabe",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om leesbaar weergeven van berekeningen en probleemaanpakken.",
-		"dirty": true,
 		"prefix": "u2"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "ee3b2184-5262-40af-9881-04005e2c4b94",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om kiezen en bedenken van representaties om berekeningen en wiskundige redeneringen weer te geven en uit te wisselen.",
-		"dirty": true,
 		"prefix": "u3"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "f5903977-a73c-411c-81a7-31e794f4b74a",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om kritisch beoordelen van een representatie.",
-		"dirty": true,
 		"prefix": "u4"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "16a24ff9-a8c3-4361-9e3a-f8d563ec0ed9",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om relaties leggen tussen verschillende representaties van een wiskundig concept.",
-		"dirty": true,
 		"prefix": "u5"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "7e486f51-cc8c-4d15-be6a-febcb98c3aa8",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om beredeneerd kiezen voor gebruik van een instrument op basis van de mogelijkheden, beperkingen en meetnauwkeurigheid.",
-		"dirty": true,
 		"prefix": "u1"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "edb0329b-4eb9-4803-bb57-6ce302ac5b8e",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om vooraf schatten van meetresultaten of uitkomsten.",
-		"dirty": true,
 		"prefix": "u2"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "2e3cf114-b5df-418d-8ed5-7accfcbb3372",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om gebruiken van een instrument en de bijbehorende wiskundetaal.",
-		"dirty": true,
 		"prefix": "u3"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "e6607881-af20-40a6-8cf6-6e18abe2f3b2",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om interpreteren en beoordelen van het resultaat.",
-		"dirty": true,
 		"prefix": "u4"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "8398ccbf-c7e9-47ed-9aea-662bfee886c9",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
@@ -2553,902 +2397,829 @@
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
 		"description": "Concept - Het gaat hierbij om uitvoeren van berekeningen met een digitaal instrument, en aangeven van de mate van nauwkeurigheid van de  verkregen uitkomst.",
-		"dirty": true,
 		"prefix": "u5"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "ca09d48a-49b5-4c92-83e9-52cf2db24d20",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om gebruiken van getallen en andere wiskundige concepten in concrete, voor de leerling relevante dagelijkse en beroepsmatige situaties.",
-		"dirty": true,
 		"prefix": "u1"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "b5976ff0-6265-44f0-b24e-d70747796a61",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om gebruiken van wiskundige instrumenten bij meten en andere praktische handelingen.",
-		"dirty": true,
 		"prefix": "u2"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "12d2e3ac-173f-4ec2-a57e-dd254654c5df",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om wiskunde gebruiken bij het nemen van beslissingen en het oplossen van problemen.",
-		"dirty": true,
 		"prefix": "u3"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "55bcd96e-fc81-46fc-a4d1-96ba713ccb38",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om herkennen en beschrijven dat met grafische representaties een bepaalde boodschap wordt overgebracht of benadrukt.",
-		"dirty": true,
 		"prefix": "u4"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "f08f1470-5275-4f5a-9dc1-a9e97ef21c0d",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om gebruiken en beoordelen van wiskundige informatie uit de samenleving, de media en een beroepscontext bij het vormen van een mening.",
-		"dirty": true,
 		"prefix": "u5"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "ea78d075-a07a-41a2-ac44-337dbffa09ff",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om herkennen en beschrijven hoe wiskunde in allerlei beroepen op uiteenlopende manieren een rol speelt.",
-		"dirty": true,
 		"prefix": "u6"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "a78e38af-b531-4a04-a184-f3b570d31e2b",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om aanbieden van wiskundige concepten en denk-werkwijzen in onderling samenhang.",
-		"dirty": true,
 		"prefix": "u1"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "084d6fb9-fab1-4e7d-b1aa-22dbba0db987",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om laten zien hoe verschillende leergebieden wiskundetaal en wiskundige representaties gebruiken.",
-		"dirty": true,
 		"prefix": "u2"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "0765e736-b37d-4012-b7f8-808417937e22",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om afstemmen hoe rekenaanpakken en andere wiskundige aanpakken bij verschillende leergebieden worden uitgevoerd.",
-		"dirty": true,
 		"prefix": "u3"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "fe472165-8655-4770-b6b4-08d777f12e78",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om laten gebruiken van wiskundigemodellen, wiskundige instrumenten, algoritmes en formules in verschillende leergebieden.",
-		"dirty": true,
 		"prefix": "u4"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "2db47992-145e-4457-a2be-07478ba8908c",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om toepassen van modelgebruik en algoritmisch denken in andere leergebieden.",
-		"dirty": true,
-		"prefix": "DELETE"
+		"prefix": "DELETE",
+		"deleted": 1
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "4a6bce45-20c5-4639-a4a4-155db19686cc",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om leerlingen aanmoedigen om wiskundetaal en wiskundige representaties te gebruiken die passen bij de verschillende wiskundige concepten.",
-		"dirty": true,
-		"prefix": "DELETE"
+		"prefix": "DELETE",
+		"deleted": 1
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "70917d43-27c5-4c06-9a7d-6b64e6fcbcec",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om laten gebruiken van wiskundige instrumenten.",
-		"dirty": true,
-		"prefix": "DELETE"
+		"prefix": "DELETE",
+		"deleted": 1
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "d439e7c8-0283-41da-82c8-06ff98d8e1f3",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om aanbieden van problemen met betrekking tot verschillende wiskundige concepten.",
-		"dirty": true,
-		"prefix": "DELETE"
+		"prefix": "DELETE",
+		"deleted": 1
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "3902bf38-48bd-41ab-8a85-91f1f753e500",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om gebruiken van modellen en algoritmisch denken bij verschillende wiskundige concepten.",
-		"dirty": true,
-		"prefix": "DELETE"
+		"prefix": "DELETE",
+		"deleted": 1
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "fbe28710-17ad-4996-af95-81b30ccd7f56",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om leerlingen vragen om beweringen over verschillende wiskundige concepten aan te tonen.",
-		"dirty": true,
-		"prefix": "DELETE"
+		"prefix": "DELETE",
+		"deleted": 1
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"description": "Concept - Het gaat hierbij om laten zien van het nut en de kracht van wiskunde in uiteenlopende toepassingen.",
 		"prefix": "u1",
 		"id": "925b27d1-7706-40ae-906b-93fa495d64e3",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
+		]
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"description": "Concept - Het gaat hierbij om stimuleren om vragen te stellen bij concrete getalsmatige en wiskundige informatie.",
 		"prefix": "DELETE",
+		"deleted": 1,
 		"id": "89775bfc-1ca1-4afc-8107-6604fe1c9fbc",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
+		]
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"description": "Concept - Het gaat hierbij om stimuleren van een onderzoekende en kritische houding ten aanzien van getallen en andere wiskundige informatie.",
 		"prefix": "u2",
 		"id": "3a649a72-9d33-45ea-9021-bf266906ef8c",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
+		]
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"description": "Concept - Het gaat hierbij om laten reflecteren op eigen en andermans rekenwijze en overig wiskundig handelen.",
 		"prefix": "u3",
 		"id": "32596138-3a08-4873-8522-d6fde8448b9d",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
+		]
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"description": "Concept - Het gaat hierbij om inzicht bieden in hoe leerlingen wiskunde kunnen inzetten in de bovenbouw en het verdere leven.",
 		"prefix": "u4",
 		"id": "c0515655-ce7e-474c-8fea-5d915793634c",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
+		]
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"description": "Concept - Het gaat hierbij aandachtig luisteren, kijken of aandachting vloeiend lezen.",
 		"prefix": "u1",
 		"id": "3fd71129-c7e8-4adc-8d70-971c7a9eab82",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
+		]
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"description": "Concept - Het gaat hierbij om inzetten en uitbreiden van woordenschat, kennis over taal en kennis van de wereld.",
 		"prefix": "u2",
 		"id": "17c5a89c-9b2e-44ab-ba13-f635cbf1ae5a",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
+		]
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"description": "Concept - Het gaat hierbij om inzetten en uitbreiden van kennis over de vorm van teksten: tekstsoorten, tekststructuren, literaire genres, verteltechnieken.",
 		"prefix": "u3",
 		"id": "fa176038-a1ba-44bd-be56-12155013137b",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
+		]
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"description": "Concept - Het gaat hierbij om beschrijven van perspectieven, communicatieve doelen, publiek, context.",
 		"prefix": "u4",
 		"id": "27f82b87-4d91-4bfa-ac85-023477c122ab",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
+		]
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"description": "Concept - Het gaat hierbij om in eigen woorden weergeven van de hoofd- en bijzaken, de hoofdgedachte en betekenis van een tekst, passend bij het lees- of luisterdoel.",
 		"prefix": "u5",
 		"id": "309ddcc3-a1ff-4ca0-97d1-b6ac921f443e",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
+		]
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "08ca123b-0f96-4369-95da-31f042b3715f",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om benoemen van inhoudelijke relaties binnen en tussen verschillende teksten.",
-		"dirty": true,
 		"prefix": "u1"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "3a8f0eda-dd95-4e9c-9f2c-5b632053d616",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om herkennen en benoemen van verschillen en overeenkomsten in feiten, meningen, argumentatie  en perspectieven.",
-		"dirty": true,
 		"prefix": "u2"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "aac4d2f5-9af3-460b-81f9-72e2adca9e7e",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om benoemen van tegenstrijdige en overeenkomstige inhoud en framing binnen en tussen teksten.",
-		"dirty": true,
 		"prefix": "u3"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "62b955f3-796c-42d4-ae45-cfb642214696",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om evalueren van bruikbaarheid en betrouwbaarheid van teksten.",
-		"dirty": true,
 		"prefix": "u4"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "d63a71d0-0d29-4a39-8a2f-34a3e715c970",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om reflecteren op de waarde, inhoud en vorm van teksten.",
-		"dirty": true,
 		"prefix": "u5"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "28709407-4f53-47fc-ba4f-03e369610714",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om hanteren van een passende aanpak.",
-		"dirty": true,
 		"prefix": "u1"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "ee04293d-6a41-47e0-8695-3b4a1edee028",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om in eigen woorden verwerken van informatie uit verschillende bronnen tot een gestructureerde tekst met bronvermelding.",
-		"dirty": true,
 		"prefix": "u2"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "424b2260-2ff5-4e2a-a02f-e494a551270a",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om inzetten en uitbreiden van kennis over de vorm van teksten: tekstsoorten, tekststructuren, verteltechnieken.",
-		"dirty": true,
 		"prefix": "u3"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "b6c50b88-3307-4aae-8cd8-be553ffe654d",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om schrijven op letter-, schrift- en tekstniveau met een leesbaar handschrift en typschrift, en verstaanbaar spreken.",
-		"dirty": true,
 		"prefix": "u4"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "97fa385b-f42b-49d9-a9cc-7046be00f89c",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om reviseren van de tekst met het oog op doelgerichte communicatie: taalgebruik en taalverzorging.",
-		"dirty": true,
 		"prefix": "u5"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "dc7c00e1-41d7-4107-a0cf-37457ca228e0",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om verkennen van creatief taalgebruik van anderen in literaire en zakelijke teksten.",
-		"dirty": true,
 		"prefix": "u1"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "55c8700a-f5e5-492a-ad78-6ed7b5fb2563",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om verwoorden van eigen gedachten, ervaringen, gevoelens en fantasieën.",
-		"dirty": true,
 		"prefix": "u2"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "b9e8e767-467d-47d4-b036-07f477e8421f",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om experimenteren met klanken, woorden, zinnen, literaire genres, taalregels, taalconventies en visuele vormen.",
-		"dirty": true,
 		"prefix": "u3"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "5348ac1f-fcbd-418e-b156-6bcc59a79445",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om verkennen van kenmerken van de ontluikende eigen stijl en het talig repertoire.",
-		"dirty": true,
 		"prefix": "u4"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "34427b27-6904-4c61-a533-d1e981c92dfc",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om waarderen van creatief taalgebruik.",
-		"dirty": true,
 		"prefix": "u5"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "0621e04c-ddc5-4ee6-8bb4-9265f4881061",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om noteren van hoofd- en bijzaken, indrukken en vragen bij gelezen, bekeken of beluisterde inhoud.",
-		"dirty": true,
 		"prefix": "u1"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "b242154f-a37a-4d8b-bb32-1b6895a0b59f",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om samenvatten van gelezen inhoud.",
-		"dirty": true,
 		"prefix": "u2"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "d6703495-ddb0-4791-874a-7594ce66afb7",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om verwoorden, onderbouwen en ordenen van gedachten, verworven inzichten en kennis in een tekst of schema.",
-		"dirty": true,
 		"prefix": "u3"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "972e26fb-c0e0-4f08-a426-9b469358bef1",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om inzetten en uitbreiden van school- en vaktaal.",
-		"dirty": true,
 		"prefix": "u4"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "3019fdbb-5720-4ab9-a36c-e8296315bf68",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om identificeren van kenmerken van aangereikte bronnen: maker, tekstsoort en verschijningsdatum.",
-		"dirty": true,
 		"prefix": "u1"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "678ba36e-8188-4c63-b024-c55ebc3b5e93",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om benoemen van inhouds- en vormelementen die vragen oproepen.",
-		"dirty": true,
 		"prefix": "u2"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "d8db6839-5ac5-489d-b575-ab28f3301edd",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om vergelijkend beoordelen en selecteren van bronnen op basis van hun betrouwbaarheid.",
-		"dirty": true,
 		"prefix": "u3"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "a0fe8562-bd97-4df5-a15c-25d677a9b22d",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om formuleren van een gestructureerde tekst op basis van geselecteerde informatie, afgestemd op doel, publiek en context.",
-		"dirty": true,
-		"prefix": "DELETE"
+		"prefix": "DELETE",
+		"deleted": 1
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "c32bd0a0-6f8b-41fc-9158-12de23ec20b5",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om inzetten en uitbreiden van vaardigheden om gesprekken constructief te laten verlopen: luisteren, herkennen van signalen en passend reageren op de gesprekspartner(s).",
-		"dirty": true,
 		"prefix": "u1"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "c29c5103-a23f-45eb-909a-fa9a01ce3073",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om actief deelnemen aan gesprekken.",
-		"dirty": true,
 		"prefix": "u2"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "e772c380-c471-4766-8682-e2cf1c603971",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om afstemmen van taalgebruik, stemgebruik en non-verbale communicatie op communicatief doel en on- en offline context.",
-		"dirty": true,
 		"prefix": "u3"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "7820b751-6917-4b65-a374-dfc85b089fbf",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om verzamelen en inzetten van informatie afgestemd op kennis, achtergrond, standpunt en perspectief van de gesprekspartner(s).",
-		"dirty": true,
 		"prefix": "u4"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "593d1ae0-e877-4f01-88c0-05ce5c894c88",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om toepassen van gespreks- en taalconventies, passend bij de gespreksvorm.",
-		"dirty": true,
 		"prefix": "u5"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "bb651c4a-099c-4cf9-af91-999a72bd805e",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om verwoorden van kennis, ideeën en standpunten met onderbouwing.",
-		"dirty": true,
 		"prefix": "u1"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "e7f6a8c7-134e-431b-813d-dee1e4857d0e",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om vragen om toelichting, verklaring of bevestiging.",
-		"dirty": true,
 		"prefix": "u2"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "e0e8993a-fdd4-443d-a06a-68659f730ead",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om luisteren naar, doorvragen op en ter discussie stellen van de ideeën en perspectieven van gesprekspartners.",
-		"dirty": true,
 		"prefix": "u3"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "6690ddfd-19fb-4c1f-8af6-3ecf3f394ff3",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om accepteren of verwerpen van andermans ideeën met argumenten.",
-		"dirty": true,
 		"prefix": "u4"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "28a8e9fa-bef0-4a4d-9d54-e2d0b2e9c7b6",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om ontvangen en geven van feedback.",
-		"dirty": true,
 		"prefix": "u1"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "2acf621a-aa8a-48e8-9ca5-32f111e69481",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om reflecteren op het proces: de gemaakte keuzes in aanpak en strategieën tijdens en na de uitvoering van een taalactiviteit.",
-		"dirty": true,
 		"prefix": "u2"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "03148df7-82b2-4311-bc69-58b6107f4417",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om beoordelen van het product van de taalactiviteit aan de hand van aangereikte criteria.",
-		"dirty": true,
 		"prefix": "u3"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "a51376df-8674-422a-9946-e92126239349",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om formuleren van leerdoelen voor proces en product bij toekomstige taalactiviteiten.",
-		"dirty": true,
 		"prefix": "u4"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "a0fda18f-9919-40e8-ab65-c48bdd01013f",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om formuleren van leerdoelen en maken van keuzes voor toekomstige taalactiviteiten op basis van evaluatie en reflectie.",
-		"dirty": true,
-		"prefix": "DELETE"
+		"prefix": "DELETE",
+		"deleted": 1
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "a088160e-688a-4ccf-8add-02948b34321e",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om verkennen hoe letterklanken, klemtoon, intonatie en ritme samenhangen met de betekenis van taal.",
-		"dirty": true,
 		"prefix": "u1"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "975fde19-978d-4504-9ff7-cf8ad75985bb",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om inzicht tonen in de opbouw van complexe woorden om de betekenis af te leiden.",
-		"dirty": true,
 		"prefix": "u2"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "bbe3656a-62ff-429c-a30f-2de8f14fe298",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om beschrijven hoe de betekenis in complexe zinnen bepaald wordt door de woordvolgorde en de zinsdelen.",
-		"dirty": true,
 		"prefix": "u3"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "30fb4587-57f8-44ad-a181-ddd2cd16f572",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om verkennen hoe register, stijlmiddelen en opbouw van teksten een relatie heeft met het communicatieve doel.",
-		"dirty": true,
 		"prefix": "u4"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "a5cde8ce-9cee-462f-aca8-6612c2f65500",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om functioneel gebruiken van taalkundige begrippen en taalbeschouwingsstrategieën bij het redeneren over de spelling en grammatica.",
-		"dirty": true,
 		"prefix": "u5"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "ca57bc75-5e6e-4c66-871b-98c30e764d8e",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om correct formuleren op woord-, zins- en tekstniveau.",
-		"dirty": true,
 		"prefix": "u1"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "42b735b5-9e33-41ff-9229-a379919de0bb",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om verbinden van vorm en betekenis om de correcte spelling te achterhalen.",
-		"dirty": true,
 		"prefix": "u2"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "b13cd1df-7962-4d26-908b-5b717c148592",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om ontwikkelen van spellingbewustzijn en spellinggeweten.",
-		"dirty": true,
 		"prefix": "u3"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "171498c1-bf5e-4ed9-8e0d-6522c22f61c7",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om reflecteren op gemaakte keuzes in woorden en zinnen.",
-		"dirty": true,
 		"prefix": "u4"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "6deffb4b-6366-48ed-88d9-4ea4116e9ce0",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om verkennen van het eigen talige repertoire in relatie tot hoe je wilt overkomen en tot welke groepen je wilt behoren: talen en taalvariëteiten, gebaren, lichaamstaal.",
-		"dirty": true,
 		"prefix": "u1"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "54ebf950-8a25-4e57-b192-0b460dd238c6",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om experimenteren met het eigen talige repertoire in relatie tot publiek, doel en context.",
-		"dirty": true,
 		"prefix": "u2"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "f20d4dfa-1a3c-4a98-8017-ce80cc6721d1",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om reflecteren op hoe je overkomt op anderen op basis van bewuste keuzes in je eigen talige repertoire.",
-		"dirty": true,
 		"prefix": "u3"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "03af05b3-8174-4b58-9dca-623afe96e187",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om reflecteren op hoe andere mensen hun talig repertoire benutten om uiting te geven aan hun identiteit.",
-		"dirty": true,
 		"prefix": "u4"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "df4cf92d-29b9-4190-b28a-519fbfe704fc",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om waarderen van het eigen talige repertoire.",
-		"dirty": true,
 		"prefix": "u5"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "17f804bb-45b2-4ad9-aa9b-426f93bc1e88",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om verkennen van verschillende taalvariëteiten van het Nederlands: school- en vaktaal, groeps- en streektalen en talen in beroepscontexten.",
-		"dirty": true,
 		"prefix": "u1"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "c915ca8a-079d-4985-8824-90b8467ea9c9",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om vergelijken van de contexten waarin verschillende talen en taalvariëteiten worden gebruikt.",
-		"dirty": true,
 		"prefix": "u2"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "ce4f2edd-0c47-42a7-92d5-29f5dbd4a8ac",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om herkennen van overeenkomsten en verschillen tussen het Nederlands en andere talen en taalvariëteiten op klank-, woord- en zinsniveau.",
-		"dirty": true,
 		"prefix": "u3"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "8374d6dd-bcfe-482e-9655-cff7ef373d9d",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om reflecteren op overtuigingen over verschillende talen en taalvariëteiten.",
-		"dirty": true,
 		"prefix": "u4"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "500cecff-4a39-4ab4-983a-7a12e4043dfd",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
@@ -3456,11 +3227,10 @@
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
 		"description": "Concept - Het gaat hierbij om herkennen van standpunt en argumenten in teksten.",
-		"dirty": true,
 		"prefix": "u1"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "50ab9b31-a034-40a5-b2e2-e74ed9dae353",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
@@ -3468,11 +3238,10 @@
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
 		"description": "Concept - Het gaat hierbij om herkennen van de context waarin de argumentatie plaatsvindt.",
-		"dirty": true,
 		"prefix": "u2"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "16e38f8a-7b3a-46a8-92b2-37b5a9cad107",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
@@ -3480,11 +3249,10 @@
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
 		"description": "Concept - Het gaat hierbij om beoordelen van de geloofwaardigheid van de betoger.",
-		"dirty": true,
 		"prefix": "u3"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "5752b62a-4cd2-491b-a3d0-a7d6b8428f85",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
@@ -3492,11 +3260,10 @@
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
 		"description": "Concept - Het gaat hierbij om beschrijven hoe gevoelens worden opgeroepen bij het publiek.",
-		"dirty": true,
 		"prefix": "u4"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "782e4867-0192-44d3-8242-a93e0bd9bca3",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
@@ -3504,66 +3271,62 @@
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
 		"description": "Concept - Het gaat hierbij om verkennen hoe literatuur door de eeuwen heen wordt doorgegeven.",
-		"dirty": true,
-		"prefix": "DELETE"
+		"prefix": "DELETE",
+		"deleted": 1
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "fce4c74b-60c9-4f7d-9e5d-146a5f5f8d45",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om onderscheiden van poëzie-, proza- en dramateksten op basis van genrekenmerken.",
-		"dirty": true,
 		"prefix": "u1"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "2075a809-5fbd-4718-bf90-271fc3262853",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om benoemen van het effect op de leesbeleving van verschillende genrekenmerken.",
-		"dirty": true,
 		"prefix": "u2"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "204fd921-3b3e-40b8-b5f0-db35efff53aa",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om analyseren van kenmerkend taalgebruik in literaire genres: figuurlijk taalgebruik, stijlfiguren, rijm en ritme.",
-		"dirty": true,
 		"prefix": "u3"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "a2428383-cd5f-43bc-b739-8e1fcfbdc07c",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om analyseren van kenmerkende visuele elementen in literaire genres: illustraties, vormgeving, typografie.",
-		"dirty": true,
 		"prefix": "u4"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "e181cb1d-2472-4a0d-bd35-3d3418704f8d",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om beschrijven waar, wanneer en onder welke omstandigheden een verhaal zich afspeelt.",
-		"dirty": true,
-		"prefix": "DELETE"
+		"prefix": "DELETE",
+		"deleted": 1
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "0359e292-78bc-4bbd-954c-651426dc92c5",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
@@ -3571,11 +3334,10 @@
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
 		"description": "Concept - Het gaat hierbij om beschrijven van verschillen en overeenkomsten tussen oudere en hedendaagse literatuur.",
-		"dirty": true,
 		"prefix": "u1"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "035837e2-17e8-4c75-8844-05bef5fdbff9",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
@@ -3583,11 +3345,10 @@
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
 		"description": "Concept - Het gaat hierbij om beschrijven van verschillen en overeenkomsten tussen versies van literaire teksten.",
-		"dirty": true,
 		"prefix": "u2"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "348d776d-aca9-4cd6-b422-c5e3dd4e2f41",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
@@ -3595,11 +3356,10 @@
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
 		"description": "Concept - Het gaat hierbij om beschrijven van relaties tussen de periode en context waarin de tekst is geschreven en het wereldbeeld van de schrijver.",
-		"dirty": true,
 		"prefix": "u3"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "95b43e1b-871c-405d-ae6b-b96b76a7b4a9",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
@@ -3607,260 +3367,237 @@
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
 		"description": "Concept - Het gaat hierbij om beschrijven van opgedane inzichten over historische tijdvakken.",
-		"dirty": true,
 		"prefix": "u4"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "a562ce4b-2f13-49de-bab1-56127f893caa",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om lezen en beluisteren van boeken en teksten, van verschillende schrijvers en literaire genres.",
-		"dirty": true,
 		"prefix": "u1"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "b1c160e4-9ab7-4377-93f5-2f52c658b716",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om geven van een waardeoordeel over gelezen of beluisterde boeken en teksten op basis van literaire genres, eigen interesse en belevingswereld.",
-		"dirty": true,
 		"prefix": "u2"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "58d7bb3e-205d-4a40-ae88-370a3774802c",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om aangaan van nieuwe leesuitdagingen op basis van eerdere lees-, luister- en kijkervaringen.",
-		"dirty": true,
 		"prefix": "u3"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "36e69179-2816-4613-bf45-687287202dee",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om beargumenteren van persoonlijke voorkeur op basis van reflectie op ervaringen met literatuur.",
-		"dirty": true,
 		"prefix": "u4"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "d88101fc-2aae-43cb-b21e-6f74337dc154",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om verwoorden van persoonlijke leeservaring en -beleving na het lezen van literatuur.",
-		"dirty": true,
 		"prefix": "u1"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "512d6152-be29-4199-89f9-3e839414c9fc",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om verwoorden van opgedane inzichten en kennis over zichzelf op basis van literatuur.",
-		"dirty": true,
 		"prefix": "u2"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "dd453fa7-344f-473c-b74d-c28d49df8c65",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om verwoorden van opgedane inzichten en kennis over anderen op basis van literatuur.",
-		"dirty": true,
 		"prefix": "u3"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "afae381b-a84f-48e0-9449-572a66438a15",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om verwoorden van opgedane inzichten en kennis over de wereld en culturen op basis van literatuur.",
-		"dirty": true,
 		"prefix": "u4"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "d98f01dd-90b1-4e09-933e-5270e0d6e4a1",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Te denken valt aan lezen, vergelijken en bespreken van teksten van verschillende literaire genres, zoals een sonnet, detectives en biografieën.",
-		"dirty": true,
-		"prefix": "DELETE"
+		"prefix": "DELETE",
+		"deleted": 1
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "94335125-e256-4bbc-b990-d01a08bc7c6a",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om beschrijven welk probleem of welke wens van een hoofdpersoon de motor van het verhaal is en hoe het verhaal zich ontwikkelt.",
-		"dirty": true,
 		"prefix": "u1"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "1216e8a5-63fb-4642-a6fc-59b9b06adaa3",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om beschrijven van de verschillende rollen van personages, hun karakter en ontwikkeling.",
-		"dirty": true,
 		"prefix": "u2"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "27b27a12-326f-4dff-8b41-072b02e925c8",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om beschrijven hoe een schrijver verschillende verteltechnieken gebruikt om bepaalde effecten te bereiken.",
-		"dirty": true,
 		"prefix": "u3"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "40c99d9c-9a02-4bde-a395-01479d9427d4",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "Concept - Het gaat hierbij om beschrijven hoe tijd, plaats en omstandigheden het verhaal beïnvloeden.",
-		"dirty": true,
 		"prefix": "u4"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"description": "Concept - Het gaat hierbij om aanbieden van taalactiviteiten in betekenisvolle contexten.",
 		"id": "8f2405a3-0708-4f9b-a955-16ab877e2bc9",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
-		"dirty": true,
 		"prefix": "u1"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"description": "Concept - Het gaat hierbij om aanbieden van een veelzijdig en actueel aanbod van jeugdliteratuur binnen een vaste leesroutine.",
 		"id": "d0cd729e-b8ac-4b51-8eaf-c891a1622eda",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
-		"dirty": true,
 		"prefix": "u2"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"description": "Concept - Het gaat hierbij om aanbieden van kennis en vaardigheden uit het leergebied Nederlands in onderlinge samenhang.",
 		"id": "360a5406-c3e3-4e49-9d14-3c4d71d56dfd",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
-		"dirty": true,
 		"prefix": "u3"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"description": "Concept - Het gaat hierbij om stimuleren van de leesmotivatie en de durf om te spreken en te schrijven.",
 		"id": "fa0933e0-1fcd-47f9-81f1-5ef7c6f93653",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
-		"dirty": true,
 		"prefix": "u4"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"description": "Concept - Het gaat hierbij om ruimte bieden aan verschillende talen en taalvariëteiten van leerlingen.",
 		"id": "aea8823e-a935-4334-a7b1-6c733fe8b8e9",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
-		"dirty": true,
 		"prefix": "u5"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "208ca70f-9717-4ba9-91aa-c5d9a34fb210",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om stimuleren van betekenisvolle activiteiten waarin school- en vaktaal en vakspecifieke taalvaardigheden verworven kunnen worden.",
-		"dirty": true,
 		"prefix": "u1"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "92011225-276a-4e65-8599-39e7ccf070c5",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om stimuleren van het gebruiken van rijke teksten over inhoudelijke thema's in alle leergebieden.",
-		"dirty": true,
 		"prefix": "u2"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "91a05aaa-e0c9-4054-b40f-4a0e8f0d3a62",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om stimuleren van taalproductie en interactie in alle leergebieden.",
-		"dirty": true,
 		"prefix": "u3"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "24fdf3dd-deca-4f8c-9627-c49d4a3c7558",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om stimuleren van aandacht voor taalverzorging en taalgebruik in alle leergebieden.",
-		"dirty": true,
 		"prefix": "u4"
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"id": "3bd387ab-c4bb-4e0f-aa8f-020ccf17fc9e",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "Concept - Het gaat hierbij om aanbieden van een schoolbrede set van aanpakken en flexibel inzetbare strategieën bij het ondersteunen van taalactiviteiten in de andere leergebieden.",
-		"dirty": true,
 		"prefix": "u5"
 	},
 	{
@@ -11180,7 +10917,7 @@
 		"unreleased": true
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"description": "Concept - Het gaat hierbij om grafische representaties: diagrammen, grafieken en infographics.",
 		"prefix": "u6",
 		"niveau_id": [
@@ -11191,7 +10928,7 @@
 		"unreleased": true
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"description": "Concept - Het gaat hierbij om onderscheiden van correlatie en causaliteit.",
 		"prefix": "u11",
 		"niveau_id": [
@@ -11203,7 +10940,7 @@
 		"unreleased": true
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"description": "Concept - Het gaat hierbij om redeneren met hoeken en eigenschappen van hoeken in meetkundige figuren.",
 		"prefix": "u6",
 		"niveau_id": [
@@ -11215,7 +10952,7 @@
 		"unreleased": true
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"description": "Concept - Het gaat hierbij om beschrijven van mogelijkheden en beperkingen in de bruikbaarheid van algoritmes.",
 		"prefix": "u5",
 		"niveau_id": [
@@ -11226,7 +10963,7 @@
 		"unreleased": true
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"description": "Concept - Het gaat hierbij om flexibel toepassen van verschillende aanpakken en begripsverhogende strategieën.",
 		"prefix": "u6",
 		"niveau_id": [
@@ -11237,7 +10974,7 @@
 		"unreleased": true
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"description": "Concept - Het gaat hierbij om reviseren van de tekst met het oog op doelgerichte communicatie: taalgebruik en taalverzorging.",
 		"prefix": "u5",
 		"niveau_id": [
@@ -11248,7 +10985,7 @@
 		"unreleased": true
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"description": "Concept - Het gaat hierbij om schrijven op letter-, schrift- en tekstniveau met een leesbaar handschrift en typschrift.",
 		"prefix": "u5",
 		"niveau_id": [
@@ -11259,7 +10996,7 @@
 		"unreleased": true
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"description": "Concept - Het gaat hierbij om samenvatten van inzichten, verwoorden van oplossingen of trekken van conclusies.",
 		"prefix": "u5",
 		"niveau_id": [
@@ -11270,7 +11007,7 @@
 		"unreleased": true
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"description": "Concept - Het gaat hierbij om inzetten van hulpmiddelen en bronnen om regels en procedures correct toe te passen en teksten te redigeren.",
 		"prefix": "u5",
 		"niveau_id": [
@@ -11281,7 +11018,7 @@
 		"unreleased": true
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"description": "Concept - Het gaat hierbij om verkennen van veranderingen in taalgebruik onder invloed van tijd, media en maatschappelijke ontwikkelingen.",
 		"prefix": "u5",
 		"niveau_id": [
@@ -11292,7 +11029,7 @@
 		"unreleased": true
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"description": "Concept - Het gaat hierbij om flexibel toepassen van verschillende aanpakken en begripsverhogende strategieën.",
 		"prefix": "u6",
 		"niveau_id": [
@@ -11303,7 +11040,7 @@
 		"unreleased": true
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"description": "Concept - Het gaat hierbij om schrijven op letter-, schrift- en tekstniveau met een leesbaar handschrift en typschrift.",
 		"prefix": "u5",
 		"niveau_id": [
@@ -11314,7 +11051,7 @@
 		"unreleased": true
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"description": "Concept - Het gaat hierbij om samenvatten van inzichten, verwoorden van oplossingen of trekken van conclusies.",
 		"prefix": "u5",
 		"niveau_id": [
@@ -11325,7 +11062,7 @@
 		"unreleased": true
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"description": "Concept - Het gaat hierbij om inzetten van hulpmiddelen en bronnen om regels en procedures correct toe te passen en teksten te redigeren.",
 		"prefix": "u5",
 		"niveau_id": [
@@ -11336,7 +11073,7 @@
 		"unreleased": true
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"description": "Concept - Het gaat hierbij om verkennen van veranderingen in taalgebruik onder invloed van tijd, media en maatschappelijke ontwikkelingen.",
 		"prefix": "u5",
 		"niveau_id": [
@@ -11347,7 +11084,7 @@
 		"unreleased": true
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"description": "Concept - Het gaat hierbij om benoemen van kenmerken met betrekking tot context, doel, inhoud en vorm, passend bij een genre.",
 		"prefix": "u1",
 		"niveau_id": [
@@ -11359,7 +11096,7 @@
 		"unreleased": true
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"description": "Concept - Het gaat hierbij om herkennen van genrespecifieke kenmerken van taalgebruik.",
 		"prefix": "u2",
 		"niveau_id": [
@@ -11371,7 +11108,7 @@
 		"unreleased": true
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"description": "Concept - Het gaat hierbij om reflecteren op gebruik van genrekenmerken in relatie tot het communicatieve doel.",
 		"prefix": "u3",
 		"niveau_id": [
@@ -11383,7 +11120,7 @@
 		"unreleased": true
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"description": "Concept - Het gaat hierbij om lezen, bekijken of beluisteren van literatuur uit verschillende tijden.",
 		"prefix": "u1",
 		"niveau_id": [
@@ -11394,7 +11131,7 @@
 		"unreleased": true
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"description": "Concept - Het gaat hierbij om verkennen van de tijd en context waarin het verhaal geschreven is.",
 		"prefix": "u2",
 		"niveau_id": [
@@ -11405,7 +11142,7 @@
 		"unreleased": true
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"description": "Concept - Het gaat hierbij om benoemen van verschillen en overeenkomsten tussen historische teksten en de eigen tijd, leef- en belevingswereld.",
 		"prefix": "u3",
 		"niveau_id": [
@@ -11416,7 +11153,7 @@
 		"unreleased": true
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"description": "Concept - Het gaat hierbij om benoemen van universele thema’s in literatuur door de tijd heen.",
 		"prefix": "u4",
 		"niveau_id": [
@@ -11427,7 +11164,7 @@
 		"unreleased": true
 	},
 	{
-		"title": "xxxxx",
+		"title": "",
 		"description": "Concept - Het gaat hierbij om herkennen van literair-culturele sporen in literatuur uit heden en verleden.",
 		"prefix": "u5",
 		"niveau_id": [

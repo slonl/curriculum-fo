@@ -122,13 +122,5 @@
 		"replaces": [
 			"fcfd6fc2-8c96-4899-baa4-c891ed5cfc30"
 		]
-	},
-	{
-		"title": "Testsubdomein",
-		"fo_doelzin_id": [
-			"f467fe1d-210b-4d4f-b65a-df8ff29c59f8"
-		],
-		"prefix": "t",
-		"id": "e22afb99-0164-4b82-a8ec-b97898dc8484"
 	}
 ]
