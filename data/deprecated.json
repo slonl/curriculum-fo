@@ -360,5 +360,1382 @@
 		"types": [
 			"fo_domein"
 		]
+	},
+	{
+		"title": "Taalvaardigheid",
+		"fo_doelzin_id": [
+			"75ee36f1-4e54-48fa-8e0e-09bca848fa15",
+			"907bc4e8-3eb8-482f-8fc0-93bc33e50f62",
+			"be096fc3-d3c5-4b21-82df-0601b31c0ca2",
+			"8152fce2-4971-4632-a6b2-6e76804dad49",
+			"64ccb673-e75c-4ef1-9274-311e7910bba4",
+			"af47a22d-dd64-4fcf-a147-7c830d53e5e8",
+			"254caadd-5870-4458-9a11-ef71a0c69ce0",
+			"c6136156-dd19-4391-b4cf-544d6e15ce17",
+			"44c10504-afb2-4275-879c-bf840f7ef6e3",
+			"50ec048a-8295-413c-b3f9-18b14504a8af",
+			"4b8b8c36-9b85-4c23-98b2-9edc18da8de9",
+			"04afcc55-a280-4b92-a19a-c13b653c7381",
+			"9f51f9d0-3f95-4179-a0f5-cc905e85be8e",
+			"70191486-92d4-4c68-9793-6602e6c29423",
+			"9561782a-e1ca-442c-86c0-a0eec8cdae2f",
+			"65816e71-4f8a-4e8d-bdad-c2cf4d745a17",
+			"580a18b5-d619-4782-85f2-e7e644867b5e",
+			"7fe4ff43-f868-4988-b36f-67eb6864caed",
+			"c320e4ec-5149-4a41-919f-1d1c7fbf83ce",
+			"1467bb9c-0fd1-44c5-a364-06df8dbcb19e",
+			"07c3d5ad-952d-4fef-b892-93bcab2bb8fe",
+			"e0d648b3-c8ee-48d5-b43d-fa2cc26d4a39",
+			"8a8b3298-09af-4fdc-81be-e6964dbe7270",
+			"8d464645-eeee-4d02-96cc-f44aad0440d3",
+			"2f7f4626-6f7f-46fa-8128-74a2a742fc66",
+			"1b68cbd8-cb1f-4c8c-8fb2-61c319544afa",
+			"bd0564a3-651d-48fb-b2e5-cee16e885c4e",
+			"a6065e1e-ea03-4508-b251-4308a8590b58",
+			"95e9463d-3b66-4c83-ba37-c7e932a8f24e"
+		],
+		"prefix": "1",
+		"id": "ec631940-2fa2-4104-8534-48c321938064",
+		"replacedBy": [],
+		"types": [
+			"fo_subdomein"
+		]
+	},
+	{
+		"title": "Interactie",
+		"fo_doelzin_id": [
+			"2744a98d-e0af-4127-bf97-37b3ea359a02",
+			"5d349652-de45-4a35-8de6-b7ce54a461cc",
+			"59c23efd-bdd7-43b0-ba0c-e518dca752a3",
+			"35ae3aa0-5100-4e9a-9f8e-2d3281487d83",
+			"090162f7-130a-481d-8d65-3757c348da06",
+			"297f334e-520b-4065-8c96-0f1b55ca11a3",
+			"5b9679fb-664e-4dbe-8146-d887df590370",
+			"f0ba095c-2dda-4417-bc08-601369756749",
+			"f49f8889-3256-4737-90d3-eabbafb6903b",
+			"b7c23d6d-f47a-41c6-8f29-15e9c0fb6786"
+		],
+		"prefix": "2",
+		"id": "c06ef855-4173-4098-8093-faf2fc662a3d",
+		"replacedBy": [],
+		"types": [
+			"fo_subdomein"
+		]
+	},
+	{
+		"title": "Taal als systeem",
+		"fo_doelzin_id": [
+			"21725a98-baa3-45c3-b8a5-ac3026ff35e2",
+			"886e4275-3b58-4b31-b639-b64934589013",
+			"0c5c554b-3901-44f8-aaa0-6e7b63caf5fc",
+			"0a247c35-3e9a-48b9-bebd-1ab6810c5b48",
+			"91f9a7f4-0f4d-43bb-b564-0e8bcd56679a",
+			"7277cd75-566e-4dcb-9086-e9379f42970c",
+			"fca436bf-1988-4fdc-a6fd-7bc87fdebbf7",
+			"fa700a59-bc55-4039-b320-a2d4ec25b32d",
+			"838eb09e-0666-4e6a-ba8d-1df26bb00b70",
+			"4e193aaf-3325-4495-8371-e7d1cce8460c"
+		],
+		"prefix": "1",
+		"id": "7d7429dc-a684-402b-9de2-70cbde32fe2e",
+		"replacedBy": [],
+		"types": [
+			"fo_subdomein"
+		]
+	},
+	{
+		"title": "Taal en individu & maatschappij",
+		"fo_doelzin_id": [
+			"056fbb68-129a-454e-98d8-72eb67c0ba03",
+			"86df4812-465c-49af-83f6-1d3885326e47",
+			"d9344c6e-2b0d-4cb0-9055-6a990b9b16f0",
+			"68d3d4e0-b62d-4017-bcfd-f773dfc1773f",
+			"ea4f56f1-e2b4-471c-8146-daf144b3209c",
+			"450eefee-b96e-4379-9646-9254bf482f9a",
+			"1c55976c-7e3c-4658-9b01-5557ebb46b84",
+			"27c0b6ff-339a-4335-ba4c-859469b40252",
+			"01ada9cf-586f-425e-b01b-d16d4909c3c4"
+		],
+		"prefix": "2",
+		"id": "c4bc56e6-5bf7-4f82-8cb8-e87e4874d262",
+		"replacedBy": [],
+		"types": [
+			"fo_subdomein"
+		]
+	},
+	{
+		"title": "Literatuur en individu & maatschappij",
+		"fo_doelzin_id": [
+			"0081d62f-1e75-4835-b586-12d01ce252b9",
+			"23003d19-a582-44d0-94ad-be0c2013e6be",
+			"dd67bb77-033b-4e01-a8a6-08b75ea8a7ec",
+			"d385da82-ed53-4ad6-9617-38bd67a44178",
+			"0a6cd39a-020f-4449-8a0c-b283f1d271ff",
+			"1a6c3f41-f76d-419a-850c-7a4a9071ff88",
+			"a0798be3-9352-491a-8a27-734489a717b9",
+			"7e5457eb-22ee-4684-aede-94cb9b6ee8fd"
+		],
+		"prefix": "2",
+		"id": "0c5615c5-79a0-4e1e-9514-37d37483c4d4",
+		"replacedBy": [],
+		"types": [
+			"fo_subdomein"
+		]
+	},
+	{
+		"title": "Literatuur als systeem",
+		"fo_doelzin_id": [
+			"012306f2-bb1c-44ce-9548-16efc4ef8c3e",
+			"19ba7c42-1e92-4b9f-9c9f-32e894b19af2",
+			"0f2d88a0-c594-48d2-835c-c1953eb284d0",
+			"f5e9675d-503f-4242-837f-33407b9a033e",
+			"6e65d06a-e919-4165-8e22-a98db5fb0d87",
+			"43fff266-82a2-4998-bab7-914b8b9035cd",
+			"f467fe1d-210b-4d4f-b65a-df8ff29c59f8"
+		],
+		"prefix": "1",
+		"id": "74c790e2-acb0-4acb-9caf-b6cbb69300eb",
+		"replaces": [
+			"fcfd6fc2-8c96-4899-baa4-c891ed5cfc30"
+		],
+		"replacedBy": [],
+		"types": [
+			"fo_subdomein"
+		]
+	},
+	{
+		"description": "Concept - De leerling verkent de verandering van het Nederlands onder invloed van tijd en maatschappelijke ontwikkelingen.",
+		"title": "Beheersingsdoel; Taalverandering",
+		"fo_uitwerking_id": [
+			"5474c008-6a99-4d5c-ab66-78f1d8a42e08",
+			"5a0e762e-a4f0-47f9-a917-3c7d82c93815",
+			"5d97db59-b393-4a0e-b6a1-8f242576fec6"
+		],
+		"fo_toelichting_id": [
+			"ce096651-7023-4f7c-a44d-efa85dd73475",
+			"423f7043-3b29-4850-a7d6-aa17260f1b17",
+			"8113318b-f2f6-4839-871a-373625791dc1",
+			"1fcfc735-680c-4f8a-9937-8316294b26f7"
+		],
+		"prefix": "DELETE",
+		"id": "d9344c6e-2b0d-4cb0-9055-6a990b9b16f0",
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0,
+		"replacedBy": [],
+		"types": [
+			"fo_doelzin"
+		]
+	},
+	{
+		"description": "Concept - De school biedt wiskundige concepten en wiskundige denk/werkwijzen in onderlinge samenhang aan.",
+		"title": "Aanbodsdoel",
+		"fo_uitwerking_id": [
+			"e313dc04-d873-4fe8-867b-e4b79fdcfd45",
+			"bdbb5401-1716-4299-872a-9083a4306e5b",
+			"4c78d3ae-c7a3-4ba9-bb8f-876edfa3c3d5",
+			"c8b02a12-4af4-4407-bb8a-fb4b780e8cf8"
+		],
+		"fo_toelichting_id": [
+			"811674e7-1f09-4125-9d48-64bb9eabee57",
+			"a621ab04-7b7b-4094-9e74-c4ff65357850"
+		],
+		"prefix": "D3.16",
+		"id": "ec3fe6d1-5f47-425f-8075-df6b98c605b7",
+		"replacedBy": [],
+		"types": [
+			"fo_doelzin"
+		]
+	},
+	{
+		"description": "Concept - De school biedt wiskundige concepten en wiskundige denk/werkwijzen in onderlinge samenhang aan",
+		"title": "Aanbodsdoel",
+		"fo_uitwerking_id": [
+			"4a6bce45-20c5-4639-a4a4-155db19686cc",
+			"70917d43-27c5-4c06-9a7d-6b64e6fcbcec",
+			"d439e7c8-0283-41da-82c8-06ff98d8e1f3",
+			"3902bf38-48bd-41ab-8a85-91f1f753e500",
+			"fbe28710-17ad-4996-af95-81b30ccd7f56"
+		],
+		"fo_toelichting_id": [
+			"23fe0fae-895f-4f94-975f-a6bc4a22412b",
+			"c4f0dd15-1997-496d-ac26-1bab6ef7a827",
+			"ef2d600e-6852-43f1-a529-00e6985460a8"
+		],
+		"prefix": "DELETE",
+		"id": "9c5c8409-4d99-407e-a23c-18fd88d63de4",
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0,
+		"replacedBy": [],
+		"types": [
+			"fo_doelzin"
+		]
+	},
+	{
+		"title": "",
+		"id": "3accb55d-9dd6-4cf9-9e46-564d2cd35720",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725",
+			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
+		],
+		"description": "Concept - Het gaat hierbij om schrijven op letter-, schrift- en tekstniveau met een leesbaar handschrift en typschrift.",
+		"prefix": "DELETE",
+		"replacedBy": [],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"title": "",
+		"id": "39c4e18e-15a9-4498-b43c-ab6b36bf87b1",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725",
+			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
+		],
+		"description": "Concept - Het gaat hierbij om formuleren van een eenvoudige tekst op basis van geselecteerde informatie, afgestemd op doel, publiek en context.",
+		"prefix": "DELETE",
+		"replacedBy": [],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"title": "",
+		"id": "e6229dbf-36fb-496e-8dad-e1c60c09e9f8",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725",
+			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
+		],
+		"description": "Concept - Het gaat hierbij om beargumenteren en samenvatten van standpunten, opgedane kennis, beslissingen of gekozen aanpak.",
+		"prefix": "DELETE",
+		"replacedBy": [],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"title": "",
+		"id": "5474c008-6a99-4d5c-ab66-78f1d8a42e08",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725",
+			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
+		],
+		"description": "Concept - Het gaat hierbij om herkennen van verschillen tussen taalgebruik van vroeger en nu in gesproken en geschreven teksten.",
+		"prefix": "DELETE",
+		"replacedBy": [],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"title": "",
+		"id": "5a0e762e-a4f0-47f9-a917-3c7d82c93815",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725",
+			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
+		],
+		"description": "Concept - Het gaat hierbij om onderscheiden van veranderingen in vorm, betekenis en gebruik.",
+		"prefix": "DELETE",
+		"replacedBy": [],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"title": "",
+		"id": "5d97db59-b393-4a0e-b6a1-8f242576fec6",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725",
+			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
+		],
+		"description": "Concept - Het gaat hierbij om herkennen van nieuwe woorden en uitdrukkingen in het Nederlands onder invloed van media, digitalisering en andere talen.",
+		"prefix": "DELETE",
+		"replacedBy": [],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"title": "",
+		"id": "adc47cdb-0fed-43bf-8240-16c3ab540cda",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725",
+			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
+		],
+		"description": "Concept - Het gaat hierbij om beschrijven waar, wanneer en onder welke omstandigheden een verhaal zich afspeelt.",
+		"prefix": "DELETE",
+		"replacedBy": [],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"title": "",
+		"id": "74290fe8-aca3-448b-b192-7019037cb5e6",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725",
+			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
+		],
+		"description": "Concept - Het gaat hierbij om geven van een waardeoordeel over de tekst.",
+		"prefix": "DELETE",
+		"replacedBy": [],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"title": "",
+		"id": "73643c82-8ef9-4026-bdfb-0e153893d222",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725",
+			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
+		],
+		"description": "Concept - Het gaat hierbij om herkennen of een probleem met wiskunde kan worden opgelost.",
+		"replacedBy": [],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"title": "",
+		"id": "1281997e-c637-453a-84f2-a91d2699382a",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725",
+			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
+		],
+		"description": "Concept - Het gaat hierbij om toepassen van modelgebruik en algoritmisch denken in andere leergebieden.",
+		"replacedBy": [],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"title": "",
+		"id": "c9c6ed82-a8bb-48a6-adea-9ed7c207771e",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"description": "Concept - Het gaat hierbij om gebruiken van een model om te redeneren over een situatie.",
+		"prefix": "DELETE",
+		"replacedBy": [],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"title": "",
+		"id": "2db47992-145e-4457-a2be-07478ba8908c",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"description": "Concept - Het gaat hierbij om toepassen van modelgebruik en algoritmisch denken in andere leergebieden.",
+		"prefix": "DELETE",
+		"replacedBy": [],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"title": "",
+		"id": "4a6bce45-20c5-4639-a4a4-155db19686cc",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"description": "Concept - Het gaat hierbij om leerlingen aanmoedigen om wiskundetaal en wiskundige representaties te gebruiken die passen bij de verschillende wiskundige concepten.",
+		"prefix": "DELETE",
+		"replacedBy": [],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"title": "",
+		"id": "70917d43-27c5-4c06-9a7d-6b64e6fcbcec",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"description": "Concept - Het gaat hierbij om laten gebruiken van wiskundige instrumenten.",
+		"prefix": "DELETE",
+		"replacedBy": [],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"title": "",
+		"id": "d439e7c8-0283-41da-82c8-06ff98d8e1f3",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"description": "Concept - Het gaat hierbij om aanbieden van problemen met betrekking tot verschillende wiskundige concepten.",
+		"prefix": "DELETE",
+		"replacedBy": [],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"title": "",
+		"id": "3902bf38-48bd-41ab-8a85-91f1f753e500",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"description": "Concept - Het gaat hierbij om gebruiken van modellen en algoritmisch denken bij verschillende wiskundige concepten.",
+		"prefix": "DELETE",
+		"replacedBy": [],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"title": "",
+		"id": "fbe28710-17ad-4996-af95-81b30ccd7f56",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"description": "Concept - Het gaat hierbij om leerlingen vragen om beweringen over verschillende wiskundige concepten aan te tonen.",
+		"prefix": "DELETE",
+		"replacedBy": [],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"title": "",
+		"description": "Concept - Het gaat hierbij om stimuleren om vragen te stellen bij concrete getalsmatige en wiskundige informatie.",
+		"prefix": "DELETE",
+		"id": "89775bfc-1ca1-4afc-8107-6604fe1c9fbc",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"replacedBy": [],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"title": "",
+		"id": "a0fe8562-bd97-4df5-a15c-25d677a9b22d",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"description": "Concept - Het gaat hierbij om formuleren van een gestructureerde tekst op basis van geselecteerde informatie, afgestemd op doel, publiek en context.",
+		"prefix": "DELETE",
+		"replacedBy": [],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"title": "",
+		"id": "a0fda18f-9919-40e8-ab65-c48bdd01013f",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"description": "Concept - Het gaat hierbij om formuleren van leerdoelen en maken van keuzes voor toekomstige taalactiviteiten op basis van evaluatie en reflectie.",
+		"prefix": "DELETE",
+		"replacedBy": [],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"title": "",
+		"id": "782e4867-0192-44d3-8242-a93e0bd9bca3",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59",
+			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		],
+		"description": "Concept - Het gaat hierbij om verkennen hoe literatuur door de eeuwen heen wordt doorgegeven.",
+		"prefix": "DELETE",
+		"replacedBy": [],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"title": "",
+		"id": "e181cb1d-2472-4a0d-bd35-3d3418704f8d",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"description": "Concept - Het gaat hierbij om beschrijven waar, wanneer en onder welke omstandigheden een verhaal zich afspeelt.",
+		"prefix": "DELETE",
+		"replacedBy": [],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"title": "",
+		"id": "d98f01dd-90b1-4e09-933e-5270e0d6e4a1",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"description": "Concept - Te denken valt aan lezen, vergelijken en bespreken van teksten van verschillende literaire genres, zoals een sonnet, detectives en biografieën.",
+		"prefix": "DELETE",
+		"replacedBy": [],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"title": "",
+		"id": "5ee14da2-c0b2-4233-ab38-314e050659c4",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725",
+			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
+		],
+		"description": "",
+		"prefix": "DELETE",
+		"replacedBy": [],
+		"types": [
+			"fo_toelichting"
+		]
+	},
+	{
+		"title": "",
+		"id": "159cdc9c-ffa1-45de-b65c-e34e5d0e6355",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725",
+			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
+		],
+		"description": "",
+		"prefix": "DELETE",
+		"replacedBy": [],
+		"types": [
+			"fo_toelichting"
+		]
+	},
+	{
+		"title": "",
+		"id": "ce096651-7023-4f7c-a44d-efa85dd73475",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725",
+			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
+		],
+		"description": "",
+		"prefix": "DELETE",
+		"replacedBy": [],
+		"types": [
+			"fo_toelichting"
+		]
+	},
+	{
+		"title": "",
+		"id": "423f7043-3b29-4850-a7d6-aa17260f1b17",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725",
+			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
+		],
+		"description": "",
+		"prefix": "DELETE",
+		"replacedBy": [],
+		"types": [
+			"fo_toelichting"
+		]
+	},
+	{
+		"title": "",
+		"id": "8113318b-f2f6-4839-871a-373625791dc1",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725",
+			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
+		],
+		"description": "",
+		"prefix": "DELETE",
+		"replacedBy": [],
+		"types": [
+			"fo_toelichting"
+		]
+	},
+	{
+		"title": "",
+		"id": "1fcfc735-680c-4f8a-9937-8316294b26f7",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725",
+			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
+		],
+		"description": "",
+		"prefix": "DELETE",
+		"replacedBy": [],
+		"types": [
+			"fo_toelichting"
+		]
+	},
+	{
+		"title": "Concept - Te denken valt aan vaststellen of een algoritme kan worden toegepast in een bepaalde situatie.",
+		"id": "4f26a633-8773-46cf-a3ec-88ae6b1c3a0a",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725",
+			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
+		],
+		"replacedBy": [],
+		"types": [
+			"fo_toelichting"
+		]
+	},
+	{
+		"title": "",
+		"id": "23fe0fae-895f-4f94-975f-a6bc4a22412b",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"description": "Concept - Te denken valt aan aanbieden van formele wiskundetaal als vervanging van informeel taalgebruik.",
+		"prefix": "DELETE",
+		"replacedBy": [],
+		"types": [
+			"fo_toelichting"
+		]
+	},
+	{
+		"title": "",
+		"id": "c4f0dd15-1997-496d-ac26-1bab6ef7a827",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"description": "Concept - Te denken valt aan algoritmisch denken toepassen bij getallen en andere wiskundige concepten.",
+		"prefix": "DELETE",
+		"replacedBy": [],
+		"types": [
+			"fo_toelichting"
+		]
+	},
+	{
+		"title": "",
+		"id": "ef2d600e-6852-43f1-a529-00e6985460a8",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"description": "Concept - Te denken valt aan een eigenschap van bewerkingen laten zien met meetkundige figuren, zoals de commutatieve eigenschap van vermenigvuldigen van twee getallen laten zien met een rechthoekmodel.",
+		"prefix": "DELETE",
+		"replacedBy": [],
+		"types": [
+			"fo_toelichting"
+		]
+	},
+	{
+		"title": "",
+		"id": "9adfd27c-2e9b-4376-8918-8b2d94c55668",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59",
+			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		],
+		"description": "Concept - Te denken valt aan voorbereiden van een presentatie waarbij informatie uit verschillende bronnen vergeleken en geïntegreerd wordt.",
+		"prefix": "DELETE",
+		"replacedBy": [],
+		"types": [
+			"fo_toelichting"
+		]
+	},
+	{
+		"title": "",
+		"id": "235c19a6-5d25-4fbf-9d61-a01372849a8d",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59",
+			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		],
+		"description": "Concept - Te denken valt aan meenemen van leerdoelen bij het voorbereiden van een mondelinge presentatie.",
+		"prefix": "DELETE",
+		"replacedBy": [],
+		"types": [
+			"fo_toelichting"
+		]
+	},
+	{
+		"title": "",
+		"id": "6f3fb427-65db-46b5-a533-61cbf4a2428d",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59",
+			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		],
+		"description": "Concept - Te denken valt aan een argumentatieschema maken bij een betogende tekst over een maatschappelijk probleem, bijvoorbeeld roken.",
+		"prefix": "DELETE",
+		"replacedBy": [],
+		"types": [
+			"fo_toelichting"
+		]
+	},
+	{
+		"title": "",
+		"id": "c2daf969-0f65-413e-87da-867bdbf31174",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59",
+			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		],
+		"description": "Concept - Te denken valt aan in een politiek debat benoemen of het gaat om politieke argumentatie of bijvoorbeeld medische argumentatie.",
+		"prefix": "DELETE",
+		"replacedBy": [],
+		"types": [
+			"fo_toelichting"
+		]
+	},
+	{
+		"title": "",
+		"id": "b339c1d0-742e-4b10-92e6-80a27fdc3b8c",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59",
+			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		],
+		"description": "Concept - Te denken valt aan verschillende opnames van boekpromoties vergelijken en bespreken welke het overtuigendste is.",
+		"prefix": "DELETE",
+		"replacedBy": [],
+		"types": [
+			"fo_toelichting"
+		]
+	},
+	{
+		"title": "",
+		"id": "6433b644-6e7d-4181-a5bb-42007951dc4f",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59",
+			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		],
+		"description": "Concept - Te denken valt aan verhalen en gedichten over een bepaalde historische gebeurtenis interpreteren vanuit standplaatsgebondenheid.",
+		"prefix": "DELETE",
+		"replacedBy": [],
+		"types": [
+			"fo_toelichting"
+		]
+	},
+	{
+		"title": "",
+		"id": "78ea8ad7-3f05-4841-94c1-3fa9784be69c",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59",
+			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		],
+		"description": "Concept - Te denken valt aan verwijzingen naar Arthurromans herkennen in voorbeelden van hedendaagse literatuur.",
+		"prefix": "DELETE",
+		"replacedBy": [],
+		"types": [
+			"fo_toelichting"
+		]
+	},
+	{
+		"title": "",
+		"id": "e3d4119f-23f2-461d-a2ba-1cc898b9286c",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59",
+			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		],
+		"description": "Concept - Te denken valt aan verschillende verschijningsvormen van literaire teksten over hetzelfde onderwerp op waarde schatten: een dagboekfragment, een gedicht, een historische roman en een biografie.",
+		"prefix": "DELETE",
+		"replacedBy": [],
+		"types": [
+			"fo_toelichting"
+		]
+	},
+	{
+		"title": "Taal",
+		"fo_subdomein_id": [
+			"7d7429dc-a684-402b-9de2-70cbde32fe2e",
+			"c4bc56e6-5bf7-4f82-8cb8-e87e4874d262"
+		],
+		"prefix": "B",
+		"id": "6d328b4b-a3b9-4080-a92e-de84b802907b",
+		"replacedBy": [
+			"fad1f721-dc7e-4dc8-bb75-1871ca49c109"
+		],
+		"types": [
+			"fo_domein"
+		]
+	},
+	{
+		"title": "Wiskunde en de wereld",
+		"fo_doelzin_id": [
+			"bb06ac58-b4c5-4dd6-b75f-50941ffb2380",
+			"347fe2cf-3c24-4502-8111-b811cd981675",
+			"7c5743b8-2c72-4fbd-b308-a3eea257ce07",
+			"24509a03-2564-48bc-80ff-5df287166046",
+			"ec3fe6d1-5f47-425f-8075-df6b98c605b7",
+			"9c5c8409-4d99-407e-a23c-18fd88d63de4",
+			"d17bf839-dc4f-4de7-b416-12d11a5e0add",
+			"6dea5e47-abc5-40e0-b143-358174ce4db5",
+			"052dd6d2-2732-42a1-b548-8d07a9d1687c",
+			"41846d7e-ecb0-4a26-93fb-693a444bc4de",
+			"23f99b4d-a3b8-4c0b-a7b6-527036661256",
+			"952009bc-60bc-4de9-8a19-a16aee78028f",
+			"6957f96d-fc3f-44ee-8de6-e5f2a4089bd2",
+			"f77fe97a-e430-4d8f-b21c-f9d420d604dd",
+			"a5aeb7a6-d580-4950-bbd3-b62da9d5a6b9"
+		],
+		"prefix": "D",
+		"id": "499a6542-3e4b-4595-b9b6-543591e66ae1",
+		"replacedBy": [
+			"4f3da229-5364-4dec-ac09-e4013aeeb7f3"
+		],
+		"types": [
+			"fo_domein"
+		]
+	},
+	{
+		"description": "Concept - De leerling schrijft om te komen tot kennisopbouw of begip.",
+		"title": "Beheersingsdoel; Schrijven om te leren",
+		"fo_uitwerking_id": [
+			"e3e2761b-3a2c-4731-8ce9-50ff314d0d71",
+			"e102de42-dba3-4e38-a051-fc9d504d527d",
+			"fe5d4811-95d3-454f-81dd-faaa91082e30",
+			"1d63d69e-c6af-4138-9475-7411efc9882d",
+			"3accb55d-9dd6-4cf9-9e46-564d2cd35720"
+		],
+		"fo_toelichting_id": [
+			"d2395983-a385-454f-9bdd-11dcbf6ecc3a",
+			"377fa0bf-ffbd-45cf-b593-b4b24ee92d33"
+		],
+		"prefix": "A1.6",
+		"id": "8152fce2-4971-4632-a6b2-6e76804dad49",
+		"replacedBy": [
+			"a83b3a96-6312-4962-879e-f737337db8fb"
+		],
+		"types": [
+			"fo_doelzin"
+		]
+	},
+	{
+		"description": "Concept - De leerling verwerkt informatie uit verschillende bronnen in een gesproken of geschreven tekst.",
+		"title": "Beheersingsdoel; Bronnen verwerken",
+		"fo_uitwerking_id": [
+			"ec57c2c0-eae7-42ba-93b7-0f664c4792e6",
+			"090e40a7-b4cd-4f0f-bc63-80431ca9cb93",
+			"d931c227-1e3b-42be-bf2c-09c10c47044c",
+			"39c4e18e-15a9-4498-b43c-ab6b36bf87b1"
+		],
+		"fo_toelichting_id": [
+			"30ff3d5d-04e4-4119-9f7c-46c352fa2a35",
+			"1cec9d65-4040-4f54-ad15-f8e39344a734",
+			"c7c32b37-a18e-4830-884c-3657d53b94fe"
+		],
+		"prefix": "A1.8",
+		"id": "af47a22d-dd64-4fcf-a147-7c830d53e5e8",
+		"replacedBy": [
+			"733a1b9c-981a-4124-a47d-88c232c0b338"
+		],
+		"types": [
+			"fo_doelzin"
+		]
+	},
+	{
+		"description": "Concept - De leerling voert gesprekken om tot kennisopbouw, begrip of een aanpak te komen.",
+		"title": "Beheersingsdoel; Gesprekken voeren om te leren",
+		"fo_uitwerking_id": [
+			"6dec8016-87ef-4f7d-92c6-4075a1be50f6",
+			"e1522e1f-e240-41b2-8fca-836832a70e02",
+			"8429c7ef-3ead-4399-be88-b48058c33236",
+			"89ecfad3-ebad-40aa-93b2-a9ba391c7988",
+			"e6229dbf-36fb-496e-8dad-e1c60c09e9f8"
+		],
+		"fo_toelichting_id": [
+			"c60ccb02-8e67-4995-b665-30ae90b1bdb3",
+			"ba1ead40-5bbe-43a6-9631-c7654c8424d6",
+			"08f211a0-63b9-4314-812b-1125f4a6a2a9",
+			"5ee14da2-c0b2-4233-ab38-314e050659c4"
+		],
+		"prefix": "A2.11",
+		"id": "5d349652-de45-4a35-8de6-b7ce54a461cc",
+		"replacedBy": [
+			"f728de8c-1773-41d2-9439-53fd08fe7529"
+		],
+		"types": [
+			"fo_doelzin"
+		]
+	},
+	{
+		"description": "Concept - De leerling verkent hoe je met taal uiting geeft aan je identiteiten.",
+		"title": "Beheersingsdoel; Talige identiteit",
+		"fo_uitwerking_id": [
+			"e0ee4584-c780-4502-8f6f-987b0c7fa173",
+			"ba052f11-2c42-4632-ad76-d8c78d22c4ae",
+			"76bbbbab-14f9-4117-a980-ad5a8640ff6c",
+			"cbd29bcc-e90a-4f57-a4e1-7e731fe78023"
+		],
+		"fo_toelichting_id": [
+			"d9978cd6-9688-4c15-bbb6-e027bf40ff54",
+			"c7822797-bcc8-4756-8d64-871eeab50156",
+			"c1ee6555-852b-46f2-bada-248ef72c25a8",
+			"159cdc9c-ffa1-45de-b65c-e34e5d0e6355"
+		],
+		"prefix": "B2.14",
+		"id": "056fbb68-129a-454e-98d8-72eb67c0ba03",
+		"replacedBy": [
+			"275521aa-6b60-4558-ba1b-f65b0a9ba9ad"
+		],
+		"types": [
+			"fo_doelzin"
+		]
+	},
+	{
+		"description": "Concept - De leerling verkent welke functies literatuur heeft.",
+		"title": "Beheersingsdoel; Functies van literatuur",
+		"fo_uitwerking_id": [
+			"0d7d9289-c236-406a-b62b-b77aa167a6d1",
+			"220359f4-b6d3-46d7-b6dd-2eb4ac13b148",
+			"bf3fc5d9-2650-4859-b653-38444a799832",
+			"163de4ac-8e87-4c63-ae2b-1f41c2657f9b",
+			"74290fe8-aca3-448b-b192-7019037cb5e6"
+		],
+		"fo_toelichting_id": [
+			"bb003074-2a61-4e89-91ec-066bfb691036",
+			"48ad2740-131e-4126-8a6c-e3c10b5ac944",
+			"c515e0cc-f0d2-4734-b951-578eb996c826",
+			"a3c2d4c4-ceca-4ceb-81de-25af76e4a87a"
+		],
+		"prefix": "C2.20",
+		"id": "23003d19-a582-44d0-94ad-be0c2013e6be",
+		"replacedBy": [
+			"3cb0cfa6-ab18-42d8-a8c1-902a0d2f2a6b"
+		],
+		"types": [
+			"fo_doelzin"
+		]
+	},
+	{
+		"description": "Concept - De leerling toont inzicht in verhalende teksten met behulp van kennis over verteltechnieken.",
+		"title": "Beheersingsdoel; Inzicht in verhalende teksten",
+		"fo_uitwerking_id": [
+			"77203dda-4845-4a17-8160-f34b6caf0b34",
+			"f0a5de08-0300-4213-b391-c4e774b0888d",
+			"e0af3a37-cd5c-4696-a475-f63814e5ee2a",
+			"f7201132-0227-41a9-b9a4-af4903fa7f45",
+			"adc47cdb-0fed-43bf-8240-16c3ab540cda"
+		],
+		"fo_toelichting_id": [
+			"e015b0aa-379f-42e0-84e7-8da49fc74156",
+			"19140d77-54ea-454f-a604-5b2f2c18599b",
+			"3b0c17ef-06f3-4aec-874d-72fdf840e95b",
+			"6f9bd8c8-e2a0-4880-aa53-2fca1afacefa"
+		],
+		"prefix": "C1.17",
+		"id": "012306f2-bb1c-44ce-9548-16efc4ef8c3e",
+		"replacedBy": [
+			"0d34ad1d-7ac7-4a1d-8d58-4188bccf7d17"
+		],
+		"types": [
+			"fo_doelzin"
+		]
+	},
+	{
+		"description": "Concept - De leerling lost wiskundige problemen en toepassingsproblemen op.",
+		"title": "Beheersingsdoel",
+		"fo_uitwerking_id": [
+			"73643c82-8ef9-4026-bdfb-0e153893d222",
+			"4c21658c-47bf-47e3-97ba-103c9ab619ba",
+			"0ee81375-ca5f-4ee7-aa05-dbd3e2447158",
+			"129f9de7-c14a-4a52-9709-67539d48ae22",
+			"2253ecf2-f328-4d96-8dd7-6ae6af937867"
+		],
+		"fo_toelichting_id": [
+			"dbe63d7f-eda7-4637-b07b-7f400215271b",
+			"1aedc48d-23e5-497e-a4c1-165245be0fd4",
+			"fb24bb96-8b26-42ce-91b8-b45f8d81813d",
+			"2e03c7b3-f0f6-414f-a60b-916c6ef17901"
+		],
+		"prefix": "C1.9",
+		"id": "3e321838-9e34-4db8-af4a-ca5f92e62049",
+		"replacedBy": [
+			"69cef2c4-e2db-4dfb-b002-e7d711fd6aa8"
+		],
+		"types": [
+			"fo_doelzin"
+		]
+	},
+	{
+		"description": "Concept - De leerling beschrijft en bedenkt eenvoudige algoritmen.",
+		"title": "Beheersingsdoel",
+		"fo_uitwerking_id": [
+			"777ca27c-0adf-4559-9ccd-b5797890cddf",
+			"720fd72d-0369-4157-94e5-dd28d1a0107f",
+			"30d221c5-7d08-4871-b675-0f23daa14290",
+			"75b3a809-9e22-4b54-9b9c-4e36f0ccfdef"
+		],
+		"fo_toelichting_id": [
+			"48971cbb-4f36-469c-970a-6f67e9cf4883",
+			"a58738a1-83e2-4e1a-a4ea-da9f305caaa9",
+			"1971055a-f117-41fd-ae3b-8322691cfcec",
+			"4f26a633-8773-46cf-a3ec-88ae6b1c3a0a"
+		],
+		"prefix": "C4.11",
+		"id": "b9fce428-e0b3-4524-832d-22dfb2a44af7",
+		"replacedBy": [
+			"f365f2b8-601f-4d46-9243-542bd2e0cfce"
+		],
+		"types": [
+			"fo_doelzin"
+		]
+	},
+	{
+		"description": "Concept - De school ondersteunt het gebruik van wiskunde in andere leergebieden.",
+		"title": "Aanbodsdoel",
+		"fo_uitwerking_id": [
+			"4abefb7b-fec7-4887-a04b-7bccf41df499",
+			"152671bc-31e1-4c9e-a03e-85b224529343",
+			"e2451c83-9341-41aa-99d0-e1bb0cf0c473",
+			"9c46c994-a723-4a56-bcf7-268c0243d0db",
+			"1281997e-c637-453a-84f2-a91d2699382a"
+		],
+		"fo_toelichting_id": [
+			"b883b011-7c5a-4f55-b64e-9c5313a85451",
+			"b961fa4c-0f69-496c-81f3-a85a8903110f",
+			"5bd390cb-3ab4-41eb-a591-6599793c70d1",
+			"ef16b837-227f-4544-bce6-05a83679772d",
+			"4f500c63-9c1f-4535-8ab6-2aa489052e9d"
+		],
+		"prefix": "D2.15",
+		"id": "7c5743b8-2c72-4fbd-b308-a3eea257ce07",
+		"replacedBy": [
+			"2c960103-654f-4c08-b9de-88e496443f2b"
+		],
+		"types": [
+			"fo_doelzin"
+		]
+	},
+	{
+		"description": "Concept - De leerling maakt en gebruikt abstracte modellen van situaties en problemen",
+		"title": "Beheersingsdoel",
+		"fo_uitwerking_id": [
+			"6eb2b203-8e9c-4bfe-adbf-748a52789ccc",
+			"3f28044a-3b09-4c20-9a06-53d843c7a7c7",
+			"ae84a9b6-49fa-43bf-9ae0-067a7f91c793",
+			"06a4ca9d-b50f-4df8-94ef-17ab41ccac19",
+			"c9c6ed82-a8bb-48a6-adea-9ed7c207771e",
+			"4f69a8c9-fa7d-4197-ac15-d3ce27c4bafb"
+		],
+		"fo_toelichting_id": [
+			"5a7b65bf-7a36-47fd-8628-d08b7811a91e",
+			"5f0bdbec-0f18-41fd-a4e7-d63d938b577e",
+			"c6cf42ed-9d56-49c5-99a9-c0980315afdd",
+			"4fc752f1-6f45-424b-a401-9b5fed27c852",
+			"4d303026-fa17-4813-89a1-0a0124c15a43",
+			"26e113b6-2d34-4504-b805-45d21a2c8bd7"
+		],
+		"prefix": "C2.1",
+		"id": "0c42c5f9-5e3d-477b-a4e2-09b95c9d8133",
+		"replacedBy": [
+			"70083e6d-ec38-4cf1-8a56-a9c0610ab177"
+		],
+		"types": [
+			"fo_doelzin"
+		]
+	},
+	{
+		"description": "Concept - De school stimuleert een wiskundige attitude van leerlingen.",
+		"title": "Aanbodsdoel",
+		"fo_uitwerking_id": [
+			"925b27d1-7706-40ae-906b-93fa495d64e3",
+			"89775bfc-1ca1-4afc-8107-6604fe1c9fbc",
+			"3a649a72-9d33-45ea-9021-bf266906ef8c",
+			"32596138-3a08-4873-8522-d6fde8448b9d",
+			"c0515655-ce7e-474c-8fea-5d915793634c"
+		],
+		"fo_toelichting_id": [
+			"9ea08573-8792-4283-a8f0-37c3c12ec9be",
+			"cb7bbd90-2f8b-4c1a-9704-ff4b6d53c849",
+			"e7df11c3-841a-4393-b51d-efbd0cd1aac0",
+			"be110d51-ea5d-4549-bc37-a3d739e5b797"
+		],
+		"prefix": "A1.1",
+		"id": "718ea081-6bc6-45d3-84dc-f8aabf7a13e6",
+		"replacedBy": [
+			"e0253abd-e528-42c3-8970-2d337901f02d"
+		],
+		"types": [
+			"fo_doelzin"
+		]
+	},
+	{
+		"description": "Concept - De school ondersteunt het gebruik van wiskunde in andere leergebieden",
+		"title": "Aanbodsdoel",
+		"fo_uitwerking_id": [
+			"a78e38af-b531-4a04-a184-f3b570d31e2b",
+			"084d6fb9-fab1-4e7d-b1aa-22dbba0db987",
+			"0765e736-b37d-4012-b7f8-808417937e22",
+			"fe472165-8655-4770-b6b4-08d777f12e78",
+			"2db47992-145e-4457-a2be-07478ba8908c"
+		],
+		"fo_toelichting_id": [
+			"610dd232-a8fb-4634-a580-5a0219530436",
+			"194f90ba-6980-4acf-914d-6409b9e0f784",
+			"679ac6c5-8984-4bf2-a3e7-c74ca0157ae8",
+			"c3981e78-09ab-4ad8-a8c1-58a0adb72f07",
+			"f36d4c84-a2ec-4d3d-83c7-e086d7728601"
+		],
+		"prefix": "D2.1",
+		"id": "24509a03-2564-48bc-80ff-5df287166046",
+		"replacedBy": [
+			"174c361a-a20b-478c-8aef-774b6b229723"
+		],
+		"types": [
+			"fo_doelzin"
+		]
+	},
+	{
+		"description": "Concept - De leerling verwerkt informatie uit verschillende bronnen in een gesproken of geschreven tekst.",
+		"title": "Beheersingsdoel, Bronnen verwerken",
+		"fo_uitwerking_id": [
+			"3019fdbb-5720-4ab9-a36c-e8296315bf68",
+			"678ba36e-8188-4c63-b024-c55ebc3b5e93",
+			"d8db6839-5ac5-489d-b575-ab28f3301edd",
+			"a0fe8562-bd97-4df5-a15c-25d677a9b22d"
+		],
+		"fo_toelichting_id": [
+			"fdc444f0-7e50-4e38-83b5-93098e947d82",
+			"c0b0414c-ff0d-46c1-8330-dbd055897cc4",
+			"0d11d45c-34f4-422e-b9cf-c67d980403dd",
+			"9adfd27c-2e9b-4376-8918-8b2d94c55668"
+		],
+		"prefix": "8.",
+		"id": "9f51f9d0-3f95-4179-a0f5-cc905e85be8e",
+		"replacedBy": [
+			"3c0fe5c0-92d5-4bb8-b444-b8c34f7d854b"
+		],
+		"types": [
+			"fo_doelzin"
+		]
+	},
+	{
+		"description": "Concept - De leerling voert gesprekken om tot kennisopbouw, begrip of een aanpak te komen.",
+		"title": "Beheersingsdoel, Gesprekken voeren om te leren",
+		"fo_uitwerking_id": [
+			"28a8e9fa-bef0-4a4d-9d54-e2d0b2e9c7b6",
+			"2acf621a-aa8a-48e8-9ca5-32f111e69481",
+			"03148df7-82b2-4311-bc69-58b6107f4417",
+			"a51376df-8674-422a-9946-e92126239349",
+			"a0fda18f-9919-40e8-ab65-c48bdd01013f"
+		],
+		"fo_toelichting_id": [
+			"1febfda1-1b3c-41ba-b494-5facbee930c7",
+			"3393b1dd-e6f3-426e-9781-4512ddaf55a9",
+			"235c19a6-5d25-4fbf-9d61-a01372849a8d"
+		],
+		"prefix": "11.",
+		"id": "35ae3aa0-5100-4e9a-9f8e-2d3281487d83",
+		"replacedBy": [
+			"a6918da2-b58a-4452-b51c-10b03adee3d8"
+		],
+		"types": [
+			"fo_doelzin"
+		]
+	},
+	{
+		"description": "Concept - De leerling verkent welke functies literatuur heeft.",
+		"title": "Beheersingsdoel, functies van literatuur",
+		"fo_uitwerking_id": [
+			"d88101fc-2aae-43cb-b21e-6f74337dc154",
+			"512d6152-be29-4199-89f9-3e839414c9fc",
+			"dd453fa7-344f-473c-b74d-c28d49df8c65",
+			"afae381b-a84f-48e0-9449-572a66438a15",
+			"d98f01dd-90b1-4e09-933e-5270e0d6e4a1"
+		],
+		"fo_toelichting_id": [
+			"857ade5e-defe-47b3-8b43-74fdd22645e4",
+			"bdf46615-0b0d-435f-85e3-fd13ebd85978",
+			"8c4fcb41-7ff4-4b13-8623-c8bdf4a46820",
+			"010efddb-983d-4659-827b-2b742aafe7a8",
+			"7a599910-d1cc-44e4-afb8-8af6ad007f93",
+			"216afbe6-761d-4581-b6bd-6bc2b5fa9a5a",
+			"e3d4119f-23f2-461d-a2ba-1cc898b9286c"
+		],
+		"prefix": "20.",
+		"id": "d385da82-ed53-4ad6-9617-38bd67a44178",
+		"replacedBy": [
+			"f98415bb-d833-4ffa-b74b-35a954783b9e"
+		],
+		"types": [
+			"fo_doelzin"
+		]
+	},
+	{
+		"description": "Concept - De leerling toont inzicht in verhalende teksten met behulp van kennis over verteltechnieken.",
+		"title": "Beheersingsdoel, Inzicht in verhalende teksten",
+		"fo_uitwerking_id": [
+			"fce4c74b-60c9-4f7d-9e5d-146a5f5f8d45",
+			"2075a809-5fbd-4718-bf90-271fc3262853",
+			"204fd921-3b3e-40b8-b5f0-db35efff53aa",
+			"a2428383-cd5f-43bc-b739-8e1fcfbdc07c",
+			"e181cb1d-2472-4a0d-bd35-3d3418704f8d"
+		],
+		"fo_toelichting_id": [
+			"f7f22e31-7c79-4dea-a0e9-f9d023c0a2ff",
+			"31319ccc-c853-4c5e-abd9-baeadffdc7c9",
+			"4ae18d95-93e7-4e07-939c-aab9b8255f8b",
+			"8070be06-22da-47bd-ba3b-21d9878a78fd",
+			"035e56cb-d3c0-43e4-b387-9756dc127717"
+		],
+		"prefix": "17.",
+		"id": "0f2d88a0-c594-48d2-835c-c1953eb284d0",
+		"replacedBy": [
+			"b8a3149f-6eb4-4772-b48e-c06fcb9e7c42"
+		],
+		"types": [
+			"fo_doelzin"
+		]
+	},
+	{
+		"title": "Kerndoelen Nederlands",
+		"vakleergebied_id": [
+			"e41b8c50-d002-4a9f-be8b-9b5da0008656"
+		],
+		"fo_domein_id": [
+			"0d2e4fb8-cc61-427d-8ce7-ef6a2bf12e5e",
+			"eabb7766-d2b2-4e03-a296-234330510a63",
+			"6d328b4b-a3b9-4080-a92e-de84b802907b",
+			"2520c537-27b6-4394-af35-2ab3b7eeb7fd"
+		],
+		"karakteristiek": "Kenmerken van het leergebied Nederlands\r\nTaal wordt gebruikt om te communiceren met elkaar, om gevoelens te uiten en als instrument voor denken en leren. Omdat het Standaardnederlands in Nederland de gemeenschappelijke taal is, draagt de beheersing van deze taal bij aan de kansengelijkheid van leerlingen, zowel in hun dagelijks leven als in het onderwijs. In het leergebied Nederlands worden leerlingen daarom uitgedaagd en gestimuleerd om zich tot taalcompetente burgers te ontwikkelen, die kunnen deelnemen aan een geletterde maatschappij waarin mensen met verschillende talen en achtergronden samenleven.\r\n\r\nLeerlingen ontwikkelen een samenhangend geheel aan kennis, vaardigheden en houdingen op het gebied van communicatie, taal en literatuur, en krijgen inzicht en vertrouwen in zichzelf als taalleerder. Ze leren doelgericht lezen, schrijven, kijken, luisteren, spreken en gesprekken voeren in authentieke en betekenisvolle situaties, en kunnen onderbouwd oordelen over taal- en literatuurkwesties. Ook reflecteren ze op keuzes in eigen taalgebruik en talig repertoire en beschouwen de keuzes die door anderen zijn gemaakt.\r\n\r\nLeerlingen leren hun eigen ideeën, ervaringen en gevoelens uit te drukken in taal en ontdekken hun eigen stijl en voorkeuren. Via een variatie aan teksten uit heden en verleden komen leerlingen in aanraking met cultuur en literatuur. Ze leren hier betekenis aan te geven en waarde aan toe te kennen voor zichzelf en anderen en verbreden hiermee hun blik op de wereld.\r\n\r\nSamenhang binnen het leergebied\r\nLeerlingen verschillen in de talige ontwikkeling die ze doormaken voordat ze naar school gaan. Vertrekkend vanuit deze eigen taalvaardigheid breiden leerlingen hun interactie vaardighedenen hun productieve en receptieve taalvaardigheid uit. In het leergebied Nederlands leren leerlingen in een doorlopende leerlijn van het primair onderwijs naar het voortgezet onderwijs doelgericht te communiceren in verschillende contexten en leren ze zich expressief en creatief te uiten. Daarbij benutten ze kennis over taal en taalgebruik en leren ze een diversiteit aan talige culturele uitingen kennen. In elke fase van de taalontwikkeling is sprake van een combinatie van verwerving en verdiepingvan talige kennis, vaardigheden en houdingen. In de eerste fases van de ontwikkeling (het primair onderwijs) ligt de nadruk op verwerving en in latere fases (vaak het voortgezet onderwijs) op verfijning en verdieping. De complexiteit van geschreven en gesproken teksten neemt daarbij toe, zowel in inhoud en vorm als in de communicatieve doelen en contexten. Daarnaast gaan leerlingen zich kritischer verhouden tot teksten, weten ze er meer betekenis aan te geven en krijgen ze beter zicht op hun voorkeuren. Via taal krijgen ze meer grip op de wereld en de maatschappij waarin ze leven. Taal- en cultuurcompetent worden is een geleidelijk en complex proces, waarbij talige kennis, vaardigheden en houdingen rondom communicatie, taal en literatuur elkaar voortdurendbeïnvloeden en ook versterken. Lees-, luister-, kijk-, schrijf-, spreek- en gespreksvaardigheidhebben wezenlijke overeenkomsten en ontwikkelen zich in samenhang metelkaar. Leerlingen leren deze verbanden te zien en te benutten. Ze verwerven kennis en de bijbehorende begrippen om over taalgebruik, taalverschijnselen, het taalsysteem en literatuur te kunnen communiceren en erop te reflecteren.\r\n\r\nSamenhang tussen leergebieden\r\nZowel binnen het leergebied Nederlands als binnen de leergebieden moderne vreemde talen, Friese taal & cultuur en Nederlandse Gebarentaal, werken leerlingen aan hun taalcompetentie. Bij hun taalontwikkeling in het ene leergebied, zetten leerlingen kennis, vaardigheden en houdingen in die ze hebben opgedaan in het andere leergebied, of hebben meegenomen vanuit de ontwikkeling in hun thuistaal. Dit leidt tot betere beheersing van het Nederlands en is wederzijds versterkend. Kennis over het eigen talige repertoire en inzicht in zichzelf als taalleerder zijn hierbij behulpzaam. Doordat in beide leergebieden aandacht wordt besteed aan verschillende talen, taalvariëteiten en (sub)culturen, ontwikkelen leerlingen een open houding tegenovertalige en culturele diversiteit. Taal is ook een middel om te denken en te leren. Andere leergebieden maken gebruik van het Nederlands en dragen bij aan de verrijking ervan. Om tot begrip te komen en kennis te verwerven, is een goede taalvaardigheid een voorwaarde. Om de taalcompetentie in het Nederlands te ontwikkelen, zijn tegelijkertijd kennis, vaardigheden en houdingen uit andere leergebieden dan de talen nodig. De kerndoelen van het leergebied digitale geletterdheid beschrijven hoe leerlingen omgaan met digitale bronnen en het gebruiken van effectieve zoekstrategieën. Andere leergebieden, van mens en maatschappij tot rekenen en wiskunde, bieden een betekenisvolle context om de taal- en denkontwikkeling hand in hand te laten verlopen: kennisopbouw, woordenschatontwikkeling, taalbewustzijn en specifieke taalvaardigheden. Rijke teksten rond burgerschapsthema’s en thema’s uit de verschillende leergebieden bieden leerlingen de gelegenheid om kennis te verwerven op het gebied van het inhoudelijke thema en tegelijkertijd hun taalcompetentie te vergroten. Beide zijn belangrijke voorwaarden voor het begrijpen van teksten. Het leggen van verbindingen tussen het leergebied Nederlands en de andere leergebieden is daarmee een voorwaarde voor duurzame kennis- en taalontwikkeling. Dit geldt voor zowel het primair als het voortgezet onderwijs.",
+		"id": "8cf4960c-acd2-46eb-8c8c-2658f760f010",
+		"replacedBy": [
+			"43e831a7-9469-43cd-a12a-e5eb8430f546"
+		],
+		"types": [
+			"fo_set"
+		]
+	},
+	{
+		"title": "Kerndoelen rekenen en wiskunde",
+		"vakleergebied_id": [
+			"fdd97fff-f5e5-4b82-b937-9ab302666c50"
+		],
+		"fo_domein_id": [
+			"60d3f360-a7ba-421f-9f4b-c18a48bd4c13",
+			"f87d2b59-714b-4b94-9dfa-81e49632ad4e",
+			"7b38ff3a-19b8-4980-b282-5f27e9bf38c6",
+			"499a6542-3e4b-4595-b9b6-543591e66ae1"
+		],
+		"karakteristiek": "Kenmerken van het leergebied rekenen en wiskunde\r\nGebruiken en begrijpen van wiskunde, waaronder rekenen, is belangrijk voor het functioneren in de samenleving, bij het uitoefenen van een beroep en voor het maken van keuzes in het persoonlijke leven. Om kansengelijkheid te bevorderen moeten alle leerlingen hiervoor een goede basis meekrijgen. Alle leerlingen moeten vlot en wendbaar leren rekenen en zich ontwikkelen tot gecijferde burgers. Gecijferdheid, oftewel wiskundige geletterdheid, stelt mensen in staat om de werkelijkheid te begrijpen en informatie op waarde te schatten. In het funderend onderwijs leren leerlingen met wiskunde informatie en verschijnselen in de wereld om hen heen op eigen niveau te doorgronden. Het herkennen en gebruiken van wiskunde in bekende en nieuwe situaties draagt bij aan hun verdere wiskundige ontwikkeling.\r\n\r\nDe inhoud van het leergebied bestaat uit concepten als getallen, verhoudingen, data, verbanden, grootheden en eenheden. Leerlingen leren hiermee te redeneren en rekenen, waarbij handelen en denken samengaan. Zo verwerven leerlingen parate kennis, vaardigheid in het uitvoeren van procedures, en inzicht. In samenhang hiermee ontwikkelen leerlingen wiskundige denk/werkwijzen als wiskundig probleemoplossen en het gebruik van modellen.\r\n\r\nDe groeiende digitalisering vraagt om flexibel en functioneel kunnen omgaan met ICT en de daarbij gebruikte abstracte wiskundetaal. De toenemende hoeveelheid informatie van nieuwsbronnen en sociale media vragen bovendien om een kritische houding. Daarvoor leren leerlingen wiskundetaal en grafische representaties te lezen, te interpreterenen op juistheid te beoordelen. Ze maken en gebruiken deze ook om zelf wiskundige ideeën en redenering en helder te verwoorden, te representeren en uit te wisselen.\r\n\r\nEen wiskundige attitude is belangrijk voor het leren en gebruiken van rekenen en wiskunde. Het onderwijs stimuleert de ontwikkeling van plezier, zelfvertrouwen en doorzettingsvermogen bij wiskunde. Door leerlingen in aanraking te brengen met wiskunde in verschillende verschijningsvormen en toepassingen binnen en buiten school, krijgen zij de kans om het nut en de kracht van wiskunde te ervaren.\r\n\r\nSamenhang binnen het leergebied\r\nDe wiskundige kennis, vaardigheden en inzichten die leerlingen leren in het primair onderwijs, worden onderhouden en uitgebreid in het voortgezet onderwijs. Om een doorgaande leerlijn te bevorderen, kunnen scholen stilstaan bij overeenkomsten en verschillen tussen de sectoren, zoals bij de gebruikte wiskundetaal en rekenwijzen. Wiskunde vormt een samenhangend geheel. Tussen wiskundige concepten bestaan allerlei relaties. Zo hangen de bewerkingen met getallen onderling samen en kennen het getallensysteem en het metriek stelsel eenzelfde decimale structuur. Om wiskunde wendbaar te kunnen gebruiken, ontwikkelen leerlingen kennis van en inzicht in die relaties. Zo leren leerlingen flexibel en handig rekenen, efficiënte procedures hanteren en verantwoord schatten en afronden. In het primair onderwijs leren en gebruiken ze de onderlinge samenhang tussen bijvoorbeeld gehele getallen, decimale getallen, breuken en procenten; in het voortgezet onderwijs gaat het bijvoorbeeld om de samenhang tussenkansen en verhoudingen. Wiskundige concepten en wiskundige denk/werkwijzen kunnen niet los van elkaar worden gezien en worden in samenhang aangeboden. Zo kan probleemoplossen gaan over getallen, maar ook over andere wiskundige concepten. Wiskundige denk/werkwijzen toepassen op uiteenlopende concepten biedt leerlingen gelegenheid de vele gebruiksmogelijkheden van wiskunde te ervaren. Hierdoor ontwikkelen en versterken leerlingen hun wiskundig inzicht.\r\n\r\nSamenhang tussen leergebieden\r\nWiskunde wordt toegepast in allerlei andere leergebieden, variërend van mens & natuur tot kunst & cultuur. Een goede wiskundebasis helpt om in andere leergebieden te kunnen leren en functioneren. Omgekeerd helpt het herkennen en gebruiken van wiskunde in andere leergebieden de wiskundebasis verder te verstevigen en betekenis te geven, bijvoorbeeld bij het gebruik van samengestelde grootheden, procenten en diagrammen. Leerlingen ervaren dat rekenprocedures en wiskundetaal bij verschillende leergebieden op dezelfde manier kunnen worden toegepast. Algoritmisch denken vormt zowel bij wiskunde als digitale geletterdheid een belangrijke denk/werkwijze en kan daarom in de kerndoelen van beide leergebieden worden vermeld. Ten slotte helpt beheersing van wiskunde leerlingen om informatie te doorgronden, opvattingen te onderbouwen en meningen van feiten te onderscheiden. Zo draagt onderwijs in wiskunde bij aan de ontwikkeling van burgerschap en het participeren in het maatschappelijk debat.",
+		"id": "38c59501-0446-407f-8b44-2f16e30a44fd",
+		"replacedBy": [
+			"ec874d0f-b142-4007-aef9-dacd5670dd23"
+		],
+		"types": [
+			"fo_set"
+		]
+	},
+	{
+		"title": "Functionele kerndoelen Nederlands (concept)",
+		"vakleergebied_id": [
+			"e41b8c50-d002-4a9f-be8b-9b5da0008656"
+		],
+		"fo_domein_id": [
+			"0d2e4fb8-cc61-427d-8ce7-ef6a2bf12e5e",
+			"eabb7766-d2b2-4e03-a296-234330510a63",
+			"6d328b4b-a3b9-4080-a92e-de84b802907b",
+			"2520c537-27b6-4394-af35-2ab3b7eeb7fd"
+		],
+		"karakteristiek": "Kenmerken van het leergebied Nederlands\r\nTaal gebruiken we om te communiceren met elkaar, om gevoelens te uiten en als instrument voor denken en leren. Het ontwikkelen van de Nederlandse taal is belangrijk, zodat leerlingen zich nu en straks in de maatschappij zo zelfstandig mogelijk kunnen redden. Een goede taalbeheersing draagt bij aan de kansengelijkheid van leerlingen. Dit maakt taal een belangrijk praktisch en functioneel middel om een relatie op te bouwen met onszelf, anderen en de fysieke en digitale wereld om ons heen. Leerlingen leren in een vorm die bij hen past te communiceren en zich te redden in omgevingen waar op verschillende manieren en in verschillende talen en taalvariëteiten wordt gecommuniceerd. Ze ontwikkelen creativiteit, verwerven kennis en sociale en culturele vaardigheden. Hierbij leren ze eigen ideeën, ervaringen en gevoelens uit te drukken in taal en hun eigen stijl en voorkeuren te ontdekken. Door een variatie aan teksten leren leerlingen over alledaagse en werkgerelateerde situaties. Via die teksten komen ze in aanraking met cultuur en literatuur, waardoor ze meer grip krijgen op de wereld.\r\n\r\nNederlands als leergebied\r\nLeerlingen verschillen in hun talige ontwikkeling voordat ze naar school gaan. Vertrekkend vanuit hun eigen taalvaardigheid breiden leerlingen hun interactievaardigheden en hun productieve en receptieve taalvaardigheid uit.\r\n\r\nSamenhang binnen het leergebied\r\nVanuit een samenhangend geheel aan kennis, vaardigheden en houdingen binnen de domeinen communicatie, taal en literatuur krijgen ze meer inzicht en vertrouwen in zichzelf. In het leergebied Nederlands leren leerlingen in een doorlopende leerlijn van het speciaal onderwijs naar het voortgezet speciaal onderwijs doelgericht te communiceren in verschillende contexten aansluitend bij de leef- en belevingswereld van de leerling. Ze leren taalkennis en - vaardigheden op hun eigen manier effectief te gebruiken en zich expressief en creatief te uiten. Bij het stimuleren van de taalontwikkeling moet je rekening houden met de mogelijkheden van leerlingen. Voor de één leg je de hele schoolperiode de nadruk met name op verwerving, terwijl bij de ander ook ruimte ontstaat voor verfijning en verdieping. Ook het uitbreiden van de woordenschat en het leren reflecteren op het eigen taalgebruik horen bij dit leergebied. Waar mogelijk leren leerlingen zich verhouden tot teksten, geven er betekenis aan en krijgen zicht op eigen voorkeuren.\r\n\r\nSamenhang met andere leergebieden\r\nTaalontwikkeling vindt niet alleen plaats in het leergebied Nederlands, maar ook binnen andere leergebieden, zoals kunst en cultuur, Nederlandse Gebarentaal en in het voortgezet speciaal onderwijs ook binnen praktijkvakken. Om tot begrip te komen en kennis en vaardigheden te verwerven, is een goede taalvaardigheid een voorwaarde. Het werkt ook andersom. Kennis, vaardigheden en houdingen opgedaan in het ene leergebied of praktijkvak, of meegenomen vanuit de ontwikkeling in de thuistaal, zetten leerlingen in bij hun verdere taalontwikkeling. Dit versterkt elkaar wederzijds. Alle leergebieden en praktijkvakken bieden daarmee een betekenisvolle en kennisrijke context voor het ontwikkelen van taal- en denkvaardigheden. Leerlingen leren omgaan met rijke teksten die aansluiten bij contexten zoals wonen, werken, vrije tijd en burgerschap. Door ook aandacht te besteden aan andere talen, taalvariëteiten en (sub)culturen, ontwikkelen leerlingen een open houding tegenover talige diversiteit.\r\n\r\nNederlands voor leerlingen met specifieke onderwijsbehoeften\r\nBinnen Nederlands en andere leergebieden is het nodig om rekening te houden met specifieke onderwijsbehoeften van leerlingen en de toegankelijkheid van het leergebied. Taal en communicatie zijn sterk met elkaar verbonden. Voor leerlingen met een visuele beperking geldt dat hun visuele ervaringen zorgen voor ‘niet gevulde beelden’. Bij hen helpen de mondelinge taalvaardigheid en begrijpend luisteren bij het vormen van een beeld van de wereld. De lees- en schrijfcultuur maken ze zich soms eigen via braille. Door het gebruiken van ondersteunende communicatie zoals Nederlandse Gebarentaal (NGT) en Nederlands ondersteund met gebaren (NmG) of andere communicatievormen kunnen leerlingen met een auditieve en/of (communicatief) meervoudige beperking communiceren. Voor leerlingen met een meervoudige beperking is de ontwikkeling van communicatie en taal niet vanzelfsprekend. Zij kunnen baat hebben bij ondersteuning van beelden, concrete verwijzers en NmG. Sommige leerlingen met een meervoudige beperking kunnen lezen en schrijven, andere leerlingen leren dat beperkt of helemaal niet. Motorische uitdagingen kunnen ook vragen om individuele aanpassingen, hulpmiddelen en specifieke ondersteuning. Voor veel leerlingen met ernstige gedrags- of psychiatrische problemen zal er extra aandacht gaan naar communicatieve vaardigheden. Het gaat erom dat leerlingen op hun eigen manier leren om te durven spreken, gebaren, schrijven, of zich op een andere manier durven en kunnen uiten. Het doel is dat ze zich zo zelfstandig mogelijk kunnen redden in het onderwijs, de maatschappij, de arbeidsmarkt of dagbesteding.",
+		"id": "9565d806-bf8a-410d-a7e4-05430f3fa56f",
+		"replacedBy": [
+			"01b1a4ac-9635-4d79-9d8a-ba3e4633e414"
+		],
+		"types": [
+			"fo_set"
+		]
+	},
+	{
+		"title": "Functionele kerndoelen rekenen en wiskunde",
+		"vakleergebied_id": [
+			"fdd97fff-f5e5-4b82-b937-9ab302666c50"
+		],
+		"fo_domein_id": [
+			"60d3f360-a7ba-421f-9f4b-c18a48bd4c13",
+			"f87d2b59-714b-4b94-9dfa-81e49632ad4e",
+			"7b38ff3a-19b8-4980-b282-5f27e9bf38c6",
+			"499a6542-3e4b-4595-b9b6-543591e66ae1"
+		],
+		"karakteristiek": "Voor leerlingen die zeer moeilijk leren (zml) en leerlingen met een meervoudige beperking (mb), en leerlingen die uitstromen naar dagbesteding of arbeidsmarkt\r\n\r\nKenmerken van het leergebied rekenen en wiskunde\r\nLeerlingen leren rekenen en wiskunde, passend bij hun mogelijkheden, om zelfredzaam te worden. Ervaren, begrijpen en toepassen van rekenen en wiskunde draagt bij aan het ontwikkelen van vaardigheden die leerlingen nu en later nodig hebben. Alle leerlingen leren dit functioneel te gebruiken in hun leven. Ze leren daarmee de wereld te begrijpen en keuzes te maken in hun persoonlijk leven. Ook bereiden ze zich voor op reken-wiskundige kennis, vaardigheden en inzichten die ze nodig hebben in hun schoolloopbaan, werkplek en/of dagbesteding. Ze hebben reken-wiskundige vaardigheden ook nodig om zich te kunnen redden in de digitale wereld en om te gaan met de toenemende hoeveelheid informatie.\r\n\r\nRekenen en wiskunde als leergebied\r\nIn het leergebied rekenen en wiskunde beschrijven we vier domeinen: wiskunde en de wereld, wiskundige attitude, wiskundige concepten en wiskundige denk/werkwijzen. De vier domeinen vormen een samenhangend geheel.\r\nHet domein wiskunde en de wereld brengt leerlingen in aanraking met rekenen en wiskunde in toepassingen binnen en buiten school. Zo ervaren ze het nut en de kracht. Voor de doelgroep zml/mb is de relatie met de wereld de basis voor alle kennis, vaardigheden en inzichten die ze opdoen in dit leergebied.\r\nEen wiskundige attitude is belangrijk voor het begrijpen en gebruiken van rekenen en wiskunde. Het onderwijs heeft de taak om de ontwikkeling van plezier, zelfvertrouwen en motivatie bij het gebruik van rekenen en wiskunde te stimuleren.\r\nBinnen dit leergebied leren leerlingen wiskundige concepten, namelijk getallen, verhoudingen, grootheden en eenheden, vorm, ruimte en patronen. Ze leren deze concepten te begrijpen en te gebruiken in voor hen relevante situaties die kennis, vaardigheden en inzicht vragen.\r\nOm de wiskundige concepten te kunnen toepassen, leren leerlingen wiskundige denk/werkwijzen. Daarbij gaat het om het gebruiken van wiskundetaal en wiskundige representaties en het gebruiken van meetinstrumenten en wiskundige hulpmiddelen.\r\n\r\nSamenhang binnen het leergebied\r\nWiskundige concepten en wiskundige denk/werkwijzen kunnen niet los van elkaar worden gezien en worden in samenhang aangeboden. Ook de verschillende wiskundige concepten hebben onderlinge relaties. Om rekenen en wiskunde in samenhang te gebruiken, ontwikkelen leerlingen kennis van en inzicht in die relaties. Het toepassen van wiskundige denk/werkwijzen met uiteenlopende wiskundige concepten, laat leerlingen de vele gebruiksmogelijkheden ervaren van rekenen en wiskunde in de wereld. Dit draagt bij aan de ontwikkeling van zelfredzaamheid in hun persoonlijke leven.\r\nHet onderwijs aan zml/mb richt zich op het ontwikkelen van reken-wiskundige kennis, vaardigheden en inzichten om te gebruiken in voor hen relevante situaties. Een doorgaande lijn naar het onderwijs aan leerlingen in de uitstroombestemmingen dagbesteding of arbeid maakt het mogelijk om deze kennis, vaardigheden en inzichten te onderhouden en verder te ontwikkelen. Ze leren dit toepassen in alledaagse situaties voor wonen, werk/dagbesteding en vrije tijd, passend bij hun ambities en mogelijkheden.\r\nVoor het uitstroomprofiel dagbesteding ligt het accent op onderdelen van rekenen en wiskunde die leerlingen zo zelfstandig mogelijk laten functioneren in werk en dagbesteding. Voor het uitstroomprofiel arbeidsmarkt ligt het accent op onderdelen van rekenen en wiskunde die hen voorbereiden op een passende plek op de arbeidsmarkt.\r\n\r\nSamenhang met andere leergebieden\r\nRekenen en wiskunde wordt toegepast in allerlei andere leergebieden en praktijkvakken. Een basis in rekenen en wiskunde helpt om daarin te leren en te functioneren. Omgekeerd helpt het herkennen en gebruiken van rekenen en wiskunde in andere leergebieden en praktijkvakken de basis verder te verstevigen, betekenis te geven en zo veel mogelijk zelfredzaam te worden. Zo ervaren leerlingen dat ze wiskundige concepten en wiskundige denk/werkwijzen, waaronder wiskundetaal, bij verschillende leergebieden, zoals Nederlands en praktijkvakken op dezelfde manier kunnen toepassen. Het begrijpen van wiskundige informatie in de maatschappij draagt ook bij aan hun burgerschap en digitale geletterdheid. \r\n\r\nRekenen en wiskunde voor leerlingen met specifieke onderwijsbehoeften\r\nHet leren van rekenen en wiskunde door leerlingen met specifieke onderwijsbehoeften vraagt om flexibiliteit en differentiatie binnen de kaders van de kerndoelen. Voor zml/mb-leerlingen kunnen er op het gebied van aandacht en informatieverwerking uitdagingen zijn bij dit leergebied. Dit kan gevolgen hebben voor het kunnen opnemen, onthouden, bewerken en relateren van informatie bij het oplossen van reken-wiskundige situaties, voor het aanleren en toepassen van rekenprocedures en voor het leren automatiseren en memoriseren. Ook het leren begrijpen en gebruiken van wiskundetaal kan een uitdaging vormen. Daarbij kan het gaan om het verbinden van wiskundetaal aan reken-wiskundige handelingen of het verwoorden en uitleggen van hun aanpak en oplossing voor een toepassingsprobleem. Ondersteuning via passende communicatievormen en hulpmiddelen kan voor veel leerlingen, met name leerlingen met een zintuigelijke en/of communicatieve beperking en leerlingen met een meervoudige beperking, nodig zijn om rekenen en wiskunde te ervaren, begrijpen en toe te passen.\r\nVoor zml/mb-leerlingen en leerlingen die uitstromen naar dagbesteding of arbeidsmarkt is het mogelijk dat het leren van rekenen en wiskunde op formeel niveau niet haalbaar is, of niet voldoende betekenisvol of bruikbaar. Leren op een minder formeel niveau kan dan passend zijn. Daarnaast is expliciete aandacht nodig voor de overgang van het ene naar het andere (handelings)niveau en van de ene naar de andere of nieuwe situatie, omdat de transfermogelijkheden van deze leerlingen beperkt kunnen zijn.\r\nVoor leerlingen met een visuele, fysieke of meervoudige beperking kan de ontwikkeling van ruimtelijk inzicht anders verlopen door het ontbreken van bepaalde zintuigelijke ervaringen. Aansluiten bij wat deze leerlingen wel kunnen en alternatieve communicatievormen en hulpmiddelen benutten is nodig om het ruimtelijk inzicht en begrip van wiskundige concepten te ontwikkelen.",
+		"id": "cbc7bfbe-839f-4e91-a354-d1a08378a174",
+		"replacedBy": [
+			"8aeb49f6-3d8b-476a-a8a6-45097a747d4c"
+		],
+		"types": [
+			"fo_set"
+		]
+	},
+	{
+		"title": "Communicatie",
+		"fo_subdomein_id": [
+			"ec631940-2fa2-4104-8534-48c321938064",
+			"c06ef855-4173-4098-8093-faf2fc662a3d"
+		],
+		"prefix": "A",
+		"id": "eabb7766-d2b2-4e03-a296-234330510a63",
+		"replacedBy": [
+			"04389b88-0243-4d0b-867b-d1fc048abcf4"
+		],
+		"types": [
+			"fo_domein"
+		]
+	},
+	{
+		"title": "Literatuur",
+		"fo_subdomein_id": [
+			"74c790e2-acb0-4acb-9caf-b6cbb69300eb",
+			"0c5615c5-79a0-4e1e-9514-37d37483c4d4"
+		],
+		"prefix": "C",
+		"id": "2520c537-27b6-4394-af35-2ab3b7eeb7fd",
+		"replaces": [
+			"5d0676d3-fbea-4ab9-8ce1-fb1b3a622236"
+		],
+		"replacedBy": [
+			"8512d7c8-d3e6-4eb1-8a9d-c8f77e695ed7"
+		],
+		"types": [
+			"fo_domein"
+		]
+	},
+	{
+		"title": "Wiskundige denk/werkwijze",
+		"fo_doelzin_id": [
+			"3e321838-9e34-4db8-af4a-ca5f92e62049",
+			"c9e39d4f-dc31-4931-b15a-f46a74eb17f1",
+			"4e99fb88-c09c-4de7-b062-d2e1671a879b",
+			"0c42c5f9-5e3d-477b-a4e2-09b95c9d8133",
+			"3f2a764a-3055-4128-80e1-763476691bdf",
+			"b9fce428-e0b3-4524-832d-22dfb2a44af7",
+			"0956691b-5ed5-4c1f-a952-58e16b07ad5d",
+			"6cabfbd4-c370-47fb-9144-776e7bf4cd5f",
+			"62a0730b-8c50-43f7-a6cd-3342d0c0607f",
+			"b071f771-aae1-4438-9661-85d53ac885d8",
+			"ff4483c9-86da-4de8-8661-b4d4801ebbcf",
+			"56346b00-a8db-472a-983e-0143021570b8",
+			"bdc74166-3003-4deb-b8d8-56a520569564",
+			"28d6dbbd-9b33-4bb8-bdbe-232c47f4d49a",
+			"0f4c919d-bca5-48f1-bf5e-477fb839697a",
+			"126c04c7-3959-4bd7-83b0-8c4ba45026f3",
+			"11219833-a07d-407b-8f54-5beaf779d062"
+		],
+		"prefix": "C",
+		"id": "7b38ff3a-19b8-4980-b282-5f27e9bf38c6",
+		"replacedBy": [
+			"42f9ada1-0515-4dc9-9a83-c4e33aeae4e2"
+		],
+		"types": [
+			"fo_domein"
+		]
 	}
 ]

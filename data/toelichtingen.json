@@ -261,17 +261,6 @@
 	},
 	{
 		"title": "",
-		"id": "5ee14da2-c0b2-4233-ab38-314e050659c4",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725",
-			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
-		],
-		"description": "",
-		"prefix": "DELETE",
-		"deleted": 1
-	},
-	{
-		"title": "",
 		"id": "1ddd2207-dc30-496c-8969-809f25b0208f",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
@@ -352,17 +341,6 @@
 	},
 	{
 		"title": "",
-		"id": "159cdc9c-ffa1-45de-b65c-e34e5d0e6355",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725",
-			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
-		],
-		"description": "",
-		"prefix": "DELETE",
-		"deleted": 1
-	},
-	{
-		"title": "",
 		"id": "17349e08-4119-49a6-8068-f26357518411",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
@@ -380,50 +358,6 @@
 		],
 		"description": "Concept - Te denken valt aan popsongs in verschillende regionale talen beluisteren en vergelijken.",
 		"prefix": "t2"
-	},
-	{
-		"title": "",
-		"id": "ce096651-7023-4f7c-a44d-efa85dd73475",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725",
-			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
-		],
-		"description": "",
-		"prefix": "DELETE",
-		"deleted": 1
-	},
-	{
-		"title": "",
-		"id": "423f7043-3b29-4850-a7d6-aa17260f1b17",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725",
-			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
-		],
-		"description": "",
-		"prefix": "DELETE",
-		"deleted": 1
-	},
-	{
-		"title": "",
-		"id": "8113318b-f2f6-4839-871a-373625791dc1",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725",
-			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
-		],
-		"description": "",
-		"prefix": "DELETE",
-		"deleted": 1
-	},
-	{
-		"title": "",
-		"id": "1fcfc735-680c-4f8a-9937-8316294b26f7",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725",
-			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
-		],
-		"description": "",
-		"prefix": "DELETE",
-		"deleted": 1
 	},
 	{
 		"title": "",
@@ -1004,15 +938,6 @@
 		],
 		"description": "Concept - Te denken valt aan een algoritme bedenken voor het tekenen van regelmatige meetkundige figuren zoals een vierkant.",
 		"prefix": "t3"
-	},
-	{
-		"title": "Concept - Te denken valt aan vaststellen of een algoritme kan worden toegepast in een bepaalde situatie.",
-		"id": "4f26a633-8773-46cf-a3ec-88ae6b1c3a0a",
-		"deleted": 1,
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725",
-			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
-		]
 	},
 	{
 		"title": " ",
@@ -2087,39 +2012,6 @@
 	},
 	{
 		"title": "",
-		"id": "23fe0fae-895f-4f94-975f-a6bc4a22412b",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"description": "Concept - Te denken valt aan aanbieden van formele wiskundetaal als vervanging van informeel taalgebruik.",
-		"prefix": "DELETE",
-		"deleted": 1
-	},
-	{
-		"title": "",
-		"id": "c4f0dd15-1997-496d-ac26-1bab6ef7a827",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"description": "Concept - Te denken valt aan algoritmisch denken toepassen bij getallen en andere wiskundige concepten.",
-		"prefix": "DELETE",
-		"deleted": 1
-	},
-	{
-		"title": "",
-		"id": "ef2d600e-6852-43f1-a529-00e6985460a8",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"description": "Concept - Te denken valt aan een eigenschap van bewerkingen laten zien met meetkundige figuren, zoals de commutatieve eigenschap van vermenigvuldigen van twee getallen laten zien met een rechthoekmodel.",
-		"prefix": "DELETE",
-		"deleted": 1
-	},
-	{
-		"title": "",
 		"description": "Concept - Te denken valt aan stimuleren om vragen te stellen bij actuele situaties in de schoolomgeving en uit de media.",
 		"prefix": "t1",
 		"id": "9ea08573-8792-4283-a8f0-37c3c12ec9be",
@@ -2436,18 +2328,6 @@
 	},
 	{
 		"title": "",
-		"id": "9adfd27c-2e9b-4376-8918-8b2d94c55668",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59",
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"description": "Concept - Te denken valt aan voorbereiden van een presentatie waarbij informatie uit verschillende bronnen vergeleken en geïntegreerd wordt.",
-		"prefix": "DELETE",
-		"deleted": 1
-	},
-	{
-		"title": "",
 		"id": "273c3c42-3a4b-467b-865e-53a5e9b043ea",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
@@ -2547,18 +2427,6 @@
 		],
 		"description": "Concept - Te denken valt aan eerder geformuleerde leerdoelen – bijvoorbeeld meer structuur aanbrengen – meenemen bij het voorbereiden van een mondelinge presentatie.",
 		"prefix": "t2"
-	},
-	{
-		"title": "",
-		"id": "235c19a6-5d25-4fbf-9d61-a01372849a8d",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59",
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"description": "Concept - Te denken valt aan meenemen van leerdoelen bij het voorbereiden van een mondelinge presentatie.",
-		"prefix": "DELETE",
-		"deleted": 1
 	},
 	{
 		"title": "",
@@ -2725,42 +2593,6 @@
 	},
 	{
 		"title": "",
-		"id": "6f3fb427-65db-46b5-a533-61cbf4a2428d",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59",
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"description": "Concept - Te denken valt aan een argumentatieschema maken bij een betogende tekst over een maatschappelijk probleem, bijvoorbeeld roken.",
-		"prefix": "DELETE",
-		"deleted": 1
-	},
-	{
-		"title": "",
-		"id": "c2daf969-0f65-413e-87da-867bdbf31174",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59",
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"description": "Concept - Te denken valt aan in een politiek debat benoemen of het gaat om politieke argumentatie of bijvoorbeeld medische argumentatie.",
-		"prefix": "DELETE",
-		"deleted": 1
-	},
-	{
-		"title": "",
-		"id": "b339c1d0-742e-4b10-92e6-80a27fdc3b8c",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59",
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"description": "Concept - Te denken valt aan verschillende opnames van boekpromoties vergelijken en bespreken welke het overtuigendste is.",
-		"prefix": "DELETE",
-		"deleted": 1
-	},
-	{
-		"title": "",
 		"id": "f7f22e31-7c79-4dea-a0e9-f9d023c0a2ff",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
@@ -2842,42 +2674,6 @@
 		],
 		"description": "Concept - Te denken valt aan verwijzingen naar Arthurromans herkennen in voorbeelden van hedendaagse literatuur.",
 		"prefix": "t3"
-	},
-	{
-		"title": "",
-		"id": "6433b644-6e7d-4181-a5bb-42007951dc4f",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59",
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"description": "Concept - Te denken valt aan verhalen en gedichten over een bepaalde historische gebeurtenis interpreteren vanuit standplaatsgebondenheid.",
-		"prefix": "DELETE",
-		"deleted": 1
-	},
-	{
-		"title": "",
-		"id": "78ea8ad7-3f05-4841-94c1-3fa9784be69c",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59",
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"description": "Concept - Te denken valt aan verwijzingen naar Arthurromans herkennen in voorbeelden van hedendaagse literatuur.",
-		"prefix": "DELETE",
-		"deleted": 1
-	},
-	{
-		"title": "",
-		"id": "e3d4119f-23f2-461d-a2ba-1cc898b9286c",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59",
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"description": "Concept - Te denken valt aan verschillende verschijningsvormen van literaire teksten over hetzelfde onderwerp op waarde schatten: een dagboekfragment, een gedicht, een historische roman en een biografie.",
-		"prefix": "DELETE",
-		"deleted": 1
 	},
 	{
 		"title": "",
@@ -6201,8 +5997,7 @@
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
-		"id": "e1c52a51-3836-4d64-809f-55524e71c837",
-		"unreleased": true
+		"id": "e1c52a51-3836-4d64-809f-55524e71c837"
 	},
 	{
 		"title": " ",
@@ -6212,8 +6007,7 @@
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
-		"id": "c8a169e3-ef3c-4058-8db0-ff3f3d8c4fbb",
-		"unreleased": true
+		"id": "c8a169e3-ef3c-4058-8db0-ff3f3d8c4fbb"
 	},
 	{
 		"title": " ",
@@ -6223,8 +6017,7 @@
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
-		"id": "3caca936-d072-49f9-a2cb-be224fcd977c",
-		"unreleased": true
+		"id": "3caca936-d072-49f9-a2cb-be224fcd977c"
 	},
 	{
 		"title": " ",
@@ -6234,8 +6027,7 @@
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
-		"id": "723c4810-fe10-4899-8749-c2f0f72694c6",
-		"unreleased": true
+		"id": "723c4810-fe10-4899-8749-c2f0f72694c6"
 	},
 	{
 		"title": " ",
@@ -6245,8 +6037,7 @@
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
-		"id": "ff095fde-cd24-48e7-b3b1-078ce4aa3573",
-		"unreleased": true
+		"id": "ff095fde-cd24-48e7-b3b1-078ce4aa3573"
 	},
 	{
 		"title": " ",
@@ -6256,8 +6047,7 @@
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
-		"id": "539fec4c-39f8-4ac7-a936-eac669f0ae7f",
-		"unreleased": true
+		"id": "539fec4c-39f8-4ac7-a936-eac669f0ae7f"
 	},
 	{
 		"title": "",
@@ -6267,8 +6057,7 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"id": "82155ab8-adb4-4e1f-a737-b953318cea4a",
-		"unreleased": true
+		"id": "82155ab8-adb4-4e1f-a737-b953318cea4a"
 	},
 	{
 		"title": "",
@@ -6279,8 +6068,7 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"id": "3386798b-c58f-483f-b98f-0309c081844f",
-		"unreleased": true
+		"id": "3386798b-c58f-483f-b98f-0309c081844f"
 	},
 	{
 		"title": "",
@@ -6291,8 +6079,7 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"id": "d81edb25-0e99-44f1-9a67-3b1e290fcaf7",
-		"unreleased": true
+		"id": "d81edb25-0e99-44f1-9a67-3b1e290fcaf7"
 	},
 	{
 		"title": "",
@@ -6302,8 +6089,7 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"id": "1ada15c0-dcdf-4b76-a5d2-04242fbb0a53",
-		"unreleased": true
+		"id": "1ada15c0-dcdf-4b76-a5d2-04242fbb0a53"
 	},
 	{
 		"title": "",
@@ -6314,8 +6100,7 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"id": "6cfe2bb3-e505-46c9-8f78-0e6c05ba6c71",
-		"unreleased": true
+		"id": "6cfe2bb3-e505-46c9-8f78-0e6c05ba6c71"
 	},
 	{
 		"title": "",
@@ -6325,8 +6110,7 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"id": "340c37d9-225b-4149-9e53-0fadc52aacee",
-		"unreleased": true
+		"id": "340c37d9-225b-4149-9e53-0fadc52aacee"
 	},
 	{
 		"title": "",
@@ -6336,8 +6120,7 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"id": "a9c80a85-95f8-4755-a759-3a68759e1a32",
-		"unreleased": true
+		"id": "a9c80a85-95f8-4755-a759-3a68759e1a32"
 	},
 	{
 		"title": "",
@@ -6347,8 +6130,7 @@
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
-		"id": "2a314788-0de3-48e8-a037-a9ceb288887a",
-		"unreleased": true
+		"id": "2a314788-0de3-48e8-a037-a9ceb288887a"
 	},
 	{
 		"title": "",
@@ -6358,8 +6140,7 @@
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
-		"id": "1ef5a045-49c3-4495-9059-cab042748452",
-		"unreleased": true
+		"id": "1ef5a045-49c3-4495-9059-cab042748452"
 	},
 	{
 		"title": "",
@@ -6369,8 +6150,7 @@
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
-		"id": "42f93e90-cbae-4202-b064-a1df25ff60ef",
-		"unreleased": true
+		"id": "42f93e90-cbae-4202-b064-a1df25ff60ef"
 	},
 	{
 		"title": "",
@@ -6380,8 +6160,7 @@
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
-		"id": "4116c225-2ca6-4397-8c64-58b1df68f9ee",
-		"unreleased": true
+		"id": "4116c225-2ca6-4397-8c64-58b1df68f9ee"
 	},
 	{
 		"title": "",
@@ -6391,8 +6170,7 @@
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
-		"id": "17a113af-12dd-4a67-8d15-4e8245a66e12",
-		"unreleased": true
+		"id": "17a113af-12dd-4a67-8d15-4e8245a66e12"
 	},
 	{
 		"title": "",
@@ -6402,8 +6180,7 @@
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
-		"id": "de0fa602-3a33-4b9a-a17c-8941c53cb4dc",
-		"unreleased": true
+		"id": "de0fa602-3a33-4b9a-a17c-8941c53cb4dc"
 	},
 	{
 		"title": "",
@@ -6413,8 +6190,7 @@
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
-		"id": "f872d738-9a21-42a0-89b3-b8db2b4c47a3",
-		"unreleased": true
+		"id": "f872d738-9a21-42a0-89b3-b8db2b4c47a3"
 	},
 	{
 		"title": "",
@@ -6424,8 +6200,7 @@
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
-		"id": "8a14a668-e39f-4394-9eb5-450ffb74761d",
-		"unreleased": true
+		"id": "8a14a668-e39f-4394-9eb5-450ffb74761d"
 	},
 	{
 		"title": "",
@@ -6435,8 +6210,7 @@
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
-		"id": "08bfd88a-3be9-4fc0-8b1e-33e6f157e9e6",
-		"unreleased": true
+		"id": "08bfd88a-3be9-4fc0-8b1e-33e6f157e9e6"
 	},
 	{
 		"title": "",
@@ -6446,8 +6220,7 @@
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
-		"id": "93d2864e-ae97-44a5-a0e8-eede90e22deb",
-		"unreleased": true
+		"id": "93d2864e-ae97-44a5-a0e8-eede90e22deb"
 	},
 	{
 		"title": "",
@@ -6457,8 +6230,7 @@
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
-		"id": "5733c0b5-1215-488c-9460-ae23a795f49d",
-		"unreleased": true
+		"id": "5733c0b5-1215-488c-9460-ae23a795f49d"
 	},
 	{
 		"title": "",
@@ -6468,8 +6240,7 @@
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
-		"id": "6533100f-75a9-48f8-b28e-508f9399406f",
-		"unreleased": true
+		"id": "6533100f-75a9-48f8-b28e-508f9399406f"
 	},
 	{
 		"title": "",
@@ -6479,8 +6250,7 @@
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
-		"id": "a2efcf49-3b53-4b26-9684-88c85e5a3ce3",
-		"unreleased": true
+		"id": "a2efcf49-3b53-4b26-9684-88c85e5a3ce3"
 	},
 	{
 		"title": "",
@@ -6490,8 +6260,7 @@
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
-		"id": "b7900a4d-b3e1-4047-aca7-7a5f49acc052",
-		"unreleased": true
+		"id": "b7900a4d-b3e1-4047-aca7-7a5f49acc052"
 	},
 	{
 		"title": "",
@@ -6501,8 +6270,7 @@
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
-		"id": "68828ae5-339f-42f2-81e9-e1572a5b479a",
-		"unreleased": true
+		"id": "68828ae5-339f-42f2-81e9-e1572a5b479a"
 	},
 	{
 		"title": "",
@@ -6512,8 +6280,7 @@
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
-		"id": "af13197c-bf31-4227-8293-3a6f40bacd79",
-		"unreleased": true
+		"id": "af13197c-bf31-4227-8293-3a6f40bacd79"
 	},
 	{
 		"title": "",
@@ -6523,8 +6290,7 @@
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
-		"id": "08c425fd-2ee6-443a-93be-7adc71764abe",
-		"unreleased": true
+		"id": "08c425fd-2ee6-443a-93be-7adc71764abe"
 	},
 	{
 		"title": "",
@@ -6534,8 +6300,7 @@
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
-		"id": "35ab3bd3-5c83-4b3a-a62a-922afb3e81af",
-		"unreleased": true
+		"id": "35ab3bd3-5c83-4b3a-a62a-922afb3e81af"
 	},
 	{
 		"title": "",
@@ -6545,8 +6310,7 @@
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
-		"id": "65f28df7-30a2-4eb5-b229-b0f81a2f85e5",
-		"unreleased": true
+		"id": "65f28df7-30a2-4eb5-b229-b0f81a2f85e5"
 	},
 	{
 		"title": "",
@@ -6556,8 +6320,7 @@
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
-		"id": "01dbd6a3-a810-4303-8205-afd01243ede6",
-		"unreleased": true
+		"id": "01dbd6a3-a810-4303-8205-afd01243ede6"
 	},
 	{
 		"title": "",
@@ -6567,8 +6330,7 @@
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
-		"id": "ccc7ceb7-3335-4084-b9d2-4422e9dfd2fa",
-		"unreleased": true
+		"id": "ccc7ceb7-3335-4084-b9d2-4422e9dfd2fa"
 	},
 	{
 		"title": "",
@@ -6578,8 +6340,7 @@
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
-		"id": "aa212caa-a61e-4a12-8d26-fd1a005119a1",
-		"unreleased": true
+		"id": "aa212caa-a61e-4a12-8d26-fd1a005119a1"
 	},
 	{
 		"title": "",
@@ -6589,8 +6350,7 @@
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
-		"id": "b39681df-a2c6-4773-84fb-9509662e86eb",
-		"unreleased": true
+		"id": "b39681df-a2c6-4773-84fb-9509662e86eb"
 	},
 	{
 		"title": "",
@@ -6600,8 +6360,7 @@
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
-		"id": "c4623939-3bfa-4b4f-964f-7591d351946b",
-		"unreleased": true
+		"id": "c4623939-3bfa-4b4f-964f-7591d351946b"
 	},
 	{
 		"title": "",
@@ -6611,8 +6370,7 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"id": "472a2644-709c-4a94-9f9f-7fe7fe4f3a4f",
-		"unreleased": true
+		"id": "472a2644-709c-4a94-9f9f-7fe7fe4f3a4f"
 	},
 	{
 		"title": "",
@@ -6622,8 +6380,7 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"id": "6982ba2f-512a-45f0-818e-187910d18da3",
-		"unreleased": true
+		"id": "6982ba2f-512a-45f0-818e-187910d18da3"
 	},
 	{
 		"title": "",
@@ -6633,8 +6390,7 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"id": "d6268a67-3bf3-405a-adf9-7e3691a27645",
-		"unreleased": true
+		"id": "d6268a67-3bf3-405a-adf9-7e3691a27645"
 	},
 	{
 		"title": "",
@@ -6644,8 +6400,7 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"id": "97220591-c2c4-4335-be8c-a0686c4d88ed",
-		"unreleased": true
+		"id": "97220591-c2c4-4335-be8c-a0686c4d88ed"
 	},
 	{
 		"title": "",
@@ -6656,8 +6411,7 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"id": "c8d71df1-10b0-42be-8af0-a5392710d4c1",
-		"unreleased": true
+		"id": "c8d71df1-10b0-42be-8af0-a5392710d4c1"
 	},
 	{
 		"title": "",
@@ -6668,8 +6422,7 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"id": "b88cec55-5fdd-4185-ac8f-555d044d8c49",
-		"unreleased": true
+		"id": "b88cec55-5fdd-4185-ac8f-555d044d8c49"
 	},
 	{
 		"title": "",
@@ -6679,8 +6432,7 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"id": "7bf75196-395e-4426-aae3-161fea97f3e1",
-		"unreleased": true
+		"id": "7bf75196-395e-4426-aae3-161fea97f3e1"
 	},
 	{
 		"title": "",
@@ -6691,8 +6443,7 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"id": "fe414bb9-573c-41aa-b539-a28988bdded8",
-		"unreleased": true
+		"id": "fe414bb9-573c-41aa-b539-a28988bdded8"
 	},
 	{
 		"title": "",
@@ -6703,8 +6454,7 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"id": "d0960d1d-aba6-4a36-aac9-0cdb35808edd",
-		"unreleased": true
+		"id": "d0960d1d-aba6-4a36-aac9-0cdb35808edd"
 	},
 	{
 		"title": "",
@@ -6714,8 +6464,7 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"id": "c9d7ef8b-800e-4b90-a16a-7f00e188ffcd",
-		"unreleased": true
+		"id": "c9d7ef8b-800e-4b90-a16a-7f00e188ffcd"
 	},
 	{
 		"title": "",
@@ -6726,8 +6475,7 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"id": "e7b41413-695e-4eeb-88c8-f7e1012f69bc",
-		"unreleased": true
+		"id": "e7b41413-695e-4eeb-88c8-f7e1012f69bc"
 	},
 	{
 		"title": "",
@@ -6737,8 +6485,7 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"id": "5bf68449-8451-4247-8627-092db8edc7a4",
-		"unreleased": true
+		"id": "5bf68449-8451-4247-8627-092db8edc7a4"
 	},
 	{
 		"title": "",
@@ -6748,8 +6495,7 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"id": "19983f6e-f3c4-486c-b5f1-5cbbadd54c9b",
-		"unreleased": true
+		"id": "19983f6e-f3c4-486c-b5f1-5cbbadd54c9b"
 	},
 	{
 		"title": "",
@@ -6760,8 +6506,7 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"id": "ff89f5ee-72ee-4d52-ae54-ee868c27f152",
-		"unreleased": true
+		"id": "ff89f5ee-72ee-4d52-ae54-ee868c27f152"
 	},
 	{
 		"title": "",
@@ -6772,8 +6517,7 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"id": "282f5f62-5237-4df3-8366-b649bdf3ef60",
-		"unreleased": true
+		"id": "282f5f62-5237-4df3-8366-b649bdf3ef60"
 	},
 	{
 		"title": "",
@@ -6783,8 +6527,7 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"id": "18ce7d76-592d-489c-8cdf-e448dfdc333a",
-		"unreleased": true
+		"id": "18ce7d76-592d-489c-8cdf-e448dfdc333a"
 	},
 	{
 		"title": "",
@@ -6794,8 +6537,7 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"id": "08f24962-3d7a-488f-8db2-18b2da037a58",
-		"unreleased": true
+		"id": "08f24962-3d7a-488f-8db2-18b2da037a58"
 	},
 	{
 		"title": "",
@@ -6806,8 +6548,7 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"id": "628b8e89-bec3-451f-8596-4aac6afc1d30",
-		"unreleased": true
+		"id": "628b8e89-bec3-451f-8596-4aac6afc1d30"
 	},
 	{
 		"title": "",
@@ -6818,8 +6559,7 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"id": "d8d1403d-2202-4b6a-9460-94ce9212d94c",
-		"unreleased": true
+		"id": "d8d1403d-2202-4b6a-9460-94ce9212d94c"
 	},
 	{
 		"title": "",
@@ -6829,8 +6569,7 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"id": "8a7453a0-9d1c-4974-89af-a5c95008f89b",
-		"unreleased": true
+		"id": "8a7453a0-9d1c-4974-89af-a5c95008f89b"
 	},
 	{
 		"title": "",
@@ -6840,8 +6579,7 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"id": "72cbe1fe-3824-42f7-86d0-9d37aa6f4af7",
-		"unreleased": true
+		"id": "72cbe1fe-3824-42f7-86d0-9d37aa6f4af7"
 	},
 	{
 		"title": "",
@@ -6851,8 +6589,7 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"id": "f257b607-3545-4da6-a377-a0fb2127b9b1",
-		"unreleased": true
+		"id": "f257b607-3545-4da6-a377-a0fb2127b9b1"
 	},
 	{
 		"title": "",
@@ -6863,8 +6600,7 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"id": "2e15f23c-d494-440f-ae99-db3cd69cee2a",
-		"unreleased": true
+		"id": "2e15f23c-d494-440f-ae99-db3cd69cee2a"
 	},
 	{
 		"title": "",
@@ -6875,8 +6611,7 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"id": "6c05e9b1-cfa2-4027-b428-98b1f3d17a7c",
-		"unreleased": true
+		"id": "6c05e9b1-cfa2-4027-b428-98b1f3d17a7c"
 	},
 	{
 		"title": "",
@@ -6887,8 +6622,7 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"id": "cf2378c3-b3a0-4a43-b5c3-6d776e09899b",
-		"unreleased": true
+		"id": "cf2378c3-b3a0-4a43-b5c3-6d776e09899b"
 	},
 	{
 		"title": "",
@@ -6899,8 +6633,7 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"id": "217ba532-d691-4ea7-a797-6882276e3287",
-		"unreleased": true
+		"id": "217ba532-d691-4ea7-a797-6882276e3287"
 	},
 	{
 		"title": "",
@@ -6910,8 +6643,7 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"id": "9d399f0b-c72b-4b32-8b8b-b639e1e5d025",
-		"unreleased": true
+		"id": "9d399f0b-c72b-4b32-8b8b-b639e1e5d025"
 	},
 	{
 		"title": "",
@@ -6922,8 +6654,7 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"id": "c34c445d-850a-4968-80b1-80c950ace2ae",
-		"unreleased": true
+		"id": "c34c445d-850a-4968-80b1-80c950ace2ae"
 	},
 	{
 		"title": "",
@@ -6933,8 +6664,7 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"id": "de155ee2-bc62-425c-af33-707cae9b56a3",
-		"unreleased": true
+		"id": "de155ee2-bc62-425c-af33-707cae9b56a3"
 	},
 	{
 		"title": "",
@@ -6944,8 +6674,7 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"id": "052b010e-667c-4051-bcda-c23790d96426",
-		"unreleased": true
+		"id": "052b010e-667c-4051-bcda-c23790d96426"
 	},
 	{
 		"title": "",
@@ -6955,8 +6684,7 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"id": "2097f916-5472-4df7-962e-9c24c87adf9b",
-		"unreleased": true
+		"id": "2097f916-5472-4df7-962e-9c24c87adf9b"
 	},
 	{
 		"title": "",
@@ -6966,7 +6694,6 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"id": "b8a6a702-ccdd-4207-bd55-7a39ad81594a",
-		"unreleased": true
+		"id": "b8a6a702-ccdd-4207-bd55-7a39ad81594a"
 	}
 ]

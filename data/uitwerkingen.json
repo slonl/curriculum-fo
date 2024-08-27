@@ -181,17 +181,6 @@
 	},
 	{
 		"title": "",
-		"id": "3accb55d-9dd6-4cf9-9e46-564d2cd35720",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725",
-			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
-		],
-		"description": "Concept - Het gaat hierbij om schrijven op letter-, schrift- en tekstniveau met een leesbaar handschrift en typschrift.",
-		"prefix": "DELETE",
-		"deleted": 1
-	},
-	{
-		"title": "",
 		"id": "74ce4ffc-ac56-4791-9622-42294c2091e8",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
@@ -259,17 +248,6 @@
 		],
 		"description": "Concept - Het gaat hierbij om vergelijkend beoordelen van bronnen op basis van hun betrouwbaarheid.",
 		"prefix": "u3"
-	},
-	{
-		"title": "",
-		"id": "39c4e18e-15a9-4498-b43c-ab6b36bf87b1",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725",
-			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
-		],
-		"description": "Concept - Het gaat hierbij om formuleren van een eenvoudige tekst op basis van geselecteerde informatie, afgestemd op doel, publiek en context.",
-		"prefix": "DELETE",
-		"deleted": 1
 	},
 	{
 		"title": "",
@@ -400,17 +378,6 @@
 		],
 		"description": "Concept - Het gaat hierbij om formuleren van leerdoelen voor proces en product bij toekomstige taalactiviteiten.",
 		"prefix": "u4"
-	},
-	{
-		"title": "",
-		"id": "e6229dbf-36fb-496e-8dad-e1c60c09e9f8",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725",
-			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
-		],
-		"description": "Concept - Het gaat hierbij om beargumenteren en samenvatten van standpunten, opgedane kennis, beslissingen of gekozen aanpak.",
-		"prefix": "DELETE",
-		"deleted": 1
 	},
 	{
 		"title": "",
@@ -584,39 +551,6 @@
 	},
 	{
 		"title": "",
-		"id": "5474c008-6a99-4d5c-ab66-78f1d8a42e08",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725",
-			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
-		],
-		"description": "Concept - Het gaat hierbij om herkennen van verschillen tussen taalgebruik van vroeger en nu in gesproken en geschreven teksten.",
-		"prefix": "DELETE",
-		"deleted": 1
-	},
-	{
-		"title": "",
-		"id": "5a0e762e-a4f0-47f9-a917-3c7d82c93815",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725",
-			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
-		],
-		"description": "Concept - Het gaat hierbij om onderscheiden van veranderingen in vorm, betekenis en gebruik.",
-		"prefix": "DELETE",
-		"deleted": 1
-	},
-	{
-		"title": "",
-		"id": "5d97db59-b393-4a0e-b6a1-8f242576fec6",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725",
-			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
-		],
-		"description": "Concept - Het gaat hierbij om herkennen van nieuwe woorden en uitdrukkingen in het Nederlands onder invloed van media, digitalisering en andere talen.",
-		"prefix": "DELETE",
-		"deleted": 1
-	},
-	{
-		"title": "",
 		"id": "77203dda-4845-4a17-8160-f34b6caf0b34",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
@@ -654,17 +588,6 @@
 		],
 		"description": "Concept - Het gaat hierbij om beschrijven waar, wanneer en onder welke omstandigheden een verhaal zich afspeelt.",
 		"prefix": "u4"
-	},
-	{
-		"title": "",
-		"id": "adc47cdb-0fed-43bf-8240-16c3ab540cda",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725",
-			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
-		],
-		"description": "Concept - Het gaat hierbij om beschrijven waar, wanneer en onder welke omstandigheden een verhaal zich afspeelt.",
-		"prefix": "DELETE",
-		"deleted": 1
 	},
 	{
 		"title": "",
@@ -775,17 +698,6 @@
 		],
 		"description": "Concept - Het gaat hierbij om verwoorden van opgedane inzichten en kennis over de wereld en culturen op basis van literatuur.",
 		"prefix": "u4"
-	},
-	{
-		"title": "",
-		"id": "74290fe8-aca3-448b-b192-7019037cb5e6",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725",
-			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
-		],
-		"description": "Concept - Het gaat hierbij om geven van een waardeoordeel over de tekst.",
-		"prefix": "DELETE",
-		"deleted": 1
 	},
 	{
 		"title": "",
@@ -1198,16 +1110,6 @@
 		"prefix": "u3"
 	},
 	{
-		"title": "",
-		"id": "73643c82-8ef9-4026-bdfb-0e153893d222",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725",
-			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
-		],
-		"deleted": 1,
-		"description": "Concept - Het gaat hierbij om herkennen of een probleem met wiskunde kan worden opgelost."
-	},
-	{
 		"title": " ",
 		"id": "4c21658c-47bf-47e3-97ba-103c9ab619ba",
 		"niveau_id": [
@@ -1506,16 +1408,6 @@
 		],
 		"description": "Concept - Het gaat hierbij om laten gebruiken van wiskundige modellen, wiskundige instrumenten en algoritmes in verschillende leergebieden.",
 		"prefix": "u4"
-	},
-	{
-		"title": "",
-		"id": "1281997e-c637-453a-84f2-a91d2699382a",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725",
-			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
-		],
-		"deleted": 1,
-		"description": "Concept - Het gaat hierbij om toepassen van modelgebruik en algoritmisch denken in andere leergebieden."
 	},
 	{
 		"title": "",
@@ -2154,17 +2046,6 @@
 	},
 	{
 		"title": "",
-		"id": "c9c6ed82-a8bb-48a6-adea-9ed7c207771e",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"description": "Concept - Het gaat hierbij om gebruiken van een model om te redeneren over een situatie.",
-		"prefix": "DELETE",
-		"deleted": 1
-	},
-	{
-		"title": "",
 		"prefix": "u5",
 		"id": "4f69a8c9-fa7d-4197-ac15-d3ce27c4bafb",
 		"niveau_id": [
@@ -2501,86 +2382,9 @@
 	},
 	{
 		"title": "",
-		"id": "2db47992-145e-4457-a2be-07478ba8908c",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"description": "Concept - Het gaat hierbij om toepassen van modelgebruik en algoritmisch denken in andere leergebieden.",
-		"prefix": "DELETE",
-		"deleted": 1
-	},
-	{
-		"title": "",
-		"id": "4a6bce45-20c5-4639-a4a4-155db19686cc",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"description": "Concept - Het gaat hierbij om leerlingen aanmoedigen om wiskundetaal en wiskundige representaties te gebruiken die passen bij de verschillende wiskundige concepten.",
-		"prefix": "DELETE",
-		"deleted": 1
-	},
-	{
-		"title": "",
-		"id": "70917d43-27c5-4c06-9a7d-6b64e6fcbcec",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"description": "Concept - Het gaat hierbij om laten gebruiken van wiskundige instrumenten.",
-		"prefix": "DELETE",
-		"deleted": 1
-	},
-	{
-		"title": "",
-		"id": "d439e7c8-0283-41da-82c8-06ff98d8e1f3",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"description": "Concept - Het gaat hierbij om aanbieden van problemen met betrekking tot verschillende wiskundige concepten.",
-		"prefix": "DELETE",
-		"deleted": 1
-	},
-	{
-		"title": "",
-		"id": "3902bf38-48bd-41ab-8a85-91f1f753e500",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"description": "Concept - Het gaat hierbij om gebruiken van modellen en algoritmisch denken bij verschillende wiskundige concepten.",
-		"prefix": "DELETE",
-		"deleted": 1
-	},
-	{
-		"title": "",
-		"id": "fbe28710-17ad-4996-af95-81b30ccd7f56",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"description": "Concept - Het gaat hierbij om leerlingen vragen om beweringen over verschillende wiskundige concepten aan te tonen.",
-		"prefix": "DELETE",
-		"deleted": 1
-	},
-	{
-		"title": "",
 		"description": "Concept - Het gaat hierbij om laten zien van het nut en de kracht van wiskunde in uiteenlopende toepassingen.",
 		"prefix": "u1",
 		"id": "925b27d1-7706-40ae-906b-93fa495d64e3",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
-	},
-	{
-		"title": "",
-		"description": "Concept - Het gaat hierbij om stimuleren om vragen te stellen bij concrete getalsmatige en wiskundige informatie.",
-		"prefix": "DELETE",
-		"deleted": 1,
-		"id": "89775bfc-1ca1-4afc-8107-6604fe1c9fbc",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
@@ -2888,17 +2692,6 @@
 	},
 	{
 		"title": "",
-		"id": "a0fe8562-bd97-4df5-a15c-25d677a9b22d",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"description": "Concept - Het gaat hierbij om formuleren van een gestructureerde tekst op basis van geselecteerde informatie, afgestemd op doel, publiek en context.",
-		"prefix": "DELETE",
-		"deleted": 1
-	},
-	{
-		"title": "",
 		"id": "c32bd0a0-6f8b-41fc-9158-12de23ec20b5",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
@@ -3026,17 +2819,6 @@
 		],
 		"description": "Concept - Het gaat hierbij om formuleren van leerdoelen voor proces en product bij toekomstige taalactiviteiten.",
 		"prefix": "u4"
-	},
-	{
-		"title": "",
-		"id": "a0fda18f-9919-40e8-ab65-c48bdd01013f",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"description": "Concept - Het gaat hierbij om formuleren van leerdoelen en maken van keuzes voor toekomstige taalactiviteiten op basis van evaluatie en reflectie.",
-		"prefix": "DELETE",
-		"deleted": 1
 	},
 	{
 		"title": "",
@@ -3264,18 +3046,6 @@
 	},
 	{
 		"title": "",
-		"id": "782e4867-0192-44d3-8242-a93e0bd9bca3",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59",
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"description": "Concept - Het gaat hierbij om verkennen hoe literatuur door de eeuwen heen wordt doorgegeven.",
-		"prefix": "DELETE",
-		"deleted": 1
-	},
-	{
-		"title": "",
 		"id": "fce4c74b-60c9-4f7d-9e5d-146a5f5f8d45",
 		"niveau_id": [
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
@@ -3313,17 +3083,6 @@
 		],
 		"description": "Concept - Het gaat hierbij om analyseren van kenmerkende visuele elementen in literaire genres: illustraties, vormgeving, typografie.",
 		"prefix": "u4"
-	},
-	{
-		"title": "",
-		"id": "e181cb1d-2472-4a0d-bd35-3d3418704f8d",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"description": "Concept - Het gaat hierbij om beschrijven waar, wanneer en onder welke omstandigheden een verhaal zich afspeelt.",
-		"prefix": "DELETE",
-		"deleted": 1
 	},
 	{
 		"title": "",
@@ -3448,17 +3207,6 @@
 		],
 		"description": "Concept - Het gaat hierbij om verwoorden van opgedane inzichten en kennis over de wereld en culturen op basis van literatuur.",
 		"prefix": "u4"
-	},
-	{
-		"title": "",
-		"id": "d98f01dd-90b1-4e09-933e-5270e0d6e4a1",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"description": "Concept - Te denken valt aan lezen, vergelijken en bespreken van teksten van verschillende literaire genres, zoals een sonnet, detectives en biografieën.",
-		"prefix": "DELETE",
-		"deleted": 1
 	},
 	{
 		"title": "",
@@ -10891,8 +10639,7 @@
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
-		"id": "23cc33b9-6e43-44f7-bc59-ceb8262e1d3b",
-		"unreleased": true
+		"id": "23cc33b9-6e43-44f7-bc59-ceb8262e1d3b"
 	},
 	{
 		"title": " ",
@@ -10902,8 +10649,7 @@
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
-		"id": "bb66c52d-87c3-43ee-9451-878e05de028d",
-		"unreleased": true
+		"id": "bb66c52d-87c3-43ee-9451-878e05de028d"
 	},
 	{
 		"title": " ",
@@ -10913,8 +10659,7 @@
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
-		"id": "92569c21-7099-4df0-9aa8-2af006f78ccb",
-		"unreleased": true
+		"id": "92569c21-7099-4df0-9aa8-2af006f78ccb"
 	},
 	{
 		"title": "",
@@ -10924,8 +10669,7 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"id": "4f6c64a0-8669-44c3-85af-165d43f588e7",
-		"unreleased": true
+		"id": "4f6c64a0-8669-44c3-85af-165d43f588e7"
 	},
 	{
 		"title": "",
@@ -10936,8 +10680,7 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"id": "8d7587ef-ef4b-45c0-89e3-ba0bfa74b864",
-		"unreleased": true
+		"id": "8d7587ef-ef4b-45c0-89e3-ba0bfa74b864"
 	},
 	{
 		"title": "",
@@ -10948,8 +10691,7 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"id": "65f79e0b-bc4f-4cf8-936d-5270501b0ae8",
-		"unreleased": true
+		"id": "65f79e0b-bc4f-4cf8-936d-5270501b0ae8"
 	},
 	{
 		"title": "",
@@ -10959,8 +10701,7 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"id": "ba032a89-752d-47fa-af85-7681d9d57c64",
-		"unreleased": true
+		"id": "ba032a89-752d-47fa-af85-7681d9d57c64"
 	},
 	{
 		"title": "",
@@ -10970,8 +10711,7 @@
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
-		"id": "ca0d011a-e26c-49a3-8bd2-8c9283a5c693",
-		"unreleased": true
+		"id": "ca0d011a-e26c-49a3-8bd2-8c9283a5c693"
 	},
 	{
 		"title": "",
@@ -10981,8 +10721,7 @@
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
-		"id": "cd3abc0d-74a8-4c0a-bc0a-2572f906941d",
-		"unreleased": true
+		"id": "cd3abc0d-74a8-4c0a-bc0a-2572f906941d"
 	},
 	{
 		"title": "",
@@ -10992,8 +10731,7 @@
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
-		"id": "0f6a1c30-5e36-4abd-8bb2-fb3e0226dbfa",
-		"unreleased": true
+		"id": "0f6a1c30-5e36-4abd-8bb2-fb3e0226dbfa"
 	},
 	{
 		"title": "",
@@ -11003,8 +10741,7 @@
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
-		"id": "5568665c-cc39-427f-87de-1de0f911dfbe",
-		"unreleased": true
+		"id": "5568665c-cc39-427f-87de-1de0f911dfbe"
 	},
 	{
 		"title": "",
@@ -11014,8 +10751,7 @@
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
-		"id": "1bdf0a4f-d720-48e3-aeb4-72d68686f112",
-		"unreleased": true
+		"id": "1bdf0a4f-d720-48e3-aeb4-72d68686f112"
 	},
 	{
 		"title": "",
@@ -11025,8 +10761,7 @@
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
-		"id": "5941bd6a-6036-46be-b660-1df33c32dd67",
-		"unreleased": true
+		"id": "5941bd6a-6036-46be-b660-1df33c32dd67"
 	},
 	{
 		"title": "",
@@ -11036,8 +10771,7 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"id": "60fda3df-32a4-4169-a73d-a35b16074945",
-		"unreleased": true
+		"id": "60fda3df-32a4-4169-a73d-a35b16074945"
 	},
 	{
 		"title": "",
@@ -11047,8 +10781,7 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"id": "26864932-79ac-4df8-a567-f9c0362437c2",
-		"unreleased": true
+		"id": "26864932-79ac-4df8-a567-f9c0362437c2"
 	},
 	{
 		"title": "",
@@ -11058,8 +10791,7 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"id": "24b77529-c0df-44e6-9de5-edd14feb181a",
-		"unreleased": true
+		"id": "24b77529-c0df-44e6-9de5-edd14feb181a"
 	},
 	{
 		"title": "",
@@ -11069,8 +10801,7 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"id": "279081dd-2ff5-4bb7-bc78-6cff96a568ee",
-		"unreleased": true
+		"id": "279081dd-2ff5-4bb7-bc78-6cff96a568ee"
 	},
 	{
 		"title": "",
@@ -11080,8 +10811,7 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"id": "77e1a912-2f0c-45ae-a81a-a3cd391c5b03",
-		"unreleased": true
+		"id": "77e1a912-2f0c-45ae-a81a-a3cd391c5b03"
 	},
 	{
 		"title": "",
@@ -11092,8 +10822,7 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"id": "b6091019-bc91-4206-87ee-9579327f6a87",
-		"unreleased": true
+		"id": "b6091019-bc91-4206-87ee-9579327f6a87"
 	},
 	{
 		"title": "",
@@ -11104,8 +10833,7 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"id": "961b3731-38aa-481f-aba6-341e9186bf64",
-		"unreleased": true
+		"id": "961b3731-38aa-481f-aba6-341e9186bf64"
 	},
 	{
 		"title": "",
@@ -11116,8 +10844,7 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"id": "831e87f9-3541-447f-adf8-07fcda41269c",
-		"unreleased": true
+		"id": "831e87f9-3541-447f-adf8-07fcda41269c"
 	},
 	{
 		"title": "",
@@ -11127,8 +10854,7 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"id": "923e1f30-3ad5-4e6b-ab21-825f3aa3b6c9",
-		"unreleased": true
+		"id": "923e1f30-3ad5-4e6b-ab21-825f3aa3b6c9"
 	},
 	{
 		"title": "",
@@ -11138,8 +10864,7 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"id": "10c24eb9-1e2a-4246-a8f9-6682f409d39a",
-		"unreleased": true
+		"id": "10c24eb9-1e2a-4246-a8f9-6682f409d39a"
 	},
 	{
 		"title": "",
@@ -11149,8 +10874,7 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"id": "e991b8dd-3749-4bab-ac53-c507bd3ceb5f",
-		"unreleased": true
+		"id": "e991b8dd-3749-4bab-ac53-c507bd3ceb5f"
 	},
 	{
 		"title": "",
@@ -11160,8 +10884,7 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"id": "be58afd0-6e6a-4e96-a4c0-77a219ddcea1",
-		"unreleased": true
+		"id": "be58afd0-6e6a-4e96-a4c0-77a219ddcea1"
 	},
 	{
 		"title": "",
@@ -11172,7 +10895,6 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59",
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"id": "741a066d-45e2-4689-b82b-236af07e563c",
-		"unreleased": true
+		"id": "741a066d-45e2-4689-b82b-236af07e563c"
 	}
 ]
