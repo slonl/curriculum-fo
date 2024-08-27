@@ -93,7 +93,8 @@
 						},
 						"prefix": { "type": "string" },
 						"soort": { "type": "string",   "enum": ["kerndoel", "eindterm"]	},
-						"ce_se": { "type": "string" }
+						"ce" : { "type" : "integer", "minimum": 0, "maximum": 1 },
+						"se" : { "type" : "integer", "minimum": 0, "maximum": 1 }
 					},
 					"required": ["id", "title", "fo_uitwerking_id"]
 				}
@@ -104,13 +105,13 @@
 				{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/base" },
 				{
 					"properties": {
-						"prefix": { "type": "string" }
-					},
-					"niveau_id" : {
-						"allOf": [
-							{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
-							{ "items": { "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/niveau" } }
-						]
+						"prefix": { "type": "string" },
+						"niveau_id" : {
+							"allOf": [
+								{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
+								{ "items": { "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/niveau" } }
+							]
+						}
 					},
 					"required": ["id", "title"]
 				}
@@ -121,13 +122,13 @@
 				{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/base" },
 				{
 					"properties": {
-						"prefix": { "type": "string" }
-					},
-					"niveau_id" : {
-						"allOf": [
-							{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
-							{ "items": { "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/niveau" } }
-						]
+						"prefix": { "type": "string" },
+						"niveau_id" : {
+							"allOf": [
+								{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
+								{ "items": { "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/niveau" } }
+							]
+						}
 					},
 					"required": ["id", "title"]
 				}
