@@ -1,6 +1,6 @@
 [
 	{
-		"title": "Overstijgend",
+		"title": "Overkoepelend",
 		"fo_doelzin_id": [
 			"efff8a4b-cbd5-4775-aa8f-0d3f98733e6b",
 			"ef048d52-0a42-4dd1-a529-ca059c3572bf",
@@ -17,28 +17,8 @@
 		"id": "0d2e4fb8-cc61-427d-8ce7-ef6a2bf12e5e"
 	},
 	{
-		"title": "Communicatie",
-		"fo_subdomein_id": [
-			"ec631940-2fa2-4104-8534-48c321938064",
-			"c06ef855-4173-4098-8093-faf2fc662a3d"
-		],
-		"prefix": "A",
-		"id": "eabb7766-d2b2-4e03-a296-234330510a63"
-	},
-	{
-		"title": "Taal",
-		"fo_subdomein_id": [
-			"7d7429dc-a684-402b-9de2-70cbde32fe2e",
-			"c4bc56e6-5bf7-4f82-8cb8-e87e4874d262"
-		],
-		"prefix": "B",
-		"id": "6d328b4b-a3b9-4080-a92e-de84b802907b"
-	},
-	{
 		"title": "Wiskundige attitude",
 		"fo_doelzin_id": [
-			"561469ee-a769-4997-bc6e-e38335eaaf0a",
-			"718ea081-6bc6-45d3-84dc-f8aabf7a13e6",
 			"cd19a94c-1ee9-4360-99f2-1cd65dd19ad5",
 			"93886e3a-d769-4224-9f8f-2fdeb1905fc8",
 			"9537dfce-2cee-45cf-9cac-a79e40c27f98"
@@ -83,54 +63,8 @@
 			"6378af10-b801-4930-958c-60b87a243d45",
 			"0ae58e3e-d8b9-447a-b773-4f9a8c31e97f"
 		],
-		"prefix": "B",
+		"prefix": "A",
 		"id": "f87d2b59-714b-4b94-9dfa-81e49632ad4e"
-	},
-	{
-		"title": "Wiskundige denk/werkwijze",
-		"fo_doelzin_id": [
-			"3e321838-9e34-4db8-af4a-ca5f92e62049",
-			"c9e39d4f-dc31-4931-b15a-f46a74eb17f1",
-			"4e99fb88-c09c-4de7-b062-d2e1671a879b",
-			"0c42c5f9-5e3d-477b-a4e2-09b95c9d8133",
-			"3f2a764a-3055-4128-80e1-763476691bdf",
-			"b9fce428-e0b3-4524-832d-22dfb2a44af7",
-			"0956691b-5ed5-4c1f-a952-58e16b07ad5d",
-			"6cabfbd4-c370-47fb-9144-776e7bf4cd5f",
-			"62a0730b-8c50-43f7-a6cd-3342d0c0607f",
-			"b071f771-aae1-4438-9661-85d53ac885d8",
-			"ff4483c9-86da-4de8-8661-b4d4801ebbcf",
-			"56346b00-a8db-472a-983e-0143021570b8",
-			"bdc74166-3003-4deb-b8d8-56a520569564",
-			"28d6dbbd-9b33-4bb8-bdbe-232c47f4d49a",
-			"0f4c919d-bca5-48f1-bf5e-477fb839697a",
-			"126c04c7-3959-4bd7-83b0-8c4ba45026f3",
-			"11219833-a07d-407b-8f54-5beaf779d062"
-		],
-		"prefix": "C",
-		"id": "7b38ff3a-19b8-4980-b282-5f27e9bf38c6"
-	},
-	{
-		"title": "Wiskunde en de wereld",
-		"fo_doelzin_id": [
-			"bb06ac58-b4c5-4dd6-b75f-50941ffb2380",
-			"347fe2cf-3c24-4502-8111-b811cd981675",
-			"7c5743b8-2c72-4fbd-b308-a3eea257ce07",
-			"24509a03-2564-48bc-80ff-5df287166046",
-			"ec3fe6d1-5f47-425f-8075-df6b98c605b7",
-			"9c5c8409-4d99-407e-a23c-18fd88d63de4",
-			"d17bf839-dc4f-4de7-b416-12d11a5e0add",
-			"6dea5e47-abc5-40e0-b143-358174ce4db5",
-			"052dd6d2-2732-42a1-b548-8d07a9d1687c",
-			"41846d7e-ecb0-4a26-93fb-693a444bc4de",
-			"23f99b4d-a3b8-4c0b-a7b6-527036661256",
-			"952009bc-60bc-4de9-8a19-a16aee78028f",
-			"6957f96d-fc3f-44ee-8de6-e5f2a4089bd2",
-			"f77fe97a-e430-4d8f-b21c-f9d420d604dd",
-			"a5aeb7a6-d580-4950-bbd3-b62da9d5a6b9"
-		],
-		"prefix": "D",
-		"id": "499a6542-3e4b-4595-b9b6-543591e66ae1"
 	},
 	{
 		"title": "Praktische kennis & vaardigheden",
@@ -399,15 +333,158 @@
 		"id": "c1d07b63-95bf-4fc7-96e1-b22a39b7cafa"
 	},
 	{
-		"title": "Literatuur",
-		"fo_subdomein_id": [
-			"74c790e2-acb0-4acb-9caf-b6cbb69300eb",
-			"0c5615c5-79a0-4e1e-9514-37d37483c4d4"
+		"title": "Taal",
+		"fo_doelzin_id": [
+			"21725a98-baa3-45c3-b8a5-ac3026ff35e2",
+			"886e4275-3b58-4b31-b639-b64934589013",
+			"0c5c554b-3901-44f8-aaa0-6e7b63caf5fc",
+			"0a247c35-3e9a-48b9-bebd-1ab6810c5b48",
+			"91f9a7f4-0f4d-43bb-b564-0e8bcd56679a",
+			"7277cd75-566e-4dcb-9086-e9379f42970c",
+			"fca436bf-1988-4fdc-a6fd-7bc87fdebbf7",
+			"fa700a59-bc55-4039-b320-a2d4ec25b32d",
+			"838eb09e-0666-4e6a-ba8d-1df26bb00b70",
+			"4e193aaf-3325-4495-8371-e7d1cce8460c",
+			"275521aa-6b60-4558-ba1b-f65b0a9ba9ad",
+			"86df4812-465c-49af-83f6-1d3885326e47",
+			"68d3d4e0-b62d-4017-bcfd-f773dfc1773f",
+			"ea4f56f1-e2b4-471c-8146-daf144b3209c",
+			"450eefee-b96e-4379-9646-9254bf482f9a",
+			"1c55976c-7e3c-4658-9b01-5557ebb46b84",
+			"27c0b6ff-339a-4335-ba4c-859469b40252",
+			"01ada9cf-586f-425e-b01b-d16d4909c3c4"
+		],
+		"prefix": "B",
+		"id": "fad1f721-dc7e-4dc8-bb75-1871ca49c109",
+		"replaces": [
+			"6d328b4b-a3b9-4080-a92e-de84b802907b"
+		]
+	},
+	{
+		"title": "Wiskunde en de wereld",
+		"fo_doelzin_id": [
+			"561469ee-a769-4997-bc6e-e38335eaaf0a",
+			"e0253abd-e528-42c3-8970-2d337901f02d",
+			"bb06ac58-b4c5-4dd6-b75f-50941ffb2380",
+			"347fe2cf-3c24-4502-8111-b811cd981675",
+			"2c960103-654f-4c08-b9de-88e496443f2b",
+			"174c361a-a20b-478c-8aef-774b6b229723",
+			"d17bf839-dc4f-4de7-b416-12d11a5e0add",
+			"6dea5e47-abc5-40e0-b143-358174ce4db5",
+			"052dd6d2-2732-42a1-b548-8d07a9d1687c",
+			"41846d7e-ecb0-4a26-93fb-693a444bc4de",
+			"23f99b4d-a3b8-4c0b-a7b6-527036661256",
+			"952009bc-60bc-4de9-8a19-a16aee78028f",
+			"6957f96d-fc3f-44ee-8de6-e5f2a4089bd2",
+			"f77fe97a-e430-4d8f-b21c-f9d420d604dd",
+			"a5aeb7a6-d580-4950-bbd3-b62da9d5a6b9"
 		],
 		"prefix": "C",
-		"id": "2520c537-27b6-4394-af35-2ab3b7eeb7fd",
+		"id": "4f3da229-5364-4dec-ac09-e4013aeeb7f3",
 		"replaces": [
-			"5d0676d3-fbea-4ab9-8ce1-fb1b3a622236"
+			"499a6542-3e4b-4595-b9b6-543591e66ae1"
+		]
+	},
+	{
+		"title": "Communicatie",
+		"fo_doelzin_id": [
+			"75ee36f1-4e54-48fa-8e0e-09bca848fa15",
+			"907bc4e8-3eb8-482f-8fc0-93bc33e50f62",
+			"be096fc3-d3c5-4b21-82df-0601b31c0ca2",
+			"a83b3a96-6312-4962-879e-f737337db8fb",
+			"64ccb673-e75c-4ef1-9274-311e7910bba4",
+			"733a1b9c-981a-4124-a47d-88c232c0b338",
+			"254caadd-5870-4458-9a11-ef71a0c69ce0",
+			"c6136156-dd19-4391-b4cf-544d6e15ce17",
+			"44c10504-afb2-4275-879c-bf840f7ef6e3",
+			"50ec048a-8295-413c-b3f9-18b14504a8af",
+			"4b8b8c36-9b85-4c23-98b2-9edc18da8de9",
+			"04afcc55-a280-4b92-a19a-c13b653c7381",
+			"3c0fe5c0-92d5-4bb8-b444-b8c34f7d854b",
+			"70191486-92d4-4c68-9793-6602e6c29423",
+			"9561782a-e1ca-442c-86c0-a0eec8cdae2f",
+			"65816e71-4f8a-4e8d-bdad-c2cf4d745a17",
+			"580a18b5-d619-4782-85f2-e7e644867b5e",
+			"7fe4ff43-f868-4988-b36f-67eb6864caed",
+			"c320e4ec-5149-4a41-919f-1d1c7fbf83ce",
+			"1467bb9c-0fd1-44c5-a364-06df8dbcb19e",
+			"07c3d5ad-952d-4fef-b892-93bcab2bb8fe",
+			"e0d648b3-c8ee-48d5-b43d-fa2cc26d4a39",
+			"8a8b3298-09af-4fdc-81be-e6964dbe7270",
+			"8d464645-eeee-4d02-96cc-f44aad0440d3",
+			"2f7f4626-6f7f-46fa-8128-74a2a742fc66",
+			"1b68cbd8-cb1f-4c8c-8fb2-61c319544afa",
+			"bd0564a3-651d-48fb-b2e5-cee16e885c4e",
+			"a6065e1e-ea03-4508-b251-4308a8590b58",
+			"95e9463d-3b66-4c83-ba37-c7e932a8f24e",
+			"2744a98d-e0af-4127-bf97-37b3ea359a02",
+			"f728de8c-1773-41d2-9439-53fd08fe7529",
+			"59c23efd-bdd7-43b0-ba0c-e518dca752a3",
+			"a6918da2-b58a-4452-b51c-10b03adee3d8",
+			"090162f7-130a-481d-8d65-3757c348da06",
+			"297f334e-520b-4065-8c96-0f1b55ca11a3",
+			"5b9679fb-664e-4dbe-8146-d887df590370",
+			"f0ba095c-2dda-4417-bc08-601369756749",
+			"f49f8889-3256-4737-90d3-eabbafb6903b",
+			"b7c23d6d-f47a-41c6-8f29-15e9c0fb6786"
+		],
+		"prefix": "A",
+		"id": "04389b88-0243-4d0b-867b-d1fc048abcf4",
+		"replaces": [
+			"eabb7766-d2b2-4e03-a296-234330510a63"
+		]
+	},
+	{
+		"title": "Literatuur",
+		"fo_doelzin_id": [
+			"0081d62f-1e75-4835-b586-12d01ce252b9",
+			"3cb0cfa6-ab18-42d8-a8c1-902a0d2f2a6b",
+			"dd67bb77-033b-4e01-a8a6-08b75ea8a7ec",
+			"f98415bb-d833-4ffa-b74b-35a954783b9e",
+			"0a6cd39a-020f-4449-8a0c-b283f1d271ff",
+			"1a6c3f41-f76d-419a-850c-7a4a9071ff88",
+			"a0798be3-9352-491a-8a27-734489a717b9",
+			"7e5457eb-22ee-4684-aede-94cb9b6ee8fd",
+			"0d34ad1d-7ac7-4a1d-8d58-4188bccf7d17",
+			"19ba7c42-1e92-4b9f-9c9f-32e894b19af2",
+			"b8a3149f-6eb4-4772-b48e-c06fcb9e7c42",
+			"f5e9675d-503f-4242-837f-33407b9a033e",
+			"6e65d06a-e919-4165-8e22-a98db5fb0d87",
+			"43fff266-82a2-4998-bab7-914b8b9035cd",
+			"f467fe1d-210b-4d4f-b65a-df8ff29c59f8"
+		],
+		"prefix": "C",
+		"id": "8512d7c8-d3e6-4eb1-8a9d-c8f77e695ed7",
+		"replaces": [
+			"5d0676d3-fbea-4ab9-8ce1-fb1b3a622236",
+			"2520c537-27b6-4394-af35-2ab3b7eeb7fd"
+		]
+	},
+	{
+		"title": "Wiskundige denk-werkwijzen",
+		"fo_doelzin_id": [
+			"69cef2c4-e2db-4dfb-b002-e7d711fd6aa8",
+			"c9e39d4f-dc31-4931-b15a-f46a74eb17f1",
+			"4e99fb88-c09c-4de7-b062-d2e1671a879b",
+			"70083e6d-ec38-4cf1-8a56-a9c0610ab177",
+			"3f2a764a-3055-4128-80e1-763476691bdf",
+			"f365f2b8-601f-4d46-9243-542bd2e0cfce",
+			"0956691b-5ed5-4c1f-a952-58e16b07ad5d",
+			"6cabfbd4-c370-47fb-9144-776e7bf4cd5f",
+			"62a0730b-8c50-43f7-a6cd-3342d0c0607f",
+			"b071f771-aae1-4438-9661-85d53ac885d8",
+			"ff4483c9-86da-4de8-8661-b4d4801ebbcf",
+			"56346b00-a8db-472a-983e-0143021570b8",
+			"bdc74166-3003-4deb-b8d8-56a520569564",
+			"28d6dbbd-9b33-4bb8-bdbe-232c47f4d49a",
+			"0f4c919d-bca5-48f1-bf5e-477fb839697a",
+			"126c04c7-3959-4bd7-83b0-8c4ba45026f3",
+			"11219833-a07d-407b-8f54-5beaf779d062"
+		],
+		"prefix": "B",
+		"id": "42f9ada1-0515-4dc9-9a83-c4e33aeae4e2",
+		"replaces": [
+			"7b38ff3a-19b8-4980-b282-5f27e9bf38c6"
 		]
 	}
 ]

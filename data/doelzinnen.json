@@ -1,321 +1,7 @@
 [
 	{
-		"description": "Concept - De leerling toont begrip van beluisterde, gelezen en bekeken teksten",
-		"title": "Beheersingsdoel; begrijpend luisteren, lezen en kijken",
-		"fo_uitwerking_id": [
-			"f0c720a2-4ebc-4ad1-a1a2-ccd6540e0aab",
-			"fe253d39-ebdc-4ea3-9b97-d38abfde8e31",
-			"3b154955-79ae-4b49-9c6d-52c6de321177",
-			"240ef636-538a-4ec9-94be-e115b1bd0a7a",
-			"1a4cbb9a-06d7-49a3-a6ed-8c71ae48978a"
-		],
-		"fo_toelichting_id": [
-			"dfb78d43-70fe-402a-b859-8eb6ade47881",
-			"c96823c5-d281-4230-8cd6-4274508651e9",
-			"3d1eb76e-d72f-4b46-9490-2c294fd85647",
-			"48162d3b-3a62-4540-8483-042ad1f10743",
-			"601b7ecf-41cd-487f-94d5-11b47a515124"
-		],
-		"prefix": "A1.3",
-		"id": "75ee36f1-4e54-48fa-8e0e-09bca848fa15"
-	},
-	{
-		"description": "Concept - De leerling spreekt en schrijft afgestemd op bij doel, publiek en context",
-		"title": "Beheersingsdoel; Doelgericht spreken en schrijven",
-		"fo_uitwerking_id": [
-			"2b78f0d1-54d5-40eb-a666-074f248813bf",
-			"b1d2ceb1-faba-48d6-abed-8a134eb9b92e",
-			"0eb25223-8cfc-4789-987d-3d9c6d358eea",
-			"d152f3fb-1801-4b1e-8c5b-9227a55eef8a",
-			"aa693155-bd3b-4d8a-8204-3e847a307528"
-		],
-		"fo_toelichting_id": [
-			"a80a5b2a-d529-47e5-a3bb-5e87e4c5c105",
-			"69d55e5e-e49c-4779-996c-130d7ce1e78d"
-		],
-		"prefix": "A1.4",
-		"id": "907bc4e8-3eb8-482f-8fc0-93bc33e50f62"
-	},
-	{
-		"description": "Concept - De leerling gebruikt taal op een cratieve manier.",
-		"title": "Beheersingsdoel; Creatief taal gebruiken",
-		"fo_uitwerking_id": [
-			"dc5ce356-167b-48bf-9f29-c533d07efdfc",
-			"33328379-30ca-47b3-8300-1d04528e5d59",
-			"5f69a194-9fcd-4f57-a7d5-62fafd467020",
-			"bf7e6d7b-e093-4c18-a0b6-19a925e022b2"
-		],
-		"fo_toelichting_id": [
-			"5cf37f69-fc28-4ecc-90d7-fac768085174",
-			"c972cfd8-c4b4-4bf8-b2b7-003a3578ee35"
-		],
-		"prefix": "A1.5",
-		"id": "be096fc3-d3c5-4b21-82df-0601b31c0ca2"
-	},
-	{
-		"description": "Concept - De leerling schrijft om te komen tot kennisopbouw of begip.",
-		"title": "Beheersingsdoel; Schrijven om te leren",
-		"fo_uitwerking_id": [
-			"e3e2761b-3a2c-4731-8ce9-50ff314d0d71",
-			"e102de42-dba3-4e38-a051-fc9d504d527d",
-			"fe5d4811-95d3-454f-81dd-faaa91082e30",
-			"1d63d69e-c6af-4138-9475-7411efc9882d",
-			"3accb55d-9dd6-4cf9-9e46-564d2cd35720"
-		],
-		"fo_toelichting_id": [
-			"d2395983-a385-454f-9bdd-11dcbf6ecc3a",
-			"377fa0bf-ffbd-45cf-b593-b4b24ee92d33"
-		],
-		"prefix": "A1.6",
-		"id": "8152fce2-4971-4632-a6b2-6e76804dad49"
-	},
-	{
-		"description": "Concept - De leerling onderzoekt verschillende bronnen.",
-		"title": "Beheersingsdoel; Bronnen onderzoeken",
-		"fo_uitwerking_id": [
-			"74ce4ffc-ac56-4791-9622-42294c2091e8",
-			"65920382-e074-477c-b67b-e9d01db9f22a",
-			"ce4c708e-f89a-4451-a41a-47895bb745a6",
-			"35cf6093-1104-4b84-b3cb-4fbde96c336e"
-		],
-		"fo_toelichting_id": [
-			"d0ddf168-5a43-4c6e-a178-378ddfee5c57",
-			"dedc07f9-0091-4e94-8bd1-1c4ac617aee7"
-		],
-		"prefix": "A1.7",
-		"id": "64ccb673-e75c-4ef1-9274-311e7910bba4"
-	},
-	{
-		"description": "Concept - De leerling verwerkt informatie uit verschillende bronnen in een gesproken of geschreven tekst.",
-		"title": "Beheersingsdoel; Bronnen verwerken",
-		"fo_uitwerking_id": [
-			"ec57c2c0-eae7-42ba-93b7-0f664c4792e6",
-			"090e40a7-b4cd-4f0f-bc63-80431ca9cb93",
-			"d931c227-1e3b-42be-bf2c-09c10c47044c",
-			"39c4e18e-15a9-4498-b43c-ab6b36bf87b1"
-		],
-		"fo_toelichting_id": [
-			"30ff3d5d-04e4-4119-9f7c-46c352fa2a35",
-			"1cec9d65-4040-4f54-ad15-f8e39344a734",
-			"c7c32b37-a18e-4830-884c-3657d53b94fe"
-		],
-		"prefix": "A1.8",
-		"id": "af47a22d-dd64-4fcf-a147-7c830d53e5e8"
-	},
-	{
-		"description": "Concept - De leerling reflecteert op de uitvoering van een taalactiviteit.",
-		"title": "Beheersingsdoel; Reflecteren op taalactiviteiten",
-		"fo_uitwerking_id": [
-			"298e7c43-93ac-4858-a9f7-21dfe76f8f2f",
-			"6916568e-c98f-4567-93da-ffac5d0341c2",
-			"ffab7565-4737-4ae2-9a73-766743845784",
-			"9d6e573e-86c9-4798-bbe0-daa39ec39630",
-			"23456259-c86c-4a94-880b-fdb9a3360749"
-		],
-		"fo_toelichting_id": [
-			"74c46027-e759-422a-8a1d-068962d6ce41",
-			"13399b88-ab2c-4425-9972-8d327cdb16e2",
-			"147f64dc-fae8-4410-b52e-7dbc8a8d97c0"
-		],
-		"prefix": "A1.9",
-		"id": "254caadd-5870-4458-9a11-ef71a0c69ce0"
-	},
-	{
-		"description": "Concept - De leerling voert gesprekken afgestemd op doel, gesprekspartner en context.",
-		"title": "Beheersingsdoel; Doelgericht gesprekken voeren",
-		"fo_uitwerking_id": [
-			"dfa06936-ffdb-4155-8175-31968a48ba14",
-			"829c9624-6230-4605-b093-d43aca158f5f",
-			"8c700ee0-25b1-44ee-9f07-0f45bd9e2307",
-			"b0820f25-a6d1-4ca0-8d1c-927905ba050d"
-		],
-		"fo_toelichting_id": [
-			"dbdbceb2-ad49-468f-a050-3bbf48f19f59",
-			"f2e1afb0-4e30-40da-8f8c-9311047d04c2",
-			"26dd0f3f-8d71-4b1e-938a-2ddb61b70aef",
-			"0992985d-6557-467a-b6b7-548412289a24"
-		],
-		"prefix": "A2.10",
-		"id": "2744a98d-e0af-4127-bf97-37b3ea359a02"
-	},
-	{
-		"description": "Concept - De leerling voert gesprekken om tot kennisopbouw, begrip of een aanpak te komen.",
-		"title": "Beheersingsdoel; Gesprekken voeren om te leren",
-		"fo_uitwerking_id": [
-			"6dec8016-87ef-4f7d-92c6-4075a1be50f6",
-			"e1522e1f-e240-41b2-8fca-836832a70e02",
-			"8429c7ef-3ead-4399-be88-b48058c33236",
-			"89ecfad3-ebad-40aa-93b2-a9ba391c7988",
-			"e6229dbf-36fb-496e-8dad-e1c60c09e9f8"
-		],
-		"fo_toelichting_id": [
-			"c60ccb02-8e67-4995-b665-30ae90b1bdb3",
-			"ba1ead40-5bbe-43a6-9631-c7654c8424d6",
-			"08f211a0-63b9-4314-812b-1125f4a6a2a9",
-			"5ee14da2-c0b2-4233-ab38-314e050659c4"
-		],
-		"prefix": "A2.11",
-		"id": "5d349652-de45-4a35-8de6-b7ce54a461cc"
-	},
-	{
-		"description": "Concept - De leerling beschouwt de relatie tussen vorm en betekenis van taal.",
-		"title": "Beheersingsdoel; Vorm en betekenis beschouwen",
-		"fo_uitwerking_id": [
-			"dd01cf1b-9b4c-4a06-9e11-cee207d630ad",
-			"e48bd1ee-b74e-4dba-a79f-c38cb8850802",
-			"eee43006-7e31-47b0-8976-795b7d075d10",
-			"42ce9d99-4dd7-4555-80b1-244f7e4b2cd0",
-			"a9f23877-a838-43ec-991c-74db6e9d7a39"
-		],
-		"fo_toelichting_id": [
-			"1ddd2207-dc30-496c-8969-809f25b0208f",
-			"0002a1f7-c4fe-4776-862c-50c0cfb037f1",
-			"a53119ce-b7a9-4e76-8a47-db050b56c1b9"
-		],
-		"prefix": "B1.12",
-		"id": "21725a98-baa3-45c3-b8a5-ac3026ff35e2"
-	},
-	{
-		"description": "Concept - De leerling verzorgt het schriftelijk taalgebruik.",
-		"title": "Beheersingsdoel; Schriftelijke taalverzorging",
-		"fo_uitwerking_id": [
-			"c2720bd9-dd08-4d99-b1e5-7377c3dc315c",
-			"9fcf71b1-318b-431a-a67e-4454b1deba2f",
-			"a3c40435-afac-47a1-afaf-f42b99b0e7b6",
-			"8be95d97-675c-4d2e-bc37-5979b4d17147"
-		],
-		"fo_toelichting_id": [
-			"d127dfcf-d886-4300-8360-6d2bb9066346",
-			"6954df7c-61e8-4b11-a858-7d7bd20c014d"
-		],
-		"prefix": "B1.13",
-		"id": "886e4275-3b58-4b31-b639-b64934589013"
-	},
-	{
-		"description": "Concept - De leerling verkent hoe je met taal uiting geeft aan je identiteiten.",
-		"title": "Beheersingsdoel; Talige identiteit",
-		"fo_uitwerking_id": [
-			"e0ee4584-c780-4502-8f6f-987b0c7fa173",
-			"ba052f11-2c42-4632-ad76-d8c78d22c4ae",
-			"76bbbbab-14f9-4117-a980-ad5a8640ff6c",
-			"cbd29bcc-e90a-4f57-a4e1-7e731fe78023"
-		],
-		"fo_toelichting_id": [
-			"d9978cd6-9688-4c15-bbb6-e027bf40ff54",
-			"c7822797-bcc8-4756-8d64-871eeab50156",
-			"c1ee6555-852b-46f2-bada-248ef72c25a8",
-			"159cdc9c-ffa1-45de-b65c-e34e5d0e6355"
-		],
-		"prefix": "B2.14",
-		"id": "056fbb68-129a-454e-98d8-72eb67c0ba03"
-	},
-	{
-		"description": "Concept - De leerling beschouwt het bestaan en gebruik van verschillende talen en taalvariëteiten in relatie tot het Nederlands.",
-		"title": "Beheersingsdoel; Taalvariatie",
-		"fo_uitwerking_id": [
-			"07465876-2721-4718-b452-01d1624abee6",
-			"67d741e9-c548-4b64-92ad-28fea7789ae7",
-			"280babcc-990e-4d6f-a883-d127465e24fb",
-			"dfc4261d-435d-452a-8019-4be4c33c5400"
-		],
-		"fo_toelichting_id": [
-			"17349e08-4119-49a6-8068-f26357518411",
-			"abcae150-eef1-4b4c-a33f-5d46cbc1924e"
-		],
-		"prefix": "B2.15",
-		"id": "86df4812-465c-49af-83f6-1d3885326e47"
-	},
-	{
-		"description": "Concept - De leerling verkent de verandering van het Nederlands onder invloed van tijd en maatschappelijke ontwikkelingen.",
-		"title": "Beheersingsdoel; Taalverandering",
-		"fo_uitwerking_id": [
-			"5474c008-6a99-4d5c-ab66-78f1d8a42e08",
-			"5a0e762e-a4f0-47f9-a917-3c7d82c93815",
-			"5d97db59-b393-4a0e-b6a1-8f242576fec6"
-		],
-		"fo_toelichting_id": [
-			"ce096651-7023-4f7c-a44d-efa85dd73475",
-			"423f7043-3b29-4850-a7d6-aa17260f1b17",
-			"8113318b-f2f6-4839-871a-373625791dc1",
-			"1fcfc735-680c-4f8a-9937-8316294b26f7"
-		],
-		"prefix": "B2.16",
-		"id": "d9344c6e-2b0d-4cb0-9055-6a990b9b16f0"
-	},
-	{
-		"description": "Concept - De leerling toont inzicht in verhalende teksten met behulp van kennis over verteltechnieken.",
-		"title": "Beheersingsdoel; Inzicht in verhalende teksten",
-		"fo_uitwerking_id": [
-			"77203dda-4845-4a17-8160-f34b6caf0b34",
-			"f0a5de08-0300-4213-b391-c4e774b0888d",
-			"e0af3a37-cd5c-4696-a475-f63814e5ee2a",
-			"f7201132-0227-41a9-b9a4-af4903fa7f45",
-			"adc47cdb-0fed-43bf-8240-16c3ab540cda"
-		],
-		"fo_toelichting_id": [
-			"e015b0aa-379f-42e0-84e7-8da49fc74156",
-			"19140d77-54ea-454f-a604-5b2f2c18599b",
-			"3b0c17ef-06f3-4aec-874d-72fdf840e95b",
-			"6f9bd8c8-e2a0-4880-aa53-2fca1afacefa"
-		],
-		"prefix": "C1.17",
-		"id": "012306f2-bb1c-44ce-9548-16efc4ef8c3e"
-	},
-	{
-		"description": "Concept - De leerling verkent genrekenmerken van literatuur.",
-		"title": "Beheersingsdoel; Verkennen van literaire genres",
-		"fo_uitwerking_id": [
-			"f7f7b9af-fed2-45a3-88a1-c1c07310df19",
-			"fe99a2a4-a912-4e92-a633-d2c979e888e3",
-			"c8d57718-adf2-4123-a36c-d92df6f2f3c9"
-		],
-		"fo_toelichting_id": [
-			"f0533a09-fa69-4ac7-9fce-b370de577821",
-			"7179a690-c84b-45bb-a4db-cf9ceb77befa",
-			"f878d50b-e0e4-47f1-9d40-e881ee04a025"
-		],
-		"prefix": "C1.18",
-		"id": "19ba7c42-1e92-4b9f-9c9f-32e894b19af2"
-	},
-	{
-		"description": "Concept - De leerling kiest nieuwe teksten op basis van eerdere lees-, luister- en kijkervaringen.",
-		"title": "Beheersingsdoel; Leesvoorkeur",
-		"fo_uitwerking_id": [
-			"f376c44b-c8ed-4543-b7d5-3691cf39113c",
-			"8f7bd39a-7340-4b35-973a-372c8f83e030",
-			"364bfca7-4158-4bb6-b134-8c0852172671",
-			"c97368b9-bcd9-4301-82bf-caa49b3615c7"
-		],
-		"fo_toelichting_id": [
-			"194202a6-0770-4ee3-9604-2ee34573bca5",
-			"4489643e-33db-41e2-a97c-bde07d021f5f",
-			"07337f2a-3cd9-4876-a856-8b9d931acf2f"
-		],
-		"prefix": "C2.19",
-		"id": "0081d62f-1e75-4835-b586-12d01ce252b9"
-	},
-	{
-		"description": "Concept - De leerling verkent welke functies literatuur heeft.",
-		"title": "Beheersingsdoel; Functies van literatuur",
-		"fo_uitwerking_id": [
-			"0d7d9289-c236-406a-b62b-b77aa167a6d1",
-			"220359f4-b6d3-46d7-b6dd-2eb4ac13b148",
-			"bf3fc5d9-2650-4859-b653-38444a799832",
-			"163de4ac-8e87-4c63-ae2b-1f41c2657f9b",
-			"74290fe8-aca3-448b-b192-7019037cb5e6"
-		],
-		"fo_toelichting_id": [
-			"bb003074-2a61-4e89-91ec-066bfb691036",
-			"48ad2740-131e-4126-8a6c-e3c10b5ac944",
-			"c515e0cc-f0d2-4734-b951-578eb996c826",
-			"a3c2d4c4-ceca-4ceb-81de-25af76e4a87a"
-		],
-		"prefix": "C2.20",
-		"id": "23003d19-a582-44d0-94ad-be0c2013e6be"
-	},
-	{
 		"description": "Concept - De school zorgt voor een rijke taal- en leesomgeving voor alle leerlingen.",
-		"title": "Aanbodsdoel",
+		"title": "Concept Kerndoel 1 Taal- en leesomgeving",
 		"fo_uitwerking_id": [
 			"8f2405a3-0708-4f9b-a955-16ab877e2bc9",
 			"d0cd729e-b8ac-4b51-8eaf-c891a1622eda",
@@ -327,14 +13,18 @@
 			"68a5d19a-31a9-460c-a5ab-83fdcb43184b",
 			"6630392d-b3b8-41df-936d-f5f7b7399991",
 			"98a8a5db-36e5-48a9-a27b-fff903ea4a13",
-			"c97d8dc6-87f8-4174-a22a-7b4bee1bd5c9"
+			"c97d8dc6-87f8-4174-a22a-7b4bee1bd5c9",
+			"2a314788-0de3-48e8-a037-a9ceb288887a"
 		],
-		"prefix": "O1.1",
-		"id": "efff8a4b-cbd5-4775-aa8f-0d3f98733e6b"
+		"prefix": "1",
+		"id": "efff8a4b-cbd5-4775-aa8f-0d3f98733e6b",
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0
 	},
 	{
 		"description": "Concept - De school stimuleert de taalontwikkeling van de leerling in de andere leergebieden.",
-		"title": "Aanbodsdoel",
+		"title": "Concept Kerndoel 2 Taal in de leergebieden",
 		"fo_uitwerking_id": [
 			"208ca70f-9717-4ba9-91aa-c5d9a34fb210",
 			"92011225-276a-4e65-8599-39e7ccf070c5",
@@ -345,14 +35,265 @@
 		"fo_toelichting_id": [
 			"fa1730f5-974d-4922-9fc7-e8ec23075d45",
 			"bbf7bfa9-0bbe-4593-884d-a55c608a7f07",
-			"5333efda-e370-4e44-ad2b-2f54f6755540"
+			"5333efda-e370-4e44-ad2b-2f54f6755540",
+			"1ef5a045-49c3-4495-9059-cab042748452"
 		],
-		"prefix": "O2.2",
-		"id": "9f550d27-58cf-4252-8b6b-ff8246c8eca6"
+		"prefix": "2",
+		"id": "9f550d27-58cf-4252-8b6b-ff8246c8eca6",
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0
+	},
+	{
+		"description": "Concept - De leerling toont begrip van zakelijke en literaire teksten.",
+		"title": "Concept Kerndoel 3 Luisteren en lezen met begrip",
+		"fo_uitwerking_id": [
+			"f0c720a2-4ebc-4ad1-a1a2-ccd6540e0aab",
+			"fe253d39-ebdc-4ea3-9b97-d38abfde8e31",
+			"3b154955-79ae-4b49-9c6d-52c6de321177",
+			"240ef636-538a-4ec9-94be-e115b1bd0a7a",
+			"1a4cbb9a-06d7-49a3-a6ed-8c71ae48978a",
+			"ca0d011a-e26c-49a3-8bd2-8c9283a5c693"
+		],
+		"fo_toelichting_id": [
+			"dfb78d43-70fe-402a-b859-8eb6ade47881",
+			"c96823c5-d281-4230-8cd6-4274508651e9",
+			"3d1eb76e-d72f-4b46-9490-2c294fd85647",
+			"48162d3b-3a62-4540-8483-042ad1f10743",
+			"601b7ecf-41cd-487f-94d5-11b47a515124"
+		],
+		"prefix": "3",
+		"soort": "kerndoel",
+		"id": "75ee36f1-4e54-48fa-8e0e-09bca848fa15",
+		"ce": 0,
+		"se": 0
+	},
+	{
+		"description": "Concept - De leerling evalueert en reflecteert op zakelijke en literaire teksten.",
+		"title": "Concept Kerndoel 4 Luisteren en lezen met diep begrip",
+		"fo_uitwerking_id": [
+			"2b78f0d1-54d5-40eb-a666-074f248813bf",
+			"b1d2ceb1-faba-48d6-abed-8a134eb9b92e",
+			"0eb25223-8cfc-4789-987d-3d9c6d358eea",
+			"d152f3fb-1801-4b1e-8c5b-9227a55eef8a",
+			"aa693155-bd3b-4d8a-8204-3e847a307528"
+		],
+		"fo_toelichting_id": [
+			"a80a5b2a-d529-47e5-a3bb-5e87e4c5c105",
+			"69d55e5e-e49c-4779-996c-130d7ce1e78d",
+			"42f93e90-cbae-4202-b064-a1df25ff60ef",
+			"4116c225-2ca6-4397-8c64-58b1df68f9ee",
+			"17a113af-12dd-4a67-8d15-4e8245a66e12"
+		],
+		"prefix": "4",
+		"id": "907bc4e8-3eb8-482f-8fc0-93bc33e50f62",
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0
+	},
+	{
+		"description": "Concept - De leerling spreekt en schrijft afgestemd op doel, publiek en context.",
+		"title": "Concept Kerndoel 5 Doelgericht spreken en schrijven",
+		"fo_uitwerking_id": [
+			"dc5ce356-167b-48bf-9f29-c533d07efdfc",
+			"33328379-30ca-47b3-8300-1d04528e5d59",
+			"5f69a194-9fcd-4f57-a7d5-62fafd467020",
+			"bf7e6d7b-e093-4c18-a0b6-19a925e022b2",
+			"cd3abc0d-74a8-4c0a-bc0a-2572f906941d"
+		],
+		"fo_toelichting_id": [
+			"5cf37f69-fc28-4ecc-90d7-fac768085174",
+			"c972cfd8-c4b4-4bf8-b2b7-003a3578ee35",
+			"de0fa602-3a33-4b9a-a17c-8941c53cb4dc",
+			"f872d738-9a21-42a0-89b3-b8db2b4c47a3",
+			"8a14a668-e39f-4394-9eb5-450ffb74761d"
+		],
+		"prefix": "5",
+		"id": "be096fc3-d3c5-4b21-82df-0601b31c0ca2",
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0
+	},
+	{
+		"description": "Concept - De leerling schrijft om tot kennisopbouw of begrip te komen.",
+		"title": "Concept Kerndoel 7 Schrijven om te leren",
+		"fo_uitwerking_id": [
+			"74ce4ffc-ac56-4791-9622-42294c2091e8",
+			"65920382-e074-477c-b67b-e9d01db9f22a",
+			"ce4c708e-f89a-4451-a41a-47895bb745a6",
+			"35cf6093-1104-4b84-b3cb-4fbde96c336e",
+			"0f6a1c30-5e36-4abd-8bb2-fb3e0226dbfa"
+		],
+		"fo_toelichting_id": [
+			"d0ddf168-5a43-4c6e-a178-378ddfee5c57",
+			"dedc07f9-0091-4e94-8bd1-1c4ac617aee7",
+			"5733c0b5-1215-488c-9460-ae23a795f49d"
+		],
+		"prefix": "7",
+		"id": "64ccb673-e75c-4ef1-9274-311e7910bba4",
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0
+	},
+	{
+		"description": "Concept - De leerling voert gesprekken afgestemd op doel, gesprekspartner(s) en context.",
+		"title": "Concept Kerndoel 9 Doelgericht gesprekken voeren",
+		"fo_uitwerking_id": [
+			"298e7c43-93ac-4858-a9f7-21dfe76f8f2f",
+			"6916568e-c98f-4567-93da-ffac5d0341c2",
+			"ffab7565-4737-4ae2-9a73-766743845784",
+			"9d6e573e-86c9-4798-bbe0-daa39ec39630",
+			"23456259-c86c-4a94-880b-fdb9a3360749"
+		],
+		"fo_toelichting_id": [
+			"74c46027-e759-422a-8a1d-068962d6ce41",
+			"13399b88-ab2c-4425-9972-8d327cdb16e2",
+			"147f64dc-fae8-4410-b52e-7dbc8a8d97c0",
+			"6533100f-75a9-48f8-b28e-508f9399406f",
+			"a2efcf49-3b53-4b26-9684-88c85e5a3ce3"
+		],
+		"prefix": "9",
+		"id": "254caadd-5870-4458-9a11-ef71a0c69ce0",
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0
+	},
+	{
+		"description": "Concept - De leerling voert gesprekken om tot kennisopbouw, begrip of een aanpak te komen.",
+		"title": "Concept Kerndoel 10 Gesprekken voeren om te leren",
+		"fo_uitwerking_id": [
+			"dfa06936-ffdb-4155-8175-31968a48ba14",
+			"829c9624-6230-4605-b093-d43aca158f5f",
+			"8c700ee0-25b1-44ee-9f07-0f45bd9e2307",
+			"b0820f25-a6d1-4ca0-8d1c-927905ba050d",
+			"5568665c-cc39-427f-87de-1de0f911dfbe"
+		],
+		"fo_toelichting_id": [
+			"dbdbceb2-ad49-468f-a050-3bbf48f19f59",
+			"f2e1afb0-4e30-40da-8f8c-9311047d04c2",
+			"26dd0f3f-8d71-4b1e-938a-2ddb61b70aef",
+			"0992985d-6557-467a-b6b7-548412289a24"
+		],
+		"prefix": "10",
+		"id": "2744a98d-e0af-4127-bf97-37b3ea359a02",
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0
+	},
+	{
+		"description": "Concept - De leerling beschouwt de relatie tussen vorm en betekenis van taal.",
+		"title": "Concept Kerndoel 12 Vorm en betekenis beschouwen",
+		"fo_uitwerking_id": [
+			"dd01cf1b-9b4c-4a06-9e11-cee207d630ad",
+			"e48bd1ee-b74e-4dba-a79f-c38cb8850802",
+			"eee43006-7e31-47b0-8976-795b7d075d10",
+			"42ce9d99-4dd7-4555-80b1-244f7e4b2cd0",
+			"a9f23877-a838-43ec-991c-74db6e9d7a39"
+		],
+		"fo_toelichting_id": [
+			"1ddd2207-dc30-496c-8969-809f25b0208f",
+			"0002a1f7-c4fe-4776-862c-50c0cfb037f1",
+			"a53119ce-b7a9-4e76-8a47-db050b56c1b9",
+			"b7900a4d-b3e1-4047-aca7-7a5f49acc052",
+			"68828ae5-339f-42f2-81e9-e1572a5b479a",
+			"af13197c-bf31-4227-8293-3a6f40bacd79"
+		],
+		"prefix": "12",
+		"id": "21725a98-baa3-45c3-b8a5-ac3026ff35e2",
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0
+	},
+	{
+		"description": "Concept - De leerling toont inzicht in regels en procedures voor spelling, formulering en interpuntie.",
+		"title": "Concept Kerndoel 13 Spelling, formulering en interpunctie",
+		"fo_uitwerking_id": [
+			"c2720bd9-dd08-4d99-b1e5-7377c3dc315c",
+			"9fcf71b1-318b-431a-a67e-4454b1deba2f",
+			"a3c40435-afac-47a1-afaf-f42b99b0e7b6",
+			"8be95d97-675c-4d2e-bc37-5979b4d17147",
+			"1bdf0a4f-d720-48e3-aeb4-72d68686f112"
+		],
+		"fo_toelichting_id": [
+			"d127dfcf-d886-4300-8360-6d2bb9066346",
+			"6954df7c-61e8-4b11-a858-7d7bd20c014d",
+			"08c425fd-2ee6-443a-93be-7adc71764abe",
+			"35ab3bd3-5c83-4b3a-a62a-922afb3e81af",
+			"65f28df7-30a2-4eb5-b229-b0f81a2f85e5"
+		],
+		"prefix": "13",
+		"id": "886e4275-3b58-4b31-b639-b64934589013",
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0
+	},
+	{
+		"description": "Concept - De leerling verkent taalvariatie en taalverandering in het Nederlandse taalgebied.",
+		"title": "Concept Kerndoel 15 Taalvariatie en taalverandering",
+		"fo_uitwerking_id": [
+			"07465876-2721-4718-b452-01d1624abee6",
+			"67d741e9-c548-4b64-92ad-28fea7789ae7",
+			"280babcc-990e-4d6f-a883-d127465e24fb",
+			"dfc4261d-435d-452a-8019-4be4c33c5400",
+			"5941bd6a-6036-46be-b660-1df33c32dd67"
+		],
+		"fo_toelichting_id": [
+			"17349e08-4119-49a6-8068-f26357518411",
+			"abcae150-eef1-4b4c-a33f-5d46cbc1924e",
+			"01dbd6a3-a810-4303-8205-afd01243ede6",
+			"ccc7ceb7-3335-4084-b9d2-4422e9dfd2fa",
+			"aa212caa-a61e-4a12-8d26-fd1a005119a1",
+			"b39681df-a2c6-4773-84fb-9509662e86eb"
+		],
+		"prefix": "15",
+		"id": "86df4812-465c-49af-83f6-1d3885326e47",
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0
+	},
+	{
+		"description": "Concept - De leerling ontwikkelt een eigen leesvoorkeur.",
+		"title": "Concept Kerndoel 16 Leesvoorkeur",
+		"fo_uitwerking_id": [
+			"f376c44b-c8ed-4543-b7d5-3691cf39113c",
+			"8f7bd39a-7340-4b35-973a-372c8f83e030",
+			"364bfca7-4158-4bb6-b134-8c0852172671",
+			"c97368b9-bcd9-4301-82bf-caa49b3615c7"
+		],
+		"fo_toelichting_id": [
+			"194202a6-0770-4ee3-9604-2ee34573bca5",
+			"4489643e-33db-41e2-a97c-bde07d021f5f",
+			"07337f2a-3cd9-4876-a856-8b9d931acf2f"
+		],
+		"prefix": "16",
+		"id": "0081d62f-1e75-4835-b586-12d01ce252b9",
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0
+	},
+	{
+		"description": "Concept - De leerling toont inzicht in genremerken van literatuur.",
+		"title": "Concept - Kerndoel 19 Literaire genres",
+		"fo_uitwerking_id": [
+			"f7f7b9af-fed2-45a3-88a1-c1c07310df19",
+			"fe99a2a4-a912-4e92-a633-d2c979e888e3",
+			"c8d57718-adf2-4123-a36c-d92df6f2f3c9"
+		],
+		"fo_toelichting_id": [
+			"f0533a09-fa69-4ac7-9fce-b370de577821",
+			"7179a690-c84b-45bb-a4db-cf9ceb77befa",
+			"f878d50b-e0e4-47f1-9d40-e881ee04a025",
+			"c4623939-3bfa-4b4f-964f-7591d351946b"
+		],
+		"prefix": "19",
+		"id": "19ba7c42-1e92-4b9f-9c9f-32e894b19af2",
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0
 	},
 	{
 		"description": "Concept - De leerling redeneert en rekent met gehele en decimale getallen",
-		"title": "Beheersingsdoel",
+		"title": "Concept - Kerndoel 1 Gehele en decimale getallen",
 		"fo_uitwerking_id": [
 			"13756067-b284-4983-980e-1d6b4ca27c18",
 			"fc534f36-95bd-4b63-9a3f-6fe58618bfcc",
@@ -367,16 +308,18 @@
 			"d13df88e-ed97-4df6-b471-ef86e7068297",
 			"aae3575f-105b-47fc-8254-1c4e1070ee9a"
 		],
-		"prefix": "B1.2",
-		"id": "a93af3e3-91f0-49ee-8e28-42fb57daf454"
+		"prefix": "1",
+		"id": "a93af3e3-91f0-49ee-8e28-42fb57daf454",
+		"soort": "kerndoel"
 	},
 	{
-		"description": "Concept - De leerling redeneert met en gebruikt eenvoudige breuken als getal, verhouding en deling.",
-		"title": "Beheersingsdoel",
+		"description": "Concept - De leerling redeneert en rekent met  breuken als getal, verhouding en deling.",
+		"title": "Concept - Kerndoel 2 Breuken",
 		"fo_uitwerking_id": [
 			"2c0676cd-2866-4321-bcc2-d01d914cca86",
 			"015473e3-75c3-4a27-bfa5-e329a1d7d4cd",
 			"ea29f484-a554-41c5-82f0-a20ad855bbd7",
+			"23cc33b9-6e43-44f7-bc59-ceb8262e1d3b",
 			"e9f212b3-2fb6-4b15-8dab-5854144a89dc"
 		],
 		"fo_toelichting_id": [
@@ -385,12 +328,13 @@
 			"010d30c8-544f-4080-b525-4d263db84290",
 			"c21a61e5-c419-4f82-9fdf-0089e051fdb6"
 		],
-		"prefix": "B2.3",
-		"id": "da74e273-b43e-40d5-8e74-74cd4758ca62"
+		"prefix": "2",
+		"id": "da74e273-b43e-40d5-8e74-74cd4758ca62",
+		"soort": "kerndoel"
 	},
 	{
-		"description": "Concept - De leerling redeneert met en gebruikt verhoudingen.",
-		"title": "Beheersingsdoel",
+		"description": "Concept - De leerling redeneert  en rekent met verhoudingen.",
+		"title": "Concept - Kerndoel 3 Verhoudingen",
 		"fo_uitwerking_id": [
 			"a8e8f1be-8591-464e-b03c-093d5dde9ab8",
 			"a912c631-4c4b-40d4-9045-70c9a882c832",
@@ -402,14 +346,16 @@
 			"9f859f13-09bb-4f95-af5e-60e812221984",
 			"ab7a798a-59ba-4620-9bff-158c3f91417c",
 			"05585ff4-9db6-4596-9a38-0e071ea3f6db",
+			"e1c52a51-3836-4d64-809f-55524e71c837",
 			"79e6c9eb-7677-4203-8553-d1cd235d706d"
 		],
-		"prefix": "B3.4",
-		"id": "afd82083-0658-472a-a516-b278b569c30c"
+		"prefix": "3",
+		"id": "afd82083-0658-472a-a516-b278b569c30c",
+		"soort": "kerndoel"
 	},
 	{
-		"description": "Concept - De leerling meet, redeneert en rekent met gangbare grootheden en bijpassende eenheden.",
-		"title": "Beheersingsdoel",
+		"description": "Concept - De leerling meet, redeneert en rekent met grootheden en bijpassende eenheden.",
+		"title": "Concept - Kerndoel 4 Grootheden en eenheden",
 		"fo_uitwerking_id": [
 			"930b00cf-5ffa-4032-9703-5ef3cf7768ad",
 			"974ce036-5197-4d73-9734-8d56136f613d",
@@ -421,14 +367,51 @@
 			"5f535c5f-42d3-493e-beb3-c1d399423db0",
 			"c849174d-e47b-48d6-856d-1b5ef0544a74",
 			"2cd9b6c7-581c-474f-8b45-d95533f6c903",
+			"c8a169e3-ef3c-4058-8db0-ff3f3d8c4fbb",
 			"ce672640-6e3b-40b1-b74f-952b875cc864"
 		],
-		"prefix": "B4.5",
-		"id": "038bf3e2-c920-430b-8c0a-ccbf820b7c55"
+		"prefix": "4",
+		"id": "038bf3e2-c920-430b-8c0a-ccbf820b7c55",
+		"soort": "kerndoel"
 	},
 	{
-		"description": "Concept - De leerling redeneert over meetkundige figuren en plaatsbepalingen en voert meetkundige transformaties uit.",
-		"title": "Beheersingsdoel",
+		"description": "Concept - De leerling interpreteert en representeert data.",
+		"title": "Concept - Kerndoel 5 Data",
+		"fo_uitwerking_id": [
+			"eb5af718-7627-4f6c-a7b8-6f6767d4a639",
+			"2319666f-0d94-425a-9979-1c6af140b81e",
+			"33c95219-dd9f-49c9-9a71-0e097e1bafe8",
+			"bb66c52d-87c3-43ee-9451-878e05de028d",
+			"54689575-d1e4-4e67-a0cb-e424cba0a350"
+		],
+		"fo_toelichting_id": [
+			"ce1beb7c-a16a-4b7c-83bf-eeab7131313d",
+			"3caca936-d072-49f9-a2cb-be224fcd977c",
+			"f15563e2-b443-4ef3-924f-f45f0169bb42"
+		],
+		"prefix": "5",
+		"id": "56596b75-b0da-4d54-b5cb-2778b26a16a7",
+		"soort": "kerndoel"
+	},
+	{
+		"description": "Concept - De leerling redeneert over patronen en verbanden.",
+		"title": "Concept - Kerndoel 6 Patronen en verbanden",
+		"fo_uitwerking_id": [
+			"0c87ac24-2f34-4fd3-8721-f176030c8def",
+			"de84a915-1f24-4c4d-9770-e3811457c92f",
+			"4724707c-349b-4841-9d03-da1da0eeb4da"
+		],
+		"fo_toelichting_id": [
+			"8f58acda-bf45-429a-9d97-6ce5517a29cf",
+			"b8067f91-4a46-4121-80c6-7a58899824da"
+		],
+		"prefix": "6",
+		"id": "65649cd4-ad64-4187-942c-d82792c3d7d3",
+		"soort": "kerndoel"
+	},
+	{
+		"description": "Concept - De leerling redeneert over meetkundige figuren en plaatsbepalingen en voert meetkundige transformaties uit",
+		"title": "Concept - Kerndoel 7 Vorm en ruimte",
 		"fo_uitwerking_id": [
 			"353fe9e1-aad3-4884-a3d9-159674ed40cb",
 			"932ad307-30be-4edb-9129-68e09a4ecc09",
@@ -443,62 +426,13 @@
 			"a7043a74-cce7-4b10-889d-86b3f150bc2e",
 			"053dd029-5f7f-4da7-bba2-99082aa5b28a"
 		],
-		"prefix": "B5.6",
-		"id": "3440792f-6cce-4f11-88d7-1c4ea5688665"
+		"prefix": "7",
+		"id": "3440792f-6cce-4f11-88d7-1c4ea5688665",
+		"soort": "kerndoel"
 	},
 	{
-		"description": "Concept - De leerling interpreteert en representeert datasets.",
-		"title": "Beheersingsdoel",
-		"fo_uitwerking_id": [
-			"eb5af718-7627-4f6c-a7b8-6f6767d4a639",
-			"2319666f-0d94-425a-9979-1c6af140b81e",
-			"33c95219-dd9f-49c9-9a71-0e097e1bafe8",
-			"54689575-d1e4-4e67-a0cb-e424cba0a350"
-		],
-		"fo_toelichting_id": [
-			"ce1beb7c-a16a-4b7c-83bf-eeab7131313d",
-			"f15563e2-b443-4ef3-924f-f45f0169bb42"
-		],
-		"prefix": "B6.7",
-		"id": "56596b75-b0da-4d54-b5cb-2778b26a16a7"
-	},
-	{
-		"description": "Concept - De leerling herkent en representeert patronen en verbanden.",
-		"title": "Beheersingsdoel",
-		"fo_uitwerking_id": [
-			"0c87ac24-2f34-4fd3-8721-f176030c8def",
-			"de84a915-1f24-4c4d-9770-e3811457c92f",
-			"4724707c-349b-4841-9d03-da1da0eeb4da"
-		],
-		"fo_toelichting_id": [
-			"8f58acda-bf45-429a-9d97-6ce5517a29cf",
-			"b8067f91-4a46-4121-80c6-7a58899824da"
-		],
-		"prefix": "B7.8",
-		"id": "65649cd4-ad64-4187-942c-d82792c3d7d3"
-	},
-	{
-		"description": "Concept - De leerling lost wiskundige problemen en toepassingsproblemen op.",
-		"title": "Beheersingsdoel",
-		"fo_uitwerking_id": [
-			"73643c82-8ef9-4026-bdfb-0e153893d222",
-			"4c21658c-47bf-47e3-97ba-103c9ab619ba",
-			"0ee81375-ca5f-4ee7-aa05-dbd3e2447158",
-			"129f9de7-c14a-4a52-9709-67539d48ae22",
-			"2253ecf2-f328-4d96-8dd7-6ae6af937867"
-		],
-		"fo_toelichting_id": [
-			"dbe63d7f-eda7-4637-b07b-7f400215271b",
-			"1aedc48d-23e5-497e-a4c1-165245be0fd4",
-			"fb24bb96-8b26-42ce-91b8-b45f8d81813d",
-			"2e03c7b3-f0f6-414f-a60b-916c6ef17901"
-		],
-		"prefix": "C1.9",
-		"id": "3e321838-9e34-4db8-af4a-ca5f92e62049"
-	},
-	{
-		"description": "Concept - De leerling maakt en gebruikt abstracte modellen van situaties en problemen.",
-		"title": "Beheersingsdoel",
+		"description": "Concept - De leerling maakt en gebruikt wiskundige modellen.",
+		"title": "Concept - Kerndoel 9 Wiskundig modelleren",
 		"fo_uitwerking_id": [
 			"91286a45-6dc5-40b2-a49b-6d6f7a3a4791",
 			"30ee92c4-93b9-41f6-8dfe-09ce196c3a83",
@@ -509,32 +443,16 @@
 			"98b2b1ba-186e-4915-9def-2ce2ed7b617b",
 			"f3f6d896-17a9-40e5-87ff-244d08c623bf",
 			"4c85cee8-2063-4d79-aaf3-811769da8c34",
+			"723c4810-fe10-4899-8749-c2f0f72694c6",
 			"18a39372-5dcc-46f6-a0e3-03e653809031"
 		],
-		"prefix": "C2.10",
-		"id": "4e99fb88-c09c-4de7-b062-d2e1671a879b"
-	},
-	{
-		"description": "Concept - De leerling beschrijft en bedenkt eenvoudige algoritmen.",
-		"title": "Beheersingsdoel",
-		"fo_uitwerking_id": [
-			"777ca27c-0adf-4559-9ccd-b5797890cddf",
-			"720fd72d-0369-4157-94e5-dd28d1a0107f",
-			"30d221c5-7d08-4871-b675-0f23daa14290",
-			"75b3a809-9e22-4b54-9b9c-4e36f0ccfdef"
-		],
-		"fo_toelichting_id": [
-			"48971cbb-4f36-469c-970a-6f67e9cf4883",
-			"a58738a1-83e2-4e1a-a4ea-da9f305caaa9",
-			"1971055a-f117-41fd-ae3b-8322691cfcec",
-			"4f26a633-8773-46cf-a3ec-88ae6b1c3a0a"
-		],
-		"prefix": "C4.11",
-		"id": "b9fce428-e0b3-4524-832d-22dfb2a44af7"
+		"prefix": "9",
+		"id": "4e99fb88-c09c-4de7-b062-d2e1671a879b",
+		"soort": "kerndoel"
 	},
 	{
 		"description": "Concept - De leerling gebruikt wiskundetaal en wiskundige representaties.",
-		"title": "Beheersingsdoel",
+		"title": "Concept - Kerndoel 11 Gebruiken van wiskundetaal en wiskundige representaties",
 		"fo_uitwerking_id": [
 			"95d910b8-ed20-4ead-98e1-ea3cb8775f3a",
 			"14a1e70d-9f83-4e37-89ab-00582d2511f0",
@@ -549,12 +467,13 @@
 			"bb3c3b53-1315-48a9-ab34-9fff01e6d133",
 			"4685c0af-0c9b-482b-9adc-8641e81e36f0"
 		],
-		"prefix": "C5.12",
-		"id": "6cabfbd4-c370-47fb-9144-776e7bf4cd5f"
+		"prefix": "11",
+		"id": "6cabfbd4-c370-47fb-9144-776e7bf4cd5f",
+		"soort": "kerndoel"
 	},
 	{
-		"description": "Concept - De leerling gebruikt gangbare meetinstrumenten en andere wiskundige instrumenten",
-		"title": "Beheersingsdoel",
+		"description": "Concept - De leerling gebruikt meetinstrumenten en andere wiskundige instrumenten.",
+		"title": "Concept - Kerndoel 12 Gebruiken van wiskundige instrumenten",
 		"fo_uitwerking_id": [
 			"bfc7d0aa-f061-464e-9823-d3969997a8f8",
 			"0b557b29-0062-485d-8d0e-066f9510a2df",
@@ -566,12 +485,33 @@
 			"fbfe9059-f5ff-4b67-b9be-e0e9c11b6e81",
 			"c4c62998-683c-456f-af0e-156e4ac353a6"
 		],
-		"prefix": "C6.13",
-		"id": "b071f771-aae1-4438-9661-85d53ac885d8"
+		"prefix": "12",
+		"id": "b071f771-aae1-4438-9661-85d53ac885d8",
+		"soort": "kerndoel"
 	},
 	{
-		"description": "Concept - De leerling herkent en gebruikt wiskunde in dagelijkse en maatschappelijke situaties.",
-		"title": "Beheersingsdoel",
+		"description": "Concept - De school stimuleert een wiskundige attitude bij leerlingen.",
+		"title": "Concept - Kerndoel 13 Wiskundige attitude",
+		"fo_uitwerking_id": [
+			"0599c4ae-4a5d-4d47-a4bd-c0d737a7f4cc",
+			"bf867da6-5f3c-40e1-8449-55bb08b6b512",
+			"92569c21-7099-4df0-9aa8-2af006f78ccb",
+			"11658461-b414-4a50-96cf-02b930199028",
+			"561a832e-8783-4574-959a-aa6f8eb6df91"
+		],
+		"fo_toelichting_id": [
+			"e2cc50e3-3730-45ba-9aae-148acf18704c",
+			"7e18d17a-cd2e-47dc-a985-915265272c46",
+			"683679a1-b8cc-41dd-b446-51c6f6907a81",
+			"0ba028ea-9393-407e-b97b-69f192cc8629"
+		],
+		"prefix": "13",
+		"id": "561469ee-a769-4997-bc6e-e38335eaaf0a",
+		"soort": "kerndoel"
+	},
+	{
+		"description": "Concept - De leerling herkent en gebruikt wiskunde in alledaagse en maatschappelijke situaties.",
+		"title": "Concept - Kerndoel 14 Wiskunde in de werkelijkheid",
 		"fo_uitwerking_id": [
 			"dc26d79e-5efe-448d-aa82-1b62d722dbf0",
 			"b287bf48-2820-416e-a128-b62148c66576",
@@ -582,68 +522,17 @@
 		"fo_toelichting_id": [
 			"ef448055-ff0e-4a22-aa21-9b45139eec06",
 			"7df60479-bae4-4891-85d7-37c9391a3131",
-			"241398fe-7342-4bcb-bfc8-7c8e3745f734"
+			"241398fe-7342-4bcb-bfc8-7c8e3745f734",
+			"ff095fde-cd24-48e7-b3b1-078ce4aa3573",
+			"539fec4c-39f8-4ac7-a936-eac669f0ae7f"
 		],
-		"prefix": "D1.14",
-		"id": "bb06ac58-b4c5-4dd6-b75f-50941ffb2380"
-	},
-	{
-		"description": "Concept - De school ondersteunt het gebruik van wiskunde in andere leergebieden.",
-		"title": "Aanbodsdoel",
-		"fo_uitwerking_id": [
-			"4abefb7b-fec7-4887-a04b-7bccf41df499",
-			"152671bc-31e1-4c9e-a03e-85b224529343",
-			"e2451c83-9341-41aa-99d0-e1bb0cf0c473",
-			"9c46c994-a723-4a56-bcf7-268c0243d0db",
-			"1281997e-c637-453a-84f2-a91d2699382a"
-		],
-		"fo_toelichting_id": [
-			"b883b011-7c5a-4f55-b64e-9c5313a85451",
-			"b961fa4c-0f69-496c-81f3-a85a8903110f",
-			"5bd390cb-3ab4-41eb-a591-6599793c70d1",
-			"ef16b837-227f-4544-bce6-05a83679772d",
-			"4f500c63-9c1f-4535-8ab6-2aa489052e9d"
-		],
-		"prefix": "D2.15",
-		"id": "7c5743b8-2c72-4fbd-b308-a3eea257ce07"
-	},
-	{
-		"description": "Concept - De school biedt wiskundige concepten en wiskundige denk/werkwijzen in onderlinge samenhang aan.",
-		"title": "Aanbodsdoel",
-		"fo_uitwerking_id": [
-			"e313dc04-d873-4fe8-867b-e4b79fdcfd45",
-			"bdbb5401-1716-4299-872a-9083a4306e5b",
-			"4c78d3ae-c7a3-4ba9-bb8f-876edfa3c3d5",
-			"c8b02a12-4af4-4407-bb8a-fb4b780e8cf8"
-		],
-		"fo_toelichting_id": [
-			"811674e7-1f09-4125-9d48-64bb9eabee57",
-			"a621ab04-7b7b-4094-9e74-c4ff65357850"
-		],
-		"prefix": "D3.16",
-		"id": "ec3fe6d1-5f47-425f-8075-df6b98c605b7"
-	},
-	{
-		"description": "Concept - De school stimuleert een wiskundige attitude van leerlingen",
-		"title": "Aanbodsdoel",
-		"fo_uitwerking_id": [
-			"0599c4ae-4a5d-4d47-a4bd-c0d737a7f4cc",
-			"bf867da6-5f3c-40e1-8449-55bb08b6b512",
-			"11658461-b414-4a50-96cf-02b930199028",
-			"561a832e-8783-4574-959a-aa6f8eb6df91"
-		],
-		"fo_toelichting_id": [
-			"e2cc50e3-3730-45ba-9aae-148acf18704c",
-			"7e18d17a-cd2e-47dc-a985-915265272c46",
-			"683679a1-b8cc-41dd-b446-51c6f6907a81",
-			"0ba028ea-9393-407e-b97b-69f192cc8629"
-		],
-		"prefix": "A1.1",
-		"id": "561469ee-a769-4997-bc6e-e38335eaaf0a"
+		"prefix": "14",
+		"id": "bb06ac58-b4c5-4dd6-b75f-50941ffb2380",
+		"soort": "kerndoel"
 	},
 	{
 		"description": "Concept - De leerling redeneert en rekent met getallen en grootheden.",
-		"title": "Beheersingsdoel",
+		"title": "Concept - Kerndoel 1 Getallen en grootheden",
 		"fo_uitwerking_id": [
 			"a6bb58e0-c392-4294-8ca3-7971832d970b",
 			"5bcd1d36-f984-41fd-a22a-e92694c1beb9",
@@ -656,14 +545,18 @@
 			"0f56cf3a-5af5-4350-9a08-3272441a7681",
 			"f406c4fd-666d-4b54-b2b1-c4c4ff11d339",
 			"f760955d-159e-4c42-b328-d18d14d5b4c6",
-			"774d75a7-3a7e-477d-8185-dab1faa0be88"
+			"774d75a7-3a7e-477d-8185-dab1faa0be88",
+			"82155ab8-adb4-4e1f-a737-b953318cea4a"
 		],
-		"prefix": "B1.1",
-		"id": "f1c491e6-16f5-45c5-a28a-44654d660085"
+		"prefix": "1",
+		"id": "f1c491e6-16f5-45c5-a28a-44654d660085",
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0
 	},
 	{
 		"description": "Concept - De leerling redeneert en rekent met getallen, grootheden, variabelen en algebraïsche uitdrukkingen.",
-		"title": "Beheersingsdoel",
+		"title": "Concept - Kerndoel 1a Algebra",
 		"fo_uitwerking_id": [
 			"f0522392-3206-4b7c-bb28-815ee3b19433",
 			"8f9eb028-7ee6-4516-a524-2a7a4b9fd74a",
@@ -676,87 +569,15 @@
 			"87a6db9b-f591-4920-a1e1-2c16587d417f",
 			"65ef2c05-4f31-40da-9e57-6dc5713f8fed"
 		],
-		"prefix": "B1.2",
-		"id": "bbd09b8c-1618-4c7c-baf9-34b206a6cf7f"
-	},
-	{
-		"description": "Concept - De leerling analyseert en voert berekeningen uit in de twee- en driedimensionale ruimte.",
-		"title": "Beheersingsdoel",
-		"fo_uitwerking_id": [
-			"bc7136ea-97bd-4dd8-935e-353dee80e1d0",
-			"71001e4e-3dd8-412d-8f35-666fdfa32689",
-			"2af4a3e0-39e9-4552-bdeb-346e37fa7913",
-			"13959ad6-3bf8-42ab-ba36-2bce6c5516fa",
-			"d326847f-a000-4868-a221-cf898a746470"
-		],
-		"fo_toelichting_id": [
-			"06a0abbb-5f56-4b73-ae13-1fe86fd89f6c",
-			"77a5063b-8980-40a3-9e2a-6bc1f554949b",
-			"6146963a-6134-40eb-ad07-c7edad6de732",
-			"e56a6e5a-b858-42c8-acd2-63959027dcc7",
-			"37bba1e0-2c95-4634-ab6a-5fdddd4b83b9",
-			"4e4eb521-d839-4750-8297-6e7a7042f304",
-			"18ce0edf-383e-452e-b42f-e8961181cf29",
-			"06952d39-7751-417d-9408-bba85e1ed24c",
-			"c7705f86-08c9-4608-942a-ca04f56fe162",
-			"257a9ee6-9fee-4f8f-99df-5ee163598554"
-		],
-		"prefix": "B5.1",
-		"id": "3089168f-c571-43d4-8ccc-4587fa3094d7"
-	},
-	{
-		"description": "Concept - De leerling analyseert en redeneert over datasets.",
-		"title": "Beheersingsdoel",
-		"fo_uitwerking_id": [
-			"78b37ede-bf76-4cb4-a1de-e70078afaee4",
-			"d47d76e8-5820-42a9-a9ae-1d99896f3ff5",
-			"fa51bfed-1099-4312-83cf-49720282f46e",
-			"199bad75-67e3-443d-af42-6bbceb8ba6c8",
-			"db548812-0687-47ff-97c7-e5171b2cf39b",
-			"f5f947c0-dee3-462a-8b5e-e572291e36ea",
-			"70011aa3-0849-4edc-a264-2c4a973cdb04",
-			"18152397-5e39-49ca-9832-1bded8496a35",
-			"ee8fd311-6784-4f93-8af6-fa64debb983b"
-		],
-		"fo_toelichting_id": [
-			"a9628789-d24f-4b2c-8896-7aa0a070e37c",
-			"b805e487-9be7-4991-b6ae-b76ecf1df932",
-			"64078609-201e-4b79-9f0f-280eb3ecc0f7",
-			"1cf14bd1-95b1-4c16-a057-424d9c28c0ef",
-			"1f17bacb-f61f-4116-ba41-72642fe570a9"
-		],
-		"prefix": "B6.1",
-		"id": "9dbb4295-a30b-45fa-82da-a62ae1a09916"
-	},
-	{
-		"description": "Concept - De leerling analyseert en redeneert over patronen en verbanden.",
-		"title": "Beheersingsdoel",
-		"fo_uitwerking_id": [
-			"3c7336f9-f881-4202-bf58-2c957cd83760",
-			"125d2c0b-ce33-4c6c-b79f-b8c9784f5bb0",
-			"b6de2467-2f59-437c-8bfb-8de369186a7b",
-			"5422462e-3662-4555-b12f-57fb52e82191",
-			"90f9961e-aea0-44db-8069-329c0f469c53",
-			"9d54e051-df4a-49c4-9a4c-8aeb77a520cc",
-			"9bfe24ba-2083-4d01-a8aa-d9b8b1dbf8d3",
-			"dc0813a5-19dc-4167-b221-7c21935a6bf2",
-			"5e081e14-a588-44c1-85fb-6bca031e0744",
-			"a96f92fd-7e15-4ded-9fab-4f5d1b4ca510"
-		],
-		"fo_toelichting_id": [
-			"92d8a2cf-27f1-4d35-862a-4120f2fdd4bf",
-			"d3b359ab-3633-4119-bdcd-71ff5ee7bfb7",
-			"79bf40c8-0eb2-4791-9421-633e973c54c3",
-			"18d5e2e5-a722-45e1-b07b-5e61ea30d73b",
-			"c3b374c7-afe5-4fac-990e-10e9db99abfe",
-			"d5124c8e-bbdc-4818-a0c6-071571ef5109"
-		],
-		"prefix": "B7.1",
-		"id": "87ea652f-c267-46b9-b1d0-ffb27248abc0"
+		"prefix": "1 3h/v",
+		"id": "bbd09b8c-1618-4c7c-baf9-34b206a6cf7f",
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0
 	},
 	{
 		"description": "Concept - De leerling gebruikt wiskundige vergelijkingen",
-		"title": "Beheersingsdoel",
+		"title": "Concept - Kerndoel 2 Vergelijkingen",
 		"fo_uitwerking_id": [
 			"695f7ad9-e8cf-40de-baa4-5eb2f593cba1",
 			"2f43eaab-54c5-4bc0-8eef-783835cc444d",
@@ -775,12 +596,45 @@
 			"0b00ce1d-32f8-4cc3-9bbf-981b08ef0e9c",
 			"ec28ae0b-8029-4e96-914f-391b3e97fd37"
 		],
-		"prefix": "B8.1",
-		"id": "f3992bb7-8658-4ff1-9317-dccd8603d9cf"
+		"prefix": "2",
+		"id": "f3992bb7-8658-4ff1-9317-dccd8603d9cf",
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0
+	},
+	{
+		"description": "Concept - De leerling interpreteert, representeert en analyseert data.",
+		"title": "Concept - Kerndoel 3 Data",
+		"fo_uitwerking_id": [
+			"78b37ede-bf76-4cb4-a1de-e70078afaee4",
+			"d47d76e8-5820-42a9-a9ae-1d99896f3ff5",
+			"fa51bfed-1099-4312-83cf-49720282f46e",
+			"199bad75-67e3-443d-af42-6bbceb8ba6c8",
+			"db548812-0687-47ff-97c7-e5171b2cf39b",
+			"f5f947c0-dee3-462a-8b5e-e572291e36ea",
+			"70011aa3-0849-4edc-a264-2c4a973cdb04",
+			"18152397-5e39-49ca-9832-1bded8496a35",
+			"ee8fd311-6784-4f93-8af6-fa64debb983b",
+			"4f6c64a0-8669-44c3-85af-165d43f588e7",
+			"8d7587ef-ef4b-45c0-89e3-ba0bfa74b864"
+		],
+		"fo_toelichting_id": [
+			"a9628789-d24f-4b2c-8896-7aa0a070e37c",
+			"b805e487-9be7-4991-b6ae-b76ecf1df932",
+			"64078609-201e-4b79-9f0f-280eb3ecc0f7",
+			"1cf14bd1-95b1-4c16-a057-424d9c28c0ef",
+			"1f17bacb-f61f-4116-ba41-72642fe570a9",
+			"3386798b-c58f-483f-b98f-0309c081844f"
+		],
+		"prefix": "3",
+		"id": "9dbb4295-a30b-45fa-82da-a62ae1a09916",
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0
 	},
 	{
 		"description": "Concept - De leerling redeneert en rekent met kansen.",
-		"title": "Beheersingsdoel",
+		"title": "Concept - Kerndoel 4 Kans",
 		"fo_uitwerking_id": [
 			"0da9fe9e-7dec-4eb9-9726-4c8b88053828",
 			"fb54b77f-01b1-4437-81cb-ddad3286a31d",
@@ -790,12 +644,15 @@
 			"c0ab1844-4e13-49f1-9580-79393473440d",
 			"3031555a-89a1-4d93-82e6-24fdf7deba5f"
 		],
-		"prefix": "B9.1",
-		"id": "33766238-41bd-46d5-8462-15075b1e330f"
+		"prefix": "4",
+		"id": "33766238-41bd-46d5-8462-15075b1e330f",
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0
 	},
 	{
 		"description": "Concept - De leerling berekent kansen",
-		"title": "Beheersingsdoel",
+		"title": "Concept - Kerndoel 4a Kans",
 		"fo_uitwerking_id": [
 			"de63da87-7e93-423c-9163-9ea383fc3e97",
 			"91cadf11-b763-463b-ae74-b97413ea4bdc"
@@ -805,12 +662,75 @@
 			"dcf9591e-b56e-4b4f-9705-ed8e92976b24",
 			"31a26c67-e709-40dd-8bf2-eb3ed5dd154f"
 		],
-		"prefix": "B9.2",
-		"id": "0ed7e779-7884-4848-9bec-89e51dfcf572"
+		"prefix": "4 3h/v",
+		"id": "0ed7e779-7884-4848-9bec-89e51dfcf572",
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0
+	},
+	{
+		"description": "Concept - De leerling analyseert en redeneert over patronen en verbanden.",
+		"title": "Concept - Kerndoel 5 Patronen en verbanden",
+		"fo_uitwerking_id": [
+			"3c7336f9-f881-4202-bf58-2c957cd83760",
+			"125d2c0b-ce33-4c6c-b79f-b8c9784f5bb0",
+			"b6de2467-2f59-437c-8bfb-8de369186a7b",
+			"5422462e-3662-4555-b12f-57fb52e82191",
+			"90f9961e-aea0-44db-8069-329c0f469c53",
+			"9d54e051-df4a-49c4-9a4c-8aeb77a520cc",
+			"9bfe24ba-2083-4d01-a8aa-d9b8b1dbf8d3",
+			"dc0813a5-19dc-4167-b221-7c21935a6bf2",
+			"5e081e14-a588-44c1-85fb-6bca031e0744",
+			"a96f92fd-7e15-4ded-9fab-4f5d1b4ca510"
+		],
+		"fo_toelichting_id": [
+			"92d8a2cf-27f1-4d35-862a-4120f2fdd4bf",
+			"d3b359ab-3633-4119-bdcd-71ff5ee7bfb7",
+			"79bf40c8-0eb2-4791-9421-633e973c54c3",
+			"18d5e2e5-a722-45e1-b07b-5e61ea30d73b",
+			"c3b374c7-afe5-4fac-990e-10e9db99abfe",
+			"d5124c8e-bbdc-4818-a0c6-071571ef5109",
+			"d81edb25-0e99-44f1-9a67-3b1e290fcaf7"
+		],
+		"prefix": "5",
+		"id": "87ea652f-c267-46b9-b1d0-ffb27248abc0",
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0
+	},
+	{
+		"description": "Concept - De leerling analyseert en redeneert over de twee- en driedimensionale ruimte.",
+		"title": "Concept - Kerndoel 6 Vorm en ruimte",
+		"fo_uitwerking_id": [
+			"bc7136ea-97bd-4dd8-935e-353dee80e1d0",
+			"71001e4e-3dd8-412d-8f35-666fdfa32689",
+			"2af4a3e0-39e9-4552-bdeb-346e37fa7913",
+			"13959ad6-3bf8-42ab-ba36-2bce6c5516fa",
+			"d326847f-a000-4868-a221-cf898a746470",
+			"65f79e0b-bc4f-4cf8-936d-5270501b0ae8"
+		],
+		"fo_toelichting_id": [
+			"06a0abbb-5f56-4b73-ae13-1fe86fd89f6c",
+			"77a5063b-8980-40a3-9e2a-6bc1f554949b",
+			"6146963a-6134-40eb-ad07-c7edad6de732",
+			"e56a6e5a-b858-42c8-acd2-63959027dcc7",
+			"37bba1e0-2c95-4634-ab6a-5fdddd4b83b9",
+			"4e4eb521-d839-4750-8297-6e7a7042f304",
+			"18ce0edf-383e-452e-b42f-e8961181cf29",
+			"06952d39-7751-417d-9408-bba85e1ed24c",
+			"c7705f86-08c9-4608-942a-ca04f56fe162",
+			"257a9ee6-9fee-4f8f-99df-5ee163598554",
+			"1ada15c0-dcdf-4b76-a5d2-04242fbb0a53"
+		],
+		"prefix": "6",
+		"id": "3089168f-c571-43d4-8ccc-4587fa3094d7",
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0
 	},
 	{
 		"description": "Concept - De leerling lost wiskundige problemen en toepassingsproblemen op.",
-		"title": "Beheersingsdoel",
+		"title": "Concept - Kerndoel 7 Wiskundig probleemoplossen",
 		"fo_uitwerking_id": [
 			"7aca5aec-9b08-4774-a4d7-be13fe50f102",
 			"d715d211-8888-4397-8b0f-fc79eabfea88",
@@ -825,34 +745,15 @@
 			"6280ba58-2f46-4d97-a4a6-f0b9db9dab9b",
 			"5f08c372-198e-46e9-87ca-952b9d92e5e8"
 		],
-		"prefix": "C1.1",
-		"id": "c9e39d4f-dc31-4931-b15a-f46a74eb17f1"
+		"prefix": "7",
+		"id": "c9e39d4f-dc31-4931-b15a-f46a74eb17f1",
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0
 	},
 	{
-		"description": "Concept - De leerling maakt en gebruikt abstracte modellen van situaties en problemen",
-		"title": "Beheersingsdoel",
-		"fo_uitwerking_id": [
-			"6eb2b203-8e9c-4bfe-adbf-748a52789ccc",
-			"3f28044a-3b09-4c20-9a06-53d843c7a7c7",
-			"ae84a9b6-49fa-43bf-9ae0-067a7f91c793",
-			"06a4ca9d-b50f-4df8-94ef-17ab41ccac19",
-			"c9c6ed82-a8bb-48a6-adea-9ed7c207771e",
-			"4f69a8c9-fa7d-4197-ac15-d3ce27c4bafb"
-		],
-		"fo_toelichting_id": [
-			"5a7b65bf-7a36-47fd-8628-d08b7811a91e",
-			"5f0bdbec-0f18-41fd-a4e7-d63d938b577e",
-			"c6cf42ed-9d56-49c5-99a9-c0980315afdd",
-			"4fc752f1-6f45-424b-a401-9b5fed27c852",
-			"4d303026-fa17-4813-89a1-0a0124c15a43",
-			"26e113b6-2d34-4504-b805-45d21a2c8bd7"
-		],
-		"prefix": "C2.1",
-		"id": "0c42c5f9-5e3d-477b-a4e2-09b95c9d8133"
-	},
-	{
-		"description": "Concept - De leerling toont de juistheid van een wiskundige bewering of redenering aan.",
-		"title": "Beheersingsdoel",
+		"description": "Concept - De leerling toont de juistheid van wiskundige beweringen en redeneringen aan.",
+		"title": "Concept - Kerndoel 9 Aantonen",
 		"fo_uitwerking_id": [
 			"65844a3e-743a-4ccf-97a4-a93d4a25d645",
 			"4d9b3f5c-2dbe-4f06-8209-a70b4e654949",
@@ -869,19 +770,23 @@
 			"321dfaba-2b55-4c89-a59c-1498e328fcc8",
 			"e1551871-a8ec-4663-8f96-b48e2a5474d3"
 		],
-		"prefix": "C3.1",
-		"id": "3f2a764a-3055-4128-80e1-763476691bdf"
+		"prefix": "9",
+		"id": "3f2a764a-3055-4128-80e1-763476691bdf",
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0
 	},
 	{
-		"description": "Concept - De leerling beschrijft en ontwerpt eenvoudige algoritmen.",
-		"title": "Beheersingsdoel",
+		"description": "Concept - De leerling bedenkt en beschrijft algoritmen.",
+		"title": "Concept - Kerndoel 10 Gebruiken en beschrijven van algoritmes",
 		"fo_uitwerking_id": [
 			"c1c3451b-0676-4d69-9bef-81507bb41b96",
 			"5a13d5b0-4b9b-4c37-aa1a-00844147e6b1",
 			"83125ca4-a12f-4961-b1c6-038bc7921368",
 			"e7353df5-4d06-4d28-a4cd-6ab56bc63627",
 			"7deb96b5-4549-407f-90f6-e02ca5793529",
-			"54e01707-8c44-42ea-887f-d60705618327"
+			"54e01707-8c44-42ea-887f-d60705618327",
+			"ba032a89-752d-47fa-af85-7681d9d57c64"
 		],
 		"fo_toelichting_id": [
 			"e538f7ab-61bc-4716-8ad2-d03e455913ac",
@@ -890,14 +795,18 @@
 			"0015c7d9-aa7d-4970-9955-d93d34156892",
 			"75d01958-073b-4c04-a3fe-d286e2f80766",
 			"107403a6-775c-46ff-a60f-9669b3440c5c",
-			"1db4cf87-3f40-4953-b374-02efcc9e8976"
+			"1db4cf87-3f40-4953-b374-02efcc9e8976",
+			"6cfe2bb3-e505-46c9-8f78-0e6c05ba6c71"
 		],
-		"prefix": "C4.1",
-		"id": "0956691b-5ed5-4c1f-a952-58e16b07ad5d"
+		"prefix": "10",
+		"id": "0956691b-5ed5-4c1f-a952-58e16b07ad5d",
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0
 	},
 	{
 		"description": "Concept - De leerling gebruikt wiskundetaal en wiskundige representaties.",
-		"title": "Beheersingsdoel",
+		"title": "Concept - Kerndoel 11 Gebruiken van wiskundetaal en wiskundige representaties",
 		"fo_uitwerking_id": [
 			"3f6ac9fa-cf0e-4fdb-97b1-465f132b3afa",
 			"7f3fc213-d0ec-41a2-8fc0-03276d3acabe",
@@ -911,12 +820,15 @@
 			"8f1fab05-1158-4871-8910-eab7ed6f76d8",
 			"47bd17f9-f652-4d03-a3dd-3e613a3cfa78"
 		],
-		"prefix": "C5.1",
-		"id": "62a0730b-8c50-43f7-a6cd-3342d0c0607f"
+		"prefix": "11",
+		"id": "62a0730b-8c50-43f7-a6cd-3342d0c0607f",
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0
 	},
 	{
 		"description": "Concept - De leerling gebruikt meetinstrumenten en andere wiskundige instrumenten.",
-		"title": "Beheersingsdoel",
+		"title": "Concept - Kerndoel 12 Gebruiken van wiskundige instrumenten",
 		"fo_uitwerking_id": [
 			"7e486f51-cc8c-4d15-be6a-febcb98c3aa8",
 			"edb0329b-4eb9-4803-bb57-6ce302ac5b8e",
@@ -930,12 +842,15 @@
 			"0fe3ac92-26bf-4372-9707-cd73bcd5cbf6",
 			"f2269dfe-ddb6-497f-bbd3-b01da420ab25"
 		],
-		"prefix": "C6.1",
-		"id": "ff4483c9-86da-4de8-8661-b4d4801ebbcf"
+		"prefix": "12",
+		"id": "ff4483c9-86da-4de8-8661-b4d4801ebbcf",
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0
 	},
 	{
-		"description": "Concept - De leerling herkent en gebruikt wiskunde in dagelijkse, maatschappelijke en beroepsmatige situaties.",
-		"title": "Beheersingsdoel",
+		"description": "Concept - De leerling herkent en gebruikt wiskunde in alledaagse, maatschappelijke en beroepsmatige situaties.",
+		"title": "Concept Kerndoel 14 Wiskunde in de werkelijkheid",
 		"fo_uitwerking_id": [
 			"ca09d48a-49b5-4c92-83e9-52cf2db24d20",
 			"b5976ff0-6265-44f0-b24e-d70747796a61",
@@ -948,77 +863,72 @@
 			"c4c084a3-7d43-4f0c-9f05-f963acdf85ba",
 			"c0d21016-4a0b-472d-805a-03511f0ecb2d",
 			"439959b6-7ba3-4e41-862b-df6ef200d3e8",
-			"1708328c-8944-46b1-9245-dc31bdda7284"
+			"1708328c-8944-46b1-9245-dc31bdda7284",
+			"340c37d9-225b-4149-9e53-0fadc52aacee",
+			"a9c80a85-95f8-4755-a759-3a68759e1a32"
 		],
-		"prefix": "D1.1",
-		"id": "347fe2cf-3c24-4502-8111-b811cd981675"
+		"prefix": "14",
+		"id": "347fe2cf-3c24-4502-8111-b811cd981675",
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0
 	},
 	{
-		"description": "Concept - De school ondersteunt het gebruik van wiskunde in andere leergebieden",
-		"title": "Aanbodsdoel",
+		"description": "Concept - De school zorgt voor een rijke taal- en leesomgeving.",
+		"title": "Concept Kerndoel 1 Taal- en leesomgeving",
 		"fo_uitwerking_id": [
-			"a78e38af-b531-4a04-a184-f3b570d31e2b",
-			"084d6fb9-fab1-4e7d-b1aa-22dbba0db987",
-			"0765e736-b37d-4012-b7f8-808417937e22",
-			"fe472165-8655-4770-b6b4-08d777f12e78",
-			"2db47992-145e-4457-a2be-07478ba8908c"
+			"f01cc0c6-cf6e-4aa1-8e29-ff23740c4dec",
+			"eea58305-daf4-4f64-997d-944ae8af8814",
+			"379bde9c-f402-4be8-9f22-46ad8cc8c5c6",
+			"8a7dd92c-975f-4731-ab7e-1c5fa8c9882a",
+			"40d26836-990f-439e-a5f8-6f0cff9a0a6c"
 		],
 		"fo_toelichting_id": [
-			"610dd232-a8fb-4634-a580-5a0219530436",
-			"194f90ba-6980-4acf-914d-6409b9e0f784",
-			"679ac6c5-8984-4bf2-a3e7-c74ca0157ae8",
-			"c3981e78-09ab-4ad8-a8c1-58a0adb72f07",
-			"f36d4c84-a2ec-4d3d-83c7-e086d7728601"
+			"44b22c23-679d-4e30-a018-94a6b56b6299",
+			"f99ffed8-5309-4a09-b096-bcd726b7443d",
+			"8ac93d86-2794-4d30-9739-9402b0661e33",
+			"25e203cf-0c4b-4393-8a95-35ffb39df0b2",
+			"472a2644-709c-4a94-9f9f-7fe7fe4f3a4f"
 		],
-		"prefix": "D2.1",
-		"id": "24509a03-2564-48bc-80ff-5df287166046"
+		"prefix": "1",
+		"id": "ef048d52-0a42-4dd1-a529-ca059c3572bf",
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0
 	},
 	{
-		"description": "Concept - De school biedt wiskundige concepten en wiskundige denk/werkwijzen in onderlinge samenhang aan",
-		"title": "Aanbodsdoel",
+		"description": "Concept - De school stimuleert de taalontwikkeling van de leerling in alle leergebieden.",
+		"title": "Concept Kerndoel 2 Taal in de leergebieden",
 		"fo_uitwerking_id": [
-			"4a6bce45-20c5-4639-a4a4-155db19686cc",
-			"70917d43-27c5-4c06-9a7d-6b64e6fcbcec",
-			"d439e7c8-0283-41da-82c8-06ff98d8e1f3",
-			"3902bf38-48bd-41ab-8a85-91f1f753e500",
-			"fbe28710-17ad-4996-af95-81b30ccd7f56"
+			"43029119-0cc0-4710-b8ff-72fbeaa5bbfa",
+			"1a26db43-eeef-43a9-99d5-93de8177e236",
+			"b57a7643-74bd-4a79-9572-fc516e3281f2",
+			"35d22154-7913-42dd-8e83-92b69f0eb713",
+			"c4ea8dd0-2ec5-40e8-9ffb-72ac0e45c96a"
 		],
 		"fo_toelichting_id": [
-			"23fe0fae-895f-4f94-975f-a6bc4a22412b",
-			"c4f0dd15-1997-496d-ac26-1bab6ef7a827",
-			"ef2d600e-6852-43f1-a529-00e6985460a8"
+			"46b82c1e-9394-465b-9fd2-9b88857f485c",
+			"2aeafe78-998c-4046-bd2f-93d6546c67e7",
+			"82afb1fa-cbdd-42c5-8109-a36d5c4e9a5a",
+			"6982ba2f-512a-45f0-818e-187910d18da3",
+			"d6268a67-3bf3-405a-adf9-7e3691a27645"
 		],
-		"prefix": "D3.1",
-		"id": "9c5c8409-4d99-407e-a23c-18fd88d63de4"
+		"prefix": "2",
+		"id": "51cea2c3-4e4c-443f-8975-3f4501a51af3",
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0
 	},
 	{
-		"description": "Concept - De school stimuleert een wiskundige attitude van leerlingen.",
-		"title": "Aanbodsdoel",
-		"fo_uitwerking_id": [
-			"925b27d1-7706-40ae-906b-93fa495d64e3",
-			"89775bfc-1ca1-4afc-8107-6604fe1c9fbc",
-			"3a649a72-9d33-45ea-9021-bf266906ef8c",
-			"32596138-3a08-4873-8522-d6fde8448b9d",
-			"c0515655-ce7e-474c-8fea-5d915793634c"
-		],
-		"fo_toelichting_id": [
-			"9ea08573-8792-4283-a8f0-37c3c12ec9be",
-			"cb7bbd90-2f8b-4c1a-9704-ff4b6d53c849",
-			"e7df11c3-841a-4393-b51d-efbd0cd1aac0",
-			"be110d51-ea5d-4549-bc37-a3d739e5b797"
-		],
-		"prefix": "A1.1",
-		"id": "718ea081-6bc6-45d3-84dc-f8aabf7a13e6"
-	},
-	{
-		"description": "Concept - De leerling toont begrip van beluisterde, gelezen en bekeken teksten",
-		"title": "Beheersingsdoel; begrjpend luisteren, lezen en kijken",
+		"description": "Concept - De leerling toont begrip van zakelijke en literaire teksten.",
+		"title": "Concept Kerndoel 3 Luisteren en lezen met begrip",
 		"fo_uitwerking_id": [
 			"3fd71129-c7e8-4adc-8d70-971c7a9eab82",
 			"17c5a89c-9b2e-44ab-ba13-f635cbf1ae5a",
 			"fa176038-a1ba-44bd-be56-12155013137b",
 			"27f82b87-4d91-4bfa-ac85-023477c122ab",
-			"309ddcc3-a1ff-4ca0-97d1-b6ac921f443e"
+			"309ddcc3-a1ff-4ca0-97d1-b6ac921f443e",
+			"60fda3df-32a4-4169-a73d-a35b16074945"
 		],
 		"fo_toelichting_id": [
 			"bd5b6191-12bc-444d-b3d3-13d2ad418dc5",
@@ -1029,12 +939,15 @@
 			"44d0c479-dcdb-4f2c-ae40-87f8a6420504",
 			"f37a92a6-d228-42d3-a2de-96d13bbec9d1"
 		],
-		"prefix": "3.",
-		"id": "c6136156-dd19-4391-b4cf-544d6e15ce17"
+		"prefix": "3",
+		"id": "c6136156-dd19-4391-b4cf-544d6e15ce17",
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0
 	},
 	{
-		"description": "Concept - De leerling spreekt en schrijft afgestemd op die past bij doel, publiek en context.",
-		"title": "Beheersingsdoel, Doelgericht spreken en schrijven",
+		"description": "Concept - De leerling evalueert en reflecteert op zakelijke en literaire teksten.",
+		"title": "Concept Kerndoel 4 Luisteren en lezen met diep begrip",
 		"fo_uitwerking_id": [
 			"08ca123b-0f96-4369-95da-31f042b3715f",
 			"3a8f0eda-dd95-4e9c-9f2c-5b632053d616",
@@ -1046,14 +959,20 @@
 			"82cdfbda-5c98-4249-8beb-2da628654d4a",
 			"d3e44b8c-e5cd-4095-bff1-1c94f5558e88",
 			"72632e61-1c68-466c-85bb-93ea8d39bed5",
-			"4d5f3b00-7f10-42fe-84bb-53f4ba53d26b"
+			"4d5f3b00-7f10-42fe-84bb-53f4ba53d26b",
+			"97220591-c2c4-4335-be8c-a0686c4d88ed",
+			"c8d71df1-10b0-42be-8af0-a5392710d4c1",
+			"b88cec55-5fdd-4185-ac8f-555d044d8c49"
 		],
-		"prefix": "4.",
-		"id": "44c10504-afb2-4275-879c-bf840f7ef6e3"
+		"prefix": "4",
+		"id": "44c10504-afb2-4275-879c-bf840f7ef6e3",
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0
 	},
 	{
-		"description": "Concept - De leerling gebruikt taal op een creatieve manier.",
-		"title": "Beheersingsdoel, Creatief taal gebruiken",
+		"description": "Concept - De leerling spreekt en schrijft afgestemd op doel, publiek en context.",
+		"title": "Concept Kerndoel 5 Doelgericht spreken en schrijven",
 		"fo_uitwerking_id": [
 			"28709407-4f53-47fc-ba4f-03e369610714",
 			"ee04293d-6a41-47e0-8695-3b4a1edee028",
@@ -1066,14 +985,20 @@
 			"3e3aa55f-fe01-4f7c-8aec-2d9b1f528021",
 			"ba056cec-e29b-4d98-bc61-4bde297fa1cd",
 			"5c84d9df-2736-4511-a136-cf3d3768ad7a",
-			"4a5c54eb-85ff-4c4d-b7a4-10576b70e917"
+			"4a5c54eb-85ff-4c4d-b7a4-10576b70e917",
+			"7bf75196-395e-4426-aae3-161fea97f3e1",
+			"fe414bb9-573c-41aa-b539-a28988bdded8",
+			"d0960d1d-aba6-4a36-aac9-0cdb35808edd"
 		],
-		"prefix": "5.",
-		"id": "50ec048a-8295-413c-b3f9-18b14504a8af"
+		"prefix": "5",
+		"id": "50ec048a-8295-413c-b3f9-18b14504a8af",
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0
 	},
 	{
-		"description": "Concept - De leerling schrijft om te komen tot kennisopbouw of begrip.",
-		"title": "Beheersingsdoel, Schrijven om te leren",
+		"description": "Concept - De leerling gebruikt taal op een creatieve manier.",
+		"title": "Concept Kerndoel 6 Creatief taal gebruiken",
 		"fo_uitwerking_id": [
 			"dc7c00e1-41d7-4107-a0cf-37457ca228e0",
 			"55c8700a-f5e5-492a-ad78-6ed7b5fb2563",
@@ -1085,19 +1010,25 @@
 			"ccc2433b-bb18-419d-b56f-4880330db619",
 			"fde6ccaf-9485-4fa9-8dd2-0bca723e9ee3",
 			"5050f303-653f-424b-b473-69b43d6237c8",
-			"e078b929-eef1-4560-8369-dc3992b502a2"
+			"e078b929-eef1-4560-8369-dc3992b502a2",
+			"c9d7ef8b-800e-4b90-a16a-7f00e188ffcd",
+			"e7b41413-695e-4eeb-88c8-f7e1012f69bc"
 		],
-		"prefix": "6.",
-		"id": "4b8b8c36-9b85-4c23-98b2-9edc18da8de9"
+		"prefix": "6",
+		"id": "4b8b8c36-9b85-4c23-98b2-9edc18da8de9",
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0
 	},
 	{
-		"description": "Concept - De leerling onderzoekt verschillende bronnen.",
-		"title": "Beheersingsdoel, Bronnen onderzoeken",
+		"description": "Concept - De leerling schrijft om tot kennisopbouw of begrip te komen.",
+		"title": "Concept Kerndoel 7 Schrijven om te leren",
 		"fo_uitwerking_id": [
 			"0621e04c-ddc5-4ee6-8bb4-9265f4881061",
 			"b242154f-a37a-4d8b-bb32-1b6895a0b59f",
 			"d6703495-ddb0-4791-874a-7594ce66afb7",
-			"972e26fb-c0e0-4f08-a426-9b469358bef1"
+			"972e26fb-c0e0-4f08-a426-9b469358bef1",
+			"26864932-79ac-4df8-a567-f9c0362437c2"
 		],
 		"fo_toelichting_id": [
 			"5aa3e0af-cbe8-4357-8801-36aaaa9eca3e",
@@ -1105,30 +1036,15 @@
 			"7ed82c40-f8a1-4caa-a985-4f70823566f8",
 			"cff5cd22-506b-4a4a-aca1-ea8ee1cd3689"
 		],
-		"prefix": "7.",
-		"id": "04afcc55-a280-4b92-a19a-c13b653c7381"
+		"prefix": "7",
+		"id": "04afcc55-a280-4b92-a19a-c13b653c7381",
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0
 	},
 	{
-		"description": "Concept - De leerling verwerkt informatie uit verschillende bronnen in een gesproken of geschreven tekst.",
-		"title": "Beheersingsdoel, Bronnen verwerken",
-		"fo_uitwerking_id": [
-			"3019fdbb-5720-4ab9-a36c-e8296315bf68",
-			"678ba36e-8188-4c63-b024-c55ebc3b5e93",
-			"d8db6839-5ac5-489d-b575-ab28f3301edd",
-			"a0fe8562-bd97-4df5-a15c-25d677a9b22d"
-		],
-		"fo_toelichting_id": [
-			"fdc444f0-7e50-4e38-83b5-93098e947d82",
-			"c0b0414c-ff0d-46c1-8330-dbd055897cc4",
-			"0d11d45c-34f4-422e-b9cf-c67d980403dd",
-			"9adfd27c-2e9b-4376-8918-8b2d94c55668"
-		],
-		"prefix": "8.",
-		"id": "9f51f9d0-3f95-4179-a0f5-cc905e85be8e"
-	},
-	{
-		"description": "Concept - De leerling reflecteert op de uitvoering van een taalactiviteit.",
-		"title": "Beheersingsdoel, Reflecteren op taal activiteit",
+		"description": "Concept - De leerling voert gesprekken afgestemd op doel, gesprekspartner(s) en context.",
+		"title": "Concept Kerndoel 9 Doelgericht gesprekken voeren",
 		"fo_uitwerking_id": [
 			"c32bd0a0-6f8b-41fc-9158-12de23ec20b5",
 			"c29c5103-a23f-45eb-909a-fa9a01ce3073",
@@ -1139,51 +1055,44 @@
 		"fo_toelichting_id": [
 			"273c3c42-3a4b-467b-865e-53a5e9b043ea",
 			"f42dc702-bf63-48ab-b3f5-156edc81d9ac",
-			"fb8d0070-ef9b-4238-b00d-22dd5f5e95d8"
+			"fb8d0070-ef9b-4238-b00d-22dd5f5e95d8",
+			"5bf68449-8451-4247-8627-092db8edc7a4",
+			"19983f6e-f3c4-486c-b5f1-5cbbadd54c9b",
+			"ff89f5ee-72ee-4d52-ae54-ee868c27f152"
 		],
-		"prefix": "9.",
-		"id": "70191486-92d4-4c68-9793-6602e6c29423"
+		"prefix": "9",
+		"id": "70191486-92d4-4c68-9793-6602e6c29423",
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0
 	},
 	{
-		"description": "Concept - De leerling voert gesprekken afgestemd op doel, gesprekspartner en context.",
-		"title": "Beheersingsdoel, Doelgericht gesprekken voeren",
+		"description": "Concept - De leerling voert gesprekken om tot kennisopbouw, begrip of een aanpak te komen.",
+		"title": "Concept Kerndoel 10 Gesprekken voeren om te leren.",
 		"fo_uitwerking_id": [
 			"bb651c4a-099c-4cf9-af91-999a72bd805e",
 			"e7f6a8c7-134e-431b-813d-dee1e4857d0e",
 			"e0e8993a-fdd4-443d-a06a-68659f730ead",
-			"6690ddfd-19fb-4c1f-8af6-3ecf3f394ff3"
+			"6690ddfd-19fb-4c1f-8af6-3ecf3f394ff3",
+			"24b77529-c0df-44e6-9de5-edd14feb181a"
 		],
 		"fo_toelichting_id": [
 			"1e886120-8f9a-4ab7-85b8-23975b0e8bfe",
 			"93483abb-e928-42f9-aff8-6e6db724bb4c",
 			"0858a1c1-1c94-464e-8fcf-5e270c5443d3",
 			"6ba2c828-89b2-4ef0-ac78-167ac64e4255",
-			"96e59404-bc6b-4d49-be28-0aa20af60d02"
+			"96e59404-bc6b-4d49-be28-0aa20af60d02",
+			"282f5f62-5237-4df3-8366-b649bdf3ef60"
 		],
-		"prefix": "10.",
-		"id": "59c23efd-bdd7-43b0-ba0c-e518dca752a3"
-	},
-	{
-		"description": "Concept - De leerling voert gesprekken om tot kennisopbouw, begrip of een aanpak te komen.",
-		"title": "Beheersingsdoel, Gesprekken voeren om te leren",
-		"fo_uitwerking_id": [
-			"28a8e9fa-bef0-4a4d-9d54-e2d0b2e9c7b6",
-			"2acf621a-aa8a-48e8-9ca5-32f111e69481",
-			"03148df7-82b2-4311-bc69-58b6107f4417",
-			"a51376df-8674-422a-9946-e92126239349",
-			"a0fda18f-9919-40e8-ab65-c48bdd01013f"
-		],
-		"fo_toelichting_id": [
-			"1febfda1-1b3c-41ba-b494-5facbee930c7",
-			"3393b1dd-e6f3-426e-9781-4512ddaf55a9",
-			"235c19a6-5d25-4fbf-9d61-a01372849a8d"
-		],
-		"prefix": "11.",
-		"id": "35ae3aa0-5100-4e9a-9f8e-2d3281487d83"
+		"prefix": "10",
+		"id": "59c23efd-bdd7-43b0-ba0c-e518dca752a3",
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0
 	},
 	{
 		"description": "Concept - De leerling beschouwt de relatie tussen vorm en betekenis van taal.",
-		"title": "Beheersingsdoel, Vorm en betekenis beschouwen",
+		"title": "Concept Kerndoel 12 Vorm en betekenis beschouwen",
 		"fo_uitwerking_id": [
 			"a088160e-688a-4ccf-8add-02948b34321e",
 			"975fde19-978d-4504-9ff7-cf8ad75985bb",
@@ -1194,32 +1103,42 @@
 		"fo_toelichting_id": [
 			"cb255320-bbbb-4e5c-a44e-ee2f0efbc100",
 			"418bc4e3-abd3-4d4d-b557-995c473fcd21",
-			"aa91856c-16fa-403c-977c-b7e713ec073a"
+			"aa91856c-16fa-403c-977c-b7e713ec073a",
+			"18ce7d76-592d-489c-8cdf-e448dfdc333a",
+			"08f24962-3d7a-488f-8db2-18b2da037a58"
 		],
-		"prefix": "12.",
-		"id": "0c5c554b-3901-44f8-aaa0-6e7b63caf5fc"
+		"prefix": "12",
+		"id": "0c5c554b-3901-44f8-aaa0-6e7b63caf5fc",
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0
 	},
 	{
-		"description": "Concept - De leerling verzorgt het schriftelijk taalgebruik.",
-		"title": "Beheersingsdoel, schriftelijke taalverzorging",
+		"description": "Concept - De leerling toont inzicht in regels en procedures voor spelling, formulering en interpunctie.",
+		"title": "Concept Kerndoel 13 Spelling, formulering en interpunctie",
 		"fo_uitwerking_id": [
 			"ca57bc75-5e6e-4c66-871b-98c30e764d8e",
 			"42b735b5-9e33-41ff-9229-a379919de0bb",
 			"b13cd1df-7962-4d26-908b-5b717c148592",
-			"171498c1-bf5e-4ed9-8e0d-6522c22f61c7"
+			"171498c1-bf5e-4ed9-8e0d-6522c22f61c7",
+			"279081dd-2ff5-4bb7-bc78-6cff96a568ee"
 		],
 		"fo_toelichting_id": [
 			"f016ef1c-ae31-429b-b8d6-b777c9900ee9",
 			"08fd8cae-0371-4032-8f72-11a962690c03",
 			"11313d8e-c144-4ed1-8ad3-d8c6ff282a82",
-			"8d34d61d-107f-4e0c-825a-3819ac7eb90d"
+			"8d34d61d-107f-4e0c-825a-3819ac7eb90d",
+			"628b8e89-bec3-451f-8596-4aac6afc1d30"
 		],
-		"prefix": "13.",
-		"id": "0a247c35-3e9a-48b9-bebd-1ab6810c5b48"
+		"prefix": "13",
+		"id": "0a247c35-3e9a-48b9-bebd-1ab6810c5b48",
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0
 	},
 	{
-		"description": "Concept - De leerling verkent hoe je met taal uiting geeft aan je identiteiten.",
-		"title": "Beheersingsdoel, Talige identiteit",
+		"description": "Concept - De leerling verkent hoe je met taal uiting geeft aan identiteit.",
+		"title": "Concept Kerndoel 14 Talige identiteit",
 		"fo_uitwerking_id": [
 			"6deffb4b-6366-48ed-88d9-4ea4116e9ce0",
 			"54ebf950-8a25-4e57-b192-0b460dd238c6",
@@ -1230,72 +1149,82 @@
 		"fo_toelichting_id": [
 			"81148ad7-ab6e-4886-ae6b-e07af7a83750",
 			"9ca84e50-2786-46ad-8c9f-d75eb9cfdebb",
-			"60c502e3-6741-4e93-98d2-59cdd003607b"
+			"60c502e3-6741-4e93-98d2-59cdd003607b",
+			"d8d1403d-2202-4b6a-9460-94ce9212d94c"
 		],
-		"prefix": "14.",
-		"id": "68d3d4e0-b62d-4017-bcfd-f773dfc1773f"
+		"prefix": "14",
+		"id": "68d3d4e0-b62d-4017-bcfd-f773dfc1773f",
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0
 	},
 	{
-		"description": "Concept - De leerling beschouwt het bestaan en gebruik van verschillende talen en taalvariëteiten in relatie tot het Nederlands.",
-		"title": "Beheersingsdoel, Taalvariatie",
+		"description": "Concept - De leerling verkent taalvariatie en taalverandering in het Nederlandse taalgebied.",
+		"title": "Concept Kerndoel 15 Taalvariatie en taalverandering",
 		"fo_uitwerking_id": [
 			"17f804bb-45b2-4ad9-aa9b-426f93bc1e88",
 			"c915ca8a-079d-4985-8824-90b8467ea9c9",
 			"ce4f2edd-0c47-42a7-92d5-29f5dbd4a8ac",
-			"8374d6dd-bcfe-482e-9655-cff7ef373d9d"
+			"8374d6dd-bcfe-482e-9655-cff7ef373d9d",
+			"77e1a912-2f0c-45ae-a81a-a3cd391c5b03"
 		],
 		"fo_toelichting_id": [
 			"7addd069-9ed8-4d9a-9e5d-64bee573cfb9",
 			"459ffa01-245e-4d36-a4cc-97383df919e5",
-			"948f4b0a-f666-497a-91cc-cd3bb6802a71"
+			"948f4b0a-f666-497a-91cc-cd3bb6802a71",
+			"8a7453a0-9d1c-4974-89af-a5c95008f89b",
+			"72cbe1fe-3824-42f7-86d0-9d37aa6f4af7",
+			"f257b607-3545-4da6-a377-a0fb2127b9b1",
+			"2e15f23c-d494-440f-ae99-db3cd69cee2a"
 		],
-		"prefix": "15.",
-		"id": "ea4f56f1-e2b4-471c-8146-daf144b3209c"
+		"prefix": "15",
+		"id": "ea4f56f1-e2b4-471c-8146-daf144b3209c",
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0
 	},
 	{
-		"description": "Concept - De leerling verkent de verandering van het Nederlands onder invloed van tijd en maatschappelijke ontwikkelingen.",
-		"title": "Beheersingsdoel, Taalverandering",
+		"description": "Concept - De leerling toont inzicht in zakelijke tekstgenres.",
+		"title": "Concept Kerndoel 16 Zakelijke tekstgenres",
+		"fo_uitwerking_id": [
+			"b6091019-bc91-4206-87ee-9579327f6a87",
+			"961b3731-38aa-481f-aba6-341e9186bf64",
+			"831e87f9-3541-447f-adf8-07fcda41269c"
+		],
+		"fo_toelichting_id": [
+			"6c05e9b1-cfa2-4027-b428-98b1f3d17a7c",
+			"cf2378c3-b3a0-4a43-b5c3-6d776e09899b",
+			"217ba532-d691-4ea7-a797-6882276e3287"
+		],
+		"prefix": "16",
+		"id": "450eefee-b96e-4379-9646-9254bf482f9a",
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0
+	},
+	{
+		"title": "Concept Kerndoel 17 Argumentatief taalgebruik",
+		"description": "Concept - De leerling toont inzicht in de overtuigingskracht van argumentatie.",
 		"fo_uitwerking_id": [
 			"500cecff-4a39-4ab4-983a-7a12e4043dfd",
 			"50ab9b31-a034-40a5-b2e2-e74ed9dae353",
 			"16e38f8a-7b3a-46a8-92b2-37b5a9cad107",
-			"5752b62a-4cd2-491b-a3d0-a7d6b8428f85",
-			"782e4867-0192-44d3-8242-a93e0bd9bca3"
+			"5752b62a-4cd2-491b-a3d0-a7d6b8428f85"
 		],
 		"fo_toelichting_id": [
 			"772357de-4cc7-400f-9864-4b4d045dce78",
 			"0a334ec3-0eb2-4cce-b1a4-e9e51a7f1ca1",
-			"8b1dd516-b00a-4c91-a881-836bc7bbc80a",
-			"6f3fb427-65db-46b5-a533-61cbf4a2428d",
-			"c2daf969-0f65-413e-87da-867bdbf31174",
-			"b339c1d0-742e-4b10-92e6-80a27fdc3b8c"
+			"8b1dd516-b00a-4c91-a881-836bc7bbc80a"
 		],
-		"prefix": "16.",
-		"id": "450eefee-b96e-4379-9646-9254bf482f9a"
+		"prefix": "17",
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0,
+		"id": "263bcf20-8f1d-4f29-937f-f2eaafd10e33"
 	},
 	{
-		"description": "Concept - De leerling toont inzicht in verhalende teksten met behulp van kennis over verteltechnieken.",
-		"title": "Beheersingsdoel, Inzicht in verhalende teksten",
-		"fo_uitwerking_id": [
-			"fce4c74b-60c9-4f7d-9e5d-146a5f5f8d45",
-			"2075a809-5fbd-4718-bf90-271fc3262853",
-			"204fd921-3b3e-40b8-b5f0-db35efff53aa",
-			"a2428383-cd5f-43bc-b739-8e1fcfbdc07c",
-			"e181cb1d-2472-4a0d-bd35-3d3418704f8d"
-		],
-		"fo_toelichting_id": [
-			"f7f22e31-7c79-4dea-a0e9-f9d023c0a2ff",
-			"31319ccc-c853-4c5e-abd9-baeadffdc7c9",
-			"4ae18d95-93e7-4e07-939c-aab9b8255f8b",
-			"8070be06-22da-47bd-ba3b-21d9878a78fd",
-			"035e56cb-d3c0-43e4-b387-9756dc127717"
-		],
-		"prefix": "17.",
-		"id": "0f2d88a0-c594-48d2-835c-c1953eb284d0"
-	},
-	{
-		"description": "Concept - De leerling kiest nieuwe teksten op basis van eerdere lees-, luister- en kijkervaringen",
-		"title": "Ervaringsdoel, leesvoorkeur",
+		"description": "Concept - De leerling ontwikkelt een eigen leesvoorkeur.",
+		"title": "Concept Kerndoel 18 Leesvoorkeur",
 		"fo_uitwerking_id": [
 			"a562ce4b-2f13-49de-bab1-56127f893caa",
 			"b1c160e4-9ab7-4377-93f5-2f52c658b716",
@@ -1308,34 +1237,15 @@
 			"a98d6250-ac89-419a-bbcd-fe51cdbdb3e4",
 			"8ef3245e-547f-4171-84b9-5d90df4bf50a"
 		],
-		"prefix": "19.",
-		"id": "dd67bb77-033b-4e01-a8a6-08b75ea8a7ec"
+		"prefix": "18",
+		"id": "dd67bb77-033b-4e01-a8a6-08b75ea8a7ec",
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0
 	},
 	{
-		"description": "Concept - De leerling verkent welke functies literatuur heeft.",
-		"title": "Beheersingsdoel, functies van literatuur",
-		"fo_uitwerking_id": [
-			"d88101fc-2aae-43cb-b21e-6f74337dc154",
-			"512d6152-be29-4199-89f9-3e839414c9fc",
-			"dd453fa7-344f-473c-b74d-c28d49df8c65",
-			"afae381b-a84f-48e0-9449-572a66438a15",
-			"d98f01dd-90b1-4e09-933e-5270e0d6e4a1"
-		],
-		"fo_toelichting_id": [
-			"857ade5e-defe-47b3-8b43-74fdd22645e4",
-			"bdf46615-0b0d-435f-85e3-fd13ebd85978",
-			"8c4fcb41-7ff4-4b13-8623-c8bdf4a46820",
-			"010efddb-983d-4659-827b-2b742aafe7a8",
-			"7a599910-d1cc-44e4-afb8-8af6ad007f93",
-			"216afbe6-761d-4581-b6bd-6bc2b5fa9a5a",
-			"e3d4119f-23f2-461d-a2ba-1cc898b9286c"
-		],
-		"prefix": "20.",
-		"id": "d385da82-ed53-4ad6-9617-38bd67a44178"
-	},
-	{
-		"description": "Concept - De leerling verwoordt verbanden tussen literatuur en de periode of context waarin literaire teksten zijn ontstaan",
-		"title": "Beheersingsdoel, Tijd en context",
+		"description": "Concept - De leerling toont inzicht in verhalende teksten.",
+		"title": "Concept Kerndoel 20 Verhalende teksten",
 		"fo_uitwerking_id": [
 			"94335125-e256-4bbc-b990-d01a08bc7c6a",
 			"1216e8a5-63fb-4642-a6fc-59b9b06adaa3",
@@ -1349,45 +1259,56 @@
 			"78c7dcd4-ea78-4295-b88b-a0343e9559c6",
 			"5555c6ba-7dce-4bd5-a6c3-0f08d049c2e8"
 		],
-		"prefix": "21.",
-		"id": "0a6cd39a-020f-4449-8a0c-b283f1d271ff"
+		"prefix": "20",
+		"id": "0a6cd39a-020f-4449-8a0c-b283f1d271ff",
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0
 	},
 	{
-		"description": "Concept - De school zorgt voor een rijke taal- en leesomgeving voor alle leerlingen.",
-		"title": "Aanbodsdoel",
+		"description": "Concept - De leerling verkent literatuur die geschreven is in verschillende periodes en contexten.",
+		"title": "Concept Kerndoel 22 Literatuur uit verschillende tijden",
 		"fo_uitwerking_id": [
-			"f01cc0c6-cf6e-4aa1-8e29-ff23740c4dec",
-			"eea58305-daf4-4f64-997d-944ae8af8814",
-			"379bde9c-f402-4be8-9f22-46ad8cc8c5c6",
-			"8a7dd92c-975f-4731-ab7e-1c5fa8c9882a",
-			"40d26836-990f-439e-a5f8-6f0cff9a0a6c"
+			"10c24eb9-1e2a-4246-a8f9-6682f409d39a",
+			"e991b8dd-3749-4bab-ac53-c507bd3ceb5f",
+			"be58afd0-6e6a-4e96-a4c0-77a219ddcea1",
+			"741a066d-45e2-4689-b82b-236af07e563c"
 		],
 		"fo_toelichting_id": [
-			"44b22c23-679d-4e30-a018-94a6b56b6299",
-			"f99ffed8-5309-4a09-b096-bcd726b7443d",
-			"8ac93d86-2794-4d30-9739-9402b0661e33",
-			"25e203cf-0c4b-4393-8a95-35ffb39df0b2"
+			"de155ee2-bc62-425c-af33-707cae9b56a3",
+			"052b010e-667c-4051-bcda-c23790d96426",
+			"2097f916-5472-4df7-962e-9c24c87adf9b",
+			"b8a6a702-ccdd-4207-bd55-7a39ad81594a"
 		],
-		"prefix": "1.",
-		"id": "ef048d52-0a42-4dd1-a529-ca059c3572bf"
+		"prefix": "22",
+		"id": "f5e9675d-503f-4242-837f-33407b9a033e",
+		"replaces": [
+			"ad8f866e-2374-4eb7-b3cc-e46b61efd94c"
+		],
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0
 	},
 	{
-		"description": "Concept - De school stimuleert de taalontwikkeling van de leerling in de andere leergebieden.",
-		"title": "Aanbodsdoel",
+		"title": "Concept Kerndoel 23 Literatuur in tijd en context",
+		"description": "Concept - De leerling legt verbanden tussen de inhoud van literatuur en de periode en context waarin deze is geschreven.",
 		"fo_uitwerking_id": [
-			"43029119-0cc0-4710-b8ff-72fbeaa5bbfa",
-			"1a26db43-eeef-43a9-99d5-93de8177e236",
-			"b57a7643-74bd-4a79-9572-fc516e3281f2",
-			"35d22154-7913-42dd-8e83-92b69f0eb713",
-			"c4ea8dd0-2ec5-40e8-9ffb-72ac0e45c96a"
+			"0359e292-78bc-4bbd-954c-651426dc92c5",
+			"035837e2-17e8-4c75-8844-05bef5fdbff9",
+			"348d776d-aca9-4cd6-b422-c5e3dd4e2f41",
+			"95b43e1b-871c-405d-ae6b-b96b76a7b4a9",
+			"923e1f30-3ad5-4e6b-ab21-825f3aa3b6c9"
 		],
 		"fo_toelichting_id": [
-			"46b82c1e-9394-465b-9fd2-9b88857f485c",
-			"2aeafe78-998c-4046-bd2f-93d6546c67e7",
-			"82afb1fa-cbdd-42c5-8109-a36d5c4e9a5a"
+			"f02cb562-9d09-4a72-9105-49df9911e2b2",
+			"9147ffc9-cbca-448f-b761-baf8d8aba05a",
+			"a5bc488f-d4c7-4880-ad8b-eaa560d14962"
 		],
-		"prefix": "2.",
-		"id": "51cea2c3-4e4c-443f-8975-3f4501a51af3"
+		"prefix": "23",
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0,
+		"id": "6291da2d-3568-4f3b-8a61-8b496b166f9e"
 	},
 	{
 		"title": "Concept - Kerndoel 1 - Digitale systemen",
@@ -1406,7 +1327,8 @@
 			"170712c0-d30b-469e-9f76-0ea4528ec547"
 		],
 		"prefix": "1",
-		"id": "200f5b2b-e948-4057-a67c-95636166a2c4"
+		"id": "200f5b2b-e948-4057-a67c-95636166a2c4",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 2 - Digitale media en informatie",
@@ -1426,7 +1348,8 @@
 			"ae259a96-4a67-4c5c-91d1-1aadc33dd25a"
 		],
 		"prefix": "2",
-		"id": "05fbe26c-7723-42f3-ba84-ccea0a3288e4"
+		"id": "05fbe26c-7723-42f3-ba84-ccea0a3288e4",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 3 - Veiligheid en privacy",
@@ -1445,7 +1368,8 @@
 			"67b7b129-49d2-4d04-a46b-55f554404b2b"
 		],
 		"prefix": "3",
-		"id": "601d04a5-a542-40ef-b1a9-c4d014bd36fe"
+		"id": "601d04a5-a542-40ef-b1a9-c4d014bd36fe",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 4 - Data",
@@ -1464,10 +1388,11 @@
 			"e5ae26a3-ea84-4432-98d2-8b4ce3906085"
 		],
 		"prefix": "4",
-		"id": "86bf928b-f7d5-40e2-9188-880f9c841269"
+		"id": "86bf928b-f7d5-40e2-9188-880f9c841269",
+		"soort": "kerndoel"
 	},
 	{
-		"title": "Concept - Kerndoel 5 - Artifiële intelligentie (AI)",
+		"title": "Concept - Kerndoel 5 - ArtifiÃ«le intelligentie (AI)",
 		"description": "Concept -  De leerling verkent hoe AI-systemen werken.",
 		"fo_uitwerking_id": [
 			"1cd24861-89a9-492e-b8a8-26a5e3fe9000",
@@ -1482,11 +1407,12 @@
 			"bad8adf1-ce63-45dd-af98-c09b8d4a694b"
 		],
 		"prefix": "5",
-		"id": "fdbb266f-ebe3-4a0e-b536-bf9d7be85358"
+		"id": "fdbb266f-ebe3-4a0e-b536-bf9d7be85358",
+		"soort": "kerndoel"
 	},
 	{
-		"title": "Concept - Kerndoel 6 - Creëren met digitale technologie",
-		"description": "Concept - De leerling gebruikt passende strategieën bij het creëren en gebruiken van verschillende typen digitale producten.",
+		"title": "Concept - Kerndoel 6 - CreÃ«ren met digitale technologie",
+		"description": "Concept - De leerling gebruikt passende strategieÃ«n bij het creÃ«ren en gebruiken van verschillende typen digitale producten.",
 		"fo_uitwerking_id": [
 			"c13c3c3d-a299-47d0-9324-d38a9422060b",
 			"cae2ad58-1ade-4e20-a97c-dec80a49bd4a",
@@ -1502,11 +1428,12 @@
 			"20adbfd4-aaed-453c-8559-ed2074a7f4e2"
 		],
 		"prefix": "6",
-		"id": "f09d4f54-b3ad-467b-a233-b3af05e550f9"
+		"id": "f09d4f54-b3ad-467b-a233-b3af05e550f9",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 7 - Programmeren",
-		"description": "Concept - De leerling programmeert een computerprogramma met behulp van computationele denkstrategieën.",
+		"description": "Concept - De leerling programmeert een computerprogramma met behulp van computationele denkstrategieÃ«n.",
 		"fo_uitwerking_id": [
 			"8baa7b7c-e8f5-4f72-a355-a19d6284a3f2",
 			"6ddbbeec-6f98-47b5-92b9-98d335ad7071",
@@ -1522,7 +1449,8 @@
 			"6047ec72-90ab-45fe-9c4e-bc0ea01320dc"
 		],
 		"prefix": "7",
-		"id": "3b4e22b1-4acb-4e44-8234-bf05adb70cde"
+		"id": "3b4e22b1-4acb-4e44-8234-bf05adb70cde",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 8 - Digitale technologie, jezelf en de ander",
@@ -1542,11 +1470,12 @@
 			"9f903a1b-29ca-4017-8f7a-1934d87fd2e3"
 		],
 		"prefix": "8",
-		"id": "d4622bff-27a9-464a-8e4d-4f4c4bfd0ada"
+		"id": "d4622bff-27a9-464a-8e4d-4f4c4bfd0ada",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 9 - Digitale technologie, de samenleving en de wereld",
-		"description": "Concept - De leerling verkent hoe digitale technologie, digitale media en de samenleving elkaar wederzijds beïnvloeden.",
+		"description": "Concept - De leerling verkent hoe digitale technologie, digitale media en de samenleving elkaar wederzijds beÃ¯nvloeden.",
 		"fo_uitwerking_id": [
 			"4f20b775-44a0-45ad-8e24-241c4f6074b7",
 			"63ffca3d-65f4-4313-bed3-7481f80d8c2c",
@@ -1561,7 +1490,8 @@
 			"21020af3-44d9-475a-9792-0bc4759c55ee"
 		],
 		"prefix": "9",
-		"id": "31034d4b-e90d-4768-9e17-3c12f77535e6"
+		"id": "31034d4b-e90d-4768-9e17-3c12f77535e6",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 1 - Digitale systemen",
@@ -1581,7 +1511,8 @@
 			"f9dcb4f5-1343-4a7f-bcca-349a85f6c908"
 		],
 		"prefix": "A.1",
-		"id": "81b8e6d2-ace5-4e76-b4d1-d087f717dda2"
+		"id": "81b8e6d2-ace5-4e76-b4d1-d087f717dda2",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 2 - Digitale media en informatie",
@@ -1604,7 +1535,8 @@
 			"b1b516a4-7ba0-4642-8136-6f2236b247d1"
 		],
 		"prefix": "A.2",
-		"id": "dbf8899e-013b-4958-8745-b9fd4e395849"
+		"id": "dbf8899e-013b-4958-8745-b9fd4e395849",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 3 - Veiligheid en privacy",
@@ -1627,7 +1559,8 @@
 			"a27bd7b0-ad5a-4747-9e4a-f08730307985"
 		],
 		"prefix": "A.3",
-		"id": "b4257b7b-6a2d-4553-b913-8516912657fb"
+		"id": "b4257b7b-6a2d-4553-b913-8516912657fb",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 4 - Data",
@@ -1649,10 +1582,11 @@
 			"5d09a30b-52b5-46e3-b888-3a80eccaf160"
 		],
 		"prefix": "A.4",
-		"id": "d11aa6d5-40b0-44c6-9356-e119ad871604"
+		"id": "d11aa6d5-40b0-44c6-9356-e119ad871604",
+		"soort": "kerndoel"
 	},
 	{
-		"title": "Concept - Kerndoel 5 - Artifiële intelligentie (AI)",
+		"title": "Concept - Kerndoel 5 - ArtifiÃ«le intelligentie (AI)",
 		"description": "Concept -  De leerling verkent de mogelijkheden en beperkingen van AI.",
 		"fo_uitwerking_id": [
 			"e7891d22-a397-4ba4-90cb-15a79e58c80c",
@@ -1675,11 +1609,12 @@
 			"8a218c7c-d7b2-43df-8542-11c099690e25"
 		],
 		"prefix": "A.5",
-		"id": "438c64cf-4415-4497-bf23-9ba78e0f651f"
+		"id": "438c64cf-4415-4497-bf23-9ba78e0f651f",
+		"soort": "kerndoel"
 	},
 	{
-		"title": "Concept - Kerndoel 6 - Creëren met digitale technologie",
-		"description": "Concept - De leerling gebruikt passende strategieën bij het creëren en gebruiken van verschillende typen digitale producten.",
+		"title": "Concept - Kerndoel 6 - CreÃ«ren met digitale technologie",
+		"description": "Concept - De leerling gebruikt passende strategieÃ«n bij het creÃ«ren en gebruiken van verschillende typen digitale producten.",
 		"fo_uitwerking_id": [
 			"154f2807-6ae0-4998-90b8-7aaf2491291f",
 			"cffb8c10-bbbc-4ac8-81a0-9c58c8e46c18",
@@ -1698,11 +1633,12 @@
 			"60772a80-c264-4797-a244-3c3c13c832fc"
 		],
 		"prefix": "B.6",
-		"id": "33d10f81-0ae1-45d4-9712-e5ac73c3ec91"
+		"id": "33d10f81-0ae1-45d4-9712-e5ac73c3ec91",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 7 - Programmeren",
-		"description": "Concept - De leerling programmeert een computerprogramma met behulp van computationele denkstrategieën.",
+		"description": "Concept - De leerling programmeert een computerprogramma met behulp van computationele denkstrategieÃ«n.",
 		"fo_uitwerking_id": [
 			"dd211323-d2c6-435a-987c-c0e976e1d42d",
 			"9005335c-d036-4252-a238-1a5633075c2d",
@@ -1718,7 +1654,8 @@
 			"9648208a-93ee-4794-8dbd-8ed44cd8d742"
 		],
 		"prefix": "B.7",
-		"id": "7492dbc4-45bd-4241-b225-bd426faaf79b"
+		"id": "7492dbc4-45bd-4241-b225-bd426faaf79b",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 8 - Digitale technologie, jezelf en de ander",
@@ -1738,11 +1675,12 @@
 			"427f592b-ba41-4b04-a306-a20d4aa00108"
 		],
 		"prefix": "C.8",
-		"id": "848b3c16-406e-4391-9ea0-c0af9138f238"
+		"id": "848b3c16-406e-4391-9ea0-c0af9138f238",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 9 - Digitale technologie, de samenleving en de wereld",
-		"description": "Concept - De leerling analyseert hoe digitale technologie, digitale media en de samenleving elkaar wederzijds beïnvloeden en verkent toekomstscenario’s.",
+		"description": "Concept - De leerling analyseert hoe digitale technologie, digitale media en de samenleving elkaar wederzijds beÃ¯nvloeden en verkent toekomstscenarioâ€™s.",
 		"fo_uitwerking_id": [
 			"395e3646-d497-416a-a39f-d6def63edb78",
 			"a1847997-ac0f-4d3a-b11b-08ee89279126",
@@ -1758,7 +1696,8 @@
 			"e03e41dc-5a58-4e16-8831-adcb6161ad88"
 		],
 		"prefix": "C.9",
-		"id": "cad9486f-f3d8-454b-a656-d4f233fa202d"
+		"id": "cad9486f-f3d8-454b-a656-d4f233fa202d",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 1 - Schoolcultuur (aanbodsdoel)",
@@ -1778,7 +1717,8 @@
 			"4dc8d3eb-fbbd-43bc-93a6-af00f95699d4"
 		],
 		"prefix": "A.1",
-		"id": "5bfce5e1-39ee-4d11-a6aa-4f9afc01304d"
+		"id": "5bfce5e1-39ee-4d11-a6aa-4f9afc01304d",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 2 - Diversiteit",
@@ -1797,7 +1737,8 @@
 			"6e8d80cd-0db2-47f9-95c4-b95aa050b9d5"
 		],
 		"prefix": "B.2",
-		"id": "88670244-4eb0-4ee1-8596-a172b52398b2"
+		"id": "88670244-4eb0-4ee1-8596-a172b52398b2",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 3 - Democratische waarden",
@@ -1817,7 +1758,8 @@
 			"6e75d98c-4270-430f-a8a9-c39e7e9812eb"
 		],
 		"prefix": "B.3",
-		"id": "934cd26c-62dd-46fa-b414-f6c1933e28be"
+		"id": "934cd26c-62dd-46fa-b414-f6c1933e28be",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 4 - Maatschappelijke betrokkenheid",
@@ -1836,7 +1778,8 @@
 			"16b0459c-abfc-4f9e-8737-37f8246de4c6"
 		],
 		"prefix": "B.4",
-		"id": "71062293-bbb1-47e5-b14b-92810b87786e"
+		"id": "71062293-bbb1-47e5-b14b-92810b87786e",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 5 - Democratische betrokkenheid",
@@ -1855,7 +1798,8 @@
 			"be09fa0b-2422-4412-a5ca-9143482a156b"
 		],
 		"prefix": "B.5",
-		"id": "a5fdc9c4-76ff-465b-8bdb-7742eb1136d7"
+		"id": "a5fdc9c4-76ff-465b-8bdb-7742eb1136d7",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 6 - Maatschappelijke vraagstukken",
@@ -1874,7 +1818,8 @@
 			"2304ab31-dcb2-4955-b89b-6bf728d585dc"
 		],
 		"prefix": "C.6",
-		"id": "ed240ba9-189a-4cfa-83be-bd86078991ab"
+		"id": "ed240ba9-189a-4cfa-83be-bd86078991ab",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 1 - Schoolcultuur (aanbodsdoel)",
@@ -1894,7 +1839,8 @@
 			"85dc2dc4-6343-4417-88ca-200850213c88"
 		],
 		"prefix": "A.1",
-		"id": "b92ca11e-20d2-4fe9-96bd-c0b50aa0530c"
+		"id": "b92ca11e-20d2-4fe9-96bd-c0b50aa0530c",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 2 - Diversiteit",
@@ -1916,7 +1862,8 @@
 			"f1b31d35-f6a4-4ebe-8587-03277b465fba"
 		],
 		"prefix": "B.2",
-		"id": "54078705-71d5-455f-af75-8b0a480e5840"
+		"id": "54078705-71d5-455f-af75-8b0a480e5840",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 3 - Democratische waarden",
@@ -1937,7 +1884,8 @@
 			"4aaae1d9-74ed-4ca9-8d60-a58e9239e25f"
 		],
 		"prefix": "B.3",
-		"id": "7aa961fe-25ec-463d-ab02-e77102b9de13"
+		"id": "7aa961fe-25ec-463d-ab02-e77102b9de13",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 4 - Maatschappelijke betrokkenheid",
@@ -1957,7 +1905,8 @@
 			"8ebe7b4e-5055-4ddd-8d74-eb49c6c70354"
 		],
 		"prefix": "B.4",
-		"id": "31425075-d4f6-453f-ac1a-d8c44f3b2eb1"
+		"id": "31425075-d4f6-453f-ac1a-d8c44f3b2eb1",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 5 - Democratische betrokkenheid",
@@ -1978,7 +1927,8 @@
 			"d50c3dfe-2c40-4b8f-9967-f0de25165e3a"
 		],
 		"prefix": "B.5",
-		"id": "a6a3b0ab-993d-42c6-9b49-40e21dfc7e0d"
+		"id": "a6a3b0ab-993d-42c6-9b49-40e21dfc7e0d",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 6 - Maatschappelijke vraagstukken",
@@ -2000,7 +1950,8 @@
 			"0aba6981-b452-450c-b93b-179c207d69bf"
 		],
 		"prefix": "C.6",
-		"id": "4edc1d48-6f87-4d59-be84-e1647b1d65ae"
+		"id": "4edc1d48-6f87-4d59-be84-e1647b1d65ae",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Eindterm 1 - Ontwikkelen van interesses",
@@ -2013,7 +1964,10 @@
 			"64d31106-8cae-4dce-a69a-cea94cc2dafd"
 		],
 		"prefix": "A.1",
-		"id": "cd5e28a9-8194-47d4-85bb-61a0fd404437"
+		"id": "cd5e28a9-8194-47d4-85bb-61a0fd404437",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 2 - Ontwikkelen van kwaliteiten",
@@ -2026,7 +1980,10 @@
 			"6633ffca-c8b1-46f3-ae2a-d01517bec0f1"
 		],
 		"prefix": "A.2",
-		"id": "b07304b1-fca8-41c4-81a2-64d86fc84e9b"
+		"id": "b07304b1-fca8-41c4-81a2-64d86fc84e9b",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 3 - Sociaal handelen",
@@ -2038,7 +1995,10 @@
 			"241a19c2-30c9-4893-99d7-e0a7ce5bb26a"
 		],
 		"prefix": "B.3",
-		"id": "ccb51162-baba-4a59-abb4-303b17abd43a"
+		"id": "ccb51162-baba-4a59-abb4-303b17abd43a",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 4 - Samenwerken",
@@ -2050,7 +2010,10 @@
 			"b38d79c6-0965-4973-b1f0-dfd0e2ae78b0"
 		],
 		"prefix": "B.4",
-		"id": "3d00d6aa-402e-42ed-8830-2940fe51c169"
+		"id": "3d00d6aa-402e-42ed-8830-2940fe51c169",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 5 - Taalvaardigheden",
@@ -2060,7 +2023,10 @@
 			"2cd59707-e518-4b14-9952-5b0ad77ddb36"
 		],
 		"prefix": "B.5",
-		"id": "35ffdbcb-622b-40df-92ee-fd78bfe96d00"
+		"id": "35ffdbcb-622b-40df-92ee-fd78bfe96d00",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 6 - Rekenvaardigheden",
@@ -2070,18 +2036,24 @@
 			"659b1024-677c-4176-ac30-75e46fecd2f2"
 		],
 		"prefix": "B.6",
-		"id": "20dcdd7b-03b9-4937-8181-9072c88a7f21"
+		"id": "20dcdd7b-03b9-4937-8181-9072c88a7f21",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 7 - Digitale vaardigheden",
-		"description": "De leerling gebruikt op een verantwoorde manier digitale technologie tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.",
+		"description": "De leerling gebruikt op een verantwoorde manier digitaleâ€¯technologie tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.",
 		"fo_uitwerking_id": [
 			"d418dc30-8299-4749-8e90-83dcd3114626",
 			"e7a26485-8cfa-4550-814f-909c57e85bd9",
 			"e6f9f5bb-dbb6-45cf-927e-5799c0068b3f"
 		],
 		"prefix": "B.7",
-		"id": "6d7ebddd-fdc0-4f18-9f2a-6befad38427d"
+		"id": "6d7ebddd-fdc0-4f18-9f2a-6befad38427d",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 8 - Analytische denkvaardigheden",
@@ -2094,7 +2066,10 @@
 			"b27c8937-c7c2-49e8-8b59-cd9150ba31d7"
 		],
 		"prefix": "B.8",
-		"id": "b1dbc61b-ecf7-40a9-b225-e524157fe910"
+		"id": "b1dbc61b-ecf7-40a9-b225-e524157fe910",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 9 - Kritische denkvaardigheden",
@@ -2105,18 +2080,24 @@
 			"0fc90f0d-50a0-4438-ab58-4446a8a81044"
 		],
 		"prefix": "B.9",
-		"id": "1418c213-657e-4a16-b5ad-90a543435106"
+		"id": "1418c213-657e-4a16-b5ad-90a543435106",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 10 - Creatieve denkvaardigheden",
-		"description": "De leerling gebruikt creatieve denkvaardigheden om tot nieuwe ideeën te komen tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.",
+		"description": "De leerling gebruikt creatieve denkvaardigheden om tot nieuwe ideeÃ«n te komen tijdens het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.",
 		"fo_uitwerking_id": [
 			"1c03f8fd-6200-47bb-8ff6-105f52ce8b84",
 			"cc917721-4ef4-4b17-95b5-88bb6b9b9498",
 			"1b9f0fb2-0389-4bca-b9d9-0450930819e9"
 		],
 		"prefix": "B.10",
-		"id": "1644a31c-ccf3-481e-ae92-670530485c8d"
+		"id": "1644a31c-ccf3-481e-ae92-670530485c8d",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 11 - Onderzoeken",
@@ -2129,7 +2110,10 @@
 			"cb55b5d2-5ee3-4585-9ffd-c3951c395399"
 		],
 		"prefix": "B.11",
-		"id": "35e100bf-c4c1-449e-8444-2e5d62c11662"
+		"id": "35e100bf-c4c1-449e-8444-2e5d62c11662",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 12 - Ontwerpen van een ruimte",
@@ -2142,7 +2126,10 @@
 			"39e69276-ecb6-4cfb-a066-bbd18bf911da"
 		],
 		"prefix": "C.12",
-		"id": "f89751ea-9242-4d8f-929d-ce587e1d8f1f"
+		"id": "f89751ea-9242-4d8f-929d-ce587e1d8f1f",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 13 - Maken van een product",
@@ -2154,7 +2141,10 @@
 			"f844cffd-c518-4b65-8c54-97d02fb0e93e"
 		],
 		"prefix": "C.13",
-		"id": "5645b78a-52d6-48c5-8514-71429635a86d"
+		"id": "5645b78a-52d6-48c5-8514-71429635a86d",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 14 - Adviseren over oplossingen",
@@ -2166,7 +2156,10 @@
 			"02431fbd-22d5-48c4-a398-d4988c8c15b7"
 		],
 		"prefix": "C.14",
-		"id": "cf028af9-7fa2-49c9-bc25-b76c80ec2a2e"
+		"id": "cf028af9-7fa2-49c9-bc25-b76c80ec2a2e",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 15 - Adviseren over materialen",
@@ -2178,7 +2171,10 @@
 			"25b73cc1-62d6-4a27-81ef-58624f9cf9b7"
 		],
 		"prefix": "C.15",
-		"id": "911224f9-891f-4598-b88a-76f585b9fd5d"
+		"id": "911224f9-891f-4598-b88a-76f585b9fd5d",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 16 - Monteren van elementen",
@@ -2189,7 +2185,10 @@
 			"f0e5abf5-d946-404b-b211-6fb5c4fa750f"
 		],
 		"prefix": "C.16",
-		"id": "a01561c7-76fc-485f-b8e2-2e540c75aba7"
+		"id": "a01561c7-76fc-485f-b8e2-2e540c75aba7",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 17 - Onderhouden van een gebouw",
@@ -2202,7 +2201,10 @@
 			"9b29f2f8-99dd-4165-97cf-1ecc6a0b2ac4"
 		],
 		"prefix": "C.17",
-		"id": "14b092c2-4282-48ff-afe5-a5aad3e5161c"
+		"id": "14b092c2-4282-48ff-afe5-a5aad3e5161c",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 12 - Ontwerpen van een omgeving",
@@ -2215,7 +2217,10 @@
 			"93a226dc-22ea-497e-a032-b31eacc20bb1"
 		],
 		"prefix": "C.12",
-		"id": "a45fc86d-35ab-4691-bc44-5d8304b99650"
+		"id": "a45fc86d-35ab-4691-bc44-5d8304b99650",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 13 - Maken van een technisch product",
@@ -2227,7 +2232,10 @@
 			"0e9034d3-d171-44af-b4d0-00cfc30a902e"
 		],
 		"prefix": "C.13",
-		"id": "403e0ed7-0e13-408e-aa7c-60c4c2796c78"
+		"id": "403e0ed7-0e13-408e-aa7c-60c4c2796c78",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 14 - Maken van een mediaproduct",
@@ -2240,7 +2248,10 @@
 			"140dd634-1c54-475e-a3b7-a03cddae1ec4"
 		],
 		"prefix": "C.14",
-		"id": "2063b323-adf9-4b9f-b2fe-d21da3294b08"
+		"id": "2063b323-adf9-4b9f-b2fe-d21da3294b08",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 15 - Adviseren over een proces",
@@ -2252,7 +2263,10 @@
 			"7a7e580f-d090-4ffa-a863-9996dc9132a9"
 		],
 		"prefix": "C.15",
-		"id": "ce8ea69d-10d4-4f63-8b00-72d6cd3df41f"
+		"id": "ce8ea69d-10d4-4f63-8b00-72d6cd3df41f",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 16 - Adviseren over een evenement",
@@ -2264,7 +2278,10 @@
 			"f622710c-b582-4bb6-ad03-3dbc911225fe"
 		],
 		"prefix": "C.16",
-		"id": "3f3b5cd7-3f2f-4409-b797-970f4f59e9be"
+		"id": "3f3b5cd7-3f2f-4409-b797-970f4f59e9be",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 17 - Organiseren van een activiteit",
@@ -2277,7 +2294,10 @@
 			"3fe49d63-0264-4550-9587-fe523c4cfde3"
 		],
 		"prefix": "C.17",
-		"id": "665becf7-6348-42fb-b908-74264c038021"
+		"id": "665becf7-6348-42fb-b908-74264c038021",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 12 - Ontwerpen van een product",
@@ -2290,7 +2310,10 @@
 			"3db2c979-cc68-48af-9461-239229ceb614"
 		],
 		"prefix": "C.12",
-		"id": "dd63d2d8-38b6-49a0-804a-dfe7c1b71d68"
+		"id": "dd63d2d8-38b6-49a0-804a-dfe7c1b71d68",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 13 - Maken van een product",
@@ -2302,7 +2325,10 @@
 			"cf78f334-5cc2-4ba5-80e1-77994065ab8b"
 		],
 		"prefix": "C.13",
-		"id": "1f4aa6e7-16b7-4f3a-bd29-6d9102c9bdd2"
+		"id": "1f4aa6e7-16b7-4f3a-bd29-6d9102c9bdd2",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 14 - Adviseren over activiteiten",
@@ -2314,11 +2340,14 @@
 			"8bf23316-a95c-4413-976f-b5966cd29e15"
 		],
 		"prefix": "C.14",
-		"id": "4a0e88af-59b0-4f54-8282-ad706bb21e31"
+		"id": "4a0e88af-59b0-4f54-8282-ad706bb21e31",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 15 - Adviseren over een strategie",
-		"description": "De leerling adviseert over de verkoopstrategie van een commerciële organisatie.",
+		"description": "De leerling adviseert over de verkoopstrategie van een commerciÃ«le organisatie.",
 		"fo_uitwerking_id": [
 			"8b3ff147-fee8-49e5-bcd1-1e41fc3c1be3",
 			"5a0a2ec6-dde7-4894-a514-ce1ee67e13ad",
@@ -2326,7 +2355,10 @@
 			"4662d8da-133b-45db-9945-a99990b9bf58"
 		],
 		"prefix": "C.15",
-		"id": "3efd2231-dcf5-4265-92dd-c3e6b3779c18"
+		"id": "3efd2231-dcf5-4265-92dd-c3e6b3779c18",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 16 - Adviseren over een proces",
@@ -2338,7 +2370,10 @@
 			"3c0ad805-6f31-4377-8de9-5c91545b78f1"
 		],
 		"prefix": "C.16",
-		"id": "2ba49b8b-c37f-4df4-93c7-5ae46c3b2ef6"
+		"id": "2ba49b8b-c37f-4df4-93c7-5ae46c3b2ef6",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 17 - Organiseren van een activiteit",
@@ -2351,7 +2386,10 @@
 			"0d58d503-3a26-4057-9b4e-7f25698b6ad8"
 		],
 		"prefix": "C.17",
-		"id": "e14a69d2-d1a3-4b7b-aea3-a33766c6669f"
+		"id": "e14a69d2-d1a3-4b7b-aea3-a33766c6669f",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 12 - Ontwerpen van een ruimte",
@@ -2364,7 +2402,10 @@
 			"b14823d2-2472-4d1e-b779-a9472972e0ae"
 		],
 		"prefix": "C.12",
-		"id": "a3e853f2-105c-4c5a-bfef-e10ec7976dfd"
+		"id": "a3e853f2-105c-4c5a-bfef-e10ec7976dfd",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 13 - Maken van een product",
@@ -2376,7 +2417,10 @@
 			"46ce34b6-78b5-46c0-9bb1-961a76326e61"
 		],
 		"prefix": "C.13",
-		"id": "f37953be-515a-4035-b750-02f348147501"
+		"id": "f37953be-515a-4035-b750-02f348147501",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 14 - Adviseren over bedrijfsvoering",
@@ -2388,7 +2432,10 @@
 			"b0437741-f205-4886-a6fc-b53afb4930f1"
 		],
 		"prefix": "C.14",
-		"id": "86fa7b5c-13ef-46b9-9bec-16f9ec5b97c3"
+		"id": "86fa7b5c-13ef-46b9-9bec-16f9ec5b97c3",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 15 - Telen van een gewas",
@@ -2401,7 +2448,10 @@
 			"b1f0f528-ad07-40a7-a22c-b53d7e00f46c"
 		],
 		"prefix": "C.15",
-		"id": "bcc07572-ef79-479a-a250-f9184a1767a2"
+		"id": "bcc07572-ef79-479a-a250-f9184a1767a2",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 16 - Verzorgen van dieren",
@@ -2414,7 +2464,10 @@
 			"bcf8a3f2-bb92-43b9-a895-a7f3e4ad7244"
 		],
 		"prefix": "C.16",
-		"id": "35bfe0f3-4801-4540-831f-e0193c81571f"
+		"id": "35bfe0f3-4801-4540-831f-e0193c81571f",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 17 - Produceren van voedingsmiddelen",
@@ -2425,7 +2478,10 @@
 			"de8c7cf5-c0ff-472e-894b-78240a3f38e4"
 		],
 		"prefix": "C.17",
-		"id": "313e1bf3-9036-42de-896b-d78eba7fe4da"
+		"id": "313e1bf3-9036-42de-896b-d78eba7fe4da",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 12 - Ontwerpen van een ruimte",
@@ -2438,7 +2494,10 @@
 			"b1c2f483-021f-494c-8d9e-c243f71603d9"
 		],
 		"prefix": "C.12",
-		"id": "92e411f2-cc67-4025-9838-c70e2eb2f6d1"
+		"id": "92e411f2-cc67-4025-9838-c70e2eb2f6d1",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 13 - Maken van promotiemateriaal",
@@ -2450,7 +2509,10 @@
 			"ff248030-ccb4-4971-a880-16527b91ca81"
 		],
 		"prefix": "C.13",
-		"id": "d73673c8-ccbd-4603-af94-27e87c2bbba8"
+		"id": "d73673c8-ccbd-4603-af94-27e87c2bbba8",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 14 - Adviseren over een aankoop",
@@ -2462,7 +2524,10 @@
 			"9f6b1f0d-916f-4e7f-9b28-1549de3de50c"
 		],
 		"prefix": "C.14",
-		"id": "cbb2dd44-2b98-418b-8958-05ab2b9568b6"
+		"id": "cbb2dd44-2b98-418b-8958-05ab2b9568b6",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 15 - Organiseren van een activiteit",
@@ -2475,7 +2540,10 @@
 			"9dcdea20-bc83-4140-891b-f516d93dd1c6"
 		],
 		"prefix": "C.15",
-		"id": "aa2b7d02-0d3a-4d4a-9e4f-48c7e2aa4f24"
+		"id": "aa2b7d02-0d3a-4d4a-9e4f-48c7e2aa4f24",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 16 - Organiseren van een bezoek",
@@ -2486,7 +2554,10 @@
 			"47c191b2-051c-4106-b891-8ace78ba40a7"
 		],
 		"prefix": "C.16",
-		"id": "9916ace9-107e-4309-b40d-18cd509299e2"
+		"id": "9916ace9-107e-4309-b40d-18cd509299e2",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 17 -Bereiden van een gerecht",
@@ -2498,7 +2569,10 @@
 			"4a706a15-dfbc-48b6-843c-c36f1b6b4af3"
 		],
 		"prefix": "C.17",
-		"id": "ee2bf82a-f875-4875-8269-ca981356bcf2"
+		"id": "ee2bf82a-f875-4875-8269-ca981356bcf2",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 12 - Ontwerpen van een product",
@@ -2511,7 +2585,10 @@
 			"e6311f46-1a48-4501-95f0-00df1979c26b"
 		],
 		"prefix": "C.12",
-		"id": "107e2d3b-d531-4764-8c31-6cf5916775e5"
+		"id": "107e2d3b-d531-4764-8c31-6cf5916775e5",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 13 - Maken van een mediaproduct",
@@ -2523,7 +2600,10 @@
 			"d89c3a57-6127-4a67-97b7-7bf0765e760c"
 		],
 		"prefix": "C.13",
-		"id": "2b57ca5c-17fb-4ac0-b64f-88029d0cc655"
+		"id": "2b57ca5c-17fb-4ac0-b64f-88029d0cc655",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 14 - Adviseren over ontwikkelingen",
@@ -2535,7 +2615,10 @@
 			"d489cafc-a07b-44fc-ae1d-7b677abcf237"
 		],
 		"prefix": "C.14",
-		"id": "f7e29c72-e182-4733-830a-d481bcf67d96"
+		"id": "f7e29c72-e182-4733-830a-d481bcf67d96",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 15 - Programmeren van een product",
@@ -2548,7 +2631,10 @@
 			"ffcc029b-9dc1-4881-8b37-890cd5956e86"
 		],
 		"prefix": "C.15",
-		"id": "b020bad2-e0fa-41b3-9bc6-7c07eccad4f6"
+		"id": "b020bad2-e0fa-41b3-9bc6-7c07eccad4f6",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 16 - Beheren van een dienst",
@@ -2560,7 +2646,10 @@
 			"9f24842e-e9dc-4c9e-92c4-a16dd9aa35c4"
 		],
 		"prefix": "C.16",
-		"id": "b4b56685-9c98-4a4e-b041-1e30741caa6d"
+		"id": "b4b56685-9c98-4a4e-b041-1e30741caa6d",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 17 - Ondersteunen van afnemers",
@@ -2573,7 +2662,10 @@
 			"1abcec30-3806-40a1-b1a5-41022cd03938"
 		],
 		"prefix": "C.17",
-		"id": "17e7579a-cde8-4e5c-9933-5847bcb3126e"
+		"id": "17e7579a-cde8-4e5c-9933-5847bcb3126e",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 12 - Ontwerpen van een schip",
@@ -2586,7 +2678,10 @@
 			"4c5327cb-8df3-416e-8bd1-eb20372ad0c3"
 		],
 		"prefix": "C.12",
-		"id": "5be4d419-4ab4-4335-8719-81705decd73d"
+		"id": "5be4d419-4ab4-4335-8719-81705decd73d",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 13 - Maken van een prototype",
@@ -2598,7 +2693,10 @@
 			"6cd668f7-cc1d-4861-a10e-5402ae7cff29"
 		],
 		"prefix": "C.13",
-		"id": "24ba36dc-5384-4bc9-a349-43404e6fac46"
+		"id": "24ba36dc-5384-4bc9-a349-43404e6fac46",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 14 - Adviseren over onderhoud",
@@ -2610,7 +2708,10 @@
 			"b3d7da43-14fd-4631-81e1-6533974fe6b1"
 		],
 		"prefix": "C.14",
-		"id": "8a0aa850-953d-4bee-86bb-bb598b69564b"
+		"id": "8a0aa850-953d-4bee-86bb-bb598b69564b",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 15 - Adviseren over een proces",
@@ -2622,7 +2723,10 @@
 			"bcc98cfe-de2f-4b70-997a-e7de92bef246"
 		],
 		"prefix": "C.15",
-		"id": "d9980538-df4f-40d7-9b53-000fef9b2bf1"
+		"id": "d9980538-df4f-40d7-9b53-000fef9b2bf1",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 16 - Organiseren van een activiteit",
@@ -2634,18 +2738,24 @@
 			"f08455ff-df1d-4229-822d-c7fcbe0bea73"
 		],
 		"prefix": "C.16",
-		"id": "cfaf36d9-af5c-4857-80ab-a133d2cf9240"
+		"id": "cfaf36d9-af5c-4857-80ab-a133d2cf9240",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 17 - Navigeren van een schip",
-		"description": "De leerling navigeert efficiënt een schip.",
+		"description": "De leerling navigeert efficiÃ«nt een schip.",
 		"fo_uitwerking_id": [
 			"f7b02df2-2b8f-4726-aaaa-8efcc22d6563",
 			"bff451b2-8a66-44a5-9673-d769f97a28eb",
 			"ca904459-4c0b-4d45-8fc5-0967b81b7db7"
 		],
 		"prefix": "C.17",
-		"id": "1f1f6210-6a3e-4e1f-9cb6-8516aa9c88e3"
+		"id": "1f1f6210-6a3e-4e1f-9cb6-8516aa9c88e3",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 12 - Ontwerpen van een voertuig",
@@ -2658,7 +2768,10 @@
 			"8f905952-cf5b-430c-b743-0f97ad3f4725"
 		],
 		"prefix": "C.12",
-		"id": "6f224e0f-c293-4b11-b8e0-db7244156927"
+		"id": "6f224e0f-c293-4b11-b8e0-db7244156927",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 13 - Maken van een product",
@@ -2670,7 +2783,10 @@
 			"ec7e4e77-8d91-4f8a-bffa-77932eb10cb9"
 		],
 		"prefix": "C.13",
-		"id": "4e0e10c7-d01c-473e-bdb6-6f3bf1dfb168"
+		"id": "4e0e10c7-d01c-473e-bdb6-6f3bf1dfb168",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 14 - Adviseren over een aankoop",
@@ -2682,7 +2798,10 @@
 			"80acded5-b971-46dd-874b-aa41cdf85e2d"
 		],
 		"prefix": "C.14",
-		"id": "52c39409-ceae-4f47-bf8f-4f1e8da985c1"
+		"id": "52c39409-ceae-4f47-bf8f-4f1e8da985c1",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 15 - Organiseren van een proces",
@@ -2695,7 +2814,10 @@
 			"4683c642-d23e-47b2-b56f-29ffc50b2c5e"
 		],
 		"prefix": "C.15",
-		"id": "4cab4c4b-2727-47c4-960f-f528fdb5b29f"
+		"id": "4cab4c4b-2727-47c4-960f-f528fdb5b29f",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 16 - Onderhouden van een voertuig",
@@ -2708,7 +2830,10 @@
 			"91ca3cfd-22f9-4b3b-a3c1-aa4ba6aae4b9"
 		],
 		"prefix": "C.16",
-		"id": "8b06b07a-831f-462e-9553-78398cc355c5"
+		"id": "8b06b07a-831f-462e-9553-78398cc355c5",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 17 - Repareren van een voertuig",
@@ -2721,7 +2846,10 @@
 			"2f1f33e0-a09f-4f91-8031-3883a51a21df"
 		],
 		"prefix": "C.17",
-		"id": "8ed6bca4-c1ab-4045-92fa-de12ed876fd4"
+		"id": "8ed6bca4-c1ab-4045-92fa-de12ed876fd4",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 12 - Ontwerpen van een model",
@@ -2734,7 +2862,10 @@
 			"344f28f3-884f-444f-a928-784adc12b5b7"
 		],
 		"prefix": "C.12",
-		"id": "d61bb3a8-63b9-4f2c-a257-fd2e91e201ef"
+		"id": "d61bb3a8-63b9-4f2c-a257-fd2e91e201ef",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 13 - Maken van een mediaproduct",
@@ -2747,7 +2878,10 @@
 			"446f1100-c891-408b-8a78-067c05074960"
 		],
 		"prefix": "C.13",
-		"id": "4cd3407c-7a3f-4cea-a39a-a85e2f2aa8a2"
+		"id": "4cd3407c-7a3f-4cea-a39a-a85e2f2aa8a2",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 14 - Maken van een audiovisueel product",
@@ -2760,7 +2894,10 @@
 			"1d7d9ed4-cebe-4d15-8ec2-e77e1794db14"
 		],
 		"prefix": "C.14",
-		"id": "a95363de-3b03-409a-a9b0-97aacae2fceb"
+		"id": "a95363de-3b03-409a-a9b0-97aacae2fceb",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 15 - Adviseren over een omgeving",
@@ -2772,7 +2909,10 @@
 			"cb8ec05a-8967-489e-ad96-11e4ca647303"
 		],
 		"prefix": "C.15",
-		"id": "01882bc1-586b-4ae1-88b3-529d7388d0be"
+		"id": "01882bc1-586b-4ae1-88b3-529d7388d0be",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 16 - Programmeren van een product",
@@ -2785,7 +2925,10 @@
 			"516f2fe3-6505-4159-8e40-6001a5fae0a7"
 		],
 		"prefix": "C.16",
-		"id": "d2ffc9fc-fe6b-4c97-a32c-8b9776cb8b35"
+		"id": "d2ffc9fc-fe6b-4c97-a32c-8b9776cb8b35",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 17 - Programmeren van een game",
@@ -2798,7 +2941,10 @@
 			"4d4e1372-15a6-4520-a5c2-a8354ae4a9e6"
 		],
 		"prefix": "C.17",
-		"id": "db881125-038b-4ba1-8cee-cd8d7490b8ed"
+		"id": "db881125-038b-4ba1-8cee-cd8d7490b8ed",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 12 - Ontwerpen van een product",
@@ -2811,7 +2957,10 @@
 			"c787733c-ff1c-43ab-97e3-31f6c97fb82c"
 		],
 		"prefix": "C.12",
-		"id": "a85b03b0-572b-45b7-8847-b7d5a8545e3d"
+		"id": "a85b03b0-572b-45b7-8847-b7d5a8545e3d",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 13 - Maken van een product",
@@ -2823,7 +2972,10 @@
 			"9a2058a7-864d-4ed5-b5fc-b7111e074a82"
 		],
 		"prefix": "C.13",
-		"id": "7e701474-ff8e-43fa-92ce-5795c4b1c2cd"
+		"id": "7e701474-ff8e-43fa-92ce-5795c4b1c2cd",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 14 - Adviseren over oplossingen",
@@ -2835,7 +2987,10 @@
 			"c3747ff8-d008-4b8a-8baf-26c6c6a14fd8"
 		],
 		"prefix": "C.14",
-		"id": "7798a1f7-0ccd-42d6-9460-965438b81033"
+		"id": "7798a1f7-0ccd-42d6-9460-965438b81033",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 15 - Adviseren over een proces",
@@ -2847,7 +3002,10 @@
 			"04f2540f-778b-41a1-b5f4-b9e5f93db1a9"
 		],
 		"prefix": "C.15",
-		"id": "99575ec9-30b9-41f3-8c90-7785aa75f292"
+		"id": "99575ec9-30b9-41f3-8c90-7785aa75f292",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 16 - Installeren van een installatie",
@@ -2858,7 +3016,10 @@
 			"8aef0fa9-d1dc-486a-94eb-266701db3558"
 		],
 		"prefix": "C.16",
-		"id": "47070b5b-60f7-4959-a8e1-321a4206f503"
+		"id": "47070b5b-60f7-4959-a8e1-321a4206f503",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 17 - Onderhouden van een installatie",
@@ -2871,7 +3032,10 @@
 			"cbb154ac-940c-4cbb-847d-11fcce633e3b"
 		],
 		"prefix": "C.17",
-		"id": "49e7b807-86f6-4f57-8934-00d0553ad110"
+		"id": "49e7b807-86f6-4f57-8934-00d0553ad110",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 12 - Ontwerpen van een product",
@@ -2884,7 +3048,10 @@
 			"0e7d4ba6-aa38-4b53-9adf-2d24f80ac1e8"
 		],
 		"prefix": "C.12",
-		"id": "d879cb51-2f63-4c2b-8bac-4503e651d429"
+		"id": "d879cb51-2f63-4c2b-8bac-4503e651d429",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 13 - Ontwerpen van een omgeving",
@@ -2897,7 +3064,10 @@
 			"d603a27b-eb25-4521-af74-3281f456eb12"
 		],
 		"prefix": "C.13",
-		"id": "3566daed-2758-4594-bd96-239b2b9c9c27"
+		"id": "3566daed-2758-4594-bd96-239b2b9c9c27",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 14 - Maken van een prototype",
@@ -2909,7 +3079,10 @@
 			"9a448c3c-a1c3-455a-ad2b-714c172dc707"
 		],
 		"prefix": "C.14",
-		"id": "0843bbd3-1a57-43f3-abc2-327e39c0d0cb"
+		"id": "0843bbd3-1a57-43f3-abc2-327e39c0d0cb",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 15 - Adviseren over toepassingen",
@@ -2921,7 +3094,10 @@
 			"1097e43c-b5f1-4fec-b7ba-74b0809740ff"
 		],
 		"prefix": "C.15",
-		"id": "4d87a51b-fc95-4316-a264-35b5e458e72f"
+		"id": "4d87a51b-fc95-4316-a264-35b5e458e72f",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 16 - Adviseren over een energiesysteem",
@@ -2934,7 +3110,10 @@
 			"b94f0e31-ba2e-4aac-8d14-0cddf158c3c6"
 		],
 		"prefix": "C.16",
-		"id": "9ec38d23-c93f-45fc-8f5d-a3f38dbf0207"
+		"id": "9ec38d23-c93f-45fc-8f5d-a3f38dbf0207",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 17 - Programmeren van software",
@@ -2947,7 +3126,10 @@
 			"8100d022-2afd-4719-99ce-3748b140e317"
 		],
 		"prefix": "C.17",
-		"id": "fcc477fa-f71d-4903-9320-d1b61f52842a"
+		"id": "fcc477fa-f71d-4903-9320-d1b61f52842a",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 12 - Ontwerpen van een product",
@@ -2960,7 +3142,10 @@
 			"f6646de1-c0e8-45b9-b4c3-a11dda03f0f6"
 		],
 		"prefix": "C.12",
-		"id": "53ae834d-3951-4c42-8e51-46b7089ab4dd"
+		"id": "53ae834d-3951-4c42-8e51-46b7089ab4dd",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 13 - Maken van een product",
@@ -2972,7 +3157,10 @@
 			"24be4a81-0929-4d5f-8e76-e5b2a3f12d59"
 		],
 		"prefix": "C.13",
-		"id": "fa28c3a7-52b5-484a-86a0-08ef9e70a3c1"
+		"id": "fa28c3a7-52b5-484a-86a0-08ef9e70a3c1",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 14 - Adviseren over oplossingen",
@@ -2984,7 +3172,10 @@
 			"895cf9cd-c22b-45e3-a678-0e5f23309c8c"
 		],
 		"prefix": "C.14",
-		"id": "face8b2f-5bb7-42bd-93ac-5a03a8d1a76f"
+		"id": "face8b2f-5bb7-42bd-93ac-5a03a8d1a76f",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 15 - Organiseren van een proces",
@@ -2997,7 +3188,10 @@
 			"14993f68-7e76-437d-91f1-8edc0b044e4a"
 		],
 		"prefix": "C.15",
-		"id": "010507c7-81d5-4c21-90b0-7732e7ed148b"
+		"id": "010507c7-81d5-4c21-90b0-7732e7ed148b",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 16 - Monteren van elementen",
@@ -3008,7 +3202,10 @@
 			"e220df70-0594-405f-ad00-35085768a9ba"
 		],
 		"prefix": "C.16",
-		"id": "85180a0b-d29d-4121-bb2c-bd3b9d344185"
+		"id": "85180a0b-d29d-4121-bb2c-bd3b9d344185",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 17 - Onderhouden van een installatie",
@@ -3021,7 +3218,10 @@
 			"e0d4f330-c87d-4d81-bffc-d8fc68259537"
 		],
 		"prefix": "C.17",
-		"id": "c97bf1d3-293c-4d8d-831e-b66d2d392330"
+		"id": "c97bf1d3-293c-4d8d-831e-b66d2d392330",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 12 - Ontwerpen van een product",
@@ -3034,7 +3234,10 @@
 			"40bb8e4e-7c0a-40fc-a39b-8a5865697560"
 		],
 		"prefix": "C.12",
-		"id": "0a2c5d35-6743-4ecb-8d29-3161a7248956"
+		"id": "0a2c5d35-6743-4ecb-8d29-3161a7248956",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 13 - Adviseren over leefstijl",
@@ -3047,7 +3250,10 @@
 			"28d6be98-53bc-41a4-9139-1b278538e1e7"
 		],
 		"prefix": "C.13",
-		"id": "f0f068f8-6e16-4230-9415-35358358cfe5"
+		"id": "f0f068f8-6e16-4230-9415-35358358cfe5",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 14 - Organiseren van een activiteit",
@@ -3060,7 +3266,10 @@
 			"4fc22879-8e75-4cba-aed1-c53dc3e7ca98"
 		],
 		"prefix": "C.14",
-		"id": "edfa5dce-9a41-40d9-b04a-26bcc1a5c38a"
+		"id": "edfa5dce-9a41-40d9-b04a-26bcc1a5c38a",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 15 - Ondersteunen van een klant",
@@ -3072,7 +3281,10 @@
 			"d57fa1f9-74a7-42b9-9efc-84e5725a1d16"
 		],
 		"prefix": "C.15",
-		"id": "a4fa376c-7f31-414f-8af3-d4d10e847089"
+		"id": "a4fa376c-7f31-414f-8af3-d4d10e847089",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 16 - Verzorgen van het uiterlijk",
@@ -3085,7 +3297,10 @@
 			"66687bae-aacf-4e59-887a-d606e51c8263"
 		],
 		"prefix": "C.16",
-		"id": "f54abd6f-0804-4556-8eb6-ccff0f142ccb"
+		"id": "f54abd6f-0804-4556-8eb6-ccff0f142ccb",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 17 - Bereiden van een maaltijd",
@@ -3097,7 +3312,10 @@
 			"338f8e6f-2ed6-4e07-ac05-ec5dfdc14cbb"
 		],
 		"prefix": "C.17",
-		"id": "1c3d35fa-64d8-4bfd-9b13-1f09d13de0d1"
+		"id": "1c3d35fa-64d8-4bfd-9b13-1f09d13de0d1",
+		"soort": "eindterm",
+		"ce": 0,
+		"se": 1
 	},
 	{
 		"title": "Concept - Kerndoel 1 - Taal- en leesomgeving",
@@ -3116,7 +3334,8 @@
 			"ce73b2ea-8c55-45d1-8019-4459cb3b3263"
 		],
 		"prefix": "O1.1",
-		"id": "d7c79eed-21bc-4fcd-95d2-c06bbc385de3"
+		"id": "d7c79eed-21bc-4fcd-95d2-c06bbc385de3",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 1 - Taal- en leesomgeving",
@@ -3133,7 +3352,8 @@
 			"443cd4b7-7dd4-4169-8e3e-ae1ed6d33ed2"
 		],
 		"prefix": "O1.1",
-		"id": "fad80cde-0118-4d43-a2cb-e9efb8c93b53"
+		"id": "fad80cde-0118-4d43-a2cb-e9efb8c93b53",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 1 - Taal- en leesomgeving",
@@ -3151,7 +3371,8 @@
 			"28a96428-33ad-419e-948b-415907bc0a2c"
 		],
 		"prefix": "O1.1",
-		"id": "aece0d72-7e20-435d-a178-9b0a7a469e06"
+		"id": "aece0d72-7e20-435d-a178-9b0a7a469e06",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 2 - Taal in de leergebieden en praktijkvakken",
@@ -3167,7 +3388,8 @@
 			"54d0e583-cf29-4c5d-8152-7b4b828e3265"
 		],
 		"prefix": "O1.2",
-		"id": "37d96134-8fc2-4d58-9e66-df764a836c98"
+		"id": "37d96134-8fc2-4d58-9e66-df764a836c98",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 2 - Taal in de leergebieden en praktijkvakken",
@@ -3183,7 +3405,8 @@
 			"7e34ac22-d15a-41d1-ad4b-cfa3e23e14df"
 		],
 		"prefix": "O2.2",
-		"id": "574c105c-14bc-479d-a620-dd583aaa488c"
+		"id": "574c105c-14bc-479d-a620-dd583aaa488c",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 2 - Taal in de leergebieden en praktijkvakken",
@@ -3200,7 +3423,8 @@
 			"154d6d38-4448-4154-bb90-5229d9b9a302"
 		],
 		"prefix": "O2.2",
-		"id": "6ddfa8f2-7c22-41fc-8a34-8e1c795b709f"
+		"id": "6ddfa8f2-7c22-41fc-8a34-8e1c795b709f",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 3 - Begrijpend luisteren, lezen en/of kijken",
@@ -3216,7 +3440,8 @@
 			"1cdfb78d-82d9-428f-a222-80e737968732"
 		],
 		"prefix": "A1.3",
-		"id": "9561782a-e1ca-442c-86c0-a0eec8cdae2f"
+		"id": "9561782a-e1ca-442c-86c0-a0eec8cdae2f",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 3 - Begrijpend luisteren, lezen en/of kijken",
@@ -3232,7 +3457,8 @@
 			"1bbe0bc1-7dbe-4f30-9497-04696fadf118"
 		],
 		"prefix": "A1.3",
-		"id": "65816e71-4f8a-4e8d-bdad-c2cf4d745a17"
+		"id": "65816e71-4f8a-4e8d-bdad-c2cf4d745a17",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 3 - Begrijpend luisteren, lezen en/of kijken",
@@ -3251,7 +3477,8 @@
 			"a0670f1b-22de-4095-ab4f-07bbeb3c1621"
 		],
 		"prefix": "A1.3",
-		"id": "580a18b5-d619-4782-85f2-e7e644867b5e"
+		"id": "580a18b5-d619-4782-85f2-e7e644867b5e",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 4 - Doelgericht communiceren",
@@ -3267,7 +3494,8 @@
 			"69f18aff-cb6f-471b-bb41-57fccfec91e0"
 		],
 		"prefix": "A1.4",
-		"id": "7fe4ff43-f868-4988-b36f-67eb6864caed"
+		"id": "7fe4ff43-f868-4988-b36f-67eb6864caed",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 4 - Doelgericht communiceren",
@@ -3284,7 +3512,8 @@
 			"2eacdb39-4618-42f3-a891-77e8a2c3c7c8"
 		],
 		"prefix": "A1.4",
-		"id": "c320e4ec-5149-4a41-919f-1d1c7fbf83ce"
+		"id": "c320e4ec-5149-4a41-919f-1d1c7fbf83ce",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 4 - Doelgericht communiceren",
@@ -3302,7 +3531,8 @@
 			"23f8b17e-37d4-43b8-bfb7-c956d1663da9"
 		],
 		"prefix": "A1.4",
-		"id": "1467bb9c-0fd1-44c5-a364-06df8dbcb19e"
+		"id": "1467bb9c-0fd1-44c5-a364-06df8dbcb19e",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 5 - Creatief taal gebruiken",
@@ -3318,7 +3548,8 @@
 			"57c7158c-874a-45a7-9acc-d58867d86fb2"
 		],
 		"prefix": "A1.5",
-		"id": "07c3d5ad-952d-4fef-b892-93bcab2bb8fe"
+		"id": "07c3d5ad-952d-4fef-b892-93bcab2bb8fe",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 5 - Creatief taal gebruiken",
@@ -3334,7 +3565,8 @@
 			"6049f3c9-d16c-45cf-899e-b54a8fd47a71"
 		],
 		"prefix": "A1.5",
-		"id": "e0d648b3-c8ee-48d5-b43d-fa2cc26d4a39"
+		"id": "e0d648b3-c8ee-48d5-b43d-fa2cc26d4a39",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 5 - Creatief taal gebruiken",
@@ -3352,7 +3584,8 @@
 			"9df3b91e-4e96-4dbc-a36d-b6d274a2a4c1"
 		],
 		"prefix": "A1.5",
-		"id": "8a8b3298-09af-4fdc-81be-e6964dbe7270"
+		"id": "8a8b3298-09af-4fdc-81be-e6964dbe7270",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 6 - Bronnen onderzoeken",
@@ -3366,7 +3599,8 @@
 			"7d2a81a3-00a0-4dde-be0e-c80cc4366d12"
 		],
 		"prefix": "A1.6",
-		"id": "8d464645-eeee-4d02-96cc-f44aad0440d3"
+		"id": "8d464645-eeee-4d02-96cc-f44aad0440d3",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 6 - Bronnen onderzoeken",
@@ -3380,7 +3614,8 @@
 			"8f91783b-197e-4b4e-bc04-8e1a752960f4"
 		],
 		"prefix": "A1.6",
-		"id": "2f7f4626-6f7f-46fa-8128-74a2a742fc66"
+		"id": "2f7f4626-6f7f-46fa-8128-74a2a742fc66",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 6 - Bronnen onderzoeken",
@@ -3394,7 +3629,8 @@
 			"449a4a4a-4bee-4659-bf86-72cdb4da5127"
 		],
 		"prefix": "A1.6",
-		"id": "1b68cbd8-cb1f-4c8c-8fb2-61c319544afa"
+		"id": "1b68cbd8-cb1f-4c8c-8fb2-61c319544afa",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 7 - Reflecteren op taalactiviteiten",
@@ -3410,7 +3646,8 @@
 			"3ec01eeb-392d-435c-86d8-39bbc4a665b4"
 		],
 		"prefix": "A1.7",
-		"id": "bd0564a3-651d-48fb-b2e5-cee16e885c4e"
+		"id": "bd0564a3-651d-48fb-b2e5-cee16e885c4e",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 7 - Reflecteren op taalactiviteiten",
@@ -3428,7 +3665,8 @@
 			"02a21c38-8673-465a-bac6-cd6bcd012259"
 		],
 		"prefix": "A1.7",
-		"id": "a6065e1e-ea03-4508-b251-4308a8590b58"
+		"id": "a6065e1e-ea03-4508-b251-4308a8590b58",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 7 - Reflecteren op taalactiviteiten",
@@ -3447,7 +3685,8 @@
 			"7b9243bf-8677-47d4-9117-7e1a42d065d1"
 		],
 		"prefix": "A1.7",
-		"id": "95e9463d-3b66-4c83-ba37-c7e932a8f24e"
+		"id": "95e9463d-3b66-4c83-ba37-c7e932a8f24e",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 8 - Doelgericht gesprekken voeren",
@@ -3466,7 +3705,8 @@
 			"80bf039e-9f93-4bb2-9313-19dc8cbde9d2"
 		],
 		"prefix": "A2.8",
-		"id": "090162f7-130a-481d-8d65-3757c348da06"
+		"id": "090162f7-130a-481d-8d65-3757c348da06",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 8 - Doelgericht gesprekken voeren",
@@ -3484,7 +3724,8 @@
 			"56962ca0-9ce9-4929-820d-f9ee190ea859"
 		],
 		"prefix": "A2.8",
-		"id": "297f334e-520b-4065-8c96-0f1b55ca11a3"
+		"id": "297f334e-520b-4065-8c96-0f1b55ca11a3",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 8 - Doelgericht gesprekken voeren",
@@ -3502,7 +3743,8 @@
 			"eafb8c47-fbe9-49e2-9862-8fe4985a7d5b"
 		],
 		"prefix": "A2.8",
-		"id": "5b9679fb-664e-4dbe-8146-d887df590370"
+		"id": "5b9679fb-664e-4dbe-8146-d887df590370",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 9 - Gesprekken voeren om te leren",
@@ -3518,7 +3760,8 @@
 			"f1c1f7cb-0690-4658-b269-465d3a2db157"
 		],
 		"prefix": "A2.9",
-		"id": "f0ba095c-2dda-4417-bc08-601369756749"
+		"id": "f0ba095c-2dda-4417-bc08-601369756749",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 9 - Gesprekken voeren om te leren",
@@ -3534,7 +3777,8 @@
 			"21abfdcc-a4c3-4eaa-b018-d50e05f960c0"
 		],
 		"prefix": "A2.9",
-		"id": "f49f8889-3256-4737-90d3-eabbafb6903b"
+		"id": "f49f8889-3256-4737-90d3-eabbafb6903b",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 9 - Gesprekken voeren om te leren",
@@ -3551,7 +3795,8 @@
 			"95a55e4a-b704-4994-872f-af6714733c0c"
 		],
 		"prefix": "A2.9",
-		"id": "b7c23d6d-f47a-41c6-8f29-15e9c0fb6786"
+		"id": "b7c23d6d-f47a-41c6-8f29-15e9c0fb6786",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 10 - Vorm en betekenis van taal",
@@ -3566,7 +3811,8 @@
 			"abd6c0ba-4dca-4cc3-9198-4d025faaa24f"
 		],
 		"prefix": "B1.10",
-		"id": "91f9a7f4-0f4d-43bb-b564-0e8bcd56679a"
+		"id": "91f9a7f4-0f4d-43bb-b564-0e8bcd56679a",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 10 - Vorm en betekenis van taal",
@@ -3581,7 +3827,8 @@
 			"9ca30ef5-ffe0-4562-a686-969788d76a87"
 		],
 		"prefix": "B1.10",
-		"id": "7277cd75-566e-4dcb-9086-e9379f42970c"
+		"id": "7277cd75-566e-4dcb-9086-e9379f42970c",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 10 - Vorm en betekenis van taal",
@@ -3598,7 +3845,8 @@
 			"31b03f4b-4942-418c-a85f-2ca41d482067"
 		],
 		"prefix": "B1.10",
-		"id": "fca436bf-1988-4fdc-a6fd-7bc87fdebbf7"
+		"id": "fca436bf-1988-4fdc-a6fd-7bc87fdebbf7",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 11 - Schriftelijke taalverzorging",
@@ -3613,7 +3861,8 @@
 			"73aacd58-7f7b-41ac-ad8b-18a168b65ac4"
 		],
 		"prefix": "B1.11",
-		"id": "fa700a59-bc55-4039-b320-a2d4ec25b32d"
+		"id": "fa700a59-bc55-4039-b320-a2d4ec25b32d",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 11 - Schriftelijke taalverzorging",
@@ -3628,7 +3877,8 @@
 			"52bce1a1-b8fb-455a-b8de-3044d22f74fb"
 		],
 		"prefix": "B1.11",
-		"id": "838eb09e-0666-4e6a-ba8d-1df26bb00b70"
+		"id": "838eb09e-0666-4e6a-ba8d-1df26bb00b70",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 11 - Schriftelijke taalverzorging",
@@ -3644,7 +3894,8 @@
 			"21e5d2c9-5f59-46c3-9c27-16ab27d5e2e4"
 		],
 		"prefix": "B1.11",
-		"id": "4e193aaf-3325-4495-8371-e7d1cce8460c"
+		"id": "4e193aaf-3325-4495-8371-e7d1cce8460c",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 12 - Talige identiteit",
@@ -3660,7 +3911,8 @@
 			"58a2e53d-0fa4-46dc-b67b-c83b0b4b3c35"
 		],
 		"prefix": "B2.12",
-		"id": "1c55976c-7e3c-4658-9b01-5557ebb46b84"
+		"id": "1c55976c-7e3c-4658-9b01-5557ebb46b84",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 12 - Talige identiteit",
@@ -3676,7 +3928,8 @@
 			"9dabf89c-dd72-4fce-a14a-095112810f44"
 		],
 		"prefix": "B2.12",
-		"id": "27c0b6ff-339a-4335-ba4c-859469b40252"
+		"id": "27c0b6ff-339a-4335-ba4c-859469b40252",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 12 - Talige identiteit",
@@ -3693,7 +3946,8 @@
 			"c8ee1378-1dd5-487a-9f3d-4e807240b2a7"
 		],
 		"prefix": "B2.12",
-		"id": "01ada9cf-586f-425e-b01b-d16d4909c3c4"
+		"id": "01ada9cf-586f-425e-b01b-d16d4909c3c4",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 13 - Literaire teksten",
@@ -3711,7 +3965,8 @@
 			"fe45e49f-cc9a-408e-acbe-5f5b2de540c8"
 		],
 		"prefix": "C1.13",
-		"id": "6e65d06a-e919-4165-8e22-a98db5fb0d87"
+		"id": "6e65d06a-e919-4165-8e22-a98db5fb0d87",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 13 - Literaire teksten",
@@ -3729,7 +3984,8 @@
 			"238b2098-f78d-4bd4-a8aa-46dd978ea5af"
 		],
 		"prefix": "C1.13",
-		"id": "43fff266-82a2-4998-bab7-914b8b9035cd"
+		"id": "43fff266-82a2-4998-bab7-914b8b9035cd",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 13 - Literaire teksten",
@@ -3748,7 +4004,8 @@
 			"aaec25bd-c091-4e7a-acc7-02beb354493e"
 		],
 		"prefix": "C1.13",
-		"id": "f467fe1d-210b-4d4f-b65a-df8ff29c59f8"
+		"id": "f467fe1d-210b-4d4f-b65a-df8ff29c59f8",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 14 - Leesvoorkeur",
@@ -3764,7 +4021,8 @@
 			"46f04c55-f0ce-4946-984e-f5f24def6b0f"
 		],
 		"prefix": "C2.14",
-		"id": "1a6c3f41-f76d-419a-850c-7a4a9071ff88"
+		"id": "1a6c3f41-f76d-419a-850c-7a4a9071ff88",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 14 - Leesvoorkeur",
@@ -3780,7 +4038,8 @@
 			"7561f177-d55e-4221-af94-52bdf865ddc8"
 		],
 		"prefix": "C2.14",
-		"id": "a0798be3-9352-491a-8a27-734489a717b9"
+		"id": "a0798be3-9352-491a-8a27-734489a717b9",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 14 - Leesvoorkeur",
@@ -3798,10 +4057,11 @@
 			"f4647da7-fefe-4575-b365-ea5633b0ec52"
 		],
 		"prefix": "C2.14",
-		"id": "7e5457eb-22ee-4684-aede-94cb9b6ee8fd"
+		"id": "7e5457eb-22ee-4684-aede-94cb9b6ee8fd",
+		"soort": "kerndoel"
 	},
 	{
-		"title": "Concept - Kerrndoel 1 - Wiskunde in de werkelijkheid",
+		"title": "Concept - Kerndoel 1 - Wiskunde in de werkelijkheid",
 		"description": "Concept - De leerling herkent en gebruikt wiskunde in dagelijkse situaties.",
 		"fo_uitwerking_id": [
 			"1c5103a7-56ae-4a57-abc5-bf66e53a5192",
@@ -3814,10 +4074,11 @@
 			"be1a1e00-f183-4b29-8205-5a793d19f053"
 		],
 		"prefix": "A.1",
-		"id": "d17bf839-dc4f-4de7-b416-12d11a5e0add"
+		"id": "d17bf839-dc4f-4de7-b416-12d11a5e0add",
+		"soort": "kerndoel"
 	},
 	{
-		"title": "Concept - Kerrndoel 2 - Wiskunde in andere leergebieden",
+		"title": "Concept - Kerndoel 2 - Wiskunde in andere leergebieden",
 		"description": "Concept - De school ondersteunt het gebruik van wiskunde in andere leergebieden.",
 		"fo_uitwerking_id": [
 			"161da825-23f5-431f-92af-97f383783ba5",
@@ -3832,10 +4093,11 @@
 			"f2223a4c-63cb-4bc5-97f8-71f6a6cd8cee"
 		],
 		"prefix": "A.2",
-		"id": "6dea5e47-abc5-40e0-b143-358174ce4db5"
+		"id": "6dea5e47-abc5-40e0-b143-358174ce4db5",
+		"soort": "kerndoel"
 	},
 	{
-		"title": "Concept - Kerrndoel 3 - Interne samenhang",
+		"title": "Concept - Kerndoel 3 - Interne samenhang",
 		"description": "Concept - De school biedt wiskundige concepten en wiskundige denk/werkwijzen in onderlinge samenhang aan.",
 		"fo_uitwerking_id": [
 			"33b0747c-aba0-4136-9211-5aa9f150c3e1",
@@ -3850,7 +4112,8 @@
 			"a744e04e-d24a-40f2-b56b-b2d0315533d3"
 		],
 		"prefix": "A.3",
-		"id": "052dd6d2-2732-42a1-b548-8d07a9d1687c"
+		"id": "052dd6d2-2732-42a1-b548-8d07a9d1687c",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 4 - Wiskundige attitude",
@@ -3869,7 +4132,8 @@
 			"ce14566d-4e83-4513-a720-80448375456b"
 		],
 		"prefix": "B.4",
-		"id": "cd19a94c-1ee9-4360-99f2-1cd65dd19ad5"
+		"id": "cd19a94c-1ee9-4360-99f2-1cd65dd19ad5",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 5 - Getallen",
@@ -3888,7 +4152,8 @@
 			"a59b84ce-98cf-4819-83b0-c63aef5d9cd7"
 		],
 		"prefix": "C.5",
-		"id": "4b246ec4-1ed8-4c52-b43e-5ab6a1c0424e"
+		"id": "4b246ec4-1ed8-4c52-b43e-5ab6a1c0424e",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 6 - Verhoudingen",
@@ -3902,7 +4167,8 @@
 			"5e4dc50a-3348-4351-8e97-d0c6d74ea72d"
 		],
 		"prefix": "C.6",
-		"id": "fe1bfa69-3e07-4789-b59a-9dff4430d896"
+		"id": "fe1bfa69-3e07-4789-b59a-9dff4430d896",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 7 - Gangbare grootheden en bijpassende eenheden",
@@ -3920,7 +4186,8 @@
 			"11a94610-11b0-4d49-af91-12d1b5150ffd"
 		],
 		"prefix": "C.7",
-		"id": "41b01fca-a44f-4762-8132-a089cb0d435b"
+		"id": "41b01fca-a44f-4762-8132-a089cb0d435b",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 8 - Grootheid tijd en bijpassende eenheden",
@@ -3938,7 +4205,8 @@
 			"47dcaf16-14b8-4041-92af-df6ef227de20"
 		],
 		"prefix": "C.8",
-		"id": "fcf77d53-51c9-4535-8887-16b687c12b35"
+		"id": "fcf77d53-51c9-4535-8887-16b687c12b35",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 9 - Grootheid geld en bijpassende eenheden",
@@ -3956,7 +4224,8 @@
 			"77e78a8e-3efd-4289-af4e-9e0a764204f3"
 		],
 		"prefix": "C.9",
-		"id": "f266670c-45e1-4dfc-95e4-a9109f1a98c3"
+		"id": "f266670c-45e1-4dfc-95e4-a9109f1a98c3",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 10 - Vorm, ruimte en patronen",
@@ -3974,7 +4243,8 @@
 			"f448f8ba-cad5-424e-8e8d-e207d852537c"
 		],
 		"prefix": "C.10",
-		"id": "5d08450f-5e0b-4b15-8bb3-e52e5b2e7331"
+		"id": "5d08450f-5e0b-4b15-8bb3-e52e5b2e7331",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 11 - Gebruiken van wiskundetaal en wiskundige representaties",
@@ -3991,7 +4261,8 @@
 			"28e5fab8-aba6-4fd1-a7c8-65ba9957e7ba"
 		],
 		"prefix": "D.11",
-		"id": "56346b00-a8db-472a-983e-0143021570b8"
+		"id": "56346b00-a8db-472a-983e-0143021570b8",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 12 - Gebruiken van wiskundige instrumenten",
@@ -4006,10 +4277,11 @@
 			"d2a9d5c5-01cf-4b53-a5e8-c5a8e0498980"
 		],
 		"prefix": "D.12",
-		"id": "bdc74166-3003-4deb-b8d8-56a520569564"
+		"id": "bdc74166-3003-4deb-b8d8-56a520569564",
+		"soort": "kerndoel"
 	},
 	{
-		"title": "Concept - Kerrndoel 1 - Wiskunde in de werkelijkheid",
+		"title": "Concept - Kerndoel 1 - Wiskunde in de werkelijkheid",
 		"description": "Concept - De leerling herkent en gebruikt wiskunde in dagelijkse, maatschappelijke en arbeidsmatige situaties.",
 		"fo_uitwerking_id": [
 			"f21e13e4-fedf-47a1-8165-e45a32a283d7",
@@ -4024,10 +4296,11 @@
 			"0d3e5539-d81a-43b5-93b1-da0bf273faa8"
 		],
 		"prefix": "A.1",
-		"id": "41846d7e-ecb0-4a26-93fb-693a444bc4de"
+		"id": "41846d7e-ecb0-4a26-93fb-693a444bc4de",
+		"soort": "kerndoel"
 	},
 	{
-		"title": "Concept - Kerrndoel 2 - Wiskunde in andere leergebieden",
+		"title": "Concept - Kerndoel 2 - Wiskunde in andere leergebieden",
 		"description": "Concept - De school ondersteunt het gebruik van wiskunde in andere leergebieden en praktijkvakken.",
 		"fo_uitwerking_id": [
 			"eba42bfe-a2fb-4456-acfa-7ab15c35cdae",
@@ -4043,10 +4316,11 @@
 			"ffeb9ef1-9077-4627-a495-433e83cbd1ab"
 		],
 		"prefix": "A.2",
-		"id": "23f99b4d-a3b8-4c0b-a7b6-527036661256"
+		"id": "23f99b4d-a3b8-4c0b-a7b6-527036661256",
+		"soort": "kerndoel"
 	},
 	{
-		"title": "Concept - Kerrndoel 3 - Interne samenhang",
+		"title": "Concept - Kerndoel 3 - Interne samenhang",
 		"description": "Concept - De school biedt wiskundige concepten en wiskundige denk/werkwijzen in onderlinge samenhang aan.",
 		"fo_uitwerking_id": [
 			"26430560-146f-4c40-acd5-fa86874144f5",
@@ -4061,7 +4335,8 @@
 			"441a04ea-dc0a-4cd1-aa59-d600557a000b"
 		],
 		"prefix": "A.3",
-		"id": "952009bc-60bc-4de9-8a19-a16aee78028f"
+		"id": "952009bc-60bc-4de9-8a19-a16aee78028f",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 4 - Wiskundige attitude",
@@ -4080,7 +4355,8 @@
 			"cfca8eb4-6417-41ce-8a8a-73743ac7d815"
 		],
 		"prefix": "B.4",
-		"id": "93886e3a-d769-4224-9f8f-2fdeb1905fc8"
+		"id": "93886e3a-d769-4224-9f8f-2fdeb1905fc8",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 5 - Getallen",
@@ -4098,7 +4374,8 @@
 			"f805e8ff-9547-478e-b61a-92aa0cdcfcb4"
 		],
 		"prefix": "C.5",
-		"id": "19ebbd99-9658-4edc-862c-4a0117dd285f"
+		"id": "19ebbd99-9658-4edc-862c-4a0117dd285f",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 6 - Verhoudingen",
@@ -4116,7 +4393,8 @@
 			"e3f7fd89-5972-4ab1-ae1a-2e14d01afe17"
 		],
 		"prefix": "C.6",
-		"id": "2d0132b9-86ed-4b46-8c94-15f2259606c6"
+		"id": "2d0132b9-86ed-4b46-8c94-15f2259606c6",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 7 - Gangbare grootheden en bijpassende eenheden",
@@ -4136,7 +4414,8 @@
 			"701617f4-304b-4b52-8c8e-903be5456204"
 		],
 		"prefix": "C.7",
-		"id": "780268c4-5efa-424a-ac71-de00633513fd"
+		"id": "780268c4-5efa-424a-ac71-de00633513fd",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 8 - Grootheid tijd en bijpassende eenheden",
@@ -4153,7 +4432,8 @@
 			"b8bb044a-2847-43b9-b61e-aefed88569b6"
 		],
 		"prefix": "C.8",
-		"id": "76e7421c-f92f-4f38-84d9-efc2e2f74fe5"
+		"id": "76e7421c-f92f-4f38-84d9-efc2e2f74fe5",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 9 - Grootheid geld en bijpassende eenheden",
@@ -4172,7 +4452,8 @@
 			"8f27cadb-16ee-41a3-8760-4981a64130c1"
 		],
 		"prefix": "C.9",
-		"id": "20eade3b-f597-47b9-91c8-4b4cd78f685d"
+		"id": "20eade3b-f597-47b9-91c8-4b4cd78f685d",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 10 - Vorm, ruimte en patronen",
@@ -4191,7 +4472,8 @@
 			"bad43f27-564c-4651-9b6d-5c005aae9690"
 		],
 		"prefix": "C.10",
-		"id": "824219fb-9508-41e6-ae9c-e5a62d4afa30"
+		"id": "824219fb-9508-41e6-ae9c-e5a62d4afa30",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 11 - Gebruiken van wiskundetaal en wiskundige representaties",
@@ -4209,7 +4491,8 @@
 			"c037afd4-dc87-4229-a80c-acc14ee1a9fb"
 		],
 		"prefix": "D.11",
-		"id": "28d6dbbd-9b33-4bb8-bdbe-232c47f4d49a"
+		"id": "28d6dbbd-9b33-4bb8-bdbe-232c47f4d49a",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 12 - Gebruiken van wiskundige instrumenten",
@@ -4224,10 +4507,11 @@
 			"cb702abd-7ff8-43b8-8511-3a86838cbbf6"
 		],
 		"prefix": "D.12",
-		"id": "0f4c919d-bca5-48f1-bf5e-477fb839697a"
+		"id": "0f4c919d-bca5-48f1-bf5e-477fb839697a",
+		"soort": "kerndoel"
 	},
 	{
-		"title": "Concept - Kerrndoel 1 - Wiskunde in de werkelijkheid",
+		"title": "Concept - Kerndoel 1 - Wiskunde in de werkelijkheid",
 		"description": "Concept - De leerling herkent en gebruikt wiskunde in dagelijkse en maatschappelijke situaties.",
 		"fo_uitwerking_id": [
 			"eb67c426-8d11-4087-95ab-62ad935e5e24",
@@ -4241,10 +4525,11 @@
 			"9ae3f4d9-64af-45e6-bbfc-97b5938502e0"
 		],
 		"prefix": "A.1",
-		"id": "6957f96d-fc3f-44ee-8de6-e5f2a4089bd2"
+		"id": "6957f96d-fc3f-44ee-8de6-e5f2a4089bd2",
+		"soort": "kerndoel"
 	},
 	{
-		"title": "Concept - Kerrndoel 2 - Wiskunde in andere leergebieden",
+		"title": "Concept - Kerndoel 2 - Wiskunde in andere leergebieden",
 		"description": "Concept - De school ondersteunt het gebruik van wiskunde in andere leergebieden en praktijkvakken.",
 		"fo_uitwerking_id": [
 			"625a82eb-123a-44ef-a4b1-860d6372d275",
@@ -4259,10 +4544,11 @@
 			"fefe20ab-ea4d-4773-bb29-6ee716494bb4"
 		],
 		"prefix": "A.2",
-		"id": "f77fe97a-e430-4d8f-b21c-f9d420d604dd"
+		"id": "f77fe97a-e430-4d8f-b21c-f9d420d604dd",
+		"soort": "kerndoel"
 	},
 	{
-		"title": "Concept - Kerrndoel 3 - Interne samenhang",
+		"title": "Concept - Kerndoel 3 - Interne samenhang",
 		"description": "Concept - De school biedt wiskundige concepten en wiskundige denk/werkwijzen in onderlinge samenhang aan.",
 		"fo_uitwerking_id": [
 			"e6b63521-a164-4c6f-b96f-5958afd8be7f",
@@ -4277,7 +4563,8 @@
 			"5105c2ec-45de-4482-b59b-d42ede5c179a"
 		],
 		"prefix": "A.3",
-		"id": "a5aeb7a6-d580-4950-bbd3-b62da9d5a6b9"
+		"id": "a5aeb7a6-d580-4950-bbd3-b62da9d5a6b9",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 4 - Wiskundige attitude",
@@ -4296,7 +4583,8 @@
 			"a3c3f83d-40f6-491f-bdb3-a30fb2a2845c"
 		],
 		"prefix": "B.4",
-		"id": "9537dfce-2cee-45cf-9cac-a79e40c27f98"
+		"id": "9537dfce-2cee-45cf-9cac-a79e40c27f98",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 5 - Getallen",
@@ -4316,7 +4604,8 @@
 			"9d2e4495-cf9e-4805-86cb-c4a73aae1cc9"
 		],
 		"prefix": "C.5",
-		"id": "e1fecc12-0bc2-4d7f-8987-4c6a8b7472dc"
+		"id": "e1fecc12-0bc2-4d7f-8987-4c6a8b7472dc",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 6 - Verhoudingen",
@@ -4333,7 +4622,8 @@
 			"a2622e22-2630-4b1e-be05-6d8204caf848"
 		],
 		"prefix": "C.6",
-		"id": "8fd8efe3-9501-44fa-a6d6-e00c6a457b12"
+		"id": "8fd8efe3-9501-44fa-a6d6-e00c6a457b12",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 7 - Gangbare grootheden en bijpassende eenheden",
@@ -4351,7 +4641,8 @@
 			"e11942b5-61e6-491a-ac91-e247594d8dee"
 		],
 		"prefix": "C.7",
-		"id": "afad66a0-7e6f-4304-b7e7-32f0bd0f6847"
+		"id": "afad66a0-7e6f-4304-b7e7-32f0bd0f6847",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 8 - Grootheid tijd en bijpassende eenheden",
@@ -4368,7 +4659,8 @@
 			"60f4534d-b196-465e-aea5-f8e3d8a870d1"
 		],
 		"prefix": "C.8",
-		"id": "dd81a312-a583-41c0-b95c-e57378c4ac81"
+		"id": "dd81a312-a583-41c0-b95c-e57378c4ac81",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 9 - Grootheid geld en bijpassende eenheden",
@@ -4387,7 +4679,8 @@
 			"2012d938-ea58-4a53-b2b7-e160a5bcac32"
 		],
 		"prefix": "C.9",
-		"id": "6378af10-b801-4930-958c-60b87a243d45"
+		"id": "6378af10-b801-4930-958c-60b87a243d45",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 10 - Vorm, ruimte en patronen",
@@ -4405,7 +4698,8 @@
 			"7f97b43f-c79c-4c81-8055-4358af823db1"
 		],
 		"prefix": "C.10",
-		"id": "0ae58e3e-d8b9-447a-b773-4f9a8c31e97f"
+		"id": "0ae58e3e-d8b9-447a-b773-4f9a8c31e97f",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 11 - Gebruiken van wiskundetaal en wiskundige representaties",
@@ -4422,7 +4716,8 @@
 			"d6e87b7b-1c50-44f6-a1f5-7181af97b7b3"
 		],
 		"prefix": "D.11",
-		"id": "126c04c7-3959-4bd7-83b0-8c4ba45026f3"
+		"id": "126c04c7-3959-4bd7-83b0-8c4ba45026f3",
+		"soort": "kerndoel"
 	},
 	{
 		"title": "Concept - Kerndoel 12 - Gebruiken van wiskundige instrumenten",
@@ -4437,28 +4732,386 @@
 			"664fe4fd-67cb-41a1-aa96-6815be34a3c2"
 		],
 		"prefix": "D.12",
-		"id": "11219833-a07d-407b-8f54-5beaf779d062"
+		"id": "11219833-a07d-407b-8f54-5beaf779d062",
+		"soort": "kerndoel"
 	},
 	{
-		"description": "Concept - De leerling verkent genrekenmerken van literatuur",
-		"title": "Beheersingsdoel, verkennen van literaire genres",
+		"description": "Concept - De leerling gebruikt taal op een creatieve manier",
+		"title": "Concept Kerndoel 6 Creatief taal gebruiken",
 		"fo_uitwerking_id": [
-			"0359e292-78bc-4bbd-954c-651426dc92c5",
-			"035837e2-17e8-4c75-8844-05bef5fdbff9",
-			"348d776d-aca9-4cd6-b422-c5e3dd4e2f41",
-			"95b43e1b-871c-405d-ae6b-b96b76a7b4a9"
+			"e3e2761b-3a2c-4731-8ce9-50ff314d0d71",
+			"e102de42-dba3-4e38-a051-fc9d504d527d",
+			"fe5d4811-95d3-454f-81dd-faaa91082e30",
+			"1d63d69e-c6af-4138-9475-7411efc9882d"
 		],
 		"fo_toelichting_id": [
-			"f02cb562-9d09-4a72-9105-49df9911e2b2",
-			"9147ffc9-cbca-448f-b761-baf8d8aba05a",
-			"a5bc488f-d4c7-4880-ad8b-eaa560d14962",
-			"6433b644-6e7d-4181-a5bb-42007951dc4f",
-			"78ea8ad7-3f05-4841-94c1-3fa9784be69c"
+			"d2395983-a385-454f-9bdd-11dcbf6ecc3a",
+			"377fa0bf-ffbd-45cf-b593-b4b24ee92d33",
+			"08bfd88a-3be9-4fc0-8b1e-33e6f157e9e6",
+			"93d2864e-ae97-44a5-a0e8-eede90e22deb"
 		],
-		"prefix": "18.",
-		"id": "f5e9675d-503f-4242-837f-33407b9a033e",
+		"prefix": "6",
+		"id": "a83b3a96-6312-4962-879e-f737337db8fb",
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0,
 		"replaces": [
-			"ad8f866e-2374-4eb7-b3cc-e46b61efd94c"
+			"8152fce2-4971-4632-a6b2-6e76804dad49"
+		]
+	},
+	{
+		"description": "Concept - De leerling verkent de betrouwbaarheid van verschillende bronnen.",
+		"title": "Concept Kerndoel 8 Bronnen verkennen",
+		"fo_uitwerking_id": [
+			"ec57c2c0-eae7-42ba-93b7-0f664c4792e6",
+			"090e40a7-b4cd-4f0f-bc63-80431ca9cb93",
+			"d931c227-1e3b-42be-bf2c-09c10c47044c"
+		],
+		"fo_toelichting_id": [
+			"30ff3d5d-04e4-4119-9f7c-46c352fa2a35",
+			"1cec9d65-4040-4f54-ad15-f8e39344a734",
+			"c7c32b37-a18e-4830-884c-3657d53b94fe"
+		],
+		"prefix": "8",
+		"id": "733a1b9c-981a-4124-a47d-88c232c0b338",
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0,
+		"replaces": [
+			"af47a22d-dd64-4fcf-a147-7c830d53e5e8"
+		]
+	},
+	{
+		"description": "Concept - De leerling reflecteert op het proces en evalueert het product van een taalactiviteit.",
+		"title": "Concept Kerndoel 11 Reflecteren op taalactiviteiten",
+		"fo_uitwerking_id": [
+			"6dec8016-87ef-4f7d-92c6-4075a1be50f6",
+			"e1522e1f-e240-41b2-8fca-836832a70e02",
+			"8429c7ef-3ead-4399-be88-b48058c33236",
+			"89ecfad3-ebad-40aa-93b2-a9ba391c7988"
+		],
+		"fo_toelichting_id": [
+			"c60ccb02-8e67-4995-b665-30ae90b1bdb3",
+			"ba1ead40-5bbe-43a6-9631-c7654c8424d6",
+			"08f211a0-63b9-4314-812b-1125f4a6a2a9"
+		],
+		"prefix": "11",
+		"id": "f728de8c-1773-41d2-9439-53fd08fe7529",
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0,
+		"replaces": [
+			"5d349652-de45-4a35-8de6-b7ce54a461cc"
+		]
+	},
+	{
+		"description": "Concept - De leerling verkent hoe je met taal uiting geeft aan je identiteit.",
+		"title": "Concept Kerndoel 14 Talige identiteit",
+		"fo_uitwerking_id": [
+			"e0ee4584-c780-4502-8f6f-987b0c7fa173",
+			"ba052f11-2c42-4632-ad76-d8c78d22c4ae",
+			"76bbbbab-14f9-4117-a980-ad5a8640ff6c",
+			"cbd29bcc-e90a-4f57-a4e1-7e731fe78023"
+		],
+		"fo_toelichting_id": [
+			"d9978cd6-9688-4c15-bbb6-e027bf40ff54",
+			"c7822797-bcc8-4756-8d64-871eeab50156",
+			"c1ee6555-852b-46f2-bada-248ef72c25a8"
+		],
+		"prefix": "14",
+		"id": "275521aa-6b60-4558-ba1b-f65b0a9ba9ad",
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0,
+		"replaces": [
+			"056fbb68-129a-454e-98d8-72eb67c0ba03"
+		]
+	},
+	{
+		"description": "Concept - De leerling verkent de waarde van literatuur.",
+		"title": "Concept Kerndoel 17 Waarde van literatuur",
+		"fo_uitwerking_id": [
+			"0d7d9289-c236-406a-b62b-b77aa167a6d1",
+			"220359f4-b6d3-46d7-b6dd-2eb4ac13b148",
+			"bf3fc5d9-2650-4859-b653-38444a799832",
+			"163de4ac-8e87-4c63-ae2b-1f41c2657f9b"
+		],
+		"fo_toelichting_id": [
+			"bb003074-2a61-4e89-91ec-066bfb691036",
+			"48ad2740-131e-4126-8a6c-e3c10b5ac944",
+			"c515e0cc-f0d2-4734-b951-578eb996c826",
+			"a3c2d4c4-ceca-4ceb-81de-25af76e4a87a"
+		],
+		"prefix": "17",
+		"id": "3cb0cfa6-ab18-42d8-a8c1-902a0d2f2a6b",
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0,
+		"replaces": [
+			"23003d19-a582-44d0-94ad-be0c2013e6be"
+		]
+	},
+	{
+		"description": "Concept - De leerling toont inzicht in verhalende teksten",
+		"title": "Concept Kerndoel 18 Verhalende teksten",
+		"fo_uitwerking_id": [
+			"77203dda-4845-4a17-8160-f34b6caf0b34",
+			"f0a5de08-0300-4213-b391-c4e774b0888d",
+			"e0af3a37-cd5c-4696-a475-f63814e5ee2a",
+			"f7201132-0227-41a9-b9a4-af4903fa7f45"
+		],
+		"fo_toelichting_id": [
+			"e015b0aa-379f-42e0-84e7-8da49fc74156",
+			"19140d77-54ea-454f-a604-5b2f2c18599b",
+			"3b0c17ef-06f3-4aec-874d-72fdf840e95b",
+			"6f9bd8c8-e2a0-4880-aa53-2fca1afacefa"
+		],
+		"prefix": "18",
+		"id": "0d34ad1d-7ac7-4a1d-8d58-4188bccf7d17",
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0,
+		"replaces": [
+			"012306f2-bb1c-44ce-9548-16efc4ef8c3e"
+		]
+	},
+	{
+		"description": "Concept - De leerling lost wiskundige problemen en toepassingsproblemen op.",
+		"title": "Concept - Kerndoel 8 Wiskundig probleemoplossen",
+		"fo_uitwerking_id": [
+			"4c21658c-47bf-47e3-97ba-103c9ab619ba",
+			"0ee81375-ca5f-4ee7-aa05-dbd3e2447158",
+			"129f9de7-c14a-4a52-9709-67539d48ae22",
+			"2253ecf2-f328-4d96-8dd7-6ae6af937867"
+		],
+		"fo_toelichting_id": [
+			"dbe63d7f-eda7-4637-b07b-7f400215271b",
+			"1aedc48d-23e5-497e-a4c1-165245be0fd4",
+			"fb24bb96-8b26-42ce-91b8-b45f8d81813d",
+			"2e03c7b3-f0f6-414f-a60b-916c6ef17901"
+		],
+		"prefix": "8",
+		"id": "69cef2c4-e2db-4dfb-b002-e7d711fd6aa8",
+		"soort": "kerndoel",
+		"replaces": [
+			"3e321838-9e34-4db8-af4a-ca5f92e62049"
+		]
+	},
+	{
+		"description": "Concept - De leerling bedenkt en beschrijft algoritmen.",
+		"title": "Concept - Kerndoel 10 Gebruiken en beschrijven van algoritmes",
+		"fo_uitwerking_id": [
+			"777ca27c-0adf-4559-9ccd-b5797890cddf",
+			"720fd72d-0369-4157-94e5-dd28d1a0107f",
+			"30d221c5-7d08-4871-b675-0f23daa14290",
+			"75b3a809-9e22-4b54-9b9c-4e36f0ccfdef"
+		],
+		"fo_toelichting_id": [
+			"48971cbb-4f36-469c-970a-6f67e9cf4883",
+			"a58738a1-83e2-4e1a-a4ea-da9f305caaa9",
+			"1971055a-f117-41fd-ae3b-8322691cfcec"
+		],
+		"prefix": "10",
+		"id": "f365f2b8-601f-4d46-9243-542bd2e0cfce",
+		"soort": "kerndoel",
+		"replaces": [
+			"b9fce428-e0b3-4524-832d-22dfb2a44af7"
+		]
+	},
+	{
+		"description": "Concept - De school ondersteunt het gebruik van wiskunde in verschillende leergebieden.",
+		"title": "Concept - Kerndoel 15 Wiskunde in verschillende leergebieden",
+		"fo_uitwerking_id": [
+			"4abefb7b-fec7-4887-a04b-7bccf41df499",
+			"152671bc-31e1-4c9e-a03e-85b224529343",
+			"e2451c83-9341-41aa-99d0-e1bb0cf0c473",
+			"9c46c994-a723-4a56-bcf7-268c0243d0db"
+		],
+		"fo_toelichting_id": [
+			"b883b011-7c5a-4f55-b64e-9c5313a85451",
+			"b961fa4c-0f69-496c-81f3-a85a8903110f",
+			"5bd390cb-3ab4-41eb-a591-6599793c70d1",
+			"ef16b837-227f-4544-bce6-05a83679772d",
+			"4f500c63-9c1f-4535-8ab6-2aa489052e9d"
+		],
+		"prefix": "15",
+		"id": "2c960103-654f-4c08-b9de-88e496443f2b",
+		"soort": "kerndoel",
+		"replaces": [
+			"7c5743b8-2c72-4fbd-b308-a3eea257ce07"
+		]
+	},
+	{
+		"description": "Concept - De leerling maakt en gebruikt wiskundige modellen.",
+		"title": "Concept - Kerndoel 8 Wiskundig modelleren",
+		"fo_uitwerking_id": [
+			"6eb2b203-8e9c-4bfe-adbf-748a52789ccc",
+			"3f28044a-3b09-4c20-9a06-53d843c7a7c7",
+			"ae84a9b6-49fa-43bf-9ae0-067a7f91c793",
+			"06a4ca9d-b50f-4df8-94ef-17ab41ccac19",
+			"4f69a8c9-fa7d-4197-ac15-d3ce27c4bafb"
+		],
+		"fo_toelichting_id": [
+			"5a7b65bf-7a36-47fd-8628-d08b7811a91e",
+			"5f0bdbec-0f18-41fd-a4e7-d63d938b577e",
+			"c6cf42ed-9d56-49c5-99a9-c0980315afdd",
+			"4fc752f1-6f45-424b-a401-9b5fed27c852",
+			"4d303026-fa17-4813-89a1-0a0124c15a43",
+			"26e113b6-2d34-4504-b805-45d21a2c8bd7"
+		],
+		"prefix": "8",
+		"id": "70083e6d-ec38-4cf1-8a56-a9c0610ab177",
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0,
+		"replaces": [
+			"0c42c5f9-5e3d-477b-a4e2-09b95c9d8133"
+		]
+	},
+	{
+		"description": "Concept - De school stimuleert een wiskundige attitude van leerlingen.",
+		"title": "Concept Kerndoel 13 Wiksundige attitude",
+		"fo_uitwerking_id": [
+			"925b27d1-7706-40ae-906b-93fa495d64e3",
+			"3a649a72-9d33-45ea-9021-bf266906ef8c",
+			"32596138-3a08-4873-8522-d6fde8448b9d",
+			"c0515655-ce7e-474c-8fea-5d915793634c"
+		],
+		"fo_toelichting_id": [
+			"9ea08573-8792-4283-a8f0-37c3c12ec9be",
+			"cb7bbd90-2f8b-4c1a-9704-ff4b6d53c849",
+			"e7df11c3-841a-4393-b51d-efbd0cd1aac0",
+			"be110d51-ea5d-4549-bc37-a3d739e5b797"
+		],
+		"prefix": "13",
+		"id": "e0253abd-e528-42c3-8970-2d337901f02d",
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0,
+		"replaces": [
+			"718ea081-6bc6-45d3-84dc-f8aabf7a13e6"
+		]
+	},
+	{
+		"description": "Concept - De school ondersteunt het gebruik van wiskunde in verschillende leergebieden.",
+		"title": "Concept Kerndoel 15 Wiskunde in verschillende leergebieden",
+		"fo_uitwerking_id": [
+			"a78e38af-b531-4a04-a184-f3b570d31e2b",
+			"084d6fb9-fab1-4e7d-b1aa-22dbba0db987",
+			"0765e736-b37d-4012-b7f8-808417937e22",
+			"fe472165-8655-4770-b6b4-08d777f12e78"
+		],
+		"fo_toelichting_id": [
+			"610dd232-a8fb-4634-a580-5a0219530436",
+			"194f90ba-6980-4acf-914d-6409b9e0f784",
+			"679ac6c5-8984-4bf2-a3e7-c74ca0157ae8",
+			"c3981e78-09ab-4ad8-a8c1-58a0adb72f07",
+			"f36d4c84-a2ec-4d3d-83c7-e086d7728601"
+		],
+		"prefix": "15",
+		"id": "174c361a-a20b-478c-8aef-774b6b229723",
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0,
+		"replaces": [
+			"24509a03-2564-48bc-80ff-5df287166046"
+		]
+	},
+	{
+		"description": "Concept - De leerling verkent de betrouwbaarheid van verschillende bronnen.",
+		"title": "Concept Kerndoel 8 Bronnen verkennen",
+		"fo_uitwerking_id": [
+			"3019fdbb-5720-4ab9-a36c-e8296315bf68",
+			"678ba36e-8188-4c63-b024-c55ebc3b5e93",
+			"d8db6839-5ac5-489d-b575-ab28f3301edd"
+		],
+		"fo_toelichting_id": [
+			"fdc444f0-7e50-4e38-83b5-93098e947d82",
+			"c0b0414c-ff0d-46c1-8330-dbd055897cc4",
+			"0d11d45c-34f4-422e-b9cf-c67d980403dd"
+		],
+		"prefix": "8",
+		"id": "3c0fe5c0-92d5-4bb8-b444-b8c34f7d854b",
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0,
+		"replaces": [
+			"9f51f9d0-3f95-4179-a0f5-cc905e85be8e"
+		]
+	},
+	{
+		"description": "Concept - De leerling reflecteert op het proces en evalueert het product van een taalactiviteit.",
+		"title": "Concept Kerndoel 11 Reflecteren op taalactiviteiten",
+		"fo_uitwerking_id": [
+			"28a8e9fa-bef0-4a4d-9d54-e2d0b2e9c7b6",
+			"2acf621a-aa8a-48e8-9ca5-32f111e69481",
+			"03148df7-82b2-4311-bc69-58b6107f4417",
+			"a51376df-8674-422a-9946-e92126239349"
+		],
+		"fo_toelichting_id": [
+			"1febfda1-1b3c-41ba-b494-5facbee930c7",
+			"3393b1dd-e6f3-426e-9781-4512ddaf55a9"
+		],
+		"prefix": "11",
+		"id": "a6918da2-b58a-4452-b51c-10b03adee3d8",
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0,
+		"replaces": [
+			"35ae3aa0-5100-4e9a-9f8e-2d3281487d83"
+		]
+	},
+	{
+		"description": "Concept - De leerling verkent de waarde van literatuur.",
+		"title": "Concept Kerndoel 19 Waarde van literatuur",
+		"fo_uitwerking_id": [
+			"d88101fc-2aae-43cb-b21e-6f74337dc154",
+			"512d6152-be29-4199-89f9-3e839414c9fc",
+			"dd453fa7-344f-473c-b74d-c28d49df8c65",
+			"afae381b-a84f-48e0-9449-572a66438a15"
+		],
+		"fo_toelichting_id": [
+			"857ade5e-defe-47b3-8b43-74fdd22645e4",
+			"bdf46615-0b0d-435f-85e3-fd13ebd85978",
+			"8c4fcb41-7ff4-4b13-8623-c8bdf4a46820",
+			"010efddb-983d-4659-827b-2b742aafe7a8",
+			"7a599910-d1cc-44e4-afb8-8af6ad007f93",
+			"216afbe6-761d-4581-b6bd-6bc2b5fa9a5a"
+		],
+		"prefix": "19",
+		"id": "f98415bb-d833-4ffa-b74b-35a954783b9e",
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0,
+		"replaces": [
+			"d385da82-ed53-4ad6-9617-38bd67a44178"
+		]
+	},
+	{
+		"description": "Concept - De leerling toont inzicht in genrekenmerken van literatuur",
+		"title": "Concept Kerndoel 21 Literaire genres",
+		"fo_uitwerking_id": [
+			"fce4c74b-60c9-4f7d-9e5d-146a5f5f8d45",
+			"2075a809-5fbd-4718-bf90-271fc3262853",
+			"204fd921-3b3e-40b8-b5f0-db35efff53aa",
+			"a2428383-cd5f-43bc-b739-8e1fcfbdc07c"
+		],
+		"fo_toelichting_id": [
+			"f7f22e31-7c79-4dea-a0e9-f9d023c0a2ff",
+			"31319ccc-c853-4c5e-abd9-baeadffdc7c9",
+			"4ae18d95-93e7-4e07-939c-aab9b8255f8b",
+			"8070be06-22da-47bd-ba3b-21d9878a78fd",
+			"035e56cb-d3c0-43e4-b387-9756dc127717",
+			"9d399f0b-c72b-4b32-8b8b-b639e1e5d025",
+			"c34c445d-850a-4968-80b1-80c950ace2ae"
+		],
+		"prefix": "21",
+		"id": "b8a3149f-6eb4-4772-b48e-c06fcb9e7c42",
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0,
+		"replaces": [
+			"0f2d88a0-c594-48d2-835c-c1953eb284d0"
 		]
 	}
 ]
