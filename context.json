@@ -21,6 +21,12 @@
 							]
 						},
 						"prefix": { "type": "string" },
+						"niveau_id" : {
+							"allOf": [
+								{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
+								{ "items": { "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/niveau" } }
+							]
+						},
 						"karakteristiek": { "type": "string" }
 					},
 					"required": ["id", "title", "vakleergebied_id", "fo_domein_id"]
