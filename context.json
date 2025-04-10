@@ -119,7 +119,7 @@
 							]
 						}
 					},
-					"required": ["id", "title"]
+					"required": ["id"]
 				}
 			]
 		},
@@ -136,7 +136,7 @@
 							]
 						}
 					},
-					"required": ["id", "title"]
+					"required": ["id"]
 				}
 			]
 		},
