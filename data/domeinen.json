@@ -486,5 +486,4329 @@
 		"replaces": [
 			"7b38ff3a-19b8-4980-b282-5f27e9bf38c6"
 		]
+	},
+	{
+		"title": "Domein A Natuurwetenschappen en technologie",
+		"description": "Natuurwetenschappen en technologie",
+		"prefix": "A",
+		"id": "5f4b6d59-7bd0-4a2b-aa40-e9ec0641cd3d",
+		"fo_doelzin_id": [
+			"851c2cd0-36fd-40bc-be93-16ad18029947",
+			"563b68f5-c8e3-4d77-8207-20974b9bfe1c",
+			"d630e14a-ebb3-4afa-8b1f-96a435568628",
+			"31d51bcb-3f58-471e-82bf-4913e457580d",
+			"96597bf4-e8c1-4c37-a6ba-275adba34819",
+			"37234b7d-6a0e-4bca-9217-2f1971bfd3f0",
+			"a1e24a50-10c6-491b-81ec-0485816ca579",
+			"314663dc-0091-4253-bc1f-1798ac26ccdd",
+			"6d3de86e-9784-4fe9-b1a8-ecb5a7d9cca6",
+			"e13e8526-9128-4b4b-b6de-8f1ae024460f"
+		]
+	},
+	{
+		"title": "Domein B Mens, materie en energie",
+		"description": "Mens, materie en energie",
+		"prefix": "B",
+		"id": "bd908d39-4932-4770-b1df-932e3707bcbe",
+		"fo_doelzin_id": [
+			"c059e3e9-7296-4da8-9aed-4f607feaeb84",
+			"79e9aea0-9fff-4991-8b75-20790271c443",
+			"c4cbafd4-f6d4-44b8-9e10-e5b1efd285ee",
+			"2173e636-f9a8-4d42-8dce-6b2df47f7815",
+			"1bd2083d-64cd-417f-9da4-e785f420449f",
+			"5b80dc2d-4912-4dca-9c52-26185a0be30d",
+			"042ec037-dffb-4f09-995e-1cf9d57b977e",
+			"75276c64-3454-40ee-ba9b-3c59fbd17ecb",
+			"4c3070d0-41da-42a8-9ac6-3d36e2003ecd",
+			"88499f75-d66d-4017-9709-534a9da3f586"
+		]
+	},
+	{
+		"title": "Domein C Mens en levende systemen",
+		"description": "Mens en levende systemen",
+		"prefix": "C",
+		"id": "5cb26617-92ff-4b36-96d6-b490d16b65f9",
+		"fo_doelzin_id": [
+			"32656a8c-6169-44c0-a716-5e2d15fc149f",
+			"a998a719-e42e-47b3-90c3-9860779d83c6",
+			"c014ac5f-1675-43fa-9a39-c02a8c3200bf",
+			"5c0b645d-da07-482c-a319-0d889184837f",
+			"9e9576ce-51f1-4182-ae95-0ff05a24632c",
+			"5c55d517-213c-45c8-9e5e-9ef0af355c01"
+		]
+	},
+	{
+		"title": "Domein D Mens en ruimte",
+		"description": "Mens en ruimte",
+		"prefix": "D",
+		"id": "b323fdd3-af39-433b-bc87-be84af58330d",
+		"fo_doelzin_id": [
+			"775d64ab-bfcf-4f96-8f68-e651e9a39512",
+			"3c14f1b5-cb67-478c-bf26-5935b43ba882",
+			"0ae1e079-fbff-481f-b272-8c0094b19d8d",
+			"3690da14-e7a0-43b0-8e47-1c5d64ffe669",
+			"20274d71-5b2c-491d-8f53-62789bfda8c7"
+		]
+	},
+	{
+		"title": "Domein E Mens en samenleving",
+		"description": "Mens en samenleving",
+		"prefix": "E",
+		"id": "abd075f6-6427-42da-b9d4-4d4e7b81012d",
+		"fo_doelzin_id": [
+			"9aebd79f-215f-4fb8-83d6-f3dbe1fefe2d",
+			"e8023f96-0139-4196-adfd-a13383544f69",
+			"af1dfed9-7359-4b5c-a94d-9255302d167c",
+			"843813ca-bd1a-4d8f-a4db-20ef667c4e4f"
+		]
+	},
+	{
+		"title": "Mens en maatschappelijke vraagstukken",
+		"description": "Mens en maatschappelijke vraagstukken",
+		"prefix": "A",
+		"id": "afbf24c3-b799-423a-bac8-9ea25c238b2d",
+		"fo_doelzin_id": [
+			"3f59fd48-4e43-4ec1-b802-5b20b884a7f1",
+			"584f6e51-4dcc-4a20-9694-65e590031259",
+			"51b3aeff-91bb-478f-92bd-0c1115f15b41",
+			"3ed9dfb6-3436-4eb3-be8a-cf71ccb761b4"
+		]
+	},
+	{
+		"title": "Mens en ruimte",
+		"description": "Mens en ruimte",
+		"prefix": "B",
+		"id": "41c487ce-7179-4b94-9096-e5638bcc6dfb",
+		"fo_doelzin_id": [
+			"689c2ba3-45c9-47a3-a4bb-d441edfafe63",
+			"435fe6c1-f90e-4ac3-92ca-e766374ec7f6",
+			"e61ad62f-e780-4222-baed-0be54efa240a",
+			"fbc2cdc5-7735-4888-b441-b00eab3b3115",
+			"e26a87da-9274-4c6c-83ae-462363667ca8"
+		]
+	},
+	{
+		"title": "Mens en tijd",
+		"description": "Mens en tijd",
+		"prefix": "C",
+		"id": "4b4463ee-0f28-429d-b2d4-97b4034dec98",
+		"fo_doelzin_id": [
+			"0b420ce2-b681-4e2c-b385-17ac81a2a7b1",
+			"f7c29a4b-8bb5-48c5-8359-6c9d05b3c6ae",
+			"93420c06-4106-430b-b815-14b5cd361ffc",
+			"f074d1aa-be3c-41c9-85f1-396986337e8f",
+			"d7b14aa7-a19b-4329-8ff3-649f2d4cb95a",
+			"f5720c8e-d983-488e-9351-fc5b60c1747e"
+		]
+	},
+	{
+		"title": "Mens en samenleving",
+		"description": "Mens en samenleving",
+		"prefix": "D",
+		"id": "c995dd24-17ae-4168-8a4a-542e4c1878bf",
+		"fo_doelzin_id": [
+			"adecfb0c-21f8-4c9b-966a-7e18ddfbdccf",
+			"b6af0692-5b6d-40fe-9371-8fdfdf435f05",
+			"1625c7f7-ca75-4dea-b44f-1641b5ef0820",
+			"e10bf157-29a4-412f-b298-99a434ea8600",
+			"33526e07-bc99-4b1c-a0fd-b10f60cc985a",
+			"08ee29f9-9f6a-421f-b617-71166ee03b5d",
+			"5f310fc3-a9f3-4e2a-a6b3-dab76be17b54",
+			"a275ee22-d711-4db9-b001-e28f8fe92f42"
+		]
+	},
+	{
+		"title": "Mens en omgeving",
+		"description": "Mens en omgeving",
+		"prefix": "E",
+		"id": "eec88335-676e-4024-a33c-f784b5e5fdcb",
+		"fo_doelzin_id": [
+			"bcdf9c45-eb15-4ecd-9478-288642872885",
+			"0664d146-fc55-4696-b036-d8dca6087e7e",
+			"e2fab514-94b8-44ab-a53a-e9161c3175a5",
+			"c2e518b4-eadb-4a2b-8871-a43618567f10",
+			"74211748-8fe3-47f0-8808-ac37f9e85132"
+		]
+	},
+	{
+		"title": "Domein Communicatie Engels",
+		"description": "Communicatie Engels",
+		"prefix": "A",
+		"id": "f2f8de98-779e-4c8b-81ea-02feca16e84d",
+		"fo_doelzin_id": [
+			"97301bc4-23f9-48c7-8ec2-81e0ce69bc1c",
+			"3be162ac-52f1-4232-aca7-54d618bfb852",
+			"315d11ad-0282-4257-acf0-73e694007e23",
+			"0d487ad3-f5b4-4fb5-a3cc-8735eabfb676",
+			"5ffdbef2-c859-49f7-821d-3696e45cafb7",
+			"3dc636e2-65de-4154-9e77-f947df8d4d06",
+			"f49fe470-a841-435f-a7f7-8b28984512cd",
+			"12977de6-e003-4034-bef3-6928f2bf5450",
+			"6271bb91-5be1-49c2-a8a0-b884e4b1c96b",
+			"4704ad54-6f5c-424a-bbcc-85172eb7a783"
+		]
+	},
+	{
+		"title": "Domein Taal- en cultuurbewustzijn Engels",
+		"description": "Taal en cultuurbewustzijn Engels",
+		"prefix": "B",
+		"id": "a1b570fc-07a5-41a4-8b68-ba0108b9067c",
+		"fo_doelzin_id": [
+			"bbdd4705-1cb1-4714-b3f9-dca36ca5b449",
+			"d2eeef13-19c2-4a16-bbc8-c0293bbb56bd",
+			"c8ff837c-d5b8-41b4-8ce4-feca3490aabd",
+			"e0f6e66f-ad1e-4066-afa8-30065fd44362",
+			"fda77dca-9d9a-4dd3-86b0-9f5e2a560fdc"
+		]
+	},
+	{
+		"title": "Domein Communicatie MVT",
+		"description": "Communicatie MVT",
+		"prefix": "A",
+		"id": "d2412550-d944-4d05-a76d-5838315f4517",
+		"fo_doelzin_id": [
+			"7991dc00-4cb1-4990-a381-9f4601ddb8b8",
+			"210792da-86e0-490b-939b-9c55277858c2",
+			"a04adb08-ef7a-48b0-890c-52108145c255",
+			"25febcf1-4656-40ec-8d02-399bf7c2fd92",
+			"159366d8-a9ce-4ac5-b803-0dcc1f743402",
+			"4b30821b-32fc-45ba-8e87-d09290ac7aef",
+			"023ad4e6-08ad-46b4-bdc0-14d900c0c293",
+			"294f65be-eecf-4577-9f33-136b212f68b2",
+			"55c73039-f300-4239-b1f4-acbe15ef4d58",
+			"dbc0d817-fae9-4bef-8659-5840bd9ba8df",
+			"5a95f4c9-148b-46cb-b0be-371076987282",
+			"6d5f4cec-3ca7-491e-8e7f-ee89f236c329",
+			"08ae46a7-ee9a-40b4-8c2f-def968469dc5",
+			"dc9c72db-ee58-42b8-884f-321b88c0b67a"
+		]
+	},
+	{
+		"title": "Domein Taal- en cultuurbewustzijn MVT",
+		"description": "Taal- en cultuurbewustzijn MVT",
+		"prefix": "B",
+		"id": "9f660c97-c0b3-4274-82e2-57f64c89f4c2",
+		"fo_doelzin_id": [
+			"4495cac6-f84d-466c-b191-357c66611af6",
+			"7c06a291-1cdc-493d-8621-ccc5ab265577",
+			"f89c65a8-270e-47b1-a95c-84607b77339b",
+			"787f9acc-983e-4cbe-96bb-4b083a7273f7",
+			"a90e9b4e-657d-45b4-973a-51a4c1f1a333",
+			"617fbc32-0077-41ae-93ed-ffcf98ea1ee4"
+		]
+	},
+	{
+		"title": "Domein A Artistiek creatief vermogen",
+		"description": "Artistiek creatief vermogen",
+		"prefix": "A",
+		"id": "19fe37be-ca8b-4ed6-a774-fdf97adb6ebc",
+		"fo_doelzin_id": [
+			"488d0898-cd97-4068-a58a-51b7a5d083a8",
+			"76ba67f3-eae3-4168-b066-2239fea271de",
+			"e272a96d-c3ab-44b0-b7b9-f9835a7d9864",
+			"c5fd1bfb-5b11-4323-8bd6-c420e85e2eb7",
+			"77027311-13e3-4ad8-94a7-3b9c38963c3d",
+			"b225c62d-9828-47c5-bbe7-7f6b4c7257c9"
+		]
+	},
+	{
+		"title": "Domein B Maken en betekenis geven",
+		"description": "Maken en betekenis geven",
+		"prefix": "B",
+		"id": "60902cee-1326-47de-93da-9c27ddc2d5f9",
+		"fo_doelzin_id": [
+			"82436e49-e533-4496-a80e-db36e7a1f4cd",
+			"87158d55-a880-4596-b777-d36561d8fd20",
+			"1ee0a8b5-8899-4cbe-92a6-f33f6699d14a",
+			"32ade9e1-88c5-404c-a3d1-949fa41e91e8"
+		]
+	},
+	{
+		"title": "Domein C Meemaken en betekenis geven",
+		"description": "Meemaken en betekenis geven",
+		"prefix": "C",
+		"id": "4de7b7a4-940c-44eb-8540-718f1056214a",
+		"fo_doelzin_id": [
+			"76d62d5f-d9c3-4efa-8fdb-3577082a6e52",
+			"b0bb7fdb-68ad-46ea-9bad-e333203eb15a",
+			"d9aecf9b-af98-45a9-9b84-de9619b43bca",
+			"505ad186-1154-4bf3-82f8-c8d60364d4ec"
+		]
+	},
+	{
+		"title": "Domein Leren bewegen",
+		"description": "Leren bewegen",
+		"prefix": "A",
+		"id": "923d91fe-49ed-44ed-8bd4-78c56cfc9456",
+		"fo_doelzin_id": [
+			"bd57120b-ab0f-469b-8636-345e7b44ec88",
+			"bdf09d46-b369-46b8-b4d5-f8b33e74d19e",
+			"f9d67c2a-84c8-495c-80b8-3dc15c99c869",
+			"dc59e6cc-25d4-4d4c-9292-a41b433e388a"
+		]
+	},
+	{
+		"title": "Domein Samen bewegen",
+		"description": "Samen bewegen",
+		"prefix": "B",
+		"id": "c062b9a9-b225-426f-acc5-34b7e3b3a774",
+		"fo_doelzin_id": [
+			"f61634c9-32eb-4aae-b0c3-a59ac6c5a249",
+			"8baf3983-6478-47b7-ac47-8cfdecf50807",
+			"931c7f6c-6fcc-4c5e-95c5-182d595b55eb",
+			"7bff4e98-97b9-4232-b6e4-9cb09dd8d9de",
+			"5aed2806-026c-4714-a8f8-8bbf829cbe52",
+			"1e28ddcf-195a-4db7-b317-84f373ca4ac3"
+		]
+	},
+	{
+		"title": "Domein Betrokken bewegen",
+		"description": "Betrokken bewegen",
+		"prefix": "C",
+		"id": "e80d62da-4992-4090-a7e5-47144423ff47",
+		"fo_doelzin_id": [
+			"888ed4b5-bbb2-406f-bc89-c5a2304e4825",
+			"b7378a3a-44a9-4388-ada6-91b8aa8781f2",
+			"1c57629a-2077-4453-9c59-efc8a6be3bf0",
+			"ae842933-082f-4f70-8946-df728391807c"
+		]
+	},
+	{
+		"title": "Domein A Communicatie",
+		"description": "Domein A Communicatie",
+		"prefix": "A",
+		"id": "68181a93-c328-43ff-b172-d9a4486ac459",
+		"fo_subdomein_id": [
+			"42dd8eef-cc2e-446c-a4e7-d964f0ca80c4",
+			"dcf6c486-baf7-4ed2-aef3-5dc497690bbb",
+			"0217ef87-46e5-49d9-b507-c4382988cbab"
+		]
+	},
+	{
+		"title": "Domein B Taal",
+		"description": "Domein B Taal",
+		"prefix": "B",
+		"id": "40e27a4b-94cc-4bc4-8124-9e6e74595d2a",
+		"fo_subdomein_id": [
+			"e7768c6b-dc2c-4252-be2d-6022a95e007c",
+			"14dceb51-77e4-4ece-b8bc-3936d7898e2c"
+		]
+	},
+	{
+		"title": "Domein C Literatuur",
+		"description": "Domein C Literatuur",
+		"prefix": "C",
+		"id": "2c60d808-e2aa-4074-ab64-0fd24989e96a",
+		"fo_subdomein_id": [
+			"b98e2b6d-77da-4d33-bc8a-2175543808ea",
+			"b070a677-0fa7-4d02-9061-80d620b36fbf"
+		]
+	},
+	{
+		"title": "Domein A Communicatie",
+		"description": "Domein A Communicatie",
+		"prefix": "A",
+		"id": "77f335c7-354f-4373-962e-28596529ff83",
+		"fo_subdomein_id": [
+			"49749559-e251-4b03-837e-f614e5aea8ba",
+			"2c9325ea-83f3-4312-9ea2-b1f435a5c7ac",
+			"8de69079-32c8-42df-ac51-adeae66945d5"
+		]
+	},
+	{
+		"title": "Domein B Taal",
+		"description": "Domein B Taal",
+		"prefix": "B",
+		"id": "205fcba7-bde3-43f4-b079-004ff8094261",
+		"fo_subdomein_id": [
+			"91b728b6-4aed-45e0-a760-e2ac8224aad6",
+			"a203958c-b169-492f-ab7a-b93c2a4a5d7f"
+		]
+	},
+	{
+		"title": "Domein C Literatuur",
+		"description": "Domein C Literatuur",
+		"prefix": "C",
+		"id": "95ab7eea-94ea-48db-b855-0123c332c016",
+		"fo_subdomein_id": [
+			"49b66409-1093-41f9-97ee-7267ce1c795c",
+			"30af585f-e815-4782-b8ee-334e7a6158c1"
+		]
+	},
+	{
+		"title": "Domein A Communicatie",
+		"description": "Domein A Communicatie",
+		"prefix": "A",
+		"id": "09850260-cfef-4596-aa62-38841ffe63e9",
+		"fo_subdomein_id": [
+			"5d6610ef-ecd7-4f05-b16a-9e08943c683b",
+			"03ab2d65-671a-48f3-bb3f-bb3af334ed81",
+			"d0d9bd3b-fa6a-4522-a6c7-443f0ec5ce1e"
+		]
+	},
+	{
+		"title": "Domein B Taal",
+		"description": "Domein B Taal",
+		"prefix": "B",
+		"id": "c7588132-6908-4d74-aaa7-34327e0f3c1e",
+		"fo_subdomein_id": [
+			"b86f8d11-504b-4c34-bfea-f45f64593048",
+			"bb056b93-19fd-4768-9942-c900e15f4749"
+		]
+	},
+	{
+		"title": "Domein C Literatuur",
+		"description": "Domein C Literatuur",
+		"prefix": "C",
+		"id": "361b28d4-c418-4e0a-bcb3-4ee6940dac48",
+		"fo_subdomein_id": [
+			"8b3d07cb-b26d-4776-ba52-26ca59f141fa",
+			"d9e24826-e7c3-4abd-9e55-670e99ba221d"
+		]
+	},
+	{
+		"title": "Domein A Communicatie",
+		"description": "Domein A Communicatie",
+		"prefix": "A",
+		"id": "caa16005-cd7c-4bdd-8af1-c7de2d1bd69d",
+		"fo_subdomein_id": [
+			"10e63535-f180-43c9-8d45-06ca837523d3",
+			"b7d0e707-aee4-4144-aa51-38b0329e08cb",
+			"57025f16-85c4-4afb-a803-44ba7776f162"
+		]
+	},
+	{
+		"title": "Domein B Taal",
+		"description": "Domein B Taal",
+		"prefix": "B",
+		"id": "42da43f6-1bcf-4b46-bba8-9554f802b77a",
+		"fo_subdomein_id": [
+			"1d088549-47b6-4614-8729-f79fbf132679",
+			"b1f14770-0b18-4c49-9d5e-91125df8ab9a"
+		]
+	},
+	{
+		"title": "Domein C Literatuur",
+		"description": "Domein C Literatuur",
+		"prefix": "C",
+		"id": "6bd79def-b67c-4cbe-b37c-a68c8768ea9b",
+		"fo_subdomein_id": [
+			"b8561c22-fa14-4746-9f58-416bb08e40d4",
+			"2317f620-dc64-48ed-b0bc-122dfb06f9c9"
+		]
+	},
+	{
+		"title": "Domein A Communicatie",
+		"description": "Domein A Communicatie",
+		"prefix": "A",
+		"id": "4fee34be-b3be-47a2-84c9-8a78257c2a67",
+		"fo_subdomein_id": [
+			"d9943a7b-63a8-404a-a444-b3b8a8775d3f",
+			"d44999b0-a962-428f-b8cc-4f73e0b3e2b8",
+			"a31e321b-cf90-4846-b479-24ea4d67fba3"
+		]
+	},
+	{
+		"title": "Domein B Taal",
+		"description": "Domein B Taal",
+		"prefix": "B",
+		"id": "602a49f3-2e24-45c6-90d1-665b1e5283ce",
+		"fo_subdomein_id": [
+			"67312a68-52ab-445a-a0e2-283bde9d2fbb",
+			"0a443034-4515-4e4f-b32d-8983bc09da17"
+		]
+	},
+	{
+		"title": "Domein C Literatuur",
+		"description": "Domein C Literatuur",
+		"prefix": "C",
+		"id": "ac09049d-4909-4190-b05e-d81c4af02e1f",
+		"fo_subdomein_id": [
+			"3e41c5ef-7215-453f-bcbf-f5dc8c0028ae",
+			"cb91de48-68b3-46ea-bdc4-4229991420c9"
+		]
+	},
+	{
+		"title": "Domein A Taal leren en gebruiken",
+		"description": "Domein A Taal leren en gebruiken",
+		"prefix": "A",
+		"id": "90924e7b-9b17-4be5-9285-1d24355b1c7e",
+		"fo_subdomein_id": [
+			"a6848c81-cf6d-4cb5-8496-28466cbc7df6",
+			"4c63ce1b-c9a4-4ed5-90c6-d8ff6a48441d",
+			"673785a7-0852-4f6e-9272-5f2aa8937069"
+		]
+	},
+	{
+		"title": "Domein B Taalbewustzijn",
+		"description": "Domein B Taalbewustzijn",
+		"prefix": "B",
+		"id": "153e7f87-cbaa-46a1-a38f-2ed3be93908e",
+		"fo_subdomein_id": [
+			"dbfe9c3f-91fc-4422-819f-1a7f81540ec0",
+			"b60cfe05-b1f0-4a33-9363-05a28a34221e"
+		]
+	},
+	{
+		"title": "Domein C Cultuurbewustzijn",
+		"description": "Domein C Cultuurbewustzijn",
+		"prefix": "C",
+		"id": "5f03cfa6-fe4c-4c0a-88e7-c95e8f25c543",
+		"fo_subdomein_id": [
+			"a1e0bded-5901-40dd-9cdc-4166b514ff8b",
+			"4d11d128-bd6e-4fad-aa0b-e0237fe0fe71"
+		]
+	},
+	{
+		"title": "Domein A Taal leren en gebruiken",
+		"description": "Domein A Taal leren en gebruiken",
+		"prefix": "A",
+		"id": "20ec0e91-856d-4850-8eca-151b246e8176",
+		"fo_subdomein_id": [
+			"00f0076e-0120-4984-9d43-9bd7487ac956",
+			"fb20ed68-7ab7-46de-bd60-fa77b1cfadf2",
+			"78c8644b-0d51-47f5-a617-fcf1c9084a1d"
+		]
+	},
+	{
+		"title": "Domein B Taalbewustzijn",
+		"description": "Domein B Taalbewustzijn",
+		"prefix": "B",
+		"id": "149a22f3-89a5-4df7-afbb-cbb3bdba993b",
+		"fo_subdomein_id": [
+			"c3afb1d2-c852-4685-98b7-4f6a5f82c6d9",
+			"7b7ef6d1-95fb-424c-a8bc-9c646f0cdc55"
+		]
+	},
+	{
+		"title": "Domein C Cultuurbewustzijn",
+		"description": "Domein C Cultuurbewustzijn",
+		"prefix": "C",
+		"id": "131f90cf-42eb-4302-9907-b7b0163eea93",
+		"fo_subdomein_id": [
+			"891b9b49-8450-42f3-8b7d-421b4d0924dc",
+			"6c3d1d5c-9422-48db-8225-af4363d0cf78"
+		]
+	},
+	{
+		"title": "Domein A Taal leren en gebruiken",
+		"description": "Domein A Taal leren en gebruiken",
+		"prefix": "A",
+		"id": "71fb86eb-596d-4dda-b2f4-66a838e87642",
+		"fo_subdomein_id": [
+			"358b4596-b601-4898-8243-ddd3f074b6ee",
+			"fd55c9d7-0c8b-4fec-a704-5a6c28d1dc2c",
+			"467c9733-c888-4e3f-b072-26cedd5a155b"
+		]
+	},
+	{
+		"title": "Domein B Taalbewustzijn",
+		"description": "Domein B Taalbewustzijn",
+		"prefix": "B",
+		"id": "81c4f09f-aa17-4e8c-bab7-27e2a81a0bb6",
+		"fo_subdomein_id": [
+			"048a7609-ec6f-4429-bf35-57711ee6498c",
+			"b62d4893-6745-4f48-a6ef-8a4f0b9f335d"
+		]
+	},
+	{
+		"title": "Domein C Cultuurbewustzijn",
+		"description": "Domein C Cultuurbewustzijn",
+		"prefix": "C",
+		"id": "5cba7a95-6f3e-4268-b2c0-443aea3299b0",
+		"fo_subdomein_id": [
+			"fa79ec7e-1f3d-4277-b647-0fe5a7d67be2",
+			"e30d33e7-e4bd-457c-8372-432b0b27d4f0"
+		]
+	},
+	{
+		"title": "Keuzedomein D Schrijfverdieping",
+		"description": "Keuzedomein D Schrijfverdieping",
+		"prefix": "D",
+		"id": "1a9acfc6-b067-43eb-828f-e6e827da95f7",
+		"fo_doelzin_id": [
+			"8e0a4e45-bf70-478f-8fff-d1ee85887b87"
+		]
+	},
+	{
+		"title": "Keuzedomein E Taalonderzoek",
+		"description": "Keuzedomein E Taalonderzoek",
+		"prefix": "E",
+		"id": "8e2a7ff2-be85-4cbd-8305-e02b709136ef",
+		"fo_doelzin_id": [
+			"d592f5f6-7391-4ebb-8a97-9e1ac47027ef"
+		]
+	},
+	{
+		"title": "Keuzedomein F Cultuuronderzoek",
+		"description": "Keuzedomein F Cultuuronderzoek",
+		"prefix": "F",
+		"id": "90eeeff4-1d80-4c93-9665-512f1eb19671",
+		"fo_doelzin_id": [
+			"bcc5d2ae-de37-456d-943f-e12564f93558"
+		]
+	},
+	{
+		"title": "Domein A Taal leren en gebruiken",
+		"description": "Domein A Taal leren en gebruiken",
+		"prefix": "A",
+		"id": "7fa38ce0-c3c6-488a-ad85-afbf6a2d3a6a",
+		"fo_subdomein_id": [
+			"63e5c346-fad6-4a0b-94c5-10b8b1a63430",
+			"d5afad64-1a02-4441-93ea-d5f317de0645",
+			"66e0255f-ce71-43ab-ac3f-b1113031f7a6"
+		]
+	},
+	{
+		"title": "Domein B Taalbewustzijn",
+		"description": "Domein B Taalbewustzijn",
+		"prefix": "B",
+		"id": "30a688b3-e2d5-4f62-8025-2d5f8f268f1a",
+		"fo_subdomein_id": [
+			"f5a02134-3df5-4908-b625-5fa479c8e431",
+			"381306a1-ed83-4e8d-aaf1-948c98db9dd0"
+		]
+	},
+	{
+		"title": "Domein C Cultuurbewustzijn",
+		"description": "Domein C Cultuurbewustzijn",
+		"prefix": "C",
+		"id": "97cfaa90-88e7-4b24-8c74-06aff83d99d0",
+		"fo_subdomein_id": [
+			"8beb30f5-5fe0-4f10-9f86-887a89be2e06",
+			"bbac5fa5-1747-4611-9f40-57441633f2d0"
+		]
+	},
+	{
+		"title": "Keuzedomein D Schrijfverdieping",
+		"description": "Keuzedomein D Schrijfverdieping",
+		"prefix": "D",
+		"id": "89e3ad35-64e0-4b1f-8674-5476520523af",
+		"fo_doelzin_id": [
+			"85973afe-4dd6-4d4a-bb73-deee225036c9"
+		]
+	},
+	{
+		"title": "Keuzedomein E Taalonderzoek",
+		"description": "Keuzedomein E Taalonderzoek",
+		"prefix": "E",
+		"id": "5fcf9b28-9d1c-44e3-a132-f80f35ef2037",
+		"fo_doelzin_id": [
+			"5935851a-7277-4de1-bfd6-bd62ab548ad9"
+		]
+	},
+	{
+		"title": "Keuzedomein F Cultuuronderzoek",
+		"description": "Keuzedomein F Cultuuronderzoek",
+		"prefix": "F",
+		"id": "dfc99b9a-1ebe-47ca-91da-19bf3985baa7",
+		"fo_doelzin_id": [
+			"5b5bc4da-6879-4328-8aea-3749c298ab7b"
+		]
+	},
+	{
+		"title": "Domein A Taal leren en gebruiken",
+		"description": "Domein A Taal leren en gebruiken",
+		"prefix": "A",
+		"id": "7c343ff9-64f7-4d8d-b678-03ac2447b66d",
+		"fo_subdomein_id": [
+			"7e67341a-0947-472b-88f9-cacf77b349a6",
+			"7bde1a40-f013-4cbf-97ea-72ba193c1296",
+			"c2283d93-f755-4c15-a699-95b12dccfa6d"
+		]
+	},
+	{
+		"title": "Domein B Taalbewustzijn",
+		"description": "Domein B Taalbewustzijn",
+		"prefix": "B",
+		"id": "192e1400-8928-4d62-9970-df2db782edb8",
+		"fo_subdomein_id": [
+			"58405b54-982e-4200-95bf-9341a1f53e84",
+			"3c54de1f-99fe-4737-9022-27662c59f1c5"
+		]
+	},
+	{
+		"title": "Domein C Cultuurbewustzijn",
+		"description": "Domein C Cultuurbewustzijn",
+		"prefix": "C",
+		"id": "4441476c-b6a7-4098-8dab-c23a4dff215a",
+		"fo_subdomein_id": [
+			"d6e0a79b-b426-4e45-b6ef-123b358d4428",
+			"b7b59b8b-18aa-4c4c-8453-a7c7935bc867"
+		]
+	},
+	{
+		"title": "Keuzedomein D Schrijfverdieping",
+		"description": "Keuzedomein D Schrijfverdieping",
+		"prefix": "D",
+		"id": "9bfe1e22-163f-4eb8-8596-2758692c71e1",
+		"fo_doelzin_id": [
+			"0e938f11-37c5-4102-a0a1-0e86adad5774"
+		]
+	},
+	{
+		"title": "Keuzedomein E Taalonderzoek",
+		"description": "Keuzedomein E Taalonderzoek",
+		"prefix": "E",
+		"id": "c81143ae-acd8-41c3-9e4d-e6d32a7779c1",
+		"fo_doelzin_id": [
+			"8c3bb722-cd5c-452f-a2c6-506e5edb023c"
+		]
+	},
+	{
+		"title": "Keuzedomein F Cultuuronderzoek",
+		"description": "Keuzedomein F Cultuuronderzoek",
+		"prefix": "F",
+		"id": "2491fa9b-7921-4577-81d1-1f57d54aa293",
+		"fo_doelzin_id": [
+			"79213eb0-5cbf-48c8-8920-bcce67c1a0a0"
+		]
+	},
+	{
+		"title": "Domein A Tekstontsluiting",
+		"description": "Domein A Tekstontsluiting",
+		"prefix": "A",
+		"id": "5fb93e23-15b1-454a-bfd0-2eb178bedea1",
+		"fo_subdomein_id": [
+			"bfac91f4-67cd-4b8e-be57-4f101320da15",
+			"efffacc4-d9df-45c2-a8ba-fc33291977b0"
+		]
+	},
+	{
+		"title": "Domein B Tekst in context",
+		"description": "Domein B Tekst in context",
+		"prefix": "B",
+		"id": "cf4d0a67-e315-4b59-893e-bd7a2295fdfc",
+		"fo_doelzin_id": [
+			"b2280108-74ec-4bf4-bf0b-0e51793968fb",
+			"be4efb6c-7c12-4f9f-8afa-b83f8d4a700c"
+		]
+	},
+	{
+		"title": "Domein C Tekst vanuit later perspectief",
+		"description": "Domein C Tekst vanuit later perspectief",
+		"prefix": "C",
+		"id": "61307e8d-2fd3-4908-b9a1-03f55d74b467",
+		"fo_subdomein_id": [
+			"94c102a3-35e6-484e-940b-2e9697b0b7c4",
+			"f607275e-e71b-4683-9a57-fb5722ab07d8"
+		]
+	},
+	{
+		"title": "Domein D Tekst en leerling",
+		"description": "Domein D Tekst en leerling",
+		"prefix": "D",
+		"id": "f39fed40-2cd6-4fd4-bc9d-bc16314c181e",
+		"fo_subdomein_id": [
+			"b9bb129b-7235-4b27-9797-9d975f878bd7",
+			"cf722837-1691-4802-b6dd-4528825c249b"
+		]
+	},
+	{
+		"title": "Keuzedomein E Cultuurbeschouwing",
+		"description": "Keuzedomein E Cultuurbeschouwing",
+		"prefix": "E",
+		"id": "c95c2cb1-5813-4844-8616-7716e5545b95",
+		"fo_doelzin_id": [
+			"c8de4fd0-023d-461c-a47f-229a06ce8b22",
+			"63845abe-655b-4263-b9da-93dfa8e816ce",
+			"df4ffde2-eb44-4256-a9c4-eee81ced1a11"
+		]
+	},
+	{
+		"title": "Keuzedomein F Literatuurbeschouwing",
+		"description": "Keuzedomein F Literatuurbeschouwing",
+		"prefix": "F",
+		"id": "1d5ec919-bfe7-4d48-b86a-dea9e06df19a",
+		"fo_doelzin_id": [
+			"ac42e080-ac9e-42fb-96d6-033117b90965",
+			"a5963d1f-a209-4de5-952f-fe50b5f4ecf7",
+			"729c4186-a0ba-4d72-a627-7146e2ee4526"
+		]
+	},
+	{
+		"title": "Keuzedomein G Receptie",
+		"description": "Keuzedomein G Receptie",
+		"prefix": "G",
+		"id": "2c84fe8f-be44-4d80-8291-33c0f608e65c",
+		"fo_doelzin_id": [
+			"d3d3646e-2155-4701-ad45-ac0473ab877f",
+			"0b8bcc83-b8d4-4d77-92d0-ea82de654a1e",
+			"dd5c5f50-44f5-4f68-9b4c-5c2cb8328091"
+		]
+	},
+	{
+		"title": "Keuzedomein H Taalbeschouwing",
+		"description": "Keuzedomein H Taalbeschouwing",
+		"prefix": "H",
+		"id": "a1223202-de36-4389-885d-433e1ebae6f3",
+		"fo_doelzin_id": [
+			"140b2591-e9f5-4a86-b49b-d481f507fbc3",
+			"1a9d05eb-3451-4b74-b866-d29209f0a0a0",
+			"19cc5d3b-0106-47c2-b621-edd0529b8d41"
+		]
+	},
+	{
+		"title": "Keuzedomein I Vertaalkunde",
+		"description": "Keuzedomein I Vertaalkunde",
+		"prefix": "I",
+		"id": "61641e7e-2633-4f63-ab44-57313a24f884",
+		"fo_doelzin_id": [
+			"345e60cc-caa2-4dcc-bbe9-0d10efd4b89b",
+			"b086c430-c939-4d26-a010-d396d9020c50",
+			"9d034499-2634-44f5-9fb6-0157c4d231bc"
+		]
+	},
+	{
+		"title": "Domein A Tekstontsluiting",
+		"description": "Domein A Tekstontsluiting",
+		"prefix": "A",
+		"id": "8f48eb4d-55e5-4162-8d48-ce2b23c4ffd9",
+		"fo_subdomein_id": [
+			"b7a26058-5ad3-45f5-8d4e-0cfd59e639ca",
+			"94449126-4180-4fef-ad49-936d572cec79"
+		]
+	},
+	{
+		"title": "Domein B Tekst in context",
+		"description": "Domein B Tekst in context",
+		"prefix": "B",
+		"id": "402c8f69-e28c-4d87-b121-6ae531c660b2",
+		"fo_doelzin_id": [
+			"f35158cc-77ac-402c-bb1b-76e03f459531",
+			"13adb0b3-0ed3-44ff-a6c3-c95b50e13f71"
+		]
+	},
+	{
+		"title": "Domein C Tekst vanuit later perspectief",
+		"description": "Domein C Tekst vanuit later perspectief",
+		"prefix": "C",
+		"id": "a2b60d90-e2da-48ff-bda3-51647b429d0b",
+		"fo_subdomein_id": [
+			"7e34f2d8-771b-4b72-83fe-8caec4bbbfb6",
+			"45293fc5-5b09-4450-9b2a-3ccdc3a34cba"
+		]
+	},
+	{
+		"title": "Domein D Tekst en leerling",
+		"description": "Domein D Tekst en leerling",
+		"prefix": "D",
+		"id": "17d034b3-0c9f-4bd5-847e-72bb0d87b924",
+		"fo_subdomein_id": [
+			"b8b32e9b-f8b3-4bb8-9c57-d5ead59744de",
+			"f10926af-98ed-4632-a1a3-b5177985a71a"
+		]
+	},
+	{
+		"title": "Keuzedomein E Cultuurbeschouwing",
+		"description": "Keuzedomein E Cultuurbeschouwing",
+		"prefix": "E",
+		"id": "1c11b8da-f0c1-4daa-a9de-e96c9aa8df7b",
+		"fo_doelzin_id": [
+			"08e9fbfb-56e5-4dfa-b355-9a8dd3db6a39",
+			"a1e83fc2-caf2-4c5d-906b-319c34f456f5",
+			"0ca16ee4-d327-40b7-a26a-f24ac0d8c701"
+		]
+	},
+	{
+		"title": "Keuzedomein F Literatuurbeschouwing",
+		"description": "Keuzedomein F Literatuurbeschouwing",
+		"prefix": "F",
+		"id": "ce765c6f-9fc5-43f3-8020-926a7647b001",
+		"fo_doelzin_id": [
+			"21b8470d-9511-4f7c-9acd-c2d5579f6bc9",
+			"ce7ca4ae-611a-4cf0-a8e7-196b251c18dd",
+			"c33fbb04-0eaa-4047-ade3-25fc7de5d2dd"
+		]
+	},
+	{
+		"title": "Keuzedomein G Receptie",
+		"description": "Keuzedomein G Receptie",
+		"prefix": "G",
+		"id": "6217b870-399d-4a77-97ea-1095867396cc",
+		"fo_doelzin_id": [
+			"2cded517-b178-4bb5-8c49-0a7c2d484148",
+			"f5b6cb6a-bc46-48ec-b395-df009be10cdc",
+			"79f425d4-bd86-4703-bf7e-cc740a8a43d3"
+		]
+	},
+	{
+		"title": "Keuzedomein H Taalbeschouwing",
+		"description": "Keuzedomein H Taalbeschouwing",
+		"prefix": "H",
+		"id": "d35e7b39-f968-4520-9f89-7f8d3bafff4b",
+		"fo_doelzin_id": [
+			"44cf4ef0-15fc-4946-9d31-c702b17ed186",
+			"e1bd6120-866f-46d8-9f81-110d80d1180d",
+			"d3197172-6d47-46a2-9d1a-a8b0be232e09"
+		]
+	},
+	{
+		"title": "Keuzedomein I Vertaalkunde",
+		"description": "Keuzedomein I Vertaalkunde",
+		"prefix": "I",
+		"id": "b00e42a9-4be1-48b2-9ec4-6397d1e8f9ca",
+		"fo_doelzin_id": [
+			"beb7e401-2e08-4750-8604-b91b73a5dde0",
+			"47bebd50-fbe3-4bfa-9fb4-660afd2e1992",
+			"a5536bbb-f4d3-4c3c-84e2-0de3b3fb6a26"
+		]
+	},
+	{
+		"title": "Domein A  Communicatie",
+		"description": "Domein A Communicatie",
+		"prefix": "A",
+		"id": "e40ed910-bb50-422e-9bd9-e68f5effc4f6",
+		"fo_subdomein_id": [
+			"c758a59d-15b2-4cd0-8973-b87655adafa1",
+			"469dbf6e-bc9d-43fa-ba1b-5442de5a6fec",
+			"0644c472-9f37-4d8f-b4aa-461515767ebe"
+		]
+	},
+	{
+		"title": "Domein B Taalbewustzijn",
+		"description": "Domein B Taalbewustzijn",
+		"prefix": "B",
+		"id": "28c6a6b9-b2d8-4ed5-b7c3-c16fb4cc1a31",
+		"fo_subdomein_id": [
+			"37fc60c7-c383-467b-a4ae-549d23cf5cdf",
+			"6eafc183-018a-41fe-b2db-5c23ceb0818b"
+		]
+	},
+	{
+		"title": "Domein C Cultuurbewustzijn",
+		"description": "Domein C Cultuurbewustzijn",
+		"prefix": "C",
+		"id": "36db0e3b-4cf9-4122-9471-2d82a673a53e",
+		"fo_subdomein_id": [
+			"4068527a-6233-4f0a-b396-381f4d7ad1b2",
+			"b5820863-763b-4661-9287-9ef47520c675"
+		]
+	},
+	{
+		"title": "Domein A  Communicatie",
+		"description": "Domein A Communicatie",
+		"prefix": "A",
+		"id": "22f82c31-11a1-411e-aebe-705a537b94da",
+		"fo_subdomein_id": [
+			"2c84a9e6-f089-4438-b6e0-1f467016df90",
+			"e01d554c-4e54-4ab2-b0a1-6d4d82513508",
+			"3c1e4400-ffe0-463b-bb2f-fcba25d9dde6"
+		]
+	},
+	{
+		"title": "Domein B Taalbewustzijn",
+		"description": "Domein B Taalbewustzijn",
+		"prefix": "B",
+		"id": "956507a9-d538-401f-8552-b61d7e53e3b6",
+		"fo_subdomein_id": [
+			"3ea05713-5fac-4f94-8301-d6da30538b36",
+			"a2e18231-0496-4878-8d76-a83d4fd120f8"
+		]
+	},
+	{
+		"title": "Domein C Cultuurbewustzijn",
+		"description": "Domein C Cultuurbewustzijn",
+		"prefix": "C",
+		"id": "933e0163-5eb7-47a6-b20f-de414c35ef2d",
+		"fo_subdomein_id": [
+			"99092ab3-15cc-4933-9f77-0a0c80551988",
+			"2292e111-8231-4a55-8c99-9c31e3b28889"
+		]
+	},
+	{
+		"title": "Domein A  Communicatie",
+		"description": "Domein A Communicatie",
+		"prefix": "A",
+		"id": "c87bfe67-7de7-4f51-8a15-a5c6d8ff4642",
+		"fo_subdomein_id": [
+			"4e69d8cd-d976-4108-b783-8014446311d6",
+			"9eb0a4b4-e0a2-4a25-a700-0c0c248060d2",
+			"8ca7c5f7-14e1-4a9d-b260-e35b7d476c83"
+		]
+	},
+	{
+		"title": "Domein B Taalbewustzijn",
+		"description": "Domein B Taalbewustzijn",
+		"prefix": "B",
+		"id": "315847c8-c7ca-4b77-be27-4aca992613c2",
+		"fo_subdomein_id": [
+			"a9c133e3-5695-4ec8-9ee1-55554ce442fb",
+			"0f0838d1-dca8-41b1-b23d-212aabe053a1"
+		]
+	},
+	{
+		"title": "Domein C Cultuurbewustzijn",
+		"description": "Domein C Cultuurbewustzijn",
+		"prefix": "C",
+		"id": "8af3579d-8627-409d-929b-67b6767bcfa6",
+		"fo_subdomein_id": [
+			"8489e8c0-636f-43fc-a2fd-cb7a5d6c32d4",
+			"44baa553-56ed-4744-aab5-ad5623401707"
+		]
+	},
+	{
+		"title": "Domein A  Communicatie",
+		"description": "Domein A Communicatie",
+		"prefix": "A",
+		"id": "7259d368-7882-45a2-b6ca-545de78c9948",
+		"fo_subdomein_id": [
+			"524895d8-c7df-44af-9cb2-6ba9bdcc039e",
+			"44efef55-ca56-4d35-8a87-c902a3ea52ce",
+			"5c835b97-0f9a-45cd-a8a7-039529e0ed23"
+		]
+	},
+	{
+		"title": "Domein B Taalbewustzijn",
+		"description": "Domein B Taalbewustzijn",
+		"prefix": "B",
+		"id": "44772888-6144-4da3-9f19-bd6ffc29e595",
+		"fo_subdomein_id": [
+			"84970e0e-4954-46ee-83e2-886c7d3b1b98",
+			"322f7dcf-8a3f-4b64-b631-7c1090468abc"
+		]
+	},
+	{
+		"title": "Domein C Cultuurbewustzijn",
+		"description": "Domein C Cultuurbewustzijn",
+		"prefix": "C",
+		"id": "21f48bf0-31ea-4451-9672-a981e64cef25",
+		"fo_subdomein_id": [
+			"bd4ab22a-6595-46e6-968c-3f2f223b8590",
+			"1ba22e83-a5fd-480a-b15e-38354bb3e8c6"
+		]
+	},
+	{
+		"title": "Domein A  Communicatie",
+		"description": "Domein A Communicatie",
+		"prefix": "A",
+		"id": "2f2e2c66-0299-4184-9293-a506ad8788cd",
+		"fo_subdomein_id": [
+			"7b485c5b-04ad-4dfd-8e46-a3c7472f8ed1",
+			"eccba603-6778-4f92-aab2-8eaf91847727",
+			"760d0185-bc22-4eb8-8c9c-01e78981de80"
+		]
+	},
+	{
+		"title": "Domein B Taalbewustzijn",
+		"description": "Domein B Taalbewustzijn",
+		"prefix": "B",
+		"id": "1e5334f6-4523-4f1e-8ce0-548315433747",
+		"fo_subdomein_id": [
+			"ff9e9d05-8436-4aa4-a9f6-89c355fb6b9a",
+			"3cc2deed-de60-414c-8c93-85b80efc6d88"
+		]
+	},
+	{
+		"title": "Domein C Cultuurbewustzijn",
+		"description": "Domein C Cultuurbewustzijn",
+		"prefix": "C",
+		"id": "5374fa4b-3164-46aa-a28d-594e5fd64ea3",
+		"fo_subdomein_id": [
+			"71283ba4-8f4f-4f7b-87ba-e19cfbc3d2ab",
+			"617d53c1-6c01-4878-9ab0-5438ee57b46f"
+		]
+	},
+	{
+		"title": "Domein A  Communicatie",
+		"description": "Domein A Communicatie",
+		"prefix": "A",
+		"id": "2975aad7-d3ab-4dea-8edd-8ecdceec4d84",
+		"fo_subdomein_id": [
+			"3e574f17-909d-49ec-abaa-9e8529124dba",
+			"f505a1e8-344b-4c2b-8475-582d5ac0df54",
+			"8859772b-d514-4fc3-bc0c-1c09af6a7245"
+		]
+	},
+	{
+		"title": "Domein B Taalbewustzijn",
+		"description": "Domein B Taalbewustzijn",
+		"prefix": "B",
+		"id": "f7a60b35-6b1c-4099-acec-ab1ad9cd9867",
+		"fo_subdomein_id": [
+			"93c4d543-83fa-45dc-8496-9564dfc6e712",
+			"c84293e9-b496-48c9-b5d7-4662c710c576"
+		]
+	},
+	{
+		"title": "Domein C Cultuurbewustzijn",
+		"description": "Domein C Cultuurbewustzijn",
+		"prefix": "C",
+		"id": "277af445-cc22-42c6-a83d-ce6f8b377f19",
+		"fo_subdomein_id": [
+			"c08b75ce-41f6-45ab-a5d5-f9bec9617b29",
+			"13552afa-461a-4a56-b6ee-a6bc2758bb7e"
+		]
+	},
+	{
+		"title": "Domein A  Communicatie",
+		"description": "Domein A Communicatie",
+		"prefix": "A",
+		"id": "ebbb666e-8773-48cf-938b-0128106d37ca",
+		"fo_subdomein_id": [
+			"8a2f7e29-3b30-4683-95cf-769117deb139",
+			"e62fd081-e838-40ad-845a-1aa1f45ec260",
+			"f96b9b91-dee7-41a4-a956-cc15791619ee"
+		]
+	},
+	{
+		"title": "Domein B Taalbewustzijn",
+		"description": "Domein B Taalbewustzijn",
+		"prefix": "B",
+		"id": "b5396f67-afcd-4fb3-9e05-1378db34367c",
+		"fo_subdomein_id": [
+			"893f890c-12a0-49bf-86b4-df6c9ea8e931",
+			"e740db6f-f029-40ee-9995-078ea3353e1a"
+		]
+	},
+	{
+		"title": "Domein C Cultuurbewustzijn",
+		"description": "Domein C Cultuurbewustzijn",
+		"prefix": "C",
+		"id": "b5ddfa8a-98fa-40c8-9b5f-d2342ec02d28",
+		"fo_subdomein_id": [
+			"fa0148a3-8310-4081-bd55-9244b9e05ebd",
+			"304571e7-5a38-49f2-a992-c5330bd6cb6b"
+		]
+	},
+	{
+		"title": "Domein A  Communicatie",
+		"description": "Domein A Communicatie",
+		"prefix": "A",
+		"id": "504644c3-fcb7-4a33-a844-5c19037816a7",
+		"fo_subdomein_id": [
+			"2dfb6126-6a07-44b4-812d-6bbb4afb623e",
+			"7bcb5eaa-0de9-40a6-9fb2-ca006224e873",
+			"061e6995-3d4f-4257-b4de-a4681d7f1750"
+		]
+	},
+	{
+		"title": "Domein B Taalbewustzijn",
+		"description": "Domein B Taalbewustzijn",
+		"prefix": "B",
+		"id": "8e24939d-07c2-4c85-9f25-21ed63c9c04f",
+		"fo_subdomein_id": [
+			"3379933f-a7b1-4958-98fe-ffe05f424aef",
+			"0eeac066-3fbc-4fcb-aab7-fe866889f80c"
+		]
+	},
+	{
+		"title": "Domein C Cultuurbewustzijn",
+		"description": "Domein C Cultuurbewustzijn",
+		"prefix": "C",
+		"id": "0453a6d9-f0c0-4357-a8a7-24f840d13aa7",
+		"fo_subdomein_id": [
+			"86fdbda0-e783-400e-b58e-bc273f864e97",
+			"fc97b2ff-8021-45a4-b556-0e5adaf11cee"
+		]
+	},
+	{
+		"title": "Domein A  Communicatie",
+		"description": "Domein A Communicatie",
+		"prefix": "A",
+		"id": "f1e91f67-c462-4aef-a04c-8116ef002fed",
+		"fo_subdomein_id": [
+			"30c3c874-5367-4591-bd46-e4db3a7f1f45",
+			"559ad66f-c127-4788-8a5c-8a35a2d1eda0",
+			"75905d45-287e-47ee-8786-7ae1ab8384f7"
+		]
+	},
+	{
+		"title": "Domein B Taalbewustzijn",
+		"description": "Domein B Taalbewustzijn",
+		"prefix": "B",
+		"id": "9ea55664-6ad5-49c1-824f-533386a36b17",
+		"fo_subdomein_id": [
+			"9ad0ca96-aead-4288-aac3-31964f49f524",
+			"7d9e3f1b-b8d6-4983-9df5-18cd88e69f83"
+		]
+	},
+	{
+		"title": "Domein C Cultuurbewustzijn",
+		"description": "Domein C Cultuurbewustzijn",
+		"prefix": "C",
+		"id": "02475ccf-cc6c-4fe1-8736-2a6d73b996d1",
+		"fo_subdomein_id": [
+			"fdfb8702-a9d1-4a2c-9fb4-d2e5f2ed204a",
+			"6d4b540e-aa5a-41c2-b9a9-2cf3452d609f"
+		]
+	},
+	{
+		"title": "Domein A  Communicatie",
+		"description": "Domein A Communicatie",
+		"prefix": "A",
+		"id": "593fe305-9789-49f9-aa98-e4889dc4cd3d",
+		"fo_subdomein_id": [
+			"a137e05e-b89c-4811-8c49-23bf5952faa8",
+			"8a9626b1-4e7c-4e15-9feb-07f3bc786d1b",
+			"0e19c6ed-b7c6-4c88-84ad-44779d323295"
+		]
+	},
+	{
+		"title": "Domein B Taalbewustzijn",
+		"description": "Domein B Taalbewustzijn",
+		"prefix": "B",
+		"id": "37d792dc-33d3-4bc6-9a27-07746518a94f",
+		"fo_subdomein_id": [
+			"7c848fb5-e61b-4ff0-8df0-f8f025f95008",
+			"92d30fd0-5b83-4f10-9df6-8ba26a18e64a"
+		]
+	},
+	{
+		"title": "Domein C Cultuurbewustzijn",
+		"description": "Domein C Cultuurbewustzijn",
+		"prefix": "C",
+		"id": "2a43063b-0fbd-4f7e-a055-38fd674540ce",
+		"fo_subdomein_id": [
+			"8b18334a-b861-4367-9676-e6b8fa742843",
+			"8889d954-831e-46fa-b85a-f589d5bd7fc2"
+		]
+	},
+	{
+		"title": "Domein A  Communicatie",
+		"description": "Domein A Communicatie",
+		"prefix": "A",
+		"id": "e17a425b-f6ef-4118-b117-d2ad563eaa39",
+		"fo_subdomein_id": [
+			"c457d8a3-8e1f-426f-a1c3-46b7a0fbd85d",
+			"907a829c-9aed-4e48-8997-18d797fa42e4",
+			"e12fcaec-3dc7-4d70-851b-349883273777"
+		]
+	},
+	{
+		"title": "Domein B Taalbewustzijn",
+		"description": "Domein B Taalbewustzijn",
+		"prefix": "B",
+		"id": "c1acd67f-5e02-4d57-8270-5d6db3a80b2d",
+		"fo_subdomein_id": [
+			"e79db0f0-4b18-4983-8ad6-6d069fa6308f",
+			"384889f0-6420-40af-9ae8-6e61eebad3f2"
+		]
+	},
+	{
+		"title": "Domein C Cultuurbewustzijn",
+		"description": "Domein C Cultuurbewustzijn",
+		"prefix": "C",
+		"id": "33be0ccd-50d1-49da-b0df-44c1ffd4ddb1",
+		"fo_subdomein_id": [
+			"7f2fe89e-8f3e-4f8d-97f7-3280edde5675",
+			"5f0ae41b-619d-4571-a3dd-1ea541b092db"
+		]
+	},
+	{
+		"title": "Domein A  Communicatie",
+		"description": "Domein A Communicatie",
+		"prefix": "A",
+		"id": "05528af3-c5d5-4cbb-a6a6-9d1b3c442330",
+		"fo_subdomein_id": [
+			"00a739f9-cfbd-493f-aae0-4da8a01608da",
+			"1f1c9cee-cd8d-41f3-a313-6347fea1107f",
+			"4a324e24-b98f-4cb1-99d5-b772c7d88c2a"
+		]
+	},
+	{
+		"title": "Domein B Taalbewustzijn",
+		"description": "Domein B Taalbewustzijn",
+		"prefix": "B",
+		"id": "e9d6a746-b099-4716-abfa-c8c6714c3b9a",
+		"fo_subdomein_id": [
+			"f0976d5b-a153-4144-9fea-625003ad8a09",
+			"cf5426ef-dfac-4763-ba9d-bc17171ad477"
+		]
+	},
+	{
+		"title": "Domein C Cultuurbewustzijn",
+		"description": "Domein C Cultuurbewustzijn",
+		"prefix": "C",
+		"id": "19c3627b-8615-4169-be84-1d80da271ed0",
+		"fo_subdomein_id": [
+			"fb46d400-242d-4952-a1d1-baa1125dfdfc",
+			"9fd62ab9-89c5-4734-b2de-0ee719bc3b8f"
+		]
+	},
+	{
+		"title": "Domein A  Communicatie",
+		"description": "Domein A Communicatie",
+		"prefix": "A",
+		"id": "ffe3aabe-9426-4a19-9d38-773200fcac19",
+		"fo_subdomein_id": [
+			"3ddc2675-2a72-49eb-b93a-c9984d6b672b",
+			"227b736d-07d4-4e12-a8b0-2c5605053912",
+			"fc254b2c-6a4a-48d9-bd4a-d28ae259879a"
+		]
+	},
+	{
+		"title": "Domein B Taalbewustzijn",
+		"description": "Domein B Taalbewustzijn",
+		"prefix": "B",
+		"id": "cf163cc7-0538-4d93-a596-dfbb356471a5",
+		"fo_subdomein_id": [
+			"89873167-084d-4986-8833-3527e37def4d",
+			"73b935ae-ed7d-48c9-bfc8-f755a1a0b265"
+		]
+	},
+	{
+		"title": "Domein C Cultuurbewustzijn",
+		"description": "Domein C Cultuurbewustzijn",
+		"prefix": "C",
+		"id": "b9984543-6d20-4d98-8a00-43cbe093dbcd",
+		"fo_subdomein_id": [
+			"9d7a62c6-a756-470a-bb31-55bcacd75c99",
+			"970f8d13-c24a-4e61-962f-d9f4f04fc53d"
+		]
+	},
+	{
+		"title": "Domein A  Communicatie",
+		"description": "Domein A Communicatie",
+		"prefix": "A",
+		"id": "9dfd9a44-4a15-4479-a98a-9caa3889e182",
+		"fo_subdomein_id": [
+			"68dd023b-c6a8-4ba0-858a-76b08f0ecda7",
+			"7844e4a5-fce2-4f2b-902f-511d3dc2d5f5",
+			"d19bc8e2-4b5a-41ac-867b-e7a6c5acc2c8"
+		]
+	},
+	{
+		"title": "Domein B Taalbewustzijn",
+		"description": "Domein B Taalbewustzijn",
+		"prefix": "B",
+		"id": "b145f556-d5b3-45ac-bcbf-9efd2959a85d",
+		"fo_subdomein_id": [
+			"77cf440d-fedf-4853-bbfd-5408d291930e",
+			"b629e97c-f810-451a-8401-78c7305e6730"
+		]
+	},
+	{
+		"title": "Domein C Cultuurbewustzijn",
+		"description": "Domein C Cultuurbewustzijn",
+		"prefix": "C",
+		"id": "4599890c-a330-4779-914e-b79f9d674b51",
+		"fo_subdomein_id": [
+			"b4ed16c9-cfaf-4057-8a1b-1040acef4291",
+			"c6fc9791-1b32-4357-8eb5-bdf5cf657ade"
+		]
+	},
+	{
+		"title": "Domein A  Communicatie",
+		"description": "Domein A Communicatie",
+		"prefix": "A",
+		"id": "e2388fe3-6330-47ef-93e3-18eead987196",
+		"fo_subdomein_id": [
+			"8fca061c-6fae-4a4d-badf-4b5faaea8868",
+			"ca3725a1-1970-44fe-9841-96cf87f3bef9",
+			"cfbaf3cb-90c3-41a7-897c-d512d3ea2ca5"
+		]
+	},
+	{
+		"title": "Domein B Taalbewustzijn",
+		"description": "Domein B Taalbewustzijn",
+		"prefix": "B",
+		"id": "7fe4118e-4f7d-4a1f-aa9c-83d1c976254a",
+		"fo_subdomein_id": [
+			"10847adc-89a8-41ca-a206-82e22b51f805",
+			"f79216e4-a405-4553-8002-8c3cc60222e2"
+		]
+	},
+	{
+		"title": "Domein C Cultuurbewustzijn",
+		"description": "Domein C Cultuurbewustzijn",
+		"prefix": "C",
+		"id": "4695f6ed-b451-4af8-83fd-c1ee5d53ee98",
+		"fo_subdomein_id": [
+			"8e91665d-6a6c-41f4-8a03-3444de1ae51a",
+			"d5dcbb90-f1bd-4b29-8abb-e80e41b43af6"
+		]
+	},
+	{
+		"title": "Domein A  Communicatie",
+		"description": "Domein A Communicatie",
+		"prefix": "A",
+		"id": "279e7896-3a4b-43c8-8768-8cc90c1897d6",
+		"fo_subdomein_id": [
+			"cf97dec5-ed89-4ab5-ad04-35f25f60af14",
+			"429c2180-708d-4326-8e79-5158e9fc6aaa",
+			"fa4998f6-4030-4774-b098-96acd6e54ee6"
+		]
+	},
+	{
+		"title": "Domein B Taalbewustzijn",
+		"description": "Domein B Taalbewustzijn",
+		"prefix": "B",
+		"id": "7c68f1d0-6443-46bf-83a3-a256c0ba92ff",
+		"fo_subdomein_id": [
+			"c412679f-0ca4-4b1d-aa8b-b0bc753adede",
+			"a521812f-27bd-43b9-8938-9831d0adc094"
+		]
+	},
+	{
+		"title": "Domein C Cultuurbewustzijn",
+		"description": "Domein C Cultuurbewustzijn",
+		"prefix": "C",
+		"id": "31ab0e7b-6bcf-4f46-b54a-12226a69bb29",
+		"fo_subdomein_id": [
+			"c529d685-09dd-48eb-8a9e-3555288b6913",
+			"369ec1f2-e4b2-4ddc-a8af-841e05a835ef"
+		]
+	},
+	{
+		"title": "Domein A  Communicatie",
+		"description": "Domein A Communicatie",
+		"prefix": "A",
+		"id": "b3ee7e4c-eeaf-4cda-af5e-5adf8a31f1a5",
+		"fo_subdomein_id": [
+			"4a335b07-0670-44f8-8b67-c52776094ecf",
+			"912a0af4-75d2-4aef-b3c7-a04e7ce6a034",
+			"2db8a22e-e4bc-40c1-b400-bdc31b61b6b1"
+		]
+	},
+	{
+		"title": "Domein B Taalbewustzijn",
+		"description": "Domein B Taalbewustzijn",
+		"prefix": "B",
+		"id": "95ce402c-213b-469c-b77a-f614c55f8e56",
+		"fo_subdomein_id": [
+			"2fc36210-d93e-4362-84e3-847039955c79",
+			"237d6478-f54a-49f5-8e93-702d7b5e03f7"
+		]
+	},
+	{
+		"title": "Domein C Cultuurbewustzijn",
+		"description": "Domein C Cultuurbewustzijn",
+		"prefix": "C",
+		"id": "ec636621-0212-4dc9-8810-88a4d02c6520",
+		"fo_subdomein_id": [
+			"9828df0f-930a-447d-958d-e3e17cac6bac",
+			"ca97c756-b338-4e2c-a793-4834e3e67ab4"
+		]
+	},
+	{
+		"title": "Domein A  Communicatie",
+		"description": "Domein A Communicatie",
+		"prefix": "A",
+		"id": "7d51c819-33ba-467f-bf7e-fc8e58849405",
+		"fo_subdomein_id": [
+			"44367374-a0d9-4ade-833b-cb1baf825a7a",
+			"046ee1df-5852-4ce6-a87a-33cf3ec4dbcd",
+			"032c1476-f128-493f-8bda-5cbb674a2a67"
+		]
+	},
+	{
+		"title": "Domein B Taalbewustzijn",
+		"description": "Domein B Taalbewustzijn",
+		"prefix": "B",
+		"id": "9d9b95bf-b1dc-45b2-8694-891ea43ad5ce",
+		"fo_subdomein_id": [
+			"072ff2da-a745-4a4f-9f0c-075172c79150",
+			"d8879cd0-c062-4503-a8c4-9d451360b4be"
+		]
+	},
+	{
+		"title": "Domein C Cultuurbewustzijn",
+		"description": "Domein C Cultuurbewustzijn",
+		"prefix": "C",
+		"id": "b082111c-9b1a-4e7b-b1d9-81560dfd5b62",
+		"fo_subdomein_id": [
+			"a10d63f6-e250-44b6-bab3-2e91c7353746",
+			"86f9d5fb-12ae-44c3-b026-75d7260c384b"
+		]
+	},
+	{
+		"title": "Domein A  Communicatie",
+		"description": "Domein A Communicatie",
+		"prefix": "A",
+		"id": "d30e8f71-a01d-46fb-9e30-6cad0c9b48ba",
+		"fo_subdomein_id": [
+			"a383e5a1-768f-4125-89ea-ee26c9efd3bb",
+			"3688e76d-7c9c-413c-a727-3a0cf1321218",
+			"15b0613d-0bab-4a0e-8060-dda7b391dec3"
+		]
+	},
+	{
+		"title": "Domein B Taalbewustzijn",
+		"description": "Domein B Taalbewustzijn",
+		"prefix": "B",
+		"id": "6973c8bc-592c-4356-a002-8eb2c54e15e4",
+		"fo_subdomein_id": [
+			"9873ef52-58e1-47d9-aa68-222bd9cd300a",
+			"57e3df9d-4885-40d8-8cf0-51ae604637f8"
+		]
+	},
+	{
+		"title": "Domein C Cultuurbewustzijn",
+		"description": "Domein C Cultuurbewustzijn",
+		"prefix": "C",
+		"id": "0733c2e3-d5d3-47c2-9c00-0f5d9722c29a",
+		"fo_subdomein_id": [
+			"169e487d-d9a2-42d4-aedd-23003df7776d",
+			"7ceaa2b3-1e70-4a09-9d52-22c39302b53a"
+		]
+	},
+	{
+		"title": "Domein A  Communicatie",
+		"description": "Domein A Communicatie",
+		"prefix": "A",
+		"id": "f8be8a2f-bf7c-4467-9ac6-7320fc4a576f",
+		"fo_subdomein_id": [
+			"9a03c9b7-25b0-4632-9da2-e0bb022db41b",
+			"3786151a-9188-4c60-afd3-b9a471754527",
+			"770da0e0-5815-4d12-a3a7-1d7b90f6e976"
+		]
+	},
+	{
+		"title": "Domein B Taalbewustzijn",
+		"description": "Domein B Taalbewustzijn",
+		"prefix": "B",
+		"id": "6741d331-82aa-4d6c-a86c-9d301b43d4e1",
+		"fo_subdomein_id": [
+			"b51b46eb-6443-4023-8c3a-576062464ca4",
+			"6ef6566a-2b33-4318-9562-96fefa04528a"
+		]
+	},
+	{
+		"title": "Domein C Cultuurbewustzijn",
+		"description": "Domein C Cultuurbewustzijn",
+		"prefix": "C",
+		"id": "d274c516-9ad5-410a-9453-abd31903f62d",
+		"fo_subdomein_id": [
+			"af10864d-74fb-4059-9955-7f16a1900e66",
+			"386e3153-09fe-481f-8b2b-aa05f148b5ea"
+		]
+	},
+	{
+		"title": "Domein A  Communicatie",
+		"description": "Domein A Communicatie",
+		"prefix": "A",
+		"id": "50434f5d-20c7-47ae-bd3b-ae0a690c9f14",
+		"fo_subdomein_id": [
+			"02ade3ad-5c29-4fad-b397-ef9962eef13f",
+			"349bba64-ec9e-4c68-a0fb-1a7d156a9f72",
+			"67985f25-f6ac-45a2-9191-66a0d118a2c1"
+		]
+	},
+	{
+		"title": "Domein B Taalbewustzijn",
+		"description": "Domein B Taalbewustzijn",
+		"prefix": "B",
+		"id": "a81dff11-15d1-4b37-a4a6-3971e2c422f4",
+		"fo_subdomein_id": [
+			"ecb59d23-6823-4895-97fd-23c660ef6ad0",
+			"dbc6e87c-3ab0-49e2-944a-570ec779d9c5"
+		]
+	},
+	{
+		"title": "Domein C Cultuurbewustzijn",
+		"description": "Domein C Cultuurbewustzijn",
+		"prefix": "C",
+		"id": "9ce4acc5-4874-4b92-8bb0-6d6282c9a961",
+		"fo_subdomein_id": [
+			"83f17d64-30e3-4114-bf35-847136a9d07d",
+			"00518259-8988-4362-9d6b-f88ca77e5b88"
+		]
+	},
+	{
+		"title": "Domein A  Communicatie",
+		"description": "Domein A Communicatie",
+		"prefix": "A",
+		"id": "b902ccb5-942f-414d-82a2-0fec5dced274",
+		"fo_subdomein_id": [
+			"c031f971-0cc4-402b-a83c-0d98cf3c1d2d",
+			"0132a380-2698-4d0f-8e53-7d4130a0732d",
+			"d38b877d-1ad1-477a-823d-530aa07db5ce"
+		]
+	},
+	{
+		"title": "Domein B Taalbewustzijn",
+		"description": "Domein B Taalbewustzijn",
+		"prefix": "B",
+		"id": "41bebc67-6ba9-4a64-8ece-8788ccc08cbc",
+		"fo_subdomein_id": [
+			"8ae9905f-dac4-4c73-a09f-29c910b93fdf",
+			"c765febd-c105-4afc-9537-dda00789b282"
+		]
+	},
+	{
+		"title": "Domein C Cultuurbewustzijn",
+		"description": "Domein C Cultuurbewustzijn",
+		"prefix": "C",
+		"id": "0e39e784-4776-40da-b0a2-21fea4ae5c17",
+		"fo_subdomein_id": [
+			"dde04360-ff29-4e23-910b-178510b136b4",
+			"df7bc3ca-14a4-4ade-b848-11c254ca7862"
+		]
+	},
+	{
+		"title": "Domein A  Communicatie",
+		"description": "Domein A Communicatie",
+		"prefix": "A",
+		"id": "f6345fe4-16c1-4ef2-9c62-d6c7ea1c79c5",
+		"fo_subdomein_id": [
+			"106326e1-88ad-4a30-98a8-b18a4e9c2416",
+			"5f55d965-8c84-410d-8955-98711e48e7b9",
+			"8be5f871-463b-4957-9d80-48b63c7292bd"
+		]
+	},
+	{
+		"title": "Domein B Taalbewustzijn",
+		"description": "Domein B Taalbewustzijn",
+		"prefix": "B",
+		"id": "73507eb6-fa08-4b98-b3b6-1df7baa280a4",
+		"fo_subdomein_id": [
+			"e933632e-9970-4e30-addb-6d84296223bf",
+			"e0fe33e6-d0d0-4ebe-990d-aa3f8a709e94"
+		]
+	},
+	{
+		"title": "Domein C Cultuurbewustzijn",
+		"description": "Domein C Cultuurbewustzijn",
+		"prefix": "C",
+		"id": "9df3a9a7-220a-478e-a7b2-1bfe5093233c",
+		"fo_subdomein_id": [
+			"59cff233-c69c-463b-ac06-8877c761cdaf",
+			"24c3fe94-33b8-467b-9fc1-9dc3d49b9f79"
+		]
+	},
+	{
+		"title": "Domein A  Communicatie",
+		"description": "Domein A Communicatie",
+		"prefix": "A",
+		"id": "89334bda-7e67-4d13-b85f-2992de7a700e",
+		"fo_subdomein_id": [
+			"5f67bbae-934f-4140-bac1-f78fd00273c3",
+			"25809755-c3f9-4b00-85bb-e01f237941a9",
+			"45ebfe77-efb1-4e0d-9625-b19f7e15a653"
+		]
+	},
+	{
+		"title": "Domein B Taalbewustzijn",
+		"description": "Domein B Taalbewustzijn",
+		"prefix": "B",
+		"id": "ef90d3f1-949d-47b1-8b50-08c7cbe64488",
+		"fo_subdomein_id": [
+			"0515263b-1d98-470d-8f86-f7c35b8e0b85",
+			"b130c372-1cdb-47f4-b35a-cb2cfa8ad658"
+		]
+	},
+	{
+		"title": "Domein C Cultuurbewustzijn",
+		"description": "Domein C Cultuurbewustzijn",
+		"prefix": "C",
+		"id": "4d29bf36-acbd-4383-be7d-9306aa50fc92",
+		"fo_subdomein_id": [
+			"86638900-d175-425f-a05d-1bba90f754bd",
+			"7f6ef620-7414-4e66-9136-6080fb141699"
+		]
+	},
+	{
+		"title": "Domein A  Communicatie",
+		"description": "Domein A Communicatie",
+		"prefix": "A",
+		"id": "27857fe5-3b78-44cc-bb04-f2d8f175f80c",
+		"fo_subdomein_id": [
+			"3981502f-d1a1-4b26-b9df-b921878a06dc",
+			"08dcf893-7919-40d0-9525-aba4e6e26adb",
+			"8ec79fd0-97b8-417c-a4a5-462839e99c2f"
+		]
+	},
+	{
+		"title": "Domein B Taalbewustzijn",
+		"description": "Domein B Taalbewustzijn",
+		"prefix": "B",
+		"id": "11a960a7-81cb-4de2-8e88-ed5e6ef69bc0",
+		"fo_subdomein_id": [
+			"dac92a70-9c1a-48d5-bf38-986938c8ca4e",
+			"28f498ef-eee1-4aeb-a004-0b2ffaa63a87"
+		]
+	},
+	{
+		"title": "Domein C Cultuurbewustzijn",
+		"description": "Domein C Cultuurbewustzijn",
+		"prefix": "C",
+		"id": "ffd49784-bd81-4729-b21c-87302be4da78",
+		"fo_subdomein_id": [
+			"60cec70f-cd21-4474-bd4c-466531bb27fb",
+			"c8c55385-33ed-4248-98e4-bbe12e4f35c2"
+		]
+	},
+	{
+		"title": "Domein A  Communicatie",
+		"description": "Domein A Communicatie",
+		"prefix": "A",
+		"id": "a9413cd4-625f-40f8-a896-a85c7ea6f6e7",
+		"fo_subdomein_id": [
+			"60fa691a-d038-42b0-a14e-2417a97ae777",
+			"024416fb-deb2-44a4-a86e-4cd03b6802b7",
+			"127783f8-b8f3-4f65-a3a8-ac5a5d90722d"
+		]
+	},
+	{
+		"title": "Domein B Taalbewustzijn",
+		"description": "Domein B Taalbewustzijn",
+		"prefix": "B",
+		"id": "ca7bde96-998e-4693-ad22-0c9b1165c9d1",
+		"fo_subdomein_id": [
+			"f9443139-e70b-42ad-a250-063bf61eae38",
+			"f3e5a943-4c7f-44c9-87a0-8c732b261df3"
+		]
+	},
+	{
+		"title": "Domein C Cultuurbewustzijn",
+		"description": "Domein C Cultuurbewustzijn",
+		"prefix": "C",
+		"id": "fab40219-0cc3-4ff6-a3e5-f0cdaed678c8",
+		"fo_subdomein_id": [
+			"8ea9973e-e6be-4ce6-96a6-2e0178c825e8",
+			"5469415b-e85a-4ee7-9022-88394ae19bad"
+		]
+	},
+	{
+		"title": "Domein A  Communicatie",
+		"description": "Domein A Communicatie",
+		"prefix": "A",
+		"id": "90fba777-61c1-49b0-a640-a4da40547e84",
+		"fo_subdomein_id": [
+			"bf6f7fee-6f49-4b5d-904f-88dd2ee64a05",
+			"6ab31e51-e1ba-49fd-b011-c34b779ef85e",
+			"2d5afb69-5632-4788-bfb4-acebd49399b6"
+		]
+	},
+	{
+		"title": "Domein B Taalbewustzijn",
+		"description": "Domein B Taalbewustzijn",
+		"prefix": "B",
+		"id": "280103f3-ba7c-4c01-b3d9-7d2ea0406fea",
+		"fo_subdomein_id": [
+			"2f8ef8c9-2127-4323-9759-439eaefe83c1",
+			"f11cfe25-2dcb-4ac7-9414-c9f8e147e807"
+		]
+	},
+	{
+		"title": "Domein C Cultuurbewustzijn",
+		"description": "Domein C Cultuurbewustzijn",
+		"prefix": "C",
+		"id": "5ec7b89b-c22a-4930-9316-795c0bdcbee1",
+		"fo_subdomein_id": [
+			"c6e04566-e20b-4f3c-921c-6812ac6cbcc7",
+			"f397c59d-ad1e-4dc3-8520-034f11d9c425"
+		]
+	},
+	{
+		"title": "Domein A  Communicatie",
+		"description": "Domein A Communicatie",
+		"prefix": "A",
+		"id": "dcff5cca-b6b8-46e4-a39e-277b88fd9798",
+		"fo_subdomein_id": [
+			"ae909165-9589-4ddd-ac6c-3290aa658a05",
+			"bd374ba5-8e65-4bc5-9aa9-d4bed19d2385",
+			"10f2c9d7-81ba-42b6-bc30-186d43b7ea56"
+		]
+	},
+	{
+		"title": "Domein B Taalbewustzijn",
+		"description": "Domein B Taalbewustzijn",
+		"prefix": "B",
+		"id": "56721e16-d50d-481d-8250-6bbee211b607",
+		"fo_subdomein_id": [
+			"b701c429-b90b-41ad-bde9-51c211d65555",
+			"e784925a-6c8c-4b4f-b41a-7627323ebb28"
+		]
+	},
+	{
+		"title": "Domein C Cultuurbewustzijn",
+		"description": "Domein C Cultuurbewustzijn",
+		"prefix": "C",
+		"id": "43d647f2-ea33-4758-aaa5-9270a4ca965f",
+		"fo_subdomein_id": [
+			"93c906a5-a9cf-4ab9-a3ff-330a9cc0d627",
+			"4c690f06-0613-4b7a-88b4-56e0b240d8c1"
+		]
+	},
+	{
+		"title": "Domein A  Communicatie",
+		"description": "Domein A Communicatie",
+		"prefix": "A",
+		"id": "0ee4065a-77cd-4506-9fcc-058bafbc340a",
+		"fo_subdomein_id": [
+			"5cb9b822-6368-421f-814c-fdd44dddaeb9",
+			"74f5001f-9840-484c-958d-a85959b4ddc9",
+			"461186ea-c315-4749-81c1-2ae5ad3842ac"
+		]
+	},
+	{
+		"title": "Domein B Taalbewustzijn",
+		"description": "Domein B Taalbewustzijn",
+		"prefix": "B",
+		"id": "84613d45-5749-4927-ad8b-48a4db1727f8",
+		"fo_subdomein_id": [
+			"bfbf7877-6d7a-4eaf-912a-b9a59869e61b",
+			"8958d3e2-9fda-4cf4-be16-d20bea1d9d9c"
+		]
+	},
+	{
+		"title": "Domein C Cultuurbewustzijn",
+		"description": "Domein C Cultuurbewustzijn",
+		"prefix": "C",
+		"id": "4f321277-80e4-4a20-bc5f-83537ff23185",
+		"fo_subdomein_id": [
+			"5f854a34-943c-44a5-82bb-205ea4da5587",
+			"3fe28f40-dcf1-4279-81a4-b348b596ae48"
+		]
+	},
+	{
+		"title": "Domein A  Communicatie",
+		"description": "Domein A Communicatie",
+		"prefix": "A",
+		"id": "d5c30884-29c4-49de-b1d4-90f4f5cd69c9",
+		"fo_subdomein_id": [
+			"6cc84ce8-f3d5-41b9-a637-aa68dfe1555c",
+			"98a88651-b6ec-4a6c-97c3-e38af6853192",
+			"62e1ce4c-82e6-41f5-8768-13d10883768a"
+		]
+	},
+	{
+		"title": "Domein B Taalbewustzijn",
+		"description": "Domein B Taalbewustzijn",
+		"prefix": "B",
+		"id": "c7f1e36e-4e88-4561-8b5a-60ac7949c528",
+		"fo_subdomein_id": [
+			"18b797c7-74ce-4aa8-b1a9-796e0b27ad00",
+			"deebc1c4-fb6f-49ea-bd5e-7e60ae7169bf"
+		]
+	},
+	{
+		"title": "Domein C Cultuurbewustzijn",
+		"description": "Domein C Cultuurbewustzijn",
+		"prefix": "C",
+		"id": "b7a56cb3-d9d1-40fe-b96d-6ab58bd97294",
+		"fo_subdomein_id": [
+			"e6a2ce23-7062-424e-a79b-20e00c8f4911",
+			"4789a29d-83d6-4506-bbd2-83e976a464b5"
+		]
+	},
+	{
+		"title": "Domein A  Communicatie",
+		"description": "Domein A Communicatie",
+		"prefix": "A",
+		"id": "8aab5b92-e421-4b15-9cda-5373787f2272",
+		"fo_subdomein_id": [
+			"46e21504-1a0e-437b-943f-24f99bf5c8be",
+			"6a70c457-099b-4e81-b007-6de943bea278",
+			"3d4004a5-a42e-44e2-ae99-f0e1e64d05b8"
+		]
+	},
+	{
+		"title": "Domein B Taalbewustzijn",
+		"description": "Domein B Taalbewustzijn",
+		"prefix": "B",
+		"id": "720f32db-378a-4521-8392-dfdf51334fa2",
+		"fo_subdomein_id": [
+			"7871d116-9a6a-45c8-a333-0def3014c835",
+			"3cf0d3e8-f261-4224-8f0c-0a8494d15776"
+		]
+	},
+	{
+		"title": "Domein C Cultuurbewustzijn",
+		"description": "Domein C Cultuurbewustzijn",
+		"prefix": "C",
+		"id": "e8b5609c-d48a-41a5-9477-31af802f2df6",
+		"fo_subdomein_id": [
+			"c45b3734-322e-4971-9800-0d93c1e83188",
+			"1bcc4703-8b0c-43d8-a427-ba253769480b"
+		]
+	},
+	{
+		"title": "Domein A  Communicatie",
+		"description": "Domein A Communicatie",
+		"prefix": "A",
+		"id": "f4d679cf-85df-49e4-bb06-34c5b8a99fd4",
+		"fo_subdomein_id": [
+			"507758ca-e0c4-49e6-a4e8-4d4512b78d2b",
+			"cdefed8b-631b-4fd5-ab36-896e78bc7558",
+			"c1b54a5e-b86d-4ab1-99ee-163e9733e8e0"
+		]
+	},
+	{
+		"title": "Domein B Taalbewustzijn",
+		"description": "Domein B Taalbewustzijn",
+		"prefix": "B",
+		"id": "33e20d77-bbf1-4cee-a348-2356e4d940a5",
+		"fo_subdomein_id": [
+			"9825be46-bac3-4f79-bbba-9c30cb1f84c4",
+			"71ce7243-5ac5-4742-aa03-8bb49dd4d28a"
+		]
+	},
+	{
+		"title": "Domein C Cultuurbewustzijn",
+		"description": "Domein C Cultuurbewustzijn",
+		"prefix": "C",
+		"id": "88f1cd01-35d3-4dd8-9c9d-55f75250bf22",
+		"fo_subdomein_id": [
+			"af58c108-946b-4738-9b6d-2284d331f3f4",
+			"510b1cea-8b38-4c7c-b7d0-2637b155b602"
+		]
+	},
+	{
+		"title": "Domein A  Communicatie",
+		"description": "Domein A Communicatie",
+		"prefix": "A",
+		"id": "6804e6f4-b83a-4614-acd3-0a2f4d7d689e",
+		"fo_subdomein_id": [
+			"51b7b8e5-fe96-44ae-b062-a922cd753b9f",
+			"4e8e7290-4afc-4e3c-b6ac-817134a93a2f",
+			"36fc2a48-d615-4977-85c9-d0df2f1f4d59"
+		]
+	},
+	{
+		"title": "Domein B Taalbewustzijn",
+		"description": "Domein B Taalbewustzijn",
+		"prefix": "B",
+		"id": "efd2ad6e-783c-472e-a6a2-aaf8554cefea",
+		"fo_subdomein_id": [
+			"2673c8e7-d5dd-4ae7-8ca6-eb59f85054c1",
+			"a46cc3ce-d3d8-4a7e-8829-1d0f58749286"
+		]
+	},
+	{
+		"title": "Domein C Cultuurbewustzijn",
+		"description": "Domein C Cultuurbewustzijn",
+		"prefix": "C",
+		"id": "cb24a044-bb39-4347-8200-81bf9e87ccc4",
+		"fo_subdomein_id": [
+			"56de6484-30a3-40c5-be86-d6f57a3e6404",
+			"9f404874-4ade-4a30-a080-e404a46b4dd0"
+		]
+	},
+	{
+		"title": "Domein A  Communicatie",
+		"description": "Domein A Communicatie",
+		"prefix": "A",
+		"id": "099e69a8-93e5-4fcb-b2e8-742f5b1d48dc",
+		"fo_subdomein_id": [
+			"dce328ad-a57c-49d9-9f75-a830d17b6cab",
+			"42f168f8-3b93-43e2-b283-6e24b3864af9",
+			"cfa91053-6f2f-479e-8ddb-e2c1b4fb2331"
+		]
+	},
+	{
+		"title": "Domein B Taalbewustzijn",
+		"description": "Domein B Taalbewustzijn",
+		"prefix": "B",
+		"id": "c57d844e-8cb7-4c8c-9ae8-a44c6e8485c0",
+		"fo_subdomein_id": [
+			"1d6d47ba-d379-4dab-855a-295aacfdd3d9",
+			"21781bf3-c87f-4285-8398-ac216989ffe2"
+		]
+	},
+	{
+		"title": "Domein C Cultuurbewustzijn",
+		"description": "Domein C Cultuurbewustzijn",
+		"prefix": "C",
+		"id": "3b8fabfd-8ef6-4de3-96f5-d0718b8a0084",
+		"fo_subdomein_id": [
+			"220723e3-40b2-42eb-91d5-90113c4bf891",
+			"5ff7ce0b-1bf6-4629-a7ad-b9d54b36f37e"
+		]
+	},
+	{
+		"title": "Domein A  Communicatie",
+		"description": "Domein A Communicatie",
+		"prefix": "A",
+		"id": "b4280489-fcc0-4a86-b29d-449673363e69",
+		"fo_subdomein_id": [
+			"3db67cab-693e-41dd-8852-5a56e417bc4e",
+			"4be9e41e-34f4-4f3b-b578-a6b1ac4299c6",
+			"3b981ab3-5d72-4655-a297-7935768249b8"
+		]
+	},
+	{
+		"title": "Domein B Taalbewustzijn",
+		"description": "Domein B Taalbewustzijn",
+		"prefix": "B",
+		"id": "3c238601-78e4-45a8-bc40-658f3dbf8d64",
+		"fo_subdomein_id": [
+			"355e4750-3cfd-4833-86bd-227dfb639801",
+			"b8342f89-079d-4343-b3e8-357c56d7adb4"
+		]
+	},
+	{
+		"title": "Domein C Cultuurbewustzijn",
+		"description": "Domein C Cultuurbewustzijn",
+		"prefix": "C",
+		"id": "f3ed12ff-1820-44c0-869c-edc01c6eb3c4",
+		"fo_subdomein_id": [
+			"40ffc07c-5db5-4394-9f39-2eff97d9eee2",
+			"f87482b6-6b8a-4cf9-ba96-1bc41acb4f42"
+		]
+	},
+	{
+		"title": "Domein A  Communicatie",
+		"description": "Domein A Communicatie",
+		"prefix": "A",
+		"id": "0da4404c-c4bb-47f2-ac50-711c05a982ee",
+		"fo_subdomein_id": [
+			"8e72f278-6c6a-4633-9080-a2622fbb2564",
+			"bbb0b6ff-9b86-4117-bd93-a173ff1d4fd2",
+			"3862dd9a-0af9-4beb-9def-6083767ed20c"
+		]
+	},
+	{
+		"title": "Domein B Taalbewustzijn",
+		"description": "Domein B Taalbewustzijn",
+		"prefix": "B",
+		"id": "1e52cf84-0f46-42f7-96a1-2b6465d27253",
+		"fo_subdomein_id": [
+			"78e9a8cc-951f-4c14-946c-22767e9b015c",
+			"10cc76d3-795e-4d8e-b42e-f4a73585a332"
+		]
+	},
+	{
+		"title": "Domein C Cultuurbewustzijn",
+		"description": "Domein C Cultuurbewustzijn",
+		"prefix": "C",
+		"id": "6681e097-8ca2-49de-93aa-aea0da9d9f30",
+		"fo_subdomein_id": [
+			"e8bca52b-a7d8-427f-bd58-15493b6bea01",
+			"a0a9ee0e-7e43-4194-9cd8-5a56db0229c2"
+		]
+	},
+	{
+		"title": "Domein A  Communicatie",
+		"description": "Domein A Communicatie",
+		"prefix": "A",
+		"id": "5d234062-dd72-4155-95a9-9623d1791bc1",
+		"fo_subdomein_id": [
+			"52262e2c-4039-4358-9778-3f26894a5d36",
+			"cc697682-57a1-4e03-8c03-1ddd1ecf9506",
+			"d12c20d5-00e9-4619-95f5-22bc476d4880"
+		]
+	},
+	{
+		"title": "Domein B Taalbewustzijn",
+		"description": "Domein B Taalbewustzijn",
+		"prefix": "B",
+		"id": "b910c1e4-e097-49a4-a259-6e29899d17c5",
+		"fo_subdomein_id": [
+			"e1405c04-2530-48c6-9d83-4fcb3dc20b49",
+			"2395a4a3-babe-472b-8dfe-b0ee154839eb"
+		]
+	},
+	{
+		"title": "Domein C Cultuurbewustzijn",
+		"description": "Domein C Cultuurbewustzijn",
+		"prefix": "C",
+		"id": "5c8c77c5-b37d-443a-9c77-9517fd62d462",
+		"fo_subdomein_id": [
+			"7683af2c-7eae-436c-a966-55308a5f5231",
+			"b7ba1ce9-fb67-408d-94a4-4f2602899e25"
+		]
+	},
+	{
+		"title": "Domein A  Communicatie",
+		"description": "Domein A Communicatie",
+		"prefix": "A",
+		"id": "5875f785-7d50-434a-b0ff-68d09cdd26c9",
+		"fo_subdomein_id": [
+			"9a17e965-f846-465c-9d3a-c7358bf0c59b",
+			"bd4a60a8-d39e-4400-b7cf-aef37977315c",
+			"bb76f18c-ea1d-4c63-b398-61aeccbb9ab5"
+		]
+	},
+	{
+		"title": "Domein B Taalbewustzijn",
+		"description": "Domein B Taalbewustzijn",
+		"prefix": "B",
+		"id": "4b4d7f7c-b534-4cf4-b38a-1c15ec66e3e6",
+		"fo_subdomein_id": [
+			"65190c94-98dc-4a62-84a1-4d713c435d8e",
+			"f1b0be69-c56e-482f-8a92-367460538d31"
+		]
+	},
+	{
+		"title": "Domein C Cultuurbewustzijn",
+		"description": "Domein C Cultuurbewustzijn",
+		"prefix": "C",
+		"id": "6399c636-c962-4264-b489-4f14b46accdc",
+		"fo_subdomein_id": [
+			"869014e0-c302-4ee8-979f-a96c4e6fb169",
+			"5e238e5e-9ce4-4a31-931e-8688868e8358"
+		]
+	},
+	{
+		"title": "Domein A Vaardigheden",
+		"description": "Domein A Vaardigheden",
+		"prefix": "A",
+		"id": "acf88eea-c55d-464e-9b3e-e7b178aae376",
+		"fo_subdomein_id": [
+			"aeba30b4-aeae-4e4b-a76d-4b9f0c9b42ee",
+			"56cc3ca3-5d62-460a-8dec-ba7cb018ced1",
+			"02f12818-6b65-4467-8a54-474a34418380"
+		]
+	},
+	{
+		"title": "Domein B Democratische waarden en grondrechten",
+		"description": "Domein B Democratische waarden en grondrechten",
+		"prefix": "B",
+		"id": "6bc3fabe-c2ca-42df-a827-6561ca9da073",
+		"fo_subdomein_id": [
+			"2e5cd2e9-5d1f-46b4-b029-6e4aec0222e6"
+		]
+	},
+	{
+		"title": "Domein C Sociale cohesie en sociale verschillen",
+		"description": "Domein C Sociale cohesie en sociale verschillen",
+		"prefix": "C",
+		"id": "950b9145-9ba8-48c7-b49c-660c2e5bdb66",
+		"fo_subdomein_id": [
+			"d3cfea18-3fe2-4426-9da5-a50742bf24d7",
+			"91413f8f-7db8-4916-a7f6-0c7809a7c843",
+			"a607f906-68db-4bd2-a93c-f5f28b0eade7",
+			"b62be3e6-31b8-47e8-92d7-3038112c16ee"
+		]
+	},
+	{
+		"title": "Domein D Politiek en macht",
+		"description": "Domein D Politiek en macht",
+		"prefix": "D",
+		"id": "c7857c48-769f-45d0-91b4-6c0279bccd95",
+		"fo_subdomein_id": [
+			"82ef854f-b3b2-4b16-bdb7-132c232cfa4e",
+			"7db8fa60-1e7d-42c6-beae-5c40133967c8",
+			"c81a0425-9eef-4938-8a92-fe26bed5d224",
+			"eea474fd-8d9e-4e15-97ee-c4729e731124"
+		]
+	},
+	{
+		"title": "Domein E Dilemma's en rechtvaardigheid",
+		"description": "Domein E Dilemma's en rechtvaardigheid",
+		"prefix": "E",
+		"id": "f2e871e0-e728-48c9-b4a3-d96be4b41ca2",
+		"fo_subdomein_id": [
+			"be20c972-d383-44f9-971f-b8e7f093aa09",
+			"be23ff84-d540-4579-ac1b-3b33cc3ca7c9",
+			"405b79c9-c837-4bd4-9ac4-baeb92fc3951",
+			"727e1723-e738-4b0a-8953-930b08e317ef"
+		]
+	},
+	{
+		"title": "Domein A Vaardigheden",
+		"description": "Domein A Vaardigheden",
+		"prefix": "A",
+		"id": "82752061-1331-481b-b9b9-2a2593e11870",
+		"fo_subdomein_id": [
+			"24e4ab84-2a8b-4f55-bc94-5496f152dae8",
+			"c378f08e-1af5-40b4-aa29-028e79a7349a",
+			"dd21eb0a-aecd-4ec2-9e14-102f5d8ff01b"
+		]
+	},
+	{
+		"title": "Domein B Democratische waarden en grondrechten",
+		"description": "Domein B Democratische waarden en grondrechten",
+		"prefix": "B",
+		"id": "2adf8ab6-a735-4fa8-b748-e9541f8b36cf",
+		"fo_subdomein_id": [
+			"2254842b-6806-422a-a1b1-aa64d19068b3"
+		]
+	},
+	{
+		"title": "Domein C Sociale cohesie en sociale verschillen",
+		"description": "Domein C Sociale cohesie en sociale verschillen",
+		"prefix": "C",
+		"id": "b387ad60-bb23-45ca-8af5-5ab299a965c9",
+		"fo_subdomein_id": [
+			"90cd01ce-f5d0-4c98-97ab-1de06decbe2c",
+			"302003ee-148c-4064-9d56-7bb27d37cac0",
+			"c540b1f1-3fd5-4772-b483-0af5bd2839a9",
+			"1b42aa35-c841-4d41-aa44-6c4c3c4d7baf"
+		]
+	},
+	{
+		"title": "Domein D Politiek en macht",
+		"description": "Domein D Politiek en macht",
+		"prefix": "D",
+		"id": "bf189e94-3432-4b4d-abda-b8708cb0069b",
+		"fo_subdomein_id": [
+			"1a3b13b8-7ceb-4791-9b2b-a2f153b32aa2",
+			"b6bbdd8d-8689-4608-b9d2-9b2024534830",
+			"4506a72f-0926-487e-b65c-5c5aa794600a",
+			"359e13b6-dabe-432e-ba8f-ba98994e5ed3"
+		]
+	},
+	{
+		"title": "Domein E Dilemma's en rechtvaardigheid",
+		"description": "Domein E Dilemma's en rechtvaardigheid",
+		"prefix": "E",
+		"id": "71c97d03-2603-400e-bb0f-2e0243cf3b63",
+		"fo_subdomein_id": [
+			"67ec283b-f66a-4eb7-b868-1d1009861b53",
+			"e61c4d3b-14c2-4372-a875-e110ac397f41",
+			"ec2feb6a-450c-4958-9a75-75847fc38827",
+			"d65322c7-63b8-46ec-b046-87943ecae295"
+		]
+	},
+	{
+		"title": "Domein A Vaardigheden",
+		"description": "Domein A Vaardigheden",
+		"prefix": "A",
+		"id": "594129b3-f31a-4e6b-b051-edcf4463f226",
+		"fo_subdomein_id": [
+			"20c7e9c0-c0da-41d0-860a-892a45d7e99d",
+			"9384ed0a-a1e9-4a17-a42c-64bbdee604d5",
+			"2b90ce7c-24c9-435b-9c9e-7ca3ff76959a"
+		]
+	},
+	{
+		"title": "Domein B Democratische waarden en grondrechten",
+		"description": "Domein B Democratische waarden en grondrechten",
+		"prefix": "B",
+		"id": "7e56bfa3-61c2-4fa9-a042-192b19504dce",
+		"fo_subdomein_id": [
+			"476df436-409d-4f59-9ab1-62a3aa3f5ffe"
+		]
+	},
+	{
+		"title": "Domein C Sociale cohesie en sociale verschillen",
+		"description": "Domein C Sociale cohesie en sociale verschillen",
+		"prefix": "C",
+		"id": "bdaa9915-67b8-4458-89cd-541ca069aaed",
+		"fo_subdomein_id": [
+			"617b2c85-3d81-427b-9229-299889c4d61e",
+			"f28bd07e-8702-4933-9fcd-cf154bf03284",
+			"9e22f455-e916-44ea-9d83-4adb69d66f2f",
+			"47db2532-5b11-4829-ad8a-442b57d95328"
+		]
+	},
+	{
+		"title": "Domein D Politiek en macht",
+		"description": "Domein D Politiek en macht",
+		"prefix": "D",
+		"id": "8453729b-f934-4390-8b90-4a3c38f2ebfc",
+		"fo_subdomein_id": [
+			"0e16d1d6-453d-45b2-8b4d-580e6e617e36",
+			"b6086d2c-711b-49f2-902c-b1c35e3173f6",
+			"eea6bdef-bd7f-4bb1-8657-5ab282373808",
+			"66ac95b2-8b7e-4b61-a19f-868b6a70fcb2"
+		]
+	},
+	{
+		"title": "Domein E Dilemma's en rechtvaardigheid",
+		"description": "Domein E Dilemma's en rechtvaardigheid",
+		"prefix": "E",
+		"id": "1358100b-920a-4794-bc29-ab5f8bea6a1d",
+		"fo_subdomein_id": [
+			"49dbba7e-3814-4eb5-80fc-110779696649",
+			"c97d4cef-05f7-4d33-bc98-67b62408b54a",
+			"6320c1b3-f444-4922-a70b-f6bd57823c26",
+			"6f4b28f0-2380-424d-946c-52919f827077"
+		]
+	},
+	{
+		"title": "Domein A Vaardigheden",
+		"description": "Domein A Vaardigheden",
+		"prefix": "A",
+		"id": "513eacb3-d50c-4737-98e7-2a655c25b3a3",
+		"fo_subdomein_id": [
+			"544ea08c-32ea-4c22-ae9a-46bbe83b7eee",
+			"af673fd4-55ef-49a8-a4eb-31ae40a665c0",
+			"ba7e79a1-acf3-4c39-abb4-8b48a912b55d"
+		]
+	},
+	{
+		"title": "Domein B Democratische waarden en grondrechten",
+		"description": "Domein B Democratische waarden en grondrechten",
+		"prefix": "B",
+		"id": "f65c51c6-8b67-4f8f-8390-d52c898f012f",
+		"fo_subdomein_id": [
+			"9c54da37-152a-4fcb-9eff-ffbaa2c6f712"
+		]
+	},
+	{
+		"title": "Domein C Sociale cohesie en sociale verschillen",
+		"description": "Domein C Sociale cohesie en sociale verschillen",
+		"prefix": "C",
+		"id": "5c7807f2-bc2e-45c0-8b74-c1d13a38bdc1",
+		"fo_subdomein_id": [
+			"3d3b29bd-c1dd-4047-83e4-2e25c3f72bfc",
+			"a1c7c85b-7d8d-4179-81d6-c5a887d583ea",
+			"c990c005-cb86-4d69-b89a-e789a70c40c8",
+			"4822f6a7-557f-4da4-8952-adb0bfee53d5"
+		]
+	},
+	{
+		"title": "Domein D Politiek en macht",
+		"description": "Domein D Politiek en macht",
+		"prefix": "D",
+		"id": "746b2972-f5ec-4bb0-9e73-e08b5d04d24d",
+		"fo_subdomein_id": [
+			"f9b343c6-9428-4cbf-9026-d00dcbb2971d",
+			"0e077b28-5604-4d53-8236-18b28ee87c64",
+			"2dad0eff-c0eb-4284-9e8d-334efdf24ff3",
+			"a3ec8e42-ff48-4de8-9fb5-15c14197f2cc"
+		]
+	},
+	{
+		"title": "Domein E Dilemma's en rechtvaardigheid",
+		"description": "Domein E Dilemma's en rechtvaardigheid",
+		"prefix": "E",
+		"id": "bd78be2d-8dfe-4150-898e-7c8a4b7f7f64",
+		"fo_subdomein_id": [
+			"e4de684f-fe1a-498d-9230-8358852aebbb",
+			"4dc48e2d-72d8-488f-9889-5d147fd3abf2",
+			"b562103a-f4a0-40fc-a42d-2f3d656f8e5e",
+			"1e354347-ebb8-4fb2-8179-719b6ab6fc57"
+		]
+	},
+	{
+		"title": "Domein A Vaardigheden",
+		"description": "Domein A Vaardigheden",
+		"prefix": "A",
+		"id": "2c600aa9-f537-4203-8e84-4e3960576592",
+		"fo_subdomein_id": [
+			"3f33e152-9292-4457-a7ba-a88ba324cc3e",
+			"7aaebc78-7eb8-46d6-96d3-e4425533094c",
+			"7b14b9f6-6603-4bd2-a792-ad0e5eed8392"
+		]
+	},
+	{
+		"title": "Domein B Democratische waarden en grondrechten",
+		"description": "Domein B Democratische waarden en grondrechten",
+		"prefix": "B",
+		"id": "0b8d20e9-1ff5-4945-8da6-c667a40485dd",
+		"fo_subdomein_id": [
+			"850ad5fc-f591-4370-99b7-3ece7dfe47c5"
+		]
+	},
+	{
+		"title": "Domein C Sociale cohesie en sociale verschillen",
+		"description": "Domein C Sociale cohesie en sociale verschillen",
+		"prefix": "C",
+		"id": "73b40de9-d896-4b90-b3f2-a76cd8344546",
+		"fo_subdomein_id": [
+			"5d3d321b-be75-4e5e-a515-4a90e5adef08",
+			"c4dbb190-814b-4905-a7cb-d0af72bec92d",
+			"5841ef53-4bca-468f-a116-efd5028f8f04",
+			"2f8f0e4e-4d48-45a0-abd9-626a3c26b570"
+		]
+	},
+	{
+		"title": "Domein D Politiek en macht",
+		"description": "Domein D Politiek en macht",
+		"prefix": "D",
+		"id": "7e06ee67-1ce6-4b13-9e59-a3800f64a2cd",
+		"fo_subdomein_id": [
+			"c5cc22ed-0d05-4e58-8019-3bcea56c2785",
+			"95a2dfc0-3d56-440c-b2bb-7f2d2983a59d",
+			"f7104d5b-368b-416e-ac0f-9bb486757d64",
+			"98a6191d-a480-48c2-8323-045824ec9d27"
+		]
+	},
+	{
+		"title": "Domein E Dilemma's en rechtvaardigheid",
+		"description": "Domein E Dilemma's en rechtvaardigheid",
+		"prefix": "E",
+		"id": "8160db38-7e68-4ce7-9fee-1e4c050365cb",
+		"fo_subdomein_id": [
+			"67670e14-1c62-4cf8-9c6d-d491c4a152d2",
+			"b6778728-c20e-4383-8276-d148244b2b68",
+			"44517d01-4e97-4b92-9942-221e6e0e8b5b",
+			"e9012cd5-2809-475a-bf32-f43d18e6fb20"
+		]
+	},
+	{
+		"title": "Domein A  Aard van de natuurwetenschappen en technologie",
+		"description": "Domein A Aard van de natuurwetenschappen en technologie",
+		"prefix": "A",
+		"id": "08ec33c6-12d7-4215-8154-6d93951c09f0",
+		"fo_doelzin_id": [
+			"3164393b-d489-485b-8663-4ff54947688f",
+			"54648ec0-b187-4cd9-ac03-cfcfffebac43",
+			"24337c31-4397-4892-86e5-13fd207d4602",
+			"6bcb46ea-76ae-4576-b1a9-ab93576ba4e8"
+		]
+	},
+	{
+		"title": "Domein B Concepten",
+		"description": "Domein B Concepten",
+		"prefix": "B",
+		"id": "b2c7afc2-a589-469a-8b87-85f216862fb9",
+		"fo_subdomein_id": [
+			"801c4982-fe76-4dc3-8a0d-ce2391c56909",
+			"29e87340-91d9-406d-b4d8-402e1ff4b22b",
+			"f60e5b36-718e-466c-aa91-2887e983a35d",
+			"71cf0ee9-7610-4634-9858-41ff6a2cb4e7",
+			"aa1b23a2-2a24-47c7-931a-69b3de91d5dd",
+			"6c99b79e-3602-49d1-b536-6d5f14e5d747",
+			"aaf305d2-888c-42b7-8a25-718ac470e03c"
+		]
+	},
+	{
+		"title": "Domein C Denkwijzen",
+		"description": "Domein C Denkwijzen",
+		"prefix": "C",
+		"id": "98b3f35d-03c5-48b4-a94a-74424452229f",
+		"fo_doelzin_id": [
+			"a3b8eaf3-aae7-47b4-9503-cc9be59fcd4a",
+			"58b5d801-5b8a-4f0a-92f1-951a09fbab42",
+			"f5694025-a722-4053-aab0-5d5ffb804afa",
+			"cc7b641c-a688-48c3-ad6f-792ccefdb93f",
+			"8ca1cbe8-7483-454b-9a1f-6c599b0dc369",
+			"f420f9ad-d2e7-4a69-90f8-8a812e078169",
+			"0822de68-1476-4dd3-ab02-2a22c0dea14e"
+		]
+	},
+	{
+		"title": "Domein D Vraagstukken",
+		"description": "Domein D Vraagstukken",
+		"prefix": "D",
+		"id": "60618cce-c5ba-40ec-afff-8ab8a4a4daf4",
+		"fo_subdomein_id": [
+			"9bc7129d-5dd8-42ef-9898-9a6c648cc471",
+			"8cd905c2-e50c-4d0b-b221-1decebf4179a"
+		]
+	},
+	{
+		"title": "Domein E Werkwijzen",
+		"description": "Domein E Werkwijzen",
+		"prefix": "E",
+		"id": "fb03e4f3-88ac-45b8-9eac-c29e62205033",
+		"fo_subdomein_id": [
+			"795334f9-ebf0-461f-aea2-58e1302c7e57",
+			"0e57f7f0-ddf8-47cd-bf5b-e6159bd2a0e2"
+		]
+	},
+	{
+		"title": "Domein F Zelfontwikkeling",
+		"description": "Domein F Zelfontwikkeling",
+		"prefix": "F",
+		"id": "cce2b111-0100-48f0-b195-6c7cb70728af",
+		"fo_doelzin_id": [
+			"6d06cbd5-3670-4a8d-bd02-d004d4fd73f1",
+			"c007b65a-5568-424c-b2ee-e044253d6bc2",
+			"3a39019f-5851-47b8-aa7b-522a079fd1d6"
+		]
+	},
+	{
+		"title": "Domein A  Aard van de natuurwetenschappen en technologie",
+		"description": "Domein A Aard van de natuurwetenschappen en technologie",
+		"prefix": "A",
+		"id": "566d9856-7648-4743-aab6-e83a8a2d4018",
+		"fo_doelzin_id": [
+			"54fafc8b-e12e-4bed-80ed-87de07a11df9",
+			"799cdb0e-bd4f-4039-890b-5914d6ccf410",
+			"f704bcb1-08e9-4e48-b99f-9ac8a7133181",
+			"45774994-1041-49a1-b081-225a09a7d803"
+		]
+	},
+	{
+		"title": "Domein B Concepten",
+		"description": "Domein B Concepten",
+		"prefix": "B",
+		"id": "68793924-ec98-4854-86ab-a32e5917d4c5",
+		"fo_subdomein_id": [
+			"903e7636-c62e-4894-a46a-1246b19ac714",
+			"9d611a71-3196-4477-aa57-00fa4cdd0434",
+			"ebc6c3a9-b70c-4260-8d32-fd0fb0c1d40b",
+			"e287a286-7497-4b53-8e12-1548e1f4c80d",
+			"2056ca8a-90fb-45cb-ad97-d0fa1ea251a1",
+			"d12663af-6add-4275-be5e-f7aa834ead78",
+			"48a3c2b8-63ab-4acc-bcb5-5957a2c74b41"
+		]
+	},
+	{
+		"title": "Domein C Denkwijzen",
+		"description": "Domein C Denkwijzen",
+		"prefix": "C",
+		"id": "8e8c0484-8141-4519-9fad-87cd129172ca",
+		"fo_doelzin_id": [
+			"76833f6d-63d1-4958-b6e5-d9af4680b107",
+			"c0442a3e-240f-4cff-8243-224e1ff5beb3",
+			"b06b4b42-c93c-4896-9750-a75aec3dc718",
+			"d01cf702-c933-44a2-b951-fdb14a073a31",
+			"2b18df48-de1f-4281-a4b4-c6a86e7b27c6",
+			"6e577196-527d-40de-9a64-b530c72df640",
+			"97d487c0-b2c4-4ea7-9dac-df040757edf1"
+		]
+	},
+	{
+		"title": "Domein D Vraagstukken",
+		"description": "Domein D Vraagstukken",
+		"prefix": "D",
+		"id": "c08852bf-959f-40bb-9a6b-20804b0db747",
+		"fo_subdomein_id": [
+			"0ff58383-4d20-476d-9eee-0331c48f71ba",
+			"9a1b7a2d-f00f-4e3e-a89b-992e6636bb07"
+		]
+	},
+	{
+		"title": "Domein E Werkwijzen",
+		"description": "Domein E Werkwijzen",
+		"prefix": "E",
+		"id": "02fce159-3d15-426a-bbd9-b4bbea3ebed1",
+		"fo_subdomein_id": [
+			"0a957186-6536-4a3c-9f9f-e6284a84e9a0",
+			"a9ff0135-2a89-47d5-b9dc-0992a85dc3e2"
+		]
+	},
+	{
+		"title": "Domein F Zelfontwikkeling",
+		"description": "Domein F Zelfontwikkeling",
+		"prefix": "F",
+		"id": "2cd5a4b5-bba0-4400-a2d2-e556fbcb2ad7",
+		"fo_doelzin_id": [
+			"5c40979f-8f85-474b-b2bc-9e9556f40bde",
+			"cfad5668-b70d-429c-a737-a3ec76257439",
+			"a6fb9317-0418-4704-9029-e1df2ab17e4f"
+		]
+	},
+	{
+		"title": "Domein A  Aard van de natuurwetenschappen en technologie",
+		"description": "Domein A Aard van de natuurwetenschappen en technologie",
+		"prefix": "A",
+		"id": "ae79ccb1-be63-489c-9f50-cd5009aa6ad3",
+		"fo_doelzin_id": [
+			"48be6765-0aa5-487d-8d6c-9b076f6da6c6",
+			"56c10f0e-d72d-44aa-bcd2-3864b84692d1",
+			"9d190e30-2c95-4765-adab-be075250cbfb",
+			"304a5f34-cfd1-41a0-98d2-5dc97b698fc0"
+		]
+	},
+	{
+		"title": "Domein B Concepten",
+		"description": "Domein B Concepten",
+		"prefix": "B",
+		"id": "7d1624cd-9b76-49e3-9fb8-dbacb8f8ac6c",
+		"fo_subdomein_id": [
+			"766dd022-0c33-4d09-b8dd-6296c4c55fed",
+			"e0a62bb7-0aa3-457e-8f50-ec76dd264747",
+			"bed8ed4b-5dd0-4dbe-bfc6-7662e5317dc8",
+			"805ae3b9-91ad-43a2-8590-d38226ddc4fc",
+			"05c6e7cb-bca7-4221-8147-66dbddc326d3",
+			"19086dc2-a414-4814-9272-b1f9f40df60f",
+			"6798ddea-04e3-4265-9835-77088a4a2d62",
+			"69478889-10e2-4dbf-8fbe-cc6c8df6c0d9"
+		]
+	},
+	{
+		"title": "Domein C Denkwijzen",
+		"description": "Domein C Denkwijzen",
+		"prefix": "C",
+		"id": "873ea5b1-f00f-4d70-b706-44f149ff5726",
+		"fo_doelzin_id": [
+			"d713e4aa-a65c-475a-a44d-c372fee34966",
+			"d8af8ccb-704c-47d8-af80-d4b10795c1cd",
+			"d08e142f-2b78-46b6-b196-afc284837971",
+			"ab6a1b26-cb0c-4dd1-8a3f-a7e4f4134fbc",
+			"0bbbc94a-06de-4d5f-88e8-39d4cb3986ef",
+			"362096f1-e63d-4bf5-94ad-fc169cbf3140",
+			"0f70d3a8-09ec-4f1a-a4bc-1b77727c2f54"
+		]
+	},
+	{
+		"title": "Domein D Vraagstukken",
+		"description": "Domein D Vraagstukken",
+		"prefix": "D",
+		"id": "9f5472e5-4074-4099-bc51-4f2565d3cfc2",
+		"fo_subdomein_id": [
+			"368c12f2-984a-4a16-9966-620a3dccfc39",
+			"27fb7f2f-6f4d-4302-8f70-04cefa387189"
+		]
+	},
+	{
+		"title": "Domein E Werkwijzen",
+		"description": "Domein E Werkwijzen",
+		"prefix": "E",
+		"id": "e0d28831-56c3-482b-a42c-942c0952a0dc",
+		"fo_subdomein_id": [
+			"6a5430a3-b99e-4204-be4b-98033204be2e",
+			"3fdc987d-4691-4e6b-80ff-9eb7fd73ba3c"
+		]
+	},
+	{
+		"title": "Domein F Zelfontwikkeling",
+		"description": "Domein F Zelfontwikkeling",
+		"prefix": "F",
+		"id": "c1ae1856-b032-48fc-ba31-dd379aa0b7f5",
+		"fo_doelzin_id": [
+			"4c963f63-b008-4dc1-a0e0-b2f5b1fea2af",
+			"aec1304a-5f19-4438-9dc7-5e4c86e0532d",
+			"d04997c3-9780-427a-96a2-f95a68edd815"
+		]
+	},
+	{
+		"title": "Domein A  Aard van de natuurwetenschappen en technologie",
+		"description": "Domein A Aard van de natuurwetenschappen en technologie",
+		"prefix": "A",
+		"id": "23f18997-19a3-4043-8741-4d6ca5f3ac17",
+		"fo_doelzin_id": [
+			"ff0a5e55-5ed0-4dcb-be6d-6367af0152d8",
+			"ff5e275e-b5a4-45e0-bfc6-b1ba043c7124",
+			"ab72cb7f-dcab-4f4e-a977-f53e81fbf12a",
+			"27af665d-25e6-4242-b91a-7a146b769b78"
+		]
+	},
+	{
+		"title": "Domein B Concepten",
+		"description": "Domein B Concepten",
+		"prefix": "B",
+		"id": "7f65e08d-f412-493b-b176-d437355eb248",
+		"fo_subdomein_id": [
+			"6d9f29c8-cd93-4913-8557-59f9bd544032",
+			"66a503ae-cd4a-4ea2-9c0c-efda0f07182f",
+			"3bf006b3-4d0e-43e1-a352-f7d5b643e3bf",
+			"86cebb01-b6cd-4995-aab9-c2474ae68f96",
+			"6faaaa03-540a-4d4a-85ab-c2e6e57046d0",
+			"50af247f-44ba-4c7f-9a0b-fc48f377edfa",
+			"a3099f36-a16a-419d-ac4e-207cf88e970e",
+			"1c7b2869-ce33-4a49-9779-4523eba5ebbc"
+		]
+	},
+	{
+		"title": "Domein C Denkwijzen",
+		"description": "Domein C Denkwijzen",
+		"prefix": "C",
+		"id": "95970d32-5788-491d-ae95-8e4c6cd75aa5",
+		"fo_doelzin_id": [
+			"84c45b11-a91f-4b96-a093-bb6a93000726",
+			"60bc6f6b-e282-4fd9-9c18-3e994e707bf4",
+			"3c4439eb-0744-4510-bcd8-49dd7c34cd10",
+			"93945fde-5134-4a2d-bdac-bc31b549a9d1",
+			"a6b09ae1-d104-46fc-9886-f28211b3a5a1",
+			"93b5b27a-3f5b-487c-989a-766a9b9cf384",
+			"00b7437b-84a5-4aeb-8522-6faa1aeaa346",
+			"eca323a6-c444-4268-9766-5db1287da955"
+		]
+	},
+	{
+		"title": "Domein D Vraagstukken",
+		"description": "Domein D Vraagstukken",
+		"prefix": "D",
+		"id": "cba0ad81-248e-434e-9e45-7d7cd579f5f5",
+		"fo_subdomein_id": [
+			"7ca90320-34c6-4e5c-84c6-3794ae7806ce",
+			"b20958a8-c92d-4a84-b7fe-2b921dfbaef3"
+		]
+	},
+	{
+		"title": "Domein E Werkwijzen",
+		"description": "Domein E Werkwijzen",
+		"prefix": "E",
+		"id": "19cef084-207a-4a70-bf7d-2a32d6a63314",
+		"fo_subdomein_id": [
+			"2e17c1e8-1993-40da-bd6b-53fb76872ab0",
+			"7f229d50-498d-4cf3-aa0e-62d75b2298bc"
+		]
+	},
+	{
+		"title": "Domein F Zelfontwikkeling",
+		"description": "Domein F Zelfontwikkeling",
+		"prefix": "F",
+		"id": "48ec9284-3db6-488d-8d6f-4b16cc041fe7",
+		"fo_doelzin_id": [
+			"3c81b0e4-b906-4bcf-9f24-762f05e00e31",
+			"1b833ca9-0202-468e-9347-37b5c008efdb",
+			"fb95da8e-6254-4209-bb13-dcacf59b94b0"
+		]
+	},
+	{
+		"title": "Domein A  Aard van de natuurwetenschappen en technologie",
+		"description": "Domein A Aard van de natuurwetenschappen en technologie",
+		"prefix": "A",
+		"id": "793a1851-fdae-428d-93d3-37933c7652f2",
+		"fo_doelzin_id": [
+			"4ba5cd0e-63f0-4d11-9f2e-d4788a3a80a2",
+			"f02e991e-07fa-4f71-95a0-443c04cb4cd5",
+			"be3225b2-0423-49f5-937f-c9e6f24ce78a",
+			"b10b5cee-79ed-4f3f-ae3a-691f9b076643"
+		]
+	},
+	{
+		"title": "Domein B Concepten",
+		"description": "Domein B Concepten",
+		"prefix": "B",
+		"id": "6508925b-5efc-4349-9f5b-47a5484b9f73",
+		"fo_subdomein_id": [
+			"c93c7d94-2533-426e-93a9-3cb93eb671d1",
+			"2284e03a-718c-451e-ba49-d1858828c534",
+			"2c12bef4-8bb7-41c5-b8f6-161ca78d6e0c",
+			"0d47f389-ff4c-485c-a15d-6b4a28ee6d58",
+			"1e6976a8-a7e3-4575-bfa7-d9fddad3d325",
+			"7b00d538-b6aa-4da1-87be-3a23ef9f2f3e",
+			"1a1f35e8-fd9e-4499-8fb7-da1611bb4d8f",
+			"474d1c66-7a35-4031-b0ec-5cc0ec91bb31",
+			"7e8a57dc-c1c5-49e5-a462-d67e529f1798"
+		]
+	},
+	{
+		"title": "Domein C Denkwijzen",
+		"description": "Domein C Denkwijzen",
+		"prefix": "C",
+		"id": "75d40c1a-f500-43f5-9b69-a7550d5c2c7c",
+		"fo_doelzin_id": [
+			"98f07276-95e9-4838-b80b-42fbd7f78d9e",
+			"ca9746dc-38cd-47e2-ba8b-a478da46df4e",
+			"bafb7113-efd1-4500-90ab-e54ce28813f8",
+			"b91fcb3d-4a39-46ee-ae32-a97619bfbd20",
+			"77222ff1-a297-4efa-a6ad-c8295b553ff3",
+			"494b847b-82dd-4188-bb24-82c43162d4ed",
+			"ff4203ad-f59b-42fb-8085-ebb5bd94148f",
+			"dbf9c80e-33d9-467b-9da8-1122c4671b55"
+		]
+	},
+	{
+		"title": "Domein D Vraagstukken",
+		"description": "Domein D Vraagstukken",
+		"prefix": "D",
+		"id": "76bd5127-a022-4eaf-8f97-f89d37d366ed",
+		"fo_subdomein_id": [
+			"214416d0-1e9e-4269-8016-cf4993628a4d",
+			"d452a1d8-b14a-4279-ab60-897f35b5e153"
+		]
+	},
+	{
+		"title": "Domein E Werkwijzen",
+		"description": "Domein E Werkwijzen",
+		"prefix": "E",
+		"id": "439dcf58-78aa-4088-b07f-31e8ab1a7bde",
+		"fo_subdomein_id": [
+			"673e5769-e8b6-4fbd-a0cb-66a5caba15a0",
+			"19fa1792-1c36-43b4-9f66-accef9ff90a6"
+		]
+	},
+	{
+		"title": "Domein F Zelfontwikkeling",
+		"description": "Domein F Zelfontwikkeling",
+		"prefix": "F",
+		"id": "2b4a12eb-a2f3-474a-9c15-bb71ea3a3472",
+		"fo_doelzin_id": [
+			"fef3ab5b-c05e-4689-bede-1742d938ef96",
+			"42522e45-d5de-497f-a4b9-e3c0a5e814d3",
+			"c767c7ba-fba7-4615-82d4-7954de31052b"
+		]
+	},
+	{
+		"title": "Domein A Aard van de natuurwetenschappen en technologie",
+		"description": "Domein A Aard van de natuurwetenschappen en technologie",
+		"prefix": "A",
+		"id": "2748e73a-4e7a-4d10-b859-35a3e72db601",
+		"fo_doelzin_id": [
+			"6fab58eb-a671-4e8d-9cb5-d97881749856",
+			"b4501784-2de1-4d4d-804e-e4cb2473b62b",
+			"dc17469f-aa87-4e33-a211-11473cd2df56",
+			"09ecd5a3-bb89-4b8e-ae7d-1f10ad38dbf2"
+		]
+	},
+	{
+		"title": "Domein B Concepten",
+		"description": "Domein B Concepten",
+		"prefix": "B",
+		"id": "bc718a6f-abda-48af-8ba6-ccb025957760",
+		"fo_subdomein_id": [
+			"9c04e3a0-6e47-4146-9fb3-052534fe79d1",
+			"d5a777d3-83e5-40b5-81b9-f82a3674eaa8",
+			"8dd36093-e5ff-49cc-95f3-e2d2a3eab050",
+			"85e9ed2c-262e-4daa-b981-bd9ffa7759f4",
+			"8f5de3f8-b2a4-4074-8897-10bfb9b0ad1f",
+			"2971c5fb-78e3-40fc-9126-25f143d17dfe",
+			"565959be-a1c4-48f5-af33-770a9e1108d9"
+		]
+	},
+	{
+		"title": "Domein C Denkwijzen",
+		"description": "Domein C Denkwijzen",
+		"prefix": "C",
+		"id": "5ec5f08d-35e3-4e41-b14e-792626ab120c",
+		"fo_doelzin_id": [
+			"bd02bf93-71ae-4db6-a379-24c8211dbe89",
+			"85fb41c3-d001-4000-bb9c-69de15ef07bf",
+			"b6ce81f1-7ae2-4b08-8f72-df21e1c9c5c3",
+			"63a42408-2eb9-4054-9700-6c2bbfc7d4cf",
+			"dcd7efcb-caf8-4cde-809e-22dbd7dcbc2d",
+			"15629525-2874-46f5-adac-34aad4093452"
+		]
+	},
+	{
+		"title": "Domein D Vraagstukken",
+		"description": "Domein D Vraagstukken",
+		"prefix": "D",
+		"id": "dc894614-1cb5-42d6-9ef0-00894e37581f",
+		"fo_subdomein_id": [
+			"a8a9d7d0-dde7-4321-9ab2-bdbc9a4cdfa2",
+			"6801c391-4b6a-44bb-a4e8-9f2823201ea5"
+		]
+	},
+	{
+		"title": "Domein E Werkwijzen",
+		"description": "Domein E Werkwijzen",
+		"prefix": "E",
+		"id": "090da0fc-24ae-4ec7-a2cf-02b2e74b715e",
+		"fo_subdomein_id": [
+			"93285ebb-7844-4825-93f9-24db56a45b1a",
+			"50058bec-fb9b-45cd-a0da-cb16f381b57d"
+		]
+	},
+	{
+		"title": "Domein F Zelfontwikkeling",
+		"description": "Domein F Zelfontwikkeling",
+		"prefix": "F",
+		"id": "618bda60-7db3-4e49-87f5-a23111ef580d",
+		"fo_doelzin_id": [
+			"411096f4-ddef-4c07-a399-d9a028c4991e",
+			"5f81c6f0-ea22-4f0e-9f4b-f24c26dbf607",
+			"631647a8-b0e7-4a5f-a18b-7727b5882c6f"
+		]
+	},
+	{
+		"title": "Domein A Aard van de natuurwetenschappen en technologie",
+		"description": "Domein A Aard van de natuurwetenschappen en technologie",
+		"prefix": "A",
+		"id": "0a74ccfe-5b2c-43e0-abeb-d950a42cbac5",
+		"fo_doelzin_id": [
+			"1a1d2ddf-d549-4d2e-928f-8cf0ed78c64c",
+			"6b1f657e-bf35-44d8-be9e-8fb30823c5f7",
+			"d256677e-fbf8-435a-88b3-ce1082f5e9dd",
+			"5eb9dd74-bfe1-4435-a509-2b526c4aa917"
+		]
+	},
+	{
+		"title": "Domein B Concepten",
+		"description": "Domein B Concepten",
+		"prefix": "B",
+		"id": "e6458316-a8b4-4148-8aff-a1295efe67bb",
+		"fo_subdomein_id": [
+			"c16ffb3f-a67a-4a6d-8a33-0317d1fbdea7",
+			"e07f8140-0d76-4e31-975a-78dff50ff863",
+			"5fc5d995-6b47-444b-a363-0bf8d1d79542",
+			"c5796b15-a9d3-43bc-aff6-6824cfad8782",
+			"852f6526-bbb6-4497-96a1-fb02b7efce5a",
+			"a691e288-9ec5-43c0-b554-8d0dd55d0986",
+			"04a21e76-322a-47a8-bbd2-7be8250bed20"
+		]
+	},
+	{
+		"title": "Domein C Denkwijzen",
+		"description": "Domein C Denkwijzen",
+		"prefix": "C",
+		"id": "9d6e052d-a0a3-4c7f-aadc-bb94be6df03f",
+		"fo_doelzin_id": [
+			"1024427c-e3b2-4aa7-9191-92d7487dcc38",
+			"fe36d333-55d0-4b9b-8e66-5cf27f535ffd",
+			"202cc772-6ebb-4c43-970b-36b13ab5ee80",
+			"e63a2905-240e-4c05-88bf-37fe9effefc0",
+			"06f250bc-a3cc-4e1b-9dc2-0430e3ad0b92",
+			"1bad1ca4-219c-446b-8f0b-60afd1a67bfb"
+		]
+	},
+	{
+		"title": "Domein D Vraagstukken",
+		"description": "Domein D Vraagstukken",
+		"prefix": "D",
+		"id": "f788f6c3-298b-473b-bc54-fa9a75ee64b1",
+		"fo_subdomein_id": [
+			"3dd67cd3-7154-4094-9509-02df46ffc92c",
+			"56f34b41-5c99-4713-9a66-3e49f5dd36fd"
+		]
+	},
+	{
+		"title": "Domein E Werkwijzen",
+		"description": "Domein E Werkwijzen",
+		"prefix": "E",
+		"id": "08f5dca9-0c4a-4871-a4cb-bf3fb70677a7",
+		"fo_subdomein_id": [
+			"b5d8fb9b-d36f-4f9f-b1b4-6b3bc39a52c4",
+			"a4d78bb6-899f-4cd7-81f7-daa4f2bc8c4d"
+		]
+	},
+	{
+		"title": "Domein F Zelfontwikkeling",
+		"description": "Domein F Zelfontwikkeling",
+		"prefix": "F",
+		"id": "c8650ec2-f327-46c5-9b0c-d661a2125680",
+		"fo_doelzin_id": [
+			"85c37bb6-fdb5-4c4e-b994-69de49f40971",
+			"580883ef-3ce9-4d0b-9677-e8828bddf044",
+			"24069ec1-dd57-4142-afa5-71a736a8ed64"
+		]
+	},
+	{
+		"title": "Domein A Aard van de natuurwetenschappen en technologie",
+		"description": "Domein A Aard van de natuurwetenschappen en technologie",
+		"prefix": "A",
+		"id": "9691cd91-a24b-453d-9ef5-37cd99df9e34",
+		"fo_doelzin_id": [
+			"6c079680-d6d1-408e-94a9-6d706c933d95",
+			"1c3767ce-2efc-4f13-99aa-b84a0e0fa613",
+			"33d68f6b-81f7-471a-9163-19242804c21a",
+			"d2af299c-dbaa-4951-a960-37cf2697da37"
+		]
+	},
+	{
+		"title": "Domein B Concepten",
+		"description": "Domein B Concepten",
+		"prefix": "B",
+		"id": "244d5b5f-dc01-4dcc-bb2c-234ae1f55ca2",
+		"fo_subdomein_id": [
+			"8952a93f-fd61-4f4f-8291-354b6dc53018",
+			"e543da1a-8d69-448a-b291-1cf2bfa16d50",
+			"5bdfa77e-3721-4d30-b5ba-6343db1a2ee7",
+			"6456e133-4265-48fc-807c-7d78848556e6",
+			"344f5560-f39e-4d5a-9f51-98edc76965d7",
+			"3eb93071-90e0-4e3b-b445-34596b09a4bf",
+			"665c9b30-d8c0-4fa2-9bec-acdd0ec0e5ea",
+			"29a0d0cb-9407-4539-886e-0b442cd9fe12"
+		]
+	},
+	{
+		"title": "Domein C Denkwijzen",
+		"description": "Domein C Denkwijzen",
+		"prefix": "C",
+		"id": "32523b56-dc86-4823-a5e1-896cef926eaa",
+		"fo_doelzin_id": [
+			"3476b72a-9d8a-419f-a4c4-2231e0a68f7c",
+			"877ad148-c38c-4e6c-8228-a6ecc1cb3c24",
+			"3285bf03-4ab1-460c-aa16-a3df6b662a9a",
+			"4fb182b2-035e-4a86-a8d5-c912f27258ff",
+			"17bbf764-e089-4b18-94b4-687337d62df6",
+			"b973d300-e3b3-4cc7-973a-f026ecbe588f"
+		]
+	},
+	{
+		"title": "Domein D Vraagstukken",
+		"description": "Domein D Vraagstukken",
+		"prefix": "D",
+		"id": "2aebdc1f-288a-4004-b8b6-492bf7ba16d0",
+		"fo_subdomein_id": [
+			"875f2a53-b6e7-4c0d-a564-4ae3df6e86d6",
+			"2f46c025-96f4-41c8-b99b-344425cadb70"
+		]
+	},
+	{
+		"title": "Domein E Werkwijzen",
+		"description": "Domein E Werkwijzen",
+		"prefix": "E",
+		"id": "123edcbb-f4af-4abe-ac2b-78ba38fd7fc9",
+		"fo_subdomein_id": [
+			"07ee0cdb-f57e-4fba-b0c7-6d2c7a4fa96f",
+			"eb7edd07-a8eb-42ca-84ea-60003a15da52"
+		]
+	},
+	{
+		"title": "Domein F Zelfontwikkeling",
+		"description": "Domein F Zelfontwikkeling",
+		"prefix": "F",
+		"id": "d8ef99ff-7a9d-4275-807d-cf33cbe4dd43",
+		"fo_doelzin_id": [
+			"30df0134-1b59-4be7-b0d5-adb31d570a4d",
+			"1a9362dd-ba5f-41e6-8bcf-ecb5bcddb055",
+			"387d2140-4551-4637-9e4b-fa1958f88b70"
+		]
+	},
+	{
+		"title": "Domein A Aard van de natuurwetenschappen en technologie",
+		"description": "Domein A Aard van de natuurwetenschappen en technologie",
+		"prefix": "A",
+		"id": "ba35f48f-4b5d-4e8f-8953-02c81672ee6a",
+		"fo_doelzin_id": [
+			"282c9e2d-45cc-404f-a377-5b319195b789",
+			"add0c872-80af-475f-9496-1d65ea38a67a",
+			"d6605ce1-40a4-4fa4-b768-b39179d386b9",
+			"6068a4d9-f289-495d-87f2-653395850f49"
+		]
+	},
+	{
+		"title": "Domein B Concepten",
+		"description": "Domein B Concepten",
+		"prefix": "B",
+		"id": "5e4b93fc-740c-49e1-aad4-db8b273466df",
+		"fo_subdomein_id": [
+			"491a3ea2-404b-42b2-bd02-8e854e5b62e2",
+			"fa0ab4bc-2490-4f31-a3d2-7c40b692c5a2",
+			"d74c464d-1557-442e-b75d-cf9d05463233",
+			"1a65feae-6773-4b54-ab5c-c53212d4d733",
+			"2bc908f0-439a-451d-bcda-f19abbd4b1d1",
+			"42e99e8d-179c-4d34-8162-58bdcb90a60b"
+		]
+	},
+	{
+		"title": "Domein C Denkwijzen",
+		"description": "Domein C Denkwijzen",
+		"prefix": "C",
+		"id": "cf10a57c-c106-4d3e-8a7e-b6a0bb0ebf06",
+		"fo_doelzin_id": [
+			"b72a6851-fcc7-4278-bf92-d080e1a39001",
+			"12543388-1126-4aff-9abc-6aac9c5f1c4d",
+			"c0ac004b-852b-4d00-8500-98f99e047023",
+			"d6158d91-dd8e-48d0-b5fc-98446a22bb68",
+			"43ec1c76-2526-4547-9866-fa585fccef7f",
+			"e0609eaf-a4d4-4c58-864c-6d2009dacf28",
+			"b3e18eda-9091-48af-ae66-65fdafd22abc"
+		]
+	},
+	{
+		"title": "Domein D Vraagstukken",
+		"description": "Domein D Vraagstukken",
+		"prefix": "D",
+		"id": "3c04efcd-fba1-4dd1-8398-ef0f6d255d54",
+		"fo_subdomein_id": [
+			"5fa074c1-722e-49a6-a6cb-2d2d88def8e9",
+			"1ef5eb32-f299-4b2d-9d8a-1e4c46e3a95d"
+		]
+	},
+	{
+		"title": "Domein E Werkwijzen",
+		"description": "Domein E Werkwijzen",
+		"prefix": "E",
+		"id": "cb7be1ad-35cf-406b-a783-099f48b44a87",
+		"fo_subdomein_id": [
+			"29dfc114-63fd-4f5a-bec1-440f048ff42d",
+			"7eb080cf-5219-46df-aec1-5be21c1e0939"
+		]
+	},
+	{
+		"title": "Domein F Zelfontwikkeling",
+		"description": "Domein F Zelfontwikkeling",
+		"prefix": "F",
+		"id": "f346452b-ce56-4271-994c-58229330dbe7",
+		"fo_doelzin_id": [
+			"57b4bd9d-d305-4f22-a7f3-a69850f16e9e",
+			"b39decc4-115e-4f8c-94bb-870caed614e3",
+			"2fe06a35-7e68-4c2b-abf2-1dc260955967"
+		]
+	},
+	{
+		"title": "Domein A Aard van de natuurwetenschappen en technologie",
+		"description": "Domein A Aard van de natuurwetenschappen en technologie",
+		"prefix": "A",
+		"id": "29e9939a-5dcf-445a-bd99-00e372ace36b",
+		"fo_doelzin_id": [
+			"f5ac8085-71bf-4a7d-a455-0fe84e17dc47",
+			"66c31b5c-cac9-467f-ade9-20456ce268e4",
+			"7366bba1-066b-4380-9c82-19c4bab3d02c",
+			"375f12ea-f191-4d9b-98f7-a3d94c8d2319"
+		]
+	},
+	{
+		"title": "Domein B Concepten",
+		"description": "Domein B Concepten",
+		"prefix": "B",
+		"id": "4a1e1155-d825-44ec-987e-9c83e4be553a",
+		"fo_subdomein_id": [
+			"b873ad6c-25a4-4918-af0b-157226643b1e",
+			"46e3d022-d351-4bd2-bc6b-651808ccd2ed",
+			"763b8aea-fe9e-4830-b55a-95131c427f27",
+			"255669da-b5b7-4df0-b432-f3138fcf7038",
+			"05082f55-89b7-40df-bd93-165b6fa4a199"
+		]
+	},
+	{
+		"title": "Domein C Denkwijzen",
+		"description": "Domein C Denkwijzen",
+		"prefix": "C",
+		"id": "dc092a29-9d0e-4119-8c5d-7470929f2117",
+		"fo_doelzin_id": [
+			"2822f394-5310-4ebd-a403-caad01808bc3",
+			"1c30778e-27d8-4491-9aff-15820474ea37",
+			"07caab52-ad13-488c-8aee-6f5091b07c39",
+			"7b83c31b-db06-47ca-b23b-a3a55824d230",
+			"f31b1712-9960-4bad-836b-0af824fe31e8",
+			"103986e5-3e29-480e-a226-0350de645c76",
+			"fbaf0e89-c67a-4ee4-be4f-aa58e741b3e1"
+		]
+	},
+	{
+		"title": "Domein D Vraagstukken",
+		"description": "Domein D Vraagstukken",
+		"prefix": "D",
+		"id": "5b114735-df19-4191-97d6-d02e2b319581",
+		"fo_subdomein_id": [
+			"ad7c6861-dbb1-455f-9731-9da58ca5f882",
+			"8fb2ae95-1b27-440c-b49f-ef28d0bf5157"
+		]
+	},
+	{
+		"title": "Domein E Werkwijzen",
+		"description": "Domein E Werkwijzen",
+		"prefix": "E",
+		"id": "1aa020fc-9b73-4d88-b891-475b2eba243b",
+		"fo_subdomein_id": [
+			"23a41c32-59ca-4976-9bde-96a472076354",
+			"8c2241e3-fad3-4b9f-9dd7-d2686ff05d7b"
+		]
+	},
+	{
+		"title": "Domein F Zelfontwikkeling",
+		"description": "Domein F Zelfontwikkeling",
+		"prefix": "F",
+		"id": "21d2b250-bf89-47d9-bd4f-6682978512c4",
+		"fo_doelzin_id": [
+			"4b0d91c3-cd58-4d8a-b777-add7401ab641",
+			"0160fb57-203c-4a85-bf7e-15e50725df4a",
+			"10353691-a3e1-4eda-9383-97fbb2489987"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Domein A Aard van de natuurwetenschappen en technologie",
+		"prefix": "A",
+		"id": "fc46898c-ef25-4e67-9317-8bbbd23563ef",
+		"fo_doelzin_id": [
+			"2ce10d49-1f5d-4a1f-ba12-19ab31d72c86",
+			"289c2451-9027-4a94-8ba1-53a788cb3fcf",
+			"aef8d19a-85aa-4104-a6e3-d62847c9c44b",
+			"ae31e6e2-75c3-4bc3-abf6-f87de67c025f"
+		]
+	},
+	{
+		"title": "Domein B  Concepten",
+		"description": "Domein B Concepten",
+		"prefix": "B",
+		"id": "1efeae88-4210-4149-a9e7-d269fbad54c1",
+		"fo_subdomein_id": [
+			"196df7f1-7079-41fb-ae78-76397dbed04f",
+			"87b8518c-6e7b-425d-986c-58385ec3ac97",
+			"6d5355ec-5af6-466e-9ae6-3c61083ac481",
+			"e1d5093d-acf9-4171-aba2-ffa3b2901ddd",
+			"29d9e508-f3e6-4687-bb5a-3b922a69d105"
+		]
+	},
+	{
+		"title": "Domein C Denkwijzen",
+		"description": "Domein C Denkwijzen",
+		"prefix": "C",
+		"id": "40d064ce-6254-41c7-8e26-fd1b068dfb50",
+		"fo_doelzin_id": [
+			"a8d956e8-1c9d-4d66-8cf4-e4eb54fadd61",
+			"522e237f-83f1-410e-999f-ec316bd96a6d",
+			"08795599-874d-4221-9e26-4b06b0b0b367",
+			"6a4aa6df-43f4-4145-be0f-36c4164d476b"
+		]
+	},
+	{
+		"title": "Domein D Vraagstukken",
+		"description": "Domein D Vraagstukken",
+		"prefix": "D",
+		"id": "2ff1a9a8-320e-413c-b398-f61a1f2927cb",
+		"fo_subdomein_id": [
+			"2b524361-4b77-4ec4-8322-c9c8393c68b5",
+			"47fbbbe3-417e-428f-8001-187617f47ef3",
+			"f607b1af-82c6-472b-816c-9f0ba325c433",
+			"4355631e-d790-4943-9287-7b672ed35151"
+		]
+	},
+	{
+		"title": "Domein E Werkwijzen",
+		"description": "Domein E Werkwijzen",
+		"prefix": "E",
+		"id": "c014bdd0-bbea-443b-830e-4347b4ecf653",
+		"fo_subdomein_id": [
+			"7f06e81f-e8f2-441c-af84-19a76b7c49c0",
+			"3f84400f-52a4-4b8f-94b4-f6e4be99a8b7",
+			"68bc2162-c68f-494b-b3db-b0abb367e811"
+		]
+	},
+	{
+		"title": "Domein F Zelfontwikkeling",
+		"description": "Domein F Zelfontwikkeling",
+		"prefix": "F",
+		"id": "832aa26e-58d8-4faf-9b20-2af59b84a357",
+		"fo_doelzin_id": [
+			"7db1f8c1-8281-4c6e-a33e-6a8970bf8429",
+			"2d004bf6-2afc-4ba3-a486-14ee1e6ecb04",
+			"9ab710ad-4caf-47dd-8229-961c48ca124b"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Domein A Aard van de natuurwetenschappen en technologie",
+		"prefix": "A",
+		"id": "3bc01939-d1e7-4628-8a14-610211e74284",
+		"fo_doelzin_id": [
+			"811eb630-239c-49b2-9236-3cb509a975c6",
+			"61f78d16-7a48-46da-adae-0750f84949e0",
+			"e4c6b702-84a4-4fd5-bfbb-30265428921f",
+			"03327a24-d34e-4f0c-a938-6561689a26ed"
+		]
+	},
+	{
+		"title": "Domein B  Concepten",
+		"description": "Domein B Concepten",
+		"prefix": "B",
+		"id": "928b4913-0578-44b7-a9ad-cfc6b7bce085",
+		"fo_subdomein_id": [
+			"dd78fdb9-e6cf-483c-883b-e0e449752712",
+			"84e4838f-315b-4829-8785-98b652c8ff46",
+			"915bf6d7-bff0-459b-8846-dd297a5df5e8",
+			"a1960311-5a26-4730-adfd-41369f8ad39a",
+			"2004e03e-b8f9-4133-bc0a-085d47e7184f"
+		]
+	},
+	{
+		"title": "Domein C Denkwijzen",
+		"description": "Domein C Denkwijzen",
+		"prefix": "C",
+		"id": "f9bf73fb-d0e0-4985-a088-8dfb85e723ce",
+		"fo_doelzin_id": [
+			"55567f7e-9f53-48e2-8254-11cd22af612f",
+			"b3176201-fdc7-4f9b-9287-0d5680e81030",
+			"259a4576-8a29-4dbe-82b3-de3a5045d717",
+			"0d516536-0028-4e58-887c-4df6d788918f",
+			"77d9ce33-7dcd-4eb5-b148-907b2914ed1b",
+			"c5dad168-0079-43b5-8a87-4e6ed2d2ef3a",
+			"d9d55fa4-2def-4131-bf71-9d0fd7dbd744"
+		]
+	},
+	{
+		"title": "Domein D Vraagstukken",
+		"description": "Domein D Vraagstukken",
+		"prefix": "D",
+		"id": "a005b0e3-0eb9-412a-a72c-94e87ffc90ad",
+		"fo_subdomein_id": [
+			"4cf7e295-e3d9-48b1-a0da-23936b1095b5",
+			"fd599669-98c1-434a-997e-017206a7fc47",
+			"94bd44b2-41f6-480b-9d3d-35c0f3136206",
+			"24b8e65b-f9a9-4e5a-83dd-9368a3a60b45"
+		]
+	},
+	{
+		"title": "Domein E Werkwijzen",
+		"description": "Domein E Werkwijzen",
+		"prefix": "E",
+		"id": "e0eaf5f9-266b-46ff-8363-cfec928e9978",
+		"fo_subdomein_id": [
+			"e754634b-a795-43e8-9dd2-295d4428c8cc",
+			"a96bb39e-9a23-4c84-8147-073138525144"
+		]
+	},
+	{
+		"title": "Domein F Zelfontwikkeling",
+		"description": "Domein F Zelfontwikkeling",
+		"prefix": "F",
+		"id": "d5b3869d-9473-47dd-82a3-6ab1dbd344f0",
+		"fo_doelzin_id": [
+			"d875ad53-ef99-48f3-bbed-1afbaec5fa19",
+			"01952912-b33b-4389-83a2-1891ca3f82e8",
+			"ee63c0f4-78f6-474d-ae2b-32fff7c46041"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Domein A Aard van de natuurwetenschappen en technologie",
+		"prefix": "A",
+		"id": "2d90fbab-4441-45a8-9779-552f8c8ae09a",
+		"fo_doelzin_id": [
+			"c97b078a-40b8-4d7b-b6c9-f409007f5c00",
+			"35fc5ad7-e512-4c58-913a-29fcef6db7d3",
+			"34d120f4-72d2-4369-b6bb-07b740112528",
+			"e654cadc-ecaf-4917-b4a6-d13e484762f1"
+		]
+	},
+	{
+		"title": "Domein B  Concepten",
+		"description": "Domein B Concepten",
+		"prefix": "B",
+		"id": "779a4187-5225-431d-b733-214cd167fb43",
+		"fo_subdomein_id": [
+			"ee605391-ac75-48be-b20e-7d6e49380b32",
+			"68deb63e-390f-4389-bbb6-09fbd7c8e3f6",
+			"07dfa9e0-a4a9-4a64-9b97-8779706b8092",
+			"2653a41d-7787-420d-8c0a-9d66b9180fac",
+			"bee53ab5-4c6d-4240-b47e-34aa34be8820",
+			"c9d6f231-b1eb-42b6-953f-ca3c29a3c332",
+			"0663b8ce-a6dc-4e36-9404-03cb6a9e0c23"
+		]
+	},
+	{
+		"title": "Domein C Denkwijzen",
+		"description": "Domein C Denkwijzen",
+		"prefix": "C",
+		"id": "623e2e31-1b66-4bcd-8c11-a5ea8e6dde93",
+		"fo_doelzin_id": [
+			"8fe367be-5791-46e4-871f-5e02d08c0462",
+			"219a61c2-22f4-4daa-9069-ce55e80a1d68",
+			"ff071658-12fb-41c1-8df3-f2cf97a49486",
+			"8838b6c0-4ff4-48a8-babb-2dce906830fc",
+			"cfad6253-6f59-4ae1-b07f-c53f17c7737b",
+			"486a2254-8bec-49f9-af1f-8d65bf7b7a5c",
+			"0adfc948-da7f-480c-b4fe-85347d7e0fdf"
+		]
+	},
+	{
+		"title": "Domein D Vraagstukken",
+		"description": "Domein D Vraagstukken",
+		"prefix": "D",
+		"id": "75d128fd-569a-4db2-a035-3b9daabaf951",
+		"fo_subdomein_id": [
+			"fa2ea334-24d0-4239-98a2-1916614291ef",
+			"cd48aa30-394c-4259-bf44-6d772152bdac",
+			"b3c6404c-a282-4a54-b6c7-13134127df2f"
+		]
+	},
+	{
+		"title": "Domein E Werkwijzen",
+		"description": "Domein E Werkwijzen",
+		"prefix": "E",
+		"id": "4ee5e1cf-cb9a-44e1-a419-9745f974ea25",
+		"fo_subdomein_id": [
+			"411da4b3-3cd8-43c1-af90-6a4a1448e431",
+			"c07cf74a-0bc4-4034-aef1-9e2ce01b0673"
+		]
+	},
+	{
+		"title": "Domein F Zelfontwikkeling",
+		"description": "Domein F Zelfontwikkeling",
+		"prefix": "F",
+		"id": "925b6dd8-9b21-4346-8126-17ff946cd6af",
+		"fo_doelzin_id": [
+			"01d16d6f-46e5-4d70-a848-7fc152dfc8dc",
+			"08153d19-a2e1-4d75-a877-a1b474b22e66",
+			"56535e05-6b08-4a76-86e3-d29585777e9c"
+		]
+	},
+	{
+		"title": "Domein A  Aard van de natuurwetenschappen en technologie",
+		"description": "Domein A Aard van de natuurwetenschappen en technologie",
+		"prefix": "A",
+		"id": "f9a5e66d-cfc6-49e8-b14b-16ed20795179",
+		"fo_doelzin_id": [
+			"d31da10e-0d37-49cb-a6d1-6055cd7baa1d",
+			"e4abf211-9cc5-492b-b419-d0d14a7efc5c",
+			"79632b45-65d5-42d3-b64c-215132f13f91"
+		]
+	},
+	{
+		"title": "Domein B Concepten",
+		"description": "Domein B Concepten",
+		"prefix": "B",
+		"id": "5e4870f1-ae55-42b9-9c3a-106e82455366",
+		"fo_doelzin_id": [
+			"91d0c23a-40e0-45bc-b2db-a0791433368d"
+		]
+	},
+	{
+		"title": "Domein C Denkwijzen",
+		"description": "Domein C Denkwijzen",
+		"prefix": "C",
+		"id": "565c3342-8e57-4ac3-b930-8c0685e231a0",
+		"fo_doelzin_id": [
+			"1152bb7e-c7dc-4540-9101-272a9dac34c8",
+			"9cd3bbe0-c657-47bc-89f8-2c2617c1d8fc",
+			"12575901-7f58-43e2-96df-71328409e6ce",
+			"6be212c8-51dc-4dd2-93b2-75e7ca3963b9",
+			"3e15dba0-b34a-4333-9cc8-c3ff92bb42fd",
+			"f7916b85-6008-4211-9874-bd807183abf6",
+			"b6315b0e-a53d-401f-b0fc-c9dde6143918",
+			"88e4c5f7-94df-4ba8-b129-24587f7da35f"
+		]
+	},
+	{
+		"title": "Domein D Vraagstukken",
+		"description": "Domein D Vraagstukken",
+		"prefix": "D",
+		"id": "8eeead3e-0707-484f-9b9c-c95799e74129",
+		"fo_doelzin_id": [
+			"59058d62-086e-49a1-8b04-968c5bbe7134",
+			"c5b8749a-80b9-40fc-805a-d6772fd61e6c",
+			"ad6854d3-4a58-4c18-802b-44ad2eaaeef7",
+			"d98e367c-85c9-42f2-97bb-ae22af222732",
+			"f2bf55b0-0c53-48a5-84e9-1ba99439e9ed",
+			"c8355014-4e3d-4269-b630-d9fa20b1b87c"
+		]
+	},
+	{
+		"title": "Domein E Werkwijzen",
+		"description": "Domein E Werkwijzen",
+		"prefix": "E",
+		"id": "7d40096a-0e3f-4377-8c88-662950bdc313",
+		"fo_doelzin_id": [
+			"580c1ada-9e84-460c-abe4-d9faea7d1ec3",
+			"81250f6d-6e15-4d98-b745-6deeceba83cb",
+			"2365c2ee-165e-4230-b1e6-94425c1a17f7",
+			"ff6cd9f1-5703-4933-9101-7ad0ef90435f",
+			"ecd63c35-d5de-483f-9d04-276b00953a46",
+			"daa9dc7d-43f9-4d2c-8a0f-9335ebcfe113",
+			"518ae28e-8715-4930-965f-5a7c50f331ad",
+			"da92a74e-470c-43df-9578-e1de6c951f08",
+			"855f0df6-fa0b-479f-a5b0-b1d037f18518",
+			"1ae69171-1ca2-4f84-8297-62a8db2fe227",
+			"ea003f1e-d4a9-46b3-9240-1b591aa30c7e"
+		]
+	},
+	{
+		"title": "Domein F Zelfontwikkeling",
+		"description": "Domein F Zelfontwikkeling",
+		"prefix": "F",
+		"id": "0a481940-db31-4741-ab17-cab854f19ab9",
+		"fo_doelzin_id": [
+			"24280423-45bb-49e6-9bb4-be4f28c15a0d",
+			"cdba9496-7a01-4b18-8580-8cc6e8296911",
+			"528a0ecd-f899-49ec-bf02-f52574025f05",
+			"b7db984e-a8d1-45fc-9496-fbe3bd189a3e"
+		]
+	},
+	{
+		"title": "Domein A  Aard van de natuurwetenschappen en technologie",
+		"description": "Domein A Aard van de natuurwetenschappen en technologie",
+		"prefix": "A",
+		"id": "ca01808b-6431-47cd-a448-c7e7a079926f",
+		"fo_doelzin_id": [
+			"8ed7d3dc-ae54-4506-8740-c011e8cb94d3",
+			"a7adbb74-1d61-4237-b2f0-d0fd527af03e",
+			"877fac75-d767-4011-890f-9b65d10b6b32"
+		]
+	},
+	{
+		"title": "Domein B Concepten",
+		"description": "Domein B Concepten",
+		"prefix": "B",
+		"id": "9100d41b-bde2-47d6-80f2-e2fb69496562",
+		"fo_doelzin_id": [
+			"2e368403-179a-43fd-a115-df04484564d9"
+		]
+	},
+	{
+		"title": "Domein C Denkwijzen",
+		"description": "Domein C Denkwijzen",
+		"prefix": "C",
+		"id": "df6a8cd2-c5f6-465c-870c-4725431aafc3",
+		"fo_doelzin_id": [
+			"864a24a8-5311-4af3-ac2d-4a02c806eea4",
+			"b0c18fdc-242f-4255-b78c-2215365d54bf",
+			"7ccfa04c-28fa-406c-9b09-ccbdefd48d6b",
+			"8e8ba9f6-e3ea-4c54-85f7-b6c8633b6dd7",
+			"e714cb82-c8be-4a30-ae67-1c7fd31ecfbc",
+			"a4decc0a-0030-466f-bf0d-e1ed6f1814ef",
+			"7306d810-2e0f-4fec-bcd5-1718b3cd3544",
+			"b9e9a632-dca2-4229-abca-bf8d8ae78be2"
+		]
+	},
+	{
+		"title": "Domein D Vraagstukken",
+		"description": "Domein D Vraagstukken",
+		"prefix": "D",
+		"id": "091e3cc1-dfe3-46a1-8433-c26c7bc09f00",
+		"fo_doelzin_id": [
+			"ed42e528-61af-4a0b-a8b1-b39f333d0347",
+			"be3d3a21-7fc2-4e5f-a463-b2d98d9a5eeb",
+			"a579c477-131d-4a00-a2dd-0ff7e6c8e2ac",
+			"cf8e3607-ace1-4f4f-b9f3-9e9f8a83051b",
+			"34dba79c-d71d-45ee-9eb2-3e1889384455",
+			"bc299383-f53a-4e00-bb4a-15050e111284"
+		]
+	},
+	{
+		"title": "Domein E Werkwijzen",
+		"description": "Domein E Werkwijzen",
+		"prefix": "E",
+		"id": "b1a04443-711c-42a7-8afe-fd06efe24b42",
+		"fo_doelzin_id": [
+			"e5135451-fc3f-4c76-8228-4a622802ca19",
+			"2239562a-4690-49e8-b7c5-ca9373863695",
+			"10078c40-dd3c-4097-bbe7-54ac9fa28fec",
+			"8f38e33a-42b1-4213-b4f4-849db704f5af",
+			"4d0f2903-25ff-42ce-a4bd-2b5abeb30689",
+			"a3faa814-8426-434b-8974-5fbe63e30eb5",
+			"b86c4084-1371-4e47-b2f0-6b019f08e26b",
+			"39451ae0-0861-43bd-bb3f-a1eb8d5d6814",
+			"3f0034ba-168c-4d09-8cf8-ae5654ff0d17",
+			"16e00c35-806e-4ba8-ad38-ecc5a6a12168",
+			"2a67ae14-5638-46a4-a8f9-69ac640b523b"
+		]
+	},
+	{
+		"title": "Domein F Zelfontwikkeling",
+		"description": "Domein F Zelfontwikkeling",
+		"prefix": "F",
+		"id": "45f8a265-152c-4b32-a6cc-f66835ed602d",
+		"fo_doelzin_id": [
+			"8475ed72-cd0a-49d0-bc02-86fa7ed0138f",
+			"2cf1a9f9-e61a-4d94-8be0-d02d3fd81856",
+			"173afcd3-318f-41a0-aa85-5f1af7366369",
+			"26953c68-8158-4d5c-ba3d-e43f317850e6"
+		]
+	},
+	{
+		"title": "Domein A  Aard van de natuurwetenschappen en technologie",
+		"description": "Domein A Aard van de natuurwetenschappen en technologie",
+		"prefix": "A",
+		"id": "1277e78c-d7f0-43b3-9323-bc1b5e896bc0",
+		"fo_doelzin_id": [
+			"a25278d7-1abf-4110-a433-d5bd420f6dc7",
+			"af49fe61-aeaf-4c82-a336-fedde1370aea",
+			"9c2f4483-d4ba-42f8-b4b6-29b77ce6f767"
+		]
+	},
+	{
+		"title": "Domein B Concepten",
+		"description": "Domein B Concepten",
+		"prefix": "B",
+		"id": "205fdfd7-d2a0-44e7-82fa-385d100226e3",
+		"fo_doelzin_id": [
+			"e4fe84e3-d2c5-4381-8b09-1115f6836fca",
+			"5ae6d77c-36f3-4e94-b195-d1c63e0ce434",
+			"9f0e4ade-d98a-4785-808f-1596d40888ca",
+			"5174759c-9584-4561-a4e4-d7c8e90b0b3f",
+			"fa9fffe0-3950-4577-ab12-8a48213c4d6b"
+		]
+	},
+	{
+		"title": "Domein C Denkwijzen",
+		"description": "Domein C Denkwijzen",
+		"prefix": "C",
+		"id": "4deb75be-51d0-4fe9-84db-7aac5f0656f4",
+		"fo_doelzin_id": [
+			"a8fe8a8f-0b76-483e-a3df-52d3a9007f0d",
+			"12c0de02-c4a6-48d4-ae53-eee9612b8a4f",
+			"58b894a6-4493-4109-a2c0-4da3b90d9ed9",
+			"b8454afe-2920-4afd-9af5-e74bb63eb809",
+			"cb7a3643-160b-4c90-b9ba-1b838f1c303d",
+			"f0ef3dc4-7e8d-40eb-ac29-04f304b9deb7",
+			"038f6472-d561-485d-8a0c-630ffed9c980",
+			"978ea322-3b00-40ce-a99c-f9d790382c0b"
+		]
+	},
+	{
+		"title": "Domein D Vraagstukken",
+		"description": "Domein D Vraagstukken",
+		"prefix": "D",
+		"id": "7436464c-bfcd-4ef9-b8e3-1d0c74740cb0",
+		"fo_doelzin_id": [
+			"cfacfa21-4982-4b73-91bb-c8876e06bcfb"
+		]
+	},
+	{
+		"title": "Domein E Werkwijzen",
+		"description": "Domein E Werkwijzen",
+		"prefix": "E",
+		"id": "c12830da-bdc1-4983-850c-dad595828f89",
+		"fo_subdomein_id": [
+			"deaa712c-6c6e-4602-b61c-3326cb2ba7e9",
+			"d92d2ce5-6465-4d8f-9523-2aaa4cd99fb6"
+		]
+	},
+	{
+		"title": "Domein F Zelfontwikkeling",
+		"description": "Domein F Zelfontwikkeling",
+		"prefix": "F",
+		"id": "29d37315-62ff-48f5-bccb-4a2c71806bf4",
+		"fo_doelzin_id": [
+			"4cfe89cb-7cfc-443f-94fa-a3f153e261e9",
+			"db3820cc-ce0b-489e-96d9-4a672c36304b",
+			"a6f06f18-47b1-4e5b-a4c9-1025946e9ef3",
+			"ec0486e1-bdc4-4d21-877a-fc22b8952bbd"
+		]
+	},
+	{
+		"title": "Domein A  Aard van de natuurwetenschappen en technologie",
+		"description": "Domein A Aard van de natuurwetenschappen en technologie",
+		"prefix": "A",
+		"id": "6ad2686e-8fb8-4dfd-a93d-96341494851a",
+		"fo_doelzin_id": [
+			"9c466162-e049-496a-a53a-c275d36328c9",
+			"97dff543-2888-4777-af46-af57b899579d",
+			"21e9cf97-63b3-49ae-bc9f-7a9710c7d3b5"
+		]
+	},
+	{
+		"title": "Domein B Concepten",
+		"description": "Domein B Concepten",
+		"prefix": "B",
+		"id": "1b2158ce-78be-4a81-997c-4a594c8ae56a",
+		"fo_doelzin_id": [
+			"2f8a7d94-53e7-457c-afba-429c2aea2939",
+			"8259e946-295c-472c-ae77-b534dc682c0f",
+			"70444bf7-e15e-4786-a38b-7140a39bce9c",
+			"5f7f4341-d44e-443a-b3f0-5c57e48c4b29",
+			"b4a9921d-59a1-4692-a51f-66cfcae1ac0c"
+		]
+	},
+	{
+		"title": "Domein C Denkwijzen",
+		"description": "Domein C Denkwijzen",
+		"prefix": "C",
+		"id": "c1559269-e15d-4e42-9dbe-6e00ebb57813",
+		"fo_doelzin_id": [
+			"f76b8e65-d8c1-411e-8cb8-54f760a06929",
+			"9a78264b-1efb-4ded-b12a-662efafd1401",
+			"64446801-e6e6-49a6-84d6-ab66c25986c5",
+			"27399e4f-90a7-47ac-a092-a86b285f303b",
+			"cb04a06a-547b-41f5-bb92-ac1eac09f6fe",
+			"b05a8878-6759-45a9-a766-1d4c954c2219",
+			"e0db7c35-2757-492b-8f9e-d44e4da48eba",
+			"e31ac7de-3e84-430a-b6c9-bca999c0fb8b"
+		]
+	},
+	{
+		"title": "Domein D Vraagstukken",
+		"description": "Domein D Vraagstukken",
+		"prefix": "D",
+		"id": "8058de33-ba03-45ba-8eba-dd389908c9c4",
+		"fo_doelzin_id": [
+			"ef403097-4aab-42c5-a5e1-807ee2f68be3"
+		]
+	},
+	{
+		"title": "Domein E Werkwijzen",
+		"description": "Domein E Werkwijzen",
+		"prefix": "E",
+		"id": "5de31e2e-7c5f-4e5a-96b1-b8fe6b531f93",
+		"fo_subdomein_id": [
+			"fc732e08-d140-4ccd-8c58-9b2e312d66c1",
+			"a24348df-3779-4cc6-baae-19dd6203d095"
+		]
+	},
+	{
+		"title": "Domein F Zelfontwikkeling",
+		"description": "Domein F Zelfontwikkeling",
+		"prefix": "F",
+		"id": "243c1bfa-5b2b-42ac-99ef-464424da24c3",
+		"fo_doelzin_id": [
+			"2fb6c184-f25a-447f-b154-399d2084007c",
+			"b94c74e8-0230-4d6b-94f3-1590e790faee",
+			"ca49af34-0d60-4e25-b2f1-8ea306df59cc",
+			"ca1bcdba-4a6e-4948-95fd-eb5bb237afd5"
+		]
+	},
+	{
+		"title": "Domein A. Domeinonafhankelijke ondersteunende vaardigheden",
+		"description": "Domeinonafhankelijke ondersteunende vaardigheden (DOV)",
+		"prefix": "A",
+		"id": "4a1ce3e6-bc7b-4e96-b869-46907fc54420",
+		"fo_subdomein_id": [
+			"5db54396-d65e-422f-b900-65f062d0e04e",
+			"e67af225-f999-45ba-8e8d-885087ea355d"
+		]
+	},
+	{
+		"title": "Domein B Verhoudingen en procenten",
+		"description": "Verhoudingen en procenten (VP)",
+		"prefix": "B",
+		"id": "a038fa63-17e1-4aaa-893d-1d7d4def7e5a",
+		"fo_subdomein_id": [
+			"a60f1b24-6dfa-4501-8297-2284d1b9cac7",
+			"3912dc98-a3bf-4eb9-b4e6-8a3479ea37fa",
+			"a7dc5b48-35ac-4863-88f1-2ebf1b12daed",
+			"9e9c55ee-a960-4503-a6a6-af721f30aec7"
+		]
+	},
+	{
+		"title": "Domein C Grootheden en eenheden",
+		"description": "Grootheden en eenheden (GE)",
+		"prefix": "C",
+		"id": "8a1b57ce-a278-4f52-8695-bf31f29151d2",
+		"fo_subdomein_id": [
+			"4b1bedf8-cb98-4251-b708-f3627c79d9d6",
+			"7768b9e1-fd28-461b-98df-653713d5a100",
+			"71ac969f-5271-4348-b2b1-e352048ccada",
+			"43374cb7-f663-4dd8-bfe6-d33b70a05080",
+			"936d4791-991c-43b7-809a-6ef0b779a635"
+		]
+	},
+	{
+		"title": "Domein E Verbanden, verschijningsvormen en vergelijkingen",
+		"description": "Verbanden, verschijningsvormen en vergelijkingen (VVV)",
+		"prefix": "E",
+		"id": "609ff30a-0a62-4492-953a-dfa61b87f8e9",
+		"fo_subdomein_id": [
+			"91e1fb0a-95c1-48e9-9af5-48c6e3e73dbe",
+			"f4a00784-2b8d-4b3a-b687-6ed4197c04cd",
+			"0be56ee3-aa88-42aa-b5af-f5d3aae755e6",
+			"095f184b-0937-425f-bc53-d5628c382ae6",
+			"6c8db581-4be6-46aa-864a-9a58e6630da0"
+		]
+	},
+	{
+		"title": "Domein F Twee- en driedimensionale ruimte",
+		"description": "Twee- en driedimensionale ruimte (23D)",
+		"prefix": "F",
+		"id": "27083826-f3c5-48ca-93d0-72bf83a7fd44",
+		"fo_subdomein_id": [
+			"81b7c9d8-f166-4ad6-9523-6596f1b8f2af",
+			"ea215377-d01b-4c17-9264-ec160f389ff4",
+			"31eebc67-a272-4e5f-8ae9-3dc021948906",
+			"bb63ba22-96ba-40f2-b745-c0742d4ce3c5"
+		]
+	},
+	{
+		"title": "Domein G Wiskunde en de wereld",
+		"description": "Wiskunde en de wereld",
+		"prefix": "G",
+		"id": "57c36369-9f9b-4de5-b4e3-bc498b485039",
+		"fo_subdomein_id": [
+			"46173636-f591-4255-b892-161a20ca957b",
+			"5d4e6826-27c5-4875-9c56-a75934cd6e59",
+			"96b90d8f-42e6-4ae1-9101-e8167a41a6e4",
+			"f86595ae-78b7-4b67-8d0c-45dabea0b04f",
+			"d96945b3-b1f1-4c6d-a871-7db8f79b8580",
+			"6ccc79c9-985a-476e-bd22-ea207687e7f8"
+		]
+	},
+	{
+		"title": "Domein A Domeinonafhankelijke ondersteunende vaardigheden",
+		"description": "Domeinonafhankelijke ondersteunende vaardigheden (DOV)",
+		"prefix": "A",
+		"id": "f1090a98-0e0a-4d08-b397-960b84716363",
+		"fo_subdomein_id": [
+			"56111e37-8fc6-48a3-9864-7e5c766f7592",
+			"6d45c713-f030-480a-b7c0-294bfa649ba1"
+		]
+	},
+	{
+		"title": "Domein B Verhoudingen en procenten",
+		"description": "Verhoudingen en procenten (VP)",
+		"prefix": "B",
+		"id": "de1c3c4e-087d-4626-9c3e-31233779d6be",
+		"fo_subdomein_id": [
+			"bc054529-1997-4328-8350-53029566fa8a",
+			"611f87c1-ce18-42ea-97da-992b600ef5ac",
+			"e4078c7a-36d7-48ef-8d03-4833ab6c3abe",
+			"c4c86ae7-e830-4f48-b66a-a40fba263b93"
+		]
+	},
+	{
+		"title": "Domein C Grootheden en eenheden",
+		"description": "Grootheden en eenheden (GE)",
+		"prefix": "C",
+		"id": "ace2ad85-a79e-48ea-87f1-420d8a591a13",
+		"fo_subdomein_id": [
+			"49076041-5257-44f5-9411-f538405cce70",
+			"f40a9331-4d7f-4cff-95b3-ba7acca76aa9",
+			"f07e5cf7-40f3-46ea-a56d-b1456736589b",
+			"086d8c49-ed59-4873-aea6-94081e7da023",
+			"40e5d266-cd1a-443b-a2ae-590b9f287896"
+		]
+	},
+	{
+		"title": "Domein E verbanden, verschijningsvormen en vergelijkingen",
+		"description": "Verbanden, verschijningsvormen en vergelijkingen (VVV)",
+		"prefix": "E",
+		"id": "316cbb2d-fb2b-49d3-af55-d3f93d96ad74",
+		"fo_subdomein_id": [
+			"0580cc80-b9e8-4a1f-a4df-c3cdb26766b0",
+			"679fd0bc-f606-4e6e-bc87-4000e8f6177d",
+			"9ec89fe6-515b-4103-87a6-84b88646f2ad",
+			"e5059acc-0480-45d2-bbfa-5b2e80f1db25",
+			"aa05ac27-7f0d-4635-8432-64f235be80e4"
+		]
+	},
+	{
+		"title": "Domein F Twee- en driedimensionale ruimte",
+		"description": "Twee- en driedimensionale ruimte (23D)",
+		"prefix": "F",
+		"id": "532cbf65-68bb-4625-8cfe-7a3af68c02db",
+		"fo_subdomein_id": [
+			"63a023c4-b739-4cf8-a4fc-9ee61abaecb2",
+			"cbf2b8ad-296c-4cd9-b6f5-ea5705c2cd08",
+			"e2d672f5-51a3-434b-8027-6bea7f4da8fc",
+			"5153c626-b60e-4dcf-b9b6-b51370c237b1"
+		]
+	},
+	{
+		"title": "Domein G",
+		"description": "Wiskunde en de wereld",
+		"prefix": "G",
+		"id": "02e8d29f-8239-4687-9a58-c1627818c8fa",
+		"fo_subdomein_id": [
+			"263507b2-1917-41dc-b061-5621e4699676",
+			"a35bb989-338d-4c59-aeca-1a530d883e22",
+			"31d5aec6-82cf-4204-b88c-2f3a0b0a6a5e",
+			"f19fe18b-5c28-456d-8088-71f0499340be",
+			"451d037d-ad17-4b40-b2f1-35dabb6401ec",
+			"891d71c4-f2e6-4621-8dea-f5cc604e8318"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Domeinonafhankelijke ondersteunende vaardigheden (DOV)",
+		"prefix": "A",
+		"id": "ac3a914b-4d4d-42ec-9abc-d60cef2b9007",
+		"fo_subdomein_id": [
+			"cd35c407-1284-407a-a733-7b85d8577607",
+			"b89c55a6-2d30-40a9-887d-6e1376a81cee"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Verhoudingen en procenten (VP)",
+		"prefix": "B",
+		"id": "4dde5f75-d187-4b18-841d-b9402e827516",
+		"fo_subdomein_id": [
+			"b004a89e-582c-4f7e-a8f9-bf4d5e2061d8",
+			"1b11b93e-c759-4ac0-962d-d0db9f3f4c73",
+			"c9eb3850-6d0b-4145-a6bc-c60a5cb0fd7f",
+			"3ec32c28-9030-423b-a89f-e9b7302fa788"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Grootheden en eenheden (GE)",
+		"prefix": "C",
+		"id": "c45fdfd7-e30e-46df-a909-3b5644eaa0ed",
+		"fo_subdomein_id": [
+			"39b05958-861b-4ea0-a7d3-8fe32d1bea15",
+			"cbcb69c2-e877-4624-bd87-41f31a495046",
+			"febff95f-9e22-4d7e-990a-77b89a33edce",
+			"beb19d0c-0859-4162-8794-4838453fb0b3",
+			"ee4206df-9588-49a3-ba71-a0f0ad6c55ab"
+		]
+	},
+	{
+		"title": "Domein E",
+		"description": "Verbanden, verschijningsvormen en vergelijkingen (VVV)",
+		"prefix": "E",
+		"id": "1660a9c7-b0b0-43e2-9900-b95f3a91bae8",
+		"fo_subdomein_id": [
+			"d27cfdf9-afd9-4920-a145-8c2877d5eb13",
+			"0dcf9dc1-c125-4125-a233-c6265b33a069",
+			"9ec03ecf-e951-4507-93a6-a587b0099915",
+			"026b1f8f-ba13-41e6-a7da-184d470d508f",
+			"12700ffa-6ff8-4e2e-b947-f7d69067b017"
+		]
+	},
+	{
+		"title": "Domein F",
+		"description": "Twee- en driedimensionale ruimte (23D)",
+		"prefix": "F",
+		"id": "7c3b0c54-5646-4b62-913e-462823fe7c7b",
+		"fo_subdomein_id": [
+			"772ae2b6-8d39-44c4-8172-ab903a3b517a",
+			"287b4434-a77d-4b42-82ea-aa08a6569d80",
+			"e96273c6-bd1b-44ed-9c9e-e039c6b35b61",
+			"204ffbd8-bf36-4ae4-bba6-fef73d75a3ee"
+		]
+	},
+	{
+		"title": "Domein G",
+		"description": "Wiskunde en de wereld",
+		"prefix": "G",
+		"id": "affbc61d-f4a6-49d0-b509-1cba0390ca56",
+		"fo_subdomein_id": [
+			"e3f623ce-a60d-4539-b061-92871d0b09c4",
+			"01fd3d84-eaa5-4082-90e6-5d08ded99b3a",
+			"e2430e1d-981c-4eaa-add1-6e69c25f79ab",
+			"eb75e7c4-7fc9-4878-beea-6ad46eb69883",
+			"e4fcd716-ab30-4bec-87fb-bf789568b790",
+			"829e6abf-6755-4dba-9e53-debbdc2fb499"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Domeinonafhankelijke ondersteunende vaardigheden (DOV)",
+		"prefix": "A",
+		"id": "a56c7bff-0cf0-4a2e-ab07-2f7b0438f7bf",
+		"fo_subdomein_id": [
+			"d02f3779-2aca-4f55-8191-3dcf1a199d53",
+			"20f94029-32c5-4612-909f-103ca3110c2e"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Verhoudingen en procenten (VP)",
+		"prefix": "B",
+		"id": "12ecacad-52ea-4a45-a61b-e815a55fa38f",
+		"fo_subdomein_id": [
+			"724e779f-f394-43ec-b2c1-91e5f4ae0f69",
+			"8ade449f-25ee-46d7-8809-0c29c8d2a14a",
+			"04a21fdb-c102-4f73-8854-7f78533156a1",
+			"d7709e8c-7073-4cd8-9bd7-f4465b755378"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Grootheden en eenheden (GE)",
+		"prefix": "C",
+		"id": "56c4c92b-50bf-4cb6-a734-5604f7f1b699",
+		"fo_subdomein_id": [
+			"1bee384e-d57f-47bf-bab5-9fafbf259277",
+			"51254bc0-40ce-452a-b938-6af1ee7457ac",
+			"7e5e22de-4ab0-4469-b821-aad38324c288",
+			"9602751c-5fd6-4158-9d17-476ca7f333ab",
+			"e2f16bec-2310-4f96-a931-e77fe77a663b"
+		]
+	},
+	{
+		"title": "Domein E",
+		"description": "Verbanden, verschijningsvormen en vergelijkingen (VVV)",
+		"prefix": "E",
+		"id": "2e54c31c-bf40-4b1a-bb9f-981961cbce26",
+		"fo_subdomein_id": [
+			"d56d3483-6935-467f-89e6-7b19e183d367",
+			"a610d6b8-ac4e-498e-adcc-0a95277175eb",
+			"53e4a5a7-b314-4ce6-9e0c-b208273ef8c5",
+			"a19fd9a8-c7d1-4e7b-bf1d-f074bdbcda53",
+			"adc3a152-b456-4c5a-8c21-9635ced76206",
+			"87fbf883-fbcd-46cd-a8c6-e66321231d18"
+		]
+	},
+	{
+		"title": "Domein F",
+		"description": "Twee- en driedimensionale ruimte (23D)",
+		"prefix": "F",
+		"id": "627f8b18-3f95-4e46-9892-9ac1b7ec40a9",
+		"fo_subdomein_id": [
+			"997be8ec-a574-40e3-8c44-f182dae60b79",
+			"01105246-406c-4320-99d6-d6cbe2ec6aab",
+			"4cba6b6c-ecbc-4ca6-a741-1ad8ad290e69",
+			"ead6faa6-85db-4de0-bceb-5a3c6bf65999"
+		]
+	},
+	{
+		"title": "Domein G",
+		"description": "Wiskundige oriëntatie (WO)",
+		"prefix": "G",
+		"id": "0ce0d02c-40d9-4ea3-9748-e9212b979064",
+		"fo_subdomein_id": [
+			"c762a587-9abd-42eb-a00e-33555d34019c",
+			"86ac03f4-83aa-4a0b-9769-e68504fd625d",
+			"23bb9080-35a9-4111-8124-025afb50f91d",
+			"f6278bee-3e5d-4538-b196-5530f311d5ec",
+			"beb1247f-7bd1-4100-a177-3341ea306297",
+			"c15eac80-f7aa-4d4d-a56f-e176879b35ac"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Domeinonafhankelijke ondersteunende vaardigheden (DOV)",
+		"prefix": "A",
+		"id": "845788cb-12b0-41a9-a45a-61c40b7b8a2a",
+		"fo_subdomein_id": [
+			"76e912ed-0c11-4c49-b3c3-cbf9590e6ed3",
+			"c210a2cf-cf3d-4bb6-968b-e8ab25c0a8bd"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Verhoudingen en procenten (VP)",
+		"prefix": "B",
+		"id": "2f7a8a25-d2eb-4fe0-b099-cd88677f5bdb",
+		"fo_subdomein_id": [
+			"cd2f2d4b-ab7c-4f16-a8c7-4dfa218d90cf",
+			"6c423f5f-db4b-43fc-bb23-883373981826",
+			"0caacee9-d8ca-42d0-a1df-16709b712ef6",
+			"5e8aeae5-ea21-4be3-a747-117a0e883040",
+			"17bd3afb-c603-4090-ae29-e2ede9444755"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Grootheden en eenheden (GE)",
+		"prefix": "C",
+		"id": "d760758e-b360-4978-9083-db7f66ac71df",
+		"fo_subdomein_id": [
+			"7f7b8b44-b016-43f5-8fc6-ecf7cdb927dc",
+			"1d8c9485-37b4-4676-a094-6183f5462ebf",
+			"3db8eb9b-75a4-43e3-b9a5-f0ccdeed7f65",
+			"73acdf09-1f5b-4556-b79f-0c9ea7fdfa31",
+			"0ac68df2-1e31-4874-be47-7a81fa27e3ad"
+		]
+	},
+	{
+		"title": "Domein E",
+		"description": "Verbanden, verschijningsvormen en vergelijkingen (VVV)",
+		"prefix": "E",
+		"id": "2ab36534-6198-4a0b-bf83-fb9931a54daa",
+		"fo_subdomein_id": [
+			"bcb77ff6-4d55-4c6d-8e33-0cfc1793c716",
+			"d503c9ab-579d-4864-923a-1d8a8cb1e54c",
+			"84247291-7f63-40df-ae43-a50b16247a32",
+			"6d661f2c-e6f8-45f0-ac73-5594400b88f9",
+			"abccd154-f12b-4205-9434-8c0597156d2b",
+			"f310ed11-d3b1-4364-9e79-4a91c6d0a735"
+		]
+	},
+	{
+		"title": "Domein F",
+		"description": "Twee- en driedimensionale ruimte (23D)",
+		"prefix": "F",
+		"id": "937a0f31-87d1-4076-a7b9-972e19286cf0",
+		"fo_subdomein_id": [
+			"64771f34-47b5-4ffa-8317-d9bcc44bc70f",
+			"34435572-68b7-4c63-be43-6cc1af8e4aff",
+			"52743174-52df-4837-9a71-b7f68b8896f4",
+			"a06671a3-dff6-40ae-a48e-fb72d530994d"
+		]
+	},
+	{
+		"title": "Domein G",
+		"description": "Wiskundige oriëntatie (WO)",
+		"prefix": "G",
+		"id": "a7b87a67-1d83-482d-8726-68dd80510b62",
+		"fo_subdomein_id": [
+			"028c4aaa-9d33-45bc-90fd-44a614df5b40",
+			"302e14ed-fc26-4dba-a951-fda42ed9d9e7",
+			"83e4e506-04da-466a-8bbd-ff649dcfbe30",
+			"0e0219a0-eb39-4896-bd6d-be0a7dd8cb93",
+			"a82e27e7-3e20-41e7-84f1-58bd8880453a",
+			"2b306c97-32ea-495f-b9a6-53481d8ffb52"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Domeinonafhankelijke ondersteunende vaardigheden (DOV)",
+		"prefix": "A",
+		"id": "4e915876-dfbb-4595-9a61-c25f3818d9fc",
+		"fo_subdomein_id": [
+			"81964b47-555f-46de-947f-c5860c739e4a",
+			"bff23331-36f3-4b80-8fde-2a6546155d63"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Verhoudingen en procenten (VP)",
+		"prefix": "B",
+		"id": "bbb7c909-da40-42b2-a81a-69b97aae909e",
+		"fo_subdomein_id": [
+			"d2e5d108-020f-4c01-a97b-4f63a33d1559",
+			"cdd34792-1f61-4ae7-b7e0-fa2b9014cf0b",
+			"c496e7b3-be1e-4350-a338-a92ae73607a1",
+			"b6e8418d-cf2f-4858-ad30-b5a0db751062",
+			"b3ad6b2b-d401-4f47-a256-7c44876e9716",
+			"e69a5a13-eaf5-47ff-8159-380fce802978"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Grootheden en eenheden (GE)",
+		"prefix": "C",
+		"id": "11a15d45-b8d5-408d-8584-d01176a88122",
+		"fo_subdomein_id": [
+			"53fd6da4-7f04-45c2-9664-641c11f60584",
+			"048abc22-42a5-4c65-a8da-b4ca95d57524",
+			"664d2255-c8d3-40fc-bcde-c206e9d587e2",
+			"7bbf3d37-ac49-4278-8044-bc852f619339",
+			"25e89093-01d1-4b9e-902d-730d60b64452"
+		]
+	},
+	{
+		"title": "Domein E",
+		"description": "Verbanden, verschijningsvormen en vergelijkingen (VVV)",
+		"prefix": "E",
+		"id": "a9c69a27-5915-464a-9061-2065d9323cd5",
+		"fo_subdomein_id": [
+			"5749e2e8-35fe-4d6e-b603-b534f2060079",
+			"efb6b6ed-f446-4322-92ba-3e9ad7786cd7",
+			"4cc2610d-ef52-4a7d-b4b3-6848006b8cd6",
+			"350b5502-713f-447e-b8d8-c74084e78e51",
+			"6fa2f0aa-f0ef-4de5-9ba4-d691ad49ff7c",
+			"efd9459b-373f-4238-b8f0-863ecbe0aadc"
+		]
+	},
+	{
+		"title": "Domein F",
+		"description": "Twee- en driedimensionale ruimte (23D)",
+		"prefix": "F",
+		"id": "e65b3459-7638-46f9-b032-a42d417ab9c9",
+		"fo_subdomein_id": [
+			"281a77ad-7ecc-4591-b1b4-2a58d0df91b6",
+			"0f52cb59-262f-45cd-879a-de96ba205e5f",
+			"13d633cd-d378-42c9-acc3-f31d183fdffc",
+			"0a31d137-4dab-4a4a-93b2-004c567afb48",
+			"5fd441a2-1a51-4d63-bcc8-8bff633e636d"
+		]
+	},
+	{
+		"title": "Domein G",
+		"description": "Wiskundige oriëntatie (WO)",
+		"prefix": "G",
+		"id": "1914da86-9a31-4242-af24-df82e0ecf8af",
+		"fo_subdomein_id": [
+			"402392dc-b462-4f60-8a28-2a9b5598e443",
+			"3eda8e68-198a-47ac-8b73-6e2b6a465b41",
+			"7675eeb5-a31d-42cb-ab1a-16bb4157d0b6",
+			"cb65def9-9f61-4c00-8438-167a1d65afa3",
+			"bee9ec9a-5299-4db4-83f4-ccd9eda0f771",
+			"019c102b-772b-49b2-90a1-7494c26fc4a3"
+		]
+	},
+	{
+		"title": "Domein A Wiskundige concepten",
+		"description": "Domein A Wiskundige concepten",
+		"prefix": "A",
+		"id": "8ac79e6e-1fc5-4694-b632-0fd40e555f31",
+		"fo_subdomein_id": [
+			"e38df590-4a0c-4f5a-bc80-b739843bc817",
+			"377d8ef1-0408-4a95-a2e1-0b9144623ed9",
+			"00ff52ad-378c-4d7d-b559-95084d387402",
+			"2e83502d-eb9b-4038-b2dd-61c8593ee5d2",
+			"bfd31c9a-fb90-409b-9e0c-aa3958abe616"
+		]
+	},
+	{
+		"title": "Domein B Wiskundige activiteiten",
+		"description": "Domein B Wiskundige activiteiten",
+		"prefix": "B",
+		"id": "df011439-074c-43b5-85c9-af42c7ce033e",
+		"fo_subdomein_id": [
+			"8a4efb81-3c71-4441-8d67-4577a45c0f30",
+			"7a38bcc2-8195-4e3a-b1d9-63cfb723596a",
+			"01efa362-9b1f-4e8f-880c-33a51c9ff190",
+			"077d0c2c-dc0a-4b02-9226-e7f5a4d428d1"
+		]
+	},
+	{
+		"title": "Domein C Wiskundige oriëntatie",
+		"description": "Domein C Wiskundige oriëntatie",
+		"prefix": "C",
+		"id": "e7fb606b-8449-4b13-8af2-d7acd8e99445",
+		"fo_subdomein_id": [
+			"f82f672c-a79f-428c-b1a2-1f5865fa0fd0",
+			"22ed81a8-e7cb-498c-90b4-7eb68e34f998"
+		]
+	},
+	{
+		"title": "Domein A Wiskundige concepten",
+		"description": "Domein A Wiskundige concepten",
+		"prefix": "A",
+		"id": "7908d3bd-98c1-4ed9-a153-1aa928715cc2",
+		"fo_subdomein_id": [
+			"c4756aa8-f337-47b9-ad6e-e5d5e5b45fcf",
+			"c4a7f312-c999-4683-a6e9-b091d185ed42",
+			"00e8834d-efff-4a7b-9159-998bd8353a01",
+			"4da33085-1d29-48f5-89de-36bca17ae175",
+			"5216a4da-3f08-4158-b0a7-5f2d258e152b",
+			"57693c2c-999e-4a9e-ab1b-deb06e31aa4c"
+		]
+	},
+	{
+		"title": "Domein B Wiskundige activiteiten",
+		"description": "Domein B Wiskundige activiteiten",
+		"prefix": "B",
+		"id": "eba6c8ec-9327-4671-a82e-131e64a822b6",
+		"fo_subdomein_id": [
+			"88ccc409-d025-4cc5-85fd-375de83e2a13",
+			"6c3b0d5d-cc70-4584-a166-1601145d1fa5",
+			"2918fe7a-cf48-4bcb-a221-7b3ee6c97df5",
+			"2535b7ff-888f-453c-8e89-2108ff8d7ffb"
+		]
+	},
+	{
+		"title": "Domein C Wiskundige oriëntatie",
+		"description": "Domein C Wiskundige oriëntatie",
+		"prefix": "C",
+		"id": "ad7399f8-bd29-442c-b49e-3f980d7e2dfc",
+		"fo_subdomein_id": [
+			"37118a5d-4faf-4acd-9687-130baca5af3d",
+			"d8865e3b-d0d6-4194-89b9-9d729ff624c4"
+		]
+	},
+	{
+		"title": "Domein A Wiskundige concepten",
+		"description": "Domein A Wiskundige concepten",
+		"prefix": "A",
+		"id": "2d914ecd-1d92-42a9-8c86-975fad921e89",
+		"fo_subdomein_id": [
+			"c10b6c48-14c7-4037-aa4d-7b8157996e78",
+			"973ba7df-d37a-4636-96d6-d5a96e09b7ad",
+			"bf0a811f-d18b-49b4-bf93-32769f519d89",
+			"0fa54b1c-9c5b-40fd-86fe-e1941e178bfc",
+			"82a0e379-ab66-46d0-b104-760c4466ce80",
+			"3f869d0f-20a5-422a-9f8a-6e5446d097ba"
+		]
+	},
+	{
+		"title": "Domein B Wiskundige activiteiten",
+		"description": "Domein B Wiskundige activiteiten",
+		"prefix": "B",
+		"id": "ab9e26d9-5703-4ab1-95fa-964807fcef2d",
+		"fo_subdomein_id": [
+			"3e1191c7-90fd-4735-883d-6d5aa1a35960",
+			"b65733b4-9256-4647-b661-ecc4b54f424f",
+			"a9a14158-6e1e-4db4-979c-f69caa477c4e",
+			"bc467ed8-b254-4c59-bd24-659dd91f152f",
+			"50f4c4eb-82ae-48a5-b3a2-47c3b7d5bb36"
+		]
+	},
+	{
+		"title": "Domein C Wiskundige oriëntatie",
+		"description": "Domein C Wiskundige oriëntatie",
+		"prefix": "C",
+		"id": "c5169067-2fc7-4cdb-992a-5fddb610781f",
+		"fo_subdomein_id": [
+			"86366a1b-2602-40fb-ae08-40d9920ab2f8",
+			"058ce10f-e07c-4bff-9723-85b23d0ec51c"
+		]
+	},
+	{
+		"title": "Domein A Wiskundige concepten",
+		"description": "Domein A Wiskundige concepten",
+		"prefix": "A",
+		"id": "f7dab4b6-a155-4905-83a2-99c5c8b36d76",
+		"fo_subdomein_id": [
+			"133b83db-58d0-429b-8f24-e000a387d755",
+			"8f2a3684-d685-4efe-b445-017ce946b38c",
+			"39852743-0a57-467f-964d-0ec8fbdb386b",
+			"f4443b39-5985-4b56-8764-db17696a27fe",
+			"1b937a4c-2a4a-4eb6-8340-65f60f6860f4",
+			"6d6fccc0-47e5-44e6-b650-b4269be53614"
+		]
+	},
+	{
+		"title": "Domein B Wiskundige activiteiten",
+		"description": "Domein B Wiskundige activiteiten",
+		"prefix": "B",
+		"id": "bbd107b5-3d0f-494c-8bb5-cb380c247908",
+		"fo_subdomein_id": [
+			"d31da700-a718-4c2f-9f0b-baaf8da58ce3",
+			"4f04a00c-e513-4389-8035-cb6b333b9593",
+			"3bc9290e-b835-47d1-9a8c-dcf8a554f54d",
+			"3b60bf53-8e50-4c16-82c6-054201879e4d",
+			"b4a23604-b0d5-4dbe-8fae-f8ffa9ebc8a9"
+		]
+	},
+	{
+		"title": "Domein C Wiskundige oriëntatie",
+		"description": "Domein C Wiskundige oriëntatie",
+		"prefix": "C",
+		"id": "b855a59e-fcb2-4c51-b049-92c710931bc5",
+		"fo_subdomein_id": [
+			"35924eb0-1ea2-494e-b3fc-52107fb6a675",
+			"407b0d12-cb73-4145-8fe8-929e609aaa34"
+		]
+	},
+	{
+		"title": "Domein A Wiskundige concepten",
+		"description": "Domein A Wiskundige concepten",
+		"prefix": "A",
+		"id": "2cefcceb-436f-4ba7-8d94-7c3d1734fb9f",
+		"fo_subdomein_id": [
+			"5aedf935-3e6e-4915-963d-508ad2db0c7d",
+			"0da96421-3979-42b9-b94a-9e1b401bcda3",
+			"cfb07100-7d61-4424-be0b-3e477b63f375",
+			"b1dc94ad-b0ce-4a67-8668-75953769dd52",
+			"9f574bdc-8d75-47f9-9bb7-91c9eb12f6c9",
+			"d99fe752-e404-4667-b7d3-63bed610bc8e"
+		]
+	},
+	{
+		"title": "Domein B Wiskundige activiteiten",
+		"description": "Domein B Wiskundige activiteiten",
+		"prefix": "B",
+		"id": "6f4ee8b7-0e37-431c-8cb2-afc59013173f",
+		"fo_subdomein_id": [
+			"9a36add7-dbda-46a4-8d18-b1782e7af52d",
+			"c5502f95-e37d-4b28-befc-a8a4c0c04c53",
+			"2fd0bbc5-9a19-483b-8138-3a681a6afaba",
+			"1fcc6efd-586b-4091-9e70-683a80f8449a",
+			"7358991d-2f70-496f-b247-af88154d82b6"
+		]
+	},
+	{
+		"title": "Domein C Wiskundige oriëntatie",
+		"description": "Domein C Wiskundige oriëntatie",
+		"prefix": "C",
+		"id": "390ef919-7895-49df-98f0-08a1e67c0fcf",
+		"fo_subdomein_id": [
+			"ab5195b9-7fd8-4015-a9b7-a14351432860",
+			"465240b2-21c9-4478-8683-31c4b9ac404a"
+		]
+	},
+	{
+		"title": "Domein A Wiskundige concepten",
+		"description": "Domein A Wiskundige concepten",
+		"prefix": "A",
+		"id": "a4c65420-4e80-4561-b13a-d8d552a8e2f2",
+		"fo_subdomein_id": [
+			"b7ceae62-802f-4902-a724-34c36bc717f9",
+			"b9ff6cc3-cc61-402d-aea7-461fcd4998c8",
+			"8e92f814-67cf-49fb-aad0-50dd84aae586",
+			"45d52c99-0b26-47ba-9648-d5dcd20254fe",
+			"deb35646-6896-4caf-8e18-2aa500deb3ff",
+			"bbb54be1-accf-44c2-ab94-f92bdcd820d6"
+		]
+	},
+	{
+		"title": "Domein B Wiskundige activiteiten",
+		"description": "Domein B Wiskundige activiteiten",
+		"prefix": "B",
+		"id": "de8a4618-0914-456c-a53c-6aa547068b68",
+		"fo_subdomein_id": [
+			"bcc2430f-7352-4407-9307-d8bccd0b8a0e",
+			"08e5b120-81c4-41c8-9dab-ec3895f55142",
+			"1f2e2051-b50a-4666-9e5e-8f6f853f6802",
+			"39f029ae-96ce-4638-a712-304e392c2ddb",
+			"ba5f7b8a-4976-4910-8bae-e22010fc552a"
+		]
+	},
+	{
+		"title": "Domein C Wiskundige oriëntatie",
+		"description": "Domein C Wiskundige oriëntatie",
+		"prefix": "C",
+		"id": "bf0f5cb3-c5d9-4001-9971-d84c5ff91d16",
+		"fo_subdomein_id": [
+			"762e6aa4-cb28-4045-908a-5cf9d303b164",
+			"39ba4df4-9693-4cb4-b025-828c75f6b825"
+		]
+	},
+	{
+		"title": "Domein A Wiskundige concepten",
+		"description": "Domein A Wiskundige concepten",
+		"prefix": "A",
+		"id": "0e84852e-4eb8-4d09-a850-4a4c054fd7cd",
+		"fo_subdomein_id": [
+			"000695db-a1fc-402e-baec-2b7ea1595a1d",
+			"111b61c9-2a71-4ccf-8b1b-c64796c91140",
+			"edf52294-5cf6-46d0-b66a-74cd4ac2863d",
+			"4ca08dfb-ab3f-4888-8e71-861a7757eb07",
+			"fa419951-b079-4a16-a052-afd51c9ed18c",
+			"f0ec8d9f-36c6-4913-98cc-1bf31f845c6b",
+			"9bee66fd-929d-4da3-84ab-3b2cc361d29a"
+		]
+	},
+	{
+		"title": "Domein B Wiskundige activiteiten",
+		"description": "Domein B Wiskundige activiteiten",
+		"prefix": "B",
+		"id": "e4d8f7ad-ac77-45a0-892c-6fc5a9f3c809",
+		"fo_subdomein_id": [
+			"53d93e8a-3bc4-4a0d-9623-05d5d80adb45",
+			"63ceac71-7f41-4b47-a7fe-a972550512c9",
+			"f2229828-064a-41dc-a98b-123c08ce82e3",
+			"b96dbe45-22b6-4b8f-9f05-c9c6859b104a",
+			"695c5298-131d-4a36-8665-bbd171c210b4"
+		]
+	},
+	{
+		"title": "Domein C Wiskundige oriëntatie",
+		"description": "Domein C Wiskundige oriëntatie",
+		"prefix": "C",
+		"id": "5501e8b3-886a-4d3e-b891-34b8dde887a9",
+		"fo_subdomein_id": [
+			"38c68e3b-85a3-4e21-852a-f7ccce274c56",
+			"9cbcc04f-b843-4135-8c76-c0e2867260bf"
+		]
+	},
+	{
+		"title": "Domein A Wiskundige concepten",
+		"description": "Domein A Wiskundige concepten",
+		"prefix": "A",
+		"id": "c3c61e41-87ac-4737-b83b-8a3c2c5dee07",
+		"fo_subdomein_id": [
+			"7c70fd3e-5bd3-4b78-a52e-2bbcecb37c3b",
+			"caa1cf53-8867-46cb-a449-b356741e5e98",
+			"b3e72389-7305-4cd6-bcf5-4ccf0944caa9",
+			"4b7a02e3-5f86-43c9-9dfb-b6314bc7f06c",
+			"fc76d9e0-4f97-4e94-9569-9aab3c2bcd5b",
+			"9906235c-e05f-4101-8e3e-0b5622b17c8e",
+			"f1964f3a-a4f2-4d11-a369-e6f11a1febf2"
+		]
+	},
+	{
+		"title": "Domein B Wiskundige activiteiten",
+		"description": "Domein B Wiskundige activiteiten",
+		"prefix": "B",
+		"id": "a7219517-b97c-4a2c-a625-a3fb07d9ba62",
+		"fo_subdomein_id": [
+			"abb24375-5b5a-4a84-90d6-5d556a809ea9",
+			"bb512ed3-2538-4e7d-9260-50f02d4ff435",
+			"34c3dcb3-9c39-4818-a7c9-2b77b4654bd7",
+			"35903ffb-0634-4b21-b783-b4a99a178eac",
+			"8931e3d3-a87d-4f1a-96a9-f50dc514e8cf"
+		]
+	},
+	{
+		"title": "Domein C Wiskundige oriëntatie",
+		"description": "Domein C Wiskundige oriëntatie",
+		"prefix": "C",
+		"id": "5b4b1cea-c0ae-41ca-9aa7-3be81e86a28c",
+		"fo_subdomein_id": [
+			"4df2c15a-e9b6-48f8-9c80-eb5042c0b76f",
+			"600162e4-4696-43f9-b277-abc184de96c7"
+		]
 	}
 ]
