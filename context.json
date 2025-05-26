@@ -44,6 +44,12 @@
 								{ "items": { "itemTypeReference": "#/definitions/fo_subdomein" } }
 							]
 						},
+						"fo_kernzin_id": {
+							"allOf": [
+								{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
+								{ "items": { "itemTypeReference": "#/definitions/fo_kernzin" } }
+							]
+						},
 						"fo_doelzin_id": {
 							"allOf": [
 								{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
@@ -57,6 +63,9 @@
 						"required": ["id","title","fo_subdomein_id"]
 					},
 					{
+						"required": ["id","title","fo_kernzin_id"]
+					},
+					{
 						"required": ["id","title","fo_doelzin_id"]
 					}
 				]			
@@ -64,6 +73,23 @@
 			]
 		},
 		"fo_subdomein": {
+			"allOf": [ 
+				{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/base" },
+				{
+					"properties": {
+						"fo_doelzin_id": {
+							"allOf": [
+								{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
+								{ "items": { "itemTypeReference": "#/definitions/fo_doelzin" } }
+							]
+						},
+						"prefix": { "type": "string" }
+					},
+					"required": ["id", "title","fo_doelzin_id"]
+				}
+			]
+		},
+		"fo_kernzin": {
 			"allOf": [ 
 				{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/base" },
 				{
@@ -160,6 +186,12 @@
 						"itemTypeReference": "#/definitions/fo_subdomein"
 					}
 				},
+				"fo_kernzin_id" : {
+					"allOf": [ {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"} ],
+					"items": {
+						"itemTypeReference": "#/definitions/fo_kernzin"
+					}
+				},
 				"fo_doelzin_id" : {
 					"allOf": [ {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"} ],
 					"items": {
@@ -203,6 +235,13 @@
 				"$ref": "#/definitions/fo_subdomein"
 			}
 		},
+		"fo_kernzin": {
+			"#file": "data/kernzinnen.json",
+			"type" : "array",
+			"items": {
+				"$ref": "#/definitions/fo_kernzin"
+			}
+		},
 		"fo_doelzin": {
 			"#file": "data/doelzinnen.json",
 			"type" : "array",
@@ -229,5 +268,5 @@
 			"type" : "array"
 		}
 	},
-	"required": ["fo_set","fo_domein","fo_subdomein","fo_doelzin","fo_uitwerking","fo_toelichting"]
+	"required": ["fo_set","fo_domein","fo_subdomein","fo_kernzin","fo_doelzin","fo_uitwerking","fo_toelichting"]
 }
