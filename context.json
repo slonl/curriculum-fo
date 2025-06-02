@@ -270,5 +270,5 @@
 			"type" : "array"
 		}
 	},
-	"required": ["fo_set","fo_domein","fo_subdomein","fo_doelzin","fo_uitwerking","fo_toelichting"]
+	"required": ["fo_set","fo_domein","fo_subdomein","fo_doelzin","fo_uitwerking","fo_toelichting", "fo_illustratie"]
 }
