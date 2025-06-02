@@ -24,9 +24,6 @@
 		"fo_doelzin": {
 			"@id": "fo:#fo_doelzin"
 		},
-		"fo_toelichting": {
-			"@id": "fo:#fo_toelichting"
-		},
 		"fo_illustratie": {
 			"@id": "fo:#fo_illustratie"
 		},

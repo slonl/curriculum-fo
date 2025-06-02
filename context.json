@@ -92,12 +92,6 @@
 								{ "items": { "itemTypeReference": "#/definitions/fo_uitwerking" } }
 							]
 						},
-						"fo_toelichting_id": {
-							"allOf": [
-								{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
-								{ "items": { "itemTypeReference": "#/definitions/fo_toelichting" } }
-							]
-						},
 						"fo_illustratie_id": {
 							"allOf": [
 								{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
@@ -115,24 +109,6 @@
 			]
 		},
 		"fo_uitwerking": {
-			"allOf": [ 
-				{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/base" },
-				{
-					"properties": {
-						"prefix": { "type": "string" },
-						"status":{ "type": "string", "enum": ["concept", "definitief concept", "definitief"]},
-						"niveau_id" : {
-							"allOf": [
-								{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
-								{ "items": { "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/niveau" } }
-							]
-						}
-					},
-					"required": ["id"]
-				}
-			]
-		},
-		"fo_toelichting": {
 			"allOf": [ 
 				{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/base" },
 				{
@@ -200,12 +176,6 @@
 						"itemTypeReference": "#/definitions/fo_uitwerking"
 					}
 				},
-				"fo_toelichting_id" : {
-					"allOf": [ {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"} ],
-					"items": {
-						"itemTypeReference": "#/definitions/fo_toelichting"
-					}
-				},
 				"fo_illustratie_id" : {
 					"allOf": [ {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"} ],
 					"items": {
@@ -251,13 +221,6 @@
 				"$ref": "#/definitions/fo_uitwerking"
 			}
 		},
-		"fo_toelichting": {
-			"#file": "data/toelichtingen.json",
-			"type" : "array",
-			"items": {
-				"$ref": "#/definitions/fo_toelichting"
-			}
-		},
 		"fo_illustratie": {
 			"#file": "data/illustraties.json",
 			"type" : "array",
@@ -270,5 +233,5 @@
 			"type" : "array"
 		}
 	},
-	"required": ["fo_set","fo_domein","fo_subdomein","fo_doelzin","fo_uitwerking","fo_toelichting", "fo_illustratie"]
+	"required": ["fo_set","fo_domein","fo_subdomein","fo_doelzin","fo_uitwerking", "fo_illustratie"]
 }
