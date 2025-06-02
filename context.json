@@ -27,7 +27,8 @@
 								{ "items": { "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/niveau" } }
 							]
 						},
-						"karakteristiek": { "type": "string" }
+						"karakteristiek": { "type": "string" },
+						"status":{ "type": "string", "enum": ["concept", "definitief concept", "definitief"]}
 					},
 					"required": ["id", "title", "vakleergebied_id", "fo_domein_id"]
 				}
@@ -97,10 +98,17 @@
 								{ "items": { "itemTypeReference": "#/definitions/fo_toelichting" } }
 							]
 						},
+						"fo_illustratie_id": {
+							"allOf": [
+								{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
+								{ "items": { "itemTypeReference": "#/definitions/fo_illustratie" } }
+							]
+						},
 						"prefix": { "type": "string" },
 						"soort": { "type": "string",   "enum": ["kerndoel", "eindterm"]	},
 						"ce" : { "type" : "integer", "minimum": 0, "maximum": 1 },
-						"se" : { "type" : "integer", "minimum": 0, "maximum": 1 }
+						"se" : { "type" : "integer", "minimum": 0, "maximum": 1 },
+						"status":{ "type": "string", "enum": ["concept", "definitief concept", "definitief"]}
 					},
 					"required": ["id", "title", "fo_uitwerking_id"]
 				}
@@ -112,6 +120,7 @@
 				{
 					"properties": {
 						"prefix": { "type": "string" },
+						"status":{ "type": "string", "enum": ["concept", "definitief concept", "definitief"]},
 						"niveau_id" : {
 							"allOf": [
 								{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
@@ -129,6 +138,25 @@
 				{
 					"properties": {
 						"prefix": { "type": "string" },
+						"status":{ "type": "string", "enum": ["concept", "definitief concept", "definitief"]},
+						"niveau_id" : {
+							"allOf": [
+								{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
+								{ "items": { "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/niveau" } }
+							]
+						}
+					},
+					"required": ["id"]
+				}
+			]
+		},
+		"fo_illustratie": {
+			"allOf": [ 
+				{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/base" },
+				{
+					"properties": {
+						"prefix": { "type": "string" },
+						"status":{ "type": "string", "enum": ["concept", "definitief concept", "definitief"]},
 						"niveau_id" : {
 							"allOf": [
 								{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
@@ -177,6 +205,12 @@
 					"items": {
 						"itemTypeReference": "#/definitions/fo_toelichting"
 					}
+				},
+				"fo_illustratie_id" : {
+					"allOf": [ {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"} ],
+					"items": {
+						"itemTypeReference": "#/definitions/fo_illustratie"
+					}
 				}
 			}
 		}
@@ -222,6 +256,13 @@
 			"type" : "array",
 			"items": {
 				"$ref": "#/definitions/fo_toelichting"
+			}
+		},
+		"fo_illustratie": {
+			"#file": "data/illustraties.json",
+			"type" : "array",
+			"items": {
+				"$ref": "#/definitions/fo_illustratie"
 			}
 		},
 		"deprecated": {
