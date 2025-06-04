@@ -16513,7 +16513,7 @@
 	},
 	{
 		"title": "Concept - Eindterm 11",
-		"description": "Concept - De leerling toont inzicht in en reflecteert op het effect van keuzes in Duits taalgebruik in verschillende contexten.",
+		"description": "Concept - De leerling toont inzicht in en reflecteert op het effect van keuzes in Duits taalgebruik.",
 		"prefix": "11",
 		"soort": "eindterm",
 		"ce": 1,
@@ -18190,7 +18190,7 @@
 	},
 	{
 		"title": "Concept - Eindterm 10",
-		"description": "Concept - De leerling verkent het effect van keuzes in Engels taalgebruik in verschillende contexten. (E)",
+		"description": "Concept - De leerling verkent het effect van keuzes in Engels taalgebruik in verschillende contexten. (H)",
 		"prefix": "10",
 		"id": "5bff901f-fc89-4c10-a407-a25ebddc930c",
 		"fo_uitwerking_id": [
@@ -19021,7 +19021,7 @@
 	},
 	{
 		"title": "Concept - Eindterm 11",
-		"description": "Concept - De leerling toont inzicht in en reflecteert op het effect van keuzes in Engels taalgebruik in verschillende contexten.",
+		"description": "Concept - De leerling toont inzicht in en reflecteert op het effect van keuzes in Engels taalgebruik. (H)",
 		"prefix": "11",
 		"soort": "eindterm",
 		"ce": 1,
@@ -19194,7 +19194,7 @@
 	},
 	{
 		"title": "Concept - Eindterm 19",
-		"description": "Concept - De leerling toont inzicht in cultuurgebonden aspecten in Engelstalige bronnen uit gebieden waar Engels een voertaal is. (B)",
+		"description": "Concept - De leerling toont inzicht in cultuurgebonden aspecten in Engelstalige bronnen uit gebieden waar Engels een voertaal is. (H)",
 		"prefix": "19",
 		"soort": "eindterm",
 		"ce": 1,
@@ -20788,7 +20788,7 @@
 	},
 	{
 		"title": "Concept - Eindterm 11",
-		"description": "Concept - De leerling toont inzicht in en reflecteert op het effect van keuzes in Frans taalgebruik in verschillende contexten.",
+		"description": "Concept - De leerling toont inzicht in en reflecteert op het effect van keuzes in Frans taalgebruik.",
 		"prefix": "11",
 		"soort": "eindterm",
 		"ce": 1,
@@ -39788,13 +39788,19 @@
 		"id": "59058d62-086e-49a1-8b04-968c5bbe7134",
 		"fo_uitwerking_id": [
 			"b195c14f-d595-4952-bc02-0510feeb99cc",
-			"339dbc3e-e8fc-4aaf-ac75-e8f4f1edd290"
+			"339dbc3e-e8fc-4aaf-ac75-e8f4f1edd290",
+			"ca7a1a0f-3bcf-43fa-8659-b4b1c441dbba",
+			"c63736d2-71f5-4435-a48b-6ad1f2be83ff"
 		],
 		"fo_toelichting_id": [
 			"e17a5634-3f9a-4e62-826c-c04a82c7db12",
 			"5589f7e2-cfa5-40d4-907f-243a78ad6295",
-			"2994f977-04c5-4427-80e8-bca2ac90572f"
-		]
+			"2994f977-04c5-4427-80e8-bca2ac90572f",
+			"424202f9-971f-4056-8581-fc7edaae23f9",
+			"beec13bf-5e0d-432c-b086-a70e7db9ab4b",
+			"9848ef60-c432-4a7c-9ecd-54ffebbf0001"
+		],
+		"dirty": true
 	},
 	{
 		"title": "Concept - Eindterm 14",
@@ -40422,13 +40428,19 @@
 		"id": "ed42e528-61af-4a0b-a8b1-b39f333d0347",
 		"fo_uitwerking_id": [
 			"0f05bdcc-1e78-4048-a1d6-539040f3bcaa",
-			"10d78ea7-e280-40ea-a384-b7b31b0f4424"
+			"10d78ea7-e280-40ea-a384-b7b31b0f4424",
+			"d762b42c-5461-4c1f-ad37-9104719a9148",
+			"f65e68c0-24f8-4830-beb6-6cd4e19be504",
+			"2f834416-528d-48ef-958c-ffdde0bcbe5a"
 		],
 		"fo_toelichting_id": [
 			"936ece18-48e2-43ed-954b-aa5eab1a8cc3",
 			"6c3aa822-d57e-412a-88c0-f2dfbc0929d6",
-			"a4a70bb8-7f65-404b-b917-a76233e4f1e3"
-		]
+			"a4a70bb8-7f65-404b-b917-a76233e4f1e3",
+			"3fba63d0-1f04-4920-bdc8-790e00f7574e",
+			"2b420f58-8e4b-4f63-9775-bec0136d4388"
+		],
+		"dirty": true
 	},
 	{
 		"title": "Concept - Eindterm 14",
