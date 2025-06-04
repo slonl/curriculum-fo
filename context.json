@@ -27,9 +27,10 @@
 								{ "items": { "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/niveau" } }
 							]
 						},
-						"karakteristiek": { "type": "string" }
+						"karakteristiek": { "type": "string" },
+						"status": { "type": "string", "enum": [ "concept", "definitief concept", "definitief" ] }
 					},
-					"required": ["id", "title", "vakleergebied_id", "fo_domein_id"]
+					"required": ["id", "title", "vakleergebied_id", "fo_domein_id", "status"]
 				}
 			]
 		},
@@ -100,9 +101,10 @@
 						"prefix": { "type": "string" },
 						"soort": { "type": "string",   "enum": ["kerndoel", "eindterm"]	},
 						"ce" : { "type" : "integer", "minimum": 0, "maximum": 1 },
-						"se" : { "type" : "integer", "minimum": 0, "maximum": 1 }
+						"se" : { "type" : "integer", "minimum": 0, "maximum": 1 },
+						"status": { "type": "string", "enum": [ "concept", "definitief concept", "definitief" ] }
 					},
-					"required": ["id", "title", "fo_uitwerking_id"]
+					"required": ["id", "title", "fo_uitwerking_id", "status"]
 				}
 			]
 		},
@@ -117,9 +119,10 @@
 								{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
 								{ "items": { "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/niveau" } }
 							]
-						}
+						},
+						"status": { "type": "string", "enum": [ "concept", "definitief concept", "definitief" ] }
 					},
-					"required": ["id"]
+					"required": ["id","status"]
 				}
 			]
 		},
@@ -134,9 +137,10 @@
 								{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
 								{ "items": { "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/niveau" } }
 							]
-						}
+						},
+						"status": { "type": "string", "enum": [ "concept", "definitief concept", "definitief" ] }
 					},
-					"required": ["id"]
+					"required": ["id","status"]
 				}
 			]
 		},
