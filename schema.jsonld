@@ -21,6 +21,9 @@
 		"fo_subdomein": {
 			"@id": "fo:#fo_subdomein"
 		},
+		"fo_kernzin": {
+			"@id": "fo:#fo_kernzin"
+		},
 		"fo_doelzin": {
 			"@id": "fo:#fo_doelzin"
 		},
