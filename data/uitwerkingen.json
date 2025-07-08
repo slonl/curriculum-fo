@@ -84073,7 +84073,8 @@
 		"description": "modellen die verschijnselen beschrijven, verklaren en voorspellen."
 	},
 	{
-		"description": "Het gaat hierbij beredeneren wat de grenzen van een model zijn.",
+		"title": "Het gaat hierbij om",
+		"description": "beredeneren wat de grenzen van een model zijn.",
 		"prefix": "u2",
 		"id": "eb4258b8-a3a2-428a-8605-a5fafaa81311",
 		"niveau_id": [
@@ -100830,13 +100831,6 @@
 		"status": "concept",
 		"title": "Het gaat hierbij om",
 		"description": "reflecteren op opgedane ervaringen in het kader van oriëntatie op studie en werken."
-	},
-	{
-		"deleted": true,
-		"prefix": "u2",
-		"id": "f0868f68-4896-4c2a-b186-30ffec483440",
-		"unreleased": true,
-		"status": "concept"
 	},
 	{
 		"prefix": "u3",

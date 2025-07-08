@@ -97822,18 +97822,6 @@
 		"description": "deelnemen aan een wiskunde B-dag."
 	},
 	{
-		"prefix": "t3",
-		"id": "a08f30ff-5408-48cf-a3eb-be79e0c337f1",
-		"unreleased": true,
-		"status": "concept"
-	},
-	{
-		"prefix": "t3",
-		"id": "4b75f2a0-580a-4ec4-9190-31ba1ee227af",
-		"unreleased": true,
-		"status": "concept"
-	},
-	{
 		"prefix": "t2",
 		"id": "424202f9-971f-4056-8581-fc7edaae23f9",
 		"unreleased": true,
