@@ -130,7 +130,7 @@
 						"se" : { "type" : "integer", "minimum": 0, "maximum": 1 },
 						"status": { "type": "string", "enum": [ "concept", "definitief concept", "definitief" ] }
 					},
-					"required": ["id", "title", "fo_uitwerking_id", "status"]
+					"required": ["id", "title", "status"]
 				}
 			]
 		},
