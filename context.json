@@ -118,10 +118,10 @@
 								{ "items": { "itemTypeReference": "#/definitions/fo_uitwerking" } }
 							]
 						},
-						"fo_toelichting_id": {
+						"fo_illustratie_id": {
 							"allOf": [
 								{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
-								{ "items": { "itemTypeReference": "#/definitions/fo_toelichting" } }
+								{ "items": { "itemTypeReference": "#/definitions/fo_illustratie" } }
 							]
 						},
 						"prefix": { "type": "string" },
@@ -152,7 +152,7 @@
 				}
 			]
 		},
-		"fo_toelichting": {
+		"fo_illustratie": {
 			"allOf": [ 
 				{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/base" },
 				{
@@ -208,10 +208,10 @@
 						"itemTypeReference": "#/definitions/fo_uitwerking"
 					}
 				},
-				"fo_toelichting_id" : {
+				"fo_illustratie_id" : {
 					"allOf": [ {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"} ],
 					"items": {
-						"itemTypeReference": "#/definitions/fo_toelichting"
+						"itemTypeReference": "#/definitions/fo_illustratie"
 					}
 				}
 			}
@@ -260,11 +260,11 @@
 				"$ref": "#/definitions/fo_uitwerking"
 			}
 		},
-		"fo_toelichting": {
-			"#file": "data/toelichtingen.json",
+		"fo_illustratie": {
+			"#file": "data/illustraties.json",
 			"type" : "array",
 			"items": {
-				"$ref": "#/definitions/fo_toelichting"
+				"$ref": "#/definitions/fo_illustratie"
 			}
 		},
 		"deprecated": {
@@ -272,5 +272,5 @@
 			"type" : "array"
 		}
 	},
-	"required": ["fo_set","fo_domein","fo_subdomein","fo_kernzin","fo_doelzin","fo_uitwerking","fo_toelichting"]
+	"required": ["fo_set","fo_domein","fo_subdomein","fo_kernzin","fo_doelzin","fo_uitwerking","fo_illustratie"]
 }
