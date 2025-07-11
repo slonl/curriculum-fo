@@ -1,6 +1,8 @@
 [
 	{
 		"title": "Overkoepelend",
+		"prefix": "O",
+		"id": "0d2e4fb8-cc61-427d-8ce7-ef6a2bf12e5e",
 		"fo_doelzin_id": [
 			"efff8a4b-cbd5-4775-aa8f-0d3f98733e6b",
 			"ef048d52-0a42-4dd1-a529-ca059c3572bf",
@@ -12,22 +14,22 @@
 			"37d96134-8fc2-4d58-9e66-df764a836c98",
 			"574c105c-14bc-479d-a620-dd583aaa488c",
 			"6ddfa8f2-7c22-41fc-8a34-8e1c795b709f"
-		],
-		"prefix": "O",
-		"id": "0d2e4fb8-cc61-427d-8ce7-ef6a2bf12e5e"
+		]
 	},
 	{
 		"title": "Wiskundige attitude",
+		"prefix": "A",
+		"id": "60d3f360-a7ba-421f-9f4b-c18a48bd4c13",
 		"fo_doelzin_id": [
 			"cd19a94c-1ee9-4360-99f2-1cd65dd19ad5",
 			"93886e3a-d769-4224-9f8f-2fdeb1905fc8",
 			"9537dfce-2cee-45cf-9cac-a79e40c27f98"
-		],
-		"prefix": "A",
-		"id": "60d3f360-a7ba-421f-9f4b-c18a48bd4c13"
+		]
 	},
 	{
 		"title": "Wiskundige concepten",
+		"prefix": "A",
+		"id": "f87d2b59-714b-4b94-9dfa-81e49632ad4e",
 		"fo_doelzin_id": [
 			"a93af3e3-91f0-49ee-8e28-42fb57daf454",
 			"da74e273-b43e-40d5-8e74-74cd4758ca62",
@@ -62,12 +64,12 @@
 			"dd81a312-a583-41c0-b95c-e57378c4ac81",
 			"6378af10-b801-4930-958c-60b87a243d45",
 			"0ae58e3e-d8b9-447a-b773-4f9a8c31e97f"
-		],
-		"prefix": "A",
-		"id": "f87d2b59-714b-4b94-9dfa-81e49632ad4e"
+		]
 	},
 	{
 		"title": "Praktische kennis & vaardigheden",
+		"prefix": "A",
+		"id": "a6dbff19-0733-4552-a91d-00f9d66a4f18",
 		"fo_doelzin_id": [
 			"200f5b2b-e948-4057-a67c-95636166a2c4",
 			"05fbe26c-7723-42f3-ba84-ccea0a3288e4",
@@ -79,43 +81,43 @@
 			"b4257b7b-6a2d-4553-b913-8516912657fb",
 			"d11aa6d5-40b0-44c6-9356-e119ad871604",
 			"438c64cf-4415-4497-bf23-9ba78e0f651f"
-		],
-		"prefix": "A",
-		"id": "a6dbff19-0733-4552-a91d-00f9d66a4f18"
+		]
 	},
 	{
 		"title": "Ontwerpen en maken",
+		"prefix": "B",
+		"id": "9927cd79-3f0a-413c-8978-f8a3b1ce8705",
 		"fo_doelzin_id": [
 			"f09d4f54-b3ad-467b-a233-b3af05e550f9",
 			"3b4e22b1-4acb-4e44-8234-bf05adb70cde",
 			"33d10f81-0ae1-45d4-9712-e5ac73c3ec91",
 			"7492dbc4-45bd-4241-b225-bd426faaf79b"
-		],
-		"prefix": "B",
-		"id": "9927cd79-3f0a-413c-8978-f8a3b1ce8705"
+		]
 	},
 	{
 		"title": "Wisselwerking tussen digitale technologie, digitale media, de mens en de samenleving",
+		"prefix": "C",
+		"id": "c75e2e6b-9d38-4e4b-ad2c-cec7e891f09d",
 		"fo_doelzin_id": [
 			"d4622bff-27a9-464a-8e4d-4f4c4bfd0ada",
 			"31034d4b-e90d-4768-9e17-3c12f77535e6",
 			"848b3c16-406e-4391-9ea0-c0af9138f238",
 			"cad9486f-f3d8-454b-a656-d4f233fa202d"
-		],
-		"prefix": "C",
-		"id": "c75e2e6b-9d38-4e4b-ad2c-cec7e891f09d"
+		]
 	},
 	{
 		"title": "Schoolcultuur",
+		"prefix": "A",
+		"id": "9964b601-8768-4e69-b8b9-b79d2292603d",
 		"fo_doelzin_id": [
 			"5bfce5e1-39ee-4d11-a6aa-4f9afc01304d",
 			"b92ca11e-20d2-4fe9-96bd-c0b50aa0530c"
-		],
-		"prefix": "A",
-		"id": "9964b601-8768-4e69-b8b9-b79d2292603d"
+		]
 	},
 	{
 		"title": "Samenleving en democratie",
+		"prefix": "B",
+		"id": "cac1b698-034f-494e-a00f-decaebe019fc",
 		"fo_doelzin_id": [
 			"88670244-4eb0-4ee1-8596-a172b52398b2",
 			"934cd26c-62dd-46fa-b414-f6c1933e28be",
@@ -125,30 +127,30 @@
 			"7aa961fe-25ec-463d-ab02-e77102b9de13",
 			"31425075-d4f6-453f-ac1a-d8c44f3b2eb1",
 			"a6a3b0ab-993d-42c6-9b49-40e21dfc7e0d"
-		],
-		"prefix": "B",
-		"id": "cac1b698-034f-494e-a00f-decaebe019fc"
+		]
 	},
 	{
 		"title": "Maatschappelijke vraagstukken",
+		"prefix": "C",
+		"id": "7743dd74-641b-46ab-b3c8-244ecd5de0c6",
 		"fo_doelzin_id": [
 			"ed240ba9-189a-4cfa-83be-bd86078991ab",
 			"4edc1d48-6f87-4d59-be84-e1647b1d65ae"
-		],
-		"prefix": "C",
-		"id": "7743dd74-641b-46ab-b3c8-244ecd5de0c6"
+		]
 	},
 	{
 		"title": "Domein A: Praktijkgerichte opdrachten",
+		"prefix": "A",
+		"id": "d0808681-f74b-4717-a706-13d39408d14f",
 		"fo_doelzin_id": [
 			"cd5e28a9-8194-47d4-85bb-61a0fd404437",
 			"b07304b1-fca8-41c4-81a2-64d86fc84e9b"
-		],
-		"prefix": "A",
-		"id": "d0808681-f74b-4717-a706-13d39408d14f"
+		]
 	},
 	{
 		"title": "Domein B; Programmaoverstijgende vaardigheden",
+		"prefix": "B",
+		"id": "e6afa4af-9a17-4299-a3c2-7a9e709a9e2f",
 		"fo_doelzin_id": [
 			"ccb51162-baba-4a59-abb4-303b17abd43a",
 			"3d00d6aa-402e-42ed-8830-2940fe51c169",
@@ -159,12 +161,12 @@
 			"1418c213-657e-4a16-b5ad-90a543435106",
 			"1644a31c-ccf3-481e-ae92-670530485c8d",
 			"35e100bf-c4c1-449e-8444-2e5d62c11662"
-		],
-		"prefix": "B",
-		"id": "e6afa4af-9a17-4299-a3c2-7a9e709a9e2f"
+		]
 	},
 	{
 		"title": "Domein C: Programmaspecifieke vaardigheden",
+		"prefix": "C",
+		"id": "ab4ebc2c-2470-4223-a95b-8741cc4e8552",
 		"fo_doelzin_id": [
 			"f89751ea-9242-4d8f-929d-ce587e1d8f1f",
 			"5645b78a-52d6-48c5-8514-71429635a86d",
@@ -172,12 +174,12 @@
 			"911224f9-891f-4598-b88a-76f585b9fd5d",
 			"a01561c7-76fc-485f-b8e2-2e540c75aba7",
 			"14b092c2-4282-48ff-afe5-a5aad3e5161c"
-		],
-		"prefix": "C",
-		"id": "ab4ebc2c-2470-4223-a95b-8741cc4e8552"
+		]
 	},
 	{
 		"title": "Domein C: Programmaspecifieke vaardigheden",
+		"prefix": "C",
+		"id": "1b91e3d0-4114-43da-b486-ebc871d0d829",
 		"fo_doelzin_id": [
 			"a45fc86d-35ab-4691-bc44-5d8304b99650",
 			"403e0ed7-0e13-408e-aa7c-60c4c2796c78",
@@ -185,12 +187,12 @@
 			"ce8ea69d-10d4-4f63-8b00-72d6cd3df41f",
 			"3f3b5cd7-3f2f-4409-b797-970f4f59e9be",
 			"665becf7-6348-42fb-b908-74264c038021"
-		],
-		"prefix": "C",
-		"id": "1b91e3d0-4114-43da-b486-ebc871d0d829"
+		]
 	},
 	{
 		"title": "Domein C: Programmaspecifieke vaardigheden",
+		"prefix": "C",
+		"id": "8ae5907b-8950-44bd-ad96-589bc0a1c50d",
 		"fo_doelzin_id": [
 			"dd63d2d8-38b6-49a0-804a-dfe7c1b71d68",
 			"1f4aa6e7-16b7-4f3a-bd29-6d9102c9bdd2",
@@ -198,12 +200,12 @@
 			"3efd2231-dcf5-4265-92dd-c3e6b3779c18",
 			"2ba49b8b-c37f-4df4-93c7-5ae46c3b2ef6",
 			"e14a69d2-d1a3-4b7b-aea3-a33766c6669f"
-		],
-		"prefix": "C",
-		"id": "8ae5907b-8950-44bd-ad96-589bc0a1c50d"
+		]
 	},
 	{
 		"title": "Domein C: Programmaspecifieke vaardigheden",
+		"prefix": "C",
+		"id": "78952a10-306c-4c98-b947-910fcc93e908",
 		"fo_doelzin_id": [
 			"a3e853f2-105c-4c5a-bfef-e10ec7976dfd",
 			"f37953be-515a-4035-b750-02f348147501",
@@ -211,12 +213,12 @@
 			"bcc07572-ef79-479a-a250-f9184a1767a2",
 			"35bfe0f3-4801-4540-831f-e0193c81571f",
 			"313e1bf3-9036-42de-896b-d78eba7fe4da"
-		],
-		"prefix": "C",
-		"id": "78952a10-306c-4c98-b947-910fcc93e908"
+		]
 	},
 	{
 		"title": "Domein C: Programmaspecifieke vaardigheden",
+		"prefix": "C",
+		"id": "e7a7ffcc-db5f-4ae2-8d68-4db597966da5",
 		"fo_doelzin_id": [
 			"92e411f2-cc67-4025-9838-c70e2eb2f6d1",
 			"d73673c8-ccbd-4603-af94-27e87c2bbba8",
@@ -224,12 +226,12 @@
 			"aa2b7d02-0d3a-4d4a-9e4f-48c7e2aa4f24",
 			"9916ace9-107e-4309-b40d-18cd509299e2",
 			"ee2bf82a-f875-4875-8269-ca981356bcf2"
-		],
-		"prefix": "C",
-		"id": "e7a7ffcc-db5f-4ae2-8d68-4db597966da5"
+		]
 	},
 	{
 		"title": "Domein C: Programmaspecifieke vaardigheden",
+		"prefix": "C",
+		"id": "3c5d0a39-838e-4d68-9cb9-c35d50e27200",
 		"fo_doelzin_id": [
 			"107e2d3b-d531-4764-8c31-6cf5916775e5",
 			"2b57ca5c-17fb-4ac0-b64f-88029d0cc655",
@@ -237,12 +239,12 @@
 			"b020bad2-e0fa-41b3-9bc6-7c07eccad4f6",
 			"b4b56685-9c98-4a4e-b041-1e30741caa6d",
 			"17e7579a-cde8-4e5c-9933-5847bcb3126e"
-		],
-		"prefix": "C",
-		"id": "3c5d0a39-838e-4d68-9cb9-c35d50e27200"
+		]
 	},
 	{
 		"title": "Domein C: Programmaspecifieke vaardigheden",
+		"prefix": "C",
+		"id": "459f5d92-7188-4886-9658-1e7f3803b0e4",
 		"fo_doelzin_id": [
 			"5be4d419-4ab4-4335-8719-81705decd73d",
 			"24ba36dc-5384-4bc9-a349-43404e6fac46",
@@ -250,12 +252,12 @@
 			"d9980538-df4f-40d7-9b53-000fef9b2bf1",
 			"cfaf36d9-af5c-4857-80ab-a133d2cf9240",
 			"1f1f6210-6a3e-4e1f-9cb6-8516aa9c88e3"
-		],
-		"prefix": "C",
-		"id": "459f5d92-7188-4886-9658-1e7f3803b0e4"
+		]
 	},
 	{
 		"title": "Domein C: Programmaspecifieke vaardigheden",
+		"prefix": "C",
+		"id": "24f1469e-b9c5-4e89-ae93-6badb8e1ce33",
 		"fo_doelzin_id": [
 			"6f224e0f-c293-4b11-b8e0-db7244156927",
 			"4e0e10c7-d01c-473e-bdb6-6f3bf1dfb168",
@@ -263,12 +265,12 @@
 			"4cab4c4b-2727-47c4-960f-f528fdb5b29f",
 			"8b06b07a-831f-462e-9553-78398cc355c5",
 			"8ed6bca4-c1ab-4045-92fa-de12ed876fd4"
-		],
-		"prefix": "C",
-		"id": "24f1469e-b9c5-4e89-ae93-6badb8e1ce33"
+		]
 	},
 	{
 		"title": "Domein C: Programmaspecifieke vaardigheden",
+		"prefix": "C",
+		"id": "977cf831-d14e-4bc4-a390-eb1c23b59618",
 		"fo_doelzin_id": [
 			"d61bb3a8-63b9-4f2c-a257-fd2e91e201ef",
 			"4cd3407c-7a3f-4cea-a39a-a85e2f2aa8a2",
@@ -276,12 +278,12 @@
 			"01882bc1-586b-4ae1-88b3-529d7388d0be",
 			"d2ffc9fc-fe6b-4c97-a32c-8b9776cb8b35",
 			"db881125-038b-4ba1-8cee-cd8d7490b8ed"
-		],
-		"prefix": "C",
-		"id": "977cf831-d14e-4bc4-a390-eb1c23b59618"
+		]
 	},
 	{
 		"title": "Domein C: Programmaspecifieke vaardigheden",
+		"prefix": "C",
+		"id": "fd67e3d0-5e7a-4b80-8513-85850719b27f",
 		"fo_doelzin_id": [
 			"a85b03b0-572b-45b7-8847-b7d5a8545e3d",
 			"7e701474-ff8e-43fa-92ce-5795c4b1c2cd",
@@ -289,12 +291,12 @@
 			"99575ec9-30b9-41f3-8c90-7785aa75f292",
 			"47070b5b-60f7-4959-a8e1-321a4206f503",
 			"49e7b807-86f6-4f57-8934-00d0553ad110"
-		],
-		"prefix": "C",
-		"id": "fd67e3d0-5e7a-4b80-8513-85850719b27f"
+		]
 	},
 	{
 		"title": "Domein C: Programmaspecifieke vaardigheden",
+		"prefix": "C",
+		"id": "1ed4d94d-c352-4d50-b052-81722b0a3ee2",
 		"fo_doelzin_id": [
 			"d879cb51-2f63-4c2b-8bac-4503e651d429",
 			"3566daed-2758-4594-bd96-239b2b9c9c27",
@@ -302,12 +304,12 @@
 			"4d87a51b-fc95-4316-a264-35b5e458e72f",
 			"9ec38d23-c93f-45fc-8f5d-a3f38dbf0207",
 			"fcc477fa-f71d-4903-9320-d1b61f52842a"
-		],
-		"prefix": "C",
-		"id": "1ed4d94d-c352-4d50-b052-81722b0a3ee2"
+		]
 	},
 	{
 		"title": "Domein C: Programmaspecifieke vaardigheden",
+		"prefix": "C",
+		"id": "1bc8dab9-b886-4272-b975-4c5241a99a84",
 		"fo_doelzin_id": [
 			"53ae834d-3951-4c42-8e51-46b7089ab4dd",
 			"fa28c3a7-52b5-484a-86a0-08ef9e70a3c1",
@@ -315,12 +317,12 @@
 			"010507c7-81d5-4c21-90b0-7732e7ed148b",
 			"85180a0b-d29d-4121-bb2c-bd3b9d344185",
 			"c97bf1d3-293c-4d8d-831e-b66d2d392330"
-		],
-		"prefix": "C",
-		"id": "1bc8dab9-b886-4272-b975-4c5241a99a84"
+		]
 	},
 	{
 		"title": "Domein C: Programmaspecifieke vaardigheden",
+		"prefix": "C",
+		"id": "c1d07b63-95bf-4fc7-96e1-b22a39b7cafa",
 		"fo_doelzin_id": [
 			"0a2c5d35-6743-4ecb-8d29-3161a7248956",
 			"f0f068f8-6e16-4230-9415-35358358cfe5",
@@ -328,12 +330,15 @@
 			"a4fa376c-7f31-414f-8af3-d4d10e847089",
 			"f54abd6f-0804-4556-8eb6-ccff0f142ccb",
 			"1c3d35fa-64d8-4bfd-9b13-1f09d13de0d1"
-		],
-		"prefix": "C",
-		"id": "c1d07b63-95bf-4fc7-96e1-b22a39b7cafa"
+		]
 	},
 	{
 		"title": "Taal",
+		"prefix": "B",
+		"id": "fad1f721-dc7e-4dc8-bb75-1871ca49c109",
+		"replaces": [
+			"6d328b4b-a3b9-4080-a92e-de84b802907b"
+		],
 		"fo_doelzin_id": [
 			"21725a98-baa3-45c3-b8a5-ac3026ff35e2",
 			"886e4275-3b58-4b31-b639-b64934589013",
@@ -353,15 +358,15 @@
 			"1c55976c-7e3c-4658-9b01-5557ebb46b84",
 			"27c0b6ff-339a-4335-ba4c-859469b40252",
 			"01ada9cf-586f-425e-b01b-d16d4909c3c4"
-		],
-		"prefix": "B",
-		"id": "fad1f721-dc7e-4dc8-bb75-1871ca49c109",
-		"replaces": [
-			"6d328b4b-a3b9-4080-a92e-de84b802907b"
 		]
 	},
 	{
 		"title": "Wiskunde en de wereld",
+		"prefix": "C",
+		"id": "4f3da229-5364-4dec-ac09-e4013aeeb7f3",
+		"replaces": [
+			"499a6542-3e4b-4595-b9b6-543591e66ae1"
+		],
 		"fo_doelzin_id": [
 			"561469ee-a769-4997-bc6e-e38335eaaf0a",
 			"e0253abd-e528-42c3-8970-2d337901f02d",
@@ -378,15 +383,15 @@
 			"6957f96d-fc3f-44ee-8de6-e5f2a4089bd2",
 			"f77fe97a-e430-4d8f-b21c-f9d420d604dd",
 			"a5aeb7a6-d580-4950-bbd3-b62da9d5a6b9"
-		],
-		"prefix": "C",
-		"id": "4f3da229-5364-4dec-ac09-e4013aeeb7f3",
-		"replaces": [
-			"499a6542-3e4b-4595-b9b6-543591e66ae1"
 		]
 	},
 	{
 		"title": "Communicatie",
+		"prefix": "A",
+		"id": "04389b88-0243-4d0b-867b-d1fc048abcf4",
+		"replaces": [
+			"eabb7766-d2b2-4e03-a296-234330510a63"
+		],
 		"fo_doelzin_id": [
 			"75ee36f1-4e54-48fa-8e0e-09bca848fa15",
 			"907bc4e8-3eb8-482f-8fc0-93bc33e50f62",
@@ -427,15 +432,16 @@
 			"f0ba095c-2dda-4417-bc08-601369756749",
 			"f49f8889-3256-4737-90d3-eabbafb6903b",
 			"b7c23d6d-f47a-41c6-8f29-15e9c0fb6786"
-		],
-		"prefix": "A",
-		"id": "04389b88-0243-4d0b-867b-d1fc048abcf4",
-		"replaces": [
-			"eabb7766-d2b2-4e03-a296-234330510a63"
 		]
 	},
 	{
 		"title": "Literatuur",
+		"prefix": "C",
+		"id": "8512d7c8-d3e6-4eb1-8a9d-c8f77e695ed7",
+		"replaces": [
+			"5d0676d3-fbea-4ab9-8ce1-fb1b3a622236",
+			"2520c537-27b6-4394-af35-2ab3b7eeb7fd"
+		],
 		"fo_doelzin_id": [
 			"0081d62f-1e75-4835-b586-12d01ce252b9",
 			"3cb0cfa6-ab18-42d8-a8c1-902a0d2f2a6b",
@@ -452,16 +458,15 @@
 			"6e65d06a-e919-4165-8e22-a98db5fb0d87",
 			"43fff266-82a2-4998-bab7-914b8b9035cd",
 			"f467fe1d-210b-4d4f-b65a-df8ff29c59f8"
-		],
-		"prefix": "C",
-		"id": "8512d7c8-d3e6-4eb1-8a9d-c8f77e695ed7",
-		"replaces": [
-			"5d0676d3-fbea-4ab9-8ce1-fb1b3a622236",
-			"2520c537-27b6-4394-af35-2ab3b7eeb7fd"
 		]
 	},
 	{
 		"title": "Wiskundige denk-werkwijzen",
+		"prefix": "B",
+		"id": "42f9ada1-0515-4dc9-9a83-c4e33aeae4e2",
+		"replaces": [
+			"7b38ff3a-19b8-4980-b282-5f27e9bf38c6"
+		],
 		"fo_doelzin_id": [
 			"69cef2c4-e2db-4dfb-b002-e7d711fd6aa8",
 			"c9e39d4f-dc31-4931-b15a-f46a74eb17f1",
@@ -480,11 +485,6 @@
 			"0f4c919d-bca5-48f1-bf5e-477fb839697a",
 			"126c04c7-3959-4bd7-83b0-8c4ba45026f3",
 			"11219833-a07d-407b-8f54-5beaf779d062"
-		],
-		"prefix": "B",
-		"id": "42f9ada1-0515-4dc9-9a83-c4e33aeae4e2",
-		"replaces": [
-			"7b38ff3a-19b8-4980-b282-5f27e9bf38c6"
 		]
 	},
 	{
@@ -1448,7 +1448,7 @@
 		]
 	},
 	{
-		"title": "Domein A  Communicatie",
+		"title": "Domein A  Communicatie.",
 		"description": "Domein A Communicatie",
 		"prefix": "A",
 		"id": "7259d368-7882-45a2-b6ca-545de78c9948",
