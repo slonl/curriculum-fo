@@ -1,6 +1,6 @@
 [
 	{
-		"title": "Overkoepelend",
+		"title": "overkoepelend",
 		"fo_doelzin_id": [
 			"efff8a4b-cbd5-4775-aa8f-0d3f98733e6b",
 			"ef048d52-0a42-4dd1-a529-ca059c3572bf",
@@ -14,7 +14,12 @@
 			"6ddfa8f2-7c22-41fc-8a34-8e1c795b709f"
 		],
 		"prefix": "O",
-		"id": "0d2e4fb8-cc61-427d-8ce7-ef6a2bf12e5e"
+		"id": "0d2e4fb8-cc61-427d-8ce7-ef6a2bf12e5e",
+		"dirty": true,
+		"fo_kernzin_id": [
+			"832b281e-fc61-4089-a0f6-b3cf4e4f6e8f",
+			"c251e3ef-6cce-44f9-a2b6-5351aad223b7"
+		]
 	},
 	{
 		"title": "Wiskundige attitude",
@@ -333,31 +338,21 @@
 		"id": "c1d07b63-95bf-4fc7-96e1-b22a39b7cafa"
 	},
 	{
-		"title": "Taal",
+		"title": "taal",
 		"fo_doelzin_id": [
-			"21725a98-baa3-45c3-b8a5-ac3026ff35e2",
-			"886e4275-3b58-4b31-b639-b64934589013",
-			"0c5c554b-3901-44f8-aaa0-6e7b63caf5fc",
-			"0a247c35-3e9a-48b9-bebd-1ab6810c5b48",
-			"91f9a7f4-0f4d-43bb-b564-0e8bcd56679a",
-			"7277cd75-566e-4dcb-9086-e9379f42970c",
-			"fca436bf-1988-4fdc-a6fd-7bc87fdebbf7",
-			"fa700a59-bc55-4039-b320-a2d4ec25b32d",
-			"838eb09e-0666-4e6a-ba8d-1df26bb00b70",
-			"4e193aaf-3325-4495-8371-e7d1cce8460c",
-			"275521aa-6b60-4558-ba1b-f65b0a9ba9ad",
-			"86df4812-465c-49af-83f6-1d3885326e47",
-			"68d3d4e0-b62d-4017-bcfd-f773dfc1773f",
-			"ea4f56f1-e2b4-471c-8146-daf144b3209c",
-			"450eefee-b96e-4379-9646-9254bf482f9a",
-			"1c55976c-7e3c-4658-9b01-5557ebb46b84",
-			"27c0b6ff-339a-4335-ba4c-859469b40252",
-			"01ada9cf-586f-425e-b01b-d16d4909c3c4"
+			"450eefee-b96e-4379-9646-9254bf482f9a"
 		],
 		"prefix": "B",
 		"id": "fad1f721-dc7e-4dc8-bb75-1871ca49c109",
 		"replaces": [
 			"6d328b4b-a3b9-4080-a92e-de84b802907b"
+		],
+		"dirty": true,
+		"fo_kernzin_id": [
+			"426639e7-590a-40fe-af22-a6d630ea40de",
+			"e827f871-9117-4b65-aea7-62ac987f5d9d",
+			"6269c607-707a-48ba-ae7a-3643cc84ffb9",
+			"0bcc5ec9-0cdd-4902-9964-7e463525bad8"
 		]
 	},
 	{
@@ -386,7 +381,7 @@
 		]
 	},
 	{
-		"title": "Communicatie",
+		"title": "communicatie",
 		"fo_doelzin_id": [
 			"75ee36f1-4e54-48fa-8e0e-09bca848fa15",
 			"907bc4e8-3eb8-482f-8fc0-93bc33e50f62",
@@ -432,10 +427,21 @@
 		"id": "04389b88-0243-4d0b-867b-d1fc048abcf4",
 		"replaces": [
 			"eabb7766-d2b2-4e03-a296-234330510a63"
+		],
+		"dirty": true,
+		"fo_kernzin_id": [
+			"08312160-5b83-40c0-b4b6-02a4d94fd341",
+			"ba5d9a4d-e936-48c1-ae56-dadbd6a0e5c4",
+			"c6287d9b-c8c7-4f15-aa8c-fd160d1339f4",
+			"0630e094-5916-4ba0-93c5-e16a60ad4bcb",
+			"bd091f8b-3883-4d25-bf1d-c9163dbed728",
+			"a702e058-4ecd-461b-a0d4-81b373f21bf1",
+			"1cade995-690d-4276-93ab-7560c97aaefd",
+			"e91dbd10-ab54-4f6d-a448-750d38825c12"
 		]
 	},
 	{
-		"title": "Literatuur",
+		"title": "literatuur",
 		"fo_doelzin_id": [
 			"0081d62f-1e75-4835-b586-12d01ce252b9",
 			"3cb0cfa6-ab18-42d8-a8c1-902a0d2f2a6b",
@@ -458,6 +464,13 @@
 		"replaces": [
 			"5d0676d3-fbea-4ab9-8ce1-fb1b3a622236",
 			"2520c537-27b6-4394-af35-2ab3b7eeb7fd"
+		],
+		"dirty": true,
+		"fo_kernzin_id": [
+			"abc2e45d-98aa-4be0-9fd6-04a16de514dc",
+			"bbff7e2e-5961-422d-a320-a482b1a9416b",
+			"29b84997-bc69-4bae-98a4-a448494d2635",
+			"6f21da80-0da5-47a2-b03c-83385b12b54f"
 		]
 	},
 	{
