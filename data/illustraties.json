@@ -8,7 +8,8 @@
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"status": "concept",
-		"description": "de inhoud van een tekst weergeven in een schema, passend bij de tekststructuur."
+		"description": "de inhoud van een tekst weergeven in een schema, passend bij de tekststructuur;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -19,7 +20,8 @@
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"status": "concept",
-		"description": "met regelmaat leesfilmpjes maken waarin leerlingen een minuut hardop voorlezen om hun eigen voortgang te monitoren."
+		"description": "met regelmaat leesfilmpjes maken waarin leerlingen een minuut hardop voorlezen om hun eigen voortgang te monitoren;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -30,7 +32,8 @@
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"status": "concept",
-		"description": "gesprekken voeren over voorgelezen boeken aan de hand van open vragen over inhoud en betekenis van het verhaal."
+		"description": "gesprekken voeren over voorgelezen boeken aan de hand van open vragen over inhoud en betekenis van het verhaal;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -41,7 +44,8 @@
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"status": "concept",
-		"description": "aantekeningen maken bij een informatieve kinderpodcast, met als luisterdoel argumenten verzamelen bij een actueel onderwerp."
+		"description": "aantekeningen maken bij een informatieve kinderpodcast, met als luisterdoel argumenten verzamelen bij een actueel onderwerp;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -63,7 +67,8 @@
 		],
 		"prefix": "t1",
 		"status": "concept",
-		"description": "kennis over een onderwerp verdiepen door verschillende teksten over dit onderwerp te lezen, podcasts te beluisteren, of nieuwe media te bekijken of te beluisteren."
+		"description": "kennis over een onderwerp verdiepen door verschillende teksten over dit onderwerp te lezen, podcasts te beluisteren, of nieuwe media te bekijken of te beluisteren;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -74,7 +79,8 @@
 		],
 		"prefix": "t2",
 		"status": "concept",
-		"description": "twee rijke teksten bespreken over hetzelfde onderwerp die elkaar aanvullen, maar op sommige punten tegenstrijdig zijn."
+		"description": "twee rijke teksten bespreken over hetzelfde onderwerp die elkaar aanvullen, maar op sommige punten tegenstrijdig zijn;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -85,7 +91,8 @@
 		],
 		"prefix": "t1",
 		"status": "concept",
-		"description": "verzamelde informatie uit bronnen in deelonderwerpen clusteren in een eenvoudig schrijfplan."
+		"description": "verzamelde informatie uit bronnen in deelonderwerpen clusteren in een eenvoudig schrijfplan;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -96,7 +103,8 @@
 		],
 		"prefix": "t2",
 		"status": "concept",
-		"description": "een mondelinge of schriftelijke instructie maken voor een bekend publiek."
+		"description": "een mondelinge of schriftelijke instructie maken voor een bekend publiek;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -107,7 +115,8 @@
 		],
 		"prefix": "t1",
 		"status": "concept",
-		"description": "een taaluiting in de thuistaal verwerken op een poster."
+		"description": "een taaluiting in de thuistaal verwerken op een poster;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -118,7 +127,8 @@
 		],
 		"prefix": "t2",
 		"status": "concept",
-		"description": "een rap maken over gevoelens of ervaringen."
+		"description": "een rap maken over gevoelens of ervaringen;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -129,7 +139,8 @@
 		],
 		"prefix": "t1",
 		"status": "concept",
-		"description": "een schema maken bij een geschiedenistekst, zoals een tijdlijn of oorzaak-gevolgschema."
+		"description": "een schema maken bij een geschiedenistekst, zoals een tijdlijn of oorzaak-gevolgschema;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -140,7 +151,8 @@
 		],
 		"prefix": "t2",
 		"status": "concept",
-		"description": "aan het eind van de les op een Post-it schrijven wat je geleerd hebt of wat je moeilijk vond."
+		"description": "aan het eind van de les op een Post-it schrijven wat je geleerd hebt of wat je moeilijk vond;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -151,7 +163,8 @@
 		],
 		"prefix": "t1",
 		"status": "concept",
-		"description": "aangereikte bronnen die verschillen in betrouwbaarheid scannen op kernmerken."
+		"description": "aangereikte bronnen die verschillen in betrouwbaarheid scannen op kernmerken;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -162,7 +175,8 @@
 		],
 		"prefix": "t2",
 		"status": "concept",
-		"description": "kiezen voor de betrouwbaarste bron in een serie van drie aangereikte teksten."
+		"description": "kiezen voor de betrouwbaarste bron in een serie van drie aangereikte teksten;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -184,7 +198,8 @@
 		],
 		"prefix": "t1",
 		"status": "concept",
-		"description": "op gesprekspartner afstemmen en doorvragen tijdens een interview met bekende."
+		"description": "op gesprekspartner afstemmen en doorvragen tijdens een interview met bekende;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -195,7 +210,8 @@
 		],
 		"prefix": "t2",
 		"status": "concept",
-		"description": "afspraken maken over vorm en inhoud bij het maken van een gezamenlijk werkstuk."
+		"description": "afspraken maken over vorm en inhoud bij het maken van een gezamenlijk werkstuk;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -206,7 +222,8 @@
 		],
 		"prefix": "t3",
 		"status": "concept",
-		"description": "een debat voorbereiden en voeren over een actueel onderwerp uit de eigen leefwereld."
+		"description": "een debat voorbereiden en voeren over een actueel onderwerp uit de eigen leefwereld;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -217,7 +234,8 @@
 		],
 		"prefix": "t1",
 		"status": "concept",
-		"description": "kennis opbouwen over het gebruik van verschillende talen en taalvariëteiten in verschillende contexten door ervaringen uit te wisselen."
+		"description": "kennis opbouwen over het gebruik van verschillende talen en taalvariëteiten in verschillende contexten door ervaringen uit te wisselen;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -228,7 +246,8 @@
 		],
 		"prefix": "t2",
 		"status": "concept",
-		"description": "leeservaringen uitwisselen rondom gelezen boeken."
+		"description": "leeservaringen uitwisselen rondom gelezen boeken;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -239,7 +258,8 @@
 		],
 		"prefix": "t3",
 		"status": "concept",
-		"description": "oplossingen bedenken om minder water te verbruiken in het dagelijks leven."
+		"description": "oplossingen bedenken om minder water te verbruiken in het dagelijks leven;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -261,7 +281,8 @@
 		],
 		"prefix": "t1",
 		"status": "concept",
-		"description": "de eigen leesaanpak bij een complexe tekst bespreken."
+		"description": "de eigen leesaanpak bij een complexe tekst bespreken;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -272,7 +293,8 @@
 		],
 		"prefix": "t2",
 		"status": "concept",
-		"description": "de gekozen schrijfaanpak evalueren na het schrijven van een tekst en bedenken wat er bij het schrijven van een volgende tekst nog beter kan."
+		"description": "de gekozen schrijfaanpak evalueren na het schrijven van een tekst en bedenken wat er bij het schrijven van een volgende tekst nog beter kan;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -283,7 +305,8 @@
 		],
 		"prefix": "t3",
 		"status": "concept",
-		"description": "leerdoelen formuleren na het voltooien van een spreekbeurt, zoals ‘naar je publiek kijken’."
+		"description": "leerdoelen formuleren na het voltooien van een spreekbeurt, zoals ‘naar je publiek kijken’;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -294,7 +317,8 @@
 		],
 		"prefix": "t1",
 		"status": "concept",
-		"description": "homofonen en homoniemen vergelijken: hart en hard; bank (zitten) en bank (gebouw)."
+		"description": "homofonen en homoniemen vergelijken: hart en hard; bank (zitten) en bank (gebouw);",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -305,7 +329,8 @@
 		],
 		"prefix": "t2",
 		"status": "concept",
-		"description": "de opbouw van woorden analyseren om de betekenis te ontdekken: on+aard+ig, land+kaart."
+		"description": "de opbouw van woorden analyseren om de betekenis te ontdekken: on+aard+ig, land+kaart;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -316,7 +341,8 @@
 		],
 		"prefix": "t3",
 		"status": "concept",
-		"description": "verschillende situaties bedenken waarin verkleinwoorden worden gebruikt en uitleggen waarom dat gedaan wordt."
+		"description": "verschillende situaties bedenken waarin verkleinwoorden worden gebruikt en uitleggen waarom dat gedaan wordt;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -327,7 +353,8 @@
 		],
 		"prefix": "t1",
 		"status": "concept",
-		"description": "de spelling van woorden achterhalen als tandpasta en onmiddellijk, door de koppeling te maken tussen vorm en betekenis."
+		"description": "de spelling van woorden achterhalen als tandpasta en onmiddellijk, door de koppeling te maken tussen vorm en betekenis;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -338,7 +365,8 @@
 		],
 		"prefix": "t2",
 		"status": "concept",
-		"description": "bronnen zoals woordenboeken, een beeld- en gebarenwoordenboek of taaladviessites gebruiken, ook bij het reviseren van een tekst."
+		"description": "bronnen zoals woordenboeken, een beeld- en gebarenwoordenboek of taaladviessites gebruiken, ook bij het reviseren van een tekst;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -349,7 +377,8 @@
 		],
 		"prefix": "t1",
 		"status": "concept",
-		"description": "voorbeelden bespreken waarin mensen door keuzes in hun taalgebruik laten zien dat ze tot een bepaalde groep behoren, bijvoorbeeld door het gebruik van straattaal."
+		"description": "voorbeelden bespreken waarin mensen door keuzes in hun taalgebruik laten zien dat ze tot een bepaalde groep behoren, bijvoorbeeld door het gebruik van straattaal;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -360,7 +389,8 @@
 		],
 		"prefix": "t2",
 		"status": "concept",
-		"description": "een rollenspel spelen waarbij de scène meerdere keren gespeeld wordt met gebruik van telkens een ander deel van het talig repertoire."
+		"description": "een rollenspel spelen waarbij de scène meerdere keren gespeeld wordt met gebruik van telkens een ander deel van het talig repertoire;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -371,7 +401,8 @@
 		],
 		"prefix": "t3",
 		"status": "concept",
-		"description": "een verslag schrijven over persoonlijke ervaringen met andere talen of taalvariëteiten."
+		"description": "een verslag schrijven over persoonlijke ervaringen met andere talen of taalvariëteiten;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -382,7 +413,8 @@
 		],
 		"prefix": "t1",
 		"status": "concept",
-		"description": "een lijstje maken van dagelijkse woorden en hun schooltaalvariant (erbij doen vs. optellen; eten vs. voeding)."
+		"description": "een lijstje maken van dagelijkse woorden en hun schooltaalvariant (erbij doen vs; optellen; eten vs; voeding);",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -393,7 +425,8 @@
 		],
 		"prefix": "t2",
 		"status": "concept",
-		"description": "popsongs in verschillende regionale talen beluisteren en vergelijken."
+		"description": "popsongs in verschillende regionale talen beluisteren en vergelijken;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -404,7 +437,8 @@
 		],
 		"prefix": "t1",
 		"status": "concept",
-		"description": "een tijdlijn maken bij een voorgelezen boek."
+		"description": "een tijdlijn maken bij een voorgelezen boek;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -415,7 +449,8 @@
 		],
 		"prefix": "t2",
 		"status": "concept",
-		"description": "elementen beschrijven die een verhaal spannend maken of bespreken hoe het spelen met tijd de spanning in een verhaal beïnvloedt."
+		"description": "elementen beschrijven die een verhaal spannend maken of bespreken hoe het spelen met tijd de spanning in een verhaal beïnvloedt;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -426,7 +461,8 @@
 		],
 		"prefix": "t3",
 		"status": "concept",
-		"description": "het probleem waarin het hoofdpersonage verwikkeld raakt uitspelen."
+		"description": "het probleem waarin het hoofdpersonage verwikkeld raakt uitspelen;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -437,7 +473,8 @@
 		],
 		"prefix": "t4",
 		"status": "concept",
-		"description": "verhalende elementen benoemen in poëzie en game-scenario’s."
+		"description": "verhalende elementen benoemen in poëzie en game-scenario’s;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -448,7 +485,8 @@
 		],
 		"prefix": "t1",
 		"status": "concept",
-		"description": "teksten van verschillende literaire genres lezen en de kenmerkende aspecten bespreken, zoals een dagboektekst, limerick, fabel, theatertekst, liedtekst, sprookjes en non-fictie."
+		"description": "teksten van verschillende literaire genres lezen en de kenmerkende aspecten bespreken, zoals een dagboektekst, limerick, fabel, theatertekst, liedtekst, sprookjes en non-fictie;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -459,7 +497,8 @@
 		],
 		"prefix": "t2",
 		"status": "concept",
-		"description": "boeken classificeren op basis van inhoudelijke thema’s."
+		"description": "boeken classificeren op basis van inhoudelijke thema’s;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -470,7 +509,8 @@
 		],
 		"prefix": "t3",
 		"status": "concept",
-		"description": "poëtisch taalgebruik in een gedicht bespreken."
+		"description": "poëtisch taalgebruik in een gedicht bespreken;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -481,7 +521,8 @@
 		],
 		"prefix": "t1",
 		"status": "concept",
-		"description": "genres lezen die je niet eerder hebt gelezen, om de leesvoorkeur te ontdekken."
+		"description": "genres lezen die je niet eerder hebt gelezen, om de leesvoorkeur te ontdekken;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -492,7 +533,8 @@
 		],
 		"prefix": "t2",
 		"status": "concept",
-		"description": "leesgesprekken voeren bij een leestafel vol verschillende boeken: spannende boeken, verhalende non-fictie, informatieve boeken, poëziebundels en strips."
+		"description": "leesgesprekken voeren bij een leestafel vol verschillende boeken: spannende boeken, verhalende non-fictie, informatieve boeken, poëziebundels en strips;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -514,7 +556,8 @@
 		],
 		"prefix": "t1",
 		"status": "concept",
-		"description": "emoties verwoorden die gelezen gedichten oproepen."
+		"description": "emoties verwoorden die gelezen gedichten oproepen;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -525,7 +568,8 @@
 		],
 		"prefix": "t2",
 		"status": "concept",
-		"description": "boeken bespreken over situaties die spelen in de klas, bijvoorbeeld pestgedrag."
+		"description": "boeken bespreken over situaties die spelen in de klas, bijvoorbeeld pestgedrag;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -536,7 +580,8 @@
 		],
 		"prefix": "t3",
 		"status": "concept",
-		"description": "kennis over een historisch of wereldoriënterend onderwerp verdiepen door er een verhaal of gedicht over te lezen."
+		"description": "kennis over een historisch of wereldoriënterend onderwerp verdiepen door er een verhaal of gedicht over te lezen;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -547,7 +592,8 @@
 		],
 		"prefix": "t4",
 		"status": "concept",
-		"description": "argumenten uit een gelezen boek gebruiken in een betogende brief, waarin bijvoorbeeld gepleit wordt voor de aanleg van een speeltuin."
+		"description": "argumenten uit een gelezen boek gebruiken in een betogende brief, waarin bijvoorbeeld gepleit wordt voor de aanleg van een speeltuin;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -558,7 +604,8 @@
 		],
 		"prefix": "t1",
 		"status": "concept",
-		"description": "aanbod ontwikkelen voor schoolbreed werken in betekenisvolle thema's met rijke teksten."
+		"description": "aanbod ontwikkelen voor schoolbreed werken in betekenisvolle thema's met rijke teksten;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -569,7 +616,8 @@
 		],
 		"prefix": "t2",
 		"status": "concept",
-		"description": "schoolbrede afspraken maken waarin het aanbod van literatuur en de leesroutine zijn vastgelegd."
+		"description": "schoolbrede afspraken maken waarin het aanbod van literatuur en de leesroutine zijn vastgelegd;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -580,7 +628,8 @@
 		],
 		"prefix": "t3",
 		"status": "concept",
-		"description": "schoolbrede afspraken maken over het bevorderen van samenhang tussen lees- en schrijfactiviteiten."
+		"description": "schoolbrede afspraken maken over het bevorderen van samenhang tussen lees- en schrijfactiviteiten;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -591,7 +640,8 @@
 		],
 		"prefix": "t4",
 		"status": "concept",
-		"description": "leesbevorderende activiteiten organiseren en deelnemen aan buitenschoolse leesbevorderingsactiviteiten."
+		"description": "leesbevorderende activiteiten organiseren en deelnemen aan buitenschoolse leesbevorderingsactiviteiten;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -602,7 +652,8 @@
 		],
 		"prefix": "t1",
 		"status": "concept",
-		"description": "projecten rond wereldoriënterende thema’s organiseren, waarbij leerlingen informatie uit rijke teksten verwerken."
+		"description": "projecten rond wereldoriënterende thema’s organiseren, waarbij leerlingen informatie uit rijke teksten verwerken;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -613,7 +664,8 @@
 		],
 		"prefix": "t2",
 		"status": "concept",
-		"description": "sleutelprincipes per taaldomein vastleggen, waarmee binnen alle leergebieden gewerkt wordt."
+		"description": "sleutelprincipes per taaldomein vastleggen, waarmee binnen alle leergebieden gewerkt wordt;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -624,7 +676,8 @@
 		],
 		"prefix": "t3",
 		"status": "concept",
-		"description": "bieden van taalsteun bij het uitvoeren van lees-, schrijf- en spreektaken in de leergebieden."
+		"description": "bieden van taalsteun bij het uitvoeren van lees-, schrijf- en spreektaken in de leergebieden;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -2264,7 +2317,8 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"status": "concept",
-		"description": "de de betekenis bespreken van gelezen verhalen, toneelstukken of gedichten."
+		"description": "de de betekenis bespreken van gelezen verhalen, toneelstukken of gedichten;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -2275,7 +2329,8 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"status": "concept",
-		"description": "begrip tonen door informatie uit een documentaire in een schema te plaatsen."
+		"description": "begrip tonen door informatie uit een documentaire in een schema te plaatsen;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -2286,7 +2341,8 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"status": "concept",
-		"description": "elkaars strategisch leesgedrag bespreken en beoordelen bij een complexe tekst."
+		"description": "elkaars strategisch leesgedrag bespreken en beoordelen bij een complexe tekst;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -2297,7 +2353,8 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"status": "concept",
-		"description": "de structuur van hyperlinkteksten verkennen."
+		"description": "de structuur van hyperlinkteksten verkennen;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -2320,7 +2377,8 @@
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
 		"status": "concept",
-		"description": "de hoofdlijnen bespreken van een bekeken talkshow over een maatschappelijk vraagstuk."
+		"description": "de hoofdlijnen bespreken van een bekeken talkshow over een maatschappelijk vraagstuk;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -2343,7 +2401,8 @@
 		],
 		"prefix": "t1",
 		"status": "concept",
-		"description": "begrip van een onderwerp verdiepen door meerdere teksten over hetzelfde onderwerp met elkaar te vergelijken."
+		"description": "begrip van een onderwerp verdiepen door meerdere teksten over hetzelfde onderwerp met elkaar te vergelijken;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -2354,7 +2413,8 @@
 		],
 		"prefix": "t2",
 		"status": "concept",
-		"description": "literaire gesprekken voeren over de waardering van gelezen boeken."
+		"description": "literaire gesprekken voeren over de waardering van gelezen boeken;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -2365,7 +2425,8 @@
 		],
 		"prefix": "t3",
 		"status": "concept",
-		"description": "een infographic op basis van meerdere teksten maken van inhoud die onthouden moet worden, passend bij het studiedoel."
+		"description": "een infographic op basis van meerdere teksten maken van inhoud die onthouden moet worden, passend bij het studiedoel;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -2377,7 +2438,8 @@
 		],
 		"prefix": "t5",
 		"status": "concept",
-		"description": "een politiek opiniestuk analyseren op inhoud en vorm."
+		"description": "een politiek opiniestuk analyseren op inhoud en vorm;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -2388,7 +2450,8 @@
 		],
 		"prefix": "t1",
 		"status": "concept",
-		"description": "een schrijfplan maken op basis van doel, publiek en context."
+		"description": "een schrijfplan maken op basis van doel, publiek en context;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -2399,7 +2462,8 @@
 		],
 		"prefix": "t2",
 		"status": "concept",
-		"description": "een review schrijven over een bezochte theatervoorstelling of een gekocht product voor andere gebruikers."
+		"description": "een review schrijven over een bezochte theatervoorstelling of een gekocht product voor andere gebruikers;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -2410,7 +2474,8 @@
 		],
 		"prefix": "t3",
 		"status": "concept",
-		"description": "een podcast maken naar aanleiding van een snuffelstage of bedrijfsbezoek in het kader van beroepsoriëntatie."
+		"description": "een podcast maken naar aanleiding van een snuffelstage of bedrijfsbezoek in het kader van beroepsoriëntatie;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -2421,7 +2486,8 @@
 		],
 		"prefix": "t4",
 		"status": "concept",
-		"description": "een betoog houden over een maatschappelijk probleem."
+		"description": "een betoog houden over een maatschappelijk probleem;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -2433,7 +2499,8 @@
 		],
 		"prefix": "t6",
 		"status": "concept",
-		"description": "een uiteenzetting of beschouwing schrijven of uitspreken over een verschijnsel of kwestie."
+		"description": "een uiteenzetting of beschouwing schrijven of uitspreken over een verschijnsel of kwestie;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -2444,7 +2511,8 @@
 		],
 		"prefix": "t1",
 		"status": "concept",
-		"description": "een persoonlijke ervaring verwerken tot een ultrakorte tekst of een elevator pitch."
+		"description": "een persoonlijke ervaring verwerken tot een ultrakorte tekst of een elevator pitch;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -2455,7 +2523,8 @@
 		],
 		"prefix": "t2",
 		"status": "concept",
-		"description": "met afwijkende interpunctie spelen, of het doorbreken van genreconventies."
+		"description": "met afwijkende interpunctie spelen, of het doorbreken van genreconventies;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -2478,7 +2547,8 @@
 		],
 		"prefix": "t5",
 		"status": "concept",
-		"description": "een rap maken met zelfbedachte woorden, gebruikmakend van straattaal."
+		"description": "een rap maken met zelfbedachte woorden, gebruikmakend van straattaal;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -2489,7 +2559,8 @@
 		],
 		"prefix": "t1",
 		"status": "concept",
-		"description": "een infographic maken van teksten over een maatschappelijk onderwerp."
+		"description": "een infographic maken van teksten over een maatschappelijk onderwerp;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -2500,7 +2571,8 @@
 		],
 		"prefix": "t2",
 		"status": "concept",
-		"description": "een samenvatting maken van één of enkele bronnen rond een burgerschapsthema."
+		"description": "een samenvatting maken van één of enkele bronnen rond een burgerschapsthema;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -2511,7 +2583,8 @@
 		],
 		"prefix": "t3",
 		"status": "concept",
-		"description": "een leerlogboek gebruiken om gedachten en vragen te noteren over het onderwerp dat bestudeerd wordt."
+		"description": "een leerlogboek gebruiken om gedachten en vragen te noteren over het onderwerp dat bestudeerd wordt;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -2523,7 +2596,8 @@
 		],
 		"prefix": "t4",
 		"status": "concept",
-		"description": "aantekeningen maken en verbanden daarin aanbrengen tijdens de uitleg van de docent."
+		"description": "aantekeningen maken en verbanden daarin aanbrengen tijdens de uitleg van de docent;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -2534,7 +2608,8 @@
 		],
 		"prefix": "t1",
 		"status": "concept",
-		"description": "verschillende aangereikte teksten over hetzelfde onderwerp vergelijken en analyseren."
+		"description": "verschillende aangereikte teksten over hetzelfde onderwerp vergelijken en analyseren;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -2545,7 +2620,8 @@
 		],
 		"prefix": "t2",
 		"status": "concept",
-		"description": "houden de betrouwbaarheid van door AI gegenereerde teksten bespreken."
+		"description": "houden de betrouwbaarheid van door AI gegenereerde teksten bespreken;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -2567,7 +2643,8 @@
 		],
 		"prefix": "t1",
 		"status": "concept",
-		"description": "live of online deelnemen aan een forumdiscussie."
+		"description": "live of online deelnemen aan een forumdiscussie;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -2578,7 +2655,8 @@
 		],
 		"prefix": "t2",
 		"status": "concept",
-		"description": "een debat voorbereiden en voeren over een actueel maatschappelijk onderwerp, waarbij de meningen sterk uiteenlopen."
+		"description": "een debat voorbereiden en voeren over een actueel maatschappelijk onderwerp, waarbij de meningen sterk uiteenlopen;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -2589,7 +2667,8 @@
 		],
 		"prefix": "t3",
 		"status": "concept",
-		"description": "een afspraak maken voor een snuffelstage."
+		"description": "een afspraak maken voor een snuffelstage;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -2600,7 +2679,8 @@
 		],
 		"prefix": "t1",
 		"status": "concept",
-		"description": "kennis opbouwen over geestelijke stromingen of andere vormen van diversiteit in de Nederlandse samenleving door ervaringen uit te wisselen."
+		"description": "kennis opbouwen over geestelijke stromingen of andere vormen van diversiteit in de Nederlandse samenleving door ervaringen uit te wisselen;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -2611,7 +2691,8 @@
 		],
 		"prefix": "t2",
 		"status": "concept",
-		"description": "ideeën en meningen uitwisselen over gelezen literatuur."
+		"description": "ideeën en meningen uitwisselen over gelezen literatuur;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -2622,7 +2703,8 @@
 		],
 		"prefix": "t3",
 		"status": "concept",
-		"description": "manieren bedenken om het gebruik van dialecten van het Nederlands te blijven stimuleren."
+		"description": "manieren bedenken om het gebruik van dialecten van het Nederlands te blijven stimuleren;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -2634,7 +2716,8 @@
 		],
 		"prefix": "t4",
 		"status": "concept",
-		"description": "een probleem, vraagstuk of situatie verkennen, vanuit verschillende perspectieven."
+		"description": "een probleem, vraagstuk of situatie verkennen, vanuit verschillende perspectieven;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -2646,7 +2729,8 @@
 		],
 		"prefix": "t5",
 		"status": "concept",
-		"description": "de mogelijkheden verkennen om te handelen ten aanzien van maatschappelijke vraagstukken door zienswijzen uit te wisselen."
+		"description": "de mogelijkheden verkennen om te handelen ten aanzien van maatschappelijke vraagstukken door zienswijzen uit te wisselen;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -2657,7 +2741,8 @@
 		],
 		"prefix": "t1",
 		"status": "concept",
-		"description": "elkaars leesaanpak bij een complexe tekst bespreken en beoordelen."
+		"description": "elkaars leesaanpak bij een complexe tekst bespreken en beoordelen;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -2679,7 +2764,8 @@
 		],
 		"prefix": "t1",
 		"status": "concept",
-		"description": "de betekenis analyseren van krantenkoppen als “een leerling verhuist/verhuisd”, of “een moslima ontsluiert/ontsluierd”."
+		"description": "de betekenis analyseren van krantenkoppen als “een leerling verhuist/verhuisd”, of “een moslima ontsluiert/ontsluierd”;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -2690,7 +2776,8 @@
 		],
 		"prefix": "t2",
 		"status": "concept",
-		"description": "het wel of niet gebruiken van verkleinwoorden in bepaalde contexten beredeneerd kunnen uitleggen: in de juridische context spreek je bijvoorbeeld niet over een advocaatje en een vonnisje."
+		"description": "het wel of niet gebruiken van verkleinwoorden in bepaalde contexten beredeneerd kunnen uitleggen: in de juridische context spreek je bijvoorbeeld niet over een advocaatje en een vonnisje;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -2701,7 +2788,8 @@
 		],
 		"prefix": "t3",
 		"status": "concept",
-		"description": "de plekwisseling van persoonsvorm en onderwerp ontdekken als je een bepaling toevoegt en vergelijken hoe dat in andere talen gebeurt (ik ga naar de bioscoop – morgen ga ik naar de bioscoop)."
+		"description": "de plekwisseling van persoonsvorm en onderwerp ontdekken als je een bepaling toevoegt en vergelijken hoe dat in andere talen gebeurt (ik ga naar de bioscoop – morgen ga ik naar de bioscoop);",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -2712,7 +2800,8 @@
 		],
 		"prefix": "t1",
 		"status": "concept",
-		"description": "homofone werkwoordsvormen correct leren spellen zoals verhuist en verhuisd, door de context en betekenis erbij te betrekken."
+		"description": "homofone werkwoordsvormen correct leren spellen zoals verhuist en verhuisd, door de context en betekenis erbij te betrekken;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -2723,7 +2812,8 @@
 		],
 		"prefix": "t2",
 		"status": "concept",
-		"description": "het belang van een correcte spelling in verschillende beroepscontexten bespreken."
+		"description": "het belang van een correcte spelling in verschillende beroepscontexten bespreken;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -2734,7 +2824,8 @@
 		],
 		"prefix": "t3",
 		"status": "concept",
-		"description": "bronnen zoals woordenboeken, zelfgemaakte lijstjes, taaladviezen of taalboekjes gebruiken, ook bij het reviseren van een tekst."
+		"description": "bronnen zoals woordenboeken, zelfgemaakte lijstjes, taaladviezen of taalboekjes gebruiken, ook bij het reviseren van een tekst;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -2745,7 +2836,8 @@
 		],
 		"prefix": "t4",
 		"status": "concept",
-		"description": "veelvoorkomende alledaagse taalfouten bespreken en het effect daarvan."
+		"description": "veelvoorkomende alledaagse taalfouten bespreken en het effect daarvan;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -2756,7 +2848,8 @@
 		],
 		"prefix": "t1",
 		"status": "concept",
-		"description": "keuzes verwoorden rondom taalgebruik en non-verbale communicatie na afloop van een presentatie."
+		"description": "keuzes verwoorden rondom taalgebruik en non-verbale communicatie na afloop van een presentatie;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -2767,7 +2860,8 @@
 		],
 		"prefix": "t2",
 		"status": "concept",
-		"description": "op de eigen woordkeuze reflecteren in de interactie met een ander."
+		"description": "op de eigen woordkeuze reflecteren in de interactie met een ander;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -2778,7 +2872,8 @@
 		],
 		"prefix": "t3",
 		"status": "concept",
-		"description": "de keuze voor een taal of taalvariëteit van een influencer bespreken."
+		"description": "de keuze voor een taal of taalvariëteit van een influencer bespreken;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -2789,7 +2884,8 @@
 		],
 		"prefix": "t1",
 		"status": "concept",
-		"description": "over de positie van verschillende talen in de maatschappij een gesprek voeren."
+		"description": "over de positie van verschillende talen in de maatschappij een gesprek voeren;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -2800,7 +2896,8 @@
 		],
 		"prefix": "t2",
 		"status": "concept",
-		"description": "artikel lezen en bespreken over voorbeelden van taalverandering zoals ‘hun als onderwerp van de zin’."
+		"description": "artikel lezen en bespreken over voorbeelden van taalverandering zoals ‘hun als onderwerp van de zin’;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -2811,7 +2908,8 @@
 		],
 		"prefix": "t3",
 		"status": "concept",
-		"description": "uitingen herkennen die een negatieve gevoelswaarde hebben gekregen."
+		"description": "uitingen herkennen die een negatieve gevoelswaarde hebben gekregen;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -2858,7 +2956,8 @@
 		],
 		"prefix": "t1",
 		"status": "concept",
-		"description": "teksten van verschillende literaire genres lezen en de kenmerkende aspecten bespreken, zoals een sonnet, detectives en biografieën."
+		"description": "teksten van verschillende literaire genres lezen en de kenmerkende aspecten bespreken, zoals een sonnet, detectives en biografieën;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -2869,7 +2968,8 @@
 		],
 		"prefix": "t2",
 		"status": "concept",
-		"description": "beeldspraak analyseren en interpreteren in gedichten."
+		"description": "beeldspraak analyseren en interpreteren in gedichten;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -2880,7 +2980,8 @@
 		],
 		"prefix": "t3",
 		"status": "concept",
-		"description": "overeenkomsten en verschillen benoemen tussen verschillende verschijningsvormen van hetzelfde verhaal: graphic novel, roman en verfilming."
+		"description": "overeenkomsten en verschillen benoemen tussen verschillende verschijningsvormen van hetzelfde verhaal: graphic novel, roman en verfilming;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -2891,7 +2992,8 @@
 		],
 		"prefix": "t4",
 		"status": "concept",
-		"description": "het taalgebruik in een gedicht vergelijken met het taalgebruik in een zakelijke tekst over hetzelfde onderwerp."
+		"description": "het taalgebruik in een gedicht vergelijken met het taalgebruik in een zakelijke tekst over hetzelfde onderwerp;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -2903,7 +3005,8 @@
 		],
 		"prefix": "t6",
 		"status": "concept",
-		"description": "de relatie tussen vorm en betekenis van een gedicht analyseren."
+		"description": "de relatie tussen vorm en betekenis van een gedicht analyseren;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -2950,7 +3053,8 @@
 		],
 		"prefix": "t1",
 		"status": "concept",
-		"description": "teksten van verschillende genres en schrijvers lezen en beluisteren, zoals poëzie, spoken word, verhalen, romans, multimediale teksten, theatervoorstellingen, verhalende nonfictie en strips."
+		"description": "teksten van verschillende genres en schrijvers lezen en beluisteren, zoals poëzie, spoken word, verhalen, romans, multimediale teksten, theatervoorstellingen, verhalende nonfictie en strips;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -2961,7 +3065,8 @@
 		],
 		"prefix": "t2",
 		"status": "concept",
-		"description": "boekpromotie-activiteiten gericht op het ontwikkelen van de leesvoorkeur."
+		"description": "boekpromotie-activiteiten gericht op het ontwikkelen van de leesvoorkeur;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -2972,7 +3077,8 @@
 		],
 		"prefix": "t3",
 		"status": "concept",
-		"description": "een boekenvlog maken om de leeservaring te verwoorden."
+		"description": "een boekenvlog maken om de leeservaring te verwoorden;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -2995,7 +3101,8 @@
 		],
 		"prefix": "t1",
 		"status": "concept",
-		"description": "lezen, vergelijken en bespreken van teksten van verschillende literaire genres, zoals een sonnet, detectives en biografieën."
+		"description": "lezen, vergelijken en bespreken van teksten van verschillende literaire genres, zoals een sonnet, detectives en biografieën;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -3006,7 +3113,8 @@
 		],
 		"prefix": "t2",
 		"status": "concept",
-		"description": "emoties verwoorden die gelezen gedichten oproepen."
+		"description": "emoties verwoorden die gelezen gedichten oproepen;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -3017,7 +3125,8 @@
 		],
 		"prefix": "t3",
 		"status": "concept",
-		"description": "boeken evalueren die handelen over kwesties die spelen in het persoonlijke leven, bijvoorbeeld een echtscheiding of ontluikende liefde."
+		"description": "boeken evalueren die handelen over kwesties die spelen in het persoonlijke leven, bijvoorbeeld een echtscheiding of ontluikende liefde;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -3028,7 +3137,8 @@
 		],
 		"prefix": "t4",
 		"status": "concept",
-		"description": "kennis over een burgerschapsthema verdiepen door er een verhaal of gedicht over te lezen."
+		"description": "kennis over een burgerschapsthema verdiepen door er een verhaal of gedicht over te lezen;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -3039,7 +3149,8 @@
 		],
 		"prefix": "t5",
 		"status": "concept",
-		"description": "een discussie over een maatschappelijk probleem voeren naar aanleiding van het lezen van boeken over dat thema."
+		"description": "een discussie over een maatschappelijk probleem voeren naar aanleiding van het lezen van boeken over dat thema;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -3062,7 +3173,8 @@
 		],
 		"prefix": "t1",
 		"status": "concept",
-		"description": "flashbacks en flashforwards herkennen in een verhaal en het effect bespreken op de spanning van een verhaal."
+		"description": "flashbacks en flashforwards herkennen in een verhaal en het effect bespreken op de spanning van een verhaal;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -3073,7 +3185,8 @@
 		],
 		"prefix": "t2",
 		"status": "concept",
-		"description": "de spanning en sfeer in een verhaal bespreken en verkennen welke elementen uit tijd, plaats en omstandigheden daar invloed op hebben."
+		"description": "de spanning en sfeer in een verhaal bespreken en verkennen welke elementen uit tijd, plaats en omstandigheden daar invloed op hebben;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -3084,7 +3197,8 @@
 		],
 		"prefix": "t3",
 		"status": "concept",
-		"description": "verteltechnieken vergelijken in klassieke en hedendaagse sprookjes."
+		"description": "verteltechnieken vergelijken in klassieke en hedendaagse sprookjes;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -3096,7 +3210,8 @@
 		],
 		"prefix": "t4",
 		"status": "concept",
-		"description": "verhalende elementen benoemen in brieven of speeches."
+		"description": "verhalende elementen benoemen in brieven of speeches;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -3119,7 +3234,8 @@
 		],
 		"prefix": "t1",
 		"status": "concept",
-		"description": "aanbod ontwikkelen voor schoolbreed werken in betekenisvolle thema's met rijke teksten."
+		"description": "aanbod ontwikkelen voor schoolbreed werken in betekenisvolle thema's met rijke teksten;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -3130,7 +3246,8 @@
 		],
 		"prefix": "t2",
 		"status": "concept",
-		"description": "schoolbrede afspraken maken waarin het aanbod van literatuur en de leesroutine zijn vastgelegd."
+		"description": "schoolbrede afspraken maken waarin het aanbod van literatuur en de leesroutine zijn vastgelegd;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -3141,7 +3258,8 @@
 		],
 		"prefix": "t3",
 		"status": "concept",
-		"description": "schoolbrede afspraken maken over het bevorderen van samenhang tussen lees- en schrijfactiviteiten."
+		"description": "schoolbrede afspraken maken over het bevorderen van samenhang tussen lees- en schrijfactiviteiten;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -3152,7 +3270,8 @@
 		],
 		"prefix": "t4",
 		"status": "concept",
-		"description": "leesbevorderende activiteiten organiseren en deelnemen aan buitenschoolse leesbevorderingsactiviteiten."
+		"description": "leesbevorderende activiteiten organiseren en deelnemen aan buitenschoolse leesbevorderingsactiviteiten;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -3163,7 +3282,8 @@
 		],
 		"prefix": "t1",
 		"status": "concept",
-		"description": "sleutelprincipes per taaldomein vastleggen, waarmee binnen alle leergebieden gewerkt wordt."
+		"description": "sleutelprincipes per taaldomein vastleggen, waarmee binnen alle leergebieden gewerkt wordt;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -3174,7 +3294,8 @@
 		],
 		"prefix": "t2",
 		"status": "concept",
-		"description": "een taalbeleidsplan voor de school uitwerken en uitvoeren waarin is beschreven hoe verbindingen met andere leergebieden eruit kunnen zien."
+		"description": "een taalbeleidsplan voor de school uitwerken en uitvoeren waarin is beschreven hoe verbindingen met andere leergebieden eruit kunnen zien;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -3185,7 +3306,8 @@
 		],
 		"prefix": "t3",
 		"status": "concept",
-		"description": "bieden van taalsteun bij het uitvoeren van lees-, schrijf- en spreektaken in de leergebieden."
+		"description": "bieden van taalsteun bij het uitvoeren van lees-, schrijf- en spreektaken in de leergebieden;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -7258,7 +7380,8 @@
 		],
 		"id": "2a314788-0de3-48e8-a037-a9ceb288887a",
 		"status": "concept",
-		"description": "ouders betrekken bij het in de thuistaal voorlezen op school."
+		"description": "ouders betrekken bij het in de thuistaal voorlezen op school;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -7280,7 +7403,8 @@
 		],
 		"id": "42f93e90-cbae-4202-b064-a1df25ff60ef",
 		"status": "concept",
-		"description": "literaire gesprekken voeren over de waardering van gelezen boeken."
+		"description": "literaire gesprekken voeren over de waardering van gelezen boeken;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -7291,7 +7415,8 @@
 		],
 		"id": "4116c225-2ca6-4397-8c64-58b1df68f9ee",
 		"status": "concept",
-		"description": "inzichten verwoorden die de leerling heeft opgedaan."
+		"description": "inzichten verwoorden die de leerling heeft opgedaan;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -7313,7 +7438,8 @@
 		],
 		"id": "de0fa602-3a33-4b9a-a17c-8941c53cb4dc",
 		"status": "concept",
-		"description": "een persoonlijke anekdote vertellen met toepassing van kennis over verteltechnieken."
+		"description": "een persoonlijke anekdote vertellen met toepassing van kennis over verteltechnieken;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -7324,7 +7450,8 @@
 		],
 		"id": "f872d738-9a21-42a0-89b3-b8db2b4c47a3",
 		"status": "concept",
-		"description": "een betogende tekst schrijven bij een wereldoriënterend of burgerschapsthema."
+		"description": "een betogende tekst schrijven bij een wereldoriënterend of burgerschapsthema;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -7346,7 +7473,8 @@
 		],
 		"id": "08bfd88a-3be9-4fc0-8b1e-33e6f157e9e6",
 		"status": "concept",
-		"description": "een kort verhaal schrijven op basis van een associatieketen."
+		"description": "een kort verhaal schrijven op basis van een associatieketen;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -7379,7 +7507,8 @@
 		],
 		"id": "6533100f-75a9-48f8-b28e-508f9399406f",
 		"status": "concept",
-		"description": "klassenregels bepalen na overleg in de klas."
+		"description": "klassenregels bepalen na overleg in de klas;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -7401,7 +7530,8 @@
 		],
 		"id": "b7900a4d-b3e1-4047-aca7-7a5f49acc052",
 		"status": "concept",
-		"description": "zinnen maken aan de hand van wie-wat-waar-vragen bij een afbeelding en die steeds verder uitbreiden met zinsdelen en bepalingen."
+		"description": "zinnen maken aan de hand van wie-wat-waar-vragen bij een afbeelding en die steeds verder uitbreiden met zinsdelen en bepalingen;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -7412,7 +7542,8 @@
 		],
 		"id": "68828ae5-339f-42f2-81e9-e1572a5b479a",
 		"status": "concept",
-		"description": "het effect ontdekken van het weglaten van alle bijvoeglijke naamwoorden in een literaire tekst."
+		"description": "het effect ontdekken van het weglaten van alle bijvoeglijke naamwoorden in een literaire tekst;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -7434,7 +7565,8 @@
 		],
 		"id": "08c425fd-2ee6-443a-93be-7adc71764abe",
 		"status": "concept",
-		"description": "het belang van een correcte spelling in verschillende contexten bespreken."
+		"description": "het belang van een correcte spelling in verschillende contexten bespreken;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -7445,7 +7577,8 @@
 		],
 		"id": "35ab3bd3-5c83-4b3a-a62a-922afb3e81af",
 		"status": "concept",
-		"description": "bij de reviseerfase van een schrijfopdracht expliciet aandacht besteden aan correcte spelling en de achterliggende regels."
+		"description": "bij de reviseerfase van een schrijfopdracht expliciet aandacht besteden aan correcte spelling en de achterliggende regels;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -7467,7 +7600,8 @@
 		],
 		"id": "01dbd6a3-a810-4303-8205-afd01243ede6",
 		"status": "concept",
-		"description": "over nieuwe woorden praten die het afgelopen jaar zijn ontstaan en reflecteren op woordsoort en betekenis."
+		"description": "over nieuwe woorden praten die het afgelopen jaar zijn ontstaan en reflecteren op woordsoort en betekenis;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -7478,7 +7612,8 @@
 		],
 		"id": "ccc7ceb7-3335-4084-b9d2-4422e9dfd2fa",
 		"status": "concept",
-		"description": "informatie zoeken over de herkomst en betekenis van leenwoorden, spreekwoorden en gezegden en erover praten."
+		"description": "informatie zoeken over de herkomst en betekenis van leenwoorden, spreekwoorden en gezegden en erover praten;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -7489,7 +7624,8 @@
 		],
 		"id": "aa212caa-a61e-4a12-8d26-fd1a005119a1",
 		"status": "concept",
-		"description": "verschillen en overeenkomsten tussen talen en taalvariëteiten ontdekken."
+		"description": "verschillen en overeenkomsten tussen talen en taalvariëteiten ontdekken;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -7500,7 +7636,8 @@
 		],
 		"id": "b39681df-a2c6-4773-84fb-9509662e86eb",
 		"status": "concept",
-		"description": "het besef ontwikkelen dat het eigen talig repertoire gebruikt kan worden bij het leren van nieuwe woorden in het Standaardnederlands en het leren van andere talen."
+		"description": "het besef ontwikkelen dat het eigen talig repertoire gebruikt kan worden bij het leren van nieuwe woorden in het Standaardnederlands en het leren van andere talen;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -7533,7 +7670,8 @@
 		],
 		"id": "6982ba2f-512a-45f0-818e-187910d18da3",
 		"status": "concept",
-		"description": "de samenwerking tussen vaksecties faciliteren om samenhang te creëren."
+		"description": "de samenwerking tussen vaksecties faciliteren om samenhang te creëren;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -7555,7 +7693,8 @@
 		],
 		"id": "97220591-c2c4-4335-be8c-a0686c4d88ed",
 		"status": "concept",
-		"description": "een door AI gegenereerde tekst kritisch evalueren."
+		"description": "een door AI gegenereerde tekst kritisch evalueren;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -7567,7 +7706,8 @@
 		],
 		"id": "c8d71df1-10b0-42be-8af0-a5392710d4c1",
 		"status": "concept",
-		"description": "een presentatie voorbereiden waarbij informatie uit verschillende bronnen vergeleken en geïntegreerd wordt."
+		"description": "een presentatie voorbereiden waarbij informatie uit verschillende bronnen vergeleken en geïntegreerd wordt;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -7579,7 +7719,8 @@
 		],
 		"id": "b88cec55-5fdd-4185-ac8f-555d044d8c49",
 		"status": "concept",
-		"description": "primaire bronnen bij geschiedenis contextualiseren of vergelijken."
+		"description": "primaire bronnen bij geschiedenis contextualiseren of vergelijken;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -7590,7 +7731,8 @@
 		],
 		"id": "7bf75196-395e-4426-aae3-161fea97f3e1",
 		"status": "concept",
-		"description": "een verslag schrijven naar aanleiding van een activiteit of uitgevoerd proefje."
+		"description": "een verslag schrijven naar aanleiding van een activiteit of uitgevoerd proefje;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -7602,7 +7744,8 @@
 		],
 		"id": "fe414bb9-573c-41aa-b539-a28988bdded8",
 		"status": "concept",
-		"description": "een synthese maken van twee of drie teksten over een maatschappelijk thema."
+		"description": "een synthese maken van twee of drie teksten over een maatschappelijk thema;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -7625,7 +7768,8 @@
 		],
 		"id": "c9d7ef8b-800e-4b90-a16a-7f00e188ffcd",
 		"status": "concept",
-		"description": "culturele ervaringen waarderen in de vorm van 'spoken word'."
+		"description": "culturele ervaringen waarderen in de vorm van 'spoken word';",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -7648,7 +7792,8 @@
 		],
 		"id": "5bf68449-8451-4247-8627-092db8edc7a4",
 		"status": "concept",
-		"description": "een podcastinterview opnemen met een werknemer van een bedrijf."
+		"description": "een podcastinterview opnemen met een werknemer van een bedrijf;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -7659,7 +7804,8 @@
 		],
 		"id": "19983f6e-f3c4-486c-b5f1-5cbbadd54c9b",
 		"status": "concept",
-		"description": "een chatgesprek voeren met een medewerker van een klantenservice."
+		"description": "een chatgesprek voeren met een medewerker van een klantenservice;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -7694,7 +7840,8 @@
 		],
 		"id": "18ce7d76-592d-489c-8cdf-e448dfdc333a",
 		"status": "concept",
-		"description": "advertenties vergelijken vanuit de vraag welke advertentie het meest effect zal hebben, op basis van gemaakte keuzes in opbouw en taalgebruik."
+		"description": "advertenties vergelijken vanuit de vraag welke advertentie het meest effect zal hebben, op basis van gemaakte keuzes in opbouw en taalgebruik;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -7740,7 +7887,8 @@
 		],
 		"id": "8a7453a0-9d1c-4974-89af-a5c95008f89b",
 		"status": "concept",
-		"description": "de invloed van taalcontact op straattaal verkennen."
+		"description": "de invloed van taalcontact op straattaal verkennen;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -7751,7 +7899,8 @@
 		],
 		"id": "72cbe1fe-3824-42f7-86d0-9d37aa6f4af7",
 		"status": "concept",
-		"description": "een gedicht van vroeger lezen en ‘vertalen’."
+		"description": "een gedicht van vroeger lezen en ‘vertalen’;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -7762,7 +7911,8 @@
 		],
 		"id": "f257b607-3545-4da6-a377-a0fb2127b9b1",
 		"status": "concept",
-		"description": "het besef ontwikkelen dat het eigen talig repertoire gebruikt kan worden bij het leren van nieuwe woorden in het Standaardnederlands en het leren van andere talen."
+		"description": "het besef ontwikkelen dat het eigen talig repertoire gebruikt kan worden bij het leren van nieuwe woorden in het Standaardnederlands en het leren van andere talen;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -7786,7 +7936,8 @@
 		],
 		"id": "6c05e9b1-cfa2-4027-b428-98b1f3d17a7c",
 		"status": "concept",
-		"description": "kenmerken en specifiek taalgebruik benoemen in handleidingen."
+		"description": "kenmerken en specifiek taalgebruik benoemen in handleidingen;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -7798,7 +7949,8 @@
 		],
 		"id": "cf2378c3-b3a0-4a43-b5c3-6d776e09899b",
 		"status": "concept",
-		"description": "klachtenbrieven lezen en bespreken welke brief het duidelijkst is en waarom."
+		"description": "klachtenbrieven lezen en bespreken welke brief het duidelijkst is en waarom;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -7821,7 +7973,8 @@
 		],
 		"id": "9d399f0b-c72b-4b32-8b8b-b639e1e5d025",
 		"status": "concept",
-		"description": "de eigen leesvoorkeur beschrijven aan de hand van genres en de daarbij behorende kenmerken."
+		"description": "de eigen leesvoorkeur beschrijven aan de hand van genres en de daarbij behorende kenmerken;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -7844,7 +7997,8 @@
 		],
 		"id": "de155ee2-bc62-425c-af33-707cae9b56a3",
 		"status": "concept",
-		"description": "verschillende levens van kinderen tijdens de Tweede Wereldoorlog verkennen aan de hand van kinderdagboekfragmenten uit die tijd."
+		"description": "verschillende levens van kinderen tijdens de Tweede Wereldoorlog verkennen aan de hand van kinderdagboekfragmenten uit die tijd;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -7855,7 +8009,8 @@
 		],
 		"id": "052b010e-667c-4051-bcda-c23790d96426",
 		"status": "concept",
-		"description": "naar aanleiding van een oudere tekst gesprekken voeren over veranderingen in normen en waarden en taalgebruik in de samenleving."
+		"description": "naar aanleiding van een oudere tekst gesprekken voeren over veranderingen in normen en waarden en taalgebruik in de samenleving;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -7866,7 +8021,8 @@
 		],
 		"id": "2097f916-5472-4df7-962e-9c24c87adf9b",
 		"status": "concept",
-		"description": "aspecten en emoties herkennen van personages uit historische teksten en verbinden met de eigen tijd, leef- en belevingswereld."
+		"description": "aspecten en emoties herkennen van personages uit historische teksten en verbinden met de eigen tijd, leef- en belevingswereld;",
+		"dirty": true
 	},
 	{
 		"title": "Te denken valt aan",

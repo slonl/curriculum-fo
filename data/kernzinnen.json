@@ -1,1 +1,206 @@
-[]
+[
+	{
+		"title": "Kerndoel 1",
+		"description": "De school stimuleert de taalcompetentie van leerlingen.",
+		"prefix": "1",
+		"id": "832b281e-fc61-4089-a0f6-b3cf4e4f6e8f",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"efff8a4b-cbd5-4775-aa8f-0d3f98733e6b",
+			"9f550d27-58cf-4252-8b6b-ff8246c8eca6"
+		]
+	},
+	{
+		"title": "Kerndoel 1",
+		"description": "De school stimuleert de taalcompetentie van leerlingen.",
+		"prefix": "1",
+		"id": "c251e3ef-6cce-44f9-a2b6-5351aad223b7",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"ef048d52-0a42-4dd1-a529-ca059c3572bf",
+			"51cea2c3-4e4c-443f-8975-3f4501a51af3"
+		]
+	},
+	{
+		"title": "Kerndoel 2",
+		"description": "De leerling begrijpt teksten.",
+		"prefix": "2",
+		"id": "08312160-5b83-40c0-b4b6-02a4d94fd341",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"75ee36f1-4e54-48fa-8e0e-09bca848fa15",
+			"907bc4e8-3eb8-482f-8fc0-93bc33e50f62",
+			"733a1b9c-981a-4124-a47d-88c232c0b338"
+		]
+	},
+	{
+		"title": "Kerndoel 3",
+		"description": "De leerling produceert teksten.",
+		"prefix": "3",
+		"id": "ba5d9a4d-e936-48c1-ae56-dadbd6a0e5c4",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"be096fc3-d3c5-4b21-82df-0601b31c0ca2",
+			"a83b3a96-6312-4962-879e-f737337db8fb",
+			"64ccb673-e75c-4ef1-9274-311e7910bba4"
+		]
+	},
+	{
+		"title": "Kerndoel 4",
+		"description": "De leerling voert gesprekken.",
+		"prefix": "4",
+		"id": "c6287d9b-c8c7-4f15-aa8c-fd160d1339f4",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"254caadd-5870-4458-9a11-ef71a0c69ce0",
+			"2744a98d-e0af-4127-bf97-37b3ea359a02"
+		]
+	},
+	{
+		"title": "Kerndoel 2",
+		"description": "De leerling begrijpt teksten.",
+		"prefix": "2",
+		"id": "0630e094-5916-4ba0-93c5-e16a60ad4bcb",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"c6136156-dd19-4391-b4cf-544d6e15ce17",
+			"44c10504-afb2-4275-879c-bf840f7ef6e3",
+			"3c0fe5c0-92d5-4bb8-b444-b8c34f7d854b"
+		]
+	},
+	{
+		"title": "Kerndoel 3",
+		"description": "De leerling produceert teksten.",
+		"prefix": "3",
+		"id": "bd091f8b-3883-4d25-bf1d-c9163dbed728",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"50ec048a-8295-413c-b3f9-18b14504a8af",
+			"4b8b8c36-9b85-4c23-98b2-9edc18da8de9",
+			"04afcc55-a280-4b92-a19a-c13b653c7381"
+		]
+	},
+	{
+		"title": "Kerndoel 4",
+		"description": "De leerling voert gesprekken.",
+		"prefix": "4",
+		"id": "a702e058-4ecd-461b-a0d4-81b373f21bf1",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"70191486-92d4-4c68-9793-6602e6c29423",
+			"59c23efd-bdd7-43b0-ba0c-e518dca752a3"
+		]
+	},
+	{
+		"title": "Kerndoel 5",
+		"description": "De leerling ontwikkelt zich als bewuste taalgebruiker.",
+		"prefix": "5",
+		"id": "1cade995-690d-4276-93ab-7560c97aaefd",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"f728de8c-1773-41d2-9439-53fd08fe7529"
+		]
+	},
+	{
+		"title": "Kerndoel 5",
+		"description": "De leerling ontwikkelt zich als bewuste taalgebruiker.",
+		"prefix": "5",
+		"id": "e91dbd10-ab54-4f6d-a448-750d38825c12",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"a6918da2-b58a-4452-b51c-10b03adee3d8"
+		]
+	},
+	{
+		"title": "Kerndoel 6",
+		"description": "De leerling toont inzicht in taal als systeem.",
+		"prefix": "6",
+		"id": "426639e7-590a-40fe-af22-a6d630ea40de",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"21725a98-baa3-45c3-b8a5-ac3026ff35e2",
+			"886e4275-3b58-4b31-b639-b64934589013"
+		]
+	},
+	{
+		"title": "Kerndoel 6",
+		"description": "De leerling toont inzicht in taal als systeem.",
+		"prefix": "6",
+		"id": "e827f871-9117-4b65-aea7-62ac987f5d9d",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"0c5c554b-3901-44f8-aaa0-6e7b63caf5fc",
+			"0a247c35-3e9a-48b9-bebd-1ab6810c5b48",
+			"371c397f-81f0-4f71-bc09-8d87643a9fc3",
+			"7d48e023-3e40-4aee-9daf-b6545f25ea68"
+		]
+	},
+	{
+		"title": "Kerndoel 7",
+		"description": "De leerling verkent het gebruik van taal.",
+		"prefix": "7",
+		"id": "6269c607-707a-48ba-ae7a-3643cc84ffb9",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"275521aa-6b60-4558-ba1b-f65b0a9ba9ad",
+			"86df4812-465c-49af-83f6-1d3885326e47"
+		]
+	},
+	{
+		"title": "Kerndoel 7",
+		"description": "De leerling verkent het gebruik van taal.",
+		"prefix": "7",
+		"id": "0bcc5ec9-0cdd-4902-9964-7e463525bad8",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"68d3d4e0-b62d-4017-bcfd-f773dfc1773f",
+			"ea4f56f1-e2b4-471c-8146-daf144b3209c"
+		]
+	},
+	{
+		"title": "Kerndoel 8",
+		"description": "De leerling doet ervaring op met literatuur.",
+		"prefix": "8",
+		"id": "abc2e45d-98aa-4be0-9fd6-04a16de514dc",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"0081d62f-1e75-4835-b586-12d01ce252b9",
+			"3cb0cfa6-ab18-42d8-a8c1-902a0d2f2a6b"
+		]
+	},
+	{
+		"title": "Kerndoel 8",
+		"description": "De leerling doet ervaring op met literatuur.",
+		"prefix": "8",
+		"id": "bbff7e2e-5961-422d-a320-a482b1a9416b",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"dd67bb77-033b-4e01-a8a6-08b75ea8a7ec",
+			"f98415bb-d833-4ffa-b74b-35a954783b9e"
+		]
+	},
+	{
+		"title": "Kerndoel 9",
+		"description": "De leerling toont inzicht in literatuur.",
+		"prefix": "9",
+		"id": "29b84997-bc69-4bae-98a4-a448494d2635",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"0a6cd39a-020f-4449-8a0c-b283f1d271ff",
+			"b8a3149f-6eb4-4772-b48e-c06fcb9e7c42",
+			"f5e9675d-503f-4242-837f-33407b9a033e",
+			"4cd21d44-48ff-4343-8274-b9ae985a7cc5"
+		]
+	},
+	{
+		"title": "Kerndoel 9",
+		"description": "De leerling toont inzicht in literatuur.",
+		"prefix": "9",
+		"id": "6f21da80-0da5-47a2-b03c-83385b12b54f",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"0d34ad1d-7ac7-4a1d-8d58-4188bccf7d17",
+			"19ba7c42-1e92-4b9f-9c9f-32e894b19af2"
+		]
+	}
+]
