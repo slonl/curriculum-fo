@@ -553,8 +553,10 @@
 		"id": "b62d4893-6745-4f48-a6ef-8a4f0b9f335d",
 		"fo_doelzin_id": [
 			"308aae8f-4ec7-4781-a612-e6a1e9e80090",
-			"aba65532-d5cc-4e83-a3d9-e506e7572c96"
-		]
+			"aba65532-d5cc-4e83-a3d9-e506e7572c96",
+			"865b07b3-91cd-407e-8735-85fc95dc7326"
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein C1 Fries erfgoed",
@@ -562,9 +564,9 @@
 		"prefix": "C1",
 		"id": "fa79ec7e-1f3d-4277-b647-0fe5a7d67be2",
 		"fo_doelzin_id": [
-			"865b07b3-91cd-407e-8735-85fc95dc7326",
 			"9689a96b-a3de-4110-b852-e586fead57a2"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein C2 Cultuurbeleving",
@@ -623,8 +625,10 @@
 		"id": "381306a1-ed83-4e8d-aaf1-948c98db9dd0",
 		"fo_doelzin_id": [
 			"9bac07a3-eaa2-4426-84e5-867aeb793dc2",
-			"d591eefe-f7d9-434b-9f14-70cbd232a86d"
-		]
+			"d591eefe-f7d9-434b-9f14-70cbd232a86d",
+			"efc91850-8b70-4ef4-b0c5-36d239821af9"
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein C1 Fries erfgoed",
@@ -632,10 +636,10 @@
 		"prefix": "C1",
 		"id": "8beb30f5-5fe0-4f10-9f86-887a89be2e06",
 		"fo_doelzin_id": [
-			"efc91850-8b70-4ef4-b0c5-36d239821af9",
 			"20a651c0-ebfb-47f3-a478-05cd05dc5349",
 			"ef395ce1-e3f1-446c-84fa-c923209bce5f"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein C2 Cultuurbeleving",
@@ -694,8 +698,10 @@
 		"id": "3c54de1f-99fe-4737-9022-27662c59f1c5",
 		"fo_doelzin_id": [
 			"b8f7b5bd-da13-4000-87bc-5b31cbc0869e",
-			"af51f609-8d3b-4d62-a8a4-dfb74f86dc70"
-		]
+			"af51f609-8d3b-4d62-a8a4-dfb74f86dc70",
+			"e9074de2-85b9-4164-a6af-d6d71614bf0f"
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein C1 Fries erfgoed",
@@ -703,10 +709,10 @@
 		"prefix": "C1",
 		"id": "d6e0a79b-b426-4e45-b6ef-123b358d4428",
 		"fo_doelzin_id": [
-			"e9074de2-85b9-4164-a6af-d6d71614bf0f",
 			"1a742022-ba2a-482d-85eb-f1875bc59c4e",
 			"aef9870a-818f-4503-9a06-850f2c47c71e"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein C2 Cultuurbeleving",
@@ -7606,7 +7612,7 @@
 		]
 	},
 	{
-		"title": "Subdomein B4 Digiraal wiskundig gereedschap",
+		"title": "Subdomein B4 Digitaal wiskundig gereedschap",
 		"description": "Subdomein B4 Digitaal wiskundig gereedschap",
 		"prefix": "B4",
 		"id": "077d0c2c-dc0a-4b02-9226-e7f5a4d428d1",
@@ -7675,8 +7681,10 @@
 		"id": "4da33085-1d29-48f5-89de-36bca17ae175",
 		"fo_doelzin_id": [
 			"c9ed9098-cc66-4a19-a449-328a71638010",
-			"479719af-1f9a-4655-8459-86abcedc4f7c"
-		]
+			"479719af-1f9a-4655-8459-86abcedc4f7c",
+			"22b9ac0c-fb09-40f6-ad4d-e501152a3af6"
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein A5 Veranderingen",
@@ -7698,14 +7706,15 @@
 	},
 	{
 		"title": "Subdomein B1",
-		"description": "Subdomein B1 Wiskundig probleemaanpakken",
+		"description": "Subdomein B1 Probleemaanpakken en proces",
 		"prefix": "B1",
 		"id": "88ccc409-d025-4cc5-85fd-375de83e2a13",
 		"fo_doelzin_id": [
 			"b72a4745-e9f5-4f03-97f8-d932ae04d01d",
 			"b234701f-df8d-4a06-be40-54bcefd462a8",
 			"8295b688-aa09-4b27-85f4-d1fa7f7fca70"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein B2 Onderzoeken met modellen",
@@ -7737,13 +7746,14 @@
 	},
 	{
 		"title": "Subdomein C1 Formuleren en communiceren",
-		"description": "Subdomein C1 Formleren en communiceren",
+		"description": "Subdomein C1 Formuleren en communiceren",
 		"prefix": "C1",
 		"id": "37118a5d-4faf-4acd-9687-130baca5af3d",
 		"fo_doelzin_id": [
 			"ffbaa928-8aa1-43d3-a0a0-3a2c979b95aa",
 			"9e51db89-6957-436c-866a-ac48105a3a00"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein C2 Wiskundige houding",
@@ -7952,13 +7962,14 @@
 		]
 	},
 	{
-		"title": "Subdomein A6 Keuzeonderwerp",
-		"description": "Subdomein A6 Keuzeonderwerp",
+		"title": "Subdomein A6 Keuzeruimte",
+		"description": "Subdomein A6 Keuzeruimte",
 		"prefix": "A6",
 		"id": "6d6fccc0-47e5-44e6-b650-b4269be53614",
 		"fo_doelzin_id": [
 			"7d132419-3870-4902-a824-89bdb5b6b225"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein B1 Activiteiten met concepten",
@@ -8109,29 +8120,31 @@
 	{
 		"title": "Subdomein B2 Wiskundig probleemaanpakken",
 		"description": "Subdomein B2 Wiskundig probleemaanpakken",
-		"prefix": "B1",
+		"prefix": "B2",
 		"id": "c5502f95-e37d-4b28-befc-a8a4c0c04c53",
 		"fo_doelzin_id": [
 			"124ce177-c3b9-45ef-bcf4-932a73e83d6e",
 			"b7f14a8f-007b-4667-b515-ec84fcb195b2",
 			"fa6d4220-79bb-4c82-9f46-333bd866359b"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein B3 Onderzoeken met modellen",
 		"description": "Subdomein B3 Onderzoeken met modellen",
-		"prefix": "B1",
+		"prefix": "B3",
 		"id": "2fd0bbc5-9a19-483b-8138-3a681a6afaba",
 		"fo_doelzin_id": [
 			"b48fdaf3-ec44-41de-8733-f2dcaac29bac",
 			"c3f6bef5-e7d3-4eb9-bc70-4c0c073f6cce",
 			"195a70e9-7f7a-4c30-863a-ce0600460cdf"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein B4 Redeneren en bewijzen",
 		"description": "Subdomein B4 Redeneren en bewijzen",
-		"prefix": "B1",
+		"prefix": "B4",
 		"id": "1fcc6efd-586b-4091-9e70-683a80f8449a",
 		"fo_doelzin_id": [
 			"10df7373-1837-420b-9223-806563006f17",
@@ -8229,12 +8242,13 @@
 	},
 	{
 		"title": "Subdomein A6 Keuzeruimte",
-		"description": "Subdomein A6 Keuzeonderwerp",
+		"description": "Subdomein A6 Keuzeruimte",
 		"prefix": "A6",
 		"id": "bbb54be1-accf-44c2-ab94-f92bdcd820d6",
 		"fo_doelzin_id": [
 			"306e1e14-a784-43c7-8cd4-1b6e0e28a46d"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein B1 Activiteiten met concepten",
@@ -8375,13 +8389,14 @@
 		]
 	},
 	{
-		"title": "Subdomein A7 Keuzeonderwerp",
-		"description": "Subdomein A7 Keuzeonderwerp",
+		"title": "Subdomein A7 Keuzeruimte",
+		"description": "Subdomein A7 Keuzeruimte",
 		"prefix": "A7",
 		"id": "9bee66fd-929d-4da3-84ab-3b2cc361d29a",
 		"fo_doelzin_id": [
 			"13e8d7d3-94e0-4f65-8358-d8714128e7c6"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein B1 Activiteiten met concepten",
@@ -8393,15 +8408,16 @@
 		]
 	},
 	{
-		"title": "Subdomein B2 Wiskundig probleemaanpakken",
-		"description": "Subdomein B2 Wiskundig probleemaanpakken",
+		"title": "Subdomein B2 Probleemaanpakken en proces",
+		"description": "Subdomein B2 Probleemaanpakken en proces",
 		"prefix": "B2",
 		"id": "63ceac71-7f41-4b47-a7fe-a972550512c9",
 		"fo_doelzin_id": [
 			"c9429b32-0854-43a6-b436-c470b617ce1a",
 			"698dda26-b43b-49a8-a53e-916476cb288e",
 			"08872e4d-e134-4489-9b5d-80284ef42e64"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein B3 Onderzoeken met modellen",
@@ -8514,8 +8530,8 @@
 		]
 	},
 	{
-		"title": "Subdomein A6 Analytische meetkunde",
-		"description": "Subdomein A6 Analytische meetkunde",
+		"title": "Subdomein A6 Meetkunde",
+		"description": "Subdomein A6 Meetkunde",
 		"prefix": "A6",
 		"id": "9906235c-e05f-4101-8e3e-0b5622b17c8e",
 		"fo_doelzin_id": [
@@ -8524,16 +8540,18 @@
 			"5e595e74-60b2-42c4-addd-101a36c0d051",
 			"7a2d6a56-f9fa-4186-9983-6448962953f7",
 			"a4be2e5b-6375-4d31-9264-c917f60b5e06"
-		]
+		],
+		"dirty": true
 	},
 	{
-		"title": "Subdomein A7 Keuzeonderwerp",
-		"description": "Subdomein A7 Keuzeonderwerp",
+		"title": "Subdomein A7 Keuzeruimte",
+		"description": "Subdomein A7 Keuzeruimte",
 		"prefix": "A7",
 		"id": "f1964f3a-a4f2-4d11-a369-e6f11a1febf2",
 		"fo_doelzin_id": [
 			"f63f25e2-fd58-4284-b8b2-58f7ad188048"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein B1 Activiteiten met concepten",
@@ -8545,15 +8563,16 @@
 		]
 	},
 	{
-		"title": "Subdomein B2 Wiskundig probleemaanpakken",
-		"description": "Subdomein B2 Wiskundig probleemaanpakken",
+		"title": "Subdomein B2 Probleemaanpakken en proces",
+		"description": "Subdomein B2 Probleemaanpakken en proces",
 		"prefix": "B2",
 		"id": "bb512ed3-2538-4e7d-9260-50f02d4ff435",
 		"fo_doelzin_id": [
 			"7e994427-bf62-4469-ad43-07998b44f437",
 			"2dac0de4-3eda-4479-b4b4-48185bee0857",
 			"45f5a58d-98b7-4b69-ac12-70568f55b277"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein B3 Onderzoeken met modellen",
