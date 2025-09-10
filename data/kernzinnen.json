@@ -4,10 +4,9 @@
 		"description": "De school stimuleert de taalcompetentie van leerlingen.",
 		"prefix": "1",
 		"id": "832b281e-fc61-4089-a0f6-b3cf4e4f6e8f",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"efff8a4b-cbd5-4775-aa8f-0d3f98733e6b",
-			"9f550d27-58cf-4252-8b6b-ff8246c8eca6"
+			"1b25aa1b-39a1-4646-a3ad-7c07528df73a",
+			"af2a78fd-cfaf-476e-b513-dbe0c9e37bc7"
 		]
 	},
 	{
@@ -15,169 +14,19 @@
 		"description": "De school stimuleert de taalcompetentie van leerlingen.",
 		"prefix": "1",
 		"id": "c251e3ef-6cce-44f9-a2b6-5351aad223b7",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"ef048d52-0a42-4dd1-a529-ca059c3572bf",
-			"51cea2c3-4e4c-443f-8975-3f4501a51af3"
+			"58e8f626-a45f-4396-b5b2-4ac1ec7c0e1c",
+			"ee177f17-7a35-4650-8a97-9b90cd83b612"
 		]
-	},
-	{
-		"title": "Kerndoel 2",
-		"description": "De leerling begrijpt teksten.",
-		"prefix": "2",
-		"id": "08312160-5b83-40c0-b4b6-02a4d94fd341",
-		"unreleased": true,
-		"fo_doelzin_id": [
-			"75ee36f1-4e54-48fa-8e0e-09bca848fa15",
-			"907bc4e8-3eb8-482f-8fc0-93bc33e50f62",
-			"733a1b9c-981a-4124-a47d-88c232c0b338"
-		],
-		"deleted": true
-	},
-	{
-		"title": "Kerndoel 3",
-		"description": "De leerling produceert teksten.",
-		"prefix": "3",
-		"id": "ba5d9a4d-e936-48c1-ae56-dadbd6a0e5c4",
-		"unreleased": true,
-		"fo_doelzin_id": [
-			"be096fc3-d3c5-4b21-82df-0601b31c0ca2",
-			"a83b3a96-6312-4962-879e-f737337db8fb",
-			"64ccb673-e75c-4ef1-9274-311e7910bba4"
-		],
-		"deleted": true
-	},
-	{
-		"title": "Kerndoel 4",
-		"description": "De leerling voert gesprekken.",
-		"prefix": "4",
-		"id": "c6287d9b-c8c7-4f15-aa8c-fd160d1339f4",
-		"unreleased": true,
-		"fo_doelzin_id": [
-			"254caadd-5870-4458-9a11-ef71a0c69ce0",
-			"2744a98d-e0af-4127-bf97-37b3ea359a02"
-		],
-		"deleted": true
-	},
-	{
-		"title": "Kerndoel 2",
-		"description": "De leerling begrijpt teksten.",
-		"prefix": "2",
-		"id": "0630e094-5916-4ba0-93c5-e16a60ad4bcb",
-		"unreleased": true,
-		"fo_doelzin_id": [
-			"c6136156-dd19-4391-b4cf-544d6e15ce17",
-			"44c10504-afb2-4275-879c-bf840f7ef6e3",
-			"3c0fe5c0-92d5-4bb8-b444-b8c34f7d854b"
-		],
-		"deleted": true
-	},
-	{
-		"title": "Kerndoel 3",
-		"description": "De leerling produceert teksten.",
-		"prefix": "3",
-		"id": "bd091f8b-3883-4d25-bf1d-c9163dbed728",
-		"unreleased": true,
-		"fo_doelzin_id": [
-			"50ec048a-8295-413c-b3f9-18b14504a8af",
-			"4b8b8c36-9b85-4c23-98b2-9edc18da8de9",
-			"04afcc55-a280-4b92-a19a-c13b653c7381"
-		],
-		"deleted": true
-	},
-	{
-		"title": "Kerndoel 4",
-		"description": "De leerling voert gesprekken.",
-		"prefix": "4",
-		"id": "a702e058-4ecd-461b-a0d4-81b373f21bf1",
-		"unreleased": true,
-		"fo_doelzin_id": [
-			"70191486-92d4-4c68-9793-6602e6c29423",
-			"59c23efd-bdd7-43b0-ba0c-e518dca752a3"
-		],
-		"deleted": true
-	},
-	{
-		"title": "Kerndoel 5",
-		"description": "De leerling ontwikkelt zich als bewuste taalgebruiker.",
-		"prefix": "5",
-		"id": "1cade995-690d-4276-93ab-7560c97aaefd",
-		"unreleased": true,
-		"fo_doelzin_id": [
-			"f728de8c-1773-41d2-9439-53fd08fe7529"
-		],
-		"deleted": true
-	},
-	{
-		"title": "Kerndoel 5",
-		"description": "De leerling ontwikkelt zich als bewuste taalgebruiker.",
-		"prefix": "5",
-		"id": "e91dbd10-ab54-4f6d-a448-750d38825c12",
-		"unreleased": true,
-		"fo_doelzin_id": [
-			"a6918da2-b58a-4452-b51c-10b03adee3d8"
-		],
-		"deleted": true
-	},
-	{
-		"title": "Kerndoel 6",
-		"description": "De leerling toont inzicht in taal als systeem.",
-		"prefix": "6",
-		"id": "426639e7-590a-40fe-af22-a6d630ea40de",
-		"unreleased": true,
-		"fo_doelzin_id": [
-			"21725a98-baa3-45c3-b8a5-ac3026ff35e2",
-			"886e4275-3b58-4b31-b639-b64934589013"
-		],
-		"deleted": true
-	},
-	{
-		"title": "Kerndoel 6",
-		"description": "De leerling toont inzicht in taal als systeem.",
-		"prefix": "6",
-		"id": "e827f871-9117-4b65-aea7-62ac987f5d9d",
-		"unreleased": true,
-		"fo_doelzin_id": [
-			"0c5c554b-3901-44f8-aaa0-6e7b63caf5fc",
-			"0a247c35-3e9a-48b9-bebd-1ab6810c5b48",
-			"371c397f-81f0-4f71-bc09-8d87643a9fc3",
-			"7d48e023-3e40-4aee-9daf-b6545f25ea68"
-		],
-		"deleted": true
-	},
-	{
-		"title": "Kerndoel 7",
-		"description": "De leerling verkent het gebruik van taal.",
-		"prefix": "7",
-		"id": "6269c607-707a-48ba-ae7a-3643cc84ffb9",
-		"unreleased": true,
-		"fo_doelzin_id": [
-			"275521aa-6b60-4558-ba1b-f65b0a9ba9ad",
-			"86df4812-465c-49af-83f6-1d3885326e47"
-		],
-		"deleted": true
-	},
-	{
-		"title": "Kerndoel 7",
-		"description": "De leerling verkent het gebruik van taal.",
-		"prefix": "7",
-		"id": "0bcc5ec9-0cdd-4902-9964-7e463525bad8",
-		"unreleased": true,
-		"fo_doelzin_id": [
-			"68d3d4e0-b62d-4017-bcfd-f773dfc1773f",
-			"ea4f56f1-e2b4-471c-8146-daf144b3209c"
-		],
-		"deleted": true
 	},
 	{
 		"title": "Kerndoel 8",
 		"description": "De leerling doet ervaring op met literatuur.",
 		"prefix": "8",
 		"id": "abc2e45d-98aa-4be0-9fd6-04a16de514dc",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"0081d62f-1e75-4835-b586-12d01ce252b9",
-			"3cb0cfa6-ab18-42d8-a8c1-902a0d2f2a6b"
+			"7b4b3110-ed7f-4065-b647-c954ef4aca6f",
+			"b97da69a-d86a-477d-9f91-ca3d93c317c8"
 		]
 	},
 	{
@@ -185,10 +34,9 @@
 		"description": "De leerling doet ervaring op met literatuur.",
 		"prefix": "8",
 		"id": "bbff7e2e-5961-422d-a320-a482b1a9416b",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"dd67bb77-033b-4e01-a8a6-08b75ea8a7ec",
-			"f98415bb-d833-4ffa-b74b-35a954783b9e"
+			"54206a1c-20f7-4e3b-82db-2856f98190ae",
+			"26022b7a-404c-403b-8260-82d4a85a4251"
 		]
 	},
 	{
@@ -196,11 +44,10 @@
 		"description": "De leerling toont inzicht in literatuur.",
 		"prefix": "9",
 		"id": "29b84997-bc69-4bae-98a4-a448494d2635",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"0a6cd39a-020f-4449-8a0c-b283f1d271ff",
-			"b8a3149f-6eb4-4772-b48e-c06fcb9e7c42",
-			"f5e9675d-503f-4242-837f-33407b9a033e",
+			"5c8975c6-04c0-4197-b1fb-53572d8ac2b1",
+			"c91e6ae7-97fd-49a9-84ec-1c0de1620b4d",
+			"800f9f9d-bd69-43dc-ad29-d90764eee95a",
 			"4cd21d44-48ff-4343-8274-b9ae985a7cc5"
 		]
 	},
@@ -209,114 +56,9 @@
 		"description": "De leerling toont inzicht in literatuur.",
 		"prefix": "9",
 		"id": "6f21da80-0da5-47a2-b03c-83385b12b54f",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"0d34ad1d-7ac7-4a1d-8d58-4188bccf7d17",
-			"19ba7c42-1e92-4b9f-9c9f-32e894b19af2"
-		]
-	},
-	{
-		"deleted": true,
-		"title": "Kerndoel 10",
-		"description": "De leerling redeneert en rekent met getallen en verhoudingen.",
-		"prefix": "10",
-		"id": "6b1cb4f8-6459-4317-a131-acadb72f590a",
-		"unreleased": true,
-		"fo_doelzin_id": [
-			"a93af3e3-91f0-49ee-8e28-42fb57daf454",
-			"da74e273-b43e-40d5-8e74-74cd4758ca62",
-			"afd82083-0658-472a-a516-b278b569c30c"
-		]
-	},
-	{
-		"deleted": true,
-		"title": "Kerndoel 11",
-		"description": "De leerling toont inzicht bij het handelen met grootheden en eenheden.",
-		"prefix": "11",
-		"id": "d8d5a74c-4461-46cb-9b73-e37f893993dc",
-		"unreleased": true,
-		"fo_doelzin_id": [
-			"038bf3e2-c920-430b-8c0a-ccbf820b7c55"
-		]
-	},
-	{
-		"deleted": true,
-		"title": "Kerndoel 14",
-		"description": "De leerling toont inzicht bij meetkundig handelen.",
-		"prefix": "14",
-		"id": "d27f4b5f-2567-46b8-a38c-4fd079e32266",
-		"unreleased": true,
-		"fo_doelzin_id": [
-			"3440792f-6cce-4f11-88d7-1c4ea5688665"
-		]
-	},
-	{
-		"deleted": true,
-		"title": "Kerndoel 13",
-		"description": "De leerling toont inzicht bij meetkundig handelen.",
-		"prefix": "13",
-		"id": "a56c8e93-67e9-47ca-9377-90e6b3eae8c6",
-		"unreleased": true,
-		"fo_doelzin_id": [
-			"3089168f-c571-43d4-8ccc-4587fa3094d7"
-		]
-	},
-	{
-		"deleted": true,
-		"title": "Kerndoel 12",
-		"description": "De leerling interpreteert data.",
-		"prefix": "12",
-		"id": "d65c4fcf-27da-4cef-8e26-255df3c4f1e9",
-		"unreleased": true,
-		"fo_doelzin_id": [
-			"56596b75-b0da-4d54-b5cb-2778b26a16a7"
-		]
-	},
-	{
-		"deleted": true,
-		"title": "Kerndoel 11",
-		"description": "De leerling interpreteert data en kansen.",
-		"prefix": "11",
-		"id": "dbe484ff-d719-4565-86f9-3967e41aed8f",
-		"unreleased": true,
-		"fo_doelzin_id": [
-			"9dbb4295-a30b-45fa-82da-a62ae1a09916",
-			"33766238-41bd-46d5-8462-15075b1e330f"
-		]
-	},
-	{
-		"deleted": true,
-		"title": "Kerndoel 13",
-		"description": "De leerling toont inzicht in patronen en verbanden.",
-		"prefix": "13",
-		"id": "7d728c21-a488-42c5-b0c0-7628cf0042f5",
-		"unreleased": true,
-		"fo_doelzin_id": [
-			"65649cd4-ad64-4187-942c-d82792c3d7d3"
-		]
-	},
-	{
-		"deleted": true,
-		"title": "Kerndoel 12",
-		"description": "De leerling toont inzicht in patronen en verbanden.",
-		"prefix": "12",
-		"id": "56b851d4-d94c-4f93-8108-33fd3f1e3875",
-		"unreleased": true,
-		"fo_doelzin_id": [
-			"87ea652f-c267-46b9-b1d0-ffb27248abc0"
-		]
-	},
-	{
-		"deleted": true,
-		"title": "Kerndoel 10",
-		"description": "De leerling redeneert en rekent met getallen, grootheden en vergelijkingen.",
-		"prefix": "10",
-		"id": "25e7e26b-dcb2-42e6-abb2-ab4133dee206",
-		"unreleased": true,
-		"fo_doelzin_id": [
-			"f3992bb7-8658-4ff1-9317-dccd8603d9cf",
-			"bbd09b8c-1618-4c7c-baf9-34b206a6cf7f",
-			"f1c491e6-16f5-45c5-a28a-44654d660085"
+			"1f7661ed-5bb9-4178-b7af-4330e6af3675",
+			"7f6ab59a-8f98-4141-a009-a637565c8aa3"
 		]
 	},
 	{
@@ -324,11 +66,10 @@
 		"description": "De leerling gebruikt wiskundige denk-werkwijzen.",
 		"prefix": "15",
 		"id": "d9d32e47-c933-45de-9e10-626106cec0fe",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"69cef2c4-e2db-4dfb-b002-e7d711fd6aa8",
-			"4e99fb88-c09c-4de7-b062-d2e1671a879b",
-			"f365f2b8-601f-4d46-9243-542bd2e0cfce"
+			"53dbb1be-fdc7-46ca-b2a3-5b29ed049c54",
+			"62366893-3c5b-4813-8f9d-d636f7eb3bd5",
+			"1867abab-ebd7-487c-a314-374c8c49bea3"
 		]
 	},
 	{
@@ -336,11 +77,10 @@
 		"description": "De leerling gebruikt wiskundige denk-werkwijzen.",
 		"prefix": "14",
 		"id": "b57af2c5-51a6-4a0a-bdf2-03146d22b59b",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"c9e39d4f-dc31-4931-b15a-f46a74eb17f1",
-			"70083e6d-ec38-4cf1-8a56-a9c0610ab177",
-			"3f2a764a-3055-4128-80e1-763476691bdf"
+			"0dc24290-93f9-4e62-bb57-42b0b4115f99",
+			"93ec2eb3-a3fb-498c-a1bd-5fde46ab1f2d",
+			"c6e926ed-106c-49ee-948b-73983f24ceb2"
 		]
 	},
 	{
@@ -348,10 +88,9 @@
 		"description": "De leerling gebruikt wiskundetaal en wiskundig gereedschap.",
 		"prefix": "16",
 		"id": "fa26ba05-0624-4f15-98c3-0e16d17bc7f2",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"6cabfbd4-c370-47fb-9144-776e7bf4cd5f",
-			"b071f771-aae1-4438-9661-85d53ac885d8"
+			"a2f20e58-a4d7-4d3d-b07a-1236fc3be835",
+			"1789773d-efe3-4790-b92a-82d83280a022"
 		]
 	},
 	{
@@ -359,11 +98,10 @@
 		"description": "De leerling gebruikt wiksunde taal en wiskundig gereedschap.",
 		"prefix": "15",
 		"id": "aff896ba-1c8b-4983-821a-d5523ece659f",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"0956691b-5ed5-4c1f-a952-58e16b07ad5d",
-			"62a0730b-8c50-43f7-a6cd-3342d0c0607f",
-			"ff4483c9-86da-4de8-8661-b4d4801ebbcf"
+			"ec593299-b61c-4c1f-aaa2-ff269791162f",
+			"c945543a-cce7-4585-bf12-00efdbfc7d2f",
+			"15fdd4ea-68c7-4629-ac7a-67c2fd7e02ff"
 		]
 	},
 	{
@@ -371,9 +109,8 @@
 		"description": "De leerling ontwikkelt een wiskundige attitude.",
 		"prefix": "17",
 		"id": "3b188270-378a-4883-a494-631f11a67c1e",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"561469ee-a769-4997-bc6e-e38335eaaf0a"
+			"231a0c4a-933b-4ebf-97eb-ef0d3f163259"
 		]
 	},
 	{
@@ -381,9 +118,8 @@
 		"description": "De leerling ontwikkelt een wiskundige attitude.",
 		"prefix": "16",
 		"id": "9fe42337-5cc3-4d74-89c4-42dc711e6eb1",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"e0253abd-e528-42c3-8970-2d337901f02d"
+			"5975c0ed-0d30-4c8b-979a-ed1d28511e7e"
 		]
 	},
 	{
@@ -391,10 +127,9 @@
 		"description": "De leerling past wiskunde toe in bekende en nieuwe situaties.",
 		"prefix": "18",
 		"id": "59c47782-dba7-43a3-a9b7-9d9d3462a24d",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"bb06ac58-b4c5-4dd6-b75f-50941ffb2380",
-			"2c960103-654f-4c08-b9de-88e496443f2b"
+			"db4c745a-b0f8-45c5-b753-63bc3af2a3ac",
+			"66ff33bc-8241-49db-b91b-d0e454ce25f1"
 		]
 	},
 	{
@@ -402,10 +137,9 @@
 		"description": "De leerling past wiskunde toe in bekende en nieuwe situaties.",
 		"prefix": "17",
 		"id": "d530cb7f-3752-4702-bdef-e769f2739f79",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"347fe2cf-3c24-4502-8111-b811cd981675",
-			"174c361a-a20b-478c-8aef-774b6b229723"
+			"26645d14-4eec-4724-94c7-5d4a89de5fe9",
+			"e0d575ab-bed4-40d2-adb0-e8fe0a634da9"
 		]
 	},
 	{
@@ -413,12 +147,11 @@
 		"description": "De leerling zet digitale technologie en digitale media kundig in.",
 		"prefix": "21",
 		"id": "fd84d13c-e042-4e97-b133-0914f18f1dff",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"81b8e6d2-ace5-4e76-b4d1-d087f717dda2",
-			"dbf8899e-013b-4958-8745-b9fd4e395849",
-			"d11aa6d5-40b0-44c6-9356-e119ad871604",
-			"438c64cf-4415-4497-bf23-9ba78e0f651f"
+			"92b5dc73-90fb-4be0-aa23-e0fca40f5d8a",
+			"f98a6393-797d-40cb-bdbd-f95954627eba",
+			"e9b2fdf2-b180-4f09-aef8-3d483b681b64",
+			"1b1b7534-1dab-430b-87aa-f8cee1fe20cf"
 		]
 	},
 	{
@@ -426,10 +159,9 @@
 		"description": "De leerling creëert digitale producten.",
 		"prefix": "23",
 		"id": "be006a39-fefd-4e43-92bc-a0b77a1c235f",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"f09d4f54-b3ad-467b-a233-b3af05e550f9",
-			"3b4e22b1-4acb-4e44-8234-bf05adb70cde"
+			"9b181b1d-7fb8-4266-b4b3-233ef5796172",
+			"8e08d308-7042-4ad4-892b-fc2fc85bcda1"
 		]
 	},
 	{
@@ -437,10 +169,9 @@
 		"description": "De leerling creëert digitale producten.",
 		"prefix": "22",
 		"id": "addb3c2a-b581-4176-b5d6-0bc01ab8337b",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"33d10f81-0ae1-45d4-9712-e5ac73c3ec91",
-			"7492dbc4-45bd-4241-b225-bd426faaf79b"
+			"350dd72c-c458-4b90-82a2-9f4fee436092",
+			"aebfd5af-8dd1-4098-b532-c19de272d689"
 		]
 	},
 	{
@@ -448,11 +179,10 @@
 		"description": "De leerling participeert in de gedigitaliseerde wereld.",
 		"prefix": "24",
 		"id": "5e7c9003-cd4c-408d-8747-d46c8f97b0db",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"601d04a5-a542-40ef-b1a9-c4d014bd36fe",
-			"d4622bff-27a9-464a-8e4d-4f4c4bfd0ada",
-			"31034d4b-e90d-4768-9e17-3c12f77535e6"
+			"c38dd860-c0ea-4158-9a00-1cc703aaeca1",
+			"6ad64ccd-0642-486f-9bf1-1ddd73e6db7f",
+			"d018e2b7-43a3-4cec-b5c2-418a53f2a03b"
 		]
 	},
 	{
@@ -460,11 +190,10 @@
 		"description": "De leerling participeert in de gedigitaliseerde wereld.",
 		"prefix": "23",
 		"id": "217a5f7e-de01-4c3c-a9f7-a173f4f87a83",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"b4257b7b-6a2d-4553-b913-8516912657fb",
-			"848b3c16-406e-4391-9ea0-c0af9138f238",
-			"cad9486f-f3d8-454b-a656-d4f233fa202d"
+			"a0f320d3-9008-41cf-9500-d97df4e1e389",
+			"69fe0bdf-caeb-41f3-af73-187f8192c57f",
+			"e7c5a185-5b93-4daa-9496-01ae5264ab0f"
 		]
 	},
 	{
@@ -472,7 +201,6 @@
 		"description": "De school stimuleert de vaardigheid van leerlingen in de Nederlandse Gebarentaal.",
 		"prefix": "1",
 		"id": "be2ff595-6ec8-4ed6-aa86-c524c06962d9",
-		"unreleased": true,
 		"fo_doelzin_id": [
 			"b1f9308a-5e2b-4afe-a176-a9b0b3777295"
 		]
@@ -482,7 +210,6 @@
 		"description": "De school stimuleert de vaardigheid van leerlingen in de Nederlandse Gebarentaal.",
 		"prefix": "1",
 		"id": "4c4d5df7-77a5-44dd-9ab6-ba4b8d0a9e96",
-		"unreleased": true,
 		"fo_doelzin_id": [
 			"39bbf0ad-eca1-41bd-88ab-97be2924343a"
 		]
@@ -492,7 +219,6 @@
 		"description": "De leerling begrijpt informatie in de Nederlandse Gebarentaal.",
 		"prefix": "2",
 		"id": "f8d89e0d-d6be-409a-a344-196e5a0b714a",
-		"unreleased": true,
 		"fo_doelzin_id": [
 			"3d33fe5d-4895-497e-9e96-3b3862e47408",
 			"835d6474-1c1e-4b88-9bd6-13889c6eb629"
@@ -503,7 +229,6 @@
 		"description": "De leerling begrijpt informatie in de Nederlandse Gebarentaal.",
 		"prefix": "2",
 		"id": "8272a107-7e81-4091-b6cd-879b8052f01c",
-		"unreleased": true,
 		"fo_doelzin_id": [
 			"050e0b24-d483-4888-bbee-d25108b1bb24",
 			"92049afc-1458-47ec-8da5-00b78f039edd"
@@ -514,7 +239,6 @@
 		"description": "De leerling drukt zich uit in de Nederlandse Gebarentaal.",
 		"prefix": "3",
 		"id": "0921195c-2f76-414a-b861-777e2b6d0564",
-		"unreleased": true,
 		"fo_doelzin_id": [
 			"2e885bc4-14be-4452-b2b5-29e23e22b579",
 			"0cd0cc6f-0f29-4468-89bd-49d835d79ded"
@@ -525,7 +249,6 @@
 		"description": "De leerling drukt zich uit in de Nederlandse Gebarentaal.",
 		"prefix": "3",
 		"id": "2f4f094f-67be-41fa-bd45-68771af28d63",
-		"unreleased": true,
 		"fo_doelzin_id": [
 			"67e8cb21-92a7-4197-8380-7af116803b23",
 			"789b2947-bd76-4a9f-bea0-aad1d8a17130"
@@ -536,7 +259,6 @@
 		"description": "De leerling voert gesprekken in de Nederlandse Gebarentaal.",
 		"prefix": "4",
 		"id": "da52d703-c9c6-4581-bb0c-b1547b7fcaef",
-		"unreleased": true,
 		"fo_doelzin_id": [
 			"8b139b23-b55f-430a-8de3-fd764a766f6c",
 			"9f247e00-c6fe-4f2d-9f12-60cc9052d6a1"
@@ -547,7 +269,6 @@
 		"description": "De leerling voert gesprekken in de Nederlandse Gebarentaal.",
 		"prefix": "4",
 		"id": "190e067a-8421-4864-8d9a-cb4d9281b210",
-		"unreleased": true,
 		"fo_doelzin_id": [
 			"4d8f2449-04dc-4a66-8f5a-a7c6d97b3eb9",
 			"6f51e573-fe81-44e6-a17a-c1cd3d35b312"
@@ -558,7 +279,6 @@
 		"description": "De leerling ontwikkelt zich als bewuste taalgebruiker.",
 		"prefix": "5",
 		"id": "c0d8fed8-c2d4-468d-a669-2e526aa33a22",
-		"unreleased": true,
 		"fo_doelzin_id": [
 			"dcc0f2f4-7fba-4823-9629-1a0a102568a1"
 		]
@@ -568,7 +288,6 @@
 		"description": "De leerling ontwikkelt zich als bewuste taalgebruiker.",
 		"prefix": "5",
 		"id": "1f238ad8-6055-450b-a178-83f3f1311b99",
-		"unreleased": true,
 		"fo_doelzin_id": [
 			"cfee36c6-5fa2-4a88-bde4-de116e4907b8"
 		]
@@ -578,7 +297,6 @@
 		"description": "De leerling toont inzicht in de Nederlandse Gebarentaal als systeem.",
 		"prefix": "6",
 		"id": "c551cbed-cc8b-4b87-aec9-fbcf73450503",
-		"unreleased": true,
 		"fo_doelzin_id": [
 			"df9948d9-960d-4d67-8d12-887bd5d4caa1"
 		]
@@ -588,7 +306,6 @@
 		"description": "De leerling toont inzicht in de Nederlandse Gebarentaal als systeem.",
 		"prefix": "6",
 		"id": "116e6789-fd55-4c77-a0bb-6a4c941cafac",
-		"unreleased": true,
 		"fo_doelzin_id": [
 			"c7175bf7-1a64-486c-98de-3759db251caa"
 		]
@@ -598,7 +315,6 @@
 		"description": "De leerling verkent het gebruik van de Nederlandse Gebarentaal.",
 		"prefix": "7",
 		"id": "7ce5a7f5-18ce-4bbc-b17f-eb0ca5784899",
-		"unreleased": true,
 		"fo_doelzin_id": [
 			"611cec2c-b2a3-40ec-86e0-462f935f42ba",
 			"0acc436e-a6a4-4344-945a-923aebe2095a"
@@ -609,7 +325,6 @@
 		"description": "De leerling verkent het gebruik van de Nederlandse Gebarentaal.",
 		"prefix": "7",
 		"id": "70dc6a58-04ab-4b58-a32a-d3f7bb5fc686",
-		"unreleased": true,
 		"fo_doelzin_id": [
 			"e3f6a84e-4c24-4c58-a23f-0fa5b448f81a",
 			"cd60fa66-a02e-4687-88d1-5f0c34d0750a"
@@ -620,7 +335,6 @@
 		"description": "De leerling doet ervaring op met visueel-manuele literatuur.",
 		"prefix": "8",
 		"id": "4da1b88b-7174-40ed-812e-0b156fe806e3",
-		"unreleased": true,
 		"fo_doelzin_id": [
 			"69311806-75c2-4cc8-96a7-9c3d135ef3a1",
 			"2b9dc59e-bb85-4058-9c51-f096c2df0be3"
@@ -631,82 +345,9 @@
 		"description": "De leerling toont inzicht in visueel-manuele literatuur.",
 		"prefix": "8",
 		"id": "add71034-dcd2-4996-9d5f-d704fef7ea53",
-		"unreleased": true,
 		"fo_doelzin_id": [
 			"0f22184f-15ff-4d1d-8130-7c50ca3ebaf3",
 			"e83ebda8-db1b-415d-a040-2740417474f8"
-		]
-	},
-	{
-		"deleted": true,
-		"title": "Kerndoel 1",
-		"description": "De school stimuleert de taalcompetentie van leerlingen.",
-		"prefix": "1",
-		"id": "ac820e7d-70aa-4f93-b621-3a5d46e870f7",
-		"unreleased": true,
-		"fo_doelzin_id": [
-			"bb4827ad-68d7-4856-8845-763bb7b5dc11",
-			"40892e80-5a02-4be2-be28-e4af4f91cb4c"
-		]
-	},
-	{
-		"deleted": true,
-		"title": "Kerndoel 1",
-		"description": "De school stimuleert de taalcompetentie van leerlingen.",
-		"prefix": "1",
-		"id": "5fba1845-68cb-4165-b576-00c60b55a369",
-		"unreleased": true,
-		"fo_doelzin_id": [
-			"f7fa2e34-cdbf-47b8-9393-3399ea2b0d2f",
-			"b72013ba-c8bd-4700-9b2b-2ab7328f2e7d",
-			"5d2d26a9-e60a-4a87-93e1-7c6d5d279f4d"
-		]
-	},
-	{
-		"deleted": true,
-		"title": "Kerndoel 1",
-		"description": "De school stimuleert de taalcompetentie van leerlingen.",
-		"prefix": "1",
-		"id": "52583021-9cce-4e59-b53d-96cc9b034276",
-		"unreleased": true,
-		"fo_doelzin_id": [
-			"dc1e3f39-2752-4312-9709-5eef1e9d09fe"
-		]
-	},
-	{
-		"deleted": true,
-		"title": "Kerndoel 2",
-		"description": "De leerling doet ervaring op met teksten.",
-		"prefix": "2",
-		"id": "e4f27268-0acd-405f-b1b0-24d77fbcb6fe",
-		"unreleased": true,
-		"fo_doelzin_id": [
-			"1a7380fe-0327-4b8c-a656-ae7f6340edaa",
-			"0c28824a-a563-4f30-985c-80d19ce1283a"
-		]
-	},
-	{
-		"deleted": true,
-		"title": "Kerndoel 2",
-		"description": "De leerling doet ervaring op met teksten.",
-		"prefix": "2",
-		"id": "436fb1b8-4705-44d2-bf1e-03eadf32a319",
-		"unreleased": true,
-		"fo_doelzin_id": [
-			"1cadb0ab-7888-46d3-a62f-5fa2b1064f3a",
-			"a12ed22d-c28a-4332-91ab-462c680b75d6"
-		]
-	},
-	{
-		"deleted": true,
-		"title": "Kerndoel 2",
-		"description": "De leerling doet ervaring op met teksten.",
-		"prefix": "2",
-		"id": "3c79b4e8-825e-4f85-a3ea-d3a3ba2fd1e4",
-		"unreleased": true,
-		"fo_doelzin_id": [
-			"c9283d55-df28-49ac-9234-6b25f4bb0133",
-			"958e5807-801f-4168-bfce-321fa73be4ad"
 		]
 	},
 	{
@@ -714,10 +355,9 @@
 		"description": "De leerling werkt met teksten.",
 		"prefix": "3",
 		"id": "1ffddc58-f891-43fb-821d-956284fa381c",
-		"unreleased": true,
 		"fo_doelzin_id": [
 			"341c2875-cabc-4375-92d9-24b6300ce625",
-			"07c3d5ad-952d-4fef-b892-93bcab2bb8fe"
+			"48e1990d-e02a-42b8-ba51-a221e0b03ebe"
 		]
 	},
 	{
@@ -725,10 +365,9 @@
 		"description": "De leerling werkt met teksten.",
 		"prefix": "3",
 		"id": "a311bcaf-de55-4967-bbe8-b856cf33363e",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"580a18b5-d619-4782-85f2-e7e644867b5e",
-			"8a8b3298-09af-4fdc-81be-e6964dbe7270"
+			"0a86135d-eab0-4433-8a70-a020159a5f33",
+			"fafd80b6-2078-4c5f-97e2-10660134c804"
 		]
 	},
 	{
@@ -736,10 +375,9 @@
 		"description": "De leerling werkt met teksten.",
 		"prefix": "3",
 		"id": "14fbe816-6048-472f-b56a-5fb8f9d83d4b",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"c320e4ec-5149-4a41-919f-1d1c7fbf83ce",
-			"e0d648b3-c8ee-48d5-b43d-fa2cc26d4a39"
+			"55a53f1c-a893-4daf-8ff5-1d1703a0e12c",
+			"0f339370-19d8-4268-ac40-4c247bfd38b1"
 		]
 	},
 	{
@@ -747,9 +385,8 @@
 		"description": "De leerling reflecteert op het gebruik van taal.",
 		"prefix": "5",
 		"id": "96e2b369-4e2f-4e6a-8137-26ee527e371c",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"bd0564a3-651d-48fb-b2e5-cee16e885c4e"
+			"7cef442e-f69d-4fb0-b9ce-0b4de2fd8dfa"
 		]
 	},
 	{
@@ -757,9 +394,8 @@
 		"description": "De leerling reflecteert op het gebruik van taal.",
 		"prefix": "5",
 		"id": "a2dff7a5-96d4-4acf-bed7-71d3c8b1e7fa",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"a6065e1e-ea03-4508-b251-4308a8590b58"
+			"23dffd2e-7ad8-427f-92b7-30d1cce83110"
 		]
 	},
 	{
@@ -767,9 +403,8 @@
 		"description": "De leerling reflecteert op het gebruik van taal.",
 		"prefix": "5",
 		"id": "f62d003e-f2ea-427f-9de4-fc57dfd7630d",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"95e9463d-3b66-4c83-ba37-c7e932a8f24e"
+			"e67c80b2-4f3b-41ef-ab2a-2eef003168c1"
 		]
 	},
 	{
@@ -777,10 +412,9 @@
 		"description": "De leerling voert gesprekken.",
 		"prefix": "4",
 		"id": "7c869344-b4bb-472c-8dad-14d0d40060fd",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"090162f7-130a-481d-8d65-3757c348da06",
-			"f0ba095c-2dda-4417-bc08-601369756749"
+			"f1ce5fbd-923f-42c6-8a4c-26c04f3bf1f1",
+			"fbbcd2cf-48ee-4948-8241-6e8f98072b30"
 		]
 	},
 	{
@@ -788,10 +422,9 @@
 		"description": "De leerling voert gesprekken.",
 		"prefix": "4",
 		"id": "4d5a9715-edee-4d8d-a849-8be47a1a3e83",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"297f334e-520b-4065-8c96-0f1b55ca11a3",
-			"f49f8889-3256-4737-90d3-eabbafb6903b"
+			"0ca89832-e93a-4085-b5e7-9d88a95edc1a",
+			"e9a55c6b-51b9-4b5b-918a-24346586d417"
 		]
 	},
 	{
@@ -799,10 +432,9 @@
 		"description": "De leerling voert gesprekken.",
 		"prefix": "4",
 		"id": "2b0b12a2-1b34-49b5-a785-fc567972150c",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"5b9679fb-664e-4dbe-8146-d887df590370",
-			"b7c23d6d-f47a-41c6-8f29-15e9c0fb6786"
+			"1ece2ed4-98b4-4d00-9b16-fb762729c54a",
+			"e3e91677-275c-43b5-8950-29eb5dbc57c7"
 		]
 	},
 	{
@@ -810,10 +442,9 @@
 		"description": "De leerling verkent taal als systeem.",
 		"prefix": "6",
 		"id": "ec4500a1-443e-459b-88b0-104b014511f3",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"91f9a7f4-0f4d-43bb-b564-0e8bcd56679a",
-			"fa700a59-bc55-4039-b320-a2d4ec25b32d"
+			"092435ff-990f-4e7d-9b74-0d4fd62ccec3",
+			"5604cec2-d952-4926-a7dc-a841b25638bf"
 		]
 	},
 	{
@@ -821,10 +452,9 @@
 		"description": "De leerling verkent taal als systeem.",
 		"prefix": "6",
 		"id": "64bcfd25-a8c5-454c-8efc-7770cc410632",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"7277cd75-566e-4dcb-9086-e9379f42970c",
-			"838eb09e-0666-4e6a-ba8d-1df26bb00b70"
+			"e4e85b77-aa66-4cf1-8fb7-cd4f6594dcef",
+			"dc88d7ca-0439-4b44-bf4b-50a21f1d8b93"
 		]
 	},
 	{
@@ -832,10 +462,9 @@
 		"description": "De leerling verkent taal als systeem.",
 		"prefix": "6",
 		"id": "1cdf9f78-9f79-4fa7-b6da-33263a3a9d13",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"fca436bf-1988-4fdc-a6fd-7bc87fdebbf7",
-			"4e193aaf-3325-4495-8371-e7d1cce8460c"
+			"d793a5a2-1291-48c2-af17-299421df1fe8",
+			"23c6d2a5-5898-4444-bbda-3c08c8822837"
 		]
 	},
 	{
@@ -843,9 +472,8 @@
 		"description": "De leerling verkent het gebruik van taal.",
 		"prefix": "7",
 		"id": "67988201-edd1-41e9-b46f-ba292a20c3ad",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"1c55976c-7e3c-4658-9b01-5557ebb46b84"
+			"6be43d99-bb3a-44bf-8b8f-1515caa3f32b"
 		]
 	},
 	{
@@ -853,9 +481,8 @@
 		"description": "De leerling verkent het gebruik van taal.",
 		"prefix": "7",
 		"id": "1f9e6376-fcc0-490b-8f75-be65882c10e3",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"27c0b6ff-339a-4335-ba4c-859469b40252"
+			"459c0846-95e6-425f-b5fe-0360d1dbae85"
 		]
 	},
 	{
@@ -863,9 +490,8 @@
 		"description": "De leerling verkent het gebruik van taal.",
 		"prefix": "7",
 		"id": "7fc4db63-cbd8-4c16-b4ea-4f1968957588",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"01ada9cf-586f-425e-b01b-d16d4909c3c4"
+			"c7722212-4b1d-44a8-b591-c9e3cf31cdd0"
 		]
 	},
 	{
@@ -873,10 +499,9 @@
 		"description": "De leerling doet ervaring op met literatuur.",
 		"prefix": "8",
 		"id": "32a4d792-2b82-4b8f-be23-7a11e963bab5",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"1a6c3f41-f76d-419a-850c-7a4a9071ff88",
-			"6e65d06a-e919-4165-8e22-a98db5fb0d87"
+			"c3f1b696-c80b-4785-8beb-754ba2e94232",
+			"746cdc1b-4f3e-4be3-91a2-f71a08def56e"
 		]
 	},
 	{
@@ -884,10 +509,9 @@
 		"description": "De leerling doet ervaring op met literatuur.",
 		"prefix": "8",
 		"id": "bf18a2aa-f8ff-4f3d-9c01-17a163e02a93",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"a0798be3-9352-491a-8a27-734489a717b9",
-			"43fff266-82a2-4998-bab7-914b8b9035cd"
+			"9f4cd962-52f4-464e-a710-088f7c8f1bd0",
+			"91e341f4-fa2c-495a-8fe8-f1235a10332a"
 		]
 	},
 	{
@@ -895,10 +519,9 @@
 		"description": "De leerling doet ervaring op met literatuur.",
 		"prefix": "8",
 		"id": "560df550-4054-44f3-a72c-2a88a99512be",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"7e5457eb-22ee-4684-aede-94cb9b6ee8fd",
-			"f467fe1d-210b-4d4f-b65a-df8ff29c59f8"
+			"e56aa853-b671-441e-b22d-4a37def62911",
+			"33e588a8-28bd-4e5b-a241-d682e78a80a7"
 		]
 	},
 	{
@@ -906,10 +529,9 @@
 		"description": "De leerling werkt met getallen en verhoudingen.",
 		"prefix": "9",
 		"id": "358d6349-e2dc-489b-8950-899f1ea0a28d",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"4b246ec4-1ed8-4c52-b43e-5ab6a1c0424e",
-			"fe1bfa69-3e07-4789-b59a-9dff4430d896"
+			"93175b0c-650e-49ca-b2cd-8422a110239c",
+			"789cc166-68eb-49f9-b7cd-f89dade3e60d"
 		]
 	},
 	{
@@ -917,11 +539,10 @@
 		"description": "De leerling hanteert grootheden en eenheden.",
 		"prefix": "10",
 		"id": "d0e1190f-41d9-440e-8867-91569f198d2c",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"41b01fca-a44f-4762-8132-a089cb0d435b",
-			"fcf77d53-51c9-4535-8887-16b687c12b35",
-			"f266670c-45e1-4dfc-95e4-a9109f1a98c3"
+			"d7d8fc63-44be-4196-8b57-2576840f6fae",
+			"ca8f9e9a-6b67-420e-9da8-60ad860a7d69",
+			"0e85004a-09b6-40ab-88b4-d23e30d817ef"
 		]
 	},
 	{
@@ -929,9 +550,8 @@
 		"description": "De leerling oriënteert zich op meetkundig handelen.",
 		"prefix": "11",
 		"id": "8b9e0e6f-e66d-4c73-a427-6323880be64b",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"5d08450f-5e0b-4b15-8bb3-e52e5b2e7331"
+			"2fca556f-50d2-4f5b-99f1-3976ff7ded5a"
 		]
 	},
 	{
@@ -939,10 +559,9 @@
 		"description": "De leerling werkt met getallen en verhoudingen.",
 		"prefix": "9",
 		"id": "3925d72a-6b7d-49a3-add4-c6d7b89fac17",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"19ebbd99-9658-4edc-862c-4a0117dd285f",
-			"2d0132b9-86ed-4b46-8c94-15f2259606c6"
+			"55f71c6d-e4b3-41af-919f-c809d5c7948b",
+			"2a1cd854-38be-4bf0-8838-caac92b9933a"
 		]
 	},
 	{
@@ -950,11 +569,10 @@
 		"description": "De leerling hanteert grootheden en eenheden.",
 		"prefix": "10",
 		"id": "564fbac8-d6cd-40b7-a0ab-a0298589b4a4",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"780268c4-5efa-424a-ac71-de00633513fd",
-			"76e7421c-f92f-4f38-84d9-efc2e2f74fe5",
-			"20eade3b-f597-47b9-91c8-4b4cd78f685d"
+			"86785ca3-7a73-429f-ab97-8987f2b0ec07",
+			"4f04d646-5630-48b2-b7d9-d06a98ec9c1a",
+			"7d106da7-3a01-45ae-82e7-7dfa34d714fc"
 		]
 	},
 	{
@@ -962,9 +580,8 @@
 		"description": "De leerling toont inzicht bij meetkundig handelen.",
 		"prefix": "11",
 		"id": "411879b3-e969-457d-90c9-2c26f565418d",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"824219fb-9508-41e6-ae9c-e5a62d4afa30"
+			"897d807e-8ddd-4bfd-98dd-685f3effc445"
 		]
 	},
 	{
@@ -972,10 +589,9 @@
 		"description": "De leerling werkt met getallen en verhoudingen.",
 		"prefix": "9",
 		"id": "637d0ac2-3dd9-4f24-aa30-0ee6c4e1d361",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"e1fecc12-0bc2-4d7f-8987-4c6a8b7472dc",
-			"8fd8efe3-9501-44fa-a6d6-e00c6a457b12"
+			"f8f57387-a1bf-4a6e-b7e4-c003bdd1536c",
+			"99f47d20-a34e-475e-aa9c-e8a62f1a932f"
 		]
 	},
 	{
@@ -983,11 +599,10 @@
 		"description": "De leerling hanteert grootheden en eenheden.",
 		"prefix": "10",
 		"id": "474acfb1-0039-47f3-9a96-e17784a66050",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"afad66a0-7e6f-4304-b7e7-32f0bd0f6847",
-			"dd81a312-a583-41c0-b95c-e57378c4ac81",
-			"6378af10-b801-4930-958c-60b87a243d45"
+			"21282191-2c8b-4d4a-bc5e-570a07dd483c",
+			"4f2e05d1-0cd8-421e-8a0f-1a0cd77dfc8a",
+			"21d8e66b-b735-456e-9abb-deea026b346e"
 		]
 	},
 	{
@@ -995,9 +610,8 @@
 		"description": "De leerling oriënteert zich op meetkundig handelen.",
 		"prefix": "11",
 		"id": "d4d1c48c-37ee-4fd1-942c-7abbafb4e6c6",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"0ae58e3e-d8b9-447a-b773-4f9a8c31e97f"
+			"e57e978f-e6b9-49a1-8249-8c1fc3f904a2"
 		]
 	},
 	{
@@ -1005,10 +619,9 @@
 		"description": "De leerling gebruikt wiskundetaal en wiskundige representaties.",
 		"prefix": "12",
 		"id": "4bcdf5b6-29ee-4da0-b4ae-53b8b19e7c66",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"56346b00-a8db-472a-983e-0143021570b8",
-			"bdc74166-3003-4deb-b8d8-56a520569564"
+			"a74c1ee8-4e3d-46df-9d4e-bcd49c840ce0",
+			"55384529-06a5-4db3-99a5-28440ca5af0b"
 		]
 	},
 	{
@@ -1016,10 +629,9 @@
 		"description": "De leerling gebruikt wiskundetaal en wiskundig gereedschap.",
 		"prefix": "12",
 		"id": "92d2b2f8-0c94-4dec-930f-41c0f49d1f5b",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"28d6dbbd-9b33-4bb8-bdbe-232c47f4d49a",
-			"0f4c919d-bca5-48f1-bf5e-477fb839697a"
+			"dca77e48-74aa-49af-9fb1-95e570ee2131",
+			"5a4d8d70-6e77-4f92-86c4-93991f7fd33d"
 		]
 	},
 	{
@@ -1027,10 +639,9 @@
 		"description": "De leerling gebruikt wiskundetaal en wiskundig gereedschap.",
 		"prefix": "12",
 		"id": "17dc2f5f-b5bf-442f-8074-36bb55e04c10",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"126c04c7-3959-4bd7-83b0-8c4ba45026f3",
-			"11219833-a07d-407b-8f54-5beaf779d062"
+			"7f76cb44-d6ce-4af7-a303-672780e1ce8d",
+			"75cdc591-713f-4d9f-bb5b-934779f2b46b"
 		]
 	},
 	{
@@ -1038,10 +649,9 @@
 		"description": "De leerling past wiskunde toe in bekende en nieuwe situaties.",
 		"prefix": "13",
 		"id": "fc97773b-0de0-4e3d-9831-98c8006c6e7f",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"d17bf839-dc4f-4de7-b416-12d11a5e0add",
-			"6dea5e47-abc5-40e0-b143-358174ce4db5"
+			"320ed551-2a3d-466f-bd81-68757dba58e8",
+			"adcae487-14c9-4901-b3d0-cc7e47a46868"
 		]
 	},
 	{
@@ -1049,9 +659,8 @@
 		"description": "De leerling ontwikkelt een wiskundige attitude.",
 		"prefix": "14",
 		"id": "bf4c3b4e-7b0a-4ea5-934c-c402c34f26d9",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"052dd6d2-2732-42a1-b548-8d07a9d1687c"
+			"3ca4ae49-2c3f-4211-8684-a569840bc2d9"
 		]
 	},
 	{
@@ -1059,10 +668,9 @@
 		"description": "De leerling past wiskunde toe in bekende en nieuwe situaties.",
 		"prefix": "13",
 		"id": "92e9d36e-1b5c-4d75-b557-d8b54081e1f5",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"41846d7e-ecb0-4a26-93fb-693a444bc4de",
-			"23f99b4d-a3b8-4c0b-a7b6-527036661256"
+			"adf0ca38-d138-445d-996f-aa9de0a97881",
+			"629e9866-5923-4b57-8fa6-9690e364c541"
 		]
 	},
 	{
@@ -1070,9 +678,8 @@
 		"description": "De leerling ontwikkelt een wiskundige attitude.",
 		"prefix": "14",
 		"id": "a9f250c5-c23f-47f3-a409-74b3465aacbc",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"952009bc-60bc-4de9-8a19-a16aee78028f"
+			"2b13c8c6-b397-4173-931e-cbbf135d1c4b"
 		]
 	},
 	{
@@ -1080,10 +687,9 @@
 		"description": "De leerling past wiskunde toe in bekende en nieuwe situaties.",
 		"prefix": "13",
 		"id": "ba01c04e-4701-42e3-9ce6-aa23f8b6bbb5",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"6957f96d-fc3f-44ee-8de6-e5f2a4089bd2",
-			"f77fe97a-e430-4d8f-b21c-f9d420d604dd"
+			"e73645b0-9077-4e34-858a-2b79fb6889f0",
+			"84894e52-dd1c-40f9-87c6-082dc77b672d"
 		]
 	},
 	{
@@ -1091,9 +697,8 @@
 		"description": "De leerling ontwikkelt een wiskundige attitude.",
 		"prefix": "14",
 		"id": "a24c1f76-cbdc-4b40-915e-adf4c89c1e62",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"a5aeb7a6-d580-4950-bbd3-b62da9d5a6b9"
+			"b8fd1c56-37f9-426a-a7b7-236e1f173957"
 		]
 	},
 	{
@@ -1101,7 +706,6 @@
 		"description": "De school geeft vorm aan de democratische oefenplaats.",
 		"prefix": "19",
 		"id": "b9393c85-57d0-4a1b-80d9-ab9a41a57005",
-		"unreleased": true,
 		"fo_doelzin_id": [
 			"bab6d589-2326-4757-8305-59b3f4eb1e38"
 		]
@@ -1111,7 +715,6 @@
 		"description": "De school geeft vorm aan de democratische oefenplaats.",
 		"prefix": "18",
 		"id": "adb7b42c-e8cb-4a47-95e5-179583504c4d",
-		"unreleased": true,
 		"fo_doelzin_id": [
 			"5d8b335c-e7ad-4662-b9a7-3330f70d2948"
 		]
@@ -1121,7 +724,6 @@
 		"description": "De leerling leert over samenleven in een democratische rechtsstaat.",
 		"prefix": "20",
 		"id": "3cace0c1-bdc3-4eb6-905f-725222fa3e79",
-		"unreleased": true,
 		"fo_doelzin_id": [
 			"bcd87021-c8f4-4ab8-a782-97c0852fbf53",
 			"1bb1fad0-bafc-4dcd-bda0-e9df3c74f001"
@@ -1132,7 +734,6 @@
 		"description": "De leerling leert over samenleven in een democratische rechtsstaat.",
 		"prefix": "19",
 		"id": "e4935f00-96d9-469d-9632-2937b446236b",
-		"unreleased": true,
 		"fo_doelzin_id": [
 			"9f40889b-dbd5-48c6-989f-d3a169569c88",
 			"c62adc6f-0cf4-42d0-905e-7d9643721807"
@@ -1143,7 +744,6 @@
 		"description": "De leerling doet ervaringen op met democratische en maatschappelijke betrokkenheid.",
 		"prefix": "21",
 		"id": "e93e617f-a41f-4b30-8a3d-41c5ce2cef9c",
-		"unreleased": true,
 		"fo_doelzin_id": [
 			"d9eef646-6c23-4880-bb8f-eb021dc29b60",
 			"a227e0c0-b70f-40e2-9569-a5a51be0425a"
@@ -1154,7 +754,6 @@
 		"description": "De leerling doet ervaringen op met democratische en maatschappelijke betrokkenheid.",
 		"prefix": "20",
 		"id": "9a0647ce-28ac-4bfa-b5df-bbd3d9e1ec85",
-		"unreleased": true,
 		"fo_doelzin_id": [
 			"940fc0ff-6392-4a1c-98c6-68d968a1b190",
 			"e8ea058f-b196-468e-a7a5-031258d70e7b"
@@ -1165,12 +764,11 @@
 		"description": "De leerling zet digitale technologie en digitale media kundig in.",
 		"prefix": "22",
 		"id": "258e321f-4cb9-4b5d-865c-8b87b1e2c899",
-		"unreleased": true,
 		"fo_doelzin_id": [
 			"366b6a47-dc6d-47b3-b1d3-1d97e01e105d",
-			"05fbe26c-7723-42f3-ba84-ccea0a3288e4",
-			"86bf928b-f7d5-40e2-9188-880f9c841269",
-			"fdbb266f-ebe3-4a0e-b536-bf9d7be85358"
+			"daeb5b8a-8ef5-4bc6-9842-d834c8bb99fa",
+			"5ace64e7-b361-446b-b21f-74b3bdb5e81a",
+			"33e104d3-7636-4b08-91c1-52897f9f0691"
 		]
 	},
 	{
@@ -1178,12 +776,11 @@
 		"description": "De leerling zet digitale technologie en digitale media kundig in.",
 		"prefix": "22",
 		"id": "8e138ed8-5e38-4f8f-bdc4-aa406a9e7074",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"200f5b2b-e948-4057-a67c-95636166a2c4",
-			"05fbe26c-7723-42f3-ba84-ccea0a3288e4",
-			"86bf928b-f7d5-40e2-9188-880f9c841269",
-			"fdbb266f-ebe3-4a0e-b536-bf9d7be85358"
+			"90a69e2b-87af-4db5-af46-991f00cc77df",
+			"daeb5b8a-8ef5-4bc6-9842-d834c8bb99fa",
+			"5ace64e7-b361-446b-b21f-74b3bdb5e81a",
+			"33e104d3-7636-4b08-91c1-52897f9f0691"
 		]
 	},
 	{
@@ -1191,12 +788,11 @@
 		"description": "De leerling zet digitale technologie en digitale media kundig in.",
 		"prefix": "21",
 		"id": "ee2e28db-9045-4855-9c8f-8b2e1513dac6",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"81b8e6d2-ace5-4e76-b4d1-d087f717dda2",
-			"dbf8899e-013b-4958-8745-b9fd4e395849",
-			"d11aa6d5-40b0-44c6-9356-e119ad871604",
-			"438c64cf-4415-4497-bf23-9ba78e0f651f"
+			"92b5dc73-90fb-4be0-aa23-e0fca40f5d8a",
+			"f98a6393-797d-40cb-bdbd-f95954627eba",
+			"e9b2fdf2-b180-4f09-aef8-3d483b681b64",
+			"1b1b7534-1dab-430b-87aa-f8cee1fe20cf"
 		]
 	},
 	{
@@ -1204,10 +800,9 @@
 		"description": "De leerling creëert digitale producten.",
 		"prefix": "23",
 		"id": "9278b9f1-119c-4ed9-86e9-bf7c1eece2fb",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"f09d4f54-b3ad-467b-a233-b3af05e550f9",
-			"3b4e22b1-4acb-4e44-8234-bf05adb70cde"
+			"9b181b1d-7fb8-4266-b4b3-233ef5796172",
+			"8e08d308-7042-4ad4-892b-fc2fc85bcda1"
 		]
 	},
 	{
@@ -1215,10 +810,9 @@
 		"description": "De leerling creëert digitale producten.",
 		"prefix": "22",
 		"id": "b2a620db-66cd-4120-a503-f102290aed59",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"33d10f81-0ae1-45d4-9712-e5ac73c3ec91",
-			"7492dbc4-45bd-4241-b225-bd426faaf79b"
+			"350dd72c-c458-4b90-82a2-9f4fee436092",
+			"aebfd5af-8dd1-4098-b532-c19de272d689"
 		]
 	},
 	{
@@ -1226,11 +820,10 @@
 		"description": "De leerling participeert in de gedigitaliseerde wereld.",
 		"prefix": "24",
 		"id": "9507c623-ad52-45d5-82d6-8c9bf94bce68",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"601d04a5-a542-40ef-b1a9-c4d014bd36fe",
-			"d4622bff-27a9-464a-8e4d-4f4c4bfd0ada",
-			"31034d4b-e90d-4768-9e17-3c12f77535e6"
+			"c38dd860-c0ea-4158-9a00-1cc703aaeca1",
+			"6ad64ccd-0642-486f-9bf1-1ddd73e6db7f",
+			"d018e2b7-43a3-4cec-b5c2-418a53f2a03b"
 		]
 	},
 	{
@@ -1238,11 +831,10 @@
 		"description": "De leerling participeert in de gedigitaliseerde wereld.",
 		"prefix": "23",
 		"id": "ccf62e51-120b-4d6d-b220-0057ff2dd214",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"b4257b7b-6a2d-4553-b913-8516912657fb",
-			"848b3c16-406e-4391-9ea0-c0af9138f238",
-			"cad9486f-f3d8-454b-a656-d4f233fa202d"
+			"a0f320d3-9008-41cf-9500-d97df4e1e389",
+			"69fe0bdf-caeb-41f3-af73-187f8192c57f",
+			"e7c5a185-5b93-4daa-9496-01ae5264ab0f"
 		]
 	},
 	{
@@ -1250,7 +842,6 @@
 		"description": "De school stimuleert de taalcompetentie van leerlingen.",
 		"prefix": "1",
 		"id": "20c3363c-1328-40b0-bad2-5e3a97aa9b1e",
-		"unreleased": true,
 		"fo_doelzin_id": [
 			"c8345f05-44bf-4ace-9dcf-ae897a43c378",
 			"1bdc41cc-c9ac-4c19-932f-aea9b44163ff"
@@ -1261,7 +852,6 @@
 		"description": "De school stimuleert de taalcompetentie van leerlingen.",
 		"prefix": "1",
 		"id": "c02f4a59-65ef-494c-bec2-81d586ebdff1",
-		"unreleased": true,
 		"fo_doelzin_id": [
 			"9ce9ec44-2772-4eca-8a8f-3ed754ec2680",
 			"87a4410c-c4b6-4542-8ad2-c80aa8bfbd64",
@@ -1273,7 +863,6 @@
 		"description": "De school stimuleert de taalcompetentie van leerlingen.",
 		"prefix": "1",
 		"id": "22da3988-48a5-4b30-8428-aa8c1742fd4f",
-		"unreleased": true,
 		"fo_doelzin_id": [
 			"f5ad02e6-e1e3-4958-a1bc-0e44dbe9ba13"
 		]
@@ -1283,7 +872,6 @@
 		"description": "De leerling doet ervaring op met teksten.",
 		"prefix": "2",
 		"id": "ec4edc86-0810-43da-a84c-98e415f6336c",
-		"unreleased": true,
 		"fo_doelzin_id": [
 			"e672d252-093f-4277-9945-37d012b55999",
 			"9dde2a8d-5b3c-447b-b896-d35d9f526c56"
@@ -1294,7 +882,6 @@
 		"description": "De leerling doet ervaring op met teksten.",
 		"prefix": "2",
 		"id": "9ab673c5-2ee0-4dec-9385-34c25fce6f13",
-		"unreleased": true,
 		"fo_doelzin_id": [
 			"e0ab2ebd-cfe9-4a17-8634-d78f6bedc30d",
 			"8ed98164-d0fd-4c47-ae2f-d20bd2747697"
@@ -1305,7 +892,6 @@
 		"description": "De leerling doet ervaring op met teksten.",
 		"prefix": "2",
 		"id": "213d31f6-32cb-4286-9a88-88204a592b78",
-		"unreleased": true,
 		"fo_doelzin_id": [
 			"16b780b2-eec2-4c17-9b55-7930c3254f31",
 			"2196838a-cc8e-42e0-9441-8372d682438c"
@@ -1316,10 +902,9 @@
 		"description": "De leerling werkt met teksten.",
 		"prefix": "3",
 		"id": "9bff9006-460c-41f6-bab9-fa041d128fcd",
-		"unreleased": true,
 		"fo_doelzin_id": [
 			"e30f99b4-4434-4519-aeda-00edc1421839",
-			"07c3d5ad-952d-4fef-b892-93bcab2bb8fe"
+			"48e1990d-e02a-42b8-ba51-a221e0b03ebe"
 		]
 	},
 	{
@@ -1327,10 +912,9 @@
 		"description": "De leerling werkt met teksten.",
 		"prefix": "3",
 		"id": "56ae9a25-81d3-4802-bb0c-cf487ff63486",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"580a18b5-d619-4782-85f2-e7e644867b5e",
-			"8a8b3298-09af-4fdc-81be-e6964dbe7270"
+			"0a86135d-eab0-4433-8a70-a020159a5f33",
+			"fafd80b6-2078-4c5f-97e2-10660134c804"
 		]
 	},
 	{
@@ -1338,10 +922,9 @@
 		"description": "De leerling werkt met teksten.",
 		"prefix": "3",
 		"id": "e807a806-2d07-470d-a2c6-fc34c9b4639e",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"c320e4ec-5149-4a41-919f-1d1c7fbf83ce",
-			"e0d648b3-c8ee-48d5-b43d-fa2cc26d4a39"
+			"55a53f1c-a893-4daf-8ff5-1d1703a0e12c",
+			"0f339370-19d8-4268-ac40-4c247bfd38b1"
 		]
 	},
 	{
@@ -1349,9 +932,8 @@
 		"description": "De leerling reflecteert op het gebruik van taal.",
 		"prefix": "5",
 		"id": "a776a1be-74fb-439d-920b-55b21b22ef1f",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"bd0564a3-651d-48fb-b2e5-cee16e885c4e"
+			"7cef442e-f69d-4fb0-b9ce-0b4de2fd8dfa"
 		]
 	},
 	{
@@ -1359,9 +941,8 @@
 		"description": "De leerling reflecteert op het gebruik van taal.",
 		"prefix": "5",
 		"id": "3c7b8ac5-f8ae-475f-93e9-5e6a731722f7",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"a6065e1e-ea03-4508-b251-4308a8590b58"
+			"23dffd2e-7ad8-427f-92b7-30d1cce83110"
 		]
 	},
 	{
@@ -1369,9 +950,8 @@
 		"description": "De leerling reflecteert op het gebruik van taal.",
 		"prefix": "5",
 		"id": "a26128f0-82c0-4aa2-b050-2564b4521b30",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"95e9463d-3b66-4c83-ba37-c7e932a8f24e"
+			"e67c80b2-4f3b-41ef-ab2a-2eef003168c1"
 		]
 	},
 	{
@@ -1379,10 +959,9 @@
 		"description": "De leerling voert gesprekken.",
 		"prefix": "4",
 		"id": "da3e1cc2-c5ff-49cf-9628-fac5501376b3",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"090162f7-130a-481d-8d65-3757c348da06",
-			"f0ba095c-2dda-4417-bc08-601369756749"
+			"f1ce5fbd-923f-42c6-8a4c-26c04f3bf1f1",
+			"fbbcd2cf-48ee-4948-8241-6e8f98072b30"
 		]
 	},
 	{
@@ -1390,10 +969,9 @@
 		"description": "De leerling voert gesprekken.",
 		"prefix": "4",
 		"id": "62aa5e23-352a-4d99-9bad-f88c9b85f938",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"297f334e-520b-4065-8c96-0f1b55ca11a3",
-			"f49f8889-3256-4737-90d3-eabbafb6903b"
+			"0ca89832-e93a-4085-b5e7-9d88a95edc1a",
+			"e9a55c6b-51b9-4b5b-918a-24346586d417"
 		]
 	},
 	{
@@ -1401,10 +979,9 @@
 		"description": "De leerling voert gesprekken.",
 		"prefix": "4",
 		"id": "8c309bed-6bc6-467d-9000-dc0b4a11d8a1",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"5b9679fb-664e-4dbe-8146-d887df590370",
-			"b7c23d6d-f47a-41c6-8f29-15e9c0fb6786"
+			"1ece2ed4-98b4-4d00-9b16-fb762729c54a",
+			"e3e91677-275c-43b5-8950-29eb5dbc57c7"
 		]
 	},
 	{
@@ -1412,10 +989,9 @@
 		"description": "De leerling verkent taal als systeem.",
 		"prefix": "6",
 		"id": "c55cdcab-64cd-4682-a968-3a36c0a59f6f",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"91f9a7f4-0f4d-43bb-b564-0e8bcd56679a",
-			"fa700a59-bc55-4039-b320-a2d4ec25b32d"
+			"092435ff-990f-4e7d-9b74-0d4fd62ccec3",
+			"5604cec2-d952-4926-a7dc-a841b25638bf"
 		]
 	},
 	{
@@ -1423,10 +999,9 @@
 		"description": "De leerling verkent taal als systeem.",
 		"prefix": "6",
 		"id": "47646205-962c-4584-bde0-75610509a5eb",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"7277cd75-566e-4dcb-9086-e9379f42970c",
-			"838eb09e-0666-4e6a-ba8d-1df26bb00b70"
+			"e4e85b77-aa66-4cf1-8fb7-cd4f6594dcef",
+			"dc88d7ca-0439-4b44-bf4b-50a21f1d8b93"
 		]
 	},
 	{
@@ -1434,10 +1009,9 @@
 		"description": "De leerling verkent taal als systeem.",
 		"prefix": "6",
 		"id": "4f5d6f08-baab-4f66-b4b6-c706d8baebc4",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"fca436bf-1988-4fdc-a6fd-7bc87fdebbf7",
-			"4e193aaf-3325-4495-8371-e7d1cce8460c"
+			"d793a5a2-1291-48c2-af17-299421df1fe8",
+			"23c6d2a5-5898-4444-bbda-3c08c8822837"
 		]
 	},
 	{
@@ -1445,9 +1019,8 @@
 		"description": "De leerling verkent het gebruik van taal.",
 		"prefix": "7",
 		"id": "505fb18a-bdc2-4874-ac62-73015de75410",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"1c55976c-7e3c-4658-9b01-5557ebb46b84"
+			"6be43d99-bb3a-44bf-8b8f-1515caa3f32b"
 		]
 	},
 	{
@@ -1455,9 +1028,8 @@
 		"description": "De leerling verkent het gebruik van taal.",
 		"prefix": "7",
 		"id": "4c055ab2-95a9-4cc5-8914-25e64b0c90e8",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"27c0b6ff-339a-4335-ba4c-859469b40252"
+			"459c0846-95e6-425f-b5fe-0360d1dbae85"
 		]
 	},
 	{
@@ -1465,9 +1037,8 @@
 		"description": "De leerling verkent het gebruik van taal.",
 		"prefix": "7",
 		"id": "5690cfda-7059-4265-a8a8-a08e6d46417d",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"01ada9cf-586f-425e-b01b-d16d4909c3c4"
+			"c7722212-4b1d-44a8-b591-c9e3cf31cdd0"
 		]
 	},
 	{
@@ -1475,10 +1046,9 @@
 		"description": "De leerling doet ervaring op met literatuur.",
 		"prefix": "8",
 		"id": "9fe17ae3-baa5-490c-b90c-a70e07377369",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"1a6c3f41-f76d-419a-850c-7a4a9071ff88",
-			"6e65d06a-e919-4165-8e22-a98db5fb0d87"
+			"c3f1b696-c80b-4785-8beb-754ba2e94232",
+			"746cdc1b-4f3e-4be3-91a2-f71a08def56e"
 		]
 	},
 	{
@@ -1486,10 +1056,9 @@
 		"description": "De leerling doet ervaring op met literatuur.",
 		"prefix": "8",
 		"id": "e2d1ebf4-2e1d-472f-83a1-df91e69ab148",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"a0798be3-9352-491a-8a27-734489a717b9",
-			"43fff266-82a2-4998-bab7-914b8b9035cd"
+			"9f4cd962-52f4-464e-a710-088f7c8f1bd0",
+			"91e341f4-fa2c-495a-8fe8-f1235a10332a"
 		]
 	},
 	{
@@ -1497,10 +1066,9 @@
 		"description": "De leerling doet ervaring op met literatuur.",
 		"prefix": "8",
 		"id": "2ad4ce04-bbbb-45e0-bde2-601d2e432f3d",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"7e5457eb-22ee-4684-aede-94cb9b6ee8fd",
-			"f467fe1d-210b-4d4f-b65a-df8ff29c59f8"
+			"e56aa853-b671-441e-b22d-4a37def62911",
+			"33e588a8-28bd-4e5b-a241-d682e78a80a7"
 		]
 	},
 	{
@@ -1508,10 +1076,9 @@
 		"description": "De school stimuleert de taalcompetentie van leerlingen.",
 		"prefix": "1",
 		"id": "d69da729-c33b-4240-a785-64ecb9ea1ed4",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"efff8a4b-cbd5-4775-aa8f-0d3f98733e6b",
-			"9f550d27-58cf-4252-8b6b-ff8246c8eca6"
+			"1b25aa1b-39a1-4646-a3ad-7c07528df73a",
+			"af2a78fd-cfaf-476e-b513-dbe0c9e37bc7"
 		]
 	},
 	{
@@ -1519,10 +1086,9 @@
 		"description": "De school stimuleert de taalcompetentie van leerlingen.",
 		"prefix": "1",
 		"id": "cd30f08b-aba9-44f7-bf3b-11ae59958627",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"ef048d52-0a42-4dd1-a529-ca059c3572bf",
-			"51cea2c3-4e4c-443f-8975-3f4501a51af3"
+			"58e8f626-a45f-4396-b5b2-4ac1ec7c0e1c",
+			"ee177f17-7a35-4650-8a97-9b90cd83b612"
 		]
 	},
 	{
@@ -1530,11 +1096,10 @@
 		"description": "De leerling begrijpt teksten.",
 		"prefix": "2",
 		"id": "1b69bbbd-8ce7-449b-9388-75b78d4c4739",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"75ee36f1-4e54-48fa-8e0e-09bca848fa15",
-			"907bc4e8-3eb8-482f-8fc0-93bc33e50f62",
-			"733a1b9c-981a-4124-a47d-88c232c0b338"
+			"17c98367-0c9c-44aa-b760-45334fb554ea",
+			"0f227fee-9b55-4275-ae52-374868429ae3",
+			"32b7e67e-9729-43c0-8600-0ac13257d14f"
 		]
 	},
 	{
@@ -1542,11 +1107,10 @@
 		"description": "De leerling produceert teksten.",
 		"prefix": "3",
 		"id": "4ea09f23-3c5c-4701-88e1-f8be94b1fcee",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"be096fc3-d3c5-4b21-82df-0601b31c0ca2",
-			"a83b3a96-6312-4962-879e-f737337db8fb",
-			"64ccb673-e75c-4ef1-9274-311e7910bba4"
+			"ba035f53-09e0-4b36-b650-3fc09985efe8",
+			"48f22f52-a2bc-4cf5-a529-1e02011726b1",
+			"cb0c96d1-c8fd-4924-a554-0283a1989216"
 		]
 	},
 	{
@@ -1554,10 +1118,9 @@
 		"description": "De leerling voert gesprekken.",
 		"prefix": "4",
 		"id": "df1ef617-f5fe-45c2-b8c4-fcc72c46fdab",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"254caadd-5870-4458-9a11-ef71a0c69ce0",
-			"2744a98d-e0af-4127-bf97-37b3ea359a02"
+			"99cce504-e52e-4c52-8b60-f096ad446fc5",
+			"5abfe8c3-e2f9-4988-8ccf-8153fc7ab476"
 		]
 	},
 	{
@@ -1565,11 +1128,10 @@
 		"description": "De leerling begrijpt teksten.",
 		"prefix": "2",
 		"id": "c9307677-3c83-4288-8f21-059763ee3212",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"c6136156-dd19-4391-b4cf-544d6e15ce17",
-			"44c10504-afb2-4275-879c-bf840f7ef6e3",
-			"3c0fe5c0-92d5-4bb8-b444-b8c34f7d854b"
+			"eed72042-1f97-4e2a-839a-ae6a970fe60c",
+			"a7f8753e-2053-4b2e-a945-5fb0c15a3b64",
+			"af9d510d-77e1-40e5-abb0-461025406d95"
 		]
 	},
 	{
@@ -1577,11 +1139,10 @@
 		"description": "De leerling produceert teksten.",
 		"prefix": "3",
 		"id": "ca0a705d-afc6-478a-bc91-8d3e81a6e293",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"50ec048a-8295-413c-b3f9-18b14504a8af",
-			"4b8b8c36-9b85-4c23-98b2-9edc18da8de9",
-			"04afcc55-a280-4b92-a19a-c13b653c7381"
+			"ac010726-9dfd-4c00-acb3-eeb106d5e993",
+			"4b70ba96-edc5-4331-993a-16f3207e3e8a",
+			"405805cc-8e98-42e5-9469-6b8c85e0f845"
 		]
 	},
 	{
@@ -1589,10 +1150,9 @@
 		"description": "De leerling voert gesprekken.",
 		"prefix": "4",
 		"id": "ab134e78-18af-4243-853a-461d9d9ca0f4",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"70191486-92d4-4c68-9793-6602e6c29423",
-			"59c23efd-bdd7-43b0-ba0c-e518dca752a3"
+			"3d91009a-fcd8-467b-bda8-398ae6ed3472",
+			"9786cf08-b236-4f8e-a8fe-bd562591f20e"
 		]
 	},
 	{
@@ -1600,9 +1160,8 @@
 		"description": "De leerling ontwikkelt zich als bewuste taalgebruiker.",
 		"prefix": "5",
 		"id": "414ba76b-2fa7-4044-9ad1-f3c3a1ce41c6",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"f728de8c-1773-41d2-9439-53fd08fe7529"
+			"891a61c3-4b0a-40d6-8809-5c5a5d63c47f"
 		]
 	},
 	{
@@ -1610,9 +1169,8 @@
 		"description": "De leerling ontwikkelt zich als bewuste taalgebruiker.",
 		"prefix": "5",
 		"id": "dda56d77-acb8-4fe7-a7e3-4081ca3170d3",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"a6918da2-b58a-4452-b51c-10b03adee3d8"
+			"f9a75be3-be7e-46e2-9e09-97cc92984ed0"
 		]
 	},
 	{
@@ -1620,10 +1178,9 @@
 		"description": "De leerling toont inzicht in taal als systeem.",
 		"prefix": "6",
 		"id": "7482acb9-11cb-4378-aa2c-19df377007bf",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"21725a98-baa3-45c3-b8a5-ac3026ff35e2",
-			"886e4275-3b58-4b31-b639-b64934589013"
+			"a7f11d47-d2d0-41b1-832f-1e09a5ae9eee",
+			"c05ad3c6-8259-4b6d-939f-fb3109efe90c"
 		]
 	},
 	{
@@ -1631,10 +1188,9 @@
 		"description": "De leerling toont inzicht in taal als systeem.",
 		"prefix": "6",
 		"id": "b9c9aeae-4fd6-4185-9575-ab0379c0464d",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"0c5c554b-3901-44f8-aaa0-6e7b63caf5fc",
-			"0a247c35-3e9a-48b9-bebd-1ab6810c5b48",
+			"bb9e8fa3-f28f-4b34-a12b-38836b596fa0",
+			"6e0be871-db9b-4dcf-a14f-8432f7de65fd",
 			"7c3ff279-627b-4c59-86bb-6f82873467a5",
 			"ddc6526b-2ee8-40cc-9109-8fc03b4afeca"
 		]
@@ -1644,10 +1200,9 @@
 		"description": "De leerling verkent het gebruik van taal.",
 		"prefix": "7",
 		"id": "5df9ba0e-0381-4f88-892b-d738b7a291d2",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"275521aa-6b60-4558-ba1b-f65b0a9ba9ad",
-			"86df4812-465c-49af-83f6-1d3885326e47"
+			"a9278dc4-18e3-4f86-ae57-edf4c8c88350",
+			"6e6c1467-b873-4188-8136-b0bf1693a01e"
 		]
 	},
 	{
@@ -1655,10 +1210,9 @@
 		"description": "De leerling verkent het gebruik van taal.",
 		"prefix": "7",
 		"id": "ab3a106b-06ab-4659-8cba-5fba575ca430",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"68d3d4e0-b62d-4017-bcfd-f773dfc1773f",
-			"ea4f56f1-e2b4-471c-8146-daf144b3209c"
+			"76d5f24b-0ece-414e-b536-17ab9deecb3a",
+			"6aeb6b39-8a55-4830-b9c5-f6c62ab5e926"
 		]
 	},
 	{
@@ -1666,10 +1220,9 @@
 		"description": "De leerling doet ervaring op met literatuur.",
 		"prefix": "8",
 		"id": "34430f42-0732-49f0-b431-f5be4ee219a2",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"0081d62f-1e75-4835-b586-12d01ce252b9",
-			"3cb0cfa6-ab18-42d8-a8c1-902a0d2f2a6b"
+			"7b4b3110-ed7f-4065-b647-c954ef4aca6f",
+			"b97da69a-d86a-477d-9f91-ca3d93c317c8"
 		]
 	},
 	{
@@ -1677,10 +1230,9 @@
 		"description": "De leerling doet ervaring op met literatuur.",
 		"prefix": "8",
 		"id": "9ebc4ae7-b471-424d-9590-faf3f552717c",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"dd67bb77-033b-4e01-a8a6-08b75ea8a7ec",
-			"f98415bb-d833-4ffa-b74b-35a954783b9e"
+			"54206a1c-20f7-4e3b-82db-2856f98190ae",
+			"26022b7a-404c-403b-8260-82d4a85a4251"
 		]
 	},
 	{
@@ -1688,11 +1240,10 @@
 		"description": "De leerling toont inzicht in literatuur.",
 		"prefix": "9",
 		"id": "a748d090-0e8c-4949-99f6-35cd2d752409",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"0a6cd39a-020f-4449-8a0c-b283f1d271ff",
-			"b8a3149f-6eb4-4772-b48e-c06fcb9e7c42",
-			"f5e9675d-503f-4242-837f-33407b9a033e",
+			"5c8975c6-04c0-4197-b1fb-53572d8ac2b1",
+			"c91e6ae7-97fd-49a9-84ec-1c0de1620b4d",
+			"800f9f9d-bd69-43dc-ad29-d90764eee95a",
 			"192394e3-0974-4b5c-bf71-7bfe98c7315b"
 		]
 	},
@@ -1701,10 +1252,9 @@
 		"description": "De leerling toont inzicht in literatuur.",
 		"prefix": "9",
 		"id": "9defb182-ed17-4d99-9272-fa8d4c38a374",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"0d34ad1d-7ac7-4a1d-8d58-4188bccf7d17",
-			"19ba7c42-1e92-4b9f-9c9f-32e894b19af2"
+			"1f7661ed-5bb9-4178-b7af-4330e6af3675",
+			"7f6ab59a-8f98-4141-a009-a637565c8aa3"
 		]
 	},
 	{
@@ -1712,10 +1262,9 @@
 		"description": "De leerling werkt met getallen en verhoudingen.",
 		"prefix": "9",
 		"id": "166406c5-0a5f-479c-a306-a1b3f3b98be4",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"4b246ec4-1ed8-4c52-b43e-5ab6a1c0424e",
-			"fe1bfa69-3e07-4789-b59a-9dff4430d896"
+			"93175b0c-650e-49ca-b2cd-8422a110239c",
+			"789cc166-68eb-49f9-b7cd-f89dade3e60d"
 		]
 	},
 	{
@@ -1723,11 +1272,10 @@
 		"description": "De leerling hanteert grootheden en eenheden.",
 		"prefix": "10",
 		"id": "c026bcb6-7f92-45a0-8fc9-0e99b6763cca",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"41b01fca-a44f-4762-8132-a089cb0d435b",
-			"fcf77d53-51c9-4535-8887-16b687c12b35",
-			"f266670c-45e1-4dfc-95e4-a9109f1a98c3"
+			"d7d8fc63-44be-4196-8b57-2576840f6fae",
+			"ca8f9e9a-6b67-420e-9da8-60ad860a7d69",
+			"0e85004a-09b6-40ab-88b4-d23e30d817ef"
 		]
 	},
 	{
@@ -1735,9 +1283,8 @@
 		"description": "De leerling oriënteert zich op meetkundig handelen.",
 		"prefix": "11",
 		"id": "3638ab3d-6fcb-4ecf-b425-834ac8d31c18",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"5d08450f-5e0b-4b15-8bb3-e52e5b2e7331"
+			"2fca556f-50d2-4f5b-99f1-3976ff7ded5a"
 		]
 	},
 	{
@@ -1745,10 +1292,9 @@
 		"description": "De leerling werkt met getallen en verhoudingen.",
 		"prefix": "9",
 		"id": "eb27e77a-95cd-4a5e-b30a-80006d4295b9",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"19ebbd99-9658-4edc-862c-4a0117dd285f",
-			"2d0132b9-86ed-4b46-8c94-15f2259606c6"
+			"55f71c6d-e4b3-41af-919f-c809d5c7948b",
+			"2a1cd854-38be-4bf0-8838-caac92b9933a"
 		]
 	},
 	{
@@ -1756,11 +1302,10 @@
 		"description": "De leerling hanteert grootheden en eenheden.",
 		"prefix": "10",
 		"id": "6af26334-2bb3-4e77-a30b-9e9d0080bf44",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"780268c4-5efa-424a-ac71-de00633513fd",
-			"76e7421c-f92f-4f38-84d9-efc2e2f74fe5",
-			"20eade3b-f597-47b9-91c8-4b4cd78f685d"
+			"86785ca3-7a73-429f-ab97-8987f2b0ec07",
+			"4f04d646-5630-48b2-b7d9-d06a98ec9c1a",
+			"7d106da7-3a01-45ae-82e7-7dfa34d714fc"
 		]
 	},
 	{
@@ -1768,9 +1313,8 @@
 		"description": "De leerling toont inzicht bij meetkundig handelen.",
 		"prefix": "11",
 		"id": "9aafabf1-e758-4c93-a7da-ad2b170a5556",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"824219fb-9508-41e6-ae9c-e5a62d4afa30"
+			"897d807e-8ddd-4bfd-98dd-685f3effc445"
 		]
 	},
 	{
@@ -1778,10 +1322,9 @@
 		"description": "De leerling werkt met getallen en verhoudingen.",
 		"prefix": "9",
 		"id": "9edd8676-54ba-435c-9e76-e0686e7d4df5",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"e1fecc12-0bc2-4d7f-8987-4c6a8b7472dc",
-			"8fd8efe3-9501-44fa-a6d6-e00c6a457b12"
+			"f8f57387-a1bf-4a6e-b7e4-c003bdd1536c",
+			"99f47d20-a34e-475e-aa9c-e8a62f1a932f"
 		]
 	},
 	{
@@ -1789,11 +1332,10 @@
 		"description": "De leerling hanteert grootheden en eenheden.",
 		"prefix": "10",
 		"id": "9e090580-ec3c-4454-8dca-841c19693acd",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"afad66a0-7e6f-4304-b7e7-32f0bd0f6847",
-			"dd81a312-a583-41c0-b95c-e57378c4ac81",
-			"6378af10-b801-4930-958c-60b87a243d45"
+			"21282191-2c8b-4d4a-bc5e-570a07dd483c",
+			"4f2e05d1-0cd8-421e-8a0f-1a0cd77dfc8a",
+			"21d8e66b-b735-456e-9abb-deea026b346e"
 		]
 	},
 	{
@@ -1801,9 +1343,8 @@
 		"description": "De leerling oriënteert zich op meetkundig handelen.",
 		"prefix": "11",
 		"id": "5f75a3e4-40e2-4daa-b3e7-177524ae341b",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"0ae58e3e-d8b9-447a-b773-4f9a8c31e97f"
+			"e57e978f-e6b9-49a1-8249-8c1fc3f904a2"
 		]
 	},
 	{
@@ -1811,10 +1352,9 @@
 		"description": "De leerling gebruikt wiskundetaal en wiskundige representaties.",
 		"prefix": "12",
 		"id": "3a4ace9b-7a49-4a3e-ba9f-aef82a108d99",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"56346b00-a8db-472a-983e-0143021570b8",
-			"bdc74166-3003-4deb-b8d8-56a520569564"
+			"a74c1ee8-4e3d-46df-9d4e-bcd49c840ce0",
+			"55384529-06a5-4db3-99a5-28440ca5af0b"
 		]
 	},
 	{
@@ -1822,10 +1362,9 @@
 		"description": "De leerling gebruikt wiskundetaal en wiskundig gereedschap.",
 		"prefix": "12",
 		"id": "47d020c0-eb90-46ac-a550-435082596219",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"28d6dbbd-9b33-4bb8-bdbe-232c47f4d49a",
-			"0f4c919d-bca5-48f1-bf5e-477fb839697a"
+			"dca77e48-74aa-49af-9fb1-95e570ee2131",
+			"5a4d8d70-6e77-4f92-86c4-93991f7fd33d"
 		]
 	},
 	{
@@ -1833,10 +1372,9 @@
 		"description": "De leerling gebruikt wiskundetaal en wiskundig gereedschap.",
 		"prefix": "12",
 		"id": "60425e93-0dca-4124-a4f8-2c3c65afc799",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"126c04c7-3959-4bd7-83b0-8c4ba45026f3",
-			"11219833-a07d-407b-8f54-5beaf779d062"
+			"7f76cb44-d6ce-4af7-a303-672780e1ce8d",
+			"75cdc591-713f-4d9f-bb5b-934779f2b46b"
 		]
 	},
 	{
@@ -1844,10 +1382,9 @@
 		"description": "De leerling past wiskunde toe in bekende en nieuwe situaties.",
 		"prefix": "13",
 		"id": "23800d3e-26e4-4b7b-b27d-2f45c46523ee",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"d17bf839-dc4f-4de7-b416-12d11a5e0add",
-			"6dea5e47-abc5-40e0-b143-358174ce4db5"
+			"320ed551-2a3d-466f-bd81-68757dba58e8",
+			"adcae487-14c9-4901-b3d0-cc7e47a46868"
 		]
 	},
 	{
@@ -1855,9 +1392,8 @@
 		"description": "De leerling ontwikkelt een wiskundige attitude.",
 		"prefix": "14",
 		"id": "8f92aedf-c011-4170-ba44-85c268ed4ae7",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"052dd6d2-2732-42a1-b548-8d07a9d1687c"
+			"3ca4ae49-2c3f-4211-8684-a569840bc2d9"
 		]
 	},
 	{
@@ -1865,10 +1401,9 @@
 		"description": "De leerling past wiskunde toe in bekende en nieuwe situaties.",
 		"prefix": "13",
 		"id": "61c9241d-700d-4015-8d87-17ab57e0ea3b",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"41846d7e-ecb0-4a26-93fb-693a444bc4de",
-			"23f99b4d-a3b8-4c0b-a7b6-527036661256"
+			"adf0ca38-d138-445d-996f-aa9de0a97881",
+			"629e9866-5923-4b57-8fa6-9690e364c541"
 		]
 	},
 	{
@@ -1876,9 +1411,8 @@
 		"description": "De leerling ontwikkelt een wiskundige attitude.",
 		"prefix": "14",
 		"id": "f8a2fb6b-7a55-4b43-a8cf-d2d372a6f9bc",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"952009bc-60bc-4de9-8a19-a16aee78028f"
+			"2b13c8c6-b397-4173-931e-cbbf135d1c4b"
 		]
 	},
 	{
@@ -1886,10 +1420,9 @@
 		"description": "De leerling past wiskunde toe in bekende en nieuwe situaties.",
 		"prefix": "13",
 		"id": "f98b8fcf-7170-47d4-ab68-26e8c1475ca4",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"6957f96d-fc3f-44ee-8de6-e5f2a4089bd2",
-			"f77fe97a-e430-4d8f-b21c-f9d420d604dd"
+			"e73645b0-9077-4e34-858a-2b79fb6889f0",
+			"84894e52-dd1c-40f9-87c6-082dc77b672d"
 		]
 	},
 	{
@@ -1897,9 +1430,8 @@
 		"description": "De leerling ontwikkelt een wiskundige attitude.",
 		"prefix": "14",
 		"id": "4efd72fb-2709-42e0-b89c-7798e4af5f0b",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"a5aeb7a6-d580-4950-bbd3-b62da9d5a6b9"
+			"b8fd1c56-37f9-426a-a7b7-236e1f173957"
 		]
 	},
 	{
@@ -1907,11 +1439,10 @@
 		"description": "De leerling redeneert en rekent met getallen en verhoudingen.",
 		"prefix": "10",
 		"id": "2a05ac0f-aa0c-4326-8c7c-d790a1b12f78",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"a93af3e3-91f0-49ee-8e28-42fb57daf454",
-			"da74e273-b43e-40d5-8e74-74cd4758ca62",
-			"afd82083-0658-472a-a516-b278b569c30c"
+			"2ac23de5-ec8a-4336-9530-542799448aac",
+			"f10da158-bbba-46a6-b216-0a5db502e848",
+			"d4d29589-c020-4b79-a4a2-252931354e26"
 		]
 	},
 	{
@@ -1919,9 +1450,8 @@
 		"description": "De leerling toont inzicht bij het handelen met grootheden en eenheden.",
 		"prefix": "11",
 		"id": "32272c47-3d2a-44ee-9a70-36d6ddbcdee0",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"038bf3e2-c920-430b-8c0a-ccbf820b7c55"
+			"60a26188-ef9a-4253-b2d9-cb49e51cffe3"
 		]
 	},
 	{
@@ -1929,9 +1459,8 @@
 		"description": "De leerling toont inzicht bij meetkundig handelen.",
 		"prefix": "14",
 		"id": "f9abe225-a56f-4bc9-bcc7-fe0ac000c350",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"3440792f-6cce-4f11-88d7-1c4ea5688665"
+			"4320521d-326e-49b9-a421-933f669e8869"
 		]
 	},
 	{
@@ -1939,9 +1468,8 @@
 		"description": "De leerling toont inzicht bij meetkundig handelen.",
 		"prefix": "13",
 		"id": "e44c3a79-7157-4176-b64e-41f017ebc60c",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"3089168f-c571-43d4-8ccc-4587fa3094d7"
+			"4d87b29a-1e16-41bd-b621-f4bf814ab677"
 		]
 	},
 	{
@@ -1949,9 +1477,8 @@
 		"description": "De leerling interpreteert data.",
 		"prefix": "12",
 		"id": "f75972c3-49ce-4efe-a6fd-9c2022807242",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"56596b75-b0da-4d54-b5cb-2778b26a16a7"
+			"14c7ec8f-e26e-46bd-bb72-685f0ea58cdc"
 		]
 	},
 	{
@@ -1959,10 +1486,9 @@
 		"description": "De leerling interpreteert data en kansen.",
 		"prefix": "11",
 		"id": "336ae851-042f-4407-b5cf-7672591fc250",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"9dbb4295-a30b-45fa-82da-a62ae1a09916",
-			"33766238-41bd-46d5-8462-15075b1e330f"
+			"d1bcf5d4-d10b-4812-9bb2-a70ebe3bae70",
+			"7bff986a-e0de-4588-afe3-32a7a4232448"
 		]
 	},
 	{
@@ -1970,9 +1496,8 @@
 		"description": "De leerling toont inzicht in patronen en verbanden.",
 		"prefix": "13",
 		"id": "70723a66-9276-4c57-8dda-d2510d69d8c4",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"65649cd4-ad64-4187-942c-d82792c3d7d3"
+			"9db5de3c-4aaa-4dc3-9a06-329215f749c5"
 		]
 	},
 	{
@@ -1980,9 +1505,8 @@
 		"description": "De leerling toont inzicht in patronen en verbanden.",
 		"prefix": "12",
 		"id": "6910602f-f216-4485-a0ec-94b05499a1fe",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"87ea652f-c267-46b9-b1d0-ffb27248abc0"
+			"586f725c-501b-440c-b6dd-911d343d1e87"
 		]
 	},
 	{
@@ -1990,11 +1514,10 @@
 		"description": "De leerling redeneert en rekent met getallen, grootheden en vergelijkingen.",
 		"prefix": "10",
 		"id": "6d5c2bc1-bed3-4586-8e15-b53753003f1c",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"f3992bb7-8658-4ff1-9317-dccd8603d9cf",
-			"bbd09b8c-1618-4c7c-baf9-34b206a6cf7f",
-			"f1c491e6-16f5-45c5-a28a-44654d660085"
+			"c5284964-a481-4c4c-9994-865c0503b4e8",
+			"316af825-bbc2-4a06-ae13-a75aa67945ed",
+			"5729f22c-ab3e-40c2-83e2-4bdd153f1f1b"
 		]
 	},
 	{
@@ -2002,11 +1525,10 @@
 		"description": "De leerling gebruikt wiskundige denk-werkwijzen.",
 		"prefix": "15",
 		"id": "19865b3a-fc4d-4f29-9990-66a51b44d280",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"69cef2c4-e2db-4dfb-b002-e7d711fd6aa8",
-			"4e99fb88-c09c-4de7-b062-d2e1671a879b",
-			"f365f2b8-601f-4d46-9243-542bd2e0cfce"
+			"53dbb1be-fdc7-46ca-b2a3-5b29ed049c54",
+			"62366893-3c5b-4813-8f9d-d636f7eb3bd5",
+			"1867abab-ebd7-487c-a314-374c8c49bea3"
 		]
 	},
 	{
@@ -2014,11 +1536,10 @@
 		"description": "De leerling gebruikt wiskundige denk-werkwijzen.",
 		"prefix": "14",
 		"id": "91b09b7e-c51e-4edf-b782-958e9618025c",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"c9e39d4f-dc31-4931-b15a-f46a74eb17f1",
-			"70083e6d-ec38-4cf1-8a56-a9c0610ab177",
-			"3f2a764a-3055-4128-80e1-763476691bdf"
+			"0dc24290-93f9-4e62-bb57-42b0b4115f99",
+			"93ec2eb3-a3fb-498c-a1bd-5fde46ab1f2d",
+			"c6e926ed-106c-49ee-948b-73983f24ceb2"
 		]
 	},
 	{
@@ -2026,10 +1547,9 @@
 		"description": "De leerling gebruikt wiskundetaal en wiskundig gereedschap.",
 		"prefix": "16",
 		"id": "b5418274-f8b8-4dec-b189-f5cea42e4691",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"6cabfbd4-c370-47fb-9144-776e7bf4cd5f",
-			"b071f771-aae1-4438-9661-85d53ac885d8"
+			"a2f20e58-a4d7-4d3d-b07a-1236fc3be835",
+			"1789773d-efe3-4790-b92a-82d83280a022"
 		]
 	},
 	{
@@ -2037,11 +1557,10 @@
 		"description": "De leerling gebruikt wiksunde taal en wiskundig gereedschap.",
 		"prefix": "15",
 		"id": "03d7766d-1da5-43c4-9b59-47181707f914",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"0956691b-5ed5-4c1f-a952-58e16b07ad5d",
-			"62a0730b-8c50-43f7-a6cd-3342d0c0607f",
-			"ff4483c9-86da-4de8-8661-b4d4801ebbcf"
+			"ec593299-b61c-4c1f-aaa2-ff269791162f",
+			"c945543a-cce7-4585-bf12-00efdbfc7d2f",
+			"15fdd4ea-68c7-4629-ac7a-67c2fd7e02ff"
 		]
 	},
 	{
@@ -2049,9 +1568,8 @@
 		"description": "De leerling ontwikkelt een wiskundige attitude.",
 		"prefix": "17",
 		"id": "43644b59-40cf-4bb7-8270-3fbcdd4b9947",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"561469ee-a769-4997-bc6e-e38335eaaf0a"
+			"231a0c4a-933b-4ebf-97eb-ef0d3f163259"
 		]
 	},
 	{
@@ -2059,9 +1577,8 @@
 		"description": "De leerling ontwikkelt een wiskundige attitude.",
 		"prefix": "16",
 		"id": "a839d7a9-a3d3-41f8-ba12-9125dfac5ca7",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"e0253abd-e528-42c3-8970-2d337901f02d"
+			"5975c0ed-0d30-4c8b-979a-ed1d28511e7e"
 		]
 	},
 	{
@@ -2069,10 +1586,9 @@
 		"description": "De leerling past wiskunde toe in bekende en nieuwe situaties.",
 		"prefix": "18",
 		"id": "46420f39-bdda-4516-ac2e-26d574de443c",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"bb06ac58-b4c5-4dd6-b75f-50941ffb2380",
-			"2c960103-654f-4c08-b9de-88e496443f2b"
+			"db4c745a-b0f8-45c5-b753-63bc3af2a3ac",
+			"66ff33bc-8241-49db-b91b-d0e454ce25f1"
 		]
 	},
 	{
@@ -2080,10 +1596,9 @@
 		"description": "De leerling past wiskunde toe in bekende en nieuwe situaties.",
 		"prefix": "17",
 		"id": "f5f96657-37f1-4a49-a8e8-83df0e631d0a",
-		"unreleased": true,
 		"fo_doelzin_id": [
-			"347fe2cf-3c24-4502-8111-b811cd981675",
-			"174c361a-a20b-478c-8aef-774b6b229723"
+			"26645d14-4eec-4724-94c7-5d4a89de5fe9",
+			"e0d575ab-bed4-40d2-adb0-e8fe0a634da9"
 		]
 	}
 ]
