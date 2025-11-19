@@ -28,7 +28,7 @@
 							]
 						},
 						"karakteristiek": { "type": "string" },
-						"soort": { "type": "string",   "enum": ["kerndoelenset", "examenprogramma"]	},
+						"soort": { "type": "string",   "enum": ["functionele kerndoelenset", "kerndoelenset", "examenprogramma"]	},
 						"status": { "type": "string", "enum": [ "concept", "definitief concept", "definitief" ] }
 					},
 					"required": ["id", "title", "vakleergebied_id", "fo_domein_id", "status"]
