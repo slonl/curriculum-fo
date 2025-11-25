@@ -1600,5 +1600,742 @@
 			"26645d14-4eec-4724-94c7-5d4a89de5fe9",
 			"e0d575ab-bed4-40d2-adb0-e8fe0a634da9"
 		]
+	},
+	{
+		"title": "Kerndoel 18",
+		"description": "De leerling zet digitale technologie en digitale media in.",
+		"prefix": "18",
+		"id": "7e4abff8-ed83-4e2e-be18-606d49a43f2c",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"3f8675f4-36cb-465c-802c-82c85a9d2c7d",
+			"52b4e5fc-606d-4cc1-b733-df681d041451",
+			"97c178f2-b9ac-468c-9c7b-4ea4daae2223"
+		]
+	},
+	{
+		"title": "Kerndoel 18",
+		"description": "De leerling zet digitale technologie en digitale media in.",
+		"prefix": "18",
+		"id": "e3e70716-d7c9-4394-9b32-bdd1b1a02b05",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"7aef327a-610d-498a-a3d7-41ed5a34441c",
+			"78124e98-91d7-4877-938a-1b5c976272bb",
+			"5bcfbad3-c144-4b61-8293-640b495b802d"
+		]
+	},
+	{
+		"title": "Kerndoel 18",
+		"description": "De leerling zet digitale technologie en digitale media in.",
+		"prefix": "18",
+		"id": "1f9d7bab-22f3-4133-94a5-02ade20ea3a3",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"2b05f446-695d-44ec-bb51-3594398655a5",
+			"488044e2-8090-42b3-bb32-23342ce61b9b",
+			"b98b4b72-3cb9-424e-bc20-7f6f4bb1a627"
+		]
+	},
+	{
+		"title": "Kerndoel 19",
+		"description": "De leerling creëert met digitale technologie.",
+		"prefix": "19",
+		"id": "5a12f220-cdaf-48b5-8ed6-021f3ad0c3a4",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"815d6523-c4ca-419b-b8c2-180321f24fea"
+		]
+	},
+	{
+		"title": "Kerndoel 19",
+		"description": "De leerling creëert met digitale technologie.",
+		"prefix": "19",
+		"id": "28a1e1a3-3ca9-439e-93f7-ef69c9d3237d",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"bc98fb0d-238a-448e-b13d-79cc88ad9539"
+		]
+	},
+	{
+		"title": "Kerndoel 19",
+		"description": "De leerling creëert met digitale technologie.",
+		"prefix": "19",
+		"id": "c446d13b-d3f0-4213-a04f-d843380b34db",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"db5a88d5-a33b-42b2-b014-4168932c3242"
+		]
+	},
+	{
+		"title": "Kerndoel 20",
+		"description": "De leerling participeert in de gedigitaliseerde wereld.",
+		"prefix": "20",
+		"id": "272435ee-a09a-4d7d-b1b8-82ebba1538b9",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"53ec4cda-a586-4f3f-a96c-e4793d5ab1be",
+			"ec1253c0-1b12-4ace-b625-54d52319b9a6",
+			"8d9dda35-064a-4879-8180-5a86892bb571"
+		]
+	},
+	{
+		"title": "Kerndoel 20",
+		"description": "De leerling participeert in de gedigitaliseerde wereld.",
+		"prefix": "20",
+		"id": "2a528c60-eab4-4c47-a898-660aaa23c111",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"7268c2d8-6827-4064-add2-c43bb683114d"
+		]
+	},
+	{
+		"title": "Kerndoel 20",
+		"description": "De leerling participeert in de gedigitaliseerde wereld.",
+		"prefix": "20",
+		"id": "46c1ea57-9d69-43f8-ad4e-8e3ccfffc9fa",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"4a8fb1ee-e87b-400b-85f3-a291d0cdd30f",
+			"e7fe6898-734b-4e16-beb2-5a0c06b59c68"
+		]
+	},
+	{
+		"title": "Kerndoel 15",
+		"description": "De school stimuleert sociale en maatschappelijke competenties van leerlingen.",
+		"prefix": "15",
+		"id": "e7080f4c-38b0-4979-82a7-47e3f96fafb2",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"924c9638-724e-4a2f-bdad-5072c2114386",
+			"6f84dd27-2849-4830-b0bf-ea50e179e649"
+		]
+	},
+	{
+		"title": "Kerndoel 15",
+		"description": "De school stimuleert sociale en maatschappelijke competenties van leerlingen.",
+		"prefix": "15",
+		"id": "6f544178-75ba-486d-88d1-c96d3bed0de2",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"d241086b-2bca-48a3-bc91-853b20f5666d",
+			"2b642cc9-bfdf-408e-85e0-e35c270e6076",
+			"148c4b6f-a4ae-4238-be51-fab2d2b02d0a"
+		]
+	},
+	{
+		"title": "Kerndoel 15",
+		"description": "De school stimuleert sociale en maatschappelijke competenties van leerlingen.",
+		"prefix": "15",
+		"id": "ca3a4125-43cf-4618-bd64-f46734182e31",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"df417d9e-d82f-411a-a923-fd54898870fa"
+		]
+	},
+	{
+		"title": "Kerndoel 16",
+		"description": "De leerling doet ervaringen op met samenleven in een democratische rechtsstaat.",
+		"prefix": "16",
+		"id": "6d1aa3b6-44bb-4516-a338-2c055bcacc77",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"1d9419d0-f51e-4249-bacc-b9cc4c29da29"
+		]
+	},
+	{
+		"title": "Kerndoel 16",
+		"description": "De leerling doet ervaringen op met samenleven in een democratische rechtsstaat.",
+		"prefix": "16",
+		"id": "e9a3cb8e-451a-4189-994f-a6eff39468bd",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"bb9b8f58-bd1a-4881-b4a4-c02042776e16"
+		]
+	},
+	{
+		"title": "Kerndoel 16",
+		"description": "De leerling doet ervaringen op met samenleven in een democratische rechtsstaat.",
+		"prefix": "16",
+		"id": "4bd8fd09-2654-4820-bf02-568237dc0f97",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"75e1037e-68f5-4e2b-a62c-9932d3f07183"
+		]
+	},
+	{
+		"title": "Kerndoel 17",
+		"description": "De leerling doet ervaringen op met democratische en maatschappelijke betrokkenheid.",
+		"prefix": "17",
+		"id": "2add5a8c-aff9-4e0c-a108-f5b3cbe638dc",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"e7519670-5377-4e62-a6a9-2e2c4bedd7f1",
+			"31a7c910-de70-4d8b-b0a7-0b51b8a41b84"
+		]
+	},
+	{
+		"title": "Kerndoel 17",
+		"description": "De leerling doet ervaringen op met democratische en maatschappelijke betrokkenheid.",
+		"prefix": "17",
+		"id": "df1abbcb-7111-4ed4-9796-fa707e1b9ef1",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"6a29e925-5889-4f74-b197-a264169d6b32",
+			"a80aea46-a727-4f06-b310-50ff269f4b69"
+		]
+	},
+	{
+		"title": "Kerndoel 17",
+		"description": "De leerling doet ervaringen op met democratische en maatschappelijke betrokkenheid.",
+		"prefix": "17",
+		"id": "136bf4e6-7b15-498d-8277-27891c5ba156",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"46726e35-35e0-4b71-94dd-a65e3108f201",
+			"be72f415-84b0-41f7-bca3-9ad19d5a623a"
+		]
+	},
+	{
+		"title": "Kerndoel 43",
+		"description": "De leerling ontwikkelt zich in het bewegen.",
+		"prefix": "43",
+		"id": "61415383-2f6d-459a-bec7-9a72f7441718",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"f9689b0a-d205-44b6-88d0-e3f23dbb3905",
+			"6f81a25a-2e08-498c-aa34-14468abff15d",
+			"b5f56bef-b811-44fb-a201-7da3732f82d7"
+		]
+	},
+	{
+		"title": "Kerndoel 38",
+		"description": "De leerling ontwikkelt zich in het bewegen.",
+		"prefix": "38",
+		"id": "44a64ee5-b1a4-4782-9109-397d995df7a8",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"fb8625e4-5f55-4796-be23-7d4bf8307daf",
+			"3924d4c8-b6a5-4e66-80bb-99685029d0a3",
+			"e4b86f17-481f-4918-9711-a0bf5dda80df"
+		]
+	},
+	{
+		"title": "Kerndoel 44",
+		"description": "De leerling beweegt samen met anderen.",
+		"prefix": "44",
+		"id": "91c24565-ebe4-40b5-830f-38db2d2a3bbd",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"8d31fcbb-35b3-4fc7-8b77-9599e9737a3d",
+			"4161ab46-84d7-4d10-9b1a-76d434ecebcf"
+		]
+	},
+	{
+		"title": "Kerndoel 39",
+		"description": "De leerling beweegt samen met anderen.",
+		"prefix": "39",
+		"id": "70dcbcba-949e-4a18-afcc-fc84aa449214",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"9342db03-133c-469f-b3e7-7551ca131807",
+			"863e84f8-d8bd-4864-81cc-41075ec924fa"
+		]
+	},
+	{
+		"title": "Kerndoel 45",
+		"description": "De leerling geeft betekenis aan bewegen.",
+		"prefix": "45",
+		"id": "b0b31d92-f166-4553-8c16-28819c1065b2",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"2e7ef048-5de6-42ca-8da1-7ebe2041ebaf",
+			"e79e11ed-d305-4b0d-b5d7-51c2adcb7bdb"
+		]
+	},
+	{
+		"title": "Kerndoel 40",
+		"description": "De leerling geeft betekenis aan bewegen.",
+		"prefix": "40",
+		"id": "80cbc578-0659-46f2-82c9-577c00a2a771",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"bc35daa8-4a5c-4b8e-8cc2-11242b78971e",
+			"dffbb218-facb-4cc7-b8c6-1e1686919df5"
+		]
+	},
+	{
+		"title": "Kerndoel 25",
+		"description": "De leerling onderzoekt vraagstukken over mens en samenleving",
+		"prefix": "25",
+		"id": "d858cba5-a941-4b29-b621-325a357c526e",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"a4231d58-cf40-4e86-8e1e-4a37601dbf76",
+			"51b3db48-3ee2-47b8-9290-496b62c8158d",
+			"5f5dffd7-8e27-4441-b53c-5e10098e4bd0"
+		]
+	},
+	{
+		"title": "Kerndoel 24",
+		"description": "De leerling onderzoekt vraagstukken over mens en samenleving",
+		"prefix": "24",
+		"id": "d68634e7-1358-466d-91a1-d1a5b157bcee",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"2ae2e35f-7aa9-4be3-9ec8-b76c88644930",
+			"384cf39d-a302-4710-83ba-9f19f0d56041",
+			"477d5de7-b178-4fe7-95dd-bfcc3178e082"
+		]
+	},
+	{
+		"title": "Kerndoel 26",
+		"description": "De leerling verkent geografische verschijnselen.",
+		"prefix": "26",
+		"id": "cfbdbea5-7508-4242-9865-bd716e74ab05",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"c02deabd-5f8e-44b3-bf45-cae76f51f40d",
+			"40e9d283-d8f0-44f1-ae90-768341aebae3"
+		]
+	},
+	{
+		"title": "Kerndoel 25",
+		"description": "De leerling onderzoekt geografische verschijnselen.",
+		"prefix": "25",
+		"id": "6e3d6f76-fed1-4ac7-a50e-df061915bd32",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"504a415b-4b12-432b-9828-51def2ecafa3",
+			"a38389e9-dd1d-4c97-b6c8-75a55d706136",
+			"40f4247d-94e1-435b-a774-f5bcce0e75f4"
+		]
+	},
+	{
+		"title": "Kerndoel 27",
+		"description": "De leerling verkent historische verschijnselen.",
+		"prefix": "27",
+		"id": "2caed994-851e-45eb-9913-acd235cdd1ff",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"3c7eb063-b985-4b27-b245-14b8370ed61c",
+			"178c6e25-138c-45d2-8f6f-1d8fd11bec0b",
+			"b8f90f42-698d-41ac-9ac2-c886e61ec0c7"
+		]
+	},
+	{
+		"title": "Kerndoel 26",
+		"description": "De leerling onderzoekt historische verschijnselen.",
+		"prefix": "26",
+		"id": "4b5f9e98-2774-4a59-b331-900ea635bd30",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"cefa9998-cadf-4ce8-a152-2e7e7d8d85b8",
+			"2cd093a3-df1a-4fa7-8c72-7884b2ba241f",
+			"c5f155c0-dfe2-40ed-b1e3-ae9b6ab94d6c"
+		]
+	},
+	{
+		"title": "Kerndoel 28",
+		"description": "De leerling verkent hoe mensen met elkaar samenleven.",
+		"prefix": "28",
+		"id": "31a4b578-9139-4009-afd6-00745d6233d1",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"03407b63-b280-41e0-affb-beebc99df4f8",
+			"1873f42c-c1eb-4165-b172-3c8906e88e14",
+			"e63b719d-9766-4e84-9390-dd4aa9d08285",
+			"47cffe7f-ff19-4a81-9afa-afe3a9fd0baf",
+			"ec7feba9-c175-420c-82a3-bebcdf31eaf6"
+		]
+	},
+	{
+		"title": "Kerndoel 28",
+		"description": "De leerling onderzoekt hoe mensen met elkaar samenleven.",
+		"prefix": "28",
+		"id": "bcc1e033-b7a7-4485-8ebb-e2fa900c158c",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"be18a17f-4e2a-4166-a32b-9ba82f9a3abc",
+			"ef2073cf-b9a0-4d69-8931-b836c0b792c2",
+			"7f2db297-a9b6-427a-94ea-78c6cd8ff84d",
+			"2ba49b4c-cf88-47bf-b47c-79a49fdc6aa3"
+		]
+	},
+	{
+		"title": "Kerndoel 27",
+		"description": "De leerling onderzoekt economische verschijnselen",
+		"prefix": "27",
+		"id": "781541a8-32ac-4569-bbb8-fcefed92f3c5",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"265cb401-b3cc-4b38-baa9-ce7acb1c9e12",
+			"ceae4274-e812-4997-809f-9b9f4eba8c56"
+		]
+	},
+	{
+		"title": "Kerndoel 29",
+		"description": "De leerling verkent de wereld vanuit een natuurwetenschappelijk en technologisch perspectief.",
+		"prefix": "29",
+		"id": "01970202-ebba-4cc1-81ce-1b37ef9524d5",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"d0db4ad0-eeab-47c4-bd29-df74cf9b5d4b",
+			"3b3c2814-72e5-48e9-9a3e-c9e6d68f18f1",
+			"564c3d7a-6f2b-4feb-b51b-06eaa2378f46",
+			"ed26465f-edee-4084-84f6-b6c3fe644a8a"
+		]
+	},
+	{
+		"title": "Kerndoel 29",
+		"description": "De leerling verkent en verklaart de wereld vanuit natuurwetenschappelijk en technologisch perspectief.",
+		"prefix": "29",
+		"id": "f8094d7b-f45d-421d-b551-bafcc4039cab",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"5420e18f-5af8-44b9-8fb7-dd35765ca578",
+			"6900d60b-039b-451b-abfb-104fe3c6afe7",
+			"a3a767ae-ef04-4ec3-bd99-ef1b726998fe",
+			"a3725b07-1860-450e-b4f8-eb8bd3cf2c39",
+			"1a8ca46d-f6a1-460a-8c34-e0df9faee019"
+		]
+	},
+	{
+		"title": "Kerndoel 30",
+		"description": "De leerling toont inzicht in en experimenteert met natuurverschijnselen en technische systemen.",
+		"prefix": "30",
+		"id": "fc5fe6a9-5b81-411c-867f-8da52c919fcc",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"7ed3a4c6-104b-4a46-80fe-ded283441fcd",
+			"ec24bd1d-e095-4bda-ae30-970a625c90ef",
+			"a50ab69e-35c2-4cdf-b9cf-7b4496e0a31d"
+		]
+	},
+	{
+		"title": "Kerndoel 31",
+		"description": "De leerling toont inzicht in en experimenteert met materie, processen en circulaire productie.",
+		"prefix": "31",
+		"id": "c31a9633-362f-43c6-bbb5-76fda0c3d08d",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"8bf22b05-5772-43a7-aa64-03c7d2347e7e",
+			"34850dd9-ea27-4ea1-991d-c37c98083f49"
+		]
+	},
+	{
+		"title": "Kerndoel 31",
+		"description": "De leerling toont inzicht in organismen en hun gezondheid.",
+		"prefix": "31",
+		"id": "32b54914-04f1-4ff2-af67-eb8549a5d6d3",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"985f0789-764e-436d-91d6-0d9d0f10b465",
+			"40b1c0ec-d44e-4c1d-8443-7233997dd77c"
+		]
+	},
+	{
+		"title": "Kerndoel 32",
+		"description": "De leerling toont inzicht in en verkent systeem aarde.",
+		"prefix": "32",
+		"id": "52278a69-d6ba-4df6-9bf8-66635743e521",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"4cbc7f87-05a5-4a3b-acb8-dbd007219e10",
+			"c9175a22-1e71-4b92-94e8-cf7ac1e67a4b",
+			"36ad7c27-0819-4814-bfad-82aa70c1f93d"
+		]
+	},
+	{
+		"title": "Kerndoel 33",
+		"description": "De leerling toont inzicht in en verkent systeem aarde.",
+		"prefix": "33",
+		"id": "64dc2933-0d4a-4c3b-b157-05bf73f33eb2",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"db076b26-56f4-4cdd-af6b-1df601d1a47b",
+			"79215913-b207-4f10-8f5c-175f2d65c421",
+			"eefaf09e-bb9f-44a6-b1fc-6ffa3f7acc09"
+		]
+	},
+	{
+		"title": "Kerndoel 40",
+		"description": "De leerling ontwikkelt artistiek creatief vermogen.",
+		"prefix": "40",
+		"id": "51469884-c69f-4631-9528-69b2916796e5",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"f2c2cfb9-3787-45ba-b661-1b19ad88fa9b",
+			"ffff442d-5d4e-4f97-a085-617d802d78be",
+			"f8fb026a-475f-4efc-9563-8e9acd38831b"
+		]
+	},
+	{
+		"title": "Kerndoel 35",
+		"description": "De leerling ontwikkelt artistiek creatief vermogen.",
+		"prefix": "35",
+		"id": "0a5fc301-25a3-437d-bfb6-cb141208460f",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"55310e67-b502-4ee1-b903-0fd82d3a8b22",
+			"b36b1d58-8706-4727-8628-f382e5e67248",
+			"437f238c-a29c-4fdb-a4ab-bacca4a49dad"
+		]
+	},
+	{
+		"title": "Kerndoel 41",
+		"description": "De leerling maakt kunstzinnige uitingen.",
+		"prefix": "41",
+		"id": "d9a98672-6cbe-4276-800c-d8f36d24fd2b",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"fcb86037-9679-4c73-9a90-0184e7a20d8d",
+			"23538f9c-f178-498a-95f7-9a8ce6163692"
+		]
+	},
+	{
+		"title": "Kerndoel 36",
+		"description": "De leerling maakt kunstzinnige uitingen.",
+		"prefix": "36",
+		"id": "e813f065-f97c-43ff-b224-994973339d63",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"d62cf582-2b54-4b64-bcce-6bb6653277b6",
+			"de4af16f-2f35-419b-8819-f90e1f3ab861"
+		]
+	},
+	{
+		"title": "Kerndoel 42",
+		"description": "De leerling maakt kunst en cultuur mee.",
+		"prefix": "42",
+		"id": "9cc8f3d9-a0fb-4ff4-9cb6-4c18b713025f",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"532b7b91-78f8-4bea-a6c1-2853d8a1f3bd",
+			"78eed018-5f18-4bc2-92d3-a16ee7e31aa6"
+		]
+	},
+	{
+		"title": "Kerndoel 37",
+		"description": "De leerling maakt kunst en cultuur mee.",
+		"prefix": "37",
+		"id": "dfc79bcf-68d5-4def-a6fd-45fe54ecb4a9",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"10a19dd3-ae85-482c-8d27-c1eb6b473be0",
+			"586a0cfa-86cd-4cbd-afff-162ee0428059"
+		]
+	},
+	{
+		"title": "Kerndoel 1",
+		"description": "De school zorgt voor een rijke Friestalige taal- en leeromgeving",
+		"prefix": "1",
+		"id": "91f72431-0558-4405-a828-fa2fcf1d0e43",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"9ffca565-fe8d-419d-b264-5be9ca43a968",
+			"d70c6250-02c1-42f3-9259-4fb8bbda1ad8"
+		]
+	},
+	{
+		"title": "Kerndoel 1",
+		"description": "De school zorgt voor een rijke Friestalige taal- en leeromgeving",
+		"prefix": "1",
+		"id": "feefae89-38a5-4eb8-a5a8-a7a1642c6c77",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"ec7e79ad-43ad-473e-80e0-a5318690add1",
+			"572bb2af-ef68-4667-8cf8-1346f647fbeb"
+		]
+	},
+	{
+		"title": "Kerndoel 2",
+		"description": "De leerling gebruikt de Friese taal",
+		"prefix": "2",
+		"id": "539f16c5-29e0-45e8-83e7-72efada2f385",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"a34554f3-117b-4621-8fb7-949c8d55a2ad",
+			"876bfa30-a7a0-4138-b081-fb4b8f05ef1d",
+			"0682659a-53ca-4e5d-8ab9-25d9b3f9cb07",
+			"ecb43a4c-9ec6-41c8-bf94-2220fe3945ff"
+		]
+	},
+	{
+		"title": "Kerndoel 2",
+		"description": "De leerling gebruikt de Friese taal",
+		"prefix": "2",
+		"id": "fd4cc41e-c781-4cde-80e7-a6c11de8f5e4",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"1d39c78a-8ff2-4525-851e-628b3230a8a1",
+			"1196a95a-a764-43c8-a5b4-34aed902c871",
+			"b7e5fb70-8ed3-4cf6-9ecd-c166ca970e04",
+			"b90ad5d4-2a04-45e1-a9be-f302d48344c6"
+		]
+	},
+	{
+		"title": "Kerndoel 3",
+		"description": "De leerling ontwikkelt zich als bewuste gebruiker van het Fries.",
+		"prefix": "3",
+		"id": "e787e067-f84a-4dec-a16b-ef631cfa479e",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"cf076a94-2ead-42f1-9550-ba6b9b95e57c",
+			"46982f10-6717-4df6-9942-7d8d5d7239af",
+			"13ece6a8-666c-4405-bc43-40dcd225c9ee"
+		]
+	},
+	{
+		"title": "Kerndoel 3",
+		"description": "De leerling ontwikkelt zich als bewuste gebruiker van het Fries.",
+		"prefix": "3",
+		"id": "af333c2c-c23e-41e1-8a86-cc370dc8a2db",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"a11ae368-bed5-4406-bb05-f51b18f2de45",
+			"52332ad2-9ce6-44a4-b503-495b44e28ea8",
+			"97928c66-4744-423b-b0b6-ae162978e7bc"
+		]
+	},
+	{
+		"title": "Kerndoel 4",
+		"description": "De leerling doet ervaring op met Friese taalexpressie",
+		"prefix": "4",
+		"id": "710a4500-a3d3-4c1e-a3d1-9f5ea71958cd",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"d575da35-d36c-4c69-9f47-cd160767b687",
+			"2b72feb1-6177-42a0-8ba4-a3fc90691725"
+		]
+	},
+	{
+		"title": "Kerndoel 4",
+		"description": "De leerling doet ervaring op met Friese taalexpressie.",
+		"prefix": "4",
+		"id": "55af854a-12d7-459a-bec7-f7bde0b76667",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"adb99726-8424-415b-9de7-3297c2de3aff",
+			"8ef14cde-c7fb-4cab-ab80-8dba45cbf1b4"
+		]
+	},
+	{
+		"title": "Kerndoel 5",
+		"description": "De leerling ontwikkelt zich als bewuste deelnemer aan de Friese cultuur.",
+		"prefix": "5",
+		"id": "5b988b3c-a5f7-4fe6-a4f5-9d9bb637ad59",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"938a06b0-f35a-41c6-a3a1-5b59b4896f83"
+		]
+	},
+	{
+		"title": "Kerndoel 5",
+		"description": "De leerling ontwikkelt zich als bewuste deelnemer aan de Friese cultuur.",
+		"prefix": "5",
+		"id": "c42c5913-79ea-4382-95a7-57305e45b211",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"a695dc1f-bf25-4a6b-83a6-23dfcdd0556f",
+			"2e208672-89f8-40a1-9902-7f41136e9b6c"
+		]
+	},
+	{
+		"title": "Kerndoel 33",
+		"description": "De leerling communiceert in het Engels.",
+		"prefix": "33",
+		"id": "a1c128e3-a6b2-486a-9761-74b600b2b8d3",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"708b6901-7e04-46bf-b7b2-452f3b03299e",
+			"ae9c2112-82ff-4605-840c-7c2f86bfa1ae",
+			"78df41b7-c29f-4d3a-abb2-c9aaaa7c849b"
+		]
+	},
+	{
+		"title": "Kerndoel 34",
+		"description": "De leerling gebruikt de Engelse taal in rijke en betekenisvolle contexten.",
+		"prefix": "34",
+		"id": "aba78fd0-4fba-47ec-8e76-cee4a91977f7",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"4c9d522c-e83e-4e5e-b57a-34beb10017ea",
+			"4096fc80-7be9-4d26-b30a-e1cca438d72e",
+			"a722c8a4-f536-49e7-b415-7ae7f312ecc7"
+		]
+	},
+	{
+		"title": "Kerndoel 35",
+		"description": "De leerling communiceert in het Engels.",
+		"prefix": "35",
+		"id": "4c48ac91-fbac-40b5-8a80-944f1a52b3b0",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"b4a3ee93-d5fd-4fe1-b795-1c56b8ddc33a",
+			"9f877ba2-66be-4998-84f9-39e2d1bbd300",
+			"24b35a8d-1434-4d42-82a3-086682b0f280",
+			"05f96f7c-3f46-4368-9c29-ae9435afbb0d"
+		]
+	},
+	{
+		"title": "Kerndoel 34",
+		"description": "De leerling ontwikkelt zich als taal- en cultuurbewuste gebruiker van de Engelse taal.",
+		"prefix": "34",
+		"id": "fb2bb689-b912-474d-9902-60d912fb3656",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"0e083c54-fe91-46f1-9425-ad5fed25d738",
+			"5c3cfbbc-f0d2-4d01-aff4-4ea7dbef43e7"
+		]
+	},
+	{
+		"title": "Kerndoel 36",
+		"description": "De leerling ontwikkelt zich als taal- en cultuurbewuste gebruiker van de Engelse taal.",
+		"prefix": "36",
+		"id": "86ab20f0-abfc-4330-aee5-6b04be9ed64b",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"935be364-473c-4371-961d-e96617486a54",
+			"39957922-536d-45cd-97b6-3d63efb7d46b",
+			"094512c7-3a68-497d-99a0-4e16965e617e"
+		]
+	},
+	{
+		"title": "Kerdoel 37",
+		"description": "De leerling gebruikt de […..] taal in rijke en betekenisvolle contexten.",
+		"prefix": "37",
+		"id": "56a737ce-592f-4b51-94bd-f8b7fb6c5647",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"420411cd-379e-4326-9294-8b20b4506e32",
+			"f453e509-64c6-4540-8910-0b0ae8ea53c7",
+			"2fe23a82-58cc-4521-b33d-6e1da3ee7381"
+		]
+	},
+	{
+		"title": "Kerndoel 38",
+		"description": "De leerling communiceert in de [….] taal.",
+		"prefix": "38",
+		"id": "b736cb9a-b408-4466-a763-a5f934c42126",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"e2e763d0-d4cb-46e2-b76f-f3534b416e36",
+			"04800e93-1fac-44ed-90a2-05e87a83e69e",
+			"3f2f28fa-0f14-4750-b904-930e75e37722",
+			"53d43e53-20d5-4d8f-8d04-1dce3f1e7e1c"
+		]
+	},
+	{
+		"title": "Kerndoel 39",
+		"description": "De leerling ontwikkelt zich als taal- en cultuurbewuste gebruiker van de [….] taal",
+		"prefix": "39",
+		"id": "44a0ff09-ff0f-4722-a022-8791346b3462",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"551b2867-6ecb-473f-9947-624931524fe8",
+			"76111cbe-4a2f-4f6c-befd-116d2b660135",
+			"e71876cf-e206-4560-9095-14b66152282c"
+		]
 	}
 ]
