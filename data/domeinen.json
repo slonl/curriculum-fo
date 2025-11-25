@@ -531,18 +531,6 @@
 		"description": "Domein: natuurwetenschappen en technologie",
 		"prefix": "A",
 		"id": "e1bedb2f-4564-4971-97a4-dcef04fadb2b",
-		"fo_doelzin_id": [
-			"d0db4ad0-eeab-47c4-bd29-df74cf9b5d4b",
-			"3b3c2814-72e5-48e9-9a3e-c9e6d68f18f1",
-			"564c3d7a-6f2b-4feb-b51b-06eaa2378f46",
-			"ed26465f-edee-4084-84f6-b6c3fe644a8a",
-			"5420e18f-5af8-44b9-8fb7-dd35765ca578",
-			"6900d60b-039b-451b-abfb-104fe3c6afe7",
-			"a3a767ae-ef04-4ec3-bd99-ef1b726998fe",
-			"a3725b07-1860-450e-b4f8-eb8bd3cf2c39",
-			"1a8ca46d-f6a1-460a-8c34-e0df9faee019",
-			"f14e8b81-6920-4e50-b0c8-4ba44d0baf42"
-		],
 		"replaces": [
 			"5f4b6d59-7bd0-4a2b-aa40-e9ec0641cd3d"
 		],
@@ -557,9 +545,6 @@
 		"description": "Domein: natuurkundige en scheikundige verschijnselen en technische systemen",
 		"prefix": "B",
 		"id": "d1e11024-e112-49e8-bd43-87b3f3ea64cd",
-		"fo_doelzin_id": [
-			"0e2d6b55-90b3-4722-ada9-166a43935efc"
-		],
 		"replaces": [
 			"bd908d39-4932-4770-b1df-932e3707bcbe"
 		],
@@ -573,10 +558,6 @@
 		"description": "Domein: organismen en gezondheid",
 		"prefix": "C",
 		"id": "a0bda578-e75d-4cee-a189-8c2f6b62c890",
-		"fo_doelzin_id": [
-			"43d86de9-d0bf-4edc-8247-44bef95a608d",
-			"3a844f7d-b503-4954-8169-ded27bb475ef"
-		],
 		"replaces": [
 			"5cb26617-92ff-4b36-96d6-b490d16b65f9"
 		],
@@ -590,13 +571,6 @@
 		"description": "Domein: systeem aarde",
 		"prefix": "D",
 		"id": "7a495049-96e7-46df-b864-b1e3f77fcc90",
-		"fo_doelzin_id": [
-			"4cbc7f87-05a5-4a3b-acb8-dbd007219e10",
-			"c9175a22-1e71-4b92-94e8-cf7ac1e67a4b",
-			"db076b26-56f4-4cdd-af6b-1df601d1a47b",
-			"79215913-b207-4f10-8f5c-175f2d65c421",
-			"eefaf09e-bb9f-44a6-b1fc-6ffa3f7acc09"
-		],
 		"replaces": [
 			"b323fdd3-af39-433b-bc87-be84af58330d"
 		],
@@ -625,12 +599,6 @@
 		"description": "Domein: vraagstukken en perspectieven",
 		"prefix": "A",
 		"id": "b7a99a8c-1bd5-401b-a136-1237c1048ca0",
-		"fo_doelzin_id": [
-			"a4231d58-cf40-4e86-8e1e-4a37601dbf76",
-			"51b3db48-3ee2-47b8-9290-496b62c8158d",
-			"2ae2e35f-7aa9-4be3-9ec8-b76c88644930",
-			"384cf39d-a302-4710-83ba-9f19f0d56041"
-		],
 		"replaces": [
 			"afbf24c3-b799-423a-bac8-9ea25c238b2d"
 		],
@@ -645,13 +613,6 @@
 		"description": "Domein: mens en ruimte",
 		"prefix": "B",
 		"id": "be919c66-d06d-476f-951e-8a74737b64db",
-		"fo_doelzin_id": [
-			"c02deabd-5f8e-44b3-bf45-cae76f51f40d",
-			"40e9d283-d8f0-44f1-ae90-768341aebae3",
-			"504a415b-4b12-432b-9828-51def2ecafa3",
-			"a38389e9-dd1d-4c97-b6c8-75a55d706136",
-			"40f4247d-94e1-435b-a774-f5bcce0e75f4"
-		],
 		"replaces": [
 			"41c487ce-7179-4b94-9096-e5638bcc6dfb"
 		],
@@ -666,14 +627,6 @@
 		"description": "Domein: mens en tijd",
 		"prefix": "C",
 		"id": "9f9b4b8d-0f2b-437a-9c0d-0fd256594d91",
-		"fo_doelzin_id": [
-			"3c7eb063-b985-4b27-b245-14b8370ed61c",
-			"178c6e25-138c-45d2-8f6f-1d8fd11bec0b",
-			"b8f90f42-698d-41ac-9ac2-c886e61ec0c7",
-			"cefa9998-cadf-4ce8-a152-2e7e7d8d85b8",
-			"2cd093a3-df1a-4fa7-8c72-7884b2ba241f",
-			"c5f155c0-dfe2-40ed-b1e3-ae9b6ab94d6c"
-		],
 		"replaces": [
 			"4b4463ee-0f28-429d-b2d4-97b4034dec98"
 		],
@@ -688,16 +641,6 @@
 		"description": "Domein: mens en samenleving",
 		"prefix": "D",
 		"id": "9994db7e-4d90-4bc4-8451-5e325b3a3592",
-		"fo_doelzin_id": [
-			"03407b63-b280-41e0-affb-beebc99df4f8",
-			"1873f42c-c1eb-4165-b172-3c8906e88e14",
-			"e63b719d-9766-4e84-9390-dd4aa9d08285",
-			"be18a17f-4e2a-4166-a32b-9ba82f9a3abc",
-			"265cb401-b3cc-4b38-baa9-ce7acb1c9e12",
-			"ceae4274-e812-4997-809f-9b9f4eba8c56",
-			"ef2073cf-b9a0-4d69-8931-b836c0b792c2",
-			"7f2db297-a9b6-427a-94ea-78c6cd8ff84d"
-		],
 		"replaces": [
 			"c995dd24-17ae-4168-8a4a-542e4c1878bf"
 		],
@@ -726,18 +669,6 @@
 		"description": "Domein: communicatie",
 		"prefix": "A",
 		"id": "967e5d45-0a36-4f21-a344-2b762e20e739",
-		"fo_doelzin_id": [
-			"708b6901-7e04-46bf-b7b2-452f3b03299e",
-			"ae9c2112-82ff-4605-840c-7c2f86bfa1ae",
-			"78df41b7-c29f-4d3a-abb2-c9aaaa7c849b",
-			"4c9d522c-e83e-4e5e-b57a-34beb10017ea",
-			"b4a3ee93-d5fd-4fe1-b795-1c56b8ddc33a",
-			"9f877ba2-66be-4998-84f9-39e2d1bbd300",
-			"24b35a8d-1434-4d42-82a3-086682b0f280",
-			"05f96f7c-3f46-4368-9c29-ae9435afbb0d",
-			"a722c8a4-f536-49e7-b415-7ae7f312ecc7",
-			"4096fc80-7be9-4d26-b30a-e1cca438d72e"
-		],
 		"replaces": [
 			"f2f8de98-779e-4c8b-81ea-02feca16e84d"
 		],
@@ -753,13 +684,6 @@
 		"description": "Taal en cultuurbewustzijn Engels",
 		"prefix": "B",
 		"id": "40cf07c2-a7f6-41f0-8440-d8667823aebd",
-		"fo_doelzin_id": [
-			"0e083c54-fe91-46f1-9425-ad5fed25d738",
-			"5c3cfbbc-f0d2-4d01-aff4-4ea7dbef43e7",
-			"935be364-473c-4371-961d-e96617486a54",
-			"39957922-536d-45cd-97b6-3d63efb7d46b",
-			"094512c7-3a68-497d-99a0-4e16965e617e"
-		],
 		"replaces": [
 			"a1b570fc-07a5-41a4-8b68-ba0108b9067c"
 		],
@@ -774,15 +698,6 @@
 		"description": "Domein: communicatie",
 		"prefix": "A",
 		"id": "8d666ccd-fd32-41be-ad28-545968b5964e",
-		"fo_doelzin_id": [
-			"976cb419-53d2-4e1b-8a0b-e375f46f2d7e",
-			"6a4c8775-68ee-440d-8c60-b9aefabe764e",
-			"129adb3d-6fe8-4381-9bbb-5c85c5053ca2",
-			"47485121-9fd9-4e37-91f3-b3c17ccdfc6b",
-			"fa61e1db-48b4-4a52-98cb-98c67db1bf68",
-			"e7f43894-ca6b-49d7-920c-6a6907df3f7e",
-			"684662bf-b29f-4784-876b-ea17cea76527"
-		],
 		"replaces": [
 			"d2412550-d944-4d05-a76d-5838315f4517"
 		],
@@ -797,11 +712,6 @@
 		"description": "Taal- en cultuurbewustzijn",
 		"prefix": "B",
 		"id": "c3a97d2c-2b04-46c0-ae85-4abb56cd414a",
-		"fo_doelzin_id": [
-			"080a301b-95b8-4a06-9022-5c6afb67dc47",
-			"4c886fd6-92a0-41dc-8cde-86f7ed2eccbe",
-			"144bf86f-40b5-4824-8afb-0d5642cdacdf"
-		],
 		"replaces": [
 			"9f660c97-c0b3-4274-82e2-57f64c89f4c2"
 		],
@@ -815,14 +725,6 @@
 		"description": "domein: artistiek creatief vermogen",
 		"prefix": "A",
 		"id": "85da172c-39b1-42aa-9862-a9f05086a2d1",
-		"fo_doelzin_id": [
-			"f2c2cfb9-3787-45ba-b661-1b19ad88fa9b",
-			"ffff442d-5d4e-4f97-a085-617d802d78be",
-			"f8fb026a-475f-4efc-9563-8e9acd38831b",
-			"55310e67-b502-4ee1-b903-0fd82d3a8b22",
-			"b36b1d58-8706-4727-8628-f382e5e67248",
-			"437f238c-a29c-4fdb-a4ab-bacca4a49dad"
-		],
 		"replaces": [
 			"19fe37be-ca8b-4ed6-a774-fdf97adb6ebc"
 		],
@@ -837,12 +739,6 @@
 		"description": "Domein: maken en betekenis geven",
 		"prefix": "B",
 		"id": "14c244fc-11e1-40de-a7ee-8214fbcb71cb",
-		"fo_doelzin_id": [
-			"fcb86037-9679-4c73-9a90-0184e7a20d8d",
-			"23538f9c-f178-498a-95f7-9a8ce6163692",
-			"d62cf582-2b54-4b64-bcce-6bb6653277b6",
-			"de4af16f-2f35-419b-8819-f90e1f3ab861"
-		],
 		"replaces": [
 			"60902cee-1326-47de-93da-9c27ddc2d5f9"
 		],
@@ -857,12 +753,6 @@
 		"description": "Domein: meemaken en betekenis geven",
 		"prefix": "C",
 		"id": "c9799d7e-57ec-41d8-9d01-1a8a011804b6",
-		"fo_doelzin_id": [
-			"532b7b91-78f8-4bea-a6c1-2853d8a1f3bd",
-			"78eed018-5f18-4bc2-92d3-a16ee7e31aa6",
-			"10a19dd3-ae85-482c-8d27-c1eb6b473be0",
-			"586a0cfa-86cd-4cbd-afff-162ee0428059"
-		],
 		"replaces": [
 			"4de7b7a4-940c-44eb-8540-718f1056214a"
 		],
@@ -877,12 +767,6 @@
 		"description": "Domein: leren bewegen",
 		"prefix": "A",
 		"id": "74fa3be1-8877-42be-b230-8021af5e8576",
-		"fo_doelzin_id": [
-			"f9689b0a-d205-44b6-88d0-e3f23dbb3905",
-			"6f81a25a-2e08-498c-aa34-14468abff15d",
-			"fb8625e4-5f55-4796-be23-7d4bf8307daf",
-			"3924d4c8-b6a5-4e66-80bb-99685029d0a3"
-		],
 		"replaces": [
 			"923d91fe-49ed-44ed-8bd4-78c56cfc9456"
 		],
@@ -897,14 +781,6 @@
 		"description": "Domein: samen bewegen",
 		"prefix": "B",
 		"id": "3207b265-4c83-4a54-84c8-aa28b1476bc1",
-		"fo_doelzin_id": [
-			"b5f56bef-b811-44fb-a201-7da3732f82d7",
-			"e4b86f17-481f-4918-9711-a0bf5dda80df",
-			"8d31fcbb-35b3-4fc7-8b77-9599e9737a3d",
-			"4161ab46-84d7-4d10-9b1a-76d434ecebcf",
-			"9342db03-133c-469f-b3e7-7551ca131807",
-			"863e84f8-d8bd-4864-81cc-41075ec924fa"
-		],
 		"replaces": [
 			"c062b9a9-b225-426f-acc5-34b7e3b3a774"
 		],
@@ -919,12 +795,6 @@
 		"description": "Domein: betrokken bewegen",
 		"prefix": "C",
 		"id": "bec51ecf-0015-4bd4-b05a-ec6fb7221cc2",
-		"fo_doelzin_id": [
-			"2e7ef048-5de6-42ca-8da1-7ebe2041ebaf",
-			"e79e11ed-d305-4b0d-b5d7-51c2adcb7bdb",
-			"bc35daa8-4a5c-4b8e-8cc2-11242b78971e",
-			"dffbb218-facb-4cc7-b8c6-1e1686919df5"
-		],
 		"replaces": [
 			"e80d62da-4992-4090-a7e5-47144423ff47"
 		],
