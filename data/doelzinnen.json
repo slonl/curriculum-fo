@@ -2883,7 +2883,8 @@
 			"07db6975-fa13-466e-b8f0-b0b8df629ae5",
 			"96353fa0-7754-45b9-bc29-f4139a0dc412"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Doelzin 6D",
@@ -2896,7 +2897,8 @@
 			"a00ca5ec-c656-42be-95b4-d73a0d204562",
 			"aa286794-db56-42b9-a498-99621de789a5"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Doelzin 9D",
@@ -2910,7 +2912,8 @@
 			"21724e2c-74d5-478f-9ae5-d47f9fc82514",
 			"991f15dc-32c6-4cae-a73b-4e0fb303a717"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Doelzin 22A",
@@ -2931,7 +2934,8 @@
 			"2775b544-b044-461d-a583-0e687193ff81",
 			"170712c0-d30b-469e-9f76-0ea4528ec547"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Doelzin 1A",
@@ -3350,7 +3354,8 @@
 			"ef09ea9f-7919-411a-a1bd-c2beb55dc37f",
 			"6859aca7-225a-4d22-aada-ced8ebdfe85a"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Doelzin 1B",
@@ -3362,7 +3367,8 @@
 			"7d12748a-727f-49df-a4ee-80cbd8c75ae5",
 			"23c0e050-783a-429b-938a-3defd0442309"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Doelzin 1A",
@@ -3376,7 +3382,8 @@
 			"38c54ac3-8d96-4025-a25c-2479e7e8dccc",
 			"c0e1d014-7419-4c65-a81e-2c307d544000"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Doelzin 1B",
@@ -3388,7 +3395,8 @@
 			"81311631-b519-45a0-8050-e4485e4759d6",
 			"c2dd8946-eec0-4062-9c9a-f9a384da97bf"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Doelzin 1B",
@@ -3401,7 +3409,8 @@
 			"168bb942-beab-4565-a2ca-8ddc550f5e66",
 			"ed8444b8-6e5f-40e0-91ac-0b5940628993"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Doelzin 1A",
@@ -3415,7 +3424,8 @@
 			"4e93b99b-3ec6-4a95-bf84-023be59911cd",
 			"b9450e00-81e6-4cbc-8dce-03c3ecc0e596"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Doelzin 2A",
@@ -3428,7 +3438,8 @@
 			"ec856b5c-9082-4843-acb2-7784de3792e9",
 			"f3062db1-19a5-49f3-9db3-dd7c8f4e82a5"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Doelzin 2B",
@@ -3440,7 +3451,8 @@
 			"c54e9087-9028-457e-8a03-47d88a98aedf",
 			"645987a0-bea1-4e09-8b07-73a8d18c3368"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Doelzin 2A",
@@ -3453,7 +3465,8 @@
 			"ae159439-6133-4c1a-9f99-1dbaa0eb5ffe",
 			"4ebc8307-aaf9-4c34-9a41-25060b912b41"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Doelzin 2B",
@@ -3465,7 +3478,8 @@
 			"a23e0335-0597-492b-a047-c837a0be03a2",
 			"fcda61d0-0238-456f-8f1b-df9175d541c3"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Doelzin 2A",
@@ -3479,7 +3493,8 @@
 			"14f5aa9e-8df8-4915-adca-280a2c219dcd",
 			"26ccf366-7034-417b-b2c5-02c4379c9ace"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Doelzin 2B",
@@ -3491,7 +3506,8 @@
 			"b09fdad1-6d8b-477e-a125-857aab64986c",
 			"a8349d0d-913e-402c-b1a9-6f049d4305dd"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Doelzin 3A",
@@ -3509,7 +3525,8 @@
 			"8d85de41-77bf-4aa4-8e6a-9d1cd86bb216",
 			"1cdfb78d-82d9-428f-a222-80e737968732"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Eindterm 12",
@@ -4827,7 +4844,8 @@
 		],
 		"replaces": [
 			"0ed7e779-7884-4848-9bec-89e51dfcf572"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "De leerling analyseert en redeneert over patronen en verbanden.",
@@ -5471,7 +5489,8 @@
 		],
 		"replaces": [
 			"263bcf20-8f1d-4f29-937f-f2eaafd10e33"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "De leerling ontwikkelt een eigen leesvoorkeur.",
@@ -5576,7 +5595,8 @@
 		],
 		"replaces": [
 			"6291da2d-3568-4f3b-8a61-8b496b166f9e"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Doelzin 22A",
@@ -6083,7 +6103,8 @@
 		],
 		"replaces": [
 			"5bfce5e1-39ee-4d11-a6aa-4f9afc01304d"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Kerndoel 2 - Diversiteit",
@@ -6107,7 +6128,8 @@
 		],
 		"replaces": [
 			"88670244-4eb0-4ee1-8596-a172b52398b2"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Kerndoel 3 - Democratische waarden",
@@ -6132,7 +6154,8 @@
 		],
 		"replaces": [
 			"934cd26c-62dd-46fa-b414-f6c1933e28be"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Kerndoel 5 - Democratische betrokkenheid",
@@ -6156,7 +6179,8 @@
 		],
 		"replaces": [
 			"a5fdc9c4-76ff-465b-8bdb-7742eb1136d7"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Kerndoel 6 - Maatschappelijke vraagstukken",
@@ -6180,7 +6204,8 @@
 		],
 		"replaces": [
 			"ed240ba9-189a-4cfa-83be-bd86078991ab"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Kerndoel 1 - Schoolcultuur (aanbodsdoel)",
@@ -6205,7 +6230,8 @@
 		],
 		"replaces": [
 			"b92ca11e-20d2-4fe9-96bd-c0b50aa0530c"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Kerndoel 2 - Diversiteit",
@@ -6232,7 +6258,8 @@
 		],
 		"replaces": [
 			"54078705-71d5-455f-af75-8b0a480e5840"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Kerndoel 3 - Democratische waarden",
@@ -6258,7 +6285,8 @@
 		],
 		"replaces": [
 			"7aa961fe-25ec-463d-ab02-e77102b9de13"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Kerndoel 5 - Democratische betrokkenheid",
@@ -6284,7 +6312,8 @@
 		],
 		"replaces": [
 			"a6a3b0ab-993d-42c6-9b49-40e21dfc7e0d"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Kerndoel 6 - Maatschappelijke vraagstukken",
@@ -6311,7 +6340,8 @@
 		],
 		"replaces": [
 			"4edc1d48-6f87-4d59-be84-e1647b1d65ae"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Kerndoel 3 - Begrijpend luisteren, lezen en/of kijken",
@@ -6332,7 +6362,8 @@
 		],
 		"replaces": [
 			"9561782a-e1ca-442c-86c0-a0eec8cdae2f"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Doelzin 3A",
@@ -6409,7 +6440,8 @@
 		],
 		"replaces": [
 			"1467bb9c-0fd1-44c5-a364-06df8dbcb19e"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Doelzin 3B",
@@ -8583,7 +8615,8 @@
 		],
 		"replaces": [
 			"e13e8526-9128-4b4b-b6de-8f1ae024460f"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Doelzin 30A - Technische systemen",
@@ -8849,7 +8882,8 @@
 		"replaces": [
 			"88499f75-d66d-4017-9709-534a9da3f586"
 		],
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"title": "Doelzin 31A - Organismen",
@@ -8976,7 +9010,8 @@
 		"replaces": [
 			"9e9576ce-51f1-4182-ae95-0ff05a24632c"
 		],
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"title": "Kerndoel 17 - Ecosystemen",
@@ -9003,7 +9038,8 @@
 		"replaces": [
 			"5c55d517-213c-45c8-9e5e-9ef0af355c01"
 		],
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"title": "Doelzin 32A - Aarde",
@@ -10497,7 +10533,8 @@
 		"replaces": [
 			"25febcf1-4656-40ec-8d02-399bf7c2fd92"
 		],
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"title": "Doelzin 38D Schriftelijke communicatie",
@@ -10530,7 +10567,8 @@
 		"replaces": [
 			"159366d8-a9ce-4ac5-b803-0dcc1f743402"
 		],
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"title": "Kerndoel 6 Doelgerichte informatieverwerving (set 1)",
@@ -10555,7 +10593,8 @@
 		"replaces": [
 			"4b30821b-32fc-45ba-8e87-d09290ac7aef"
 		],
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"title": "Kerndoel 7 Creatieve expressie (set 1)",
@@ -10579,7 +10618,8 @@
 		"replaces": [
 			"023ad4e6-08ad-46b4-bdc0-14d900c0c293"
 		],
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"title": "Kerndoel 1 Ervaringen met rijk taalaanbod (set 2)",
@@ -10599,7 +10639,8 @@
 		"replaces": [
 			"294f65be-eecf-4577-9f33-136b212f68b2"
 		],
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"title": "Doelzin 38A - Kijk- en luistervaardigheid",
@@ -10752,7 +10793,8 @@
 		"replaces": [
 			"08ae46a7-ee9a-40b4-8c2f-def968469dc5"
 		],
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"title": "Kerndoel 7 Creatieve expressie (set 2)",
@@ -10776,7 +10818,8 @@
 		"replaces": [
 			"dc9c72db-ee58-42b8-884f-321b88c0b67a"
 		],
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"title": "Doelzin 39A Taalleerproces en meertaligheid",
@@ -10885,7 +10928,8 @@
 		"replaces": [
 			"787f9acc-983e-4cbe-96bb-4b083a7273f7"
 		],
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"title": "Kerndoel 9 Cultuurgebonden aspecten en culturele diversiteit (set 2)",
@@ -10911,7 +10955,8 @@
 		"replaces": [
 			"a90e9b4e-657d-45b4-973a-51a4c1f1a333"
 		],
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"title": "Kerndoel 10 Interculturele communicatieve competentie (set 2)",
@@ -10941,7 +10986,8 @@
 		"replaces": [
 			"617fbc32-0077-41ae-93ed-ffcf98ea1ee4"
 		],
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"title": "Doelzin 40A - Creatieve maak- en denkstrategieën",
