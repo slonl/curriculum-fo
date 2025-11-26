@@ -8697,9 +8697,9 @@
 		"dirty": true
 	},
 	{
-		"title": "Kerndoel 7 - Technische systemen",
+		"title": "Doelzin 30A - Technische systemen",
 		"description": "De leerling toont inzicht in en experimenteert met voorwerpen en technische systemen.",
-		"prefix": "7",
+		"prefix": "30A",
 		"soort": "kerndoel",
 		"id": "fac27b1a-c08d-4adb-bc7d-e6a7cf6b5536",
 		"fo_uitwerking_id": [
@@ -8709,7 +8709,7 @@
 			"e0a3369c-46df-4b21-9fe5-f995e9935f4f",
 			"16933988-886a-434e-b35e-ad5113f40573"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"96c92559-d329-47f9-a62d-f09aa0866a30",
 			"0645fa7f-42b2-4123-9f60-96af292a82d2",
@@ -8720,12 +8720,12 @@
 		"replaces": [
 			"2173e636-f9a8-4d42-8dce-6b2df47f7815"
 		],
-		"deleted": true
+		"dirty": true
 	},
 	{
-		"title": "Kerndoel 8 - Deeltjes",
-		"description": "De leerling toont inzicht in deeltjes, faseovergangen, scheidingsmethoden en chemische reacties en experimenteert met deze verschijnselen en methoden.",
-		"prefix": "8",
+		"title": "Doelzin 30B - Krachten",
+		"description": "De leerling toont inzicht in en experimenteert met krachten en beweging.",
+		"prefix": "30B",
 		"soort": "kerndoel",
 		"id": "6cd8693d-31c2-49dc-a5de-404064530a00",
 		"fo_uitwerking_id": [
@@ -8733,9 +8733,10 @@
 			"32c29f29-1786-4dd5-8322-02bc83ea4355",
 			"599617ba-a56d-44b1-95b4-cdffad8db985",
 			"1c6866d2-b264-40f8-9299-db7803cc4956",
-			"08d31fc1-93fa-4185-bcaf-dc4c11e7f4ac"
+			"08d31fc1-93fa-4185-bcaf-dc4c11e7f4ac",
+			"b0def06e-2f24-4966-a9a4-5f2b6603c3fd"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"615c67e2-eb4e-48d7-b7ad-5213a17dabc0",
 			"f30fc34c-a622-48df-9d6d-11266ce0b196",
@@ -8746,12 +8747,12 @@
 		"replaces": [
 			"1bd2083d-64cd-417f-9da4-e785f420449f"
 		],
-		"deleted": true
+		"dirty": true
 	},
 	{
-		"title": "Kerndoel 9 - Reacties",
-		"description": "De leerling toont inzicht in verloop van chemische processen en productieketens en verkent impact van deze op de omgeving.",
-		"prefix": "9",
+		"title": "Doelzin 30C - Energie",
+		"description": "De leerling toont inzicht in elektrische schakelingen en energiesystemen, en experimenteert met elektrische schakelingen",
+		"prefix": "30C",
 		"soort": "kerndoel",
 		"id": "ba32fa79-f7f8-43b3-a9b2-4c7cc66daf31",
 		"fo_uitwerking_id": [
@@ -8759,9 +8760,10 @@
 			"7552919f-63b5-431e-acfa-79b7909f9880",
 			"50899f83-9abb-4baa-83c7-e282f40a1889",
 			"757ca7a4-49df-45fe-94b7-89bdc0f803a4",
-			"a5cecd7e-f879-41d7-8c13-c896f3a54a4c"
+			"a5cecd7e-f879-41d7-8c13-c896f3a54a4c",
+			"d93fe299-4583-4591-bf7d-377dbf20a896"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"5945d36a-48e3-4da6-b3c4-2a26eff58f35",
 			"6601469b-10fa-46e6-8974-58184d3fbbdb",
@@ -8771,12 +8773,12 @@
 		"replaces": [
 			"5b80dc2d-4912-4dca-9c52-26185a0be30d"
 		],
-		"deleted": true
+		"dirty": true
 	},
 	{
-		"title": "Kerndoel 10 - Bouw van materie",
-		"description": "De leerling toont inzicht in modellen over deeltjes en materie en hoe deze leiden tot nieuwe inzichten.",
-		"prefix": "10",
+		"title": "Doelzin 30D - Licht (havo-vwo)",
+		"description": "De leerling verklaart optische verschijnselen vanuit eigenschappen van licht",
+		"prefix": "30D",
 		"soort": "kerndoel",
 		"id": "3e70f0af-a6d0-4f4d-a0f2-1c68cfe932c2",
 		"fo_uitwerking_id": [
@@ -8786,7 +8788,7 @@
 			"725881ea-a821-452d-86f0-64fa9a3598e5",
 			"5612c529-db5e-495e-a509-2d57fa77fa8c"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"ad7563ab-dd46-4156-be91-c7fb57bce9b3",
 			"adc1e76a-5564-405a-a556-ef900e7a2b1f",
@@ -8797,7 +8799,7 @@
 		"replaces": [
 			"042ec037-dffb-4f09-995e-1cf9d57b977e"
 		],
-		"deleted": true
+		"dirty": true
 	},
 	{
 		"title": "Doelzin 31A - Deeltjes",
@@ -8937,9 +8939,9 @@
 		"dirty": true
 	},
 	{
-		"title": "Kerndoel 14 - Organismen",
-		"description": "De leerling toont inzicht in de bouw, werking en gebruik van bacteriën, schimmels, planten en dieren en verkent de diversiteit aan organismen.",
-		"prefix": "14",
+		"title": "Doelzin 32A - Organismen",
+		"description": "De leerling toont inzicht in de bouw, werking en het gebruik van bacteriën, schimmels, planten en dieren en verkent de diversiteit aan organismen.",
+		"prefix": "32A",
 		"soort": "kerndoel",
 		"id": "ce3601c4-df80-428f-856a-c35666b4e2b0",
 		"fo_uitwerking_id": [
@@ -8949,7 +8951,7 @@
 			"9b8dda6e-2fe9-499b-8161-e198edabd676",
 			"2fdc748a-430e-4115-97cd-f1b24f9d757c"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"978591c5-ed74-464c-bb24-94e8e672af2a",
 			"f2877227-f0b2-4855-8f1b-d6b0e30bc9c3",
@@ -8960,21 +8962,26 @@
 		"replaces": [
 			"c014ac5f-1675-43fa-9a39-c02a8c3200bf"
 		],
-		"deleted": true
+		"dirty": true
 	},
 	{
-		"title": "Kerndoel 15 - Voortbestaan van het leven",
-		"description": "De leerling toont inzicht in het voortbestaan van leven.",
-		"prefix": "15",
+		"title": "Doelzin 32B - Voortbestaan van leven op aarde",
+		"description": "De leerling toont inzicht in het voortbestaan van leven op aarde.",
+		"prefix": "32B",
 		"soort": "kerndoel",
 		"id": "f7d99db2-5259-4d0d-a1aa-bd9be7b870e4",
 		"fo_uitwerking_id": [
 			"e27131c8-9c36-4c91-a6a4-3c8d533c3633",
 			"11ad4917-9317-4820-abb9-8e2579034c7a",
 			"89ebf474-d4c5-48ab-a672-9e42a25b2979",
-			"ec9ceef4-bb3b-4f81-a441-ab1a6e27f847"
+			"ec9ceef4-bb3b-4f81-a441-ab1a6e27f847",
+			"3a48cd7a-03c1-4512-8fd5-c7cf0383d96f",
+			"7f8eb259-85af-4650-ad43-42eecbb7a385",
+			"7119cae1-cc31-4959-ab8f-da76cffece5a",
+			"6de057af-3f3d-427b-9754-04da209b69a5",
+			"9b6ddbd9-3fdf-4e72-a347-4eddfb8e80a7"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"dd8c87e4-3a3d-4832-a005-96da96e51f15",
 			"6afd8151-0ba9-415c-aa5c-931b2e8f1216",
@@ -8985,7 +8992,7 @@
 		"replaces": [
 			"5c0b645d-da07-482c-a319-0d889184837f"
 		],
-		"deleted": true
+		"dirty": true
 	},
 	{
 		"title": "Kerndoel 16 - Evolutie",
@@ -9222,9 +9229,9 @@
 		"dirty": true
 	},
 	{
-		"title": "Kerndoel 22 - Gezond leven",
-		"description": "De leerling toont inzicht in hoe leefstijl de lichamelijke en mentale gezondheid beïnvloedt en reflecteert op de eigen leefstijl en gezondheid.",
-		"prefix": "22",
+		"title": "Doelzin 32C - Gezond leven",
+		"description": "De leerling toont inzicht in leefstijl, lichamelijke- en mentale gezondheid en reflecteert hierop.",
+		"prefix": "32C",
 		"soort": "kerndoel",
 		"id": "7f0689e5-0917-49ba-b5fb-ed9ddd9c7237",
 		"fo_uitwerking_id": [
@@ -9234,7 +9241,7 @@
 			"afa2399f-e18e-4809-b3ae-e3584cccee34",
 			"c2785a45-7df4-48af-acb0-5a1696326158"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"b528f053-56dc-4b6a-ae5d-78bdee280886",
 			"b14199c0-09e1-49e1-9384-fa03c5c47331",
@@ -9245,12 +9252,12 @@
 		"replaces": [
 			"af1dfed9-7359-4b5c-a94d-9255302d167c"
 		],
-		"deleted": true
+		"dirty": true
 	},
 	{
-		"title": "Kerndoel 23 - Relationele en seksuele gezondheid",
+		"title": "Doelzin 32D - Relationele en seksuele gezondheid",
 		"description": "De leerling toont inzicht in relationele en seksuele gezondheid en draagt bij aan een veilige en respectvolle omgeving rondom gedrag, diversiteit en seksualiteit.",
-		"prefix": "23",
+		"prefix": "32D",
 		"soort": "kerndoel",
 		"id": "c66bc745-d420-4f71-acf1-53e4ea4f1873",
 		"fo_uitwerking_id": [
@@ -9260,7 +9267,7 @@
 			"286b6dfb-e1cb-433d-82be-7ffafa1474a4",
 			"4bf2bc05-16de-456a-96a8-c701a0ff3637"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"37049150-3f70-4fe8-aaa8-1eb733138170",
 			"b3346ce2-3d7d-4602-9150-253cb51fc558",
@@ -9271,7 +9278,7 @@
 		"replaces": [
 			"843813ca-bd1a-4d8f-a4db-20ef667c4e4f"
 		],
-		"deleted": true
+		"dirty": true
 	},
 	{
 		"title": "Doelzin 25A - Denkwijzen",
@@ -9543,8 +9550,7 @@
 			"e7206e3c-78e1-450a-889f-771cedfec6af",
 			"88e6853e-9769-4e5f-b6ba-ac7435bb23eb",
 			"31c862c1-4949-46b8-90a8-99b98ae3c7bb",
-			"2633c304-03d1-4af6-bf49-4f26fdd7a392",
-			"e2e63a19-64b4-463e-9751-d1d790290b8e"
+			"2633c304-03d1-4af6-bf49-4f26fdd7a392"
 		],
 		"status": "definitief concept",
 		"fo_illustratie_id": [
@@ -9620,8 +9626,6 @@
 			"a3680574-82f5-4776-953f-57bd465a1a23",
 			"2426e018-dc08-4272-b551-68e3fc95ab54",
 			"a90f3908-95f3-4cb6-8372-a0ebe79754c7",
-			"c6fddd8c-bfd6-4fd4-a591-cdd74992d059",
-			"e40c886f-6598-4a61-b70a-f4b526850d85",
 			"49d348ed-0c24-4dd3-82df-eb448408c34f"
 		],
 		"status": "definitief concept",
@@ -10042,8 +10046,7 @@
 			"80ee1ebd-efa2-420c-a1a8-2f96e47b9a9a",
 			"4f9e31a3-0935-46e9-ae8c-ecbb42bd74fc",
 			"2a14a036-552a-4d93-b47b-66329ba012cb",
-			"8258da99-5d26-45f7-9be6-2a8616723dba",
-			"16417ac7-8ff8-4a57-8063-17e706b72bf0"
+			"8258da99-5d26-45f7-9be6-2a8616723dba"
 		],
 		"status": "definitief concept",
 		"fo_illustratie_id": [
@@ -10068,8 +10071,7 @@
 			"aeb1a8be-df43-4260-acf7-d4e06a47e4ea",
 			"f83c034e-407e-474a-ba2b-343aa0e0abba",
 			"80b7d0ae-1f58-4336-937e-215db4811ad5",
-			"6d82c15b-81d4-4f5f-8904-5c9f1b4428cc",
-			"f84efdf7-d04a-4efd-987c-139cabfcf4e6"
+			"6d82c15b-81d4-4f5f-8904-5c9f1b4428cc"
 		],
 		"status": "definitief concept",
 		"fo_illustratie_id": [
@@ -10092,10 +10094,7 @@
 		"id": "4c9d522c-e83e-4e5e-b57a-34beb10017ea",
 		"fo_uitwerking_id": [
 			"a7663515-a6e6-4ff3-84e1-f926da1982b0",
-			"28bf293f-ac15-4490-8827-284d7357c2d5",
-			"a8531b11-e0e2-4c10-8719-f1aac05cc9fd",
-			"9113ea87-a946-436c-abc7-85adba0eee6f",
-			"8210a7c5-7614-4bb8-8b3f-c1a5c6c6a0f5"
+			"28bf293f-ac15-4490-8827-284d7357c2d5"
 		],
 		"status": "definitief concept",
 		"fo_illustratie_id": [
@@ -10179,7 +10178,6 @@
 			"f5da85ae-03f0-40ce-946b-55977254047f",
 			"76e7a295-a250-4d36-ba65-511446ea49d9",
 			"461bd6c5-41c3-4c78-ba86-ad55850ce67b",
-			"866dbf4f-65b4-40d4-a758-2c7197b550e5",
 			"767c158f-c247-463b-b13f-0dbccbe79464",
 			"6ea7c787-c7dd-4444-89e1-8311dbff7e5b"
 		],
@@ -10210,9 +10208,7 @@
 			"72f39508-31f7-4a78-a48f-3f46b3b1352d",
 			"6945f805-f9a0-4326-bb67-ad198cd1d07a",
 			"378e145c-3b6d-4961-93d0-e6a97d22835b",
-			"19052c64-e8c5-4bca-a5e8-8aa90d08e944",
-			"cbb64b06-7411-4ca1-b7d4-10237dcd1359",
-			"46571202-f4d9-4a94-b414-a41efa2896f3"
+			"19052c64-e8c5-4bca-a5e8-8aa90d08e944"
 		],
 		"status": "definitief concept",
 		"fo_illustratie_id": [
@@ -10325,8 +10321,7 @@
 		"id": "5c3cfbbc-f0d2-4d01-aff4-4ea7dbef43e7",
 		"fo_uitwerking_id": [
 			"a133578a-39b9-40a7-9be2-4f6ea5d37d98",
-			"c2e11b9c-0ba8-47da-ad34-187d076e5985",
-			"ff30fc3f-c6a2-4e37-80cd-dc8b6b3cbb26"
+			"c2e11b9c-0ba8-47da-ad34-187d076e5985"
 		],
 		"status": "definitief concept",
 		"fo_illustratie_id": [
@@ -10401,11 +10396,7 @@
 		"fo_uitwerking_id": [
 			"6d058c7d-f145-42a2-af32-c0c6d5731d2e",
 			"6899d98a-33af-4644-9e36-e25a75e06a04",
-			"b3f5acf7-0fc2-4cdb-b59d-2b4c7fb7691a",
-			"5a5ec887-62ba-4006-981d-f991a24673e7",
-			"4321d563-52e1-4861-9dd3-97430feea1d3",
-			"d2a67ca2-2f8c-48bb-8e77-ae496cc43840",
-			"8282f8c1-801a-4ef2-b694-f91846442e6d"
+			"b3f5acf7-0fc2-4cdb-b59d-2b4c7fb7691a"
 		],
 		"status": "definitief concept",
 		"fo_illustratie_id": [
@@ -10453,8 +10444,7 @@
 			"8329168d-9e68-4650-85e2-7d093e113c4b",
 			"f43d8c05-dd48-40f2-bbab-a95d88965b9a",
 			"6f6543b5-70f2-4980-a8f1-914155290876",
-			"fad12875-d396-4512-8ea6-ece935cf7f68",
-			"2d7b384c-08c7-4f9f-8f31-0e3e16fb0096"
+			"fad12875-d396-4512-8ea6-ece935cf7f68"
 		],
 		"status": "definitief concept",
 		"fo_illustratie_id": [
@@ -10482,8 +10472,7 @@
 			"a3f10b0b-fe4e-4dcd-a566-4bc8b0767520",
 			"acf7a2db-1616-4e1b-bb39-cea86b4b9267",
 			"e14128bd-aeba-4c46-b6e1-592649d8832c",
-			"62df5ed7-e605-4be1-b7d8-ad2c5f1c715c",
-			"8c2f2374-ca2d-43c4-94ce-f9c9d02f13ac"
+			"62df5ed7-e605-4be1-b7d8-ad2c5f1c715c"
 		],
 		"status": "definitief concept",
 		"fo_illustratie_id": [
@@ -10653,8 +10642,7 @@
 			"ca965cf8-b4bf-4f15-b7a4-9b7b20959726",
 			"5de6a153-f274-4f56-883f-14b2e36e9ec4",
 			"a0ee92de-e0d3-44fa-88ce-68333acb9715",
-			"68a03645-51ff-439a-be68-dfc33128881f",
-			"d97c7227-6efe-4301-a5df-afe1eb3a5b18"
+			"68a03645-51ff-439a-be68-dfc33128881f"
 		],
 		"status": "definitief concept",
 		"fo_illustratie_id": [
@@ -10684,8 +10672,7 @@
 			"4b56ed93-90bf-4c0e-b033-36a1858de835",
 			"f833bcf2-fb3e-4f72-b30e-803102a5156c",
 			"b095312b-f01c-45c7-9f6e-476f9b19cd8f",
-			"8077f406-a2f7-4992-adab-bc369d449e02",
-			"0c23af6d-922e-4aa7-b2e6-424cc05d077d"
+			"8077f406-a2f7-4992-adab-bc369d449e02"
 		],
 		"status": "definitief concept",
 		"fo_illustratie_id": [
@@ -10747,7 +10734,6 @@
 			"74c5c86a-3943-4ccc-97aa-b4c3afebad5a",
 			"62bc3d2a-ca44-4aba-9050-ffa2764a3bdc",
 			"6befcdc9-4177-4c20-a3ee-4f1448eb998f",
-			"1d4a7e89-4b60-4288-96ec-f73c4d96b5d6",
 			"4f4078cf-f744-4f55-95a0-2de9dfc215d0",
 			"7fa9b6a6-c493-4f32-b739-d67db37ae115",
 			"9c3daf0c-32f0-491a-a9d2-4802551f1d3c"
@@ -10883,11 +10869,7 @@
 		"fo_uitwerking_id": [
 			"7fc234d8-827b-41ba-ab55-d67fd013aa13",
 			"6f023de8-e15f-4f80-a993-950880878f5d",
-			"ca9fc444-02b5-43ce-b211-cb7a08e3ee22",
-			"fb0776a8-7a77-4500-8a29-ee9f2dea6df2",
-			"42b6670f-baa0-427f-b496-7bc27a3b790d",
-			"3674d27f-08ca-4013-b850-4c466281c663",
-			"ff7d73ae-dc79-4ea7-a3b0-62e375fe694d"
+			"ca9fc444-02b5-43ce-b211-cb7a08e3ee22"
 		],
 		"status": "definitief concept",
 		"fo_illustratie_id": [
@@ -62120,6 +62102,21 @@
 			"445cc61f-f8c2-4023-bbcc-a555a339677d",
 			"7e5714ea-b740-426d-a60f-b9ae967c2871",
 			"643adc9e-7ef2-4773-9324-8e66d06111c7"
+		]
+	},
+	{
+		"title": "Doelzin 15B",
+		"description": "De school stimuleert een respectvolle omgang van leerlingen met diversiteit in de samenleving.",
+		"prefix": "B",
+		"soort": "kerndoel",
+		"status": "definitief concept",
+		"id": "8e89e39c-5325-4692-b863-fd36350f3403",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"63971291-f8c9-4564-b40e-150f47d0f628",
+			"0833a8b8-2ff0-42f2-8f13-1428ed5812d6",
+			"9e7b44ed-1a8c-4173-84f4-2537ab938b21",
+			"09312744-2263-4b9a-8c6a-db0de09df382"
 		]
 	}
 ]

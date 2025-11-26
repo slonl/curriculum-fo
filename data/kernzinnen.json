@@ -1730,8 +1730,10 @@
 		"id": "ca3a4125-43cf-4618-bd64-f46734182e31",
 		"unreleased": true,
 		"fo_doelzin_id": [
-			"df417d9e-d82f-411a-a923-fd54898870fa"
-		]
+			"df417d9e-d82f-411a-a923-fd54898870fa",
+			"8e89e39c-5325-4692-b863-fd36350f3403"
+		],
+		"dirty": true
 	},
 	{
 		"title": "Kerndoel 16",
@@ -2336,6 +2338,32 @@
 			"551b2867-6ecb-473f-9947-624931524fe8",
 			"76111cbe-4a2f-4f6c-befd-116d2b660135",
 			"e71876cf-e206-4560-9095-14b66152282c"
+		]
+	},
+	{
+		"title": "Kerndoel 30",
+		"description": "De leerling toont inzicht in en experimenteert met natuurkundige verschijnselen en technische systemen.",
+		"prefix": "30",
+		"id": "332d79af-df79-4fd2-b151-9ff22f0ec074",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"fac27b1a-c08d-4adb-bc7d-e6a7cf6b5536",
+			"6cd8693d-31c2-49dc-a5de-404064530a00",
+			"ba32fa79-f7f8-43b3-a9b2-4c7cc66daf31",
+			"3e70f0af-a6d0-4f4d-a0f2-1c68cfe932c2"
+		]
+	},
+	{
+		"title": "Kerndoel 32",
+		"description": "De leerling toont inzicht in organismen en hun gezondheid.",
+		"prefix": "32",
+		"id": "30d675a5-d2ba-4004-8705-228203b94da8",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"ce3601c4-df80-428f-856a-c35666b4e2b0",
+			"f7d99db2-5259-4d0d-a1aa-bd9be7b870e4",
+			"7f0689e5-0917-49ba-b5fb-ed9ddd9c7237",
+			"c66bc745-d420-4f71-acf1-53e4ea4f1873"
 		]
 	}
 ]

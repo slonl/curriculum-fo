@@ -4239,9 +4239,10 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "bewegingsprincipes in technische systemen: hefbomen, scharnieren, draaien; driehoekconstructies, brede basis, profiel-, buis-, boog- en hangconstructies."
+		"description": "bewegingsprincipes in technische systemen: hefbomen, scharnieren, draaien; driehoekconstructies, brede basis, profiel-, buis-, boog- en hangconstructies.",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
@@ -4250,9 +4251,10 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "overbrengingsprincipes: mechanisch, energetisch, hydraulisch en pneumatisch, en verbindingsprincipes: permanent, los-vast en bewegelijk."
+		"description": "overbrengingsprincipes: mechanisch, energetisch, hydraulisch en pneumatisch, en verbindingsprincipes: permanent, los-vast en bewegelijk.",
+		"dirty": true
 	},
 	{
 		"prefix": "t3",
@@ -4261,9 +4263,10 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "een trebuchet of katapult maken en testen."
+		"description": "een trebuchet of katapult maken en testen.",
+		"dirty": true
 	},
 	{
 		"prefix": "t4",
@@ -4272,9 +4275,10 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "een hijsinstallatie voor zonnepanelen ontwerpen waarin verschillende technieken zijn verwerkt."
+		"description": "een hijsinstallatie voor zonnepanelen ontwerpen waarin verschillende technieken zijn verwerkt.",
+		"dirty": true
 	},
 	{
 		"prefix": "t5",
@@ -4283,9 +4287,10 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "een proppenschieter bouwen aan de hand van het mechaniek waarmee planten zaadjes wegschieten."
+		"description": "een proppenschieter bouwen aan de hand van het mechaniek waarmee planten zaadjes wegschieten.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -4294,9 +4299,10 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "scheidingsmethodes: indampen, filtreren, destilleren, extractie, papierchromatografie."
+		"description": "scheidingsmethodes: indampen, filtreren, destilleren, extractie, papierchromatografie.",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
@@ -4305,9 +4311,10 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "moleculaire kooktechnieken uitvoeren en beschrijven in termen van scheiden, faseovergangen en chemische reacties."
+		"description": "moleculaire kooktechnieken uitvoeren en beschrijven in termen van scheiden, faseovergangen en chemische reacties.",
+		"dirty": true
 	},
 	{
 		"prefix": "t3",
@@ -4316,9 +4323,10 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "een carrousel van experimenten rond faseovergangen en chemische reacties uitvoeren, waarbij gecontroleerd wordt of de wet van behoud massa geldt."
+		"description": "een carrousel van experimenten rond faseovergangen en chemische reacties uitvoeren, waarbij gecontroleerd wordt of de wet van behoud massa geldt.",
+		"dirty": true
 	},
 	{
 		"prefix": "t4",
@@ -4327,9 +4335,10 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "aan de hand van een experiment met verzinkte spijkers concluderen dat zink beschermd tegen corrosie."
+		"description": "aan de hand van een experiment met verzinkte spijkers concluderen dat zink beschermd tegen corrosie.",
+		"dirty": true
 	},
 	{
 		"prefix": "t5",
@@ -4338,9 +4347,10 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "experimenten uitvoeren zoals het indampen van zout water, het bezinken van modder of het maken van koffie."
+		"description": "experimenten uitvoeren zoals het indampen van zout water, het bezinken van modder of het maken van koffie.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -4349,9 +4359,10 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "de noodzaak en nadelen inventariseren van de productie van PFAS op industriële schaal."
+		"description": "de noodzaak en nadelen inventariseren van de productie van PFAS op industriële schaal.",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
@@ -4360,9 +4371,10 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "onderzoeken of een lineaire productieketen van PET circulair gemaakt kan worden."
+		"description": "onderzoeken of een lineaire productieketen van PET circulair gemaakt kan worden.",
+		"dirty": true
 	},
 	{
 		"prefix": "t3",
@@ -4371,9 +4383,10 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "van een eenvoudig chemisch proces alle processtappen, massa en energiestromen weergeven in een blokschema."
+		"description": "van een eenvoudig chemisch proces alle processtappen, massa en energiestromen weergeven in een blokschema.",
+		"dirty": true
 	},
 	{
 		"prefix": "t4",
@@ -4382,9 +4395,10 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "de reactievergelijking opschrijven van verbrandingsreacties."
+		"description": "de reactievergelijking opschrijven van verbrandingsreacties.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -4392,9 +4406,10 @@
 		"niveau_id": [
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "uitkomsten van eenvoudige experimenten over faseovergangen en chemische reacties naast theoretische verklaringen leggen."
+		"description": "uitkomsten van eenvoudige experimenten over faseovergangen en chemische reacties naast theoretische verklaringen leggen.",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
@@ -4402,9 +4417,10 @@
 		"niveau_id": [
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "in de voetsporen van Lavoisier massaverhoudingen bepalen bij chemische reacties."
+		"description": "in de voetsporen van Lavoisier massaverhoudingen bepalen bij chemische reacties.",
+		"dirty": true
 	},
 	{
 		"prefix": "t3",
@@ -4412,9 +4428,10 @@
 		"niveau_id": [
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "een gedichtengalerij maken over atoommodellen van vroeger tot nu."
+		"description": "een gedichtengalerij maken over atoommodellen van vroeger tot nu.",
+		"dirty": true
 	},
 	{
 		"prefix": "t4",
@@ -4422,9 +4439,10 @@
 		"niveau_id": [
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "de atoommodellen van Rutherford visualiseren met Lego."
+		"description": "de atoommodellen van Rutherford visualiseren met Lego.",
+		"dirty": true
 	},
 	{
 		"prefix": "t5",
@@ -4432,9 +4450,10 @@
 		"niveau_id": [
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "een documentaire kijken over hoe trillende waterstofatomen leiden tot MRI-spectra in ziekenhuizen."
+		"description": "een documentaire kijken over hoe trillende waterstofatomen leiden tot MRI-spectra in ziekenhuizen.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -4738,9 +4757,10 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "celorganellen: celkern, celmembraan, celwand, cytoplasma, bladgroenkorrel, vacuole en mitochondrium."
+		"description": "celorganellen: celkern, celmembraan, celwand, cytoplasma, bladgroenkorrel, vacuole en mitochondrium.",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
@@ -4749,9 +4769,10 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "dierlijke orgaanstelsels en bijbehorende organen: skelet, voortplantingsstelsel, zenuwstelsel, ademhalingsstelsel, bloedvatenstelsel, afweersysteem, spijsverteringsstelsel, uitscheidingsstelsel, spierstelsel en hormoonstelsel."
+		"description": "dierlijke orgaanstelsels en bijbehorende organen: skelet, voortplantingsstelsel, zenuwstelsel, ademhalingsstelsel, bloedvatenstelsel, afweersysteem, spijsverteringsstelsel, uitscheidingsstelsel, spierstelsel en hormoonstelsel.",
+		"dirty": true
 	},
 	{
 		"prefix": "t3",
@@ -4760,9 +4781,10 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "met uitbeelddidactiek laten zien hoe het verteringsstelsel, bloedvatenstelsel en uitscheidingsstelsel samenwerken bij verbranding."
+		"description": "met uitbeelddidactiek laten zien hoe het verteringsstelsel, bloedvatenstelsel en uitscheidingsstelsel samenwerken bij verbranding.",
+		"dirty": true
 	},
 	{
 		"prefix": "t4",
@@ -4771,9 +4793,10 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "de werking van fotosynthese onderzoeken door het groeien van bonen in verschillende condities."
+		"description": "de werking van fotosynthese onderzoeken door het groeien van bonen in verschillende condities.",
+		"dirty": true
 	},
 	{
 		"prefix": "t5",
@@ -4782,9 +4805,10 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "het kijken naar een documentaire over het opruimen van olievervuiling door bacteriën."
+		"description": "het kijken naar een documentaire over het opruimen van olievervuiling door bacteriën.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -4793,9 +4817,10 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "het effect van testosteron op de ontwikkeling van de mens beschrijven."
+		"description": "het effect van testosteron op de ontwikkeling van de mens beschrijven.",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
@@ -4804,9 +4829,10 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "geslachtelijke voortplanting bij planten beschrijven, met aandacht voor hoe het doorgeven van erfelijke eigenschappen werkt."
+		"description": "geslachtelijke voortplanting bij planten beschrijven, met aandacht voor hoe het doorgeven van erfelijke eigenschappen werkt.",
+		"dirty": true
 	},
 	{
 		"prefix": "t3",
@@ -4815,9 +4841,10 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "met de klas op een tijdschaal weergeven wanneer soorten ontstaan en veranderen door mutaties, genetische variatie en natuurlijke selectie."
+		"description": "met de klas op een tijdschaal weergeven wanneer soorten ontstaan en veranderen door mutaties, genetische variatie en natuurlijke selectie.",
+		"dirty": true
 	},
 	{
 		"prefix": "t4",
@@ -4826,9 +4853,10 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "de mogelijkheden van veredeling en genetische modificatie op de kweek van tomaten verkennen."
+		"description": "de mogelijkheden van veredeling en genetische modificatie op de kweek van tomaten verkennen.",
+		"dirty": true
 	},
 	{
 		"prefix": "t5",
@@ -4837,9 +4865,10 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "het waarnemen van evolutie van antibioticaresistentie in bacteriën."
+		"description": "het waarnemen van evolutie van antibioticaresistentie in bacteriën.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -5355,9 +5384,10 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "de technologieën: technologie om zwanger te raken bij verminderde vruchtbaarheid, zwangerschap voorkomen, erfelijke aandoeningen aantonen, vaccinatie, medicijnen, operaties, bestraling, medische beeldvorming, hulpmiddelen en bril."
+		"description": "de technologieën: technologie om zwanger te raken bij verminderde vruchtbaarheid, zwangerschap voorkomen, erfelijke aandoeningen aantonen, vaccinatie, medicijnen, operaties, bestraling, medische beeldvorming, hulpmiddelen en bril.",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
@@ -5366,9 +5396,10 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "stellingen bediscussiëren over lichamelijke en mentale gezondheid en leefstijl."
+		"description": "stellingen bediscussiëren over lichamelijke en mentale gezondheid en leefstijl.",
+		"dirty": true
 	},
 	{
 		"prefix": "t3",
@@ -5377,9 +5408,10 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "een voedings- en bewegingsdagboek bijhouden en reflecteren op de eigen leefstijl."
+		"description": "een voedings- en bewegingsdagboek bijhouden en reflecteren op de eigen leefstijl.",
+		"dirty": true
 	},
 	{
 		"prefix": "t4",
@@ -5388,9 +5420,10 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "gastlessen van een topsporter volgen over voeding, mentale en persoonlijke gezondheid."
+		"description": "gastlessen van een topsporter volgen over voeding, mentale en persoonlijke gezondheid.",
+		"dirty": true
 	},
 	{
 		"prefix": "t5",
@@ -5399,9 +5432,10 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "in een klassengesprek KI en IVF bespreken en benoemen van redenen om bijvoorbeeld een vruchtwaterpunctie te doen."
+		"description": "in een klassengesprek KI en IVF bespreken en benoemen van redenen om bijvoorbeeld een vruchtwaterpunctie te doen.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -5410,9 +5444,10 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "het gebruiken van erkende, goed onderbouwde lesprogramma's van externe organisaties bij lessen over relationele en seksuele vorming."
+		"description": "het gebruiken van erkende, goed onderbouwde lesprogramma's van externe organisaties bij lessen over relationele en seksuele vorming.",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
@@ -5421,9 +5456,10 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "het gebruiken van demo-modellen van penissen en clitorissen, het oefenen met condoomdemonstraties en het laten zien van deverschillende anticonceptiemiddelen."
+		"description": "het gebruiken van demo-modellen van penissen en clitorissen, het oefenen met condoomdemonstraties en het laten zien van deverschillende anticonceptiemiddelen.",
+		"dirty": true
 	},
 	{
 		"prefix": "t3",
@@ -5432,9 +5468,10 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "een themaweek organiseren op school met aandacht voor een veilig en respectvol schoolklimaat."
+		"description": "een themaweek organiseren op school met aandacht voor een veilig en respectvol schoolklimaat.",
+		"dirty": true
 	},
 	{
 		"prefix": "t4",
@@ -5443,9 +5480,10 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "rollenspelen met jongeren organiseren over normen en het bewaken en respecteren van grenzen."
+		"description": "rollenspelen met jongeren organiseren over normen en het bewaken en respecteren van grenzen.",
+		"dirty": true
 	},
 	{
 		"prefix": "t5",
@@ -5454,9 +5492,10 @@
 			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "sexting en respectvol onlinegedrag bespreken aan de hand van casussen."
+		"description": "sexting en respectvol onlinegedrag bespreken aan de hand van casussen.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",

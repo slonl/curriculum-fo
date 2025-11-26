@@ -6155,7 +6155,7 @@
 		"dirty": true
 	},
 	{
-		"description": "constructie-, energie-, communicatie-, meet-, regel-, productie- en transportsystemen.",
+		"description": "constructie-, energie-, communicatie-, meet-, regel-, productie- en transportsystemen;",
 		"prefix": "u1",
 		"id": "cd09a240-767f-4fcf-ba31-cc75df5a0a86",
 		"niveau_id": [
@@ -6163,10 +6163,11 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
-		"description": "analyseren hoe een voorwerp werkt en geconstrueerd is, en verklaren waarom bepaalde materialen en sensoren zijn gebruikt.",
+		"description": "verkennen hoe een voorwerp werkt en geconstrueerd is, functie, eigenschappen en onderliggende mechanismen;",
 		"prefix": "u2",
 		"id": "2685c70c-a242-4164-b5f8-fea10fdc4e1a",
 		"niveau_id": [
@@ -6174,10 +6175,11 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
-		"description": "analyseren van functies en onderliggende mechanismen van de onderdelen en het geheel in een technisch systeem.",
+		"description": "maken van werkende analoge en digitale 2D- en 3D-modellen in een ontwerpproces;",
 		"prefix": "u3",
 		"id": "0d5f8a70-b71c-460c-9324-9ba20a59d525",
 		"niveau_id": [
@@ -6185,10 +6187,11 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
-		"description": "toepassen van krachtenverdeling, bewegingsprincipes en overbrengingsprincipes.",
+		"description": "toepassen van krachtenverdeling, bewegingsprincipes en overbrengingsprincipes;",
 		"prefix": "u4",
 		"id": "e0a3369c-46df-4b21-9fe5-f995e9935f4f",
 		"niveau_id": [
@@ -6196,10 +6199,11 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
-		"description": "experimenteren met het rekenen aan, ontwerpen en repareren van technische systemen.",
+		"description": "experimenteren met ontwerpen, maken  en repareren.",
 		"prefix": "u5",
 		"id": "16933988-886a-434e-b35e-ad5113f40573",
 		"niveau_id": [
@@ -6207,10 +6211,11 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
-		"description": "verklaren dat deeltjes opgebouwd zijn uit atomen van één of meerdere atoomsoorten.",
+		"description": "zwaartekracht, trekkracht, duwkracht en wrijvingskracht;",
 		"prefix": "u1",
 		"id": "afdbce1a-8535-4677-92bd-50115166f73e",
 		"niveau_id": [
@@ -6218,10 +6223,11 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
-		"description": "gebruiken van het deeltjesmodel om een verschil aan te geven tussen zuivere stoffen en mengsels.",
+		"description": "verbanden leggen tussen krachten op een voorwerp, en verandering in beweging en snelheid van dat voorwerp;",
 		"prefix": "u2",
 		"id": "32c29f29-1786-4dd5-8322-02bc83ea4355",
 		"niveau_id": [
@@ -6229,10 +6235,11 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
-		"description": "beschrijven met deeltjesmodellen en behoudswetten wat er gebeurt bij faseovergangen en chemische reacties.",
+		"description": "experimenteren met krachten in de constructie;",
 		"prefix": "u3",
 		"id": "599617ba-a56d-44b1-95b4-cdffad8db985",
 		"niveau_id": [
@@ -6240,10 +6247,11 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
-		"description": "toepassen van geschikte scheidingsmethodes bij het scheiden van mengsels in afzonderlijke stoffen.",
+		"description": "beschrijven hoe natuurlijke fenomenen krachten uitoefenen op constructies en welke effecten die krachten hebben op constructies;",
 		"prefix": "u4",
 		"id": "1c6866d2-b264-40f8-9299-db7803cc4956",
 		"niveau_id": [
@@ -6251,10 +6259,11 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
-		"description": "experimenteren met het versnellen en vertragen van fysische processen en chemische reacties.",
+		"description": "rekenen aan eenparige bewegingen met de grootheden plaats, snelheid en tijd.",
 		"prefix": "u5",
 		"id": "08d31fc1-93fa-4185-bcaf-dc4c11e7f4ac",
 		"niveau_id": [
@@ -6262,10 +6271,11 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
-		"description": "beschrijven van chemische reacties in chemische notatie of woorden.",
+		"description": "onderscheiden van verschillende energievormen in een systeem;",
 		"prefix": "u1",
 		"id": "7ece4868-3862-4729-8e7f-b515a1f04739",
 		"niveau_id": [
@@ -6273,10 +6283,11 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
-		"description": "uitleggen hoe fysische en chemische processen gebruikt worden om grondstoffen om te zetten in producten.",
+		"description": "beschrijven hoe elektrische energie en warmte kunnen worden opgewekt, omgezet, getransporteerd en opgeslagen",
 		"prefix": "u2",
 		"id": "7552919f-63b5-431e-acfa-79b7909f9880",
 		"niveau_id": [
@@ -6284,10 +6295,11 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
-		"description": "analyseren van verschillen tussen lineaire en circulaire productieketens van (bio)plastics, voedsel en kleding.",
+		"description": "experimenteren met serie- en parallelschakelingen;",
 		"prefix": "u3",
 		"id": "50899f83-9abb-4baa-83c7-e282f40a1889",
 		"niveau_id": [
@@ -6295,10 +6307,11 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
-		"description": "rekenen bij een chemische reactie met een gegeven massaverhouding.",
+		"description": "beschrijven van relaties tussen typen energiebronnen, -transport en -behoeften op het stroomnet;",
 		"prefix": "u4",
 		"id": "757ca7a4-49df-45fe-94b7-89bdc0f803a4",
 		"niveau_id": [
@@ -6306,10 +6319,11 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
-		"description": "evalueren van de wederkerige relatie tussen maatschappij en chemie en de impact van chemie op de omgeving en de maatschappij.",
+		"description": "rekenen met behulp van de grootheden stroomsterkte, spanning, weerstand, vermogen en tijd.",
 		"prefix": "u5",
 		"id": "a5cecd7e-f879-41d7-8c13-c896f3a54a4c",
 		"niveau_id": [
@@ -6317,57 +6331,63 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
-		"description": "modellen: vier elementen, flogiston, Dalton en Rutherford.",
+		"description": "toepassen van de eigenschap dat licht van richting verandert bij overgang van het ene naar het andere materiaal;",
 		"prefix": "u1",
 		"id": "076ef0a9-6f5e-4117-8d5c-4c13abae0740",
 		"niveau_id": [
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
-		"description": "analyseren van overeenkomsten en verschillen tussen experimenten en de modellen van Lavoisier en Dalton.",
+		"description": "onderzoeken hoe beeldvorming met spiegels en lenzen tot stand komt;",
 		"prefix": "u2",
 		"id": "100cdab2-5662-4067-bca7-74ee8c418485",
 		"niveau_id": [
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
-		"description": "beredeneren hoe de ontwikkeling van modellen wordt gedreven door het willen verklaren van nieuwe situaties.",
+		"description": "schematisch weergeven van stralengang bij spiegels en lenzen;",
 		"prefix": "u3",
 		"id": "5bf4eade-c22d-4d70-948d-04b732d62b43",
 		"niveau_id": [
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
-		"description": "beredeneren hoe vooruitgang in meetmethodes leidt tot ontwikkeling van modellen.",
+		"description": "toepassen van het gegeven dat licht van verschillende golflengtes bij verschillende materialen in verschillende mate wordt geabsorbeerd, gereflecteerd en doorgelaten;",
 		"prefix": "u4",
 		"id": "725881ea-a821-452d-86f0-64fa9a3598e5",
 		"niveau_id": [
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
-		"description": "verbanden leggen tussen de toename van kennis over chemische reacties en materie, en de ontwikkeling van nieuwe materialen en chemische processen.",
+		"description": "beschrijven dat geometrische optica niet alle optische verschijnselen kan uitleggen.",
 		"prefix": "u5",
 		"id": "5612c529-db5e-495e-a509-2d57fa77fa8c",
 		"niveau_id": [
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
 		"description": "beschrijven dat deeltjes opgebouwd zijn uit atomen van één of meerdere atoomsoorten;",
@@ -6675,7 +6695,7 @@
 		"dirty": true
 	},
 	{
-		"description": "beschrijven van bouw en basale functie van cellen en celorganellen.",
+		"description": "beschrijven van bouw en basale functie van cellen en celorganellen: celkern, celmembraan, celwand, cytoplasma, bladgroenkorrel, vacuole en mitochondrium;",
 		"prefix": "u1",
 		"id": "68e9ba29-436e-4e44-a710-07bc770af40e",
 		"niveau_id": [
@@ -6683,10 +6703,11 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
-		"description": "beschrijven van de bouw van plantaardige en dierlijke orgaanstelsels, organen en weefsels.",
+		"description": "beschrijven van de bouw van plantaardige en dierlijke orgaanstelsels, organen en weefsels;",
 		"prefix": "u2",
 		"id": "b017bafc-d711-420a-a134-7fb10a4f2b4e",
 		"niveau_id": [
@@ -6694,10 +6715,11 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
-		"description": "redeneren hoe samenwerking van organen leidt tot orgaanstelsels met functie.",
+		"description": "verklaren hoe samenwerking van organen leidt tot functionerende orgaanstelsels:  skelet, voortplantingsstelsel, zenuwstelsel, ademhalingsstelsel, bloedvatenstelsel, afweersysteem, spijsverteringsstelsel, uitscheidingsstelsel, spierstelsel en hormoonstelsel;",
 		"prefix": "u3",
 		"id": "8ccc6adb-6ea4-4b54-8cf6-98e9c8b65121",
 		"niveau_id": [
@@ -6705,10 +6727,11 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
-		"description": "redeneren hoe stofwisselingsprocessen en samenwerkende orgaanstelsels nodig zijn om planten en dieren in leven te houden.",
+		"description": "redeneren hoe stofwisselingsprocessen en samenwerkende orgaanstelsels nodig zijn om planten en dieren in leven te houden;",
 		"prefix": "u4",
 		"id": "9b8dda6e-2fe9-499b-8161-e198edabd676",
 		"niveau_id": [
@@ -6716,10 +6739,11 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
-		"description": "gebruik van organismen in de biotechnologie, landbouw en veeteelt.",
+		"description": "onderzoeken hoe organismen worden gerbuikt in de biotechnologie, landbouw en veeteelt.",
 		"prefix": "u5",
 		"id": "2fdc748a-430e-4115-97cd-f1b24f9d757c",
 		"niveau_id": [
@@ -6727,10 +6751,11 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
-		"description": "beschrijven van de levenscyclus en invloed van milieu en genetica hierop.",
+		"description": "beschrijven van de levenscyclus van organismen en de invloed van het milieu en genetica hierop;",
 		"prefix": "u1",
 		"id": "e27131c8-9c36-4c91-a6a4-3c8d533c3633",
 		"niveau_id": [
@@ -6738,10 +6763,11 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
-		"description": "verklaren hoe geslachtelijke en ongeslachtelijke voortplanting verloopt op organismale- en populatieniveau.",
+		"description": "beschrijven hoe geslachtelijke en ongeslachtelijke voortplanting verloopt;",
 		"prefix": "u2",
 		"id": "11ad4917-9317-4820-abb9-8e2579034c7a",
 		"niveau_id": [
@@ -6749,10 +6775,11 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
-		"description": "beschrijven van ontstaan van biodiversiteit door evolutie: mutaties, natuurlijke selectie en soortvorming.",
+		"description": "verklaren van het ontstaan van biodiversiteit door evolutie: mutaties, natuurlijke selectie en soortvorming;",
 		"prefix": "u3",
 		"id": "89ebf474-d4c5-48ab-a672-9e42a25b2979",
 		"niveau_id": [
@@ -6760,7 +6787,8 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
 		"description": "beschrijven van aanpassingen van erfelijke eigenschappen door de mens: veredeling, fokken en genetische modificatie.",
@@ -6771,7 +6799,8 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
 		"description": "modellen van Darwin en Lamarck.",
@@ -7294,7 +7323,7 @@
 		"dirty": true
 	},
 	{
-		"description": "de leefstijlthema’s: hygiëne, voeding, slaap, natuur, relaties, seksualiteit en beweging.",
+		"description": "de leefstijlthema’s: hygiëne, voeding, slaap, natuur en beweging.",
 		"prefix": "u1",
 		"id": "432961e2-1132-441a-a652-a0e8c9eecad1",
 		"niveau_id": [
@@ -7302,10 +7331,11 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
-		"description": "beschrijven van invloed van bacteriën, schimmels en virussen op gezond leven.",
+		"description": "beschrijven van invloed van bacteriën, schimmels en virussen op gezond leven;",
 		"prefix": "u2",
 		"id": "56382033-447b-4271-b433-099e8af07822",
 		"niveau_id": [
@@ -7313,10 +7343,11 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
-		"description": "beschrijven hoe ziektes ontstaan, voorkomen en behandeld kunnen worden.",
+		"description": "beschrijven hoe ziektes ontstaan, voorkomen en behandeld kunnen worden;",
 		"prefix": "u3",
 		"id": "fb55105b-3e0b-4c99-ac28-6982b970ec3b",
 		"niveau_id": [
@@ -7324,10 +7355,11 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
-		"description": "beschrijven hoe technologie de gezondheid en kwaliteit van leven beïnvloedt.",
+		"description": "beschrijven hoe technologie de gezondheid en kwaliteit van leven beïnvloedt;",
 		"prefix": "u4",
 		"id": "afa2399f-e18e-4809-b3ae-e3584cccee34",
 		"niveau_id": [
@@ -7335,7 +7367,8 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
 		"description": "reflecteren op de eigen leefstijl en gezondheid, de invloed van de leefomgeving, media en eigen keuzes hierin.",
@@ -7346,10 +7379,11 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
-		"description": "reflecteren op de betekenis van seksualiteit, seksuele ontwikkeling en seksuele diversiteit, op het aangaan van gewenste, plezierige relaties en sociale veiligheid.",
+		"description": "reflecteren op de betekenis van seksualiteit, op seksuele ontwikkeling en diversiteit, op het aangaan van gewenste, plezierige relaties en op sociale veiligheid;",
 		"prefix": "u1",
 		"id": "2a7d530a-673e-411c-ad31-ba69ce981764",
 		"niveau_id": [
@@ -7357,10 +7391,11 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
-		"description": "beschrijven van het belang van consent, respect voor wensen en grenzen van zichzelf en de ander en wat te doen bij grensoverschrijding, geweld en misbruik.",
+		"description": "beschrijven van het belang van consent, respect voor wensen en grenzen van zichzelf en de ander en wat te doen bij grensoverschrijding, geweld en misbruik;",
 		"prefix": "u2",
 		"id": "ffecfed9-d24b-480d-b444-05065903e002",
 		"niveau_id": [
@@ -7368,10 +7403,11 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
-		"description": "beschrijven hoe soa’s, hiv en onbedoelde zwangerschap zijn te voorkomen.",
+		"description": "beschrijven hoe soa’s, hiv en onbedoelde zwangerschap zijn te voorkomen;",
 		"prefix": "u3",
 		"id": "472e1f2c-6140-4124-8504-f77979b1ccba",
 		"niveau_id": [
@@ -7379,10 +7415,11 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
-		"description": "benoemen van verschillende gezondheids- en welzijnsorganisaties die je kunt inschakelen voor hulp, mentale steun en preventie op het gebied van grensoverschrijdend gedrag, misbruik, vruchtbaarheid, anticonceptie, zwangerschap, abortus, ouderschap, soa’s en seksualiteit.",
+		"description": "benoemen van verschillende gezondheids- en welzijnsorganisaties voor hulp, mentale steun en preventie op het gebied van grensoverschrijdend gedrag, misbruik, vruchtbaarheid, anticonceptie, zwangerschap, abortus, ouderschap, soa’s en seksualiteit;",
 		"prefix": "u4",
 		"id": "286b6dfb-e1cb-433d-82be-7ffafa1474a4",
 		"niveau_id": [
@@ -7390,10 +7427,11 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
-		"description": "reflecteren hoe bij te dragen aan een veilige en respectvolle online en offline omgeving op het gebied van seksualiteit.",
+		"description": "reflecteren hoe bij te dragen aan een veilige en respectvolle online en offline omgeving, voor zichzelf en anderen, op het gebied van seksualiteit.",
 		"prefix": "u5",
 		"id": "4bf2bc05-16de-456a-96a8-c701a0ff3637",
 		"niveau_id": [
@@ -7401,7 +7439,8 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
 		"description": "analyseren aan de hand van overeenkomsten en verschillen, continuïteit en verandering, en oorzaken en gevolgen;",
@@ -118710,8 +118749,10 @@
 		"id": "c932921b-d084-458f-8912-a828aee97b80",
 		"unreleased": true,
 		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -118721,8 +118762,10 @@
 		"id": "8d792957-87d2-4233-ab72-fe96a86883b2",
 		"unreleased": true,
 		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -118732,8 +118775,10 @@
 		"id": "c8763a49-0440-4053-889f-d9dae16e7a1a",
 		"unreleased": true,
 		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -118743,8 +118788,10 @@
 		"id": "42bf8791-cad9-482c-b772-402df8e4f1f0",
 		"unreleased": true,
 		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -118754,8 +118801,10 @@
 		"id": "48d19b14-0fbc-43c1-a0d9-56be49f90da9",
 		"unreleased": true,
 		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -118765,8 +118814,10 @@
 		"id": "32f1da35-3862-404b-b114-c5fbd99ca827",
 		"unreleased": true,
 		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -118776,8 +118827,10 @@
 		"id": "bccc8645-2c76-4c0c-84e3-2db449895557",
 		"unreleased": true,
 		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -118787,8 +118840,10 @@
 		"id": "c9b73d39-e25a-4f7a-8015-2cc0c8db2ca6",
 		"unreleased": true,
 		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -118798,8 +118853,10 @@
 		"id": "ed464605-da44-4997-9440-9fa1b8403c46",
 		"unreleased": true,
 		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -118977,8 +119034,10 @@
 		"id": "1fe5e2c4-a1ee-46e2-b334-e25eeb73a329",
 		"unreleased": true,
 		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -118988,8 +119047,10 @@
 		"id": "87c2a67b-16a1-4288-a3ba-66c1af0b54f7",
 		"unreleased": true,
 		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -118999,8 +119060,10 @@
 		"id": "e2a6f7d4-a2de-4177-bd30-b18ca2c302b1",
 		"unreleased": true,
 		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -119010,8 +119073,10 @@
 		"id": "376304eb-af9d-40f1-b0ae-59a82be3104c",
 		"unreleased": true,
 		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -119021,8 +119086,10 @@
 		"id": "e772f604-4ace-4fdf-bb91-7a0dfd491a33",
 		"unreleased": true,
 		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -119032,8 +119099,10 @@
 		"id": "c3f79d76-0a81-4a6d-a5fd-5471821432f1",
 		"unreleased": true,
 		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -119042,8 +119111,10 @@
 		"id": "6164719b-96ae-4855-9ce3-2180e96d5076",
 		"unreleased": true,
 		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -119053,8 +119124,10 @@
 		"id": "fe88e590-6fa9-47b1-9f48-ec1dacbc3a58",
 		"unreleased": true,
 		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -119064,8 +119137,10 @@
 		"id": "3ef52dfb-2379-4a84-aa8d-87a2e020feb5",
 		"unreleased": true,
 		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -119075,8 +119150,10 @@
 		"id": "16c5e074-f5ec-4cea-88d1-4ff23c8c5c89",
 		"unreleased": true,
 		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -119086,8 +119163,10 @@
 		"id": "857591ee-6026-44d7-a2fe-9663e0c4519c",
 		"unreleased": true,
 		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -119097,8 +119176,10 @@
 		"id": "2a4c49da-65b2-4c6c-9ff3-cc47f3e82f92",
 		"unreleased": true,
 		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -119108,8 +119189,10 @@
 		"id": "2b356052-c805-4ed7-b336-cecb5c96123e",
 		"unreleased": true,
 		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -119119,8 +119202,10 @@
 		"id": "f8bc319c-35b6-4039-bb1c-1b1373eb6f76",
 		"unreleased": true,
 		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -119130,8 +119215,10 @@
 		"id": "cf841763-c994-4693-92bb-cf8c138f7815",
 		"unreleased": true,
 		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -119261,8 +119348,10 @@
 		"id": "96156d0a-a4c3-4b1a-99cd-d0b733ef2e5b",
 		"unreleased": true,
 		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -119272,8 +119361,10 @@
 		"id": "b2260878-966c-43af-a8f1-1baec8838342",
 		"unreleased": true,
 		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -119283,8 +119374,10 @@
 		"id": "b23bb971-7167-444c-93d1-414574b17e96",
 		"unreleased": true,
 		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -119294,8 +119387,10 @@
 		"id": "258d2d08-52ed-4cb8-b8f3-b4cabc47cab9",
 		"unreleased": true,
 		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -119316,8 +119411,10 @@
 		"id": "118d0f13-500b-4fed-ac06-c52f6ec2864e",
 		"unreleased": true,
 		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -119327,8 +119424,10 @@
 		"id": "6c212012-671d-4ecb-b918-5c3b41342e75",
 		"unreleased": true,
 		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -119338,8 +119437,10 @@
 		"id": "ed3634dd-50fa-429d-90f4-017f9f160bf7",
 		"unreleased": true,
 		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -119349,8 +119450,10 @@
 		"id": "b246bc1a-0b1c-4323-8ca9-44790a2a0e1d",
 		"unreleased": true,
 		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -119382,8 +119485,10 @@
 		"id": "782cab64-6449-4c8d-8681-07d68b3ea184",
 		"unreleased": true,
 		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -119393,8 +119498,10 @@
 		"id": "09205b1c-0e0b-44a0-a1b9-8e4f9c0b7016",
 		"unreleased": true,
 		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -119404,8 +119511,10 @@
 		"id": "22f798c0-3a34-4c33-a0d6-6399a8662332",
 		"unreleased": true,
 		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -119415,8 +119524,10 @@
 		"id": "88e90d2d-fb2c-41e2-8606-4e516b49fea8",
 		"unreleased": true,
 		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -119426,8 +119537,10 @@
 		"id": "57b9961d-603f-4b0f-9993-10d5e4236624",
 		"unreleased": true,
 		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -119533,8 +119646,10 @@
 		"id": "4198ec37-eb84-464e-bb97-6de1d993bcc2",
 		"unreleased": true,
 		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -119544,8 +119659,10 @@
 		"id": "515c8230-27eb-459c-89cf-0e58ae4aabaa",
 		"unreleased": true,
 		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -119555,8 +119672,10 @@
 		"id": "ca019dda-1cab-4b6c-b4a4-33adea40fb4c",
 		"unreleased": true,
 		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -119566,8 +119685,10 @@
 		"id": "be7236f0-ad9d-4aa1-a8a9-a0685d4f3e39",
 		"unreleased": true,
 		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -119577,8 +119698,10 @@
 		"id": "31196715-3e73-48ba-adfd-13dfce9ef34b",
 		"unreleased": true,
 		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -119588,8 +119711,10 @@
 		"id": "37be2b5f-2d08-412d-91db-4efe88f64f6a",
 		"unreleased": true,
 		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -119599,8 +119724,10 @@
 		"id": "4c6e9926-3166-48c2-b399-16626e5fb440",
 		"unreleased": true,
 		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -119610,8 +119737,10 @@
 		"id": "d7214c9b-33f5-4d21-a498-2101bdedaef2",
 		"unreleased": true,
 		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -119669,8 +119798,10 @@
 		"id": "1623ab23-92bb-489d-b1a5-53bac56dc5bd",
 		"unreleased": true,
 		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -119680,8 +119811,10 @@
 		"id": "54602111-79ad-4816-ae07-94ee596c6b9c",
 		"unreleased": true,
 		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -119691,8 +119824,10 @@
 		"id": "50011764-b9eb-463e-a872-9c24ba955876",
 		"unreleased": true,
 		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -119713,8 +119848,10 @@
 		"id": "445cc61f-f8c2-4023-bbcc-a555a339677d",
 		"unreleased": true,
 		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -119724,8 +119861,10 @@
 		"id": "7e5714ea-b740-426d-a60f-b9ae967c2871",
 		"unreleased": true,
 		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -119735,8 +119874,10 @@
 		"id": "643adc9e-7ef2-4773-9324-8e66d06111c7",
 		"unreleased": true,
 		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -119777,6 +119918,127 @@
 		"prefix": "u6",
 		"status": "definitief concept",
 		"id": "7b8ef9e4-8652-4f3a-a7a0-7a9f66b17155",
+		"unreleased": true,
+		"niveau_id": [
+			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "aandacht besteden aan aspecten van diversiteit: godsdienst, levensovertuiging, politieke gezindheid, afkomst, geslacht, handicap en seksuele gerichtheid;",
+		"prefix": "u1",
+		"status": "definitief concept",
+		"id": "63971291-f8c9-4564-b40e-150f47d0f628",
+		"unreleased": true,
+		"niveau_id": [
+			"bdc4744f-79df-4795-8795-2fee50c7416a"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "bespreekbaar maken van perspectieven ten aanzien van aspecten van diversiteit;",
+		"prefix": "u2",
+		"status": "definitief concept",
+		"id": "0833a8b8-2ff0-42f2-8f13-1428ed5812d6",
+		"unreleased": true,
+		"niveau_id": [
+			"bdc4744f-79df-4795-8795-2fee50c7416a"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "aandacht besteden aan discriminatie en het belang van inclusie en gelijkwaardige behandeling;",
+		"prefix": "u3",
+		"status": "definitief concept",
+		"id": "9e7b44ed-1a8c-4173-84f4-2537ab938b21",
+		"unreleased": true,
+		"niveau_id": [
+			"bdc4744f-79df-4795-8795-2fee50c7416a"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "bespreekbaar maken van vooroordelen en oordelen.",
+		"prefix": "u4",
+		"status": "definitief concept",
+		"id": "09312744-2263-4b9a-8c6a-db0de09df382",
+		"unreleased": true,
+		"niveau_id": [
+			"bdc4744f-79df-4795-8795-2fee50c7416a"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "normaalkracht, magnetische kracht, elektrostatische kracht en veerkracht",
+		"prefix": "u6",
+		"status": "definitief concept",
+		"id": "b0def06e-2f24-4966-a9a4-5f2b6603c3fd",
+		"unreleased": true,
+		"niveau_id": [
+			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "verbanden leggen tussen energieopwekking en -gebruik en de planetaire grenzen.",
+		"prefix": "u6",
+		"status": "definitief concept",
+		"id": "d93fe299-4583-4591-bf7d-377dbf20a896",
+		"unreleased": true,
+		"niveau_id": [
+			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "beschrijven van celdeling: mitose en meiose;",
+		"prefix": "u5",
+		"status": "definitief concept",
+		"id": "3a48cd7a-03c1-4512-8fd5-c7cf0383d96f",
+		"unreleased": true,
+		"niveau_id": [
+			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "beschrijven dat DNA-moleculen informatie bevatten van erfelijke eigenschappen;",
+		"prefix": "u6",
+		"status": "definitief concept",
+		"id": "7f8eb259-85af-4650-ad43-42eecbb7a385",
+		"unreleased": true,
+		"niveau_id": [
+			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "beschrijven hoe erfelijke eigenschappen worden doorgegeven aan een volgende generatie;",
+		"prefix": "u7",
+		"status": "definitief concept",
+		"id": "7119cae1-cc31-4959-ab8f-da76cffece5a",
+		"unreleased": true,
+		"niveau_id": [
+			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "vergelijken van stambomen die zijn gemodelleerd op basis van fenotypische en genetische kernmerken;",
+		"prefix": "u8",
+		"status": "definitief concept",
+		"id": "6de057af-3f3d-427b-9754-04da209b69a5",
+		"unreleased": true,
+		"niveau_id": [
+			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "beschrijven van grote stappen in de evolutie: RNA naar DNA, ontstaan van eukaryoten, van ongeslachtelijke- naar geslachtelijke voortplanting en van protist naar meercellige.",
+		"prefix": "u9",
+		"status": "definitief concept",
+		"id": "9b6ddbd9-3fdf-4e72-a347-4eddfb8e80a7",
 		"unreleased": true,
 		"niveau_id": [
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
