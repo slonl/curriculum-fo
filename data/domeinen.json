@@ -194,326 +194,6 @@
 		"id": "c1d07b63-95bf-4fc7-96e1-b22a39b7cafa"
 	},
 	{
-		"title": "overkoepelend",
-		"id": "635a9145-2656-4e8d-811a-62f3e48dc7b6",
-		"fo_kernzin_id": [
-			"be2ff595-6ec8-4ed6-aa86-c524c06962d9",
-			"4c4d5df7-77a5-44dd-9ab6-ba4b8d0a9e96"
-		]
-	},
-	{
-		"title": "communicatie",
-		"id": "74d09261-a347-495c-8dfe-1e5d9be40ffb",
-		"fo_kernzin_id": [
-			"f8d89e0d-d6be-409a-a344-196e5a0b714a",
-			"8272a107-7e81-4091-b6cd-879b8052f01c",
-			"0921195c-2f76-414a-b861-777e2b6d0564",
-			"2f4f094f-67be-41fa-bd45-68771af28d63",
-			"da52d703-c9c6-4581-bb0c-b1547b7fcaef",
-			"190e067a-8421-4864-8d9a-cb4d9281b210",
-			"c0d8fed8-c2d4-468d-a669-2e526aa33a22",
-			"1f238ad8-6055-450b-a178-83f3f1311b99"
-		]
-	},
-	{
-		"title": "taal",
-		"id": "8ee159ec-b460-448d-bd88-a147d14b5d7a",
-		"fo_kernzin_id": [
-			"c551cbed-cc8b-4b87-aec9-fbcf73450503",
-			"116e6789-fd55-4c77-a0bb-6a4c941cafac",
-			"7ce5a7f5-18ce-4bbc-b17f-eb0ca5784899",
-			"70dc6a58-04ab-4b58-a32a-d3f7bb5fc686"
-		]
-	},
-	{
-		"title": "visueel-manuele literatuur",
-		"id": "16dbcfb9-22e6-491d-a457-21492a072fff",
-		"fo_kernzin_id": [
-			"4da1b88b-7174-40ed-812e-0b156fe806e3",
-			"add71034-dcd2-4996-9d5f-d704fef7ea53"
-		]
-	},
-	{
-		"title": "overkoepelend",
-		"id": "ff7c348e-33b9-4dbd-996d-99e524750e43",
-		"fo_kernzin_id": [
-			"20c3363c-1328-40b0-bad2-5e3a97aa9b1e",
-			"c02f4a59-65ef-494c-bec2-81d586ebdff1",
-			"22da3988-48a5-4b30-8428-aa8c1742fd4f"
-		]
-	},
-	{
-		"title": "communicatie",
-		"id": "82c3686f-4c8d-44e3-a18a-596d37466a17",
-		"fo_kernzin_id": [
-			"ec4edc86-0810-43da-a84c-98e415f6336c",
-			"9ab673c5-2ee0-4dec-9385-34c25fce6f13",
-			"213d31f6-32cb-4286-9a88-88204a592b78",
-			"9bff9006-460c-41f6-bab9-fa041d128fcd",
-			"56ae9a25-81d3-4802-bb0c-cf487ff63486",
-			"e807a806-2d07-470d-a2c6-fc34c9b4639e",
-			"a776a1be-74fb-439d-920b-55b21b22ef1f",
-			"3c7b8ac5-f8ae-475f-93e9-5e6a731722f7",
-			"a26128f0-82c0-4aa2-b050-2564b4521b30",
-			"da3e1cc2-c5ff-49cf-9628-fac5501376b3",
-			"62aa5e23-352a-4d99-9bad-f88c9b85f938",
-			"8c309bed-6bc6-467d-9000-dc0b4a11d8a1"
-		]
-	},
-	{
-		"title": "taal",
-		"id": "22f930fa-7a1c-4a81-aebb-4594e679fc40",
-		"fo_kernzin_id": [
-			"c55cdcab-64cd-4682-a968-3a36c0a59f6f",
-			"47646205-962c-4584-bde0-75610509a5eb",
-			"4f5d6f08-baab-4f66-b4b6-c706d8baebc4",
-			"505fb18a-bdc2-4874-ac62-73015de75410",
-			"4c055ab2-95a9-4cc5-8914-25e64b0c90e8",
-			"5690cfda-7059-4265-a8a8-a08e6d46417d"
-		]
-	},
-	{
-		"title": "literatuur",
-		"id": "82a68665-7ba4-4bd2-9079-bb83b4fa3a93",
-		"fo_kernzin_id": [
-			"9fe17ae3-baa5-490c-b90c-a70e07377369",
-			"e2d1ebf4-2e1d-472f-83a1-df91e69ab148",
-			"2ad4ce04-bbbb-45e0-bde2-601d2e432f3d"
-		]
-	},
-	{
-		"title": "wiskundige concepten",
-		"id": "170ef45a-b5b2-4fb1-a5de-ab4108c66514",
-		"fo_kernzin_id": [
-			"166406c5-0a5f-479c-a306-a1b3f3b98be4",
-			"c026bcb6-7f92-45a0-8fc9-0e99b6763cca",
-			"3638ab3d-6fcb-4ecf-b425-834ac8d31c18",
-			"eb27e77a-95cd-4a5e-b30a-80006d4295b9",
-			"6af26334-2bb3-4e77-a30b-9e9d0080bf44",
-			"9aafabf1-e758-4c93-a7da-ad2b170a5556",
-			"9edd8676-54ba-435c-9e76-e0686e7d4df5",
-			"9e090580-ec3c-4454-8dca-841c19693acd",
-			"5f75a3e4-40e2-4daa-b3e7-177524ae341b"
-		]
-	},
-	{
-		"title": "wiskundige denk-werkwijzen",
-		"id": "fb304ff3-042b-4a32-8332-8dfc3a3a86ed",
-		"fo_kernzin_id": [
-			"3a4ace9b-7a49-4a3e-ba9f-aef82a108d99",
-			"47d020c0-eb90-46ac-a550-435082596219",
-			"60425e93-0dca-4124-a4f8-2c3c65afc799"
-		]
-	},
-	{
-		"title": "wiskunde en de wereld",
-		"id": "7d89138a-6d4b-4f60-9037-6903f0e1b45f",
-		"fo_kernzin_id": [
-			"23800d3e-26e4-4b7b-b27d-2f45c46523ee",
-			"8f92aedf-c011-4170-ba44-85c268ed4ae7",
-			"61c9241d-700d-4015-8d87-17ab57e0ea3b",
-			"f8a2fb6b-7a55-4b43-a8cf-d2d372a6f9bc",
-			"f98b8fcf-7170-47d4-ab68-26e8c1475ca4",
-			"4efd72fb-2709-42e0-b89c-7798e4af5f0b"
-		]
-	},
-	{
-		"title": "overkoepelend",
-		"fo_doelzin_id": [],
-		"prefix": "",
-		"id": "307765cb-6ce7-4a4b-937d-94bced4cb274",
-		"fo_kernzin_id": [
-			"d69da729-c33b-4240-a785-64ecb9ea1ed4",
-			"cd30f08b-aba9-44f7-bf3b-11ae59958627"
-		],
-		"replaces": [
-			"0d2e4fb8-cc61-427d-8ce7-ef6a2bf12e5e"
-		]
-	},
-	{
-		"title": "wiskundige concepten",
-		"fo_doelzin_id": [],
-		"prefix": "",
-		"id": "a88f48a3-ef11-4d54-a830-2afc1cd08541",
-		"fo_kernzin_id": [
-			"2a05ac0f-aa0c-4326-8c7c-d790a1b12f78",
-			"32272c47-3d2a-44ee-9a70-36d6ddbcdee0",
-			"f9abe225-a56f-4bc9-bcc7-fe0ac000c350",
-			"e44c3a79-7157-4176-b64e-41f017ebc60c",
-			"f75972c3-49ce-4efe-a6fd-9c2022807242",
-			"336ae851-042f-4407-b5cf-7672591fc250",
-			"70723a66-9276-4c57-8dda-d2510d69d8c4",
-			"6910602f-f216-4485-a0ec-94b05499a1fe",
-			"6d5c2bc1-bed3-4586-8e15-b53753003f1c"
-		],
-		"replaces": [
-			"f87d2b59-714b-4b94-9dfa-81e49632ad4e"
-		]
-	},
-	{
-		"title": "praktische kennis en vaardigheden",
-		"fo_doelzin_id": [],
-		"prefix": "",
-		"id": "17b9a630-801e-42c7-8a55-94f33345bf06",
-		"fo_kernzin_id": [
-			"8e138ed8-5e38-4f8f-bdc4-aa406a9e7074",
-			"ee2e28db-9045-4855-9c8f-8b2e1513dac6"
-		],
-		"replaces": [
-			"a6dbff19-0733-4552-a91d-00f9d66a4f18"
-		]
-	},
-	{
-		"title": "ontwerpen en maken",
-		"fo_doelzin_id": [],
-		"prefix": "",
-		"id": "144a4645-954a-4171-bf1e-dfd1e2257e15",
-		"fo_kernzin_id": [
-			"9278b9f1-119c-4ed9-86e9-bf7c1eece2fb",
-			"b2a620db-66cd-4120-a503-f102290aed59"
-		],
-		"replaces": [
-			"9927cd79-3f0a-413c-8978-f8a3b1ce8705"
-		]
-	},
-	{
-		"title": "de gedigitaliseerde wereld",
-		"fo_doelzin_id": [],
-		"prefix": "",
-		"id": "7cf9c21a-26f1-428d-85ff-4183e5c395f2",
-		"fo_kernzin_id": [
-			"9507c623-ad52-45d5-82d6-8c9bf94bce68",
-			"ccf62e51-120b-4d6d-b220-0057ff2dd214"
-		],
-		"replaces": [
-			"c75e2e6b-9d38-4e4b-ad2c-cec7e891f09d"
-		]
-	},
-	{
-		"title": "democratische oefenplaats",
-		"fo_doelzin_id": [],
-		"prefix": "",
-		"id": "2ae40eb2-6b31-4ba8-8e9f-88f78ac6f878",
-		"fo_kernzin_id": [
-			"b9393c85-57d0-4a1b-80d9-ab9a41a57005",
-			"adb7b42c-e8cb-4a47-95e5-179583504c4d"
-		],
-		"replaces": [
-			"9964b601-8768-4e69-b8b9-b79d2292603d"
-		]
-	},
-	{
-		"title": "samenleven in een democratische rechtsstaat",
-		"fo_doelzin_id": [],
-		"prefix": "",
-		"id": "e025367a-857a-4bdf-b416-fa435308b6bc",
-		"fo_kernzin_id": [
-			"3cace0c1-bdc3-4eb6-905f-725222fa3e79",
-			"e4935f00-96d9-469d-9632-2937b446236b"
-		],
-		"replaces": [
-			"cac1b698-034f-494e-a00f-decaebe019fc"
-		]
-	},
-	{
-		"title": "vormgeven aan democratische en maatschappelijke betrokkenheid",
-		"fo_doelzin_id": [],
-		"prefix": "",
-		"id": "21ca4545-c0df-4254-a24b-d23193c2bd02",
-		"fo_kernzin_id": [
-			"e93e617f-a41f-4b30-8a3d-41c5ce2cef9c",
-			"9a0647ce-28ac-4bfa-b5df-bbd3d9e1ec85"
-		],
-		"replaces": [
-			"7743dd74-641b-46ab-b3c8-244ecd5de0c6"
-		]
-	},
-	{
-		"title": "taal",
-		"fo_doelzin_id": [],
-		"prefix": "",
-		"id": "e4f59bcd-624e-4752-b571-ff71cd96f7ee",
-		"replaces": [
-			"6d328b4b-a3b9-4080-a92e-de84b802907b",
-			"fad1f721-dc7e-4dc8-bb75-1871ca49c109"
-		],
-		"fo_kernzin_id": [
-			"7482acb9-11cb-4378-aa2c-19df377007bf",
-			"b9c9aeae-4fd6-4185-9575-ab0379c0464d",
-			"5df9ba0e-0381-4f88-892b-d738b7a291d2",
-			"ab3a106b-06ab-4659-8cba-5fba575ca430"
-		]
-	},
-	{
-		"title": "wiskunde en de wereld",
-		"fo_doelzin_id": [],
-		"prefix": "",
-		"id": "3d657875-bc5c-4680-b87b-87a54dc278f1",
-		"replaces": [
-			"499a6542-3e4b-4595-b9b6-543591e66ae1",
-			"4f3da229-5364-4dec-ac09-e4013aeeb7f3"
-		],
-		"fo_kernzin_id": [
-			"43644b59-40cf-4bb7-8270-3fbcdd4b9947",
-			"a839d7a9-a3d3-41f8-ba12-9125dfac5ca7",
-			"46420f39-bdda-4516-ac2e-26d574de443c",
-			"f5f96657-37f1-4a49-a8e8-83df0e631d0a"
-		]
-	},
-	{
-		"title": "communicatie",
-		"fo_doelzin_id": [],
-		"prefix": "",
-		"id": "0dd79cc4-9d96-4b33-9aef-a216196d502d",
-		"replaces": [
-			"eabb7766-d2b2-4e03-a296-234330510a63",
-			"04389b88-0243-4d0b-867b-d1fc048abcf4"
-		],
-		"fo_kernzin_id": [
-			"1b69bbbd-8ce7-449b-9388-75b78d4c4739",
-			"4ea09f23-3c5c-4701-88e1-f8be94b1fcee",
-			"df1ef617-f5fe-45c2-b8c4-fcc72c46fdab",
-			"c9307677-3c83-4288-8f21-059763ee3212",
-			"ca0a705d-afc6-478a-bc91-8d3e81a6e293",
-			"ab134e78-18af-4243-853a-461d9d9ca0f4",
-			"414ba76b-2fa7-4044-9ad1-f3c3a1ce41c6",
-			"dda56d77-acb8-4fe7-a7e3-4081ca3170d3"
-		]
-	},
-	{
-		"title": "literatuur",
-		"fo_doelzin_id": [],
-		"prefix": "",
-		"id": "ba62b012-4f9a-4ebc-a639-417f8f04d0d6",
-		"replaces": [
-			"5d0676d3-fbea-4ab9-8ce1-fb1b3a622236",
-			"2520c537-27b6-4394-af35-2ab3b7eeb7fd",
-			"8512d7c8-d3e6-4eb1-8a9d-c8f77e695ed7"
-		],
-		"fo_kernzin_id": [
-			"34430f42-0732-49f0-b431-f5be4ee219a2",
-			"9ebc4ae7-b471-424d-9590-faf3f552717c",
-			"a748d090-0e8c-4949-99f6-35cd2d752409",
-			"9defb182-ed17-4d99-9272-fa8d4c38a374"
-		]
-	},
-	{
-		"title": "wiskundige denk-werkwijzen",
-		"fo_doelzin_id": [],
-		"prefix": "",
-		"id": "03cde776-2566-4653-8bd0-0212ef14e6ec",
-		"replaces": [
-			"7b38ff3a-19b8-4980-b282-5f27e9bf38c6",
-			"42f9ada1-0515-4dc9-9a83-c4e33aeae4e2"
-		],
-		"fo_kernzin_id": [
-			"19865b3a-fc4d-4f29-9990-66a51b44d280",
-			"91b09b7e-c51e-4edf-b782-958e9618025c",
-			"b5418274-f8b8-4dec-b189-f5cea42e4691",
-			"03d7766d-1da5-43c4-9b59-47181707f914"
-		]
-	},
-	{
 		"title": "Wiskundige attitude",
 		"fo_doelzin_id": [
 			"8df69377-7579-4f3e-a116-c546a91042ac",
@@ -524,352 +204,6 @@
 		"id": "750dee37-1bd2-4f8f-855a-fa2485923df4",
 		"replaces": [
 			"60d3f360-a7ba-421f-9f4b-c18a48bd4c13"
-		]
-	},
-	{
-		"title": "Domein A Natuurwetenschappen en technologie",
-		"description": "Natuurwetenschappen en technologie",
-		"prefix": "A",
-		"id": "e1bedb2f-4564-4971-97a4-dcef04fadb2b",
-		"fo_doelzin_id": [
-			"d0db4ad0-eeab-47c4-bd29-df74cf9b5d4b",
-			"3b3c2814-72e5-48e9-9a3e-c9e6d68f18f1",
-			"564c3d7a-6f2b-4feb-b51b-06eaa2378f46",
-			"ed26465f-edee-4084-84f6-b6c3fe644a8a",
-			"5420e18f-5af8-44b9-8fb7-dd35765ca578",
-			"6900d60b-039b-451b-abfb-104fe3c6afe7",
-			"a3a767ae-ef04-4ec3-bd99-ef1b726998fe",
-			"a3725b07-1860-450e-b4f8-eb8bd3cf2c39",
-			"1a8ca46d-f6a1-460a-8c34-e0df9faee019",
-			"f14e8b81-6920-4e50-b0c8-4ba44d0baf42"
-		],
-		"replaces": [
-			"5f4b6d59-7bd0-4a2b-aa40-e9ec0641cd3d"
-		]
-	},
-	{
-		"title": "Domein B Mens, materie en energie",
-		"description": "Mens, materie en energie",
-		"prefix": "B",
-		"id": "d1e11024-e112-49e8-bd43-87b3f3ea64cd",
-		"fo_doelzin_id": [
-			"7ed3a4c6-104b-4a46-80fe-ded283441fcd",
-			"ec24bd1d-e095-4bda-ae30-970a625c90ef",
-			"a50ab69e-35c2-4cdf-b9cf-7b4496e0a31d",
-			"fac27b1a-c08d-4adb-bc7d-e6a7cf6b5536",
-			"6cd8693d-31c2-49dc-a5de-404064530a00",
-			"ba32fa79-f7f8-43b3-a9b2-4c7cc66daf31",
-			"3e70f0af-a6d0-4f4d-a0f2-1c68cfe932c2",
-			"8bf22b05-5772-43a7-aa64-03c7d2347e7e",
-			"34850dd9-ea27-4ea1-991d-c37c98083f49",
-			"0e2d6b55-90b3-4722-ada9-166a43935efc"
-		],
-		"replaces": [
-			"bd908d39-4932-4770-b1df-932e3707bcbe"
-		]
-	},
-	{
-		"title": "Domein C Mens en levende systemen",
-		"description": "Mens en levende systemen",
-		"prefix": "C",
-		"id": "a0bda578-e75d-4cee-a189-8c2f6b62c890",
-		"fo_doelzin_id": [
-			"985f0789-764e-436d-91d6-0d9d0f10b465",
-			"40b1c0ec-d44e-4c1d-8443-7233997dd77c",
-			"ce3601c4-df80-428f-856a-c35666b4e2b0",
-			"f7d99db2-5259-4d0d-a1aa-bd9be7b870e4",
-			"43d86de9-d0bf-4edc-8247-44bef95a608d",
-			"3a844f7d-b503-4954-8169-ded27bb475ef"
-		],
-		"replaces": [
-			"5cb26617-92ff-4b36-96d6-b490d16b65f9"
-		]
-	},
-	{
-		"title": "Domein D Mens en ruimte",
-		"description": "Mens en ruimte",
-		"prefix": "D",
-		"id": "7a495049-96e7-46df-b864-b1e3f77fcc90",
-		"fo_doelzin_id": [
-			"4cbc7f87-05a5-4a3b-acb8-dbd007219e10",
-			"c9175a22-1e71-4b92-94e8-cf7ac1e67a4b",
-			"db076b26-56f4-4cdd-af6b-1df601d1a47b",
-			"79215913-b207-4f10-8f5c-175f2d65c421",
-			"eefaf09e-bb9f-44a6-b1fc-6ffa3f7acc09"
-		],
-		"replaces": [
-			"b323fdd3-af39-433b-bc87-be84af58330d"
-		]
-	},
-	{
-		"title": "Domein E Mens en samenleving",
-		"description": "Mens en samenleving",
-		"prefix": "E",
-		"id": "a601cd38-4e20-47aa-a5fc-2625f11b6388",
-		"fo_doelzin_id": [
-			"db2f7b8d-1d2d-4b18-b0fc-7027d0bb5143",
-			"6b907153-9b43-46f3-9961-624b7981e105",
-			"7f0689e5-0917-49ba-b5fb-ed9ddd9c7237",
-			"c66bc745-d420-4f71-acf1-53e4ea4f1873"
-		],
-		"replaces": [
-			"abd075f6-6427-42da-b9d4-4d4e7b81012d"
-		]
-	},
-	{
-		"title": "Mens en maatschappelijke vraagstukken",
-		"description": "Mens en maatschappelijke vraagstukken",
-		"prefix": "A",
-		"id": "b7a99a8c-1bd5-401b-a136-1237c1048ca0",
-		"fo_doelzin_id": [
-			"a4231d58-cf40-4e86-8e1e-4a37601dbf76",
-			"51b3db48-3ee2-47b8-9290-496b62c8158d",
-			"2ae2e35f-7aa9-4be3-9ec8-b76c88644930",
-			"384cf39d-a302-4710-83ba-9f19f0d56041"
-		],
-		"replaces": [
-			"afbf24c3-b799-423a-bac8-9ea25c238b2d"
-		]
-	},
-	{
-		"title": "Mens en ruimte",
-		"description": "Mens en ruimte",
-		"prefix": "B",
-		"id": "be919c66-d06d-476f-951e-8a74737b64db",
-		"fo_doelzin_id": [
-			"c02deabd-5f8e-44b3-bf45-cae76f51f40d",
-			"40e9d283-d8f0-44f1-ae90-768341aebae3",
-			"504a415b-4b12-432b-9828-51def2ecafa3",
-			"a38389e9-dd1d-4c97-b6c8-75a55d706136",
-			"40f4247d-94e1-435b-a774-f5bcce0e75f4"
-		],
-		"replaces": [
-			"41c487ce-7179-4b94-9096-e5638bcc6dfb"
-		]
-	},
-	{
-		"title": "Mens en tijd",
-		"description": "Mens en tijd",
-		"prefix": "C",
-		"id": "9f9b4b8d-0f2b-437a-9c0d-0fd256594d91",
-		"fo_doelzin_id": [
-			"3c7eb063-b985-4b27-b245-14b8370ed61c",
-			"178c6e25-138c-45d2-8f6f-1d8fd11bec0b",
-			"b8f90f42-698d-41ac-9ac2-c886e61ec0c7",
-			"cefa9998-cadf-4ce8-a152-2e7e7d8d85b8",
-			"2cd093a3-df1a-4fa7-8c72-7884b2ba241f",
-			"c5f155c0-dfe2-40ed-b1e3-ae9b6ab94d6c"
-		],
-		"replaces": [
-			"4b4463ee-0f28-429d-b2d4-97b4034dec98"
-		]
-	},
-	{
-		"title": "Mens en samenleving",
-		"description": "Mens en samenleving",
-		"prefix": "D",
-		"id": "9994db7e-4d90-4bc4-8451-5e325b3a3592",
-		"fo_doelzin_id": [
-			"03407b63-b280-41e0-affb-beebc99df4f8",
-			"1873f42c-c1eb-4165-b172-3c8906e88e14",
-			"e63b719d-9766-4e84-9390-dd4aa9d08285",
-			"be18a17f-4e2a-4166-a32b-9ba82f9a3abc",
-			"265cb401-b3cc-4b38-baa9-ce7acb1c9e12",
-			"ceae4274-e812-4997-809f-9b9f4eba8c56",
-			"ef2073cf-b9a0-4d69-8931-b836c0b792c2",
-			"7f2db297-a9b6-427a-94ea-78c6cd8ff84d"
-		],
-		"replaces": [
-			"c995dd24-17ae-4168-8a4a-542e4c1878bf"
-		]
-	},
-	{
-		"title": "Mens en omgeving",
-		"description": "Mens en omgeving",
-		"prefix": "E",
-		"id": "503bfb08-1441-42d8-862b-3123f2794a67",
-		"fo_doelzin_id": [
-			"77cbcef6-69e2-45ed-9c5b-c0e7fd6e22b7",
-			"47cffe7f-ff19-4a81-9afa-afe3a9fd0baf",
-			"ec7feba9-c175-420c-82a3-bebcdf31eaf6",
-			"3f7a3c6a-e89e-41be-a8a0-9575b9a779a1",
-			"2ba49b4c-cf88-47bf-b47c-79a49fdc6aa3"
-		],
-		"replaces": [
-			"eec88335-676e-4024-a33c-f784b5e5fdcb"
-		]
-	},
-	{
-		"title": "Domein Communicatie Engels",
-		"description": "Communicatie Engels",
-		"prefix": "A",
-		"id": "967e5d45-0a36-4f21-a344-2b762e20e739",
-		"fo_doelzin_id": [
-			"708b6901-7e04-46bf-b7b2-452f3b03299e",
-			"ae9c2112-82ff-4605-840c-7c2f86bfa1ae",
-			"78df41b7-c29f-4d3a-abb2-c9aaaa7c849b",
-			"4c9d522c-e83e-4e5e-b57a-34beb10017ea",
-			"b4a3ee93-d5fd-4fe1-b795-1c56b8ddc33a",
-			"9f877ba2-66be-4998-84f9-39e2d1bbd300",
-			"24b35a8d-1434-4d42-82a3-086682b0f280",
-			"05f96f7c-3f46-4368-9c29-ae9435afbb0d",
-			"a722c8a4-f536-49e7-b415-7ae7f312ecc7",
-			"4096fc80-7be9-4d26-b30a-e1cca438d72e"
-		],
-		"replaces": [
-			"f2f8de98-779e-4c8b-81ea-02feca16e84d"
-		]
-	},
-	{
-		"title": "Domein Taal- en cultuurbewustzijn Engels",
-		"description": "Taal en cultuurbewustzijn Engels",
-		"prefix": "B",
-		"id": "40cf07c2-a7f6-41f0-8440-d8667823aebd",
-		"fo_doelzin_id": [
-			"0e083c54-fe91-46f1-9425-ad5fed25d738",
-			"5c3cfbbc-f0d2-4d01-aff4-4ea7dbef43e7",
-			"935be364-473c-4371-961d-e96617486a54",
-			"39957922-536d-45cd-97b6-3d63efb7d46b",
-			"094512c7-3a68-497d-99a0-4e16965e617e"
-		],
-		"replaces": [
-			"a1b570fc-07a5-41a4-8b68-ba0108b9067c"
-		]
-	},
-	{
-		"title": "Domein Communicatie MVT",
-		"description": "Communicatie MVT",
-		"prefix": "A",
-		"id": "8d666ccd-fd32-41be-ad28-545968b5964e",
-		"fo_doelzin_id": [
-			"420411cd-379e-4326-9294-8b20b4506e32",
-			"f453e509-64c6-4540-8910-0b0ae8ea53c7",
-			"2fe23a82-58cc-4521-b33d-6e1da3ee7381",
-			"976cb419-53d2-4e1b-8a0b-e375f46f2d7e",
-			"6a4c8775-68ee-440d-8c60-b9aefabe764e",
-			"129adb3d-6fe8-4381-9bbb-5c85c5053ca2",
-			"47485121-9fd9-4e37-91f3-b3c17ccdfc6b",
-			"fa61e1db-48b4-4a52-98cb-98c67db1bf68",
-			"e2e763d0-d4cb-46e2-b76f-f3534b416e36",
-			"04800e93-1fac-44ed-90a2-05e87a83e69e",
-			"3f2f28fa-0f14-4750-b904-930e75e37722",
-			"53d43e53-20d5-4d8f-8d04-1dce3f1e7e1c",
-			"e7f43894-ca6b-49d7-920c-6a6907df3f7e",
-			"684662bf-b29f-4784-876b-ea17cea76527"
-		],
-		"replaces": [
-			"d2412550-d944-4d05-a76d-5838315f4517"
-		]
-	},
-	{
-		"title": "Domein Taal- en cultuurbewustzijn MVT",
-		"description": "Taal- en cultuurbewustzijn MVT",
-		"prefix": "B",
-		"id": "c3a97d2c-2b04-46c0-ae85-4abb56cd414a",
-		"fo_doelzin_id": [
-			"551b2867-6ecb-473f-9947-624931524fe8",
-			"76111cbe-4a2f-4f6c-befd-116d2b660135",
-			"e71876cf-e206-4560-9095-14b66152282c",
-			"080a301b-95b8-4a06-9022-5c6afb67dc47",
-			"4c886fd6-92a0-41dc-8cde-86f7ed2eccbe",
-			"144bf86f-40b5-4824-8afb-0d5642cdacdf"
-		],
-		"replaces": [
-			"9f660c97-c0b3-4274-82e2-57f64c89f4c2"
-		]
-	},
-	{
-		"title": "Domein A Artistiek creatief vermogen",
-		"description": "Artistiek creatief vermogen",
-		"prefix": "A",
-		"id": "85da172c-39b1-42aa-9862-a9f05086a2d1",
-		"fo_doelzin_id": [
-			"f2c2cfb9-3787-45ba-b661-1b19ad88fa9b",
-			"ffff442d-5d4e-4f97-a085-617d802d78be",
-			"f8fb026a-475f-4efc-9563-8e9acd38831b",
-			"55310e67-b502-4ee1-b903-0fd82d3a8b22",
-			"b36b1d58-8706-4727-8628-f382e5e67248",
-			"437f238c-a29c-4fdb-a4ab-bacca4a49dad"
-		],
-		"replaces": [
-			"19fe37be-ca8b-4ed6-a774-fdf97adb6ebc"
-		]
-	},
-	{
-		"title": "Domein B Maken en betekenis geven",
-		"description": "Maken en betekenis geven",
-		"prefix": "B",
-		"id": "14c244fc-11e1-40de-a7ee-8214fbcb71cb",
-		"fo_doelzin_id": [
-			"fcb86037-9679-4c73-9a90-0184e7a20d8d",
-			"23538f9c-f178-498a-95f7-9a8ce6163692",
-			"d62cf582-2b54-4b64-bcce-6bb6653277b6",
-			"de4af16f-2f35-419b-8819-f90e1f3ab861"
-		],
-		"replaces": [
-			"60902cee-1326-47de-93da-9c27ddc2d5f9"
-		]
-	},
-	{
-		"title": "Domein C Meemaken en betekenis geven",
-		"description": "Meemaken en betekenis geven",
-		"prefix": "C",
-		"id": "c9799d7e-57ec-41d8-9d01-1a8a011804b6",
-		"fo_doelzin_id": [
-			"532b7b91-78f8-4bea-a6c1-2853d8a1f3bd",
-			"78eed018-5f18-4bc2-92d3-a16ee7e31aa6",
-			"10a19dd3-ae85-482c-8d27-c1eb6b473be0",
-			"586a0cfa-86cd-4cbd-afff-162ee0428059"
-		],
-		"replaces": [
-			"4de7b7a4-940c-44eb-8540-718f1056214a"
-		]
-	},
-	{
-		"title": "Domein Leren bewegen",
-		"description": "Leren bewegen",
-		"prefix": "A",
-		"id": "74fa3be1-8877-42be-b230-8021af5e8576",
-		"fo_doelzin_id": [
-			"f9689b0a-d205-44b6-88d0-e3f23dbb3905",
-			"6f81a25a-2e08-498c-aa34-14468abff15d",
-			"fb8625e4-5f55-4796-be23-7d4bf8307daf",
-			"3924d4c8-b6a5-4e66-80bb-99685029d0a3"
-		],
-		"replaces": [
-			"923d91fe-49ed-44ed-8bd4-78c56cfc9456"
-		]
-	},
-	{
-		"title": "Domein Samen bewegen",
-		"description": "Samen bewegen",
-		"prefix": "B",
-		"id": "3207b265-4c83-4a54-84c8-aa28b1476bc1",
-		"fo_doelzin_id": [
-			"b5f56bef-b811-44fb-a201-7da3732f82d7",
-			"e4b86f17-481f-4918-9711-a0bf5dda80df",
-			"8d31fcbb-35b3-4fc7-8b77-9599e9737a3d",
-			"4161ab46-84d7-4d10-9b1a-76d434ecebcf",
-			"9342db03-133c-469f-b3e7-7551ca131807",
-			"863e84f8-d8bd-4864-81cc-41075ec924fa"
-		],
-		"replaces": [
-			"c062b9a9-b225-426f-acc5-34b7e3b3a774"
-		]
-	},
-	{
-		"title": "Domein Betrokken bewegen",
-		"description": "Betrokken bewegen",
-		"prefix": "C",
-		"id": "bec51ecf-0015-4bd4-b05a-ec6fb7221cc2",
-		"fo_doelzin_id": [
-			"2e7ef048-5de6-42ca-8da1-7ebe2041ebaf",
-			"e79e11ed-d305-4b0d-b5d7-51c2adcb7bdb",
-			"bc35daa8-4a5c-4b8e-8cc2-11242b78971e",
-			"dffbb218-facb-4cc7-b8c6-1e1686919df5"
-		],
-		"replaces": [
-			"e80d62da-4992-4090-a7e5-47144423ff47"
 		]
 	},
 	{
@@ -5982,6 +5316,770 @@
 		],
 		"replaces": [
 			"5b4b1cea-c0ae-41ca-9aa7-3be81e86a28c"
+		]
+	},
+	{
+		"title": "praktische kennis & vaardigheden",
+		"description": "praktische kennis & vaardigheden",
+		"id": "087b12f4-5116-477d-82af-e98cd5b92e3a",
+		"fo_kernzin_id": [
+			"7e4abff8-ed83-4e2e-be18-606d49a43f2c",
+			"e3e70716-d7c9-4394-9b32-bdd1b1a02b05",
+			"1f9d7bab-22f3-4133-94a5-02ade20ea3a3"
+		]
+	},
+	{
+		"title": "ontwerpen en maken",
+		"description": "ontwerpen en maken",
+		"id": "fb716895-b04e-4c22-80a4-8d779b08cbca",
+		"fo_kernzin_id": [
+			"5a12f220-cdaf-48b5-8ed6-021f3ad0c3a4",
+			"28a1e1a3-3ca9-439e-93f7-ef69c9d3237d",
+			"c446d13b-d3f0-4213-a04f-d843380b34db"
+		]
+	},
+	{
+		"title": "de gedigitaliseerde wereld",
+		"description": "de gedigitaliseerde wereld",
+		"id": "74267558-8694-4f1b-ba91-625cabbe4516",
+		"fo_kernzin_id": [
+			"272435ee-a09a-4d7d-b1b8-82ebba1538b9",
+			"2a528c60-eab4-4c47-a898-660aaa23c111",
+			"46c1ea57-9d69-43f8-ad4e-8e3ccfffc9fa"
+		]
+	},
+	{
+		"title": "jezelf en de ander",
+		"description": "jezelf en de ander",
+		"id": "4e9e8eba-6487-40f4-bcfb-dd2b959d2771",
+		"fo_kernzin_id": [
+			"e7080f4c-38b0-4979-82a7-47e3f96fafb2",
+			"6f544178-75ba-486d-88d1-c96d3bed0de2",
+			"ca3a4125-43cf-4618-bd64-f46734182e31"
+		]
+	},
+	{
+		"title": "samenleven in een democratische rechtsstaat",
+		"description": "samenleven in een democratische rechtsstaat",
+		"id": "1609786b-67ee-470c-825a-89ba10cea39c",
+		"fo_kernzin_id": [
+			"6d1aa3b6-44bb-4516-a338-2c055bcacc77",
+			"e9a3cb8e-451a-4189-994f-a6eff39468bd",
+			"4bd8fd09-2654-4820-bf02-568237dc0f97"
+		]
+	},
+	{
+		"title": "vormgeven aan democratische en maatschappelijke betrokkenheid",
+		"description": "vormgeven aan democratische en maatschappelijke betrokkenheid",
+		"id": "08ac1cbd-e9a0-4e97-88cc-094fd5fbaa56",
+		"fo_kernzin_id": [
+			"2add5a8c-aff9-4e0c-a108-f5b3cbe638dc",
+			"df1abbcb-7111-4ed4-9796-fa707e1b9ef1",
+			"136bf4e6-7b15-498d-8277-27891c5ba156"
+		]
+	},
+	{
+		"title": "Domein: mens en welvaart",
+		"description": "Domein: mens en welvaart",
+		"id": "eb5c8393-f95b-4bdf-9d2a-b998fdf57671",
+		"fo_kernzin_id": [
+			"781541a8-32ac-4569-bbb8-fcefed92f3c5"
+		]
+	},
+	{
+		"title": "Domein: scheikundige verschijnselen",
+		"description": "Domein: scheikundige verschijnselen",
+		"id": "414d29ff-590a-4bfe-b7d7-d61c4d8d4a55",
+		"fo_kernzin_id": [
+			"c31a9633-362f-43c6-bbb5-76fda0c3d08d"
+		]
+	},
+	{
+		"title": "Domein: rijke leeromgeving",
+		"description": "Domein: rijke leeromgeving",
+		"id": "66750076-da33-4108-8632-2324c9ac6ff4",
+		"fo_kernzin_id": [
+			"91f72431-0558-4405-a828-fa2fcf1d0e43",
+			"feefae89-38a5-4eb8-a5a8-a7a1642c6c77"
+		]
+	},
+	{
+		"title": "Domein: taal leren en gebruiken",
+		"description": "Domein: taal leren en gebruiken",
+		"id": "7dd3fb34-84b9-4fc5-b395-90424696ce52",
+		"fo_kernzin_id": [
+			"539f16c5-29e0-45e8-83e7-72efada2f385",
+			"fd4cc41e-c781-4cde-80e7-a6c11de8f5e4"
+		]
+	},
+	{
+		"title": "Domein: taalbewustzijn",
+		"description": "Domein: taalbewustzijn",
+		"id": "e6bb1cf2-0ac3-479e-9bde-d904d0905838",
+		"fo_kernzin_id": [
+			"e787e067-f84a-4dec-a16b-ef631cfa479e",
+			"af333c2c-c23e-41e1-8a86-cc370dc8a2db"
+		]
+	},
+	{
+		"title": "Domein: taalexpressie",
+		"description": "Domein: taalexpressie",
+		"id": "6a3e3d2d-89af-4129-8e7c-aa60f3f18bb9",
+		"fo_kernzin_id": [
+			"710a4500-a3d3-4c1e-a3d1-9f5ea71958cd",
+			"55af854a-12d7-459a-bec7-f7bde0b76667"
+		]
+	},
+	{
+		"title": "Domein: cultuurbewustzijn",
+		"description": "Domein: cultuurbewustzijn",
+		"id": "4c9fc67e-23f3-44f4-938c-b6b7c3fe0b75",
+		"fo_kernzin_id": [
+			"5b988b3c-a5f7-4fe6-a4f5-9d9bb637ad59",
+			"c42c5913-79ea-4382-95a7-57305e45b211"
+		]
+	},
+	{
+		"title": "Domein: natuurwetenschappen en technologie",
+		"description": "Domein: natuurwetenschappen en technologie",
+		"prefix": "",
+		"id": "2e95911f-8bd5-41f2-904c-86f348da8989",
+		"replaces": [
+			"5f4b6d59-7bd0-4a2b-aa40-e9ec0641cd3d",
+			"e1bedb2f-4564-4971-97a4-dcef04fadb2b"
+		],
+		"fo_kernzin_id": [
+			"01970202-ebba-4cc1-81ce-1b37ef9524d5",
+			"f8094d7b-f45d-421d-b551-bafcc4039cab"
+		]
+	},
+	{
+		"title": "Domein: natuurkundige en scheikundige verschijnselen en technische systemen",
+		"description": "Domein: natuurkundige en scheikundige verschijnselen en technische systemen",
+		"prefix": "",
+		"id": "2f5dfd65-4188-4a6a-8a18-7d253125db85",
+		"replaces": [
+			"bd908d39-4932-4770-b1df-932e3707bcbe",
+			"d1e11024-e112-49e8-bd43-87b3f3ea64cd"
+		],
+		"fo_kernzin_id": [
+			"fc5fe6a9-5b81-411c-867f-8da52c919fcc",
+			"332d79af-df79-4fd2-b151-9ff22f0ec074"
+		]
+	},
+	{
+		"title": "Domein: organismen en gezondheid",
+		"description": "Domein: organismen en gezondheid",
+		"prefix": "",
+		"id": "8456e3cd-ccc7-4174-8796-e86b335409cf",
+		"replaces": [
+			"5cb26617-92ff-4b36-96d6-b490d16b65f9",
+			"a0bda578-e75d-4cee-a189-8c2f6b62c890"
+		],
+		"fo_kernzin_id": [
+			"32b54914-04f1-4ff2-af67-eb8549a5d6d3",
+			"30d675a5-d2ba-4004-8705-228203b94da8"
+		]
+	},
+	{
+		"title": "Domein: systeem aarde",
+		"description": "Domein: systeem aarde",
+		"prefix": "",
+		"id": "7c8e6b84-912c-4bf9-a365-6595240e3242",
+		"replaces": [
+			"b323fdd3-af39-433b-bc87-be84af58330d",
+			"7a495049-96e7-46df-b864-b1e3f77fcc90"
+		],
+		"fo_kernzin_id": [
+			"52278a69-d6ba-4df6-9bf8-66635743e521",
+			"64dc2933-0d4a-4c3b-b157-05bf73f33eb2"
+		]
+	},
+	{
+		"title": "Domein natuurwetenschappen en technologie",
+		"description": "Mens en samenleving vervalt",
+		"prefix": "E",
+		"id": "b12069d4-a9a8-4ad2-ada9-281be0cf157a",
+		"fo_doelzin_id": [],
+		"replaces": [
+			"abd075f6-6427-42da-b9d4-4d4e7b81012d",
+			"a601cd38-4e20-47aa-a5fc-2625f11b6388"
+		]
+	},
+	{
+		"title": "Domein: vraagstukken en perspectieven",
+		"description": "Domein: vraagstukken en perspectieven",
+		"prefix": "",
+		"id": "9407b98a-12fa-4d68-aeba-2ea7d1a64d63",
+		"replaces": [
+			"afbf24c3-b799-423a-bac8-9ea25c238b2d",
+			"b7a99a8c-1bd5-401b-a136-1237c1048ca0"
+		],
+		"fo_kernzin_id": [
+			"d858cba5-a941-4b29-b621-325a357c526e",
+			"d68634e7-1358-466d-91a1-d1a5b157bcee"
+		]
+	},
+	{
+		"title": "Domein: mens en ruimte",
+		"description": "Domein: mens en ruimte",
+		"prefix": "",
+		"id": "86d1e6c8-a127-47c0-ac4e-5b14002a2762",
+		"replaces": [
+			"41c487ce-7179-4b94-9096-e5638bcc6dfb",
+			"be919c66-d06d-476f-951e-8a74737b64db"
+		],
+		"fo_kernzin_id": [
+			"cfbdbea5-7508-4242-9865-bd716e74ab05",
+			"6e3d6f76-fed1-4ac7-a50e-df061915bd32"
+		]
+	},
+	{
+		"title": "Domein: mens en tijd",
+		"description": "Domein: mens en tijd",
+		"prefix": "",
+		"id": "5ab630ee-61da-4bb9-811d-aa2153d6404d",
+		"replaces": [
+			"4b4463ee-0f28-429d-b2d4-97b4034dec98",
+			"9f9b4b8d-0f2b-437a-9c0d-0fd256594d91"
+		],
+		"fo_kernzin_id": [
+			"2caed994-851e-45eb-9913-acd235cdd1ff",
+			"4b5f9e98-2774-4a59-b331-900ea635bd30"
+		]
+	},
+	{
+		"title": "Domein: mens en samenleving",
+		"description": "Domein: mens en samenleving",
+		"prefix": "",
+		"id": "8586da57-d81d-4ec1-a450-a75e15c01a71",
+		"replaces": [
+			"c995dd24-17ae-4168-8a4a-542e4c1878bf",
+			"9994db7e-4d90-4bc4-8451-5e325b3a3592"
+		],
+		"fo_kernzin_id": [
+			"31a4b578-9139-4009-afd6-00745d6233d1",
+			"bcc1e033-b7a7-4485-8ebb-e2fa900c158c"
+		]
+	},
+	{
+		"title": "Mens en omgeving",
+		"description": "Mens en omgeving",
+		"prefix": "E",
+		"id": "28e8ea1c-bbe2-4f38-97a6-aa0077ef15da",
+		"fo_doelzin_id": [
+			"fcad1b40-0aea-4f80-ba36-79c49bb325a2",
+			"9c97aceb-e4b6-4727-b220-0f77bbd3cc86"
+		],
+		"replaces": [
+			"eec88335-676e-4024-a33c-f784b5e5fdcb",
+			"503bfb08-1441-42d8-862b-3123f2794a67"
+		]
+	},
+	{
+		"title": "Domein: communicatie",
+		"description": "Domein: communicatie",
+		"prefix": "",
+		"id": "2804c90f-6f93-485c-9456-7bba7b14b949",
+		"replaces": [
+			"f2f8de98-779e-4c8b-81ea-02feca16e84d",
+			"967e5d45-0a36-4f21-a344-2b762e20e739"
+		],
+		"fo_kernzin_id": [
+			"a1c128e3-a6b2-486a-9761-74b600b2b8d3",
+			"aba78fd0-4fba-47ec-8e76-cee4a91977f7",
+			"4c48ac91-fbac-40b5-8a80-944f1a52b3b0"
+		]
+	},
+	{
+		"title": "Domein: taal- en cultuurbewustzijn",
+		"description": "Taal en cultuurbewustzijn Engels",
+		"prefix": "",
+		"id": "981eae97-0f55-4976-a579-d5fbfbf59af5",
+		"replaces": [
+			"a1b570fc-07a5-41a4-8b68-ba0108b9067c",
+			"40cf07c2-a7f6-41f0-8440-d8667823aebd"
+		],
+		"fo_kernzin_id": [
+			"fb2bb689-b912-474d-9902-60d912fb3656",
+			"86ab20f0-abfc-4330-aee5-6b04be9ed64b"
+		]
+	},
+	{
+		"title": "Domein: communicatie",
+		"description": "Domein: communicatie",
+		"prefix": "",
+		"id": "8aea361e-9135-4db7-9c93-2d630db52173",
+		"replaces": [
+			"d2412550-d944-4d05-a76d-5838315f4517",
+			"8d666ccd-fd32-41be-ad28-545968b5964e"
+		],
+		"fo_kernzin_id": [
+			"56a737ce-592f-4b51-94bd-f8b7fb6c5647",
+			"b736cb9a-b408-4466-a763-a5f934c42126"
+		]
+	},
+	{
+		"title": "Domein: taal- en cultuurbewustzijn",
+		"description": "Taal- en cultuurbewustzijn",
+		"prefix": "",
+		"id": "5c19d82e-350a-4b70-848a-d822334b2b11",
+		"replaces": [
+			"9f660c97-c0b3-4274-82e2-57f64c89f4c2",
+			"c3a97d2c-2b04-46c0-ae85-4abb56cd414a"
+		],
+		"fo_kernzin_id": [
+			"44a0ff09-ff0f-4722-a022-8791346b3462"
+		]
+	},
+	{
+		"title": "Domein: artistiek creatief vermogen",
+		"description": "domein: artistiek creatief vermogen",
+		"prefix": "",
+		"id": "f70427be-1cab-40da-91b8-da4e834c73da",
+		"replaces": [
+			"19fe37be-ca8b-4ed6-a774-fdf97adb6ebc",
+			"85da172c-39b1-42aa-9862-a9f05086a2d1"
+		],
+		"fo_kernzin_id": [
+			"51469884-c69f-4631-9528-69b2916796e5",
+			"0a5fc301-25a3-437d-bfb6-cb141208460f"
+		]
+	},
+	{
+		"title": "Domein: maken en betekenis geven",
+		"description": "Domein: maken en betekenis geven",
+		"prefix": "",
+		"id": "9743923c-5a1a-419c-9df8-64deff5d1f00",
+		"replaces": [
+			"60902cee-1326-47de-93da-9c27ddc2d5f9",
+			"14c244fc-11e1-40de-a7ee-8214fbcb71cb"
+		],
+		"fo_kernzin_id": [
+			"d9a98672-6cbe-4276-800c-d8f36d24fd2b",
+			"e813f065-f97c-43ff-b224-994973339d63"
+		]
+	},
+	{
+		"title": "Domein: meemaken en betekenis geven",
+		"description": "Domein: meemaken en betekenis geven",
+		"prefix": "",
+		"id": "d7dbd08b-e05d-4396-a48f-bfbe19a73bee",
+		"replaces": [
+			"4de7b7a4-940c-44eb-8540-718f1056214a",
+			"c9799d7e-57ec-41d8-9d01-1a8a011804b6"
+		],
+		"fo_kernzin_id": [
+			"9cc8f3d9-a0fb-4ff4-9cb6-4c18b713025f",
+			"dfc79bcf-68d5-4def-a6fd-45fe54ecb4a9"
+		]
+	},
+	{
+		"title": "Domein: leren bewegen",
+		"description": "Domein: leren bewegen",
+		"prefix": "",
+		"id": "f5e0ad38-79d0-45e1-865b-eebb340e71af",
+		"replaces": [
+			"923d91fe-49ed-44ed-8bd4-78c56cfc9456",
+			"74fa3be1-8877-42be-b230-8021af5e8576"
+		],
+		"fo_kernzin_id": [
+			"61415383-2f6d-459a-bec7-9a72f7441718",
+			"44a64ee5-b1a4-4782-9109-397d995df7a8"
+		]
+	},
+	{
+		"title": "Domein: samen bewegen",
+		"description": "Domein: samen bewegen",
+		"prefix": "",
+		"id": "6bcb0d9d-d3a1-4f79-bfd0-6b6a98700c90",
+		"replaces": [
+			"c062b9a9-b225-426f-acc5-34b7e3b3a774",
+			"3207b265-4c83-4a54-84c8-aa28b1476bc1"
+		],
+		"fo_kernzin_id": [
+			"91c24565-ebe4-40b5-830f-38db2d2a3bbd",
+			"70dcbcba-949e-4a18-afcc-fc84aa449214"
+		]
+	},
+	{
+		"title": "Domein: betrokken bewegen",
+		"description": "Domein: betrokken bewegen",
+		"prefix": "",
+		"id": "02c38a9a-58d8-445f-8000-76860246f950",
+		"replaces": [
+			"e80d62da-4992-4090-a7e5-47144423ff47",
+			"bec51ecf-0015-4bd4-b05a-ec6fb7221cc2"
+		],
+		"fo_kernzin_id": [
+			"b0b31d92-f166-4553-8c16-28819c1065b2",
+			"80cbc578-0659-46f2-82c9-577c00a2a771"
+		]
+	},
+	{
+		"title": "overkoepelend",
+		"id": "7b79d631-9bb9-4428-86fb-070596c8aa97",
+		"fo_kernzin_id": [
+			"2ef35f17-def8-42e6-88e9-c8a0e3ddc195",
+			"d5777e8d-c48b-4414-86d0-5d895ce3f99e"
+		],
+		"replaces": [
+			"635a9145-2656-4e8d-811a-62f3e48dc7b6"
+		]
+	},
+	{
+		"title": "communicatie",
+		"id": "57944b6b-9d91-4602-9c58-e2265dde665a",
+		"fo_kernzin_id": [
+			"1d3b2e3d-ce91-4353-9a24-b7b773a6addc",
+			"580b0fec-d65f-4f7d-bff2-27e08f3644dc",
+			"d5a09556-6615-4dd2-a451-811eba78d9da",
+			"3cfbab29-0eae-4f6f-9512-74c9710e72d4",
+			"5495abc7-368d-4432-a448-ed2f86be1cf6",
+			"5706ff97-cb91-4b23-a587-b2a7c79a32c0",
+			"84551302-c90f-40f7-bb7d-69060b849e27",
+			"8646b4a1-0bea-4e51-8675-e3d7eadc719f"
+		],
+		"replaces": [
+			"74d09261-a347-495c-8dfe-1e5d9be40ffb"
+		]
+	},
+	{
+		"title": "taal",
+		"id": "9157ac1b-7a61-446c-833f-ba263ff8b198",
+		"fo_kernzin_id": [
+			"d8684fa5-29d6-4142-88af-a13352f72caa",
+			"5aa5bca8-3d40-4180-932e-e1523fb33357",
+			"c964db95-2c7d-4f05-9285-52fa111c6050",
+			"8a60684e-254a-41f0-9b35-395a096ea1f6"
+		],
+		"replaces": [
+			"8ee159ec-b460-448d-bd88-a147d14b5d7a"
+		]
+	},
+	{
+		"title": "visueel-manuele literatuur",
+		"id": "9efee021-67c3-411e-96d4-b04c96020f90",
+		"fo_kernzin_id": [
+			"5e00cc3c-4b1e-4510-a90c-c67901d11c51",
+			"6a169ab9-bf5e-4510-8270-db85b82e9c5e"
+		],
+		"replaces": [
+			"16dbcfb9-22e6-491d-a457-21492a072fff"
+		]
+	},
+	{
+		"title": "overkoepelend",
+		"id": "8d3ca50d-aa61-4bc1-afa1-250d2f23bfa0",
+		"fo_kernzin_id": [
+			"1175cb41-c3cf-4004-9ed0-84f845ac135d",
+			"83232034-66b9-44c1-a1a2-cf2428349052",
+			"3c0dd201-bd9e-4051-b2cb-c293bfb51aec"
+		],
+		"replaces": [
+			"ff7c348e-33b9-4dbd-996d-99e524750e43"
+		]
+	},
+	{
+		"title": "communicatie",
+		"id": "71cc9484-8eb6-488d-9738-4bb4d050f351",
+		"fo_kernzin_id": [
+			"36b1a97d-a79c-49f9-bbe8-c7354cce7812",
+			"791fd122-4017-47b0-8d8c-60e87e126c29",
+			"82dbec76-df57-4288-9175-db316615ed4b",
+			"86e8dde3-ff46-4906-8501-bf8b22c3f78f",
+			"187dc9c0-7370-4954-87c9-1e6c9c8b9dda",
+			"c4f4289f-5543-49c4-b4ac-f1e05f3e0f71",
+			"a69cbd96-49c7-45ea-8438-f19d98749a0c",
+			"baa9dfb6-73e6-4565-a2aa-a5033988d61b",
+			"efc63233-1104-407d-9c81-12c63cab4295",
+			"f105011e-82f5-49e0-8e86-c7e6c31405e2",
+			"a696990c-f5e5-482a-9fcd-00ae5ac87ade",
+			"da24f9be-9c56-4e23-ab68-dd361ca4077d"
+		],
+		"replaces": [
+			"82c3686f-4c8d-44e3-a18a-596d37466a17"
+		]
+	},
+	{
+		"title": "taal",
+		"id": "dbf04ed7-b036-4f3f-b7bd-309606157064",
+		"fo_kernzin_id": [
+			"11adc90d-63de-43ae-a45a-fedb472c1a58",
+			"3faea396-276f-4ab0-a927-a5b22a4763ab",
+			"fcbe7898-c363-48af-8b5c-0fbcacc7398f",
+			"ad966f96-2878-4a51-aee7-43c05031a770",
+			"94cad501-2957-42ad-a323-ff093d40d65e",
+			"685c7355-995e-4cef-a5d7-5c347e2d46d9"
+		],
+		"replaces": [
+			"22f930fa-7a1c-4a81-aebb-4594e679fc40"
+		]
+	},
+	{
+		"title": "literatuur",
+		"id": "3cf2e128-abc8-4573-90df-6df19926254a",
+		"fo_kernzin_id": [
+			"a47a009c-fdd4-4245-b7d4-b496be12062a",
+			"98323cd9-a67c-46c4-a14e-1857d789f5db",
+			"51fc908e-c6e9-4ecb-a73b-cce37a78d6dd"
+		],
+		"replaces": [
+			"82a68665-7ba4-4bd2-9079-bb83b4fa3a93"
+		]
+	},
+	{
+		"title": "wiskundige concepten",
+		"id": "02964bab-543c-48b5-9e87-0cd6c16c1673",
+		"fo_kernzin_id": [
+			"e23ed925-5532-4d07-a62f-855727844d5d",
+			"bcf2169e-eaf2-4f0d-811b-8be0bcd9c678",
+			"dcbdbcfb-a010-4d9a-b9cb-4bec259fb518",
+			"0d701486-866c-445b-baa0-27d5a9668cab",
+			"6c731938-9d4c-4c86-b91c-d919bdc14fbf",
+			"320f7184-b3ce-4b65-9e50-3a77fc599c83",
+			"950c8765-1f5e-4a68-8139-cc6b3c66f806",
+			"c109964d-e1e1-4c59-843d-c3ce9838c8bf",
+			"35ffe15a-ace4-4bc5-a7af-fd384bcf02d9"
+		],
+		"replaces": [
+			"170ef45a-b5b2-4fb1-a5de-ab4108c66514"
+		]
+	},
+	{
+		"title": "wiskundige denk-werkwijzen",
+		"id": "7f6f725f-29c9-4d73-88b9-73ce0273d04a",
+		"fo_kernzin_id": [
+			"ad113d88-d641-41b9-9f3b-51a06be17637",
+			"b446ae62-8062-4116-bc70-dfab853b0931",
+			"ab04a8e5-7e3c-4073-8c89-a024c6ce5221"
+		],
+		"replaces": [
+			"fb304ff3-042b-4a32-8332-8dfc3a3a86ed"
+		]
+	},
+	{
+		"title": "wiskunde en de wereld",
+		"id": "dd263c8b-772e-447f-a08d-2ac38c88aae1",
+		"fo_kernzin_id": [
+			"6c373754-31e6-4c29-aab3-040caa1f4c3c",
+			"5b939b22-f73f-4318-8637-4f910a754a3b",
+			"c3f054be-ebe1-44e7-a9fa-239b176350c6",
+			"daf99895-ab67-4267-9cde-b45da7460d81",
+			"b153dada-6fcd-48f4-ad4d-d5844acb8432",
+			"47d7bbc3-cc01-49a0-98e0-bc961aed3249"
+		],
+		"replaces": [
+			"7d89138a-6d4b-4f60-9037-6903f0e1b45f"
+		]
+	},
+	{
+		"title": "overkoepelend",
+		"fo_doelzin_id": [],
+		"prefix": "",
+		"id": "ef399b1c-036f-4add-9086-700c8bf5426c",
+		"fo_kernzin_id": [
+			"ffbc7ddf-723a-4a1b-ad0b-4ea7334c7d7a",
+			"082380d4-c181-41b4-9f5b-035fdccc853a"
+		],
+		"replaces": [
+			"0d2e4fb8-cc61-427d-8ce7-ef6a2bf12e5e",
+			"307765cb-6ce7-4a4b-937d-94bced4cb274"
+		]
+	},
+	{
+		"title": "wiskundige concepten",
+		"fo_doelzin_id": [],
+		"prefix": "",
+		"id": "35eaca6c-e7f4-40c7-854a-4a2ddf5b3a43",
+		"fo_kernzin_id": [
+			"38b7bf72-31e7-4f80-9b85-a3ceea825ff8",
+			"c8cf12dc-d3f5-4819-a1cd-21008a5dcbe8",
+			"923369d7-1c98-4fd9-a4c6-9f3d7cd9b4df",
+			"4341f8f3-6251-4921-9a81-a81aaaac4c9a",
+			"2a377e8b-fc0f-41c4-8d82-93277698cb13",
+			"cfcc92bf-54c9-4f5b-b283-d385d5bea06c",
+			"2cd591e7-2e6d-4f3e-837c-f97f953533aa",
+			"3d75a697-d81c-4a66-9a81-63bd7bbf3c32",
+			"9860c2ca-8824-4399-aaeb-22c95f771dbd"
+		],
+		"replaces": [
+			"f87d2b59-714b-4b94-9dfa-81e49632ad4e",
+			"a88f48a3-ef11-4d54-a830-2afc1cd08541"
+		]
+	},
+	{
+		"title": "praktische kennis en vaardigheden",
+		"fo_doelzin_id": [],
+		"prefix": "",
+		"id": "1f603ad5-7a46-4805-b68a-6f40f43020b6",
+		"fo_kernzin_id": [
+			"36170412-b370-497d-9c50-17ab4748971a",
+			"37d8ba06-9065-46c0-acb3-4b6bf67b4dfb"
+		],
+		"replaces": [
+			"a6dbff19-0733-4552-a91d-00f9d66a4f18",
+			"17b9a630-801e-42c7-8a55-94f33345bf06"
+		]
+	},
+	{
+		"title": "ontwerpen en maken",
+		"fo_doelzin_id": [],
+		"prefix": "",
+		"id": "42c704c0-c063-4fa2-9dab-52b909071e27",
+		"fo_kernzin_id": [
+			"f30a2348-c2d3-46c6-bbff-dffa79ad9f54",
+			"7e910e54-61d7-478e-b282-d7fce4c98e18"
+		],
+		"replaces": [
+			"9927cd79-3f0a-413c-8978-f8a3b1ce8705",
+			"144a4645-954a-4171-bf1e-dfd1e2257e15"
+		]
+	},
+	{
+		"title": "de gedigitaliseerde wereld",
+		"fo_doelzin_id": [],
+		"prefix": "",
+		"id": "89ef68d2-dda6-4174-b539-172e41892b83",
+		"fo_kernzin_id": [
+			"4682822a-d5d2-4bd9-9bfe-e685714c229d",
+			"6e0d2191-0430-4786-9f1b-2e92297a6d59"
+		],
+		"replaces": [
+			"c75e2e6b-9d38-4e4b-ad2c-cec7e891f09d",
+			"7cf9c21a-26f1-428d-85ff-4183e5c395f2"
+		]
+	},
+	{
+		"title": "democratische oefenplaats",
+		"fo_doelzin_id": [],
+		"prefix": "",
+		"id": "4f91718e-a8ae-4f1a-96dc-a265ebbfa450",
+		"fo_kernzin_id": [
+			"07e7b68a-56ba-4c53-bdf3-5aba7922c85a",
+			"802f08ce-8287-48dc-895e-41ba8c8c1f4b"
+		],
+		"replaces": [
+			"9964b601-8768-4e69-b8b9-b79d2292603d",
+			"2ae40eb2-6b31-4ba8-8e9f-88f78ac6f878"
+		]
+	},
+	{
+		"title": "samenleven in een democratische rechtsstaat",
+		"fo_doelzin_id": [],
+		"prefix": "",
+		"id": "b4577929-bda5-4ef1-a356-a636a9a3ec65",
+		"fo_kernzin_id": [
+			"5e00e713-24af-4ea1-9c0b-cea9d1c5020d",
+			"873237dd-55e4-4fda-bc4f-b467a39137ee"
+		],
+		"replaces": [
+			"cac1b698-034f-494e-a00f-decaebe019fc",
+			"e025367a-857a-4bdf-b416-fa435308b6bc"
+		]
+	},
+	{
+		"title": "vormgeven aan democratische en maatschappelijke betrokkenheid",
+		"fo_doelzin_id": [],
+		"prefix": "",
+		"id": "59013119-6fb0-4788-8e7e-b2fc1e53a3ab",
+		"fo_kernzin_id": [
+			"7b6ade70-3f9c-438c-8007-55bb1701afb8",
+			"47714545-9a67-4c44-aff8-03706aa966f8"
+		],
+		"replaces": [
+			"7743dd74-641b-46ab-b3c8-244ecd5de0c6",
+			"21ca4545-c0df-4254-a24b-d23193c2bd02"
+		]
+	},
+	{
+		"title": "taal",
+		"fo_doelzin_id": [],
+		"prefix": "",
+		"id": "8e1efc0d-b922-406f-926e-4f43f642a456",
+		"replaces": [
+			"6d328b4b-a3b9-4080-a92e-de84b802907b",
+			"fad1f721-dc7e-4dc8-bb75-1871ca49c109",
+			"e4f59bcd-624e-4752-b571-ff71cd96f7ee"
+		],
+		"fo_kernzin_id": [
+			"d2ae5b48-3ef2-4dd9-b294-0ce80914af1e",
+			"ca80e7af-230d-49f7-8b7b-d8ddb85daed3",
+			"bf585c42-7d35-4972-bca1-a27db36fa6f2",
+			"b7f909b0-ba78-4dfa-9348-76a20671f3e0"
+		]
+	},
+	{
+		"title": "wiskunde en de wereld",
+		"fo_doelzin_id": [],
+		"prefix": "",
+		"id": "b4f6c87b-5f4d-48dd-8364-e86b2403d26b",
+		"replaces": [
+			"499a6542-3e4b-4595-b9b6-543591e66ae1",
+			"4f3da229-5364-4dec-ac09-e4013aeeb7f3",
+			"3d657875-bc5c-4680-b87b-87a54dc278f1"
+		],
+		"fo_kernzin_id": [
+			"a038ff08-aa0e-4718-9050-0e35a19a9f63",
+			"6e5a1221-41ce-476d-ab19-ee96871977d9",
+			"e0022923-1ca4-4f7e-9b9a-efd621e1cdc1",
+			"e4434ae7-5472-4962-8d36-1c51fcee2ca6"
+		]
+	},
+	{
+		"title": "communicatie",
+		"fo_doelzin_id": [],
+		"prefix": "",
+		"id": "858763c3-d9a6-4346-9c38-b2820a5415b2",
+		"replaces": [
+			"eabb7766-d2b2-4e03-a296-234330510a63",
+			"04389b88-0243-4d0b-867b-d1fc048abcf4",
+			"0dd79cc4-9d96-4b33-9aef-a216196d502d"
+		],
+		"fo_kernzin_id": [
+			"9b695f4a-4d6b-49f4-8109-847c60b0954a",
+			"dcafc7c4-5120-4a53-8712-c38a6d52e0aa",
+			"2b27d906-53a8-4b2a-89d8-cad637a681b5",
+			"ca242849-b8c6-47e5-874c-5ca55355a2d7",
+			"4bdb57ca-c089-4ae9-8bec-4bd341001039",
+			"5cef4c33-8676-4b41-9155-40930a081d38",
+			"ff45e4de-20cd-45d6-8f22-2f95b34d2c6f",
+			"a70e0ef0-3d8a-4392-bd18-1d92db7a2b9b"
+		]
+	},
+	{
+		"title": "literatuur",
+		"fo_doelzin_id": [],
+		"prefix": "",
+		"id": "ceb931ef-4613-4088-9700-ba3c4d95acdc",
+		"replaces": [
+			"5d0676d3-fbea-4ab9-8ce1-fb1b3a622236",
+			"2520c537-27b6-4394-af35-2ab3b7eeb7fd",
+			"8512d7c8-d3e6-4eb1-8a9d-c8f77e695ed7",
+			"ba62b012-4f9a-4ebc-a639-417f8f04d0d6"
+		],
+		"fo_kernzin_id": [
+			"0c688695-7705-4178-bb3d-dcf15488168a",
+			"1307d8f1-4549-4113-8c9c-2ec13c13f59d",
+			"52d6ad11-f0e5-4621-82fe-e4f68b08e8ac",
+			"857373b6-a980-4b7a-b876-7011bc956ea9"
+		]
+	},
+	{
+		"title": "wiskundige denk-werkwijzen",
+		"fo_doelzin_id": [],
+		"prefix": "",
+		"id": "f0bbc33c-1771-4461-9496-247e686b11b7",
+		"replaces": [
+			"7b38ff3a-19b8-4980-b282-5f27e9bf38c6",
+			"42f9ada1-0515-4dc9-9a83-c4e33aeae4e2",
+			"03cde776-2566-4653-8bd0-0212ef14e6ec"
+		],
+		"fo_kernzin_id": [
+			"fda42ab4-6d3c-4614-983d-e2943a0e1034",
+			"44fc83bc-f232-4489-816c-f2ddb1b5029d",
+			"b0144e2b-709f-4ff2-92dd-3c95f02fe6ab",
+			"440c6124-21f5-4d86-8fd7-81713dbdd755"
 		]
 	}
 ]
