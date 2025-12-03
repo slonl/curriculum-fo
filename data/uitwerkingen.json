@@ -7,7 +7,8 @@
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "leerlingen aanmoedigen om wiskundetaal en wiskundige representaties te gebruiken die passen bij de verschillende concepten.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -17,7 +18,8 @@
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "laten gebruiken van wiskundige instrumenten.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -27,7 +29,8 @@
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "aanbieden van problemen met betrekking tot verschillende wiskundige concepten.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -37,7 +40,8 @@
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "gebruiken van modellen en algoritmisch denken bij verschillende wiskundige concepten.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -48,7 +52,8 @@
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"prefix": "u3",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -59,7 +64,8 @@
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"prefix": "u4",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -71,7 +77,8 @@
 		],
 		"description": "herkennen van standpunt en argumenten in teksten.",
 		"prefix": "u1",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -83,7 +90,8 @@
 		],
 		"description": "herkennen van de context waarin de argumentatie plaatsvindt.",
 		"prefix": "u2",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -95,7 +103,8 @@
 		],
 		"description": "beoordelen van de geloofwaardigheid van de betoger.",
 		"prefix": "u3",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -107,7 +116,8 @@
 		],
 		"description": "beschrijven hoe gevoelens worden opgeroepen bij het publiek.",
 		"prefix": "u4",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -119,7 +129,8 @@
 		],
 		"description": "beschrijven van verschillen en overeenkomsten tussen oudere en hedendaagse literatuur.",
 		"prefix": "u1",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -131,7 +142,8 @@
 		],
 		"description": "beschrijven van verschillen en overeenkomsten tussen versies van literaire teksten.",
 		"prefix": "u2",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -143,7 +155,8 @@
 		],
 		"description": "beschrijven van relaties tussen de periode en context waarin de tekst is geschreven en het wereldbeeld van de schrijver.",
 		"prefix": "u3",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -155,7 +168,8 @@
 		],
 		"description": "beschrijven van opgedane inzichten over historische tijdvakken.",
 		"prefix": "u4",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -166,7 +180,8 @@
 		],
 		"description": "aandacht besteden aan actualiteit en maatschappelijke vraagstukken in samenhang met verschillende leergebieden.",
 		"status": "concept",
-		"prefix": "u5"
+		"prefix": "u5",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -176,7 +191,8 @@
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "kennis over taken, rollen, rechten en plichten van burgers in de samenleving.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -186,7 +202,8 @@
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "verkennen welke middelen kunnen worden ingeet om individueel en collectief bij te dragen aan maatschappelijke veranderingen.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -196,7 +213,8 @@
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "oriënteren op maatschappelijke initiatieven, bewegingen en organisaties.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -206,7 +224,8 @@
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "benoemen en waarderen van de eigen bijdrage aan de samenleving in dagelijkse situaties.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -216,7 +235,8 @@
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"description": "verkennen van de eigen mogelijkheden om maatschappelijke betrokkenheid vorm te geven.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -227,7 +247,8 @@
 		],
 		"description": "aandacht besteden aan actualiteit en maatschappelijke vraagstukken in samenhang met verschillende leergebieden.",
 		"status": "concept",
-		"prefix": "u5"
+		"prefix": "u5",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -237,7 +258,8 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "kennis over taken, rollen, rechten en plichten van burgers in de samenleving.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -247,7 +269,8 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "onderzoeken welke middelen kunnen worden ingezet om individueel en collectief bij te dragen aan maatschappelijke veranderingen.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -257,7 +280,8 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "onderzoeken van de rol en betekenis van maatschappelijke initiatieven, bewegingen en organisaties.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -267,7 +291,8 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "benoemen en waarderen van de eigen bijdrage aan de samenleving in dagelijkse situaties.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -277,7 +302,8 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "afwegingen maken van de eigen mogelijkheden om maatschappelijke betrokkenheid vorm te geven.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -4136,7 +4162,8 @@
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
 		],
 		"description": "in aanraking laten komen met authentieke, vakoverstijgende, thematische contexten.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -4145,7 +4172,8 @@
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
 		],
 		"description": "in aanraking laten komen met teksten aansluitend bij de interesses of de actualiteit.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -4154,7 +4182,8 @@
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
 		],
 		"description": "aanbieden van kennis en vaardigheden uit het leergebied Nederlands in onderlinge samenhang.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -4163,7 +4192,8 @@
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
 		],
 		"description": "stimuleren van de leesmotivatie en de durf om te spreken en te schrijven.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -4172,7 +4202,8 @@
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
 		],
 		"description": "ruimte bieden aan verschillende talen en taalvariëteiten van leerlingen.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -4181,7 +4212,8 @@
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
 		],
 		"description": "in aanraking laten komen met authentieke, vakoverstijgende, thematische contexten.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -4190,7 +4222,8 @@
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
 		],
 		"description": "in aanraking laten komen met teksten aansluitend bij de interesses of de actualiteit.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -4199,7 +4232,8 @@
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
 		],
 		"description": "aanbieden van kennis en vaardigheden uit het leergebied Nederlands in onderlinge samenhang.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -4208,7 +4242,8 @@
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
 		],
 		"description": "stimuleren van de leesmotivatie en de durf om te spreken en te schrijven.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -4217,7 +4252,8 @@
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
 		],
 		"description": "ruimte bieden aan verschillende talen en taalvariëteiten van leerlingen.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -4226,7 +4262,8 @@
 			"bdc4744f-79df-4795-8795-2fee50c7416a"
 		],
 		"description": "in aanraking laten komen met authentieke, vakoverstijgende, thematische contexten.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -4235,7 +4272,8 @@
 			"bdc4744f-79df-4795-8795-2fee50c7416a"
 		],
 		"description": "in aanraking laten komen met teksten aansluitend bij de interesses of de actualiteit.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -4244,7 +4282,8 @@
 			"bdc4744f-79df-4795-8795-2fee50c7416a"
 		],
 		"description": "aanbieden van kennis en vaardigheden uit het leergebied Nederlands in onderlinge samenhang.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -4253,7 +4292,8 @@
 			"bdc4744f-79df-4795-8795-2fee50c7416a"
 		],
 		"description": "stimuleren van de leesmotivatie en de durf om te spreken en te schrijven.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -4262,7 +4302,8 @@
 			"bdc4744f-79df-4795-8795-2fee50c7416a"
 		],
 		"description": "ruimte bieden aan verschillende talen en taalvariëteiten van leerlingen.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -4271,7 +4312,8 @@
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
 		],
 		"description": "gelegenheid bieden tot taalproductie in alle leergebieden.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -4280,7 +4322,8 @@
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
 		],
 		"description": "aanbieden van authentieke en uitdagende teksten die passen bij het leergebied.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -4289,7 +4332,8 @@
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
 		],
 		"description": "aanbieden van activiteiten in betekenisvolle contexten.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -4298,7 +4342,8 @@
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
 		],
 		"description": "gelegenheid bieden tot taalproductie in alle leergebieden en praktijkvakken.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -4307,7 +4352,8 @@
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
 		],
 		"description": "aanbieden van authentieke en uitdagende teksten die passen bij het leergebied of praktijkvak.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -4316,7 +4362,8 @@
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
 		],
 		"description": "aanbieden van activiteiten in betekenisvolle contexten.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -4325,7 +4372,8 @@
 			"bdc4744f-79df-4795-8795-2fee50c7416a"
 		],
 		"description": "gelegenheid bieden tot taalproductie in alle leergebieden en praktijkvakken.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -4334,7 +4382,8 @@
 			"bdc4744f-79df-4795-8795-2fee50c7416a"
 		],
 		"description": "aanbieden van authentieke en uitdagende teksten die passen bij het leergebied of praktijkvak.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -4343,7 +4392,8 @@
 			"bdc4744f-79df-4795-8795-2fee50c7416a"
 		],
 		"description": "aanbieden van activiteiten in betekenisvolle contexten, waarin vakspecifieke taalvaardigheden en school- en vaktaal verworven kunnen worden.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -4352,7 +4402,8 @@
 			"bdc4744f-79df-4795-8795-2fee50c7416a"
 		],
 		"description": "stimuleren van het inzetten van kennis over taal, teksten, tekststructuur en taalverzorging bij talige activiteiten in het leergebied of praktijkvak.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -4361,7 +4412,8 @@
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
 		],
 		"description": "inzetten en vergroten van woordenschat en kennis van alledaagse onderwerpen.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -4370,7 +4422,8 @@
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
 		],
 		"description": "reageren op en waarderen van teksten.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -4379,7 +4432,8 @@
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
 		],
 		"description": "formuleren van gesproken, geschreven en multimediale teksten, eventueel met inzet van ondersteunende communicatie en passend bij het communicatieve doel, een bekend publiek en herkenbare alledaagse contexten.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -4388,7 +4442,8 @@
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
 		],
 		"description": "schrijven met een leesbaar handschrift of typschrift en/of verstaanbaar spreken.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -4397,7 +4452,8 @@
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
 		],
 		"description": "bepalen en evalueren van een spreek- en/of schrijfaanpak.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -4406,7 +4462,8 @@
 			"bdc4744f-79df-4795-8795-2fee50c7416a"
 		],
 		"description": "formuleren van gesproken, geschreven en multimediale teksten, eventueel met inzet van ondersteunende communicatie en passend bij het communicatieve doel, een bekend publiek en herkenbare alledaagse contexten.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -4415,7 +4472,8 @@
 			"bdc4744f-79df-4795-8795-2fee50c7416a"
 		],
 		"description": "zowel inzetten van als kennis vergroten over verteltechnieken, tekstkenmerken en -structuren, woordkeus, zinsbouw, taal- en schriftconventies, taalverzorging en tekstopmaak.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -4424,7 +4482,8 @@
 			"bdc4744f-79df-4795-8795-2fee50c7416a"
 		],
 		"description": "schrijven op letter-, schrift- en tekstniveau met een leesbaar handschrift of typschrift, en/of verstaanbaar spreken.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -4433,7 +4492,8 @@
 			"bdc4744f-79df-4795-8795-2fee50c7416a"
 		],
 		"description": "bepalen en evalueren van een spreek- en/of schrijfaanpak.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -4442,7 +4502,8 @@
 			"bdc4744f-79df-4795-8795-2fee50c7416a"
 		],
 		"description": "verkennen van verschillende creatieve manieren van spreken, schrijven, of op een andere manier uitdrukken.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -4451,7 +4512,8 @@
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
 		],
 		"description": "onderscheiden van realiteit en fictie.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -4460,7 +4522,8 @@
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
 		],
 		"description": "herkennen van foutieve informatie.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -4469,7 +4532,8 @@
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
 		],
 		"description": "beoordelen en selecteren van informatie uit een aangereikte bron op bruikbaarheid.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -4478,7 +4542,8 @@
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
 		],
 		"description": "onderscheiden van realiteit en fictie.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -4487,7 +4552,8 @@
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
 		],
 		"description": "herkennen van foutieve informatie.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -4496,7 +4562,8 @@
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
 		],
 		"description": "beoordelen en selecteren van informatie uit een aangereikte bron op bruikbaarheid.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -4505,7 +4572,8 @@
 			"bdc4744f-79df-4795-8795-2fee50c7416a"
 		],
 		"description": "inschatten van betrouwbaarheid op basis van duidelijk aanwezige kenmerken van de bron: maker, communicatief doel en actualiteit.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -4514,7 +4582,8 @@
 			"bdc4744f-79df-4795-8795-2fee50c7416a"
 		],
 		"description": "toekennen van waarde aan de inhoud van de bron en onderscheiden hoofd- en bijzaken, feiten en meningen.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -4523,7 +4592,8 @@
 			"bdc4744f-79df-4795-8795-2fee50c7416a"
 		],
 		"description": "vergelijken van soorten aangereikte bronnen in allerlei verschijningsvormen op basis van bruikbaarheid en inhoud.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -4532,7 +4602,8 @@
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
 		],
 		"description": "verwoorden van gedachten en waarnemingen bij de uitvoering van een taalactiviteit.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -4541,7 +4612,8 @@
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
 		],
 		"description": "verwoorden van gedachten en waarnemingen bij de uitvoering van een taalactiviteit.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -4550,7 +4622,8 @@
 			"bdc4744f-79df-4795-8795-2fee50c7416a"
 		],
 		"description": "formuleren van leerdoelen voor taalactiviteiten op basis van evaluatie en relectie.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -4559,7 +4632,8 @@
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
 		],
 		"description": "constructief laten verlopen van on- en offline gesprekken.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -4568,7 +4642,8 @@
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
 		],
 		"description": "constructief laten verlopen van on- en offline gesprekken.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -4577,7 +4652,8 @@
 			"bdc4744f-79df-4795-8795-2fee50c7416a"
 		],
 		"description": "constructief laten verlopen van on- en offline gesprekken.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -4586,7 +4662,8 @@
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
 		],
 		"description": "laten zien van het nut en de kracht van rekenen en wiskunde in toepassingen.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -4595,7 +4672,8 @@
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
 		],
 		"description": "stimuleren van een onderzoekende houding ten aanzien van getallen en andere wiskundige concepten.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -4604,7 +4682,8 @@
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
 		],
 		"description": "stimuleren om te reflecteren op eigen rekenwijze en overig wiskundig handelen.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -4613,7 +4692,8 @@
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
 		],
 		"description": "stimuleren van transfer van kennis, inzichten en vaardigheden bij het toepassen van wiskundige concepten en wiskundige denk/werkwijzen.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -4622,7 +4702,8 @@
 			"bdc4744f-79df-4795-8795-2fee50c7416a"
 		],
 		"description": "laten zien van het nut en de kracht van rekenen en wiskunde in toepassingen.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -4631,7 +4712,8 @@
 			"bdc4744f-79df-4795-8795-2fee50c7416a"
 		],
 		"description": "stimuleren van een onderzoekende houding ten aanzien van getallen en andere wiskundige concepten.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -4640,7 +4722,8 @@
 			"bdc4744f-79df-4795-8795-2fee50c7416a"
 		],
 		"description": "stimuleren om te reflecteren op eigen rekenwijze en overig wiskundig handelen.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -4649,7 +4732,8 @@
 			"bdc4744f-79df-4795-8795-2fee50c7416a"
 		],
 		"description": "stimuleren van transfer van kennis, inzichten en vaardigheden bij het toepassen van wiskundige concepten en wiskundige denk/werkwijzen.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -4658,7 +4742,8 @@
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
 		],
 		"description": "laten zien van het nut en de kracht van rekenen en wiskunde in toepassingen.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -4667,7 +4752,8 @@
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
 		],
 		"description": "stimuleren van een onderzoekende houding ten aanzien van getallen en andere wiskundige concepten.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -4676,7 +4762,8 @@
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
 		],
 		"description": "stimuleren om te reflecteren op eigen rekenwijze en overig wiskundig handelen.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -4685,7 +4772,8 @@
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
 		],
 		"description": "stimuleren van transfer van kennis, inzichten en vaardigheden bij het toepassen van wiskundige concepten en wiskundige denk/werkwijzen.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -4697,7 +4785,8 @@
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
 		"id": "831e87f9-3541-447f-adf8-07fcda41269c",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -4708,7 +4797,8 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"id": "923e1f30-3ad5-4e6b-ab21-825f3aa3b6c9",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "analyseren van de mate van onzekerheid in aannames en uitkomsten van een model.",
@@ -4718,7 +4808,8 @@
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "beschrijven hoe nieuwe situaties leiden tot een beperktheid van een gebruikt model en ontwikkeling van een ander model.",
@@ -4728,7 +4819,8 @@
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "benoemen van de impact van modellen op de samenleving.",
@@ -4738,7 +4830,8 @@
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "evalueren van geldigheid, onzekerheid en veranderlijkheid van een model.",
@@ -4748,7 +4841,8 @@
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "beschrijven hoe de mens invloed heeft op het natuurlijk systeem.",
@@ -4759,7 +4853,8 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "combineren van informatie tot een consistent verhaal over een historische gebeurtenis.",
@@ -4770,7 +4865,8 @@
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "redeneren over betrouwbaarheid en bruikbaarheid van de bron.",
@@ -4781,7 +4877,8 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "combineren van informatie uit en over verschillende bronnen tot een consistent verhaal over historische gebeurtenissen en ontwikkelingen.",
@@ -4792,7 +4889,8 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "verwoorden van eigen artistieke voorkeuren.",
@@ -4803,7 +4901,8 @@
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "combineren van geschikte zoekhulpmiddelen, zoekopdrachten en zoekstrategieën",
@@ -6111,7 +6210,8 @@
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "inzetten van non-verbale en visuele communicatie die het communicatieve doel ondersteunt.",
@@ -6161,7 +6261,8 @@
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "benoemen van verschillen en overeenkomsten tussen de positie van het Fries in Nederland en de positie van andere minderheidstalen in landen in West-Europa.",
@@ -6171,7 +6272,8 @@
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "beschrijven van verschillen en overeenkomsten tussen de taalvariëteiten van het Fries en regiolecten in Friesland.",
@@ -6291,7 +6393,8 @@
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "evalueren van de opbrengst en het verloop van een zoekactie.",
@@ -6311,7 +6414,8 @@
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "verklaren van overeenkomsten en verschillen.",
@@ -6321,7 +6425,8 @@
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "conclusies trekken over overeenkomsten en verschillen.",
@@ -6331,7 +6436,8 @@
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "reflecteren op de rol van verschillende perspectieven voor het eigen perspectief.",
@@ -11064,7 +11170,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "verwoorden van de eigen lees-, luister- en kijkervaringen.",
@@ -11074,7 +11181,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "verbanden leggen met het eigen leerproces.",
@@ -11084,7 +11192,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "verwoorden van ideeën, gedachten, ervaringen en gevoelens.",
@@ -11094,7 +11203,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "experimenteren met klanken, woorden en zinnen.",
@@ -11104,7 +11214,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "verwoorden van gemaakte keuzes en eigen voorkeuren met betrekking tot inhoud en vorm.",
@@ -11114,7 +11225,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "zeer korte, eenvoudige, langzaam en zorgvuldig uitgesproken multimediale bronnen.",
@@ -11124,7 +11236,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "concrete en vertrouwde, alledaagse zaken.",
@@ -11134,7 +11247,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "herkennen van conventies.",
@@ -11144,7 +11258,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "overbrengen van de globale boodschap en voorspelbare informatie uit de bronnen.",
@@ -11154,7 +11269,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "zeer korte, eenvoudige teksten.",
@@ -11164,7 +11280,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "concrete en vertrouwde alledaagse zaken.",
@@ -11174,7 +11291,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "herkennen van conventies.",
@@ -11184,7 +11302,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "overbrengen van de globale boodschap en voorspelbare informatie uit de bronnen.",
@@ -11194,7 +11313,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "kort en eenvoudig beschrijven van concrete en eenvoudige alledaagse zaken.",
@@ -11204,7 +11324,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "inzetten van passend taalgebruik en communicatievorm.",
@@ -11214,7 +11335,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "gebruiken van elementaire bewoordingen.",
@@ -11224,7 +11346,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "offline en online mondelinge interactie over zeer vertrouwde basisbehoeften.",
@@ -11234,7 +11357,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "uitwisselen van elementaire, persoonlijke en feitelijke informatie in informele sociale contacten.",
@@ -11244,7 +11368,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "afstemmen van taalgebruik en non-verbale communicatie op socioculturele gebruiken.",
@@ -11254,7 +11379,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "gebruiken van elementaire bewoordingen.",
@@ -11264,7 +11390,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "vergelijken van kenmerken op klank-, woord- en zinsniveau in het Duits en andere talen die de leerling kent, in bronnen die passend zijn bij het beheersingsniveau van de leerling.",
@@ -11274,7 +11401,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "verbanden leggen tussen de vergeleken talen.",
@@ -11284,7 +11412,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "evalueren wat werkt in het eigen taalleerproces.",
@@ -11294,7 +11423,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "conclusies trekken over passende aanpakken voor het leren van een taal.",
@@ -11304,7 +11434,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "verwoorden van de eigen taalleervoorkeuren aan de hand van relevante voorbeelden.",
@@ -11314,7 +11445,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "verkennen van de relatie tussen het meertalige repertoire en de eigen identiteit.",
@@ -11324,7 +11456,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "waarderen van het eigen meertalige repertoire en dat van anderen.",
@@ -11334,7 +11467,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "verbanden leggen tussen de inzet van het eigen meertalige repertoire en het leren van andere talen.",
@@ -11344,7 +11478,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "verbanden leggen tussen de inzet van het eigen meertalige repertoire en de bevordering van de communicatie.",
@@ -11354,7 +11489,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "experimenteren met digitale hulpmiddelen om teksten in het Duits te begrijpen.",
@@ -11364,7 +11500,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "experimenteren met digitale hulpmiddelen om output in het Duits te genereren.",
@@ -11374,7 +11511,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "evalueren van gegenereerde output in relatie tot doel, publiek en context.",
@@ -11384,7 +11522,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "verkennen van de betekenis, relevantie en rol van het Duits in de maatschappij.",
@@ -11394,7 +11533,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "oriënteren op sectoren, beroepen en vervolgopleidingen waarin de kennis van en vaardigheden in de Duitse taal en cultuur relevant zijn.",
@@ -11404,7 +11544,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "deelnemen aan activiteiten gerelateerd aan het vak Duitse taal en cultuur.",
@@ -11414,7 +11555,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "verwoorden van de eigen kwaliteiten en interesses passend bij het vak Duitse taal en cultuur.",
@@ -11424,7 +11566,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "reflecteren op opgedane ervaringen in het kader van oriëntatie op leren en werken.",
@@ -11434,7 +11577,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "uitdagende inhoud en toegankelijk taalniveau, waar nodig met ondersteuning van vertaling/ondertiteling.",
@@ -11444,7 +11588,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "verwoorden van de eigen lees-, luister- en kijkervaringen.",
@@ -11454,7 +11599,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "verwoorden van de eigen keuzes aan de hand van relevante voorbeelden.",
@@ -11464,7 +11610,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "beschrijven van tradities, gebruiken en maatschappelijke verschijnselen in bronnen en in voorwerpen.",
@@ -11474,7 +11621,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "vergelijken met de eigen leefwereld.",
@@ -11484,7 +11632,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "conclusies trekken over de betekenis van culturele kenmerken in nieuwe bronnen.",
@@ -11494,7 +11643,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "beschrijven van cultureel bepaalde normen en gewoonten in diverse vormen van input en situaties.",
@@ -11504,7 +11654,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "beschrijven hoe verschillen in gewoontes en gebruiken de communicatie in dagelijkse, opleidings- en beroepssituaties kunnen beïnvloeden.",
@@ -11514,7 +11665,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "verbanden leggen tussen de waargenomen cultuurgebonden aspecten en eigen perspectieven en standpunten.",
@@ -11524,7 +11676,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "conclusies trekken over hoe je stereotypering en misverstanden in de communicatie kunt voorkomen.",
@@ -11534,7 +11687,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "lezen van, kijken naar en luisteren naar informatieve en amuserende bronnen in verschillende vormen, in verschillende taalvariëteiten en over diverse thema's.",
@@ -11544,7 +11698,8 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "verwoorden van de eigen lees-, luister- en kijkervaringen.",
@@ -11554,7 +11709,8 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "verbanden leggen met het eigen leerproces.",
@@ -11564,7 +11720,8 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "verwoorden van ideeën, gedachten, ervaringen en gevoelens.",
@@ -11574,7 +11731,8 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "experimenteren met klanken, woorden en teksten en met verschillende stijlen.",
@@ -11584,7 +11742,8 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "verkennen van verschillende creatieve vormen.",
@@ -11594,7 +11753,8 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "verwoorden van gemaakte keuzes en eigen voorkeuren met betrekking tot inhoud en vorm.",
@@ -11604,7 +11764,8 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "korte, eenvoudige, langzaam en helder gearticuleerde multimediale bronnen.",
@@ -11614,7 +11775,8 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "concrete en vertrouwde, alledaagse zaken.",
@@ -11624,7 +11786,8 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "herkennen van conventies.",
@@ -11634,7 +11797,8 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "overbrengen van de globale boodschap en de belangrijkste informatie uit de bronnen.",
@@ -11644,7 +11808,8 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "korte, eenvoudige teksten van verschillende soorten en met verschillende doelen.",
@@ -11654,7 +11819,8 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "concrete en vertrouwde alledaagse zaken.",
@@ -11664,7 +11830,8 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "herkennen van conventies.",
@@ -11674,7 +11841,8 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "overbrengen van de globale boodschap en de belangrijkste informatie uit de bronnen.",
@@ -11684,7 +11852,8 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "kort en eenvoudig beschrijven van concrete en eenvoudige alledaagse zaken.",
@@ -11694,7 +11863,8 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "inzetten van passend taalgebruik en communicatievorm.",
@@ -11704,7 +11874,8 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "gebruiken van elementaire bewoordingen.",
@@ -11714,7 +11885,8 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "offline en online mondelinge interactie over zeer vertrouwde basisbehoeften.",
@@ -11724,7 +11896,8 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "uitwisselen van elementaire, persoonlijke en feitelijke informatie in informele sociale contacten.",
@@ -11734,7 +11907,8 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "afstemmen van taalgebruik en non-verbale communicatie op socioculturele gebruiken.",
@@ -11744,7 +11918,8 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "gebruiken van elementaire bewoordingen.",
@@ -11754,7 +11929,8 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "uitwisselen van informatie in korte en eenvoudige, informele, schriftelijke offline en online interactie over zeer vertrouwde basisbehoeften.",
@@ -11764,7 +11940,8 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "afstemmen van taalgebruik op socioculturele gebruiken.",
@@ -11774,7 +11951,8 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "gebruiken van zeer elementaire bewoordingen, indien van toepassing met behulp van digitale middelen.",
@@ -11784,7 +11962,8 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "vergelijken van kenmerken op klank-, woord- en zinsniveau in het Duits en andere talen die de leerling kent, in bronnen die passend zijn bij het beheersingsniveau van de leerling.",
@@ -11794,7 +11973,8 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "verbanden leggen tussen de vergeleken talen.",
@@ -11804,7 +11984,8 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "evalueren wat werkt in het eigen taalleerproces.",
@@ -11814,7 +11995,8 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "conclusies trekken over passende aanpakken voor het leren van een taal.",
@@ -11824,7 +12006,8 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "verwoorden van de eigen taalleervoorkeuren aan de hand van relevante voorbeelden.",
@@ -11834,7 +12017,8 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "verkennen van de relatie tussen het meertalige repertoire en de eigen identiteit.",
@@ -11844,7 +12028,8 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "waarderen van het eigen meertalige repertoire en dat van anderen.",
@@ -11854,7 +12039,8 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "verbanden leggen tussen de inzet van het eigen meertalige repertoire en het leren van andere talen.",
@@ -11864,7 +12050,8 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "verbanden leggen tussen de inzet van het eigen meertalige repertoire en de bevordering van de communicatie.",
@@ -11874,7 +12061,8 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "experimenteren met digitale hulpmiddelen om teksten in het Duits te begrijpen.",
@@ -11884,7 +12072,8 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "experimenteren met digitale hulpmiddelen om output in het Duits te genereren.",
@@ -11894,7 +12083,8 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "evalueren van gegenereerde output in relatie tot doel, publiek en context.",
@@ -11904,7 +12094,8 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "verkennen van de betekenis, relevantie en rol van het Duits in de maatschappij.",
@@ -11914,7 +12105,8 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "oriënteren op sectoren, beroepen en vervolgopleidingen waarin de kennis van en vaardigheden in de Duitse taal en cultuur relevant zijn.",
@@ -11924,7 +12116,8 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "deelnemen aan activiteiten gerelateerd aan het vak Duitse taal en cultuur.",
@@ -11934,7 +12127,8 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "verwoorden van de eigen kwaliteiten en interesses passend bij het vak Duitse taal en cultuur.",
@@ -11944,7 +12138,8 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "reflecteren op opgedane ervaringen in het kader van oriëntatie op leren en werken.",
@@ -11954,7 +12149,8 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "fictie uit verschillende contexten.",
@@ -11964,7 +12160,8 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "uitdagende inhoud en toegankelijk taalniveau, waar nodig met ondersteuning van vertaling/ondertiteling.",
@@ -11974,7 +12171,8 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "verwoorden van de eigen lees-, luister- en kijkervaringen.",
@@ -11984,7 +12182,8 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "verwoorden van de eigen keuzes aan de hand van relevante voorbeelden.",
@@ -11994,7 +12193,8 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "vormen van fictie die oorspronkelijk in het Duits zijn geschreven of gemaakt.",
@@ -12004,7 +12204,8 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "beschrijven van herkenbare thema’s, verhaallijnen en kenmerken van personages en hun ontwikkeling.",
@@ -12014,7 +12215,8 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "verbanden leggen tussen inhoud en context van fictie en de eigen leefwereld en ervaringen.",
@@ -12024,7 +12226,8 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "beschrijven van tradities, gebruiken en maatschappelijke verschijnselen in bronnen en in voorwerpen.",
@@ -12034,7 +12237,8 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "vergelijken met de eigen leefwereld.",
@@ -12044,7 +12248,8 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "conclusies trekken over de betekenis van culturele kenmerken in nieuwe bronnen.",
@@ -12054,7 +12259,8 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "beschrijven van cultureel bepaalde normen, overtuigingen en gewoonten in diverse vormen van input en situaties.",
@@ -12064,7 +12270,8 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "beschrijven hoe culturele kenmerken de communicatie in dagelijkse, opleidings- en beroepssituaties kunnen beïnvloeden.",
@@ -12074,7 +12281,8 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "verbanden leggen tussen de waargenomen cultuurgebonden aspecten en eigen perspectieven en standpunten.",
@@ -12084,7 +12292,8 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "conclusies trekken over hoe je stereotypering en misverstanden in de communicatie kunt voorkomen.",
@@ -12094,7 +12303,8 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "verbanden leggen met het eigen leerproces.",
@@ -55136,7 +55346,8 @@
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "analyseren van eenheden.",
@@ -55146,7 +55357,8 @@
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "beargumenteren welke verwerking en karakterisering van data geschikt is.",
@@ -55246,7 +55458,8 @@
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "evalueren van gebruik van wiskunde in cultuur en maatschappij.",
@@ -55426,7 +55639,8 @@
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "streven naar compressie van concepten en procedures.",
@@ -55496,7 +55710,8 @@
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "beoordelen van representativiteit, validiteit en betrouwbaarheid.",
@@ -55686,7 +55901,8 @@
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "streven naar compressie van concepten en procedures.",
@@ -55756,7 +55972,8 @@
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "beoordelen van representativiteit, validiteit en betrouwbaarheid.",
@@ -55836,7 +56053,8 @@
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "analyseren van veranderingsgedrag in een optimaliseringsprobleem met behulp van de eerste afgeleide.",
@@ -55846,7 +56064,8 @@
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "differentiëren met behulp van de som-, verschil- en scalairregel.",
@@ -55996,7 +56215,8 @@
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "streven naar compressie van concepten en procedures.",
@@ -56066,7 +56286,8 @@
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "beoordelen van representativiteit, validiteit en betrouwbaarheid.",
@@ -56126,7 +56347,8 @@
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "differentiëren met behulp van de som-, verschil- en scalairregel.",
@@ -56266,7 +56488,8 @@
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "streven naar compressie van concepten en procedures.",
@@ -56336,7 +56559,8 @@
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "beoordelen van representativiteit, validiteit en betrouwbaarheid.",
@@ -56536,7 +56760,8 @@
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "streven naar compressie van concepten en procedures.",
@@ -56606,7 +56831,8 @@
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "beoordelen van representativiteit, validiteit en betrouwbaarheid.",
@@ -56666,7 +56892,8 @@
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "reflecteren op wiskundige houding.",
@@ -56806,7 +57033,8 @@
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "streven naar compressie van concepten en procedures.",
@@ -56876,7 +57104,8 @@
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "beoordelen van representativiteit, validiteit en betrouwbaarheid.",
@@ -57106,7 +57335,8 @@
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "streven naar compressie van concepten en procedures.",
@@ -57196,7 +57426,8 @@
 		"niveau_id": [
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57206,7 +57437,8 @@
 		"niveau_id": [
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57216,7 +57448,8 @@
 		"niveau_id": [
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57226,7 +57459,8 @@
 		"niveau_id": [
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57236,7 +57470,8 @@
 		"niveau_id": [
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57246,7 +57481,8 @@
 		"niveau_id": [
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57256,7 +57492,8 @@
 		"niveau_id": [
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57266,7 +57503,8 @@
 		"niveau_id": [
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57276,7 +57514,8 @@
 		"niveau_id": [
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57286,7 +57525,8 @@
 		"niveau_id": [
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57296,7 +57536,8 @@
 		"niveau_id": [
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57306,7 +57547,8 @@
 		"niveau_id": [
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57316,7 +57558,8 @@
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57326,7 +57569,8 @@
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57336,7 +57580,8 @@
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57346,7 +57591,8 @@
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57356,7 +57602,8 @@
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57366,7 +57613,8 @@
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57376,7 +57624,8 @@
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57386,7 +57635,8 @@
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57396,7 +57646,8 @@
 		"niveau_id": [
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57406,7 +57657,8 @@
 		"niveau_id": [
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57416,7 +57668,8 @@
 		"niveau_id": [
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57426,7 +57679,8 @@
 		"niveau_id": [
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57436,7 +57690,8 @@
 		"niveau_id": [
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57446,7 +57701,8 @@
 		"niveau_id": [
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57456,7 +57712,8 @@
 		"niveau_id": [
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57466,7 +57723,8 @@
 		"niveau_id": [
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57476,7 +57734,8 @@
 		"niveau_id": [
 			"bdc4744f-79df-4795-8795-2fee50c7416a"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57486,7 +57745,8 @@
 		"niveau_id": [
 			"bdc4744f-79df-4795-8795-2fee50c7416a"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57496,7 +57756,8 @@
 		"niveau_id": [
 			"bdc4744f-79df-4795-8795-2fee50c7416a"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57506,7 +57767,8 @@
 		"niveau_id": [
 			"bdc4744f-79df-4795-8795-2fee50c7416a"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57516,7 +57778,8 @@
 		"niveau_id": [
 			"bdc4744f-79df-4795-8795-2fee50c7416a"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57526,7 +57789,8 @@
 		"niveau_id": [
 			"bdc4744f-79df-4795-8795-2fee50c7416a"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57536,7 +57800,8 @@
 		"niveau_id": [
 			"bdc4744f-79df-4795-8795-2fee50c7416a"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57546,7 +57811,8 @@
 		"niveau_id": [
 			"bdc4744f-79df-4795-8795-2fee50c7416a"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57556,7 +57822,8 @@
 		"niveau_id": [
 			"bdc4744f-79df-4795-8795-2fee50c7416a"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57566,7 +57833,8 @@
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57576,7 +57844,8 @@
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57586,7 +57855,8 @@
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57596,7 +57866,8 @@
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57606,7 +57877,8 @@
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57616,7 +57888,8 @@
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57626,7 +57899,8 @@
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57636,7 +57910,8 @@
 		"niveau_id": [
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57646,7 +57921,8 @@
 		"niveau_id": [
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57656,7 +57932,8 @@
 		"niveau_id": [
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57666,7 +57943,8 @@
 		"niveau_id": [
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57676,7 +57954,8 @@
 		"niveau_id": [
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57686,7 +57965,8 @@
 		"niveau_id": [
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57696,7 +57976,8 @@
 		"niveau_id": [
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57706,7 +57987,8 @@
 		"niveau_id": [
 			"bdc4744f-79df-4795-8795-2fee50c7416a"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57716,7 +57998,8 @@
 		"niveau_id": [
 			"bdc4744f-79df-4795-8795-2fee50c7416a"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57726,7 +58009,8 @@
 		"niveau_id": [
 			"bdc4744f-79df-4795-8795-2fee50c7416a"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57736,7 +58020,8 @@
 		"niveau_id": [
 			"bdc4744f-79df-4795-8795-2fee50c7416a"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57746,7 +58031,8 @@
 		"niveau_id": [
 			"bdc4744f-79df-4795-8795-2fee50c7416a"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57756,7 +58042,8 @@
 		"niveau_id": [
 			"bdc4744f-79df-4795-8795-2fee50c7416a"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57766,7 +58053,8 @@
 		"niveau_id": [
 			"bdc4744f-79df-4795-8795-2fee50c7416a"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57776,7 +58064,8 @@
 		"niveau_id": [
 			"bdc4744f-79df-4795-8795-2fee50c7416a"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57786,7 +58075,8 @@
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57796,7 +58086,8 @@
 		"niveau_id": [
 			"bdc4744f-79df-4795-8795-2fee50c7416a"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57806,7 +58097,8 @@
 		"niveau_id": [
 			"bdc4744f-79df-4795-8795-2fee50c7416a"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57816,7 +58108,8 @@
 		"niveau_id": [
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57826,7 +58119,8 @@
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57836,7 +58130,8 @@
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57846,7 +58141,8 @@
 		"niveau_id": [
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57856,7 +58152,8 @@
 		"niveau_id": [
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57866,7 +58163,8 @@
 		"niveau_id": [
 			"bdc4744f-79df-4795-8795-2fee50c7416a"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -57876,7 +58174,8 @@
 		"niveau_id": [
 			"bdc4744f-79df-4795-8795-2fee50c7416a"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -58260,7 +58559,8 @@
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -58270,7 +58570,8 @@
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -58280,7 +58581,8 @@
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -58290,7 +58592,8 @@
 		"niveau_id": [
 			"bdc4744f-79df-4795-8795-2fee50c7416a"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -58300,7 +58603,8 @@
 		"niveau_id": [
 			"bdc4744f-79df-4795-8795-2fee50c7416a"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -58310,7 +58614,8 @@
 		"niveau_id": [
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -58320,7 +58625,8 @@
 		"niveau_id": [
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -58330,7 +58636,8 @@
 		"niveau_id": [
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -58340,7 +58647,8 @@
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -58350,7 +58658,8 @@
 		"niveau_id": [
 			"bdc4744f-79df-4795-8795-2fee50c7416a"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -58360,7 +58669,8 @@
 		"niveau_id": [
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -58390,7 +58700,8 @@
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -58400,7 +58711,8 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"description": "verkennen hoe beeld en geluid ontworpen en gecombineerd kunnen worden bij het maken van een filmpje.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -58409,7 +58721,8 @@
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
 		],
 		"description": "het voorlezen van verhalen waarin allerlei rekenraadsels zijn verwerkt.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -58418,7 +58731,8 @@
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
 		],
 		"description": "voeren van een groepsgesprek over een gebeurtenis in een bekeken voorstelling.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -58427,7 +58741,8 @@
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
 		],
 		"description": "maken van een gerecht uit een kookboek.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -58436,7 +58751,8 @@
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
 		],
 		"description": "voeren van een groepsgesprek over een stage ervaring.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -58445,7 +58761,8 @@
 			"bdc4744f-79df-4795-8795-2fee50c7416a"
 		],
 		"description": "maken van een mindmap over vaktaal bij een praktijkvak.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -58454,7 +58771,8 @@
 			"bdc4744f-79df-4795-8795-2fee50c7416a"
 		],
 		"description": "voeren van een groepsgesprek over een stage ervaring.",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "een reactie achterlaten op een Duitse website en daarbij gebruik maken van spellingscontrole en taalspecifieke instellingen in het tekstverwerkingsprogramma.",
@@ -58464,7 +58782,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
 		"title": "Te denken valt aan",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "een korte blog schrijven op een Duitse website en daarbij gebruik maken van spellingscontrole en taalspecifieke instellingen in het tekstverwerkingsprogramma.",
@@ -58474,7 +58793,8 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"title": "Te denken valt aan",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "presentatie over de verschillen en overeenkomsten in het eigen socialisatieproces en dat van een klasgenoot.",
@@ -58568,7 +58888,8 @@
 		"status": "concept",
 		"replaces": [
 			"401f1d89-d828-4106-97c4-5b729db14de4"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -58583,7 +58904,8 @@
 		"status": "concept",
 		"replaces": [
 			"b6091019-bc91-4206-87ee-9579327f6a87"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -58598,7 +58920,8 @@
 		"status": "concept",
 		"replaces": [
 			"961b3731-38aa-481f-aba6-341e9186bf64"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "lezen van en luisteren en kijken naar teksten;",
@@ -61615,7 +61938,8 @@
 		"status": "concept",
 		"replaces": [
 			"fb70c222-aa0a-4563-ae92-f0d00d4eb256"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "uitleggen van informatie, passend bij het lees- of luisterdoel, waar nodig met taaladviesbronnen.",
@@ -101868,7 +102192,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"328bc4b0-403d-469a-933e-ed6533758c04"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "verbanden leggen tussen modellen en kenmerken van licht: dopplereffect, richting, golven, reflectie, buiging en sterkte.",
@@ -101881,7 +102206,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"d9188786-f704-44ef-9f6e-a95598101b42"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "analyseren van overeenkomsten en verschillen tussen waargenomen werkelijkheid en modellen van licht.",
@@ -101894,7 +102220,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"ce8aa1a7-4a77-4c04-82af-c13d0f188332"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "beschrijven hoe elektromagnetische straling afkomstig uit hemellichamen informatie bevat over gebeurtenissen in ons zonnestelsel en heelal.",
@@ -101907,7 +102234,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"7d2892b4-6558-47f1-9306-567c3accb053"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "beredeneren hoe technologische ontwikkelingen leiden tot meer kennis over systeem aarde.",
@@ -101920,7 +102248,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"8470b408-c906-4b41-bda1-2044cdfe7064"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "beredeneren hoe technologische ontwikkelingen voor het meten aan elektromagnetische straling leiden tot meer kennis over ons zonnestelsel en het heelal.",
@@ -101933,7 +102262,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"5ff1f67c-02c6-4661-b8f8-02ce369db1b1"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "beschrijven van de levenscyclus van bacteriën, schimmels, planten en dieren;",
@@ -102212,7 +102542,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"e5f01b9b-566d-4bbb-82a8-3eb6eb5c5c2e"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "beschrijven dat DNA informatie bevat van erfelijke eigenschappen en hoe deze informatie wordt doorgegeven aan een volgende generatie.",
@@ -102225,7 +102556,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"a64ef225-bdb1-488d-a56a-42fa4ba32e6a"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "vergelijken van stambomen die zijn gemodelleerd op basis van fenotypische en genetische kernmerken.",
@@ -102238,7 +102570,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"def28976-67e9-4483-a1ff-f8127f1d7d18"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "beschrijven van grote stappen in de evolutie: RNA naar DNA, ontstaan van eukaryoten, van ongeslachtelijke- naar geslachtelijke voortplanting en van protist naar meercellige.",
@@ -102251,7 +102584,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"7421b6ae-4d25-4437-ab6a-a84b61348436"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "verbanden leggen tussen DNA, stambomen en evolutionaire modellen.",
@@ -102264,7 +102598,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"5269590a-e94b-4c0f-a683-71e25f9f2f10"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "analyseren van interacties tussen biotische en abiotische factoren in een gebied.",
@@ -102278,7 +102613,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"fbbeccc1-c0a3-4123-a4d2-09f468a989ad"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "verbanden leggen tussen kringlopen, voedselwebben en de onderlinge samenhang in een ecosysteem.",
@@ -102292,7 +102628,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"3d3bc76a-ca0f-402a-a203-adcd2032acbb"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "beschrijven van kringlopen en verstoringen daarvan.",
@@ -102306,7 +102643,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"bcd3fe44-ff25-484c-9a3e-d42e83abd2a4"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "beschrijven van het dynamisch evenwicht in een ecosysteem en successie.",
@@ -102320,7 +102658,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"52f36d94-511f-4b25-958c-c2db03531e8f"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "analyseren van de menselijke afhankelijkheid van ecosystemen.",
@@ -102334,7 +102673,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"5c2c697f-5993-447c-9805-3db81db144d6"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "evalueren hoe planeten in ons zonnestelsel voldoen aan voorwaarden voor leven;",
@@ -102668,7 +103008,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"7fd9721b-0d85-4a7d-9558-6e6efd1c1cda"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "beschrijven hoe bacteriën, schimmels en virussen het functioneren van mensen beïnvloeden.",
@@ -102682,7 +103023,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"de6d1baf-f3b4-4cd0-9b52-462a777cfa26"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "beschrijven hoe ziektes ontstaan, voorkomen en behandeld kunnen worden.",
@@ -102696,7 +103038,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"118fceba-dd7c-4f0c-a361-f48bcad288f2"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "beschrijven hoe onbedoelde zwangerschappen en seksuele overdraagbare aandoeningen voorkomen kunnen worden.",
@@ -102710,7 +103053,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"b667351e-e9ec-4006-8fd3-9710be8eab60"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "benoemen wanneer en welke verschillende gezondheids- en welzijnsorganisaties je kunt inschakelen voor hulp en preventie voor jezelf en anderen.",
@@ -102724,7 +103068,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"77f26070-d568-4e0a-a799-0a06d2b218f0"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "statische en bewegende elektrische lading, geluid, onweer, straling, zonlicht.",
@@ -102738,7 +103083,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"c4311092-726c-4d03-a14b-582c79e5e942"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "extreem weer, diep en stromend water, ijs, extreme kou en hitte.",
@@ -102752,7 +103098,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"5e3274c7-fcb6-4543-8755-618a007106c5"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "CO, brand, rook en chemicaliën: toxiciteit, dosis en effect.",
@@ -102766,7 +103113,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"e01ad113-1d87-4007-b928-cdd29540c9ba"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "wilde dieren, giftig voedsel, allergische reacties, ernstige bloedingen en hartstilstand.",
@@ -102780,7 +103128,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"4e7c5d73-2d49-4836-9f5a-ee48972fe464"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "aardbevingen, overstromingen en vulkaanuitbarstingen.",
@@ -102794,7 +103143,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"1eb57e66-7bc4-4acd-8960-9858e6d6d69d"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "de leefstijlthema’s: hygiëne, voeding, slaap, natuur en beweging.",
@@ -104553,7 +104903,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"452a3bbc-741a-4d41-a0cf-d6df79e3a143"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "benoemen van verbanden tussen lokale geschiedenis en erfgoed.",
@@ -104567,7 +104918,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"6d63bf12-1bc9-429f-b6b2-c7e842604ada"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "verkennen van economische activiteiten.",
@@ -104581,7 +104933,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"db5de45e-e315-441b-888f-68c0018c66f2"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "beschrijven hoe diversiteit en inclusie zichtbaar zijn.",
@@ -104595,7 +104948,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"fda5695a-7f9a-4299-83a4-a8b9bf9b7937"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "verkennen hoe digitale technologie en digitale middelen de omgeving van de school beïnvloeden.",
@@ -104609,7 +104963,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"18b7892c-887b-431b-b48f-b368d3feb71a"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "aandacht schenken aan emoties en het omgaan met emoties;",
@@ -104749,7 +105104,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"3aac53be-d016-4169-9971-617ee9010ad3"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "benoemen van verbanden tussen lokale geschiedenis en erfgoed.",
@@ -104763,7 +105119,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"e50b5b02-5918-4bde-aef4-f327412655b5"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "verkennen van economische activiteiten.",
@@ -104777,7 +105134,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"3e40306c-1615-407c-8f55-8cc94adad9ca"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "beschrijven hoe diversiteit en inclusie zichtbaar zijn.",
@@ -104791,7 +105149,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"1837b260-662a-4e0c-b28c-8fb6c9259eff"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "verkennen hoe digitale technologie en digitale middelen de omgeving van de school beïnvloeden.",
@@ -104805,7 +105164,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"baf3c8b3-ac5b-47ec-a531-20ceb585de61"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "aandacht schenken aan emoties en het omgaan met emoties;",
@@ -105015,7 +105375,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"16417ac7-8ff8-4a57-8063-17e706b72bf0"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "zeer eenvoudige teksten over vertrouwde en alledaagse informatie, gevoelens en interesses;",
@@ -105085,7 +105446,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"f84efdf7-d04a-4efd-987c-139cabfcf4e6"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "lezen van, kijken naar en luisteren naar fictie en non-fictieteksten over uiteenlopende thema's en onderwerpen;",
@@ -105127,7 +105489,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"a8531b11-e0e2-4c10-8719-f1aac05cc9fd"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "ruimte bieden aan differentiatie om tegemoet te komen aan de verschillende taalniveaus van leerlingen.",
@@ -105141,7 +105504,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"9113ea87-a946-436c-abc7-85adba0eee6f"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "ruimte bieden aan verschillende talen en taalvariëteiten van leerlingen bij het leren van Engels.",
@@ -105155,7 +105519,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"8210a7c5-7614-4bb8-8b3f-c1a5c6c6a0f5"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "langzaam en duidelijk uitgesproken geïllustreerde fictie- en non-fictieteksten over voorspelbare en alledaagse zaken in heldere standaardtaal en een vertrouwde taalvariëteit;",
@@ -105390,7 +105755,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"866dbf4f-65b4-40d4-a758-2c7197b550e5"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "overbrengen van feitelijke informatie in korte informele en formele sociale interacties;",
@@ -105512,7 +105878,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"cbb64b06-7411-4ca1-b7d4-10237dcd1359"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "schrijven van verslagen en opstellen met eenduidige feitelijke informatie over vertrouwde onderwerpen.",
@@ -105525,7 +105892,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"46571202-f4d9-4a94-b414-a41efa2896f3"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "samenvatten van de gelezen en beluisterde inhoud;",
@@ -105775,7 +106143,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"ff30fc3f-c6a2-4e37-80cd-dc8b6b3cbb26"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "onderzoeken van de eigen interesses en doelen voor het leren van en over het Engels: culturen, gebieden en sprekers;",
@@ -105971,7 +106340,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"5a5ec887-62ba-4006-981d-f991a24673e7"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "deelnemen aan eenvoudige communicatieve situaties met sprekers van het Engels.",
@@ -105985,7 +106355,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"4321d563-52e1-4861-9dd3-97430feea1d3"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "onderzoeken van culturele aspecten van doeltaalgebieden en doeltaalsprekers.",
@@ -105998,7 +106369,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"d2a67ca2-2f8c-48bb-8e77-ae496cc43840"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "kritische vragen formuleren over aannames.",
@@ -106011,7 +106383,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"8282f8c1-801a-4ef2-b694-f91846442e6d"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "lezen van, kijken naar en luisteren naar fictie en non-fictie teksten over uiteenlopende thema's en onderwerpen.",
@@ -106122,7 +106495,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"2d7b384c-08c7-4f9f-8f31-0e3e16fb0096"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "samenvatten van de gelezen en beluisterde inhoud;",
@@ -106200,7 +106574,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"8c2f2374-ca2d-43c4-94ce-f9c9d02f13ac"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "concrete, zeer vertrouwde en alledaagse informatie.",
@@ -106214,7 +106589,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"b72ca300-f252-4c2d-9f4a-30a5a5ad40d3"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "stellen en beantwoorden van zeer eenvoudige vragen.",
@@ -106228,7 +106604,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"1c15403a-e9b5-4061-8fbb-568e5720ea44"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "mondeling beschrijven van zeer eenvoudige zaken.",
@@ -106242,7 +106619,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"a6fd394b-0a09-4616-acb9-ff955ff95e26"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "gebruiken van zeer elementaire woorden, woordcombinaties, uitdrukkingen, zinnen en taalstructuren.",
@@ -106256,7 +106634,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"ae85f492-1d3e-4fb2-b22a-3c965cfe71b0"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "gebruiken van passende spreek- en gespreksbevorderende strategieën.",
@@ -106270,7 +106649,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"c57475ee-2574-4521-9ea1-cd7992da22f7"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "concrete, vertrouwde en alledaagse informatie.",
@@ -106283,7 +106663,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"ba0eef74-06d3-48c4-a8f1-a897d760a977"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "stellen en beantwoorden van eenvoudige vragen.",
@@ -106296,7 +106677,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"2cc3df0a-5f01-4785-9c28-56571c1d6bc1"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "concrete, zeer vertrouwde en alledaagse, korte teksten.",
@@ -106310,7 +106692,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"59d8a1e5-e342-4ac2-8cf7-31144ee338b5"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "uitwisselen van zeer eenvoudige informatie.",
@@ -106324,7 +106707,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"397796c6-899f-4b92-b861-d1b1520365bf"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "schriftelijk beschrijven van zeer eenvoudige zaken.",
@@ -106338,7 +106722,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"066b2916-0b07-4cd2-8c7d-6c099eee2a66"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "gebruiken van zeer elementaire woordenschat, woordcombinaties, uitdrukkingen, zinnen en taalstructuren.",
@@ -106352,7 +106737,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"3c2ca67e-bdd1-42ad-bb37-443b2eebe02f"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "gebruiken van passende schrijfstrategieën.",
@@ -106366,7 +106752,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"fd68f12c-0576-4ac7-bf2c-073c0f09a8e7"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "concrete, vertrouwde en alledaagse, korte teksten.",
@@ -106379,7 +106766,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"bfcf5359-6f84-4b00-a7f1-25f6489ee84d"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "samenvatten van de gelezen en beluisterde inhoud.",
@@ -106392,7 +106780,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"986638fa-905f-4df0-8cc8-af59c995b16d"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "vergelijken van de inhoud van teksten.",
@@ -106405,7 +106794,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"f141322f-6ca1-4a55-acc8-ce225f5a64a7"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "ordenen van informatie in een schema.",
@@ -106418,7 +106808,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"1e06dbed-e4fd-4abe-9ec3-1627e26a2c3f"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "verwoorden van ideeën en meningen naar aanleiding van teksten.",
@@ -106431,7 +106822,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"b7a3b0a1-6c21-45c9-a5e1-a404c5766bdc"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "gebruiken van school- en vaktaal.",
@@ -106444,7 +106836,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"194351f7-55ab-446d-9449-0cace29f5c91"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "experimenteren met woorden, zinnen, klanken, ritme en visuele vormen.",
@@ -106458,7 +106851,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"17500ee7-427d-40f5-ba56-b6ab3a661dd9"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "uitdrukken van ervaringen, gevoelens, gedachten en ideeën in verschillende soorten eenvoudige taalcreaties.",
@@ -106472,7 +106866,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"1aa8226a-f0e8-42c9-9919-5f19dbfe0ab6"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "gebruiken van creatieve voorbeelden om een creatieve tekst te maken.",
@@ -106486,7 +106881,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"186c2d3e-f294-47ad-876a-314510041325"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "reflecteren op het eigen creatieve werk en dat van anderen.",
@@ -106500,7 +106896,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"d8eadbb3-7a39-4315-aede-ba40423c2a2c"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "lezen van, kijken naar en luisteren naar fictie en non-fictie teksten over uiteenlopende thema's en onderwerpen.",
@@ -106514,7 +106911,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"8c9fdc3c-5022-45c6-9724-2adbbe402d6e"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "lezen van, kijken naar en luisteren naar verschillende taalvariëteiten en taalniveaus van sprekers van de doeltaal en contexten waarin de doeltaal als lingua franca wordt gebruikt.",
@@ -106528,7 +106926,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"1891b057-dfa0-498c-97b1-5b63030eec97"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "langzaam en duidelijk uitgesproken geïllustreerde fictie- en non-fictieteksten over voorspelbare en alledaagse zaken in heldere standaardtaal en een vertrouwde taalvariëteit;",
@@ -106611,7 +107010,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"d97c7227-6efe-4301-a5df-afe1eb3a5b18"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "geïllustreerde fictie- en non-fictieteksten over voorspelbare en alledaagse zaken in heldere standaardtaal en een vertrouwde taalvariëteit;",
@@ -106680,7 +107080,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"0c23af6d-922e-4aa7-b2e6-424cc05d077d"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "overbrengen van vertrouwde en alledaagse informatie, gevoelens en interesses;",
@@ -106832,7 +107233,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"1d4a7e89-4b60-4288-96ec-f73c4d96b5d6"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "gebruiken van passende schrijfstrategieën.",
@@ -106872,7 +107274,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"0cd11660-3c94-4cb5-85ca-45de00776c0a"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "vergelijken van de inhoud van teksten.",
@@ -106885,7 +107288,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"14924073-cbbf-4232-9e63-5d6bb06f647f"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "ordenen van informatie in een schema.",
@@ -106898,7 +107302,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"fc742624-a9e3-4369-b7da-e78eb4b7ae3e"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "verwoorden van ideeën en meningen naar aanleiding van teksten.",
@@ -106911,7 +107316,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"b63f9fb5-ca4b-4413-b59b-9fbf775a2fdc"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "gebruiken van school- en vaktaal.",
@@ -106924,7 +107330,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"2f3c8620-cd07-45e1-aa52-c86f065cb09c"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "experimenteren met woorden, zinnen, klanken, ritme en visuele vormen.",
@@ -106938,7 +107345,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"337ec113-dcac-4886-bb6c-608f3a962c1b"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "uitdrukken van ervaringen, gevoelens, gedachten en ideeën in verschillende soorten eenvoudige taalcreaties.",
@@ -106952,7 +107360,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"55b3d1cb-8f9f-480d-ac1c-c861423222a9"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "gebruiken van creatieve voorbeelden om een creatieve tekst te maken.",
@@ -106966,7 +107375,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"3ae94b95-2748-477c-aaa6-451b9504bfe2"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "reflecteren op het eigen creatieve werk en dat van anderen.",
@@ -106980,7 +107390,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"8e3a1e46-05ec-4105-b74e-9b6cdedcdb19"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "onderzoeken van de eigen interesses en doelen voor het leren van en over de doeltaal: culturen, gebieden en sprekers;",
@@ -107176,7 +107587,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"fb0776a8-7a77-4500-8a29-ee9f2dea6df2"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "deelnemen aan eenvoudige communicatieve situaties met sprekers van de doeltaal.",
@@ -107190,7 +107602,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"42b6670f-baa0-427f-b496-7bc27a3b790d"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "onderzoeken van culturele aspecten van doeltaalgebieden en doeltaalsprekers.",
@@ -107203,7 +107616,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"3674d27f-08ca-4013-b850-4c466281c663"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "kritische vragen formuleren over aannames.",
@@ -107216,7 +107630,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"ff7d73ae-dc79-4ea7-a3b0-62e375fe694d"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "beschrijven van de eigen taalleerstrategieën.",
@@ -107230,7 +107645,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"2d25980c-6589-4fe8-90db-053ec8b63f77"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "verkennen wat de eigen meertaligheid betekent voor het leren van talen.",
@@ -107244,7 +107660,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"276e71e2-5970-4d93-bb10-d3a2ef56b412"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "benoemen van overeenkomsten en verschillen tussen het Engels en andere talen ter bevordering van het taalleerproces.",
@@ -107258,7 +107675,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"9912f3b7-f360-42b1-8a94-87fffbfd9afc"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "evalueren van de bruikbaarheid van digitale middelen voor het eigen taalleerproces.",
@@ -107272,7 +107690,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"c4d87a3e-6d00-4508-9f99-bc7516a3bd9c"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "verkennen van de eigen interesses en doelen voor het leren van en over de doeltaal, doeltaalculturen en doeltaalsprekers.",
@@ -107286,7 +107705,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"de98b08a-21d6-4131-aee8-75e4e0f5021b"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "onderscheiden waar, door wie en in welke contexten de doeltaal wordt gebruikt.",
@@ -107300,7 +107720,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"565ab89c-5678-445a-a540-d5db23393c6c"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "benoemen van overeenkomsten en verschillen op het gebied van gewoontes, omgangsvormen en perspectieven binnen en tussen culturen.",
@@ -107314,7 +107735,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"2eb7af69-996a-48c5-ae6d-e2c93ec7788e"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "benoemen van maatschappelijke thema's.",
@@ -107328,7 +107750,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"a8541502-67f0-473d-8384-2d8b1579fa76"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "beschrijven van situaties vanuit verschillende culturele perspectieven.",
@@ -107342,7 +107765,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"f51dc26b-f87f-40fe-aef4-ae46807c46af"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "reflecteren op de eigen lees-, luister- en kijkervaring van fictie en nonfictie uit verschillende culturen.",
@@ -107356,7 +107780,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"99e5176d-5d9a-402c-a767-5c1371df70d3"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "beschrijven van culturele aspecten van sprekers van de doeltaal en gebieden waar de doeltaal wordt gesproken.",
@@ -107370,7 +107795,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"09baa2a7-1544-4345-84a8-930a21acc1e2"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "reflecteren op de eigen eerdere interculturele ervaringen.",
@@ -107384,7 +107810,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"a8726ccc-f867-4b97-ae63-be08ad0c0d04"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "benoemen van culturele elementen in interacties.",
@@ -107398,7 +107825,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"c666c308-4cc2-4cf6-8af9-53506776c2f5"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "interpreteren van culturele interacties die in de doeltaal plaatsvinden.",
@@ -107412,7 +107840,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"0f85e810-0166-4545-ad53-e97d492cfe67"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "deelnemen aan eenvoudige communicatieve situaties met sprekers van de doeltaal.",
@@ -107426,7 +107855,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"a0817364-1bf0-435b-8911-aa3b648df7f1"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "onderzoeken van culturele aspecten van doeltaalgebieden en doeltaalsprekers.",
@@ -107439,7 +107869,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"6a94bbc9-4bf6-4f59-ac9b-df44ba405783"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "kritische vragen formuleren over aannames.",
@@ -107452,7 +107883,8 @@
 		"status": "definitief concept",
 		"replaces": [
 			"9789e55b-75e7-4196-9936-330e4df4ccd1"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "omgaan met speelruimte en selecteren van creatieve strategieën bij het maken en meemaken;",

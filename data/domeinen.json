@@ -204,7 +204,8 @@
 		"id": "750dee37-1bd2-4f8f-855a-fa2485923df4",
 		"replaces": [
 			"60d3f360-a7ba-421f-9f4b-c18a48bd4c13"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Domein B Taalbewustzijn",
@@ -2570,7 +2571,8 @@
 		],
 		"replaces": [
 			"ffe3aabe-9426-4a19-9d38-773200fcac19"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Domein B Taalbewustzijn",
@@ -2583,7 +2585,8 @@
 		],
 		"replaces": [
 			"cf163cc7-0538-4d93-a596-dfbb356471a5"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Domein C Cultuurbewustzijn",
@@ -2596,7 +2599,8 @@
 		],
 		"replaces": [
 			"b9984543-6d20-4d98-8a00-43cbe093dbcd"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Domein A  Communicatie",
@@ -2610,7 +2614,8 @@
 		],
 		"replaces": [
 			"9dfd9a44-4a15-4479-a98a-9caa3889e182"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Domein B Taalbewustzijn",
@@ -2623,7 +2628,8 @@
 		],
 		"replaces": [
 			"b145f556-d5b3-45ac-bcbf-9efd2959a85d"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Domein C Cultuurbewustzijn",
@@ -2636,7 +2642,8 @@
 		],
 		"replaces": [
 			"4599890c-a330-4779-914e-b79f9d674b51"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Domein A  Communicatie",
@@ -5504,7 +5511,8 @@
 		"replaces": [
 			"abd075f6-6427-42da-b9d4-4d4e7b81012d",
 			"a601cd38-4e20-47aa-a5fc-2625f11b6388"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Domein: vraagstukken en perspectieven",
@@ -5574,7 +5582,8 @@
 		"replaces": [
 			"eec88335-676e-4024-a33c-f784b5e5fdcb",
 			"503bfb08-1441-42d8-862b-3123f2794a67"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Domein: communicatie",

@@ -3021,7 +3021,8 @@
 		],
 		"replaces": [
 			"3ddc2675-2a72-49eb-b93a-c9984d6b672b"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Subdomein A2 Receptie",
@@ -3034,7 +3035,8 @@
 		],
 		"replaces": [
 			"227b736d-07d4-4e12-a8b0-2c5605053912"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Subdomein A3 Productie en interactie",
@@ -3047,7 +3049,8 @@
 		],
 		"replaces": [
 			"fc254b2c-6a4a-48d9-bd4a-d28ae259879a"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Subdomein B1 Taal als fenomeen",
@@ -3059,7 +3062,8 @@
 		],
 		"replaces": [
 			"89873167-084d-4986-8833-3527e37def4d"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Subdomein B2 Taal en individu",
@@ -3074,7 +3078,8 @@
 		],
 		"replaces": [
 			"73b935ae-ed7d-48c9-bfc8-f755a1a0b265"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Subdomein C1 Cultuur in fictie",
@@ -3086,7 +3091,8 @@
 		],
 		"replaces": [
 			"9d7a62c6-a756-470a-bb31-55bcacd75c99"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Subdomein C2 Cultuur in de maatschappij",
@@ -3099,7 +3105,8 @@
 		],
 		"replaces": [
 			"970f8d13-c24a-4e61-962f-d9f4f04fc53d"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Subdomein A1 Rijke ervaringen met taal",
@@ -3112,7 +3119,8 @@
 		],
 		"replaces": [
 			"68dd023b-c6a8-4ba0-858a-76b08f0ecda7"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Subdomein A2 Receptie",
@@ -3125,7 +3133,8 @@
 		],
 		"replaces": [
 			"7844e4a5-fce2-4f2b-902f-511d3dc2d5f5"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Subdomein A3 Productie en interactie",
@@ -3139,7 +3148,8 @@
 		],
 		"replaces": [
 			"d19bc8e2-4b5a-41ac-867b-e7a6c5acc2c8"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Subdomein B1 Taal als fenomeen",
@@ -3151,7 +3161,8 @@
 		],
 		"replaces": [
 			"77cf440d-fedf-4853-bbfd-5408d291930e"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Subdomein B2 Taal en individu",
@@ -3166,7 +3177,8 @@
 		],
 		"replaces": [
 			"b629e97c-f810-451a-8401-78c7305e6730"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Subdomein C1 Cultuur in fictie",
@@ -3179,7 +3191,8 @@
 		],
 		"replaces": [
 			"b4ed16c9-cfaf-4057-8a1b-1040acef4291"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Subdomein C2 Cultuur in de maatschappij",
@@ -3192,7 +3205,8 @@
 		],
 		"replaces": [
 			"c6fc9791-1b32-4357-8eb5-bdf5cf657ade"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Subdomein A1 Rijke ervaringen met taal",

@@ -1459,7 +1459,8 @@
 		"soort": "eindterm",
 		"se": 1,
 		"id": "b264d160-08e2-49f1-9dc9-19b54d22353b",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Eindterm 4",
@@ -2910,7 +2911,8 @@
 		],
 		"replaces": [
 			"cd19a94c-1ee9-4360-99f2-1cd65dd19ad5"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Kerndoel 4 - Wiskundige attitude",
@@ -2934,7 +2936,8 @@
 		],
 		"replaces": [
 			"93886e3a-d769-4224-9f8f-2fdeb1905fc8"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Kerndoel 4 - Wiskundige attitude",
@@ -2958,7 +2961,8 @@
 		],
 		"replaces": [
 			"9537dfce-2cee-45cf-9cac-a79e40c27f98"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Eindterm 1",
@@ -13658,7 +13662,8 @@
 		],
 		"replaces": [
 			"c9a05aff-8faa-4a17-896e-f1715dd53fc4"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Eindterm 2",
@@ -13682,7 +13687,8 @@
 		],
 		"replaces": [
 			"79b3b1bf-f661-4607-85c1-8e22afc30289"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Eindterm 3",
@@ -13707,7 +13713,8 @@
 		],
 		"replaces": [
 			"4747a937-66ef-459a-bc8b-d8c3ed4560c6"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Eindterm 4",
@@ -13732,7 +13739,8 @@
 		],
 		"replaces": [
 			"2e0445e5-5526-4d3b-9510-a999ad78b323"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Eindterm 5",
@@ -13755,7 +13763,8 @@
 		],
 		"replaces": [
 			"ab2865de-64a6-47dd-8c7c-ba8975c219f0"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Eindterm 6",
@@ -13780,7 +13789,8 @@
 		],
 		"replaces": [
 			"07089fa9-d75f-490d-baac-842316eca9d8"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Eindterm 7",
@@ -13803,7 +13813,8 @@
 		],
 		"replaces": [
 			"4cac3fd0-6382-4d90-a1d1-95beb835f02e"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Eindterm 8",
@@ -13826,7 +13837,8 @@
 		],
 		"replaces": [
 			"32229a04-218a-4cc8-9300-5272e1ac8367"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Eindterm 9",
@@ -13851,7 +13863,8 @@
 		],
 		"replaces": [
 			"a0916951-705e-4c34-9bd2-914ded2bf094"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Eindterm 10",
@@ -13875,7 +13888,8 @@
 		],
 		"replaces": [
 			"9d9908da-2d1a-43b1-9f02-8fa4a84d5a1f"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Eindterm 11",
@@ -13901,7 +13915,8 @@
 		],
 		"replaces": [
 			"57e75fb2-862b-4171-8212-31ec0ca4b634"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Eindterm 12",
@@ -13924,7 +13939,8 @@
 		],
 		"replaces": [
 			"dddd6184-5e0f-4790-aed8-647000a90b6a"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Eindterm 13",
@@ -13948,7 +13964,8 @@
 		],
 		"replaces": [
 			"cc2eeef1-9b61-4b62-86bc-f2c060623847"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Eindterm 14",
@@ -13972,7 +13989,8 @@
 		],
 		"replaces": [
 			"0c24c7ea-4499-48dc-9eb0-3e55d0c92ee4"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Eindterm 1",
@@ -13994,7 +14012,8 @@
 		],
 		"replaces": [
 			"bd5430b7-8d38-4eb7-845b-602f35561a6f"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Eindterm 2",
@@ -14019,7 +14038,8 @@
 		],
 		"replaces": [
 			"1a3b34df-c93d-4f57-b006-9c1d8733598a"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Eindterm 3",
@@ -14044,7 +14064,8 @@
 		],
 		"replaces": [
 			"2ebfeeca-893f-4f9c-9851-e54f8c445e8b"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Eindterm 4",
@@ -14069,7 +14090,8 @@
 		],
 		"replaces": [
 			"0e91ad3e-04a1-49a1-a92c-fdb6bff9c726"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Eindterm 5",
@@ -14101,7 +14123,8 @@
 		],
 		"replaces": [
 			"c260afc1-8067-4d31-8b8f-d23085ac0f07"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Eindterm 7",
@@ -14125,7 +14148,8 @@
 		],
 		"replaces": [
 			"ab41c7a6-301f-4329-a5a3-da8cce68a26b"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Eindterm 8",
@@ -14148,7 +14172,8 @@
 		],
 		"replaces": [
 			"a57fbf30-bb1f-4638-9cb7-6d3a776bd833"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Eindterm 9",
@@ -14171,7 +14196,8 @@
 		],
 		"replaces": [
 			"3252121f-886f-4fc9-8b69-7df4f0699f52"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Eindterm 10",
@@ -14196,7 +14222,8 @@
 		],
 		"replaces": [
 			"6e419087-a53d-49a7-83b4-79c0ad99a68a"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Eindterm 11",
@@ -14220,7 +14247,8 @@
 		],
 		"replaces": [
 			"15963ef9-872d-44c0-b929-c65d289543c1"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Eindterm 12",
@@ -14246,7 +14274,8 @@
 		],
 		"replaces": [
 			"f1327fc5-080e-4a9d-a425-e931e4b27e35"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Eindterm 13",
@@ -14270,7 +14299,8 @@
 		],
 		"replaces": [
 			"1f403309-2a14-4234-9996-65080a4115fc"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Eindterm 14",
@@ -14295,7 +14325,8 @@
 		],
 		"replaces": [
 			"7ebce8c6-dc55-4197-acae-8995b68ec4bf"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Eindterm 15",
@@ -14319,7 +14350,8 @@
 		],
 		"replaces": [
 			"72b34dec-a676-4dd6-a105-76f2d1258e07"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Eindterm 16",
@@ -14343,7 +14375,8 @@
 		],
 		"replaces": [
 			"7a7e3d1d-fe97-430f-a941-dca9abcfadf0"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Concept - Eindterm 1",
@@ -58946,7 +58979,8 @@
 		"replaces": [
 			"9aebd79f-215f-4fb8-83d6-f3dbe1fefe2d",
 			"db2f7b8d-1d2d-4b18-b0fc-7027d0bb5143"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Kerndoel 21 - Veiligheid",
@@ -58972,7 +59006,8 @@
 		"replaces": [
 			"e8023f96-0139-4196-adfd-a13383544f69",
 			"6b907153-9b43-46f3-9961-624b7981e105"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Doelzin 32C - Gezond leven",
@@ -59651,7 +59686,8 @@
 		"replaces": [
 			"bcdf9c45-eb15-4ecd-9478-288642872885",
 			"77cbcef6-69e2-45ed-9c5b-c0e7fd6e22b7"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Doelzin 28D - Sociale omgeving",
@@ -59728,7 +59764,8 @@
 			"c2e518b4-eadb-4a2b-8871-a43618567f10",
 			"3f7a3c6a-e89e-41be-a8a0-9575b9a779a1"
 		],
-		"soort": "kerndoel"
+		"soort": "kerndoel",
+		"deleted": true
 	},
 	{
 		"title": "Doelzin 28D - Sociale omgeving",

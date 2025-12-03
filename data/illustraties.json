@@ -7,7 +7,8 @@
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"status": "concept",
-		"description": "aanbieden van formele wiskundetaal als vervanging van informeel taalgebruik."
+		"description": "aanbieden van formele wiskundetaal als vervanging van informeel taalgebruik.",
+		"deleted": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -17,7 +18,8 @@
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"status": "concept",
-		"description": "algoritmisch denken toepassen bij getallen en andere wiskundige concepten."
+		"description": "algoritmisch denken toepassen bij getallen en andere wiskundige concepten.",
+		"deleted": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -29,7 +31,8 @@
 		],
 		"prefix": "t1",
 		"status": "concept",
-		"description": "een argumentatieschema maken bij een betogende tekst over een maatschappelijk probleem, bijvoorbeeld roken."
+		"description": "een argumentatieschema maken bij een betogende tekst over een maatschappelijk probleem, bijvoorbeeld roken.",
+		"deleted": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -41,7 +44,8 @@
 		],
 		"prefix": "t2",
 		"status": "concept",
-		"description": "in een politiek debat benoemen of het gaat om politieke argumentatie of bijvoorbeeld medische argumentatie."
+		"description": "in een politiek debat benoemen of het gaat om politieke argumentatie of bijvoorbeeld medische argumentatie.",
+		"deleted": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -53,7 +57,8 @@
 		],
 		"prefix": "t3",
 		"status": "concept",
-		"description": "verschillende opnames van boekpromoties vergelijken en bespreken welke het overtuigendste is."
+		"description": "verschillende opnames van boekpromoties vergelijken en bespreken welke het overtuigendste is.",
+		"deleted": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -65,7 +70,8 @@
 		],
 		"prefix": "t1",
 		"status": "concept",
-		"description": "een bewerking van een 17e-eeuws lied lezen en verbinden aan kennis over die tijd."
+		"description": "een bewerking van een 17e-eeuws lied lezen en verbinden aan kennis over die tijd.",
+		"deleted": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -77,7 +83,8 @@
 		],
 		"prefix": "t2",
 		"status": "concept",
-		"description": "verhalen en gedichten over een bepaalde historische gebeurtenis interpreteren vanuit standplaatsgebondenheid."
+		"description": "verhalen en gedichten over een bepaalde historische gebeurtenis interpreteren vanuit standplaatsgebondenheid.",
+		"deleted": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -89,7 +96,8 @@
 		],
 		"prefix": "t3",
 		"status": "concept",
-		"description": "verwijzingen naar Arthurromans herkennen in voorbeelden van hedendaagse literatuur."
+		"description": "verwijzingen naar Arthurromans herkennen in voorbeelden van hedendaagse literatuur.",
+		"deleted": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -99,7 +107,8 @@
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"status": "concept",
-		"description": "lezen van verschillende vormen van literatuur over kinderen en jongeren die zich inzetten om een betere wereld mogelijk te maken."
+		"description": "lezen van verschillende vormen van literatuur over kinderen en jongeren die zich inzetten om een betere wereld mogelijk te maken.",
+		"deleted": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -109,7 +118,8 @@
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"status": "concept",
-		"description": "bezoeken van verenigingen en maatschappelijke organisaties in de buurt."
+		"description": "bezoeken van verenigingen en maatschappelijke organisaties in de buurt.",
+		"deleted": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -119,7 +129,8 @@
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"status": "concept",
-		"description": "deelnemen aan maatschappelijke activiteiten binnen de context van school."
+		"description": "deelnemen aan maatschappelijke activiteiten binnen de context van school.",
+		"deleted": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -129,7 +140,8 @@
 			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
 		],
 		"status": "concept",
-		"description": "maken van een poster of een filmpje om maatschappelijke misstanden onder de aandacht te brengen."
+		"description": "maken van een poster of een filmpje om maatschappelijke misstanden onder de aandacht te brengen.",
+		"deleted": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -139,7 +151,8 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"status": "concept",
-		"description": "opstellen van scenario's voor verbetering van de eigen omgeving."
+		"description": "opstellen van scenario's voor verbetering van de eigen omgeving.",
+		"deleted": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -149,7 +162,8 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"status": "concept",
-		"description": "reflecteren op de eigen bijdrage aan een maatschappelijk doel."
+		"description": "reflecteren op de eigen bijdrage aan een maatschappelijk doel.",
+		"deleted": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -159,7 +173,8 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"status": "concept",
-		"description": "bijdragen aan het organiseren van maatschappelijke activiteiten binnen of buiten de context van school."
+		"description": "bijdragen aan het organiseren van maatschappelijke activiteiten binnen of buiten de context van school.",
+		"deleted": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -169,7 +184,8 @@
 			"dbbc3e87-a848-4425-912a-d494e43e5e59"
 		],
 		"status": "concept",
-		"description": "doelgericht inzetten van digitale media om maatschappelijke misstanden onder de aandacht te brengen."
+		"description": "doelgericht inzetten van digitale media om maatschappelijke misstanden onder de aandacht te brengen.",
+		"deleted": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -180,7 +196,8 @@
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		],
 		"status": "concept",
-		"description": "uitvoeren van en reflecteren op een maatschappelijke stage of maatschappelijke diensttijd."
+		"description": "uitvoeren van en reflecteren op een maatschappelijke stage of maatschappelijke diensttijd.",
+		"deleted": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -189,7 +206,8 @@
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
 		],
 		"status": "concept",
-		"description": "benutten van een thematafel met rijke teksten rondom een actueel thema."
+		"description": "benutten van een thematafel met rijke teksten rondom een actueel thema.",
+		"deleted": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -198,7 +216,8 @@
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
 		],
 		"status": "concept",
-		"description": "verdiepen van de betekenis van een verhaal door bij het boek ook de verfilming aan te bieden."
+		"description": "verdiepen van de betekenis van een verhaal door bij het boek ook de verfilming aan te bieden.",
+		"deleted": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -207,7 +226,8 @@
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
 		],
 		"status": "concept",
-		"description": "deelnemen aan leesbevorderingsactiviteiten binnen en buiten de school."
+		"description": "deelnemen aan leesbevorderingsactiviteiten binnen en buiten de school.",
+		"deleted": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -216,7 +236,8 @@
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
 		],
 		"status": "concept",
-		"description": "deelnemen aan leesbevorderingsactiviteiten zowel binnen als buiten de school."
+		"description": "deelnemen aan leesbevorderingsactiviteiten zowel binnen als buiten de school.",
+		"deleted": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -225,7 +246,8 @@
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
 		],
 		"status": "concept",
-		"description": "benutten van een thematafel met rijke teksten rondom een thema dat aansluit bij de domeinen wonen, vrije tijd en burgerschap."
+		"description": "benutten van een thematafel met rijke teksten rondom een thema dat aansluit bij de domeinen wonen, vrije tijd en burgerschap.",
+		"deleted": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -234,7 +256,8 @@
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
 		],
 		"status": "concept",
-		"description": "deelnemen aan leesbevorderingsactiviteiten binnen en buiten de school."
+		"description": "deelnemen aan leesbevorderingsactiviteiten binnen en buiten de school.",
+		"deleted": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -243,7 +266,8 @@
 			"bdc4744f-79df-4795-8795-2fee50c7416a"
 		],
 		"status": "concept",
-		"description": "benutten van een thematafel met rijke teksten rondom een thema dat aansluit bij de domeinen wonen, vrije tijd en burgerschap."
+		"description": "benutten van een thematafel met rijke teksten rondom een thema dat aansluit bij de domeinen wonen, vrije tijd en burgerschap.",
+		"deleted": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -252,7 +276,8 @@
 			"bdc4744f-79df-4795-8795-2fee50c7416a"
 		],
 		"status": "concept",
-		"description": "deelnemen aan leesbevorderingsactiviteiten binnen en buiten de school."
+		"description": "deelnemen aan leesbevorderingsactiviteiten binnen en buiten de school.",
+		"deleted": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -261,7 +286,8 @@
 			"bdc4744f-79df-4795-8795-2fee50c7416a"
 		],
 		"status": "concept",
-		"description": "uitnodigen van beroepsbeoefenaars in de klas."
+		"description": "uitnodigen van beroepsbeoefenaars in de klas.",
+		"deleted": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -270,7 +296,8 @@
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
 		],
 		"status": "concept",
-		"description": "voor langere tijd werken aan een breed thema, met teksten in allerlei verschijningsvormen."
+		"description": "voor langere tijd werken aan een breed thema, met teksten in allerlei verschijningsvormen.",
+		"deleted": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -279,7 +306,8 @@
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
 		],
 		"status": "concept",
-		"description": "voor langere tijd werken aan een breed thema, met teksten in allerlei verschijningsvormen."
+		"description": "voor langere tijd werken aan een breed thema, met teksten in allerlei verschijningsvormen.",
+		"deleted": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -288,7 +316,8 @@
 			"bdc4744f-79df-4795-8795-2fee50c7416a"
 		],
 		"status": "concept",
-		"description": "voor langere tijd werken aan een breed thema, met teksten in allerlei verschijningsvormen."
+		"description": "voor langere tijd werken aan een breed thema, met teksten in allerlei verschijningsvormen.",
+		"deleted": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -297,7 +326,8 @@
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
 		],
 		"status": "concept",
-		"description": "pictogrammen, passend bij een bekeken of beluisterde instructie, in de juiste volgorde leggen."
+		"description": "pictogrammen, passend bij een bekeken of beluisterde instructie, in de juiste volgorde leggen.",
+		"deleted": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -306,7 +336,8 @@
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
 		],
 		"status": "concept",
-		"description": "het volgen van een stappenplan bij een praktijkvak."
+		"description": "het volgen van een stappenplan bij een praktijkvak.",
+		"deleted": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -315,7 +346,8 @@
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
 		],
 		"status": "concept",
-		"description": "herkennen van belangrijke woorden in een tekst."
+		"description": "herkennen van belangrijke woorden in een tekst.",
+		"deleted": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -324,7 +356,8 @@
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
 		],
 		"status": "concept",
-		"description": "maken van een tekst in de vorm van symbolen voor een bekende."
+		"description": "maken van een tekst in de vorm van symbolen voor een bekende.",
+		"deleted": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -333,7 +366,8 @@
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
 		],
 		"status": "concept",
-		"description": "uitleggen van een spelletje aan een ander."
+		"description": "uitleggen van een spelletje aan een ander.",
+		"deleted": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -342,7 +376,8 @@
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
 		],
 		"status": "concept",
-		"description": "spelen van een rollenspel, waarbij je je uitdrukt in mondelinge taal, gebaren en/of andere uitingsvormen."
+		"description": "spelen van een rollenspel, waarbij je je uitdrukt in mondelinge taal, gebaren en/of andere uitingsvormen.",
+		"deleted": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -351,7 +386,8 @@
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
 		],
 		"status": "concept",
-		"description": "beoordelen van informatie op waarheid, bijvoorbeeld uit (prenten)boeken, illustraties en filmpjes passend bij een thema."
+		"description": "beoordelen van informatie op waarheid, bijvoorbeeld uit (prenten)boeken, illustraties en filmpjes passend bij een thema.",
+		"deleted": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -360,7 +396,8 @@
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
 		],
 		"status": "concept",
-		"description": "geven van een mening naar aanleiding van een bekeken programma."
+		"description": "geven van een mening naar aanleiding van een bekeken programma.",
+		"deleted": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -369,7 +406,8 @@
 			"bdc4744f-79df-4795-8795-2fee50c7416a"
 		],
 		"status": "concept",
-		"description": "geven van een mening en/of trekken van een conclusie op basis van voldoende betrouwbare informatie."
+		"description": "geven van een mening en/of trekken van een conclusie op basis van voldoende betrouwbare informatie.",
+		"deleted": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -378,7 +416,8 @@
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
 		],
 		"status": "concept",
-		"description": "organiseren van activiteiten binnen en buiten school die bij leerlingen het plezier in rekenen en wiskunde stimuleren."
+		"description": "organiseren van activiteiten binnen en buiten school die bij leerlingen het plezier in rekenen en wiskunde stimuleren.",
+		"deleted": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -387,7 +426,8 @@
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
 		],
 		"status": "concept",
-		"description": "verbinden van interesses en relevante situaties van leerlingen aan wiskundige concepten en denk/werkwijzen."
+		"description": "verbinden van interesses en relevante situaties van leerlingen aan wiskundige concepten en denk/werkwijzen.",
+		"deleted": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -396,7 +436,8 @@
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
 		],
 		"status": "concept",
-		"description": "bespreken van ideeën, aanpakken en vragen van leerlingen."
+		"description": "bespreken van ideeën, aanpakken en vragen van leerlingen.",
+		"deleted": true
 	},
 	{
 		"title": "Te denken val aan aanbieden van rijke rekenvragen.",
@@ -404,7 +445,8 @@
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -413,7 +455,8 @@
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
 		],
 		"status": "concept",
-		"description": "aanbieden van verschillende en nieuwe situaties om transfer te stimuleren."
+		"description": "aanbieden van verschillende en nieuwe situaties om transfer te stimuleren.",
+		"deleted": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -422,7 +465,8 @@
 			"bdc4744f-79df-4795-8795-2fee50c7416a"
 		],
 		"status": "concept",
-		"description": "organiseren van activiteiten binnen en buiten school die bij leerlingen het plezier in rekenen en wiskunde stimuleren."
+		"description": "organiseren van activiteiten binnen en buiten school die bij leerlingen het plezier in rekenen en wiskunde stimuleren.",
+		"deleted": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -431,7 +475,8 @@
 			"bdc4744f-79df-4795-8795-2fee50c7416a"
 		],
 		"status": "concept",
-		"description": "verbinden van interesses en relevante situaties van leerlingen aan wiskundige concepten en denk/werkwijzen."
+		"description": "verbinden van interesses en relevante situaties van leerlingen aan wiskundige concepten en denk/werkwijzen.",
+		"deleted": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -440,7 +485,8 @@
 			"bdc4744f-79df-4795-8795-2fee50c7416a"
 		],
 		"status": "concept",
-		"description": "bespreken van ideeën, aanpakken en vragen van leerlingen."
+		"description": "bespreken van ideeën, aanpakken en vragen van leerlingen.",
+		"deleted": true
 	},
 	{
 		"title": "Te denken val aan aanbieden van rijke rekenvragen.",
@@ -448,7 +494,8 @@
 		"niveau_id": [
 			"bdc4744f-79df-4795-8795-2fee50c7416a"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -457,7 +504,8 @@
 			"bdc4744f-79df-4795-8795-2fee50c7416a"
 		],
 		"status": "concept",
-		"description": "aanbieden van verschillende en nieuwe situaties om transfer te stimuleren."
+		"description": "aanbieden van verschillende en nieuwe situaties om transfer te stimuleren.",
+		"deleted": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -466,7 +514,8 @@
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
 		],
 		"status": "concept",
-		"description": "organiseren van activiteiten binnen en buiten school die bij leerlingen het plezier in rekenen en wiskunde stimuleren."
+		"description": "organiseren van activiteiten binnen en buiten school die bij leerlingen het plezier in rekenen en wiskunde stimuleren.",
+		"deleted": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -475,7 +524,8 @@
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
 		],
 		"status": "concept",
-		"description": "verbinden van interesses en relevante situaties van leerlingen aan wiskundige concepten en denk/werkwijzen."
+		"description": "verbinden van interesses en relevante situaties van leerlingen aan wiskundige concepten en denk/werkwijzen.",
+		"deleted": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -484,7 +534,8 @@
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
 		],
 		"status": "concept",
-		"description": "bespreken van ideeën, aanpakken en vragen van leerlingen."
+		"description": "bespreken van ideeën, aanpakken en vragen van leerlingen.",
+		"deleted": true
 	},
 	{
 		"title": "Te denken val aan aanbieden van rijke rekenvragen.",
@@ -492,7 +543,8 @@
 		"niveau_id": [
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -501,7 +553,8 @@
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
 		],
 		"status": "concept",
-		"description": "aanbieden van verschillende en nieuwe situaties om transfer te stimuleren."
+		"description": "aanbieden van verschillende en nieuwe situaties om transfer te stimuleren.",
+		"deleted": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -513,7 +566,8 @@
 		],
 		"id": "217ba532-d691-4ea7-a797-6882276e3287",
 		"status": "concept",
-		"description": "kenmerken van verhuisberichten bespreken en er zelf een schrijven."
+		"description": "kenmerken van verhuisberichten bespreken en er zelf een schrijven.",
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -523,7 +577,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "visualiseren van wereldbeelden van oude Griekse filosofen en dat deze logisch zijn vanuit hun perspectief, maar door hedendaagse inzichten niet meer geldig zijn als verklaringsmodel."
+		"description": "visualiseren van wereldbeelden van oude Griekse filosofen en dat deze logisch zijn vanuit hun perspectief, maar door hedendaagse inzichten niet meer geldig zijn als verklaringsmodel.",
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -533,7 +588,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "in een debat vaststellen wat de impact van verschillende  klimaatscenario’s is op beleid en ruimtelijke inrichting."
+		"description": "in een debat vaststellen wat de impact van verschillende  klimaatscenario’s is op beleid en ruimtelijke inrichting.",
+		"deleted": true
 	},
 	{
 		"prefix": "t3",
@@ -543,7 +599,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "in een betoog een mening vormen de waarde van een norm over stikstofdepositie."
+		"description": "in een betoog een mening vormen de waarde van een norm over stikstofdepositie.",
+		"deleted": true
 	},
 	{
 		"prefix": "t4",
@@ -1998,7 +2055,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "een infographic maken waarin verschillen en overeenkomsten tussen het Fries en Catalaans worden weergegeven."
+		"description": "een infographic maken waarin verschillen en overeenkomsten tussen het Fries en Catalaans worden weergegeven.",
+		"deleted": true
 	},
 	{
 		"prefix": "t4",
@@ -7132,7 +7190,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "zichzelf kort voorstellen met naam en woonplaats."
+		"description": "zichzelf kort voorstellen met naam en woonplaats.",
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -7142,7 +7201,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "een videoboodschap over het eigen dagelijkse leven, zoals school, werk en hobby’s."
+		"description": "een videoboodschap over het eigen dagelijkse leven, zoals school, werk en hobby’s.",
+		"deleted": true
 	},
 	{
 		"prefix": "t3",
@@ -7152,7 +7212,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "een voorwerp uit een hobby of sport beschrijven door de vorm en de kleur ervan te benoemen."
+		"description": "een voorwerp uit een hobby of sport beschrijven door de vorm en de kleur ervan te benoemen.",
+		"deleted": true
 	},
 	{
 		"prefix": "t4",
@@ -7162,7 +7223,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "een korte, eenvoudige ingestudeerde mededeling doen of instructie geven, zoals waar het toilet is of hoe laat de lunch wordt geserveerd."
+		"description": "een korte, eenvoudige ingestudeerde mededeling doen of instructie geven, zoals waar het toilet is of hoe laat de lunch wordt geserveerd.",
+		"deleted": true
 	},
 	{
 		"prefix": "t5",
@@ -7749,7 +7811,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "een gesprek over wat je heeft verrast of vermaakt in een video of magazine."
+		"description": "een gesprek over wat je heeft verrast of vermaakt in een video of magazine.",
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -7759,7 +7822,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "een top drie samenstellen van online reclames in het Duits."
+		"description": "een top drie samenstellen van online reclames in het Duits.",
+		"deleted": true
 	},
 	{
 		"prefix": "t3",
@@ -7769,7 +7833,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "een verzameling maken van nieuw geleerde of leuke woorden, of woorden die je herkent uit een andere taal."
+		"description": "een verzameling maken van nieuw geleerde of leuke woorden, of woorden die je herkent uit een andere taal.",
+		"deleted": true
 	},
 	{
 		"prefix": "t4",
@@ -7779,7 +7844,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "een traditioneel feest uit een Duitstalig gebied met een traditioneel feest uit je eigen traditie vergelijken."
+		"description": "een traditioneel feest uit een Duitstalig gebied met een traditioneel feest uit je eigen traditie vergelijken.",
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -7789,7 +7855,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "een thematische woordwolk."
+		"description": "een thematische woordwolk.",
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -7799,7 +7866,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "titels of ondertitels bij foto's en schilderijen bedenken."
+		"description": "titels of ondertitels bij foto's en schilderijen bedenken.",
+		"deleted": true
 	},
 	{
 		"prefix": "t3",
@@ -7809,7 +7877,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "een eenvoudig liedje of gedicht laten horen."
+		"description": "een eenvoudig liedje of gedicht laten horen.",
+		"deleted": true
 	},
 	{
 		"prefix": "t4",
@@ -7819,7 +7888,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "visuele materialen maken, zoals een affiche, reclameposter, vlog of clip."
+		"description": "visuele materialen maken, zoals een affiche, reclameposter, vlog of clip.",
+		"deleted": true
 	},
 	{
 		"prefix": "t5",
@@ -7829,7 +7899,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "een droomvakantiebestemming ontwerpen: locatie, weer, bezienswaardigheden."
+		"description": "een droomvakantiebestemming ontwerpen: locatie, weer, bezienswaardigheden.",
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -7839,7 +7910,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "de globale boodschap van een omroepbericht in een openbare ruimte herhalen, zoals in een dierentuin of zwembad."
+		"description": "de globale boodschap van een omroepbericht in een openbare ruimte herhalen, zoals in een dierentuin of zwembad.",
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -7849,7 +7921,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "de uitleg van een simpele route begrijpen en opvolgen."
+		"description": "de uitleg van een simpele route begrijpen en opvolgen.",
+		"deleted": true
 	},
 	{
 		"prefix": "t3",
@@ -7859,7 +7932,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "korte instructies begrijpen voor het invullen van persoonlijke gegevens."
+		"description": "korte instructies begrijpen voor het invullen van persoonlijke gegevens.",
+		"deleted": true
 	},
 	{
 		"prefix": "t4",
@@ -7869,7 +7943,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "begroetingsvormen op straat herkennen, zoals in een openbare ruimte of in een winkel."
+		"description": "begroetingsvormen op straat herkennen, zoals in een openbare ruimte of in een winkel.",
+		"deleted": true
 	},
 	{
 		"prefix": "t5",
@@ -7879,7 +7954,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "de relevante informatie uit een podcastreclame voor een evenement of festiviteit opschrijven, zoals prijzen, plaats, tijd en activiteit."
+		"description": "de relevante informatie uit een podcastreclame voor een evenement of festiviteit opschrijven, zoals prijzen, plaats, tijd en activiteit.",
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -7889,7 +7965,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "een overzicht van de openingstijden van een instelling, zoals een bibliotheek of sportclub."
+		"description": "een overzicht van de openingstijden van een instelling, zoals een bibliotheek of sportclub.",
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -7899,7 +7976,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "een poster of infographic over een evenement of een uitnodiging voor een feestje begrijpen."
+		"description": "een poster of infographic over een evenement of een uitnodiging voor een feestje begrijpen.",
+		"deleted": true
 	},
 	{
 		"prefix": "t3",
@@ -7909,7 +7987,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "een tandartsafspraak met datum, tijd en plaats noteren uit een digitaal bericht."
+		"description": "een tandartsafspraak met datum, tijd en plaats noteren uit een digitaal bericht.",
+		"deleted": true
 	},
 	{
 		"prefix": "t4",
@@ -7919,7 +7998,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "eenvoudige bewegwijzering opvolgen in een groot gebouw, zoals een ziekhuis of bedrijf."
+		"description": "eenvoudige bewegwijzering opvolgen in een groot gebouw, zoals een ziekhuis of bedrijf.",
+		"deleted": true
 	},
 	{
 		"prefix": "t5",
@@ -7929,7 +8009,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "eenvoudige visuele poëzie of een stripverhaal begrijpen."
+		"description": "eenvoudige visuele poëzie of een stripverhaal begrijpen.",
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -7939,7 +8020,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "zichzelf kort voorstellen met naam en woonplaats."
+		"description": "zichzelf kort voorstellen met naam en woonplaats.",
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -7949,7 +8031,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "een videoboodschap over het eigen dagelijkse leven, zoals school, werk en hobby’s."
+		"description": "een videoboodschap over het eigen dagelijkse leven, zoals school, werk en hobby’s.",
+		"deleted": true
 	},
 	{
 		"prefix": "t3",
@@ -7959,7 +8042,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "een voorwerp uit een hobby of sport beschrijven door de vorm en de kleur ervan te benoemen."
+		"description": "een voorwerp uit een hobby of sport beschrijven door de vorm en de kleur ervan te benoemen.",
+		"deleted": true
 	},
 	{
 		"prefix": "t4",
@@ -7969,7 +8053,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "een korte, eenvoudige ingestudeerde mededeling doen of instructie geven, zoals waar het toilet is of hoe laat de lunch wordt geserveerd."
+		"description": "een korte, eenvoudige ingestudeerde mededeling doen of instructie geven, zoals waar het toilet is of hoe laat de lunch wordt geserveerd.",
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -7979,7 +8064,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "eenvoudige vragen stellen en beantwoorden over elementaire persoonlijke gegevens, zoals leeftijd, woonplaats en land van herkomst, school, studie of beroep."
+		"description": "eenvoudige vragen stellen en beantwoorden over elementaire persoonlijke gegevens, zoals leeftijd, woonplaats en land van herkomst, school, studie of beroep.",
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -7989,7 +8075,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "iemand uitnodigen om mee te doen met een spel of om mee te gaan naar een voorstelling."
+		"description": "iemand uitnodigen om mee te doen met een spel of om mee te gaan naar een voorstelling.",
+		"deleted": true
 	},
 	{
 		"prefix": "t3",
@@ -7999,7 +8086,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "bespreken waar en op welk tijdstip iemand verwacht wordt, zoals een afspraak bij een arts of waar en wanneer er is afgesproken met vrienden."
+		"description": "bespreken waar en op welk tijdstip iemand verwacht wordt, zoals een afspraak bij een arts of waar en wanneer er is afgesproken met vrienden.",
+		"deleted": true
 	},
 	{
 		"prefix": "t4",
@@ -8009,7 +8097,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "in een winkel vragen om een product in een bepaalde kleur of vorm, zoals een souvenir of kledingstuk."
+		"description": "in een winkel vragen om een product in een bepaalde kleur of vorm, zoals een souvenir of kledingstuk.",
+		"deleted": true
 	},
 	{
 		"prefix": "t5",
@@ -8019,7 +8108,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "met een gesprekspartner bespreken welke muziek, films en games je wel en niet leuk vindt."
+		"description": "met een gesprekspartner bespreken welke muziek, films en games je wel en niet leuk vindt.",
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -8029,7 +8119,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "een infographic ontwerpen met internationale woorden, leenwoorden, verwante woorden en valse vrienden uit multimediale bronnen."
+		"description": "een infographic ontwerpen met internationale woorden, leenwoorden, verwante woorden en valse vrienden uit multimediale bronnen.",
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -8039,7 +8130,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "een presentatie houden over de verschillen tussen spreekwoorden en gezegdes in het Duits en andere talen."
+		"description": "een presentatie houden over de verschillen tussen spreekwoorden en gezegdes in het Duits en andere talen.",
+		"deleted": true
 	},
 	{
 		"prefix": "t3",
@@ -8049,7 +8141,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "met behulp van digitale middelen het Duits vergelijken met andere talen in het gebruik van internationale woorden."
+		"description": "met behulp van digitale middelen het Duits vergelijken met andere talen in het gebruik van internationale woorden.",
+		"deleted": true
 	},
 	{
 		"prefix": "t4",
@@ -8059,7 +8152,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "verschillen en overeenkomsten uitleggen tussen woordvolgorde, weergave van geslacht en schrift uit bronnen in diverse talen."
+		"description": "verschillen en overeenkomsten uitleggen tussen woordvolgorde, weergave van geslacht en schrift uit bronnen in diverse talen.",
+		"deleted": true
 	},
 	{
 		"prefix": "t5",
@@ -8069,7 +8163,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "een overzicht bijhouden van woorden die overeenkomen in het Duits en in andere talen die de leerling kent."
+		"description": "een overzicht bijhouden van woorden die overeenkomen in het Duits en in andere talen die de leerling kent.",
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -8079,7 +8174,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "een poster maken met de voor- en nadelen van het gebruiken van digitale hulpmiddelen voor het leren van een taal."
+		"description": "een poster maken met de voor- en nadelen van het gebruiken van digitale hulpmiddelen voor het leren van een taal.",
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -8089,7 +8185,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "in een gesprek uitwisselen wat werkt en niet werkt tegen spreekangst in het Duits en actiepunten noteren om de eigen spreekprestaties te verbeteren."
+		"description": "in een gesprek uitwisselen wat werkt en niet werkt tegen spreekangst in het Duits en actiepunten noteren om de eigen spreekprestaties te verbeteren.",
+		"deleted": true
 	},
 	{
 		"prefix": "t3",
@@ -8099,7 +8196,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "met behulp van artificiële intelligentie (AI) vragen om verbetersuggesties en een uitleg voor een gemaakte infographic."
+		"description": "met behulp van artificiële intelligentie (AI) vragen om verbetersuggesties en een uitleg voor een gemaakte infographic.",
+		"deleted": true
 	},
 	{
 		"prefix": "t4",
@@ -8109,7 +8207,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "een leesboek selecteren en uitleggen waarom dit past bij je eigen beheersingsniveau."
+		"description": "een leesboek selecteren en uitleggen waarom dit past bij je eigen beheersingsniveau.",
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -8119,7 +8218,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "een infographic maken waarin de relatie tussen het eigen meertalige repertoire en identiteit zichtbaar gemaakt wordt."
+		"description": "een infographic maken waarin de relatie tussen het eigen meertalige repertoire en identiteit zichtbaar gemaakt wordt.",
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -8129,7 +8229,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "een gedicht of lied maken waarin verschillende talen uit het eigen meertalige repertoire gecombineerd worden."
+		"description": "een gedicht of lied maken waarin verschillende talen uit het eigen meertalige repertoire gecombineerd worden.",
+		"deleted": true
 	},
 	{
 		"prefix": "t3",
@@ -8139,7 +8240,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "een tekst of fragment begrijpen door je eigen meertaligheid in te zetten."
+		"description": "een tekst of fragment begrijpen door je eigen meertaligheid in te zetten.",
+		"deleted": true
 	},
 	{
 		"prefix": "t4",
@@ -8149,7 +8251,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "een vlog maken waarin een familielid wordt geïnterviewd over de eigen meertaligheid."
+		"description": "een vlog maken waarin een familielid wordt geïnterviewd over de eigen meertaligheid.",
+		"deleted": true
 	},
 	{
 		"prefix": "t5",
@@ -8159,7 +8262,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "in een overzicht per taal aangeven welke ERK-niveaus nodig zijn voor toekomstige studie of beroep en waarom."
+		"description": "in een overzicht per taal aangeven welke ERK-niveaus nodig zijn voor toekomstige studie of beroep en waarom.",
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -8169,7 +8273,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "een eenvoudig leesboek in het Duits lezen met behulp van online vertaalprogramma’s."
+		"description": "een eenvoudig leesboek in het Duits lezen met behulp van online vertaalprogramma’s.",
+		"deleted": true
 	},
 	{
 		"prefix": "t3",
@@ -8179,7 +8284,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "moeilijke woorden uit een AI-gegenereerde tekst vertalen en omzetten naar eenvoudige synoniemen."
+		"description": "moeilijke woorden uit een AI-gegenereerde tekst vertalen en omzetten naar eenvoudige synoniemen.",
+		"deleted": true
 	},
 	{
 		"prefix": "t4",
@@ -8189,7 +8295,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "woordenlijstjes en chunks met generatieve AI selecteren om een gesprekje in een winkel voor te bereiden."
+		"description": "woordenlijstjes en chunks met generatieve AI selecteren om een gesprekje in een winkel voor te bereiden.",
+		"deleted": true
 	},
 	{
 		"prefix": "t5",
@@ -8199,7 +8306,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "uitspraak, spreeksnelheid en woordenschat trainen met chatbots ter voorbereiding op een spreektaak."
+		"description": "uitspraak, spreeksnelheid en woordenschat trainen met chatbots ter voorbereiding op een spreektaak.",
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -8209,7 +8317,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "ervaren waar je enthousiast van wordt of aanleg voor hebt of wat je nog meer wilt leren als het gaat om het Duits."
+		"description": "ervaren waar je enthousiast van wordt of aanleg voor hebt of wat je nog meer wilt leren als het gaat om het Duits.",
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -8219,7 +8328,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "inzichtelijk maken waar talen terug te zien zijn in de maatschappij, welke rol zij daar spelen en waar men taal in de wereld tegenkomt."
+		"description": "inzichtelijk maken waar talen terug te zien zijn in de maatschappij, welke rol zij daar spelen en waar men taal in de wereld tegenkomt.",
+		"deleted": true
 	},
 	{
 		"prefix": "t3",
@@ -8229,7 +8339,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "kennisnemen van opleidingen waarin moderne vreemde talen worden aangeboden of een rol spelen, zoals horeca, toerisme en recreatie, luchtvaartdienstverlening, marketing en communicatie."
+		"description": "kennisnemen van opleidingen waarin moderne vreemde talen worden aangeboden of een rol spelen, zoals horeca, toerisme en recreatie, luchtvaartdienstverlening, marketing en communicatie.",
+		"deleted": true
 	},
 	{
 		"prefix": "t4",
@@ -8239,7 +8350,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "reflecteren op de vraag waarom je een taal zou leren en wat het leren van een taal jou als persoon oplevert."
+		"description": "reflecteren op de vraag waarom je een taal zou leren en wat het leren van een taal jou als persoon oplevert.",
+		"deleted": true
 	},
 	{
 		"prefix": "t5",
@@ -8249,7 +8361,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "reflecteren op je eigen meertalige repertoire en het effect van taalgebruik in beroepscontexten."
+		"description": "reflecteren op je eigen meertalige repertoire en het effect van taalgebruik in beroepscontexten.",
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -8259,7 +8372,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "een kort verhaal of stripverhaal lezen en vertellen wat je bijzonder leuk vond."
+		"description": "een kort verhaal of stripverhaal lezen en vertellen wat je bijzonder leuk vond.",
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -8269,7 +8383,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "een collectie maken van de leukste memes."
+		"description": "een collectie maken van de leukste memes.",
+		"deleted": true
 	},
 	{
 		"prefix": "t3",
@@ -8279,7 +8394,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "enkele trailers van films bekijken en beslissen welke film je wilt zien."
+		"description": "enkele trailers van films bekijken en beslissen welke film je wilt zien.",
+		"deleted": true
 	},
 	{
 		"prefix": "t4",
@@ -8289,7 +8405,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "verschillende liedjes in het Duits beluisteren, een top vijf daarvan samenstellen en verwoorden waarom je deze keuze hebt gemaakt."
+		"description": "verschillende liedjes in het Duits beluisteren, een top vijf daarvan samenstellen en verwoorden waarom je deze keuze hebt gemaakt.",
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -8299,7 +8416,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "festiviteiten en culinaire tradities benoemen in een videofragment."
+		"description": "festiviteiten en culinaire tradities benoemen in een videofragment.",
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -8309,7 +8427,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "culturele invloeden op memes beschrijven."
+		"description": "culturele invloeden op memes beschrijven.",
+		"deleted": true
 	},
 	{
 		"prefix": "t3",
@@ -8319,7 +8438,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "kleding en begroetingsvormen in audiovisueel materiaal bespreken."
+		"description": "kleding en begroetingsvormen in audiovisueel materiaal bespreken.",
+		"deleted": true
 	},
 	{
 		"prefix": "t4",
@@ -8329,7 +8449,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "opvallende verschillen met je eigen gebruiken benoemen."
+		"description": "opvallende verschillen met je eigen gebruiken benoemen.",
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -8339,7 +8460,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "een kennismaking met de invulling van een schooldag tijdens een digitale uitwisseling met leeftijdsgenoten in een internationaal project."
+		"description": "een kennismaking met de invulling van een schooldag tijdens een digitale uitwisseling met leeftijdsgenoten in een internationaal project.",
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -8349,7 +8471,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "eigen eetgewoontes, kledingstijlen, dagritmes, feestdagen en tradities herkennen en benoemen die overeenkomen met en verschillen van die van leeftijdsgenoten uit een ander land."
+		"description": "eigen eetgewoontes, kledingstijlen, dagritmes, feestdagen en tradities herkennen en benoemen die overeenkomen met en verschillen van die van leeftijdsgenoten uit een ander land.",
+		"deleted": true
 	},
 	{
 		"prefix": "t3",
@@ -8359,7 +8482,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "met iemand praten over hoe het zou zijn om een dag te ruilen met een leeftijdsgenoot in een ander land."
+		"description": "met iemand praten over hoe het zou zijn om een dag te ruilen met een leeftijdsgenoot in een ander land.",
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -8369,7 +8493,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "een gesprek over wat je heeft verbaasd of verrast in een tv-serie, songtekst, online tutorial of nieuwsbericht."
+		"description": "een gesprek over wat je heeft verbaasd of verrast in een tv-serie, songtekst, online tutorial of nieuwsbericht.",
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -8379,7 +8504,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "een verzameling maken van nieuw geleerde woorden, spreekwoorden of uitdrukkingen in het Duits die dezelfde betekenis hebben in je eigen taal."
+		"description": "een verzameling maken van nieuw geleerde woorden, spreekwoorden of uitdrukkingen in het Duits die dezelfde betekenis hebben in je eigen taal.",
+		"deleted": true
 	},
 	{
 		"prefix": "t3",
@@ -8389,7 +8515,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "uitleggen wat je geleerd hebt over de achtergrond van een traditioneel feest uit een Duitstalig gebied."
+		"description": "uitleggen wat je geleerd hebt over de achtergrond van een traditioneel feest uit een Duitstalig gebied.",
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -8399,7 +8526,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "een korte, eenvoudige, verzonnen biografie."
+		"description": "een korte, eenvoudige, verzonnen biografie.",
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -8409,7 +8537,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "een eenvoudig gedicht over een idool."
+		"description": "een eenvoudig gedicht over een idool.",
+		"deleted": true
 	},
 	{
 		"prefix": "t3",
@@ -8419,7 +8548,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "een vlog waarin een dag op de stageplek wordt beschreven."
+		"description": "een vlog waarin een dag op de stageplek wordt beschreven.",
+		"deleted": true
 	},
 	{
 		"prefix": "t4",
@@ -8429,7 +8559,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "een eenvoudige (meertalige) rap, lied of afbeeldingen met tekst voor je eigen webpagina of voor een spel."
+		"description": "een eenvoudige (meertalige) rap, lied of afbeeldingen met tekst voor je eigen webpagina of voor een spel.",
+		"deleted": true
 	},
 	{
 		"prefix": "t5",
@@ -8439,7 +8570,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "eenvoudige dialogen naspelen uit een tekst, tv-programma, film, theaterstuk of serie."
+		"description": "eenvoudige dialogen naspelen uit een tekst, tv-programma, film, theaterstuk of serie.",
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -8449,7 +8581,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "eenvoudige instructiefilmpjes opvolgen, zoals voor het bereiden van een gerecht, het knippen van een bepaald kapsel of het in elkaar zetten van een meubel, inclusief het verzamelen van de benodigde materialen."
+		"description": "eenvoudige instructiefilmpjes opvolgen, zoals voor het bereiden van een gerecht, het knippen van een bepaald kapsel of het in elkaar zetten van een meubel, inclusief het verzamelen van de benodigde materialen.",
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -8459,7 +8592,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "een dagtrip plannen op basis van het weerbericht, verkeers- en reisinformatie en promotiefilmpjes van activiteiten en bezienswaardigheden."
+		"description": "een dagtrip plannen op basis van het weerbericht, verkeers- en reisinformatie en promotiefilmpjes van activiteiten en bezienswaardigheden.",
+		"deleted": true
 	},
 	{
 		"prefix": "t3",
@@ -8469,7 +8603,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "de belangrijkste informatie uit mededelingen verwoorden tijdens een excursie of een evenement."
+		"description": "de belangrijkste informatie uit mededelingen verwoorden tijdens een excursie of een evenement.",
+		"deleted": true
 	},
 	{
 		"prefix": "t4",
@@ -8479,7 +8614,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "beleefdheidsvormen herkennen in een gesprek in het Duits."
+		"description": "beleefdheidsvormen herkennen in een gesprek in het Duits.",
+		"deleted": true
 	},
 	{
 		"prefix": "t5",
@@ -8489,7 +8625,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "het onderwerp van een discussie in een podcast benoemen."
+		"description": "het onderwerp van een discussie in een podcast benoemen.",
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -8499,7 +8636,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "de beschrijving van een personage uit een boek oppervlakkig samenvatten."
+		"description": "de beschrijving van een personage uit een boek oppervlakkig samenvatten.",
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -8509,7 +8647,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "een eenvoudige e-mail met informatie over het retour zenden van een besteld product begrijpen."
+		"description": "een eenvoudige e-mail met informatie over het retour zenden van een besteld product begrijpen.",
+		"deleted": true
 	},
 	{
 		"prefix": "t3",
@@ -8519,7 +8658,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "een bezienswaardigheid of een activiteit voor een dagje uit selecteren uit een toeristische folder."
+		"description": "een bezienswaardigheid of een activiteit voor een dagje uit selecteren uit een toeristische folder.",
+		"deleted": true
 	},
 	{
 		"prefix": "t4",
@@ -8529,7 +8669,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "een geïllustreerd verslag van een landelijke of traditionele feestdag samenvatten."
+		"description": "een geïllustreerd verslag van een landelijke of traditionele feestdag samenvatten.",
+		"deleted": true
 	},
 	{
 		"prefix": "t5",
@@ -8539,7 +8680,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "eenvoudige instructies op apparaten opvolgen, zoals van een geldautomaat, een automaat voor bus- en treinkaartjes of een betaalautomaat in een parkeergarage."
+		"description": "eenvoudige instructies op apparaten opvolgen, zoals van een geldautomaat, een automaat voor bus- en treinkaartjes of een betaalautomaat in een parkeergarage.",
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -8549,7 +8691,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "zichzelf kort voorstellen met naam en woonplaats."
+		"description": "zichzelf kort voorstellen met naam en woonplaats.",
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -8559,7 +8702,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "een videoboodschap over het eigen dagelijkse leven, zoals school, werk en hobby’s."
+		"description": "een videoboodschap over het eigen dagelijkse leven, zoals school, werk en hobby’s.",
+		"deleted": true
 	},
 	{
 		"prefix": "t3",
@@ -8569,7 +8713,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "een voorwerp uit een hobby of sport beschrijven door de vorm en de kleur ervan te benoemen."
+		"description": "een voorwerp uit een hobby of sport beschrijven door de vorm en de kleur ervan te benoemen.",
+		"deleted": true
 	},
 	{
 		"prefix": "t4",
@@ -8579,7 +8724,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "een korte, eenvoudige ingestudeerde mededeling doen of instructie geven, zoals waar het toilet is of hoe laat de lunch wordt geserveerd."
+		"description": "een korte, eenvoudige ingestudeerde mededeling doen of instructie geven, zoals waar het toilet is of hoe laat de lunch wordt geserveerd.",
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -8589,7 +8735,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "eenvoudige vragen stellen en beantwoorden over elementaire persoonlijke gegevens, zoals leeftijd, woonplaats en land van herkomst, school, studie of beroep."
+		"description": "eenvoudige vragen stellen en beantwoorden over elementaire persoonlijke gegevens, zoals leeftijd, woonplaats en land van herkomst, school, studie of beroep.",
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -8599,7 +8746,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "iemand uitnodigen om mee te doen met een spel of om mee te gaan naar een voorstelling."
+		"description": "iemand uitnodigen om mee te doen met een spel of om mee te gaan naar een voorstelling.",
+		"deleted": true
 	},
 	{
 		"prefix": "t3",
@@ -8609,7 +8757,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "bespreken waar en op welk tijdstip iemand verwacht wordt, zoals een afspraak bij een arts of waar en wanneer er is afgesproken met vrienden."
+		"description": "bespreken waar en op welk tijdstip iemand verwacht wordt, zoals een afspraak bij een arts of waar en wanneer er is afgesproken met vrienden.",
+		"deleted": true
 	},
 	{
 		"prefix": "t4",
@@ -8619,7 +8768,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "in een winkel vragen om een product in een bepaalde kleur of vorm, zoals een souvenir of kledingstuk."
+		"description": "in een winkel vragen om een product in een bepaalde kleur of vorm, zoals een souvenir of kledingstuk.",
+		"deleted": true
 	},
 	{
 		"prefix": "t5",
@@ -8629,7 +8779,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "met een gesprekspartner bespreken welke muziek, films en games je wel en niet leuk vindt."
+		"description": "met een gesprekspartner bespreken welke muziek, films en games je wel en niet leuk vindt.",
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -8639,7 +8790,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "met behulp van eenvoudige woordenschat en taalstructuren alledaagse voorwerpen, personen, dieren en voorkeuren beschrijven."
+		"description": "met behulp van eenvoudige woordenschat en taalstructuren alledaagse voorwerpen, personen, dieren en voorkeuren beschrijven.",
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -8649,7 +8801,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "met behulp van gangbare digitale toepassingen in enkele korte zinnen verslag doen van een alledaagse ervaring voor een informeel publiek."
+		"description": "met behulp van gangbare digitale toepassingen in enkele korte zinnen verslag doen van een alledaagse ervaring voor een informeel publiek.",
+		"deleted": true
 	},
 	{
 		"prefix": "t3",
@@ -8659,7 +8812,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "korte, persoonlijke of beroepsmatige online berichten opstellen om iets te waarderen of om afspraken te bevestigen."
+		"description": "korte, persoonlijke of beroepsmatige online berichten opstellen om iets te waarderen of om afspraken te bevestigen.",
+		"deleted": true
 	},
 	{
 		"prefix": "t4",
@@ -8669,7 +8823,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "een eenvoudig formulier invullen met elementaire persoonlijke gegevens."
+		"description": "een eenvoudig formulier invullen met elementaire persoonlijke gegevens.",
+		"deleted": true
 	},
 	{
 		"prefix": "t5",
@@ -8679,7 +8834,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "korte, positieve en negatieve reacties plaatsen op eenvoudige online berichten."
+		"description": "korte, positieve en negatieve reacties plaatsen op eenvoudige online berichten.",
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -8689,7 +8845,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "een infographic ontwerpen met internationale woorden, leenwoorden, verwante woorden en valse vrienden uit multimediale bronnen."
+		"description": "een infographic ontwerpen met internationale woorden, leenwoorden, verwante woorden en valse vrienden uit multimediale bronnen.",
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -8699,7 +8856,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "een presentatie houden over de verschillen tussen spreekwoorden en gezegdes in het Duits en andere talen."
+		"description": "een presentatie houden over de verschillen tussen spreekwoorden en gezegdes in het Duits en andere talen.",
+		"deleted": true
 	},
 	{
 		"prefix": "t3",
@@ -8709,7 +8867,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "met behulp van digitale middelen het Duits vergelijken met andere talen in het gebruik van internationale woorden."
+		"description": "met behulp van digitale middelen het Duits vergelijken met andere talen in het gebruik van internationale woorden.",
+		"deleted": true
 	},
 	{
 		"prefix": "t4",
@@ -8719,7 +8878,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "verschillen en overeenkomsten uitleggen tussen woordvolgorde, weergave van geslacht en schrift uit bronnen in diverse talen."
+		"description": "verschillen en overeenkomsten uitleggen tussen woordvolgorde, weergave van geslacht en schrift uit bronnen in diverse talen.",
+		"deleted": true
 	},
 	{
 		"prefix": "t5",
@@ -8729,7 +8889,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "een overzicht bijhouden van woorden die overeenkomen in het Duits en in andere talen die de leerling kent."
+		"description": "een overzicht bijhouden van woorden die overeenkomen in het Duits en in andere talen die de leerling kent.",
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -8739,7 +8900,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "een poster maken met de voor- en nadelen van het gebruiken van digitale hulpmiddelen voor het leren van een taal."
+		"description": "een poster maken met de voor- en nadelen van het gebruiken van digitale hulpmiddelen voor het leren van een taal.",
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -8749,7 +8911,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "in een gesprek uitwisselen wat werkt en niet werkt tegen spreekangst in het Duits en actiepunten noteren om de eigen spreekprestaties te verbeteren."
+		"description": "in een gesprek uitwisselen wat werkt en niet werkt tegen spreekangst in het Duits en actiepunten noteren om de eigen spreekprestaties te verbeteren.",
+		"deleted": true
 	},
 	{
 		"prefix": "t3",
@@ -8759,7 +8922,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "met behulp van artificiële intelligentie (AI) vragen om verbetersuggesties en een uitleg voor een gemaakte poster."
+		"description": "met behulp van artificiële intelligentie (AI) vragen om verbetersuggesties en een uitleg voor een gemaakte poster.",
+		"deleted": true
 	},
 	{
 		"prefix": "t4",
@@ -8769,7 +8933,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "een leesboek selecteren en uitleggen waarom dit past bij je eigen beheersingsniveau."
+		"description": "een leesboek selecteren en uitleggen waarom dit past bij je eigen beheersingsniveau.",
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -8779,7 +8944,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "een infographic maken waarin het eigen meertalige repertoire en identiteit vergeleken wordt."
+		"description": "een infographic maken waarin het eigen meertalige repertoire en identiteit vergeleken wordt.",
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -8789,7 +8955,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "een gedicht of lied maken waarin verschillende talen uit het eigen meertalige repertoire gecombineerd worden."
+		"description": "een gedicht of lied maken waarin verschillende talen uit het eigen meertalige repertoire gecombineerd worden.",
+		"deleted": true
 	},
 	{
 		"prefix": "t3",
@@ -8799,7 +8966,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "een tekst of fragment begrijpen door je eigen meertaligheid in te zetten."
+		"description": "een tekst of fragment begrijpen door je eigen meertaligheid in te zetten.",
+		"deleted": true
 	},
 	{
 		"prefix": "t4",
@@ -8809,7 +8977,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "een vlog maken waarin een familielid wordt geïnterviewd over de eigen meertaligheid."
+		"description": "een vlog maken waarin een familielid wordt geïnterviewd over de eigen meertaligheid.",
+		"deleted": true
 	},
 	{
 		"prefix": "t5",
@@ -8819,7 +8988,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "in een overzicht per taal aangeven welke ERK-niveaus nodig zijn voor toekomstige studie of beroep en waarom."
+		"description": "in een overzicht per taal aangeven welke ERK-niveaus nodig zijn voor toekomstige studie of beroep en waarom.",
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -8829,7 +8999,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "een eenvoudig leesboek in het Duits lezen met behulp van online vertaalprogramma’s."
+		"description": "een eenvoudig leesboek in het Duits lezen met behulp van online vertaalprogramma’s.",
+		"deleted": true
 	},
 	{
 		"prefix": "t3",
@@ -8839,7 +9010,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "moeilijke woorden uit een AI-gegenereerde tekst vertalen en omzetten naar eenvoudige synoniemen."
+		"description": "moeilijke woorden uit een AI-gegenereerde tekst vertalen en omzetten naar eenvoudige synoniemen.",
+		"deleted": true
 	},
 	{
 		"prefix": "t4",
@@ -8849,7 +9021,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "woordenlijstjes en chunks met generatieve AI selecteren om een gesprekje in een winkel voor te bereiden."
+		"description": "woordenlijstjes en chunks met generatieve AI selecteren om een gesprekje in een winkel voor te bereiden.",
+		"deleted": true
 	},
 	{
 		"prefix": "t5",
@@ -8859,7 +9032,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "uitspraak, spreeksnelheid en woordenschat trainen met chatbots ter voorbereiding op een spreektaak."
+		"description": "uitspraak, spreeksnelheid en woordenschat trainen met chatbots ter voorbereiding op een spreektaak.",
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -8869,7 +9043,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "ervaren waar je enthousiast van wordt of aanleg voor hebt of wat je nog meer wilt leren als het gaat om het Duits."
+		"description": "ervaren waar je enthousiast van wordt of aanleg voor hebt of wat je nog meer wilt leren als het gaat om het Duits.",
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -8879,7 +9054,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "inzichtelijk maken waar talen terug te zien zijn in de maatschappij, welke rol zij daar spelen en waar men taal in de wereld tegenkomt."
+		"description": "inzichtelijk maken waar talen terug te zien zijn in de maatschappij, welke rol zij daar spelen en waar men taal in de wereld tegenkomt.",
+		"deleted": true
 	},
 	{
 		"prefix": "t3",
@@ -8889,7 +9065,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "kennisnemen van opleidingen waarin moderne vreemde talen worden aangeboden of een rol spelen, zoals horeca, toerisme en recreatie, luchtvaartdienstverlening, marketing en communicatie."
+		"description": "kennisnemen van opleidingen waarin moderne vreemde talen worden aangeboden of een rol spelen, zoals horeca, toerisme en recreatie, luchtvaartdienstverlening, marketing en communicatie.",
+		"deleted": true
 	},
 	{
 		"prefix": "t4",
@@ -8899,7 +9076,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "reflecteren op de vraag waarom je een taal zou leren en wat het leren van een taal jou als persoon oplevert."
+		"description": "reflecteren op de vraag waarom je een taal zou leren en wat het leren van een taal jou als persoon oplevert.",
+		"deleted": true
 	},
 	{
 		"prefix": "t5",
@@ -8909,7 +9087,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "reflecteren op je eigen meertalige repertoire en het effect van taalgebruik in beroepscontexten."
+		"description": "reflecteren op je eigen meertalige repertoire en het effect van taalgebruik in beroepscontexten.",
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -8919,7 +9098,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "een selectie van verschillende vormen van fictie presenteren en vertellen waarom je deze keuze hebt gemaakt."
+		"description": "een selectie van verschillende vormen van fictie presenteren en vertellen waarom je deze keuze hebt gemaakt.",
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -8929,7 +9109,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "de leukste liedteksten en fotoverhalen verzamelen."
+		"description": "de leukste liedteksten en fotoverhalen verzamelen.",
+		"deleted": true
 	},
 	{
 		"prefix": "t3",
@@ -8939,7 +9120,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "verhalen en video’s aanbevelen en vertellen waarom deze de moeite waard zijn."
+		"description": "verhalen en video’s aanbevelen en vertellen waarom deze de moeite waard zijn.",
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -8949,7 +9131,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "personages en gebeurtenissen in een verhaal bespreken en bepalen in hoeverre deze realistisch zijn."
+		"description": "personages en gebeurtenissen in een verhaal bespreken en bepalen in hoeverre deze realistisch zijn.",
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -8959,7 +9142,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "in een gesprek je eigen mening geven over hoe een personage in een film op een gebeurtenis reageert en wat jij in een vergelijkbare situatie zou doen."
+		"description": "in een gesprek je eigen mening geven over hoe een personage in een film op een gebeurtenis reageert en wat jij in een vergelijkbare situatie zou doen.",
+		"deleted": true
 	},
 	{
 		"prefix": "t3",
@@ -8969,7 +9153,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "associaties met het thema van een gedicht uitleggen."
+		"description": "associaties met het thema van een gedicht uitleggen.",
+		"deleted": true
 	},
 	{
 		"prefix": "t4",
@@ -8979,7 +9164,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "vertellen wie jouw held is in een verhaal en uitleggen waarom."
+		"description": "vertellen wie jouw held is in een verhaal en uitleggen waarom.",
+		"deleted": true
 	},
 	{
 		"prefix": "t5",
@@ -8989,7 +9175,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "de drie belangrijkste passages in een verhaal beschrijven."
+		"description": "de drie belangrijkste passages in een verhaal beschrijven.",
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -8999,7 +9186,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "gedragsnormen van mensen in een videofragment of filmpje benoemen."
+		"description": "gedragsnormen van mensen in een videofragment of filmpje benoemen.",
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -9009,7 +9197,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "kenmerkende culturele elementen in een reclamespot beschrijven."
+		"description": "kenmerkende culturele elementen in een reclamespot beschrijven.",
+		"deleted": true
 	},
 	{
 		"prefix": "t3",
@@ -9019,7 +9208,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "de dagelijkse activiteiten van de jeugd in een reportage benoemen en bespreken in hoeverre die overeenkomen met de eigen dagelijkse activiteiten."
+		"description": "de dagelijkse activiteiten van de jeugd in een reportage benoemen en bespreken in hoeverre die overeenkomen met de eigen dagelijkse activiteiten.",
+		"deleted": true
 	},
 	{
 		"prefix": "t4",
@@ -9029,7 +9219,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "traditionele architectuur in foto’s benoemen en die met de eigen omgeving vergelijken."
+		"description": "traditionele architectuur in foto’s benoemen en die met de eigen omgeving vergelijken.",
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -9039,7 +9230,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "een kennismaking met de invulling van een schooldag tijdens een digitale uitwisseling met leeftijdsgenoten in een internationaal project."
+		"description": "een kennismaking met de invulling van een schooldag tijdens een digitale uitwisseling met leeftijdsgenoten in een internationaal project.",
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -9049,7 +9241,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "eigen eetgewoontes, kledingstijlen, dagritmes, feestdagen en tradities herkennen en benoemen die overeenkomen met en verschillen van die van leeftijdsgenoten uit een ander land."
+		"description": "eigen eetgewoontes, kledingstijlen, dagritmes, feestdagen en tradities herkennen en benoemen die overeenkomen met en verschillen van die van leeftijdsgenoten uit een ander land.",
+		"deleted": true
 	},
 	{
 		"prefix": "t3",
@@ -9059,7 +9252,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "met iemand praten over hoe het zou zijn om een dag te ruilen met een leeftijdsgenoot in een ander land."
+		"description": "met iemand praten over hoe het zou zijn om een dag te ruilen met een leeftijdsgenoot in een ander land.",
+		"deleted": true
 	},
 	{
 		"prefix": "t5",
@@ -49967,7 +50161,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "gebruiken van wiskundige denkwijzen als generaliseren, abstraheren en structuren beschrijven en formaliseren na oplossen."
+		"description": "gebruiken van wiskundige denkwijzen als generaliseren, abstraheren en structuren beschrijven en formaliseren na oplossen.",
+		"deleted": true
 	},
 	{
 		"prefix": "t4",
@@ -50627,7 +50822,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "opstellen van een agent-gebaseerd model en het uitvoeren van simulaties hiermee."
+		"description": "opstellen van een agent-gebaseerd model en het uitvoeren van simulaties hiermee.",
+		"deleted": true
 	},
 	{
 		"prefix": "t4",
@@ -51312,7 +51508,8 @@
 		"description": "kenmerken en specifiek taalgebruik benoemen in handleidingen;",
 		"replaces": [
 			"6c05e9b1-cfa2-4027-b428-98b1f3d17a7c"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -51327,7 +51524,8 @@
 		"description": "klachtenbrieven lezen en bespreken welke brief het duidelijkst is en waarom;",
 		"replaces": [
 			"cf2378c3-b3a0-4a43-b5c3-6d776e09899b"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -97841,7 +98039,8 @@
 		"description": "wereldbeelden: Aristoteles, geocentrisch, heliocentrisch en oerknal.",
 		"replaces": [
 			"cc8a71c2-5e53-4bdf-af4a-2d9df5713d71"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -97854,7 +98053,8 @@
 		"description": "met een zelfgemaakt model van de Webb-telescoop demonstreren hoe scherpe foto's gemaakt kunnen worden.",
 		"replaces": [
 			"916ed5d2-9afb-4182-8ec7-eddf1f3a2457"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t3",
@@ -97867,7 +98067,8 @@
 		"description": "het tekenen van een lensconstructie van een satelliet.",
 		"replaces": [
 			"69b40be7-b6d2-4b41-9aba-4d254e870126"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t4",
@@ -97880,7 +98081,8 @@
 		"description": "een debatwedstrijd uit 1612 tussen kerk en wetenschappers simuleren over wereldbeelden.",
 		"replaces": [
 			"83f6046f-5a18-4b8b-af2e-e299ce7d2136"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t5",
@@ -97893,7 +98095,8 @@
 		"description": "een documentaire kijken over waarom zwarte gaten ‘zwart’ zijn.",
 		"replaces": [
 			"237f539d-2170-4666-95c8-6af65df7c4fb"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -98172,7 +98375,8 @@
 		"description": "met uitbeelddidactiek laten zien hoe de meiose werkt.",
 		"replaces": [
 			"45663792-4130-4410-a059-0f0a927e3ab2"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -98185,7 +98389,8 @@
 		"description": "in een toets diergroepen vergelijken die dichtbij walvissen staan, in een stamboom die is gebaseerd op het bouwplan van organismen, en een stamboom die is gebaseerd op genetische kenmerken.",
 		"replaces": [
 			"45918ccd-ddda-4e9c-a583-183e973c132f"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t3",
@@ -98198,7 +98403,8 @@
 		"description": "de klas als curator van een tentoonstelling over de bouw van gewervelde dieren.",
 		"replaces": [
 			"e73d25fa-cb05-422f-94c1-785054ea2d23"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t4",
@@ -98211,7 +98417,8 @@
 		"description": "discussie in de klas over geldigheid van evolutiemodellen.",
 		"replaces": [
 			"15844d13-de94-4c41-8e9a-2798c6f88039"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -98225,7 +98432,8 @@
 		"description": "waterkringloop, koolstofkringloop, stikstof- en fosforkringloop.",
 		"replaces": [
 			"f153cecf-49a4-4aed-a91a-81985c06b0ff"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -98239,7 +98447,8 @@
 		"description": "verstoringen door: menselijk handelen, verandering in biodiversiteit, weer en klimaat, brand, vulkaanuitbarsting, aardbeving en overstroming.",
 		"replaces": [
 			"07c4a542-c99d-412e-aa0a-e88daa217421"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t3",
@@ -98253,7 +98462,8 @@
 		"description": "abiotische en biotische factoren in de Waddenzee schematisch weergeven.",
 		"replaces": [
 			"b1c6dce1-e86d-44ac-94e6-4df3dc8f5be6"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t4",
@@ -98267,7 +98477,8 @@
 		"description": "de energiestroom van herbivoren vergelijken met die van carnivoren en omnivoren.",
 		"replaces": [
 			"6283457e-8142-48b8-b417-5d3f9cb3e040"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t5",
@@ -98281,7 +98492,8 @@
 		"description": "het onderzoeken hoe een ecosysteem zich na een catastrofe het onderzoeken hoe een ecosysteem zich na een catastrofe zoals een bosbrand of overstroming herstelt.",
 		"replaces": [
 			"b6030364-bf85-4d9d-b393-4bbb97a18fbe"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t6",
@@ -98295,7 +98507,8 @@
 		"description": "een debat voeren over de invoer van tropisch hardhout.",
 		"replaces": [
 			"5f2a0a55-c9f2-4dd7-8421-5e88f66d1633"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -98626,7 +98839,8 @@
 		"description": "de invloed van mediawijsheid (#DG) en welbevinden (#BS) op lichamelijke en mentale gezondheid combineren met de invloeden die vallen onder het leergebied mens en natuur.",
 		"replaces": [
 			"779db2be-c205-44d5-879d-8c58ab5b1aba"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -98640,7 +98854,8 @@
 		"description": "een gezond weekmenu samenstellen met behulp van de schijf van vijf.",
 		"replaces": [
 			"025acc75-1407-49d3-be10-336387a6751b"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t3",
@@ -98654,7 +98869,8 @@
 		"description": "in een kringgesprek reflecteren op je lichamelijke en mentale gezondheid.",
 		"replaces": [
 			"f4c474d2-536f-43d5-ba70-7fdc615d0c11"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t4",
@@ -98668,7 +98884,8 @@
 		"description": "een gastles geven over het werk van een vertrouwenspersoon of de kindertelefoon.",
 		"replaces": [
 			"03c8b13f-8452-4968-ba90-ee98d64e1ffb"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t5",
@@ -98682,7 +98899,8 @@
 		"description": "het effect van de natuurlijke omgeving op een gezond leven beschrijven aan de hand van activiteiten in de natuurlijke omgeving van de school.",
 		"replaces": [
 			"7fbb4ec5-e23c-4818-a075-74aaed2f9ace"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -98696,7 +98914,8 @@
 		"description": "een ontruiming op school uitvoeren waarbij geïnstrueerd wordt waarom niet door rook mag worden gelopen.",
 		"replaces": [
 			"3dcc1f55-470d-4683-97b3-ccd6eab9b65e"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -98710,7 +98929,8 @@
 		"description": "een beslisboom ontwerpen over wanneer je veilig in de zon kunt verblijven en welke beschermingsmiddelen je hiervoor kunt gebruiken.",
 		"replaces": [
 			"1c3d68bc-89ca-45b1-b594-0234080f52fd"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t3",
@@ -98724,7 +98944,8 @@
 		"description": "een presentatie houden over hoe te handelen bij een overstroming.",
 		"replaces": [
 			"72f58059-f0b2-4871-8b82-c7f58dedb587"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t4",
@@ -98738,7 +98959,8 @@
 		"description": "opzoeken van veiligheidsinformatie van enkele chemicaliën die op school worden gebruikt tijdens practica.",
 		"replaces": [
 			"76ce9cd2-f9af-45cb-a447-1510403e34f3"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t5",
@@ -98752,7 +98974,8 @@
 		"description": "een gastles geven over hoe levensreddend te handelen.",
 		"replaces": [
 			"10f9e179-5263-4bcc-87d6-b44f79da775a"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -100523,7 +100746,8 @@
 		"description": "veranderingen in de omgeving onderzoeken aan de hand van kaarten en beeldmateriaal, zoals door foto’s van vroeger te vergelijken met de huidige situatie.",
 		"replaces": [
 			"7dce5cf7-b3d1-477f-9287-5f0a33cbbb83"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -100537,7 +100761,8 @@
 		"description": "de betekenis van erfgoed ervaren door het bezoeken van musea en monumenten.",
 		"replaces": [
 			"d609d9b5-3d73-4639-9503-597645076627"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t3",
@@ -100551,7 +100776,8 @@
 		"description": "aan regionale feesten, feestdagen en herdenkingen deelnemen.",
 		"replaces": [
 			"e30c2209-c8b7-4c14-b527-9980436c262c"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t4",
@@ -100565,7 +100791,8 @@
 		"description": "ontmoetingen verzorgen met lokale organisaties, historische verenigingen, bedrijven, archieven, sportverenigingen of bewoners van zorginstellingen.",
 		"replaces": [
 			"78f3f302-308c-45b1-951d-2c4eb16e1497"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t5",
@@ -100579,7 +100806,8 @@
 		"description": "onderzoeken hoe augmented reality en virtual reality de omgeving van de school kunnen vergroten en veranderen.",
 		"replaces": [
 			"c16b6006-1949-45eb-9996-5c18f39033aa"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -100733,7 +100961,8 @@
 		"description": "verschillende perspectieven op het in stand houden van monumenten onderzoeken en daar betekenis aan geven.",
 		"replaces": [
 			"3eacd10a-de9d-48d4-b2c8-1973c9243017"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -100747,7 +100976,8 @@
 		"description": "aan lokale tradities of cultuuruitingen deelnemen en daarvan de herkomst onderzoeken.",
 		"replaces": [
 			"3d0a53e8-2754-486f-8e0b-d724ac1db7bd"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t3",
@@ -100761,7 +100991,8 @@
 		"description": "de eigen omgeving onderzoeken op toekomstbestendigheid van klimatologische veranderingen.",
 		"replaces": [
 			"9d410a28-267b-4110-8d7e-acacc73ec2a8"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t4",
@@ -100775,7 +101006,8 @@
 		"description": "aan lokale organisaties, verenigingen, bedrijven, sportverenigingen en zorginstellingen een bezoek brengen.",
 		"replaces": [
 			"01c3cff7-4565-4367-8b74-9a4bec71dd51"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t5",
@@ -100789,7 +101021,8 @@
 		"description": "de unieke kenmerken van de omgeving onderzoeken en visualiseren, bijvoorbeeld door middel van een vlog, promofilm, krant, flyer, poster of mindmap.",
 		"replaces": [
 			"2221bc35-266f-4465-8d71-5015e27b6ac4"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -102385,7 +102618,8 @@
 		"description": "jezelf en je familie beschrijven op basis van foto's.",
 		"replaces": [
 			"852261d4-a074-4ccd-b318-29633e820baa"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -102399,7 +102633,8 @@
 		"description": "in een gesprek woorden omschrijven, vragen om verduidelijking, vragen om herhaling of spreektempo aanpassen.",
 		"replaces": [
 			"be300584-2f2e-40dd-9236-d2d16edea67c"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t3",
@@ -102413,7 +102648,8 @@
 		"description": "een betekenisvol voorwerp meenemen naar een groepje en omschrijven.",
 		"replaces": [
 			"065345c7-5f4f-464e-8831-57d8ba14be04"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t4",
@@ -102427,7 +102663,8 @@
 		"description": "spelletjes doen zoals puzzels, raadsels, rollenspelen, escaperooms.",
 		"replaces": [
 			"2570df76-0713-42c8-9cba-fe61e9ebf8ab"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t5",
@@ -102441,7 +102678,8 @@
 		"description": "in een taaldorp levensechte situaties nabootsen, zoals uitleg vragen over de menukaart, iets op de markt kopen of een kennismakingsgesprek voeren.",
 		"replaces": [
 			"046d5bb0-a974-44d3-bda0-eb317a4c3ac3"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t6",
@@ -102454,7 +102692,8 @@
 		"description": "presentatie van een droomhuis, droomvakantie of stamboom.",
 		"replaces": [
 			"ec89574a-3ca1-4661-b940-487af3289e4a"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t7",
@@ -102467,7 +102706,8 @@
 		"description": "spelletjes doen zoals puzzels, raadsels, rollenspelen, escape rooms.",
 		"replaces": [
 			"a22506c2-e848-4822-b502-2da479008e47"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t8",
@@ -102480,7 +102720,8 @@
 		"description": "taaldorp waarin leerlingen gesprekjes voeren in verschillende sociaal-culturele situaties.",
 		"replaces": [
 			"9d957256-fad1-4e19-a2f9-6054e7249000"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t9",
@@ -102493,7 +102734,8 @@
 		"description": "Social media-‘story’ of -video inspreken om een eenvoudige boodschap over te brengen aan een informeel publiek.",
 		"replaces": [
 			"9a281d69-a69b-43ba-bafa-ad9a951073de"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t10",
@@ -102506,7 +102748,8 @@
 		"description": "taaltaken waarbij leerlingen elkaar tips en tops geven met het oog op verbetering of de effectiviteit van de communicatie.",
 		"replaces": [
 			"5c70af18-f3eb-4036-9e8c-d5ad9397fca2"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -102520,7 +102763,8 @@
 		"description": "een berichtje sturen om te laten weten hoe laat je aankomt.",
 		"replaces": [
 			"d4e710aa-192a-4206-bca1-0a78b6a47354"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -102534,7 +102778,8 @@
 		"description": "(digitale) formulieren invullen voor vakanties, sportevenementen of festivals.",
 		"replaces": [
 			"f100ce83-4e0f-42c3-b988-2438dad98a82"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t3",
@@ -102548,7 +102793,8 @@
 		"description": "de familie, de eigen kamer, dieren en voorkeuren beschrijven.",
 		"replaces": [
 			"a0fd17e7-30b8-4049-b3e9-25f1051ce575"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t4",
@@ -102562,7 +102808,8 @@
 		"description": "een kaartje schrijven met een groet en een wens.",
 		"replaces": [
 			"7c8df224-7ad2-4883-b51f-1aaeea755b6c"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t5",
@@ -102576,7 +102823,8 @@
 		"description": "tekstballonnen bij een stripverhaal verzinnen.",
 		"replaces": [
 			"323428da-4e49-4a77-be90-f3f514114110"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t6",
@@ -102589,7 +102837,8 @@
 		"description": "infographic of poster maken met foto's en teksten over een persoonlijke interesse.",
 		"replaces": [
 			"d785a38c-ea27-4f3a-8060-4b29ba828980"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t7",
@@ -102602,7 +102851,8 @@
 		"description": "een eenvoudige blog schrijven over een onderwerp dat speelt op school.",
 		"replaces": [
 			"ab14ca8f-1813-4885-b388-7b7588ed52ea"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t8",
@@ -102615,7 +102865,8 @@
 		"description": "een advertentie maken voor een zelfverzonnen product of dienst.",
 		"replaces": [
 			"d5224d6f-2209-4eb4-aa6f-4fe1a87bfead"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t9",
@@ -102628,7 +102879,8 @@
 		"description": "een dagboekfragment schrijven.",
 		"replaces": [
 			"a88044d7-c990-4661-890e-923fde54cb8e"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t10",
@@ -102641,7 +102893,8 @@
 		"description": "met een klasgenoot over de vakantie chatten in de doeltaal.",
 		"replaces": [
 			"9094a03c-fca6-489a-91aa-b75e1b7531fa"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t11",
@@ -102654,7 +102907,8 @@
 		"description": "een kort berichtje sturen waarin je iemand bedankt.",
 		"replaces": [
 			"9d33d9fe-ef54-4860-b1b4-cc89e71cc26f"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -102667,7 +102921,8 @@
 		"description": "een dagje uit plannen op basis van diverse bronnen.",
 		"replaces": [
 			"b80c4e53-bcf5-4795-8e34-49c52b43e5af"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -102680,7 +102935,8 @@
 		"description": "boekenkaft ontwerpen met achterflaptekst.",
 		"replaces": [
 			"5ae253ad-8d36-4fd8-bb18-115c2bed4baa"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t3",
@@ -102693,7 +102949,8 @@
 		"description": "mixed media-collage maken, gebaseerd op verschillende bronnen rondom een vertrouwd thema.",
 		"replaces": [
 			"80cd5c13-1214-404f-8c03-d9cc0533e0e7"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t4",
@@ -102706,7 +102963,8 @@
 		"description": "een reactie schrijven op een nieuwe post van je idool of over je favoriete merk.",
 		"replaces": [
 			"93ebb274-3906-4f69-a1d9-fb73a6f34e28"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -102720,7 +102978,8 @@
 		"description": "verhaalpersonages bedenken en de karakters definiëren met steekwoorden.",
 		"replaces": [
 			"b5e9ac42-f8dc-4d49-9947-2aaec21723bc"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -102734,7 +102993,8 @@
 		"description": "een stripverhaal of fotoverhaal maken met verzonnen, eenvoudige dialogen.",
 		"replaces": [
 			"77c6902b-9064-421f-8f02-a18409ac1424"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t3",
@@ -102748,7 +103008,8 @@
 		"description": "een advertentie of poster ontwerpen met creatieve content.",
 		"replaces": [
 			"d1bcd952-c517-4db6-8ab1-58e017441712"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t4",
@@ -102762,7 +103023,8 @@
 		"description": "een kort verhaal verbeelden (bijvoorbeeld met een strip, een cartoon, gebaren of een toneelstukje).",
 		"replaces": [
 			"9062240c-16b1-4b22-8784-4d04338663e2"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -102776,7 +103038,8 @@
 		"description": "jeugdliteratuur, vakinhoud van andere leergebieden, songteksten, films, series, jeugdjournaal, games, tijdschriften, kranten, social media.",
 		"replaces": [
 			"5ff940ab-00d1-4408-a122-58ecc1081223"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -102790,7 +103053,8 @@
 		"description": "fictie en non-fictieteksten in de doeltaal, in vertaling, in hertaling en met ondertiteling.",
 		"replaces": [
 			"aa1a179e-4545-4222-ab2c-de354240cf46"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -103329,7 +103593,8 @@
 		"description": "een dagje uit plannen op basis van diverse bronnen.",
 		"replaces": [
 			"5e757aea-9296-4a3d-afda-1f1f307057e4"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -103342,7 +103607,8 @@
 		"description": "boekenkaft ontwerpen met achterflaptekst.",
 		"replaces": [
 			"751ea366-a2a4-4604-9a51-8656a2c9f163"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t3",
@@ -103355,7 +103621,8 @@
 		"description": "mixed media-collage maken, gebaseerd op verschillende bronnen rondom een vertrouwd thema.",
 		"replaces": [
 			"968295fd-7e77-4640-8aad-8c599e78fb36"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t4",
@@ -103368,7 +103635,8 @@
 		"description": "een reactie schrijven op een nieuwe post van je idool of over je favoriete merk.",
 		"replaces": [
 			"b7d2d564-22e7-4f19-a379-5a8af0897041"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -103382,7 +103650,8 @@
 		"description": "verhaalpersonages bedenken en de karakters definiëren met steekwoorden.",
 		"replaces": [
 			"73689d08-c1dc-4237-afac-1eaa77d0fb5f"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -103396,7 +103665,8 @@
 		"description": "een stripverhaal of fotoverhaal maken met verzonnen, eenvoudige dialogen.",
 		"replaces": [
 			"add5c415-10d9-4512-9106-adab75e37723"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t3",
@@ -103410,7 +103680,8 @@
 		"description": "een advertentie of poster ontwerpen met creatieve content.",
 		"replaces": [
 			"7d9a26ee-6d68-462c-b709-373f27cde20b"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t4",
@@ -103424,7 +103695,8 @@
 		"description": "een kort verhaal verbeelden (bijvoorbeeld met een strip, een cartoon, gebaren of een toneelstukje).",
 		"replaces": [
 			"7f6f5e22-f2d4-4c45-bbb0-a054d8bb293b"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -103674,7 +103946,8 @@
 		"description": "in een woordweb de eigen behoeften en voorkeuren met betrekking tot het leren van de doeltaal inventariseren.",
 		"replaces": [
 			"b6ce3067-b136-483d-9496-da45393faa7e"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -103688,7 +103961,8 @@
 		"description": "een speurtocht doen om te ontdekken hoeveel de doeltaal en andere talen in de omgeving worden gebruikt.",
 		"replaces": [
 			"67c6477c-dfde-4fd8-a3f7-c6a529c66e73"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t3",
@@ -103702,7 +103976,8 @@
 		"description": "experimenteren met verschillende soorten input en opdrachten voor vertaalmachines.",
 		"replaces": [
 			"d5458b1c-9e45-49c1-82a0-9145fe3a99b8"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t4",
@@ -103716,7 +103991,8 @@
 		"description": "contrastieve elementen tussen de doeltaal en andere talen onderscheiden (bijvoorbeeld kloktijden, werkwoordtijden, verwante woorden, valse vrienden).",
 		"replaces": [
 			"f7d78037-8321-4e47-ae11-a3a933bc8241"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t5",
@@ -103730,7 +104006,8 @@
 		"description": "een taallandschap van de klas maken waarin de meertaligheid van de leerlingen zichtbaar wordt gemaakt.",
 		"replaces": [
 			"c30e1838-4c14-499d-8866-bf2cd49ec4b6"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -103744,7 +104021,8 @@
 		"description": "een vlog maken over een dag uit het eigen leven en deze vergelijken met een vlog van een leerling uit een gebied waar de doeltaal wordt gesproken.",
 		"replaces": [
 			"f91f1d1a-d49f-4c68-99e1-685b6ed7a929"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -103758,7 +104036,8 @@
 		"description": "een collage maken over een cultureel thema vanuit een contrasterend perspectief (zoals het vergelijken van kleding of regels op school, of van vervoermiddelen naar school).",
 		"replaces": [
 			"4b387308-1aa2-48d4-a320-3a954e7cb38d"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t3",
@@ -103772,7 +104051,8 @@
 		"description": "je mening geven over hoe een personage in een film of boek op een gebeurtenis reageert, en wat jij in een vergelijkbare situatie zou doen.",
 		"replaces": [
 			"f2a44ec9-099e-445e-a76f-fcb10a96bcd0"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t4",
@@ -103786,7 +104066,8 @@
 		"description": "een korte beschouwing schrijven over de culturele aspecten van films, series of liedjes eventueel met behulp van ondertiteling/vertaling.",
 		"replaces": [
 			"eb9b91e4-edda-45e6-ac42-0049e24c51ef"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t5",
@@ -103800,7 +104081,8 @@
 		"description": "een reisblog/vlog maken over culturele aspecten van gebieden waar de doeltaal wordt gesproken.",
 		"replaces": [
 			"35f9b62f-8fce-4dad-b510-c7d9d8e74b4b"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -103814,7 +104096,8 @@
 		"description": "het internationaal uitwisselen van een postkaart met een (fictief) schrijfmaatje in de doeltaal.",
 		"replaces": [
 			"bca3cbba-b4fd-4fa1-9309-6b303c923bf9"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -103828,7 +104111,8 @@
 		"description": "activiteiten in een taaldorp uitvoeren met doeltaalsprekers of -leerders.",
 		"replaces": [
 			"2ed9f1d7-b1bf-4902-9a5d-289dc3da6d7c"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t3",
@@ -103842,7 +104126,8 @@
 		"description": "met een klasgenoot een rollenspel in de doeltaal uitvoeren terwijl je de rol aanneemt van iemand uit een bepaald land.",
 		"replaces": [
 			"b6125337-59fa-4527-8c6a-8f7a89fe21d7"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t4",
@@ -103856,7 +104141,8 @@
 		"description": "deelnemen aan een (online) internationaliseringsactiviteit.",
 		"replaces": [
 			"51530ed5-2502-4dae-b27a-77af97e90fa0"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t5",
@@ -103870,7 +104156,8 @@
 		"description": "Q&A met een gastspreker of gastsprekers die vertellen over (een aspect) van hun cultuur of hun cultureel erfgoed.",
 		"replaces": [
 			"b1bd4f6e-f2b9-4df4-9f84-542091d95eb5"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t6",
@@ -103883,7 +104170,8 @@
 		"description": "internationaliseringsactiviteit waarbij leerlingen samenwerken aan een digitaal of niet-digitaal project over een maatschappelijk onderwerp.",
 		"replaces": [
 			"cbb39968-75be-4f0d-b89e-f9e0d0bcdd4f"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t7",
@@ -103896,7 +104184,8 @@
 		"description": "interview (digitaal of niet-digitaal) met iemand die anderstalig is over een maatschappelijk onderwerp vanuit verschillende culturele perspectieven.",
 		"replaces": [
 			"1f865073-b69c-4e19-b76d-4ee7f4ed2414"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
