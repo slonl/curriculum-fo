@@ -194,20 +194,6 @@
 		"id": "c1d07b63-95bf-4fc7-96e1-b22a39b7cafa"
 	},
 	{
-		"title": "Wiskundige attitude",
-		"fo_doelzin_id": [
-			"8df69377-7579-4f3e-a116-c546a91042ac",
-			"48fd5fe0-ad09-4fc8-a312-4e4b679a4768",
-			"cba75dc1-0b6f-470d-bfcd-98bd65b7357d"
-		],
-		"prefix": "A",
-		"id": "750dee37-1bd2-4f8f-855a-fa2485923df4",
-		"replaces": [
-			"60d3f360-a7ba-421f-9f4b-c18a48bd4c13"
-		],
-		"deleted": true
-	},
-	{
 		"title": "Domein B Taalbewustzijn",
 		"description": "Domein B Taalbewustzijn",
 		"prefix": "B",
@@ -2558,92 +2544,6 @@
 		"replaces": [
 			"19c3627b-8615-4169-be84-1d80da271ed0"
 		]
-	},
-	{
-		"title": "Domein A  Communicatie",
-		"description": "Domein A Communicatie",
-		"prefix": "A",
-		"id": "4b3e4db5-ad90-47b4-b6a8-da3c49d339a1",
-		"fo_subdomein_id": [
-			"07f7e9d6-1316-462c-a742-48cdf6037567",
-			"f8b0ccd9-2e73-4040-910f-589786dd7e16",
-			"8cb9a2df-9917-4019-81a9-315627b521ea"
-		],
-		"replaces": [
-			"ffe3aabe-9426-4a19-9d38-773200fcac19"
-		],
-		"deleted": true
-	},
-	{
-		"title": "Domein B Taalbewustzijn",
-		"description": "Domein B Taalbewustzijn",
-		"prefix": "B",
-		"id": "99b8c95f-60be-4651-a42f-9de6efafb14d",
-		"fo_subdomein_id": [
-			"9e601705-4cc7-4fef-9c23-04517a98e01f",
-			"12336f14-603f-48a8-8b11-85a911e16598"
-		],
-		"replaces": [
-			"cf163cc7-0538-4d93-a596-dfbb356471a5"
-		],
-		"deleted": true
-	},
-	{
-		"title": "Domein C Cultuurbewustzijn",
-		"description": "Domein C Cultuurbewustzijn",
-		"prefix": "C",
-		"id": "51c8aeeb-524c-4ad0-8219-e8408254834f",
-		"fo_subdomein_id": [
-			"43d362a7-09a2-4855-9fe9-9e095905de63",
-			"c4f4bd0d-6a48-45f9-b785-6e14d61203ad"
-		],
-		"replaces": [
-			"b9984543-6d20-4d98-8a00-43cbe093dbcd"
-		],
-		"deleted": true
-	},
-	{
-		"title": "Domein A  Communicatie",
-		"description": "Domein A Communicatie",
-		"prefix": "A",
-		"id": "429f9158-d514-483a-b688-0a3c3cbb5b7f",
-		"fo_subdomein_id": [
-			"47d55e4e-34de-49d1-8393-d40343764810",
-			"3752d92b-6fd2-4b10-a43d-e173c45f44ea",
-			"1fc8c195-4dab-4b7e-b735-977ecbbd1811"
-		],
-		"replaces": [
-			"9dfd9a44-4a15-4479-a98a-9caa3889e182"
-		],
-		"deleted": true
-	},
-	{
-		"title": "Domein B Taalbewustzijn",
-		"description": "Domein B Taalbewustzijn",
-		"prefix": "B",
-		"id": "9efc7742-7083-47e6-9e65-79248098f139",
-		"fo_subdomein_id": [
-			"e3a912f3-3651-4fac-9434-d07c23339bec",
-			"5c7a02a9-465b-488e-a2eb-8ed345c4b308"
-		],
-		"replaces": [
-			"b145f556-d5b3-45ac-bcbf-9efd2959a85d"
-		],
-		"deleted": true
-	},
-	{
-		"title": "Domein C Cultuurbewustzijn",
-		"description": "Domein C Cultuurbewustzijn",
-		"prefix": "C",
-		"id": "276e8e89-87e4-40e0-b18c-7c39d427d2f4",
-		"fo_subdomein_id": [
-			"cb644d01-6cc0-4e03-a7c8-059525d0b613",
-			"e2281272-c032-4a3f-ad9a-f420c444a361"
-		],
-		"replaces": [
-			"4599890c-a330-4779-914e-b79f9d674b51"
-		],
-		"deleted": true
 	},
 	{
 		"title": "Domein A  Communicatie",
@@ -5356,36 +5256,6 @@
 		]
 	},
 	{
-		"title": "jezelf en de ander",
-		"description": "jezelf en de ander",
-		"id": "4e9e8eba-6487-40f4-bcfb-dd2b959d2771",
-		"fo_kernzin_id": [
-			"e7080f4c-38b0-4979-82a7-47e3f96fafb2",
-			"6f544178-75ba-486d-88d1-c96d3bed0de2",
-			"ca3a4125-43cf-4618-bd64-f46734182e31"
-		]
-	},
-	{
-		"title": "samenleven in een democratische rechtsstaat",
-		"description": "samenleven in een democratische rechtsstaat",
-		"id": "1609786b-67ee-470c-825a-89ba10cea39c",
-		"fo_kernzin_id": [
-			"6d1aa3b6-44bb-4516-a338-2c055bcacc77",
-			"e9a3cb8e-451a-4189-994f-a6eff39468bd",
-			"4bd8fd09-2654-4820-bf02-568237dc0f97"
-		]
-	},
-	{
-		"title": "vormgeven aan democratische en maatschappelijke betrokkenheid",
-		"description": "vormgeven aan democratische en maatschappelijke betrokkenheid",
-		"id": "08ac1cbd-e9a0-4e97-88cc-094fd5fbaa56",
-		"fo_kernzin_id": [
-			"2add5a8c-aff9-4e0c-a108-f5b3cbe638dc",
-			"df1abbcb-7111-4ed4-9796-fa707e1b9ef1",
-			"136bf4e6-7b15-498d-8277-27891c5ba156"
-		]
-	},
-	{
 		"title": "Domein: mens en welvaart",
 		"description": "Domein: mens en welvaart",
 		"id": "eb5c8393-f95b-4bdf-9d2a-b998fdf57671",
@@ -5399,51 +5269,6 @@
 		"id": "414d29ff-590a-4bfe-b7d7-d61c4d8d4a55",
 		"fo_kernzin_id": [
 			"c31a9633-362f-43c6-bbb5-76fda0c3d08d"
-		]
-	},
-	{
-		"title": "Domein: rijke leeromgeving",
-		"description": "Domein: rijke leeromgeving",
-		"id": "66750076-da33-4108-8632-2324c9ac6ff4",
-		"fo_kernzin_id": [
-			"91f72431-0558-4405-a828-fa2fcf1d0e43",
-			"feefae89-38a5-4eb8-a5a8-a7a1642c6c77"
-		]
-	},
-	{
-		"title": "Domein: taal leren en gebruiken",
-		"description": "Domein: taal leren en gebruiken",
-		"id": "7dd3fb34-84b9-4fc5-b395-90424696ce52",
-		"fo_kernzin_id": [
-			"539f16c5-29e0-45e8-83e7-72efada2f385",
-			"fd4cc41e-c781-4cde-80e7-a6c11de8f5e4"
-		]
-	},
-	{
-		"title": "Domein: taalbewustzijn",
-		"description": "Domein: taalbewustzijn",
-		"id": "e6bb1cf2-0ac3-479e-9bde-d904d0905838",
-		"fo_kernzin_id": [
-			"e787e067-f84a-4dec-a16b-ef631cfa479e",
-			"af333c2c-c23e-41e1-8a86-cc370dc8a2db"
-		]
-	},
-	{
-		"title": "Domein: taalexpressie",
-		"description": "Domein: taalexpressie",
-		"id": "6a3e3d2d-89af-4129-8e7c-aa60f3f18bb9",
-		"fo_kernzin_id": [
-			"710a4500-a3d3-4c1e-a3d1-9f5ea71958cd",
-			"55af854a-12d7-459a-bec7-f7bde0b76667"
-		]
-	},
-	{
-		"title": "Domein: cultuurbewustzijn",
-		"description": "Domein: cultuurbewustzijn",
-		"id": "4c9fc67e-23f3-44f4-938c-b6b7c3fe0b75",
-		"fo_kernzin_id": [
-			"5b988b3c-a5f7-4fe6-a4f5-9d9bb637ad59",
-			"c42c5913-79ea-4382-95a7-57305e45b211"
 		]
 	},
 	{
@@ -5503,32 +5328,6 @@
 		]
 	},
 	{
-		"title": "Domein natuurwetenschappen en technologie",
-		"description": "Mens en samenleving vervalt",
-		"prefix": "E",
-		"id": "b12069d4-a9a8-4ad2-ada9-281be0cf157a",
-		"fo_doelzin_id": [],
-		"replaces": [
-			"abd075f6-6427-42da-b9d4-4d4e7b81012d",
-			"a601cd38-4e20-47aa-a5fc-2625f11b6388"
-		],
-		"deleted": true
-	},
-	{
-		"title": "Domein: vraagstukken en perspectieven",
-		"description": "Domein: vraagstukken en perspectieven",
-		"prefix": "",
-		"id": "9407b98a-12fa-4d68-aeba-2ea7d1a64d63",
-		"replaces": [
-			"afbf24c3-b799-423a-bac8-9ea25c238b2d",
-			"b7a99a8c-1bd5-401b-a136-1237c1048ca0"
-		],
-		"fo_kernzin_id": [
-			"d858cba5-a941-4b29-b621-325a357c526e",
-			"d68634e7-1358-466d-91a1-d1a5b157bcee"
-		]
-	},
-	{
 		"title": "Domein: mens en ruimte",
 		"description": "Domein: mens en ruimte",
 		"prefix": "",
@@ -5569,21 +5368,6 @@
 			"31a4b578-9139-4009-afd6-00745d6233d1",
 			"bcc1e033-b7a7-4485-8ebb-e2fa900c158c"
 		]
-	},
-	{
-		"title": "Mens en omgeving",
-		"description": "Mens en omgeving",
-		"prefix": "E",
-		"id": "28e8ea1c-bbe2-4f38-97a6-aa0077ef15da",
-		"fo_doelzin_id": [
-			"fcad1b40-0aea-4f80-ba36-79c49bb325a2",
-			"9c97aceb-e4b6-4727-b220-0f77bbd3cc86"
-		],
-		"replaces": [
-			"eec88335-676e-4024-a33c-f784b5e5fdcb",
-			"503bfb08-1441-42d8-862b-3123f2794a67"
-		],
-		"deleted": true
 	},
 	{
 		"title": "Domein: communicatie",
@@ -6089,6 +5873,120 @@
 			"44fc83bc-f232-4489-816c-f2ddb1b5029d",
 			"b0144e2b-709f-4ff2-92dd-3c95f02fe6ab",
 			"440c6124-21f5-4d86-8fd7-81713dbdd755"
+		]
+	},
+	{
+		"title": "jezelf en de ander",
+		"description": "jezelf en de ander",
+		"id": "06e5c5fc-794a-4406-ba03-2478768a6e4e",
+		"fo_kernzin_id": [
+			"aa740ed2-677d-47ef-8f2a-d26118e7929c",
+			"11809484-8510-45d3-bbb8-bd5830a82ad4",
+			"7576f8c3-d758-4e74-8eda-f51126dafbde"
+		],
+		"replaces": [
+			"4e9e8eba-6487-40f4-bcfb-dd2b959d2771"
+		]
+	},
+	{
+		"title": "samenleven in een democratische rechtsstaat",
+		"description": "samenleven in een democratische rechtsstaat",
+		"id": "60bf576d-c6f9-49fa-a0b6-acd6ff2c7a71",
+		"fo_kernzin_id": [
+			"65445176-f499-4a57-9acd-9caddce69071",
+			"fd0e5be7-80f0-49c0-8665-dba9d1df5d89",
+			"8f9d68ac-f69a-4123-bba0-d9d6756be435"
+		],
+		"replaces": [
+			"1609786b-67ee-470c-825a-89ba10cea39c"
+		]
+	},
+	{
+		"title": "vormgeven aan democratische en maatschappelijke betrokkenheid",
+		"description": "vormgeven aan democratische en maatschappelijke betrokkenheid",
+		"id": "7db915ba-30aa-4691-a7c1-36253eef0616",
+		"fo_kernzin_id": [
+			"88d1d5b4-6613-4e12-be6b-460bc99cb260",
+			"ed1397e0-a847-4400-a193-fa6c720cefed",
+			"ebdd718b-9e57-494c-9cfc-0027d8f41c95"
+		],
+		"replaces": [
+			"08ac1cbd-e9a0-4e97-88cc-094fd5fbaa56"
+		]
+	},
+	{
+		"title": "Domein: vraagstukken en perspectieven",
+		"description": "Domein: vraagstukken en perspectieven",
+		"prefix": "",
+		"id": "aa5aecc8-196e-4ebc-add4-25621e65d055",
+		"replaces": [
+			"afbf24c3-b799-423a-bac8-9ea25c238b2d",
+			"b7a99a8c-1bd5-401b-a136-1237c1048ca0",
+			"9407b98a-12fa-4d68-aeba-2ea7d1a64d63"
+		],
+		"fo_kernzin_id": [
+			"7589786c-7b11-4403-9580-b42ceb30446d",
+			"14ca2430-5381-4ad9-8443-149866e485c7"
+		]
+	},
+	{
+		"title": "Domein: rijke leeromgeving",
+		"description": "Domein: rijke leeromgeving",
+		"id": "a69d5e2d-bacd-4546-98e7-a3d125639b1e",
+		"fo_kernzin_id": [
+			"91f72431-0558-4405-a828-fa2fcf1d0e43",
+			"ed684b0c-508d-459f-b62e-22df150d7b10"
+		],
+		"replaces": [
+			"66750076-da33-4108-8632-2324c9ac6ff4"
+		]
+	},
+	{
+		"title": "Domein: taal leren en gebruiken",
+		"description": "Domein: taal leren en gebruiken",
+		"id": "03713bc8-2e09-4a70-8c41-a8ee318c5fc2",
+		"fo_kernzin_id": [
+			"539f16c5-29e0-45e8-83e7-72efada2f385",
+			"98debdb3-0eb1-4e7d-9449-2b6bc8252bc1"
+		],
+		"replaces": [
+			"7dd3fb34-84b9-4fc5-b395-90424696ce52"
+		]
+	},
+	{
+		"title": "Domein: taalbewustzijn",
+		"description": "Domein: taalbewustzijn",
+		"id": "d9acd37d-ec0d-4062-b165-d989a1324bf0",
+		"fo_kernzin_id": [
+			"e787e067-f84a-4dec-a16b-ef631cfa479e",
+			"f698454a-59c2-45f3-a042-75f5ca0df75e"
+		],
+		"replaces": [
+			"e6bb1cf2-0ac3-479e-9bde-d904d0905838"
+		]
+	},
+	{
+		"title": "Domein: taalexpressie",
+		"description": "Domein: taalexpressie",
+		"id": "9939365c-866a-4a4d-b2d5-f8751b14d0c0",
+		"fo_kernzin_id": [
+			"710a4500-a3d3-4c1e-a3d1-9f5ea71958cd",
+			"2be366f3-7082-4b79-b64c-fd1fd9818e5e"
+		],
+		"replaces": [
+			"6a3e3d2d-89af-4129-8e7c-aa60f3f18bb9"
+		]
+	},
+	{
+		"title": "Domein: cultuurbewustzijn",
+		"description": "Domein: cultuurbewustzijn",
+		"id": "9766b242-8cb5-4ca0-8f85-6d7431ee9992",
+		"fo_kernzin_id": [
+			"5b988b3c-a5f7-4fe6-a4f5-9d9bb637ad59",
+			"ed9b7728-2bdd-44e3-a5d1-2d1b3e9e20f8"
+		],
+		"replaces": [
+			"4c9fc67e-23f3-44f4-938c-b6b7c3fe0b75"
 		]
 	}
 ]
