@@ -2868,6 +2868,7 @@
 		"title": "Eindterm 12",
 		"description": "De leerling werkt en redeneert met functies. (B)",
 		"prefix": "12",
+		"soort": "eindterm",
 		"id": "22b9ac0c-fb09-40f6-ad4d-e501152a3af6",
 		"fo_uitwerking_id": [
 			"8295b7ff-a0bd-4306-b539-82597e835d88",
