@@ -1,286 +1,6 @@
 [
 	{
 		"title": "Het gaat hierbij om",
-		"id": "e313dc04-d873-4fe8-867b-e4b79fdcfd45",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725",
-			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
-		],
-		"description": "leerlingen aanmoedigen om wiskundetaal en wiskundige representaties te gebruiken die passen bij de verschillende concepten.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "bdbb5401-1716-4299-872a-9083a4306e5b",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725",
-			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
-		],
-		"description": "laten gebruiken van wiskundige instrumenten.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "4c78d3ae-c7a3-4ba9-bb8f-876edfa3c3d5",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725",
-			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
-		],
-		"description": "aanbieden van problemen met betrekking tot verschillende wiskundige concepten.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "c8b02a12-4af4-4407-bb8a-fb4b780e8cf8",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725",
-			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
-		],
-		"description": "gebruiken van modellen en algoritmisch denken bij verschillende wiskundige concepten.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "wiskunde gebruiken bij het nemen van beslissingen en het oplossen van problemen.",
-		"id": "11658461-b414-4a50-96cf-02b930199028",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725",
-			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
-		],
-		"prefix": "u3",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "herkennen en beschrijven dat met grafische representaties een bepaalde boodschap wordt overgebracht of benadrukt.",
-		"id": "561a832e-8783-4574-959a-aa6f8eb6df91",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725",
-			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
-		],
-		"prefix": "u4",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "500cecff-4a39-4ab4-983a-7a12e4043dfd",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59",
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"description": "herkennen van standpunt en argumenten in teksten.",
-		"prefix": "u1",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "50ab9b31-a034-40a5-b2e2-e74ed9dae353",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59",
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"description": "herkennen van de context waarin de argumentatie plaatsvindt.",
-		"prefix": "u2",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "16e38f8a-7b3a-46a8-92b2-37b5a9cad107",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59",
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"description": "beoordelen van de geloofwaardigheid van de betoger.",
-		"prefix": "u3",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "5752b62a-4cd2-491b-a3d0-a7d6b8428f85",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59",
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"description": "beschrijven hoe gevoelens worden opgeroepen bij het publiek.",
-		"prefix": "u4",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "0359e292-78bc-4bbd-954c-651426dc92c5",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59",
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"description": "beschrijven van verschillen en overeenkomsten tussen oudere en hedendaagse literatuur.",
-		"prefix": "u1",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "035837e2-17e8-4c75-8844-05bef5fdbff9",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59",
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"description": "beschrijven van verschillen en overeenkomsten tussen versies van literaire teksten.",
-		"prefix": "u2",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "348d776d-aca9-4cd6-b422-c5e3dd4e2f41",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59",
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"description": "beschrijven van relaties tussen de periode en context waarin de tekst is geschreven en het wereldbeeld van de schrijver.",
-		"prefix": "u3",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "95b43e1b-871c-405d-ae6b-b96b76a7b4a9",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59",
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"description": "beschrijven van opgedane inzichten over historische tijdvakken.",
-		"prefix": "u4",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "57d7b06c-26ff-4d7d-a420-518540a0776c",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725",
-			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
-		],
-		"description": "aandacht besteden aan actualiteit en maatschappelijke vraagstukken in samenhang met verschillende leergebieden.",
-		"status": "concept",
-		"prefix": "u5"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "8268f03e-ce0b-40b3-9dee-843009d30d27",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725",
-			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
-		],
-		"description": "kennis over taken, rollen, rechten en plichten van burgers in de samenleving.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "3cc0986b-74e7-4567-9a7e-a7d785c14ad3",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725",
-			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
-		],
-		"description": "verkennen welke middelen kunnen worden ingeet om individueel en collectief bij te dragen aan maatschappelijke veranderingen.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "be328402-7ca7-4e92-9f40-04f8f9d19bbf",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725",
-			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
-		],
-		"description": "oriënteren op maatschappelijke initiatieven, bewegingen en organisaties.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "7cf63af2-1485-4a17-b2a9-98ecaa1e426a",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725",
-			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
-		],
-		"description": "benoemen en waarderen van de eigen bijdrage aan de samenleving in dagelijkse situaties.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "93bbc506-6817-4958-83b2-f3a705231368",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725",
-			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
-		],
-		"description": "verkennen van de eigen mogelijkheden om maatschappelijke betrokkenheid vorm te geven.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "5ac6b17f-022e-42b0-86e7-dd70457b6eb4",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"description": "aandacht besteden aan actualiteit en maatschappelijke vraagstukken in samenhang met verschillende leergebieden.",
-		"status": "concept",
-		"prefix": "u5"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "698d6e74-9b87-437d-a8dd-8511b8e81edc",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"description": "kennis over taken, rollen, rechten en plichten van burgers in de samenleving.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "dfa305d7-3311-4a30-8944-3c2915feb66b",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"description": "onderzoeken welke middelen kunnen worden ingezet om individueel en collectief bij te dragen aan maatschappelijke veranderingen.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "76a7328b-95b5-477e-9ea8-6787b7c31e32",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"description": "onderzoeken van de rol en betekenis van maatschappelijke initiatieven, bewegingen en organisaties.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "c44a0c45-b288-412a-a22c-b85fbf6d7751",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"description": "benoemen en waarderen van de eigen bijdrage aan de samenleving in dagelijkse situaties.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "2cb02474-7b77-432e-b87b-69adbe6730d4",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"description": "afwegingen maken van de eigen mogelijkheden om maatschappelijke betrokkenheid vorm te geven.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
 		"id": "e95c9170-dbe5-4dcd-8c9c-818774b8aa3e",
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303",
@@ -4130,682 +3850,6 @@
 		"status": "concept"
 	},
 	{
-		"title": "Het gaat hierbij om",
-		"id": "e5fe78cd-ec12-4158-8dc4-7d1ed113627a",
-		"niveau_id": [
-			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"description": "in aanraking laten komen met authentieke, vakoverstijgende, thematische contexten.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "68ba1c92-8603-4e5a-9d26-42468b801ea2",
-		"niveau_id": [
-			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"description": "in aanraking laten komen met teksten aansluitend bij de interesses of de actualiteit.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "e1a5d2cb-6839-4be6-b86c-55cfde1cadda",
-		"niveau_id": [
-			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"description": "aanbieden van kennis en vaardigheden uit het leergebied Nederlands in onderlinge samenhang.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "6d22cec3-b15a-4545-a8b4-7cd098a4b776",
-		"niveau_id": [
-			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"description": "stimuleren van de leesmotivatie en de durf om te spreken en te schrijven.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "8ec2c483-ec44-4d44-aa7b-7530f0875687",
-		"niveau_id": [
-			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"description": "ruimte bieden aan verschillende talen en taalvariëteiten van leerlingen.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "565318da-3c27-45d6-a833-5e1a7833b90b",
-		"niveau_id": [
-			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
-		],
-		"description": "in aanraking laten komen met authentieke, vakoverstijgende, thematische contexten.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "1c28d7f4-d91e-449c-91a2-e80178f1eb17",
-		"niveau_id": [
-			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
-		],
-		"description": "in aanraking laten komen met teksten aansluitend bij de interesses of de actualiteit.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "90fa10df-a6b2-4635-b31e-861f4c60cd4f",
-		"niveau_id": [
-			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
-		],
-		"description": "aanbieden van kennis en vaardigheden uit het leergebied Nederlands in onderlinge samenhang.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "a1d771dc-a3f6-4fc5-81a7-b3576467503f",
-		"niveau_id": [
-			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
-		],
-		"description": "stimuleren van de leesmotivatie en de durf om te spreken en te schrijven.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "c0db20d1-0741-4039-96cd-d472d2d68ba4",
-		"niveau_id": [
-			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
-		],
-		"description": "ruimte bieden aan verschillende talen en taalvariëteiten van leerlingen.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "4828790c-d2d0-4207-a8a2-54c68e779249",
-		"niveau_id": [
-			"bdc4744f-79df-4795-8795-2fee50c7416a"
-		],
-		"description": "in aanraking laten komen met authentieke, vakoverstijgende, thematische contexten.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "67c4daa7-ebe3-44f2-b434-7010e1a84bc5",
-		"niveau_id": [
-			"bdc4744f-79df-4795-8795-2fee50c7416a"
-		],
-		"description": "in aanraking laten komen met teksten aansluitend bij de interesses of de actualiteit.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "031099ce-72a1-4939-8d41-c931e9d1f9f1",
-		"niveau_id": [
-			"bdc4744f-79df-4795-8795-2fee50c7416a"
-		],
-		"description": "aanbieden van kennis en vaardigheden uit het leergebied Nederlands in onderlinge samenhang.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "7e77b911-8914-419e-91d4-5a5b86561663",
-		"niveau_id": [
-			"bdc4744f-79df-4795-8795-2fee50c7416a"
-		],
-		"description": "stimuleren van de leesmotivatie en de durf om te spreken en te schrijven.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "e1214e53-4de1-4544-8071-6f2ed47e9a41",
-		"niveau_id": [
-			"bdc4744f-79df-4795-8795-2fee50c7416a"
-		],
-		"description": "ruimte bieden aan verschillende talen en taalvariëteiten van leerlingen.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "589676b2-95ec-4d0d-861c-c4771dec8f0c",
-		"niveau_id": [
-			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"description": "gelegenheid bieden tot taalproductie in alle leergebieden.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "915ab136-2b86-4a32-b700-a902c6675983",
-		"niveau_id": [
-			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"description": "aanbieden van authentieke en uitdagende teksten die passen bij het leergebied.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "43f48856-5966-42d3-83ff-de5e1ebb4376",
-		"niveau_id": [
-			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"description": "aanbieden van activiteiten in betekenisvolle contexten.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "75120658-f2f6-498f-83ff-0820326c0d8d",
-		"niveau_id": [
-			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
-		],
-		"description": "gelegenheid bieden tot taalproductie in alle leergebieden en praktijkvakken.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "e56dcde2-52ec-4e72-ad63-f4292f5cda6e",
-		"niveau_id": [
-			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
-		],
-		"description": "aanbieden van authentieke en uitdagende teksten die passen bij het leergebied of praktijkvak.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "471db172-a7da-4b6c-8b0c-9eefc2087e03",
-		"niveau_id": [
-			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
-		],
-		"description": "aanbieden van activiteiten in betekenisvolle contexten.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "129946b9-bdf8-484e-97ad-336a7f1d663c",
-		"niveau_id": [
-			"bdc4744f-79df-4795-8795-2fee50c7416a"
-		],
-		"description": "gelegenheid bieden tot taalproductie in alle leergebieden en praktijkvakken.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "f4818979-c311-490f-9ec5-c8fae03b2519",
-		"niveau_id": [
-			"bdc4744f-79df-4795-8795-2fee50c7416a"
-		],
-		"description": "aanbieden van authentieke en uitdagende teksten die passen bij het leergebied of praktijkvak.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "6f0c5935-e26b-4cb1-b980-733d2ca0b438",
-		"niveau_id": [
-			"bdc4744f-79df-4795-8795-2fee50c7416a"
-		],
-		"description": "aanbieden van activiteiten in betekenisvolle contexten, waarin vakspecifieke taalvaardigheden en school- en vaktaal verworven kunnen worden.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "eeb49910-794a-404d-ab5e-cf5651cef3b3",
-		"niveau_id": [
-			"bdc4744f-79df-4795-8795-2fee50c7416a"
-		],
-		"description": "stimuleren van het inzetten van kennis over taal, teksten, tekststructuur en taalverzorging bij talige activiteiten in het leergebied of praktijkvak.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "1085bb36-fa2a-45fd-8e0d-5a8a1f048b21",
-		"niveau_id": [
-			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
-		],
-		"description": "inzetten en vergroten van woordenschat en kennis van alledaagse onderwerpen.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "08ac7668-4bdd-4789-8766-9bc85f3ac5f2",
-		"niveau_id": [
-			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
-		],
-		"description": "reageren op en waarderen van teksten.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "ff71ad81-ebc5-4bb0-9fed-ef2387e32af1",
-		"niveau_id": [
-			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"description": "formuleren van gesproken, geschreven en multimediale teksten, eventueel met inzet van ondersteunende communicatie en passend bij het communicatieve doel, een bekend publiek en herkenbare alledaagse contexten.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "c789b5d9-1ba5-4c1a-ab4e-51e807aeaedb",
-		"niveau_id": [
-			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"description": "schrijven met een leesbaar handschrift of typschrift en/of verstaanbaar spreken.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "9af85468-7a05-4723-b25e-06db2e9bb44d",
-		"niveau_id": [
-			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"description": "bepalen en evalueren van een spreek- en/of schrijfaanpak.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "239aa521-79c7-4ccc-a2eb-a3093fab5550",
-		"niveau_id": [
-			"bdc4744f-79df-4795-8795-2fee50c7416a"
-		],
-		"description": "formuleren van gesproken, geschreven en multimediale teksten, eventueel met inzet van ondersteunende communicatie en passend bij het communicatieve doel, een bekend publiek en herkenbare alledaagse contexten.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "bb23d22e-898a-4b1c-a948-f206aa3845eb",
-		"niveau_id": [
-			"bdc4744f-79df-4795-8795-2fee50c7416a"
-		],
-		"description": "zowel inzetten van als kennis vergroten over verteltechnieken, tekstkenmerken en -structuren, woordkeus, zinsbouw, taal- en schriftconventies, taalverzorging en tekstopmaak.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "cdf5052a-0fa7-4b2b-9d80-bee0ea1efd63",
-		"niveau_id": [
-			"bdc4744f-79df-4795-8795-2fee50c7416a"
-		],
-		"description": "schrijven op letter-, schrift- en tekstniveau met een leesbaar handschrift of typschrift, en/of verstaanbaar spreken.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "b508f3cf-35d5-47b0-8370-acd2cf832725",
-		"niveau_id": [
-			"bdc4744f-79df-4795-8795-2fee50c7416a"
-		],
-		"description": "bepalen en evalueren van een spreek- en/of schrijfaanpak.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "3430d19a-aacc-4f50-a435-c970d11e01b1",
-		"niveau_id": [
-			"bdc4744f-79df-4795-8795-2fee50c7416a"
-		],
-		"description": "verkennen van verschillende creatieve manieren van spreken, schrijven, of op een andere manier uitdrukken.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "9bd76c16-2a30-4c18-895d-f0a7f414c26f",
-		"niveau_id": [
-			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"description": "onderscheiden van realiteit en fictie.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "58c3c547-f140-489c-99ba-a82521930cf6",
-		"niveau_id": [
-			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"description": "herkennen van foutieve informatie.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "5d6c70be-1bcf-42ae-9e92-9d017a0d6759",
-		"niveau_id": [
-			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"description": "beoordelen en selecteren van informatie uit een aangereikte bron op bruikbaarheid.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "e8339a6c-3c95-4bf2-98e7-cdd1b4539c7c",
-		"niveau_id": [
-			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
-		],
-		"description": "onderscheiden van realiteit en fictie.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "05dd7190-2bbc-4bc8-945f-157fa37f5652",
-		"niveau_id": [
-			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
-		],
-		"description": "herkennen van foutieve informatie.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "42413aff-7791-4157-a4f9-fe32ed3636fe",
-		"niveau_id": [
-			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
-		],
-		"description": "beoordelen en selecteren van informatie uit een aangereikte bron op bruikbaarheid.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "d8899560-9978-47ca-9a8b-5fa2629e1c50",
-		"niveau_id": [
-			"bdc4744f-79df-4795-8795-2fee50c7416a"
-		],
-		"description": "inschatten van betrouwbaarheid op basis van duidelijk aanwezige kenmerken van de bron: maker, communicatief doel en actualiteit.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "19d1f204-fcad-4a2e-b780-cc53349a07a8",
-		"niveau_id": [
-			"bdc4744f-79df-4795-8795-2fee50c7416a"
-		],
-		"description": "toekennen van waarde aan de inhoud van de bron en onderscheiden hoofd- en bijzaken, feiten en meningen.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "77d23260-7e8a-470b-aca0-9977348023f3",
-		"niveau_id": [
-			"bdc4744f-79df-4795-8795-2fee50c7416a"
-		],
-		"description": "vergelijken van soorten aangereikte bronnen in allerlei verschijningsvormen op basis van bruikbaarheid en inhoud.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "1cb404a7-b51c-421c-a1c4-2636d7502ddf",
-		"niveau_id": [
-			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"description": "verwoorden van gedachten en waarnemingen bij de uitvoering van een taalactiviteit.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "019791ac-6e14-4cc9-919b-a2d9fb29193c",
-		"niveau_id": [
-			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
-		],
-		"description": "verwoorden van gedachten en waarnemingen bij de uitvoering van een taalactiviteit.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "8143b1d4-1cc7-44f6-947b-a9c6b0d76eca",
-		"niveau_id": [
-			"bdc4744f-79df-4795-8795-2fee50c7416a"
-		],
-		"description": "formuleren van leerdoelen voor taalactiviteiten op basis van evaluatie en relectie.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "02f55c0e-128d-4cf9-943b-01c84cb64081",
-		"niveau_id": [
-			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"description": "constructief laten verlopen van on- en offline gesprekken.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "db7baf21-3ce3-456b-a3ab-10d7a0bec71e",
-		"niveau_id": [
-			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
-		],
-		"description": "constructief laten verlopen van on- en offline gesprekken.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "b9c423ef-4cce-4c39-8a57-44fddbe17c45",
-		"niveau_id": [
-			"bdc4744f-79df-4795-8795-2fee50c7416a"
-		],
-		"description": "constructief laten verlopen van on- en offline gesprekken.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "2e0e09b4-458e-4c94-9e74-fc103b4cf32c",
-		"niveau_id": [
-			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"description": "laten zien van het nut en de kracht van rekenen en wiskunde in toepassingen.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "fad7a751-99a1-4835-97f3-16215706d285",
-		"niveau_id": [
-			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"description": "stimuleren van een onderzoekende houding ten aanzien van getallen en andere wiskundige concepten.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "ef8326aa-81d8-43a0-8fc5-9cf9de026acf",
-		"niveau_id": [
-			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"description": "stimuleren om te reflecteren op eigen rekenwijze en overig wiskundig handelen.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "e9b09304-d8a2-40c2-9def-391f46236eb2",
-		"niveau_id": [
-			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"description": "stimuleren van transfer van kennis, inzichten en vaardigheden bij het toepassen van wiskundige concepten en wiskundige denk/werkwijzen.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "26bfd8e8-4578-4c88-bbd6-3b7970366124",
-		"niveau_id": [
-			"bdc4744f-79df-4795-8795-2fee50c7416a"
-		],
-		"description": "laten zien van het nut en de kracht van rekenen en wiskunde in toepassingen.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "e6f5370c-2d15-4e06-a010-5769d34e9357",
-		"niveau_id": [
-			"bdc4744f-79df-4795-8795-2fee50c7416a"
-		],
-		"description": "stimuleren van een onderzoekende houding ten aanzien van getallen en andere wiskundige concepten.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "8e2f25ad-e58a-493d-a3a2-ba06e9994961",
-		"niveau_id": [
-			"bdc4744f-79df-4795-8795-2fee50c7416a"
-		],
-		"description": "stimuleren om te reflecteren op eigen rekenwijze en overig wiskundig handelen.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "d7ff0e3b-1178-4283-9219-2859f7c2ef66",
-		"niveau_id": [
-			"bdc4744f-79df-4795-8795-2fee50c7416a"
-		],
-		"description": "stimuleren van transfer van kennis, inzichten en vaardigheden bij het toepassen van wiskundige concepten en wiskundige denk/werkwijzen.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "45813c85-231f-4ce3-8ca9-2aaf16c0e1b7",
-		"niveau_id": [
-			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
-		],
-		"description": "laten zien van het nut en de kracht van rekenen en wiskunde in toepassingen.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "28dd0454-1900-44b4-acca-065fcd58ace0",
-		"niveau_id": [
-			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
-		],
-		"description": "stimuleren van een onderzoekende houding ten aanzien van getallen en andere wiskundige concepten.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "e93d1f52-d08a-40db-9605-26e78b871892",
-		"niveau_id": [
-			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
-		],
-		"description": "stimuleren om te reflecteren op eigen rekenwijze en overig wiskundig handelen.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "5878db1f-d26b-454c-9e5a-6731ab8c3b20",
-		"niveau_id": [
-			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
-		],
-		"description": "stimuleren van transfer van kennis, inzichten en vaardigheden bij het toepassen van wiskundige concepten en wiskundige denk/werkwijzen.",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "reflecteren op gebruik van genrekenmerken in relatie tot het communicatieve doel.",
-		"prefix": "u3",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59",
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"id": "831e87f9-3541-447f-adf8-07fcda41269c",
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "lezen, bekijken of beluisteren van literatuur uit verschillende tijden.",
-		"prefix": "u1",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"id": "923e1f30-3ad5-4e6b-ab21-825f3aa3b6c9",
-		"status": "concept"
-	},
-	{
-		"description": "analyseren van de mate van onzekerheid in aannames en uitkomsten van een model.",
-		"prefix": "u2",
-		"id": "32b5b29e-93ca-4069-b50f-4f4d9c81f6ff",
-		"niveau_id": [
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "beschrijven hoe nieuwe situaties leiden tot een beperktheid van een gebruikt model en ontwikkeling van een ander model.",
-		"prefix": "u3",
-		"id": "26cfe21f-cac6-4d28-a80f-b9cb52c8bdb7",
-		"niveau_id": [
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "benoemen van de impact van modellen op de samenleving.",
-		"prefix": "u4",
-		"id": "3ed1ef50-7732-4081-a40a-72bbf8d95e7f",
-		"niveau_id": [
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "evalueren van geldigheid, onzekerheid en veranderlijkheid van een model.",
-		"prefix": "u5",
-		"id": "86bd85b6-afa5-47a3-92e0-9c291e885e1b",
-		"niveau_id": [
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "beschrijven hoe de mens invloed heeft op het natuurlijk systeem.",
-		"prefix": "u5",
-		"id": "4ac12eaf-3962-4bdc-a4be-d758dd54102e",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "combineren van informatie tot een consistent verhaal over een historische gebeurtenis.",
-		"prefix": "u5",
-		"id": "e2e63a19-64b4-463e-9751-d1d790290b8e",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725",
-			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "redeneren over betrouwbaarheid en bruikbaarheid van de bron.",
-		"prefix": "u4",
-		"id": "c6fddd8c-bfd6-4fd4-a591-cdd74992d059",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "combineren van informatie uit en over verschillende bronnen tot een consistent verhaal over historische gebeurtenissen en ontwikkelingen.",
-		"prefix": "u5",
-		"id": "e40c886f-6598-4a61-b70a-f4b526850d85",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "verwoorden van eigen artistieke voorkeuren.",
-		"prefix": "u5",
-		"id": "d5aac5bb-3a6b-4241-aa47-f83d7a42330e",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725",
-			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
 		"description": "combineren van geschikte zoekhulpmiddelen, zoekopdrachten en zoekstrategieën",
 		"prefix": "u2",
 		"id": "cc2d1de2-1466-478d-acbf-b74be6d99678",
@@ -6104,16 +5148,6 @@
 		"status": "concept"
 	},
 	{
-		"description": "reflecteren op de inhoud van bronnen.",
-		"prefix": "u5",
-		"id": "8f29f67a-ef38-468f-afe5-26482922ff7a",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
 		"description": "inzetten van non-verbale en visuele communicatie die het communicatieve doel ondersteunt.",
 		"prefix": "u5",
 		"id": "48e460de-46a3-4caf-bd44-2f2170fdb36e",
@@ -6147,26 +5181,6 @@
 		"description": "toepassen van gespreks- en taalconventies.",
 		"prefix": "u5",
 		"id": "3db399bd-6028-44fa-9d7f-b1298240fc7d",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "verbanden leggen tussen kenmerken van de Friese taal en verwante talen en variëteiten.",
-		"prefix": "u4",
-		"id": "c9172a93-8e08-418c-9683-f11c470b2b75",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "benoemen van verschillen en overeenkomsten tussen de positie van het Fries in Nederland en de positie van andere minderheidstalen in landen in West-Europa.",
-		"prefix": "u4",
-		"id": "1a7c4e7b-abb3-4770-9b3a-b20211f2ab06",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
@@ -6284,49 +5298,9 @@
 		"status": "concept"
 	},
 	{
-		"description": "conclusies trekken over de communicatieve boodschap.",
-		"prefix": "u2",
-		"id": "7a30eeee-a8aa-4b83-9714-ab52deef6767",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
 		"description": "evalueren van de opbrengst en het verloop van een zoekactie.",
 		"prefix": "u4",
 		"id": "36a38015-6728-4bfe-a8d0-2f8e6e8cefd6",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "conclusies trekken over overeenkomsten en verschillen.",
-		"prefix": "u4",
-		"id": "368a6a74-0b50-4873-bcd8-6597b4ef8976",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "verklaren van overeenkomsten en verschillen.",
-		"prefix": "u5",
-		"id": "b58ee75b-11b0-47c5-8e2c-459a35368902",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "conclusies trekken over overeenkomsten en verschillen.",
-		"prefix": "u4",
-		"id": "545a2cd7-8158-4fc1-a333-8d12ea0e8ef3",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
@@ -11052,1046 +10026,6 @@
 		"id": "573dcd6c-514b-437d-bc8c-deaffcc49429",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "lezen van, kijken naar en luisteren naar informatieve en amuserende bronnen in verschillende vormen en over diverse thema's.",
-		"prefix": "u1",
-		"id": "49ac5901-2d7f-4c5b-9604-a2c52f4c37ee",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "verwoorden van de eigen lees-, luister- en kijkervaringen.",
-		"prefix": "u2",
-		"id": "0837748c-b35c-4e38-8a58-b9e283f57cb3",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "verbanden leggen met het eigen leerproces.",
-		"prefix": "u3",
-		"id": "f11b2518-8b58-472d-8d21-d73bb3629548",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "verwoorden van ideeën, gedachten, ervaringen en gevoelens.",
-		"prefix": "u1",
-		"id": "ac32eb60-9379-4862-8944-fd1f5ab0fc12",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "experimenteren met klanken, woorden en zinnen.",
-		"prefix": "u2",
-		"id": "6683ac85-934e-4d04-bd4e-aeb365547b80",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "verwoorden van gemaakte keuzes en eigen voorkeuren met betrekking tot inhoud en vorm.",
-		"prefix": "u3",
-		"id": "f40e36bb-ce9c-45e1-bcf1-b606c5d4b5a9",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "zeer korte, eenvoudige, langzaam en zorgvuldig uitgesproken multimediale bronnen.",
-		"prefix": "u1",
-		"id": "e517db1d-52ff-453a-b147-d367cf38f38e",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "concrete en vertrouwde, alledaagse zaken.",
-		"prefix": "u2",
-		"id": "9aac3af2-1135-4373-850b-58dbb6e7da1e",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "herkennen van conventies.",
-		"prefix": "u3",
-		"id": "333e1f26-3c11-4e64-9409-d3969ba8f443",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "overbrengen van de globale boodschap en voorspelbare informatie uit de bronnen.",
-		"prefix": "u4",
-		"id": "95a78e39-ab4a-4a03-8747-7469f0794b5c",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "zeer korte, eenvoudige teksten.",
-		"prefix": "u1",
-		"id": "27880a23-347c-458c-a071-417c54ebb6b0",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "concrete en vertrouwde alledaagse zaken.",
-		"prefix": "u2",
-		"id": "ff3caecb-91e9-4e0f-9792-0e5cd308f3d0",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "herkennen van conventies.",
-		"prefix": "u3",
-		"id": "b7572bd3-7e38-43ba-a5d1-4ebfd92e9d2b",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "overbrengen van de globale boodschap en voorspelbare informatie uit de bronnen.",
-		"prefix": "u4",
-		"id": "1cdbba27-8cd8-47c2-a871-722ad3ed1669",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "kort en eenvoudig beschrijven van concrete en eenvoudige alledaagse zaken.",
-		"prefix": "u1",
-		"id": "004afd42-80ac-4ae3-b8b6-ca00662266d9",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "inzetten van passend taalgebruik en communicatievorm.",
-		"prefix": "u2",
-		"id": "529dc760-0423-4f60-bdb0-4d8d932e9f28",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "gebruiken van elementaire bewoordingen.",
-		"prefix": "u3",
-		"id": "ef03248d-5695-465b-b5e1-1035a38ae744",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "offline en online mondelinge interactie over zeer vertrouwde basisbehoeften.",
-		"prefix": "u1",
-		"id": "7fd74989-a78a-4a9a-a62a-3470ae05b0e3",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "uitwisselen van elementaire, persoonlijke en feitelijke informatie in informele sociale contacten.",
-		"prefix": "u2",
-		"id": "d255ddb2-81ed-4c23-9f31-d653df99bb9e",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "afstemmen van taalgebruik en non-verbale communicatie op socioculturele gebruiken.",
-		"prefix": "u3",
-		"id": "b4fd4a2e-1045-4797-9bd6-226716e8de07",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "gebruiken van elementaire bewoordingen.",
-		"prefix": "u4",
-		"id": "0b19110d-f3c8-4301-946f-456513e7579f",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "vergelijken van kenmerken op klank-, woord- en zinsniveau in het Duits en andere talen die de leerling kent, in bronnen die passend zijn bij het beheersingsniveau van de leerling.",
-		"prefix": "u1",
-		"id": "53842473-a748-4634-9706-d8b3941d593a",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "verbanden leggen tussen de vergeleken talen.",
-		"prefix": "u2",
-		"id": "34c12fa8-aaa1-4d43-bdf7-e25815cb4257",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "evalueren wat werkt in het eigen taalleerproces.",
-		"prefix": "u1",
-		"id": "1346f025-cf2c-4b23-b38e-2d807ec3e3c6",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "conclusies trekken over passende aanpakken voor het leren van een taal.",
-		"prefix": "u2",
-		"id": "ffaf8139-9baa-4942-a1e2-88253d9e2219",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "verwoorden van de eigen taalleervoorkeuren aan de hand van relevante voorbeelden.",
-		"prefix": "u3",
-		"id": "6cf99696-7952-42fa-be3c-828b48b5a562",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "verkennen van de relatie tussen het meertalige repertoire en de eigen identiteit.",
-		"prefix": "u1",
-		"id": "aa922083-4973-4224-8871-fb99ad3af35b",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "waarderen van het eigen meertalige repertoire en dat van anderen.",
-		"prefix": "u2",
-		"id": "b726daec-1c67-4a63-8f87-1c40c441c9d6",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "verbanden leggen tussen de inzet van het eigen meertalige repertoire en het leren van andere talen.",
-		"prefix": "u3",
-		"id": "d1f0cc59-de33-40ec-9a1e-9fb25d6411b8",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "verbanden leggen tussen de inzet van het eigen meertalige repertoire en de bevordering van de communicatie.",
-		"prefix": "u4",
-		"id": "deeff52a-251d-407f-902a-3958a82462e8",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "experimenteren met digitale hulpmiddelen om teksten in het Duits te begrijpen.",
-		"prefix": "u1",
-		"id": "936a9fc1-d081-466d-8843-072fcdad4687",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "experimenteren met digitale hulpmiddelen om output in het Duits te genereren.",
-		"prefix": "u2",
-		"id": "325c14cb-1bf0-4b5a-98c7-30792d355584",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "evalueren van gegenereerde output in relatie tot doel, publiek en context.",
-		"prefix": "u3",
-		"id": "4de862a7-d04f-42b5-b804-f041c7309e3d",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "verkennen van de betekenis, relevantie en rol van het Duits in de maatschappij.",
-		"prefix": "u1",
-		"id": "914e9958-b7e8-4346-8f16-7a3e81b109cf",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "oriënteren op sectoren, beroepen en vervolgopleidingen waarin de kennis van en vaardigheden in de Duitse taal en cultuur relevant zijn.",
-		"prefix": "u2",
-		"id": "03db6eaa-68d7-40e6-acc7-92c776fd9507",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "deelnemen aan activiteiten gerelateerd aan het vak Duitse taal en cultuur.",
-		"prefix": "u3",
-		"id": "9e10476e-77c9-4cd3-9c65-442d99d452b6",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "verwoorden van de eigen kwaliteiten en interesses passend bij het vak Duitse taal en cultuur.",
-		"prefix": "u4",
-		"id": "6d00e58e-f38b-499d-8a69-247198050d38",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "reflecteren op opgedane ervaringen in het kader van oriëntatie op leren en werken.",
-		"prefix": "u5",
-		"id": "f2f22a10-9cc5-4af1-a964-1249c3d86ba0",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "uitdagende inhoud en toegankelijk taalniveau, waar nodig met ondersteuning van vertaling/ondertiteling.",
-		"prefix": "u1",
-		"id": "966f4967-1a78-4ec1-91ae-529c5f697f9a",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "verwoorden van de eigen lees-, luister- en kijkervaringen.",
-		"prefix": "u2",
-		"id": "6ec0a193-9de3-4f1f-9f94-d3bcd4e57f53",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "verwoorden van de eigen keuzes aan de hand van relevante voorbeelden.",
-		"prefix": "u3",
-		"id": "cda78cc1-75f9-4598-a8f8-4350a9670654",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "beschrijven van tradities, gebruiken en maatschappelijke verschijnselen in bronnen en in voorwerpen.",
-		"prefix": "u1",
-		"id": "6fe1b0fd-3f03-41cb-b274-ddaf88fce45d",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "vergelijken met de eigen leefwereld.",
-		"prefix": "u2",
-		"id": "89aa03df-140f-475b-8e26-340166106ed6",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "conclusies trekken over de betekenis van culturele kenmerken in nieuwe bronnen.",
-		"prefix": "u3",
-		"id": "1230fd60-3904-4223-aaab-bd58132f5be5",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "beschrijven van cultureel bepaalde normen en gewoonten in diverse vormen van input en situaties.",
-		"prefix": "u1",
-		"id": "2e520e1d-5d37-43bf-88cd-800813123374",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "beschrijven hoe verschillen in gewoontes en gebruiken de communicatie in dagelijkse, opleidings- en beroepssituaties kunnen beïnvloeden.",
-		"prefix": "u2",
-		"id": "c958ec47-d8c0-4fd0-abc1-7b4661e5aaab",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "verbanden leggen tussen de waargenomen cultuurgebonden aspecten en eigen perspectieven en standpunten.",
-		"prefix": "u3",
-		"id": "30391072-5ebd-4989-9736-5d53b51ee475",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "conclusies trekken over hoe je stereotypering en misverstanden in de communicatie kunt voorkomen.",
-		"prefix": "u4",
-		"id": "3f769fef-7bdb-4c27-a669-079ba67a4a62",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "lezen van, kijken naar en luisteren naar informatieve en amuserende bronnen in verschillende vormen, in verschillende taalvariëteiten en over diverse thema's.",
-		"prefix": "u1",
-		"id": "cc064874-50be-4bea-b6ec-8f758cca1cc9",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "verwoorden van de eigen lees-, luister- en kijkervaringen.",
-		"prefix": "u2",
-		"id": "c99e1f03-f94f-4b28-89ca-44f5e0b62c1a",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "verbanden leggen met het eigen leerproces.",
-		"prefix": "u3",
-		"id": "ab84494f-426a-43ea-885c-65c26580c662",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "verwoorden van ideeën, gedachten, ervaringen en gevoelens.",
-		"prefix": "u1",
-		"id": "0aa915c3-740d-446b-8fc2-f404dfce94a1",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "experimenteren met klanken, woorden en teksten en met verschillende stijlen.",
-		"prefix": "u2",
-		"id": "92a05268-a8ee-41c7-813f-058652244c6f",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "verkennen van verschillende creatieve vormen.",
-		"prefix": "u3",
-		"id": "97af6ad9-f7ca-49ae-ae84-3ff07d0a434e",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "verwoorden van gemaakte keuzes en eigen voorkeuren met betrekking tot inhoud en vorm.",
-		"prefix": "u4",
-		"id": "68838a0d-ad85-42f3-a7b2-f5b117b663c7",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "korte, eenvoudige, langzaam en helder gearticuleerde multimediale bronnen.",
-		"prefix": "u1",
-		"id": "8f904e06-6107-4b30-9447-76eadb3a1d43",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "concrete en vertrouwde, alledaagse zaken.",
-		"prefix": "u2",
-		"id": "1ae95333-cf3c-4adb-86fb-7458b6693aa7",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "herkennen van conventies.",
-		"prefix": "u3",
-		"id": "f166309c-b43d-480c-a5b4-17b4d63750c5",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "overbrengen van de globale boodschap en de belangrijkste informatie uit de bronnen.",
-		"prefix": "u4",
-		"id": "bd5eb4dd-034d-4588-b3a7-8799e030739e",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "korte, eenvoudige teksten van verschillende soorten en met verschillende doelen.",
-		"prefix": "u1",
-		"id": "c1791727-a38e-4313-9287-5af97e790ef2",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "concrete en vertrouwde alledaagse zaken.",
-		"prefix": "u2",
-		"id": "1be4c13e-16db-4f27-a999-88d20f877ba8",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "herkennen van conventies.",
-		"prefix": "u3",
-		"id": "9ea31b80-72f5-4572-89a1-317550a83453",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "overbrengen van de globale boodschap en de belangrijkste informatie uit de bronnen.",
-		"prefix": "u4",
-		"id": "03396350-d9f2-4f2a-a5cb-d225ae72bec7",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "kort en eenvoudig beschrijven van concrete en eenvoudige alledaagse zaken.",
-		"prefix": "u1",
-		"id": "16fe3e2b-0ef9-4a32-9b3e-9c7a5b674cc7",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "inzetten van passend taalgebruik en communicatievorm.",
-		"prefix": "u2",
-		"id": "2536eda5-2e41-4935-b9d0-19ff31517515",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "gebruiken van elementaire bewoordingen.",
-		"prefix": "u3",
-		"id": "88bcac4d-0608-4799-b9df-b32590fdc8dd",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "offline en online mondelinge interactie over zeer vertrouwde basisbehoeften.",
-		"prefix": "u1",
-		"id": "474a3e44-7f60-4caf-9b80-d3f5d999da32",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "uitwisselen van elementaire, persoonlijke en feitelijke informatie in informele sociale contacten.",
-		"prefix": "u2",
-		"id": "efb99311-a5d1-4ded-a56e-8111a13d9676",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "afstemmen van taalgebruik en non-verbale communicatie op socioculturele gebruiken.",
-		"prefix": "u3",
-		"id": "1b65f04c-578c-46ed-9d7a-9bc1a44eb2bc",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "gebruiken van elementaire bewoordingen.",
-		"prefix": "u4",
-		"id": "1cb6664a-9e15-4fef-9bac-2d46ebe23504",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "uitwisselen van informatie in korte en eenvoudige, informele, schriftelijke offline en online interactie over zeer vertrouwde basisbehoeften.",
-		"prefix": "u1",
-		"id": "6fc76d74-0375-44a4-a741-2e3c70c38db5",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "afstemmen van taalgebruik op socioculturele gebruiken.",
-		"prefix": "u2",
-		"id": "7c9f6c04-502f-4f72-b2ce-cfe0ac011323",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "gebruiken van zeer elementaire bewoordingen, indien van toepassing met behulp van digitale middelen.",
-		"prefix": "u3",
-		"id": "7fb12e24-06fa-4064-b942-8794ea361e1e",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "vergelijken van kenmerken op klank-, woord- en zinsniveau in het Duits en andere talen die de leerling kent, in bronnen die passend zijn bij het beheersingsniveau van de leerling.",
-		"prefix": "u1",
-		"id": "42b3989e-ac33-4740-9589-200aa8733b8b",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "verbanden leggen tussen de vergeleken talen.",
-		"prefix": "u2",
-		"id": "2e76ceba-d798-4bab-a254-3ee2d8bc5908",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "evalueren wat werkt in het eigen taalleerproces.",
-		"prefix": "u1",
-		"id": "62e8ddb8-cc01-42e2-9334-3cb83d165653",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "conclusies trekken over passende aanpakken voor het leren van een taal.",
-		"prefix": "u2",
-		"id": "1ded1aa7-2a43-4511-815f-56bcafc4511b",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "verwoorden van de eigen taalleervoorkeuren aan de hand van relevante voorbeelden.",
-		"prefix": "u3",
-		"id": "7c9a10c9-0b42-483e-9f42-daada0f2fee9",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "verkennen van de relatie tussen het meertalige repertoire en de eigen identiteit.",
-		"prefix": "u1",
-		"id": "17bfaf1d-f302-4113-8fcd-ba54cf382fd6",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "waarderen van het eigen meertalige repertoire en dat van anderen.",
-		"prefix": "u2",
-		"id": "a406bb61-b052-4ce9-9acf-71b843964796",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "verbanden leggen tussen de inzet van het eigen meertalige repertoire en het leren van andere talen.",
-		"prefix": "u3",
-		"id": "033fb58e-3fa5-47b0-9d6b-9c5a96390130",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "verbanden leggen tussen de inzet van het eigen meertalige repertoire en de bevordering van de communicatie.",
-		"prefix": "u4",
-		"id": "d2fd85ae-bc72-4a82-a597-448dc3713494",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "experimenteren met digitale hulpmiddelen om teksten in het Duits te begrijpen.",
-		"prefix": "u1",
-		"id": "b5e4c34b-ec17-4b9f-ac22-f741d45b1d0c",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "experimenteren met digitale hulpmiddelen om output in het Duits te genereren.",
-		"prefix": "u2",
-		"id": "d56c4db2-f7aa-4eed-ae3a-9af2bb129a51",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "evalueren van gegenereerde output in relatie tot doel, publiek en context.",
-		"prefix": "u3",
-		"id": "d654108d-7845-4125-89a1-7b0016d8e9ce",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "verkennen van de betekenis, relevantie en rol van het Duits in de maatschappij.",
-		"prefix": "u1",
-		"id": "9036cce3-ad9d-4b93-9984-750214ee82b6",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "oriënteren op sectoren, beroepen en vervolgopleidingen waarin de kennis van en vaardigheden in de Duitse taal en cultuur relevant zijn.",
-		"prefix": "u2",
-		"id": "64faa8cd-b832-42e2-b4f9-6d103327c455",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "deelnemen aan activiteiten gerelateerd aan het vak Duitse taal en cultuur.",
-		"prefix": "u3",
-		"id": "a0df8747-a6e3-417d-b917-e60d9365fafa",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "verwoorden van de eigen kwaliteiten en interesses passend bij het vak Duitse taal en cultuur.",
-		"prefix": "u4",
-		"id": "a20a3060-6cd1-4dd2-b319-73da7c1ae21b",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "reflecteren op opgedane ervaringen in het kader van oriëntatie op leren en werken.",
-		"prefix": "u5",
-		"id": "f7b7f5b5-7f2a-47ac-a3cf-bc14cf34f1cb",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "fictie uit verschillende contexten.",
-		"prefix": "u1",
-		"id": "4ba13a48-3c28-4f71-9608-de884ce1f929",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "uitdagende inhoud en toegankelijk taalniveau, waar nodig met ondersteuning van vertaling/ondertiteling.",
-		"prefix": "u2",
-		"id": "7ec35701-311a-4a5c-9cec-e8f00ace3e2b",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "verwoorden van de eigen lees-, luister- en kijkervaringen.",
-		"prefix": "u3",
-		"id": "cd4af62c-f5f5-44a7-8ff2-37c6100fe359",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "verwoorden van de eigen keuzes aan de hand van relevante voorbeelden.",
-		"prefix": "u4",
-		"id": "a432b156-9af4-4729-9871-93273b8b73a0",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "vormen van fictie die oorspronkelijk in het Duits zijn geschreven of gemaakt.",
-		"prefix": "u1",
-		"id": "87868974-743a-44ad-a9e1-0cd8e5c71e97",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "beschrijven van herkenbare thema’s, verhaallijnen en kenmerken van personages en hun ontwikkeling.",
-		"prefix": "u2",
-		"id": "a9377569-facb-4191-9790-c52a7bfe44d2",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "verbanden leggen tussen inhoud en context van fictie en de eigen leefwereld en ervaringen.",
-		"prefix": "u3",
-		"id": "4d114127-b103-4ae5-bab6-76388f19e595",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "beschrijven van tradities, gebruiken en maatschappelijke verschijnselen in bronnen en in voorwerpen.",
-		"prefix": "u1",
-		"id": "8e74d3c7-920d-490d-87ca-afff1700b408",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "vergelijken met de eigen leefwereld.",
-		"prefix": "u2",
-		"id": "00df5f7f-869f-4ca2-a61e-c23fc3639c22",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "conclusies trekken over de betekenis van culturele kenmerken in nieuwe bronnen.",
-		"prefix": "u3",
-		"id": "469e2d2b-1566-4db7-bcd8-c1c7089bc36a",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "beschrijven van cultureel bepaalde normen, overtuigingen en gewoonten in diverse vormen van input en situaties.",
-		"prefix": "u1",
-		"id": "ed7e68cc-0a97-40db-99a3-73086ae5ec5d",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "beschrijven hoe culturele kenmerken de communicatie in dagelijkse, opleidings- en beroepssituaties kunnen beïnvloeden.",
-		"prefix": "u2",
-		"id": "acdad46e-ccce-41be-9927-c5a14aa8392b",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "verbanden leggen tussen de waargenomen cultuurgebonden aspecten en eigen perspectieven en standpunten.",
-		"prefix": "u3",
-		"id": "5f56d632-87c3-46c5-88d4-944b5d69f214",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "conclusies trekken over hoe je stereotypering en misverstanden in de communicatie kunt voorkomen.",
-		"prefix": "u4",
-		"id": "1aee36c0-5bb0-4ac5-b97f-a7806d84df87",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"title": "Het gaat hierbij om",
 		"status": "concept"
@@ -55129,26 +53063,6 @@
 		"status": "concept"
 	},
 	{
-		"description": "inzicht tonen in de structuur van algebraïsche uitdrukkingen.",
-		"prefix": "u1",
-		"id": "ec180ed4-3148-4d69-8172-49c19d117649",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "analyseren van eenheden.",
-		"prefix": "u1",
-		"id": "d5aeffd5-ad7f-4f90-b428-e4c7ad1d26ab",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
 		"description": "beargumenteren welke verwerking en karakterisering van data geschikt is.",
 		"prefix": "u3",
 		"id": "a9dda876-47cd-4af7-9779-70732597f592",
@@ -55232,16 +53146,6 @@
 		"description": "vertalen van dagelijkse taal naar vaktaal en andersom.",
 		"prefix": "u4",
 		"id": "e2d8ddbb-caf7-4266-9f3b-433b4b957b23",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "deelnemen aan samenwerkingsvormen.",
-		"prefix": "u2",
-		"id": "ba065c1a-ed70-49bc-9f8a-026554b10d55",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
@@ -55419,16 +53323,6 @@
 		"status": "concept"
 	},
 	{
-		"description": "verslag doen van onderzoeksmethoden en resultaten.",
-		"prefix": "u5",
-		"id": "2d969092-2fc4-46d3-b69b-f8f6aba7989b",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
 		"description": "streven naar compressie van concepten en procedures.",
 		"prefix": "u5",
 		"id": "9e30133d-b10d-4064-8d36-84c61d498e60",
@@ -55482,16 +53376,6 @@
 		"description": "schattend rekenen.",
 		"prefix": "u4",
 		"id": "fe5558b4-17e5-4e82-9136-43746ab8f970",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "uitvoeren van eenhedenanalyse in een verband tussen grootheden.",
-		"prefix": "u4",
-		"id": "a3b940ed-6874-45f9-8d47-d7b3a86bee19",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
@@ -55679,16 +53563,6 @@
 		"status": "concept"
 	},
 	{
-		"description": "verslag doen van onderzoeksmethoden en resultaten.",
-		"prefix": "u5",
-		"id": "0d7db6bb-9edc-4651-94c5-5e18f45b0391",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
 		"description": "streven naar compressie van concepten en procedures.",
 		"prefix": "u5",
 		"id": "edd53dbf-5a61-4a23-81e0-6999a7c92965",
@@ -55742,16 +53616,6 @@
 		"description": "schattend rekenen.",
 		"prefix": "u4",
 		"id": "5dfcc301-ff7a-4f5a-bb77-2351326646e6",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "uitvoeren van eenhedenanalyse in een verband tussen grootheden.",
-		"prefix": "u4",
-		"id": "68853994-bc75-46f5-985b-3368afe10865",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
@@ -55822,26 +53686,6 @@
 		"description": "onderzoeken van de relatie tussen een differentievergelijking en een webgrafiek.",
 		"prefix": "u5",
 		"id": "66005439-2fc6-4185-ae25-ca623e99efc7",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "analyseren van parameterfamilies van functies.",
-		"prefix": "u4",
-		"id": "16a90ff8-a546-4b59-9fb9-7e12fd9a138e",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "analyseren van veranderingsgedrag in een optimaliseringsprobleem met behulp van de eerste afgeleide.",
-		"prefix": "u5",
-		"id": "fd467a23-1c6f-452e-9fc2-783d67f1e3d4",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
@@ -55989,16 +53833,6 @@
 		"status": "concept"
 	},
 	{
-		"description": "verslag doen van onderzoeksmethoden en resultaten.",
-		"prefix": "u5",
-		"id": "ac22d0ca-cfb4-4196-b4ea-dc5e0bce5c35",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
 		"description": "streven naar compressie van concepten en procedures.",
 		"prefix": "u5",
 		"id": "9c56c02a-52d7-42ae-9aa8-3ec991ad0c33",
@@ -56059,16 +53893,6 @@
 		"status": "concept"
 	},
 	{
-		"description": "uitvoeren van eenhedenanalyse in een verband tussen grootheden.",
-		"prefix": "u4",
-		"id": "425f4a14-02e2-4c59-9d3e-315fd123cd27",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
 		"description": "beoordelen van representativiteit, validiteit en betrouwbaarheid.",
 		"prefix": "u4",
 		"id": "630f52df-5aeb-4e72-b523-8e48fe640cb1",
@@ -56112,16 +53936,6 @@
 		"description": "vertalen van en naar representaties van functies: beschrijving, tabel, grafiek en formule.",
 		"prefix": "u4",
 		"id": "e36b252b-0931-439a-a602-438b2aaffb69",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "redeneren over veranderingsgedrag van functies met behulp van de eerste afgeleide.",
-		"prefix": "u4",
-		"id": "7cc9acf8-640f-4907-ba8c-1b09aa6b798e",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
@@ -56259,16 +54073,6 @@
 		"status": "concept"
 	},
 	{
-		"description": "verslag doen van onderzoeksmethoden en resultaten.",
-		"prefix": "u5",
-		"id": "c1f1587e-edef-4244-a013-b1a8fbeec278",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
 		"description": "streven naar compressie van concepten en procedures.",
 		"prefix": "u5",
 		"id": "16edaf2b-e67f-49fc-92dd-6a4c2b77f01d",
@@ -56322,16 +54126,6 @@
 		"description": "schattend rekenen.",
 		"prefix": "u4",
 		"id": "02bd795f-ca9e-44ae-bec3-dbbd6ae460b7",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "uitvoeren van eenhedenanalyse in een verband tussen grootheden.",
-		"prefix": "u4",
-		"id": "9a51874c-7516-4533-98f5-a09accd98190",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
@@ -56529,16 +54323,6 @@
 		"status": "concept"
 	},
 	{
-		"description": "verslag doen van onderzoeksmethoden en resultaten.",
-		"prefix": "u5",
-		"id": "f2e422f4-3b77-4d4c-beaa-60d45b6f7a51",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
 		"description": "streven naar compressie van concepten en procedures.",
 		"prefix": "u5",
 		"id": "8ebc4b7f-1dbe-4eae-ae82-056cfab947c1",
@@ -56599,16 +54383,6 @@
 		"status": "concept"
 	},
 	{
-		"description": "uitvoeren van eenhedenanalyse in een verband tussen grootheden.",
-		"prefix": "u4",
-		"id": "4dd0ba35-b7d4-470d-815d-72b84d89047d",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
 		"description": "beoordelen van representativiteit, validiteit en betrouwbaarheid.",
 		"prefix": "u4",
 		"id": "8599ced1-ea32-44f9-8abf-68807158c67a",
@@ -56652,16 +54426,6 @@
 		"description": "vertalen van en naar representaties van functies: beschrijving, tabel, grafiek en formule.",
 		"prefix": "u4",
 		"id": "64078e27-6348-4c52-8ac4-8d07a630134a",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "redeneren over veranderingsgedrag van functies met behulp van de eerste afgeleide.",
-		"prefix": "u4",
-		"id": "90643b6f-48a7-4624-8768-145041cd0bd0",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
@@ -56799,16 +54563,6 @@
 		"status": "concept"
 	},
 	{
-		"description": "verslag doen van onderzoeksmethoden en resultaten.",
-		"prefix": "u5",
-		"id": "230f3c3b-8a2c-4133-9a2a-e42befdbe3cf",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
 		"description": "streven naar compressie van concepten en procedures.",
 		"prefix": "u5",
 		"id": "d424e023-6a2c-45c4-a09b-9243dfd008eb",
@@ -56862,16 +54616,6 @@
 		"description": "schattend rekenen.",
 		"prefix": "u4",
 		"id": "f75117e1-0062-4883-9344-cd74d43de0cc",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "uitvoeren van eenhedenanalyse in een verband tussen grootheden.",
-		"prefix": "u4",
-		"id": "fbaa17c4-918f-45e8-a1fa-a2c205db71a9",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
@@ -57099,16 +54843,6 @@
 		"status": "concept"
 	},
 	{
-		"description": "verslag doen van onderzoeksmethoden en resultaten.",
-		"prefix": "u5",
-		"id": "fd9b9194-fe9d-4591-9182-09ff28c50d13",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
 		"description": "streven naar compressie van concepten en procedures.",
 		"prefix": "u5",
 		"id": "b87dcb0d-e4e8-4c05-a304-b99582cb5072",
@@ -57187,696 +54921,6 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "benoemen van kenmerken met betrekking tot context, doel, inhoud en vorm, passend bij een genre;",
-		"prefix": "u1",
-		"id": "1cd1f4ce-8716-40f1-84f1-6407369a40d2",
-		"niveau_id": [
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "herkennen van genrespecifieke kenmerken van taalgebruik;",
-		"prefix": "u2",
-		"id": "07db6975-fa13-466e-b8f0-b0b8df629ae5",
-		"niveau_id": [
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "reflecteren op gebruik van genrekenmerken in relatie tot het communicatieve doel;",
-		"prefix": "u3",
-		"id": "96353fa0-7754-45b9-bc29-f4139a0dc412",
-		"niveau_id": [
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "herkennen van standpunt en argumenten in teksten;",
-		"prefix": "u1",
-		"id": "76038b0c-fa58-4602-b9d8-3c4123ec567d",
-		"niveau_id": [
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "herkennen van de context waarin de argumentatie plaatsvindt;",
-		"prefix": "u2",
-		"id": "f804140f-f1c4-4596-8f7c-e9c63cd412a6",
-		"niveau_id": [
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "verkennen van de geloofwaardigheid van de spreker of schrijver;",
-		"prefix": "u3",
-		"id": "a00ca5ec-c656-42be-95b4-d73a0d204562",
-		"niveau_id": [
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "beschrijven hoe gevoelens worden opgeroepen bij het publiek.",
-		"prefix": "u4",
-		"id": "aa286794-db56-42b9-a498-99621de789a5",
-		"niveau_id": [
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "beschrijven van verschillen en overeenkomsten tussen oudere en hedendaagse literatuur;",
-		"prefix": "u1",
-		"id": "a5fb6114-07aa-43ad-a140-6908295c7442",
-		"niveau_id": [
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "beschrijven van verschillen en overeenkomsten tussen versies van literaire teksten;",
-		"prefix": "u2",
-		"id": "0a29ad7a-dd66-4b04-9fdb-50d6c8207b30",
-		"niveau_id": [
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "beschrijven van relaties tussen de periode en context waarin de tekst is geschreven en het wereldbeeld van de schrijver;",
-		"prefix": "u3",
-		"id": "8e40315c-7cc9-41d8-ba13-ed1177d299a8",
-		"niveau_id": [
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "beschrijven van opgedane inzichten over historische tijdvakken;",
-		"prefix": "u4",
-		"id": "21724e2c-74d5-478f-9ae5-d47f9fc82514",
-		"niveau_id": [
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "herkennen van literair-culturele sporen in literatuur uit heden en verleden.",
-		"prefix": "u5",
-		"id": "991f15dc-32c6-4cae-a73b-4e0fb303a717",
-		"niveau_id": [
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "aanbieden van taalactiviteiten in betekenisvolle contexten;",
-		"prefix": "u1",
-		"id": "25c51325-9e83-49c2-85db-1c4e5d7c551b",
-		"niveau_id": [
-			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "aanbieden van teksten aansluitend bij de interesses of de actualiteit;",
-		"prefix": "u2",
-		"id": "54e9be82-b7e4-4283-8016-7895482a096a",
-		"niveau_id": [
-			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "aanbieden van kennis en vaardigheden uit het leergebied Nederlands in onderlinge samenhang;",
-		"prefix": "u3",
-		"id": "f1d1425d-c640-4abb-849d-8215be939842",
-		"niveau_id": [
-			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "stimuleren van de leesmotivatie en de durf om te spreken en/of te schrijven;",
-		"prefix": "u4",
-		"id": "ef09ea9f-7919-411a-a1bd-c2beb55dc37f",
-		"niveau_id": [
-			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "ruimte bieden aan verschillende talen en taalvariëteiten van leerlingen.",
-		"prefix": "u5",
-		"id": "6859aca7-225a-4d22-aada-ced8ebdfe85a",
-		"niveau_id": [
-			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "stimuleren van betekenisvolle activiteiten waarin taalvaardigheden verworven kunnen worden;",
-		"prefix": "u1",
-		"id": "15a7d27f-a542-4cdb-8216-6e0f312dd486",
-		"niveau_id": [
-			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "stimuleren van het gebruiken van rijke teksten in alle leergebieden;",
-		"prefix": "u2",
-		"id": "7d12748a-727f-49df-a4ee-80cbd8c75ae5",
-		"niveau_id": [
-			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "stimuleren van taalproductie en interactie in alle leergebieden.",
-		"prefix": "u3",
-		"id": "23c0e050-783a-429b-938a-3defd0442309",
-		"niveau_id": [
-			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "aanbieden van taalactiviteiten in betekenisvolle contexten;",
-		"prefix": "u1",
-		"id": "55e69481-72dd-44f4-8b48-254b82ec1ddf",
-		"niveau_id": [
-			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "aanbieden van teksten aansluitend bij de interesses of de actualiteit;",
-		"prefix": "u2",
-		"id": "42935561-53f0-44f9-90bf-c8e43a27c699",
-		"niveau_id": [
-			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "aanbieden van kennis en vaardigheden uit het leergebied Nederlands in onderlinge samenhang;",
-		"prefix": "u3",
-		"id": "6d9280e3-2d5c-4634-9b47-e92ac78a4bda",
-		"niveau_id": [
-			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "stimuleren van de leesmotivatie en de durf om te spreken en/of te schrijven;",
-		"prefix": "u4",
-		"id": "38c54ac3-8d96-4025-a25c-2479e7e8dccc",
-		"niveau_id": [
-			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "ruimte bieden aan verschillende talen en taalvariëteiten van leerlingen.",
-		"prefix": "u5",
-		"id": "c0e1d014-7419-4c65-a81e-2c307d544000",
-		"niveau_id": [
-			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "stimuleren van betekenisvolle activiteiten waarin taalvaardigheden verworven kunnen worden;",
-		"prefix": "u1",
-		"id": "3f27f4ad-0c0f-4c1b-b556-64adb52d2660",
-		"niveau_id": [
-			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "stimuleren van het gebruiken van rijke teksten in alle leergebieden en praktijkvakken;",
-		"prefix": "u2",
-		"id": "81311631-b519-45a0-8050-e4485e4759d6",
-		"niveau_id": [
-			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "stimuleren van taalproductie en interactie in alle leergebieden en praktijkvakken.",
-		"prefix": "u3",
-		"id": "c2dd8946-eec0-4062-9c9a-f9a384da97bf",
-		"niveau_id": [
-			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "stimuleren van betekenisvolle activiteiten waarin school- en vaktaal en vakspecifieke taalvaardigheden verworven kunnen worden;",
-		"prefix": "u1",
-		"id": "a18b66c6-7c9a-445a-bf67-611c66007296",
-		"niveau_id": [
-			"bdc4744f-79df-4795-8795-2fee50c7416a"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "stimuleren van het gebruiken van rijke teksten over inhoudelijke thema's  in alle leergebieden en praktijkvakken;",
-		"prefix": "u2",
-		"id": "6c2e065b-1a05-4948-877b-a9e723143d00",
-		"niveau_id": [
-			"bdc4744f-79df-4795-8795-2fee50c7416a"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "stimuleren van taalproductie en interactie in alle leergebieden en praktijkvakken;",
-		"prefix": "u3",
-		"id": "168bb942-beab-4565-a2ca-8ddc550f5e66",
-		"niveau_id": [
-			"bdc4744f-79df-4795-8795-2fee50c7416a"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "aanbieden van een schoolbrede set van aanpakken en flexibel inzetbare strategieën bij het ondersteunen van taalactiviteiten in andere leergebieden en praktijkvakken.",
-		"prefix": "u4",
-		"id": "ed8444b8-6e5f-40e0-91ac-0b5940628993",
-		"niveau_id": [
-			"bdc4744f-79df-4795-8795-2fee50c7416a"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "aanbieden van taalactiviteiten in betekenisvolle contexten;",
-		"prefix": "u1",
-		"id": "067dfc03-4cbe-47cf-b287-8c0929006175",
-		"niveau_id": [
-			"bdc4744f-79df-4795-8795-2fee50c7416a"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "aanbieden van teksten aansluitend bij de interesses of de actualiteit;",
-		"prefix": "u2",
-		"id": "06ce4327-8782-45b0-8ad8-4ffdb6dd8ffc",
-		"niveau_id": [
-			"bdc4744f-79df-4795-8795-2fee50c7416a"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "aanbieden van kennis en vaardigheden uit het leergebied Nederlands in onderlinge samenhang;",
-		"prefix": "u3",
-		"id": "37b8ddd4-1bc6-4353-bb7b-18d2739a1fbb",
-		"niveau_id": [
-			"bdc4744f-79df-4795-8795-2fee50c7416a"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "stimuleren van de leesmotivatie en de durf om te spreken en/of te schrijven;",
-		"prefix": "u4",
-		"id": "4e93b99b-3ec6-4a95-bf84-023be59911cd",
-		"niveau_id": [
-			"bdc4744f-79df-4795-8795-2fee50c7416a"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "ruimte bieden aan verschillende talen en taalvariëteiten van leerlingen.",
-		"prefix": "u5",
-		"id": "b9450e00-81e6-4cbc-8dce-03c3ecc0e596",
-		"niveau_id": [
-			"bdc4744f-79df-4795-8795-2fee50c7416a"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "actief luisteren, kijken en/of lezen, eventueel met inzet van ondersteunde communicatie;",
-		"prefix": "u1",
-		"id": "520845be-03d3-4e26-88e7-229908d7e410",
-		"niveau_id": [
-			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "inzetten en uitbreiden van woordenschat en kennis van alledaagse onderwerpen;",
-		"prefix": "u2",
-		"id": "1f64d565-5098-46fb-baa2-41b795b0e573",
-		"niveau_id": [
-			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "reageren op de inhoud van teksten;",
-		"prefix": "u3",
-		"id": "ec856b5c-9082-4843-acb2-7784de3792e9",
-		"niveau_id": [
-			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "waarderen van teksten.",
-		"prefix": "u4",
-		"id": "f3062db1-19a5-49f3-9db3-dd7c8f4e82a5",
-		"niveau_id": [
-			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "oriënteren op kenmerken van tekstsoorten;",
-		"prefix": "u1",
-		"id": "6cdf182e-8e98-4cd5-a193-e74b58a2d9af",
-		"niveau_id": [
-			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "oriënteren op informatie die vragen oproept;",
-		"prefix": "u2",
-		"id": "c54e9087-9028-457e-8a03-47d88a98aedf",
-		"niveau_id": [
-			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "verkennen van betrouwbaarheid en bruikbaarheid van bronnen.",
-		"prefix": "u3",
-		"id": "645987a0-bea1-4e09-8b07-73a8d18c3368",
-		"niveau_id": [
-			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "actief luisteren, kijken en/of lezen, eventueel met inzet van ondersteunde communicatie;",
-		"prefix": "u1",
-		"id": "f203cf07-f00c-4218-ba4b-3a507208df47",
-		"niveau_id": [
-			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "inzetten en uitbreiden van woordenschat en kennis van alledaagse onderwerpen;",
-		"prefix": "u2",
-		"id": "2bb2ed3d-4a3e-4311-acf0-2666b17ae52e",
-		"niveau_id": [
-			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "reageren op de inhoud van teksten;",
-		"prefix": "u3",
-		"id": "ae159439-6133-4c1a-9f99-1dbaa0eb5ffe",
-		"niveau_id": [
-			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "waarderen van teksten.",
-		"prefix": "u4",
-		"id": "4ebc8307-aaf9-4c34-9a41-25060b912b41",
-		"niveau_id": [
-			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "oriënteren op kenmerken van tekstsoorten;",
-		"prefix": "u1",
-		"id": "177bcb9e-8082-45f0-bfd1-31e27d3ed7d0",
-		"niveau_id": [
-			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "oriënteren op informatie die vragen oproept;",
-		"prefix": "u2",
-		"id": "a23e0335-0597-492b-a047-c837a0be03a2",
-		"niveau_id": [
-			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "verkennen van betrouwbaarheid en bruikbaarheid van bronnen.",
-		"prefix": "u3",
-		"id": "fcda61d0-0238-456f-8f1b-df9175d541c3",
-		"niveau_id": [
-			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "actief luisteren, kijken en/of lezen, eventueel met inzet van ondersteunde communicatie;",
-		"prefix": "u1",
-		"id": "abd37327-0388-4348-8ba5-38eade7508ef",
-		"niveau_id": [
-			"bdc4744f-79df-4795-8795-2fee50c7416a"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "inzetten en uitbreiden van woordenschat en kennis over taal, kennis van de wereld en werkgerelateerde onderwerpen;",
-		"prefix": "u2",
-		"id": "83a89b01-11d5-48f0-b836-d2465558a239",
-		"niveau_id": [
-			"bdc4744f-79df-4795-8795-2fee50c7416a"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "beschrijven van perspectieven, communicatieve doelen, publiek, context;",
-		"prefix": "u3",
-		"id": "e9b0a136-3bdb-4f92-977e-f9e69e7aa377",
-		"niveau_id": [
-			"bdc4744f-79df-4795-8795-2fee50c7416a"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "in eigen woorden weergeven van de inhoud van teksten;",
-		"prefix": "u4",
-		"id": "14f5aa9e-8df8-4915-adca-280a2c219dcd",
-		"niveau_id": [
-			"bdc4744f-79df-4795-8795-2fee50c7416a"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "toepassen van aanpakken en begripsverhogende strategieën.",
-		"prefix": "u5",
-		"id": "26ccf366-7034-417b-b2c5-02c4379c9ace",
-		"niveau_id": [
-			"bdc4744f-79df-4795-8795-2fee50c7416a"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "oriënteren op kenmerken van aangereikte bronnen: maker, tekstsoort en verschijningsdatum;",
-		"prefix": "u1",
-		"id": "56c67f6c-af5a-4387-b9d4-53dde0370269",
-		"niveau_id": [
-			"bdc4744f-79df-4795-8795-2fee50c7416a"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "benoemen van inhouds- en vormelementen die vragen oproepen;",
-		"prefix": "u2",
-		"id": "b09fdad1-6d8b-477e-a125-857aab64986c",
-		"niveau_id": [
-			"bdc4744f-79df-4795-8795-2fee50c7416a"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "vergelijken van bronnen op basis van hun betrouwbaarheid en bruikbaarheid.",
-		"prefix": "u3",
-		"id": "a8349d0d-913e-402c-b1a9-6f049d4305dd",
-		"niveau_id": [
-			"bdc4744f-79df-4795-8795-2fee50c7416a"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "schrijven met een leesbaar handschrift of typshrift en/of verstaanbaar spreken.",
-		"prefix": "u4",
-		"id": "62ef4f3d-769f-4bf8-b0db-b56f681abefb",
-		"niveau_id": [
-			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "schrijven op letter-, schrift- en tekstniveau met een leesbaar handschrift of typschrift, en/of verstaanbaar spreken.",
-		"prefix": "u6",
-		"id": "a5e49d08-840a-4752-ab62-72c99948c588",
-		"niveau_id": [
-			"bdc4744f-79df-4795-8795-2fee50c7416a"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "verkennen van creatief taalgebruik van anderen;",
-		"prefix": "u1",
-		"id": "08ecb71d-6d46-40ea-b0b5-2e79b75ea321",
-		"niveau_id": [
-			"bdc4744f-79df-4795-8795-2fee50c7416a"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "begrijpen en inzetten van communicatievormen, waar nodig met behulp van communicatiemiddelen;",
-		"prefix": "u1",
-		"id": "5f6beadf-46dc-4648-ab62-99a91a247a23",
-		"niveau_id": [
-			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "luisteren naar en reageren op gesprekpartner(s);",
-		"prefix": "u3",
-		"id": "00c504d3-ae31-48ec-8c44-dc6844e607a8",
-		"niveau_id": [
-			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "beschrijven van opgedane inzichten.",
-		"prefix": "u5",
-		"id": "497cf74e-0640-441e-8aee-a6b4ca3e6b48",
-		"niveau_id": [
-			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "luisteren naar en reageren op gesprekpartner(s);",
-		"prefix": "u3",
-		"id": "ce9447d9-ec12-41f1-bb10-2f09bee533c6",
-		"niveau_id": [
-			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "beschrijven van opgedane inzichten.",
-		"prefix": "u5",
-		"id": "e13cb5f0-ac36-45f8-aa60-f0ab8d0aa4f9",
-		"niveau_id": [
-			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "samenvatten van inzichten, verwoorden van oplossingen of trekken van conclusies.",
-		"prefix": "u5",
-		"id": "6f7b07e5-5366-4145-923a-70542e5f3056",
-		"niveau_id": [
-			"bdc4744f-79df-4795-8795-2fee50c7416a"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "waarderen van het eigen talige repertoire.",
-		"prefix": "u5",
-		"id": "f3314700-3c38-4ace-8bd7-34be78cb96b7",
-		"niveau_id": [
-			"bdc4744f-79df-4795-8795-2fee50c7416a"
-		],
-		"status": "concept"
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -58254,116 +55298,6 @@
 	},
 	{
 		"title": "Het gaat hierbij om",
-		"description": "oriënteren op verhoudingentaal;",
-		"prefix": "u1",
-		"id": "ab328c36-b4bb-40fd-bb2e-b89f44e6eae9",
-		"niveau_id": [
-			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "gebruiken van referentiematen en meetreferenties.",
-		"prefix": "u5",
-		"id": "c0c8f60a-28b8-41f1-bd59-cd4c5cf3d1b6",
-		"niveau_id": [
-			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "verbinden van tijdsaanduidingen aan voor de leerling relevante situaties;",
-		"prefix": "u2",
-		"id": "16942512-72a8-4155-bc9b-7c3eb1bd8fae",
-		"niveau_id": [
-			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "relaties leggen tussen breuken en delingen;",
-		"prefix": "u3",
-		"id": "17c8a91b-075f-4d39-8cb0-1836a7e31c4d",
-		"niveau_id": [
-			"bdc4744f-79df-4795-8795-2fee50c7416a"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "verbinden van tijdsaanduidingen aan voor de leerling relevante situaties;",
-		"prefix": "u2",
-		"id": "0f9a1080-9b94-4f33-9d61-c0a81682bb10",
-		"niveau_id": [
-			"bdc4744f-79df-4795-8795-2fee50c7416a"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "oriënteren op verhoudingentaal;",
-		"prefix": "u1",
-		"id": "2364fce2-43f8-492b-8006-8eab7e1b4073",
-		"niveau_id": [
-			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "relaties leggen tussen grootheden en eenheden;",
-		"prefix": "u4",
-		"id": "37d183b9-a236-4035-9c18-97ccf959cb94",
-		"niveau_id": [
-			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "verbinden van tijdsaanduidingen aan voor de leerling relevante situaties;",
-		"prefix": "u2",
-		"id": "751edb65-94d3-4f09-8da6-a2be81a8c6ea",
-		"niveau_id": [
-			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "gebruiken van getallen en andere wiskundige concepten in concrete, voor de leerling relevante situaties gericht op zelfredzaamheid;",
-		"prefix": "u1",
-		"id": "ca970feb-e028-4933-a155-08802b44259f",
-		"niveau_id": [
-			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "het oplossen van toepassingsproblemen met behulp van wiskundige denk-werkwijzen.",
-		"prefix": "u4",
-		"id": "438b199d-eac0-4df2-8394-fe044a0ad341",
-		"niveau_id": [
-			"bdc4744f-79df-4795-8795-2fee50c7416a"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "gebruiken van getallen en andere wiskundige concepten in concrete, voor de leerling relevante situaties gericht op zelfredzaamheid in wonen, dagbesteding en vrije tijd;",
-		"prefix": "u1",
-		"id": "ce92570e-42a0-466b-83b0-a19120430941",
-		"niveau_id": [
-			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
 		"description": "selecteren van bruikbare informatie;",
 		"prefix": "u3",
 		"id": "f17b8c38-fb79-4407-8a03-14a4e92d44fa",
@@ -58380,100 +55314,6 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"status": "concept"
-	},
-	{
-		"title": "Te denken valt aan",
-		"description": "",
-		"id": "c0efccec-5879-4a30-a490-831200a80a35",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725",
-			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
-		],
-		"status": "concept"
-	},
-	{
-		"title": "Te denken valt aan",
-		"id": "808142ba-3d5c-4a53-9bc2-fbf138653c94",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"description": "verkennen hoe beeld en geluid ontworpen en gecombineerd kunnen worden bij het maken van een filmpje.",
-		"status": "concept"
-	},
-	{
-		"title": "Te denken valt aan",
-		"id": "6119a072-fa5f-41ee-992e-cdb288e17e6d",
-		"niveau_id": [
-			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"description": "het voorlezen van verhalen waarin allerlei rekenraadsels zijn verwerkt.",
-		"status": "concept"
-	},
-	{
-		"title": "Te denken valt aan",
-		"id": "37c1adf6-f308-454d-8eee-3fd3de7b4662",
-		"niveau_id": [
-			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"description": "voeren van een groepsgesprek over een gebeurtenis in een bekeken voorstelling.",
-		"status": "concept"
-	},
-	{
-		"title": "Te denken valt aan",
-		"id": "a9b378da-c4b6-4653-8e8e-71bce9f82947",
-		"niveau_id": [
-			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
-		],
-		"description": "maken van een gerecht uit een kookboek.",
-		"status": "concept"
-	},
-	{
-		"title": "Te denken valt aan",
-		"id": "1f6082a4-8737-48dd-9163-9a4db29b0457",
-		"niveau_id": [
-			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
-		],
-		"description": "voeren van een groepsgesprek over een stage ervaring.",
-		"status": "concept"
-	},
-	{
-		"title": "Te denken valt aan",
-		"id": "4e88a0a3-c5e5-4523-beef-18d20c860f9a",
-		"niveau_id": [
-			"bdc4744f-79df-4795-8795-2fee50c7416a"
-		],
-		"description": "maken van een mindmap over vaktaal bij een praktijkvak.",
-		"status": "concept"
-	},
-	{
-		"title": "Te denken valt aan",
-		"id": "a4d5d377-beae-47c7-9614-3d3ebe5c6bfe",
-		"niveau_id": [
-			"bdc4744f-79df-4795-8795-2fee50c7416a"
-		],
-		"description": "voeren van een groepsgesprek over een stage ervaring.",
-		"status": "concept"
-	},
-	{
-		"description": "een reactie achterlaten op een Duitse website en daarbij gebruik maken van spellingscontrole en taalspecifieke instellingen in het tekstverwerkingsprogramma.",
-		"prefix": "t1",
-		"id": "e74a0609-a450-4dcf-b8ad-fd765ebb9551",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"title": "Te denken valt aan",
-		"status": "concept"
-	},
-	{
-		"description": "een korte blog schrijven op een Duitse website en daarbij gebruik maken van spellingscontrole en taalspecifieke instellingen in het tekstverwerkingsprogramma.",
-		"prefix": "t1",
-		"id": "42e81fca-ebbc-423e-bfa7-880955464ae3",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "Te denken valt aan",
 		"status": "concept"
 	},
 	{
@@ -58557,48 +55397,6 @@
 		],
 		"title": "Te denken valt aan",
 		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"id": "89bd253a-b430-4901-916a-c96ccc64b6de",
-		"niveau_id": [
-			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
-		],
-		"description": "Het gaat hierbij actief kijken en/of luiseren naar of lezen van teksten, eventueel met inzet van ondersteunende communicatie.",
-		"status": "concept",
-		"replaces": [
-			"401f1d89-d828-4106-97c4-5b729db14de4"
-		]
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "benoemen van kenmerken met betrekking tot context, doel, inhoud en vorm, passend bij een genre;",
-		"prefix": "u1",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59",
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"id": "97006a17-bf4a-4718-9c3d-fc6b8f10cebd",
-		"status": "concept",
-		"replaces": [
-			"b6091019-bc91-4206-87ee-9579327f6a87"
-		]
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "herkennen van genrespecifieke kenmerken van taalgebruik;",
-		"prefix": "u2",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59",
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"id": "890a23fa-b356-48a7-87c8-ccaa491c4090",
-		"status": "concept",
-		"replaces": [
-			"961b3731-38aa-481f-aba6-341e9186bf64"
-		]
 	},
 	{
 		"description": "lezen van en luisteren en kijken naar teksten;",
@@ -61602,19 +58400,6 @@
 		"status": "concept",
 		"replaces": [
 			"2d2e9206-15b8-4b52-9421-450796f48a2b"
-		]
-	},
-	{
-		"description": "toepassen van kennis over retorische middelen om tot begrip te komen.",
-		"prefix": "u5",
-		"id": "63d0db34-0a47-47db-92a7-8b32dc2abcf7",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept",
-		"replaces": [
-			"fb70c222-aa0a-4563-ae92-f0d00d4eb256"
 		]
 	},
 	{
@@ -98609,114 +95394,6 @@
 	},
 	{
 		"title": "Het gaat hierbij om",
-		"description": "de Friese taal en cultuur in al zijn verschijningsvormen laten horen en zien;",
-		"prefix": "u1",
-		"status": "definitief concept",
-		"id": "c932921b-d084-458f-8912-a828aee97b80",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "aanbieden van een veelzijdig en actueel aanbod Friese (voor)leesboeken, jeugdliteratuur en authentieke vakoverstijgende Friestalige teksten;",
-		"prefix": "u2",
-		"status": "definitief concept",
-		"id": "8d792957-87d2-4233-ab72-fe96a86883b2",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "aanbieden van kennis en vaardigheden uit het leergebied Friese taal & cultuur in onderlinge samenhang;",
-		"prefix": "u3",
-		"status": "definitief concept",
-		"id": "c8763a49-0440-4053-889f-d9dae16e7a1a",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "aanbieden van taalsteunmiddelen om Fries te begrijpen en durven gebruiken;",
-		"prefix": "u4",
-		"status": "definitief concept",
-		"id": "42bf8791-cad9-482c-b772-402df8e4f1f0",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "stimuleren van de leesmotivatie voor Friestalige teksten, boeken en jeugdliteratuur.",
-		"prefix": "u5",
-		"status": "definitief concept",
-		"id": "48d19b14-0fbc-43c1-a0d9-56be49f90da9",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "ruimte bieden aan het gebruik van het Fries en taalvariëteiten van het Fries in informele en formele setting;",
-		"prefix": "u1",
-		"status": "definitief concept",
-		"id": "32f1da35-3862-404b-b114-c5fbd99ca827",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "aanbieden van leeractiviteiten passend bij het taalniveau en de belevingswereld van de leerlingen;",
-		"prefix": "u2",
-		"status": "definitief concept",
-		"id": "bccc8645-2c76-4c0c-84e3-2db449895557",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "aanbieden van betekenisvolle leeractiviteiten waarin de Friese taal als school- en vaktaal actief wordt gebruikt;",
-		"prefix": "u3",
-		"status": "definitief concept",
-		"id": "c9b73d39-e25a-4f7a-8015-2cc0c8db2ca6",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "aanbieden van leeractiviteiten waarin leerlingen kennis en vaardigheden vakoverstijgend toepassen.",
-		"prefix": "u4",
-		"status": "definitief concept",
-		"id": "ed464605-da44-4997-9440-9fa1b8403c46",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Het gaat hierbij om",
 		"description": "lezen, bekijken en beluisteren van Friestalige teksten;",
 		"prefix": "u1",
 		"status": "definitief concept",
@@ -98871,186 +95548,6 @@
 	},
 	{
 		"title": "Het gaat hierbij om",
-		"description": "lezen, bekijken en beluisteren van Friestalige teksten;",
-		"prefix": "u1",
-		"status": "definitief concept",
-		"id": "1fe5e2c4-a1ee-46e2-b334-e25eeb73a329",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "verwoorden van onderwerp en hoofdzaken;",
-		"prefix": "u2",
-		"status": "definitief concept",
-		"id": "87c2a67b-16a1-4288-a3ba-66c1af0b54f7",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "inzetten en uitbreiden van de Friese woordenschat;",
-		"prefix": "u3",
-		"status": "definitief concept",
-		"id": "e2a6f7d4-a2de-4177-bd30-b18ca2c302b1",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "flexibel toepassen van verschillende aanpakken en begripsverhogende strategieën;",
-		"prefix": "u4",
-		"status": "definitief concept",
-		"id": "376304eb-af9d-40f1-b0ae-59a82be3104c",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "beoordelen en selecteren van verschillende soorten teksten;",
-		"prefix": "u1",
-		"status": "definitief concept",
-		"id": "e772f604-4ace-4fdf-bb91-7a0dfd491a33",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "verbanden leggen tussen teksten en eigen ervaringen;",
-		"prefix": "u2",
-		"status": "definitief concept",
-		"id": "c3f79d76-0a81-4a6d-a5fd-5471821432f1",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "verbanden leggen binnen en tussen teksten;",
-		"prefix": "u3",
-		"status": "definitief concept",
-		"id": "6164719b-96ae-4855-9ce3-2180e96d5076",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "formuleren van gedachten, ideeën, inzichten en ervaringen in gesproken en geschreven teksten passend bij het taalniveau en de leeftijdsfase van de leerling;",
-		"prefix": "u1",
-		"status": "definitief concept",
-		"id": "fe88e590-6fa9-47b1-9f48-ec1dacbc3a58",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "gebruiken van Friese spelling- en grammaticaregels;",
-		"prefix": "u2",
-		"status": "definitief concept",
-		"id": "3ef52dfb-2379-4a84-aa8d-87a2e020feb5",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "reviseren van een tekst met het oog op doelgerichte communicatie: taalgebruik en taalverzorging;",
-		"prefix": "u3",
-		"status": "definitief concept",
-		"id": "16c5e074-f5ec-4cea-88d1-4ff23c8c5c89",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "inzetten van kennis over de vorm van teksten: tekstsoorten, tekststructuren, verteltechnieken.",
-		"prefix": "u4",
-		"status": "definitief concept",
-		"id": "857591ee-6026-44d7-a2fe-9663e0c4519c",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "adequaat reageren op een Friessprekende gesprekspartner;",
-		"prefix": "u1",
-		"status": "definitief concept",
-		"id": "2a4c49da-65b2-4c6c-9ff3-cc47f3e82f92",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "verstaanbaar Fries spreken;",
-		"prefix": "u2",
-		"status": "definitief concept",
-		"id": "2b356052-c805-4ed7-b336-cecb5c96123e",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "in het Fries bijdragen aan een gesprek waarbij kwaliteit en kwantiteit van de bijdrage passen bij het taalniveau en de leeftijdsfase van de leerling;",
-		"prefix": "u3",
-		"status": "definitief concept",
-		"id": "f8bc319c-35b6-4039-bb1c-1b1373eb6f76",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "flexibel toepassen van gespreksconventies passend bij de gespreksvorm.",
-		"prefix": "u4",
-		"status": "definitief concept",
-		"id": "cf841763-c994-4693-92bb-cf8c138f7815",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Het gaat hierbij om",
 		"description": "verkennen van de Friese taal op vorm, klank en gebruik;",
 		"prefix": "u1",
 		"status": "definitief concept",
@@ -99161,54 +95658,6 @@
 	},
 	{
 		"title": "Het gaat hierbij om",
-		"description": "verkennen van de Friese taal op vorm, klank en gebruik;",
-		"prefix": "u1",
-		"status": "definitief concept",
-		"id": "96156d0a-a4c3-4b1a-99cd-d0b733ef2e5b",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "vergelijken van het Fries met het Nederlands en andere talen en taalvariëteiten in Fryslân;",
-		"prefix": "u2",
-		"status": "definitief concept",
-		"id": "b2260878-966c-43af-a8f1-1baec8838342",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "benoemen van en reflecteren op taaleigen kenmerken van de Friese taal;",
-		"prefix": "u3",
-		"status": "definitief concept",
-		"id": "b23bb971-7167-444c-93d1-414574b17e96",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "verkennen van verschillen tussen gesproken en geschreven Fries.",
-		"prefix": "u4",
-		"status": "definitief concept",
-		"id": "258d2d08-52ed-4cb8-b8f3-b4cabc47cab9",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Het gaat hierbij om",
 		"description": "benoemen van veranderingen in de Friese taal en benoemen van oorzaken en gevolgen van die veranderingen.",
 		"prefix": "u5",
 		"status": "definitief concept",
@@ -99216,54 +95665,6 @@
 		"niveau_id": [
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		]
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "evalueren van het eigen talenrepertoire en de positie van het Fries daarin;",
-		"prefix": "u1",
-		"status": "definitief concept",
-		"id": "118d0f13-500b-4fed-ac06-c52f6ec2864e",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "redeneren wanneer en waarom zijzelf en anderen Fries gebruiken;",
-		"prefix": "u2",
-		"status": "definitief concept",
-		"id": "6c212012-671d-4ecb-b918-5c3b41342e75",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "verbanden leggen tussen Fries taalgebruik en kennis van meertaligheid, identiteit en (sub)cultuur;",
-		"prefix": "u3",
-		"status": "definitief concept",
-		"id": "ed3634dd-50fa-429d-90f4-017f9f160bf7",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "reflecteren op de maatschappelijke positie van het Fries in de meertalige samenleving.",
-		"prefix": "u4",
-		"status": "definitief concept",
-		"id": "b246bc1a-0b1c-4323-8ca9-44790a2a0e1d",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -99284,66 +95685,6 @@
 		"niveau_id": [
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		]
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "reflecteren op het verloop van het proces en de gemaakte keuzes tijdens en na het proces;",
-		"prefix": "u1",
-		"status": "definitief concept",
-		"id": "782cab64-6449-4c8d-8681-07d68b3ea184",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "evalueren van de eigen Friese taalproducten aan de hand van kwaliteitscriteria voor inhoud en vorm;",
-		"prefix": "u2",
-		"status": "definitief concept",
-		"id": "09205b1c-0e0b-44a0-a1b9-8e4f9c0b7016",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "evalueren van Friese taalproducten aan de hand van vergelijkingen met taalproducten van anderen;",
-		"prefix": "u3",
-		"status": "definitief concept",
-		"id": "22f798c0-3a34-4c33-a0d6-6399a8662332",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "formuleren van leerdoelen voor de eigen Friese taalontwikkeling op basis van evaluatie en reflectie;",
-		"prefix": "u4",
-		"status": "definitief concept",
-		"id": "88e90d2d-fb2c-41e2-8606-4e516b49fea8",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "verwerken van feedback.",
-		"prefix": "u5",
-		"status": "definitief concept",
-		"id": "57b9961d-603f-4b0f-9993-10d5e4236624",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -99435,102 +95776,6 @@
 	},
 	{
 		"title": "Het gaat hierbij om",
-		"description": "lezen, bekijken en beluisteren van Friese culturele en creatieve taaluitingen;",
-		"prefix": "u1",
-		"status": "definitief concept",
-		"id": "4198ec37-eb84-464e-bb97-6de1d993bcc2",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "verwoorden en verbeelden van persoonlijke gedachten en gevoelens;",
-		"prefix": "u2",
-		"status": "definitief concept",
-		"id": "515c8230-27eb-459c-89cf-0e58ae4aabaa",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "vergelijken van eigen interpretaties van Friese culturele en creatieve taaluitingen met die van anderen.",
-		"prefix": "u3",
-		"status": "definitief concept",
-		"id": "ca019dda-1cab-4b6c-b4a4-33adea40fb4c",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "uitdrukking geven aan ideeën, gedachten, gevoelens, ervaringen en fantasieën in verschillende soorten taalcreaties;",
-		"prefix": "u1",
-		"status": "definitief concept",
-		"id": "be7236f0-ad9d-4aa1-a8a9-a0685d4f3e39",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "experimenten met Friese klanken, woorden, zinnen, literaire genres, taalregels, taalconventies en visuele vormen;",
-		"prefix": "u2",
-		"status": "definitief concept",
-		"id": "31196715-3e73-48ba-adfd-13dfce9ef34b",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "gebruiken van vormgevingsmiddelen om de Friese taaluiting te versterken;",
-		"prefix": "u3",
-		"status": "definitief concept",
-		"id": "37be2b5f-2d08-412d-91db-4efe88f64f6a",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "toelichten hoe eigen ideeën, gedachten, gevoelens, ervaringen of fantasieën zijn verwerkt in de taalcreatie;",
-		"prefix": "u4",
-		"status": "definitief concept",
-		"id": "4c6e9926-3166-48c2-b399-16626e5fb440",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "waarderen van taalcreaties van anderen.",
-		"prefix": "u5",
-		"status": "definitief concept",
-		"id": "d7214c9b-33f5-4d21-a498-2101bdedaef2",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Het gaat hierbij om",
 		"description": "beschrijven van historische en hedendaagse personen die belangrijk zijn voor Fryslân;",
 		"prefix": "u1",
 		"status": "definitief concept",
@@ -99575,42 +95820,6 @@
 	},
 	{
 		"title": "Het gaat hierbij om",
-		"description": "beschrijven van belangrijke historische gebeurtenissen en personen binnen Fryslân en hoe deze doorwerken in het heden;",
-		"prefix": "u1",
-		"status": "definitief concept",
-		"id": "1623ab23-92bb-489d-b1a5-53bac56dc5bd",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "beschrijven van aspecten van het Friese landschap en de Friese cultuur;",
-		"prefix": "u2",
-		"status": "definitief concept",
-		"id": "54602111-79ad-4816-ae07-94ee596c6b9c",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "verkennen van Friese tradities en gebruiken en de daaraan verbonden waarden en opvattingen.",
-		"prefix": "u3",
-		"status": "definitief concept",
-		"id": "50011764-b9eb-463e-a872-9c24ba955876",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Het gaat hierbij om",
 		"description": "uitleggen welk bestaand cultureel erfgoed zij belangrijk vinden om te bewaren en wat nieuw cultureel erfgoed kan zijn.",
 		"prefix": "u4",
 		"status": "definitief concept",
@@ -99618,42 +95827,6 @@
 		"niveau_id": [
 			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
 		]
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "verwoorden van persoonlijke leeservaring en - beleving na het lezen van of luisteren naar Friese jeugdliteratuur;",
-		"prefix": "u1",
-		"status": "definitief concept",
-		"id": "445cc61f-f8c2-4023-bbcc-a555a339677d",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "reflecteren op de waarde van Friese jeugdliteratuur voor de eigen persoonsvorming;",
-		"prefix": "u2",
-		"status": "definitief concept",
-		"id": "7e5714ea-b740-426d-a60f-b9ae967c2871",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "verwoorden van opgedane inzichten en kennis over de Friese context en cultuur na het lezen of luisteren.",
-		"prefix": "u3",
-		"status": "definitief concept",
-		"id": "643adc9e-7ef2-4773-9324-8e66d06111c7",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"dirty": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -101858,84 +98031,6 @@
 		]
 	},
 	{
-		"description": "modellen van licht: straal, golf, deeltje.",
-		"prefix": "u1",
-		"id": "00c58045-17b8-4e6d-a7e8-248689c7bae4",
-		"niveau_id": [
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"328bc4b0-403d-469a-933e-ed6533758c04"
-		]
-	},
-	{
-		"description": "verbanden leggen tussen modellen en kenmerken van licht: dopplereffect, richting, golven, reflectie, buiging en sterkte.",
-		"prefix": "u2",
-		"id": "de523d48-0461-4948-97eb-3fb297b40ea5",
-		"niveau_id": [
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"d9188786-f704-44ef-9f6e-a95598101b42"
-		]
-	},
-	{
-		"description": "analyseren van overeenkomsten en verschillen tussen waargenomen werkelijkheid en modellen van licht.",
-		"prefix": "u3",
-		"id": "42faec3f-aeac-4dec-a253-0a77c9f59f07",
-		"niveau_id": [
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"ce8aa1a7-4a77-4c04-82af-c13d0f188332"
-		]
-	},
-	{
-		"description": "beschrijven hoe elektromagnetische straling afkomstig uit hemellichamen informatie bevat over gebeurtenissen in ons zonnestelsel en heelal.",
-		"prefix": "u4",
-		"id": "4ffb6a95-e232-4774-b5b4-a46dcd9c4bcb",
-		"niveau_id": [
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"7d2892b4-6558-47f1-9306-567c3accb053"
-		]
-	},
-	{
-		"description": "beredeneren hoe technologische ontwikkelingen leiden tot meer kennis over systeem aarde.",
-		"prefix": "u5",
-		"id": "23c32d2a-1aa2-4a01-bf96-ce875c149446",
-		"niveau_id": [
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"8470b408-c906-4b41-bda1-2044cdfe7064"
-		]
-	},
-	{
-		"description": "beredeneren hoe technologische ontwikkelingen voor het meten aan elektromagnetische straling leiden tot meer kennis over ons zonnestelsel en het heelal.",
-		"prefix": "u6",
-		"id": "e9913f7a-8f46-4096-9c84-4cd82fa7ba21",
-		"niveau_id": [
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"5ff1f67c-02c6-4661-b8f8-02ce369db1b1"
-		]
-	},
-	{
 		"description": "beschrijven van de levenscyclus van bacteriën, schimmels, planten en dieren;",
 		"prefix": "u1",
 		"id": "9aca5d52-ebe2-45ae-91bd-2fc12103e0c9",
@@ -102199,141 +98294,6 @@
 		"status": "definitief concept",
 		"replaces": [
 			"ec9ceef4-bb3b-4f81-a441-ab1a6e27f847"
-		]
-	},
-	{
-		"description": "modellen van Darwin en Lamarck.",
-		"prefix": "u1",
-		"id": "ae15ff79-5b6e-4cf9-b6a4-e6752299c6d3",
-		"niveau_id": [
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"e5f01b9b-566d-4bbb-82a8-3eb6eb5c5c2e"
-		]
-	},
-	{
-		"description": "beschrijven dat DNA informatie bevat van erfelijke eigenschappen en hoe deze informatie wordt doorgegeven aan een volgende generatie.",
-		"prefix": "u2",
-		"id": "0c670e1c-03a2-4637-86e5-b3a0f12aa833",
-		"niveau_id": [
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"a64ef225-bdb1-488d-a56a-42fa4ba32e6a"
-		]
-	},
-	{
-		"description": "vergelijken van stambomen die zijn gemodelleerd op basis van fenotypische en genetische kernmerken.",
-		"prefix": "u3",
-		"id": "5cc63694-0085-4258-9d82-fc9ce1f1d240",
-		"niveau_id": [
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"def28976-67e9-4483-a1ff-f8127f1d7d18"
-		]
-	},
-	{
-		"description": "beschrijven van grote stappen in de evolutie: RNA naar DNA, ontstaan van eukaryoten, van ongeslachtelijke- naar geslachtelijke voortplanting en van protist naar meercellige.",
-		"prefix": "u4",
-		"id": "e59ef778-d4d8-430d-ad6a-84e52678a8a4",
-		"niveau_id": [
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"7421b6ae-4d25-4437-ab6a-a84b61348436"
-		]
-	},
-	{
-		"description": "verbanden leggen tussen DNA, stambomen en evolutionaire modellen.",
-		"prefix": "u5",
-		"id": "82512150-2e64-4377-827c-857fa5ebb081",
-		"niveau_id": [
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"5269590a-e94b-4c0f-a683-71e25f9f2f10"
-		]
-	},
-	{
-		"description": "analyseren van interacties tussen biotische en abiotische factoren in een gebied.",
-		"prefix": "u1",
-		"id": "5bd77cbf-a609-46d2-8f4a-141f838e2e9d",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"fbbeccc1-c0a3-4123-a4d2-09f468a989ad"
-		]
-	},
-	{
-		"description": "verbanden leggen tussen kringlopen, voedselwebben en de onderlinge samenhang in een ecosysteem.",
-		"prefix": "u2",
-		"id": "ac2835e1-9784-454d-a41d-4659deb54f01",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"3d3bc76a-ca0f-402a-a203-adcd2032acbb"
-		]
-	},
-	{
-		"description": "beschrijven van kringlopen en verstoringen daarvan.",
-		"prefix": "u3",
-		"id": "4f348230-48d3-4922-b2e9-1f82a2e342ba",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"bcd3fe44-ff25-484c-9a3e-d42e83abd2a4"
-		]
-	},
-	{
-		"description": "beschrijven van het dynamisch evenwicht in een ecosysteem en successie.",
-		"prefix": "u4",
-		"id": "254d8ffc-7348-40e2-b263-125494f2d837",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"52f36d94-511f-4b25-958c-c2db03531e8f"
-		]
-	},
-	{
-		"description": "analyseren van de menselijke afhankelijkheid van ecosystemen.",
-		"prefix": "u5",
-		"id": "b654f74c-1d9f-43d4-9ce8-c4923b5efa71",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"5c2c697f-5993-447c-9805-3db81db144d6"
 		]
 	},
 	{
@@ -102654,146 +98614,6 @@
 		"status": "definitief concept",
 		"replaces": [
 			"34957dcc-57d0-4a11-9f0b-5a56ef956f58"
-		]
-	},
-	{
-		"description": "oriënteren op de invloed van hygiëne, voeding, slaap, natuur, relaties, seksualiteit en beweging op lichamelijke en mentale gezondheid.",
-		"prefix": "u1",
-		"id": "20691eb1-e34c-452c-91e8-25c8b276c0f8",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725",
-			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"7fd9721b-0d85-4a7d-9558-6e6efd1c1cda"
-		]
-	},
-	{
-		"description": "beschrijven hoe bacteriën, schimmels en virussen het functioneren van mensen beïnvloeden.",
-		"prefix": "u2",
-		"id": "fb74fd1f-d63d-4566-9525-f35cb6052f82",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725",
-			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"de6d1baf-f3b4-4cd0-9b52-462a777cfa26"
-		]
-	},
-	{
-		"description": "beschrijven hoe ziektes ontstaan, voorkomen en behandeld kunnen worden.",
-		"prefix": "u3",
-		"id": "a7b0e934-cd31-4a0d-b9d8-84ddf9f2ad7c",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725",
-			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"118fceba-dd7c-4f0c-a361-f48bcad288f2"
-		]
-	},
-	{
-		"description": "beschrijven hoe onbedoelde zwangerschappen en seksuele overdraagbare aandoeningen voorkomen kunnen worden.",
-		"prefix": "u4",
-		"id": "c2505a09-525d-4dc2-8e04-277fd70d96a8",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725",
-			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"b667351e-e9ec-4006-8fd3-9710be8eab60"
-		]
-	},
-	{
-		"description": "benoemen wanneer en welke verschillende gezondheids- en welzijnsorganisaties je kunt inschakelen voor hulp en preventie voor jezelf en anderen.",
-		"prefix": "u5",
-		"id": "ab8e57cc-ad22-4774-b0c5-33c2e5be9f99",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725",
-			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"77f26070-d568-4e0a-a799-0a06d2b218f0"
-		]
-	},
-	{
-		"description": "statische en bewegende elektrische lading, geluid, onweer, straling, zonlicht.",
-		"prefix": "u1",
-		"id": "e73dd428-a082-4c70-9091-79fa9e57588d",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"c4311092-726c-4d03-a14b-582c79e5e942"
-		]
-	},
-	{
-		"description": "extreem weer, diep en stromend water, ijs, extreme kou en hitte.",
-		"prefix": "u2",
-		"id": "4a788187-f983-4474-9af3-063e8a6ad9b2",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"5e3274c7-fcb6-4543-8755-618a007106c5"
-		]
-	},
-	{
-		"description": "CO, brand, rook en chemicaliën: toxiciteit, dosis en effect.",
-		"prefix": "u3",
-		"id": "90eaabe1-a1ef-42c1-b8e7-2e8c30e3ef82",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"e01ad113-1d87-4007-b928-cdd29540c9ba"
-		]
-	},
-	{
-		"description": "wilde dieren, giftig voedsel, allergische reacties, ernstige bloedingen en hartstilstand.",
-		"prefix": "u4",
-		"id": "321cd54b-6746-4c7a-9a42-9e14b7604222",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"4e7c5d73-2d49-4836-9f5a-ee48972fe464"
-		]
-	},
-	{
-		"description": "aardbevingen, overstromingen en vulkaanuitbarstingen.",
-		"prefix": "u5",
-		"id": "5b9e8e34-2b05-4d4c-be2f-c2528eb4321f",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"1eb57e66-7bc4-4acd-8960-9858e6d6d69d"
 		]
 	},
 	{
@@ -104542,76 +100362,6 @@
 		]
 	},
 	{
-		"description": "karteren van het ruimtegebruik.",
-		"prefix": "u1",
-		"id": "8cf13cdf-f8bb-4c80-a616-6b76ba4b2e7f",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725",
-			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"452a3bbc-741a-4d41-a0cf-d6df79e3a143"
-		]
-	},
-	{
-		"description": "benoemen van verbanden tussen lokale geschiedenis en erfgoed.",
-		"prefix": "u2",
-		"id": "dd94496a-13b2-4df9-9771-b7acb7237816",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725",
-			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"6d63bf12-1bc9-429f-b6b2-c7e842604ada"
-		]
-	},
-	{
-		"description": "verkennen van economische activiteiten.",
-		"prefix": "u3",
-		"id": "ac278546-feb3-4221-b2d0-eb464acb1acb",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725",
-			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"db5de45e-e315-441b-888f-68c0018c66f2"
-		]
-	},
-	{
-		"description": "beschrijven hoe diversiteit en inclusie zichtbaar zijn.",
-		"prefix": "u4",
-		"id": "4bbcdc5c-ad65-4e83-9354-de7283cb16e9",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725",
-			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"fda5695a-7f9a-4299-83a4-a8b9bf9b7937"
-		]
-	},
-	{
-		"description": "verkennen hoe digitale technologie en digitale middelen de omgeving van de school beïnvloeden.",
-		"prefix": "u5",
-		"id": "e2603dc0-e2d3-4330-85a2-ee2ff299b1e0",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725",
-			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"18b7892c-887b-431b-b48f-b368d3feb71a"
-		]
-	},
-	{
 		"description": "aandacht schenken aan emoties en het omgaan met emoties;",
 		"prefix": "u1",
 		"id": "31056376-357f-4a33-9277-0671437565d5",
@@ -104735,76 +100485,6 @@
 		"status": "definitief concept",
 		"replaces": [
 			"c034c2c4-f0a5-44e6-a5a5-2f60e6247aae"
-		]
-	},
-	{
-		"description": "karteren van het ruimtegebruik.",
-		"prefix": "u1",
-		"id": "cc214b4e-a608-4b00-8fbc-e3583fe6c5ca",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"3aac53be-d016-4169-9971-617ee9010ad3"
-		]
-	},
-	{
-		"description": "benoemen van verbanden tussen lokale geschiedenis en erfgoed.",
-		"prefix": "u2",
-		"id": "6d6fba40-32ef-4e21-b95b-f891cf2fc129",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"e50b5b02-5918-4bde-aef4-f327412655b5"
-		]
-	},
-	{
-		"description": "verkennen van economische activiteiten.",
-		"prefix": "u3",
-		"id": "78567ba3-5e04-43e2-b264-22997f0e34ac",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"3e40306c-1615-407c-8f55-8cc94adad9ca"
-		]
-	},
-	{
-		"description": "beschrijven hoe diversiteit en inclusie zichtbaar zijn.",
-		"prefix": "u4",
-		"id": "05238c5e-001e-4547-a97b-46a9c602b99b",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"1837b260-662a-4e0c-b28c-8fb6c9259eff"
-		]
-	},
-	{
-		"description": "verkennen hoe digitale technologie en digitale middelen de omgeving van de school beïnvloeden.",
-		"prefix": "u5",
-		"id": "7cd2bbdd-e82a-4683-afd2-eb316a99e42a",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"baf3c8b3-ac5b-47ec-a531-20ceb585de61"
 		]
 	},
 	{
@@ -105004,20 +100684,6 @@
 		]
 	},
 	{
-		"description": "gebruiken van passende spreek- en gespreksbevorderende strategieën.",
-		"prefix": "u5",
-		"id": "7946871e-b7aa-463d-87f3-b2b9ead9ef1a",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725",
-			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"16417ac7-8ff8-4a57-8063-17e706b72bf0"
-		]
-	},
-	{
 		"description": "zeer eenvoudige teksten over vertrouwde en alledaagse informatie, gevoelens en interesses;",
 		"prefix": "u1",
 		"id": "bcd99e0b-9657-43cd-9335-4160dbc21d36",
@@ -105074,20 +100740,6 @@
 		]
 	},
 	{
-		"description": "gebruiken van passende schrijfstrategieën.",
-		"prefix": "u5",
-		"id": "29ccfbbe-99e8-4ee0-a435-c6f76f3b51a0",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725",
-			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"f84efdf7-d04a-4efd-987c-139cabfcf4e6"
-		]
-	},
-	{
 		"description": "lezen van, kijken naar en luisteren naar fictie en non-fictieteksten over uiteenlopende thema's en onderwerpen;",
 		"prefix": "u1",
 		"id": "1d9dbf25-6f98-45dc-9b7f-ff93a15d08e1",
@@ -105113,48 +100765,6 @@
 		"status": "definitief concept",
 		"replaces": [
 			"28bf293f-ac15-4490-8827-284d7357c2d5"
-		]
-	},
-	{
-		"description": "stimuleren van de leesmotivatie en durf om te spreken en schrijven.",
-		"prefix": "u3",
-		"id": "157ff095-d3ad-43f2-a639-b3afc3a053e0",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"a8531b11-e0e2-4c10-8719-f1aac05cc9fd"
-		]
-	},
-	{
-		"description": "ruimte bieden aan differentiatie om tegemoet te komen aan de verschillende taalniveaus van leerlingen.",
-		"prefix": "u4",
-		"id": "4eddfd9a-4664-4150-84ae-3313d9ba777e",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"9113ea87-a946-436c-abc7-85adba0eee6f"
-		]
-	},
-	{
-		"description": "ruimte bieden aan verschillende talen en taalvariëteiten van leerlingen bij het leren van Engels.",
-		"prefix": "u5",
-		"id": "6faae98c-226d-4711-b289-727993d49725",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"8210a7c5-7614-4bb8-8b3f-c1a5c6c6a0f5"
 		]
 	},
 	{
@@ -105379,20 +100989,6 @@
 		]
 	},
 	{
-		"description": "gebruiken van passende spreek- en gespreksbevorderende strategieën.",
-		"prefix": "u5",
-		"id": "35723a64-cf16-43aa-ad20-ec749065cbea",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"866dbf4f-65b4-40d4-a758-2c7197b550e5"
-		]
-	},
-	{
 		"description": "overbrengen van feitelijke informatie in korte informele en formele sociale interacties;",
 		"prefix": "u5",
 		"id": "77b279d3-7027-4b4b-a450-c230789112e0",
@@ -105499,32 +101095,6 @@
 		"status": "definitief concept",
 		"replaces": [
 			"19052c64-e8c5-4bca-a5e8-8aa90d08e944"
-		]
-	},
-	{
-		"description": "uiteenlopende vormen van informele en formele schrijftelijke interactie.",
-		"prefix": "u7",
-		"id": "ed478606-ccd3-4e24-9dd2-c5a9c0845e7e",
-		"niveau_id": [
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"cbb64b06-7411-4ca1-b7d4-10237dcd1359"
-		]
-	},
-	{
-		"description": "schrijven van verslagen en opstellen met eenduidige feitelijke informatie over vertrouwde onderwerpen.",
-		"prefix": "u8",
-		"id": "53f2b9b6-03db-40b9-b750-06fca27915a0",
-		"niveau_id": [
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"46571202-f4d9-4a94-b414-a41efa2896f3"
 		]
 	},
 	{
@@ -105764,20 +101334,6 @@
 		]
 	},
 	{
-		"description": "reflecteren op de eigen beleving van interculturele ervaringen.",
-		"prefix": "u3",
-		"id": "9e84ac36-7eb9-41a5-9a98-612c7931f96c",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725",
-			"e7f1c08f-08fb-48ab-be8e-c131b1bce54a"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"ff30fc3f-c6a2-4e37-80cd-dc8b6b3cbb26"
-		]
-	},
-	{
 		"description": "onderzoeken van de eigen interesses en doelen voor het leren van en over het Engels: culturen, gebieden en sprekers;",
 		"prefix": "u1",
 		"id": "84b3cd18-d726-4adb-a51f-c483458b1967",
@@ -105960,60 +101516,6 @@
 		]
 	},
 	{
-		"description": "interpreteren van culturele interacties die in het Engels plaatsvinden.",
-		"prefix": "u4",
-		"id": "2a785038-238a-4287-bdb6-950e58073074",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"5a5ec887-62ba-4006-981d-f991a24673e7"
-		]
-	},
-	{
-		"description": "deelnemen aan eenvoudige communicatieve situaties met sprekers van het Engels.",
-		"prefix": "u5",
-		"id": "72bcffdb-afbe-493c-a020-dd7aa5db3f9b",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"4321d563-52e1-4861-9dd3-97430feea1d3"
-		]
-	},
-	{
-		"description": "onderzoeken van culturele aspecten van doeltaalgebieden en doeltaalsprekers.",
-		"prefix": "u6",
-		"id": "f7c83266-5cda-4515-9ec4-cbdf64404838",
-		"niveau_id": [
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"d2a67ca2-2f8c-48bb-8e77-ae496cc43840"
-		]
-	},
-	{
-		"description": "kritische vragen formuleren over aannames.",
-		"prefix": "u7",
-		"id": "32f2e1ae-5abf-4853-b3f0-1ec3e0a8e9e2",
-		"niveau_id": [
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"8282f8c1-801a-4ef2-b694-f91846442e6d"
-		]
-	},
-	{
 		"description": "lezen van, kijken naar en luisteren naar fictie en non-fictie teksten over uiteenlopende thema's en onderwerpen.",
 		"prefix": "u1",
 		"id": "b7687ef9-6c3f-4e88-a83b-6c78bffeb399",
@@ -106112,19 +101614,6 @@
 		]
 	},
 	{
-		"description": "creëren van korte teksten met zinnen, illustraties en eenvoudig figuurlijk taalgebruik.",
-		"prefix": "u6",
-		"id": "c3f9a771-0357-4ab6-959e-70af64620673",
-		"niveau_id": [
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"2d7b384c-08c7-4f9f-8f31-0e3e16fb0096"
-		]
-	},
-	{
 		"description": "samenvatten van de gelezen en beluisterde inhoud;",
 		"prefix": "u1",
 		"id": "7cf09177-ec2b-4a9b-9581-fb19a93634fe",
@@ -106187,347 +101676,6 @@
 		"status": "definitief concept",
 		"replaces": [
 			"62df5ed7-e605-4be1-b7d8-ad2c5f1c715c"
-		]
-	},
-	{
-		"description": "benoemen van tekstsoorten en tekstkenmerken",
-		"prefix": "u6",
-		"id": "4b2b17cb-2db6-4dba-ad30-98fc80ac9355",
-		"niveau_id": [
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"8c2f2374-ca2d-43c4-94ce-f9c9d02f13ac"
-		]
-	},
-	{
-		"description": "concrete, zeer vertrouwde en alledaagse informatie.",
-		"prefix": "u1",
-		"id": "8dea4223-5a74-4235-a2b7-7223c5788809",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"b72ca300-f252-4c2d-9f4a-30a5a5ad40d3"
-		]
-	},
-	{
-		"description": "stellen en beantwoorden van zeer eenvoudige vragen.",
-		"prefix": "u2",
-		"id": "ffc2eaeb-9877-4a23-a06f-d78279c9a897",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"1c15403a-e9b5-4061-8fbb-568e5720ea44"
-		]
-	},
-	{
-		"description": "mondeling beschrijven van zeer eenvoudige zaken.",
-		"prefix": "u3",
-		"id": "5a9b0fa1-b9e7-44fa-aa68-32b80487f875",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"a6fd394b-0a09-4616-acb9-ff955ff95e26"
-		]
-	},
-	{
-		"description": "gebruiken van zeer elementaire woorden, woordcombinaties, uitdrukkingen, zinnen en taalstructuren.",
-		"prefix": "u4",
-		"id": "5b036e67-c5fe-46f1-8c3a-26a7141ada55",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"ae85f492-1d3e-4fb2-b22a-3c965cfe71b0"
-		]
-	},
-	{
-		"description": "gebruiken van passende spreek- en gespreksbevorderende strategieën.",
-		"prefix": "u5",
-		"id": "2532c9c9-7ac6-4be0-b4fb-aafe63f0f2f2",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"c57475ee-2574-4521-9ea1-cd7992da22f7"
-		]
-	},
-	{
-		"description": "concrete, vertrouwde en alledaagse informatie.",
-		"prefix": "u6",
-		"id": "5ed124ee-a3f4-416f-ab96-530287427e75",
-		"niveau_id": [
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"ba0eef74-06d3-48c4-a8f1-a897d760a977"
-		]
-	},
-	{
-		"description": "stellen en beantwoorden van eenvoudige vragen.",
-		"prefix": "u7",
-		"id": "3edfc76c-04b2-412d-a678-4b7fbcaf46f8",
-		"niveau_id": [
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"2cc3df0a-5f01-4785-9c28-56571c1d6bc1"
-		]
-	},
-	{
-		"description": "concrete, zeer vertrouwde en alledaagse, korte teksten.",
-		"prefix": "u1",
-		"id": "09d7430f-570d-4d05-a7fe-61ee9fadaac4",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"59d8a1e5-e342-4ac2-8cf7-31144ee338b5"
-		]
-	},
-	{
-		"description": "uitwisselen van zeer eenvoudige informatie.",
-		"prefix": "u2",
-		"id": "936eafdb-6fc5-4206-963b-5108cd0d2cc0",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"397796c6-899f-4b92-b861-d1b1520365bf"
-		]
-	},
-	{
-		"description": "schriftelijk beschrijven van zeer eenvoudige zaken.",
-		"prefix": "u3",
-		"id": "269ee15c-f7a2-4869-8d8c-7b96966eb2fc",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"066b2916-0b07-4cd2-8c7d-6c099eee2a66"
-		]
-	},
-	{
-		"description": "gebruiken van zeer elementaire woordenschat, woordcombinaties, uitdrukkingen, zinnen en taalstructuren.",
-		"prefix": "u4",
-		"id": "b8fa0718-f3c1-4932-8adc-f2df5dd4e3aa",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"3c2ca67e-bdd1-42ad-bb37-443b2eebe02f"
-		]
-	},
-	{
-		"description": "gebruiken van passende schrijfstrategieën.",
-		"prefix": "u5",
-		"id": "0ea24055-ccd4-420b-83b7-000a4e25fa9d",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"fd68f12c-0576-4ac7-bf2c-073c0f09a8e7"
-		]
-	},
-	{
-		"description": "concrete, vertrouwde en alledaagse, korte teksten.",
-		"prefix": "u6",
-		"id": "c985ae24-e5c9-4d4d-831a-26d136740e4a",
-		"niveau_id": [
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"bfcf5359-6f84-4b00-a7f1-25f6489ee84d"
-		]
-	},
-	{
-		"description": "samenvatten van de gelezen en beluisterde inhoud.",
-		"prefix": "u1",
-		"id": "4343cb3a-53b5-4cd7-a0a7-23edc0306086",
-		"niveau_id": [
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"986638fa-905f-4df0-8cc8-af59c995b16d"
-		]
-	},
-	{
-		"description": "vergelijken van de inhoud van teksten.",
-		"prefix": "u2",
-		"id": "ea021020-78a9-4a9b-a577-ef8f5994a2b0",
-		"niveau_id": [
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"f141322f-6ca1-4a55-acc8-ce225f5a64a7"
-		]
-	},
-	{
-		"description": "ordenen van informatie in een schema.",
-		"prefix": "u3",
-		"id": "d638aa4a-602a-48de-b623-4c55d7c9e0e6",
-		"niveau_id": [
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"1e06dbed-e4fd-4abe-9ec3-1627e26a2c3f"
-		]
-	},
-	{
-		"description": "verwoorden van ideeën en meningen naar aanleiding van teksten.",
-		"prefix": "u4",
-		"id": "fe530a50-f7f8-45e2-845c-cb38f5f4b19f",
-		"niveau_id": [
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"b7a3b0a1-6c21-45c9-a5e1-a404c5766bdc"
-		]
-	},
-	{
-		"description": "gebruiken van school- en vaktaal.",
-		"prefix": "u5",
-		"id": "88007b32-cbc7-4e3d-9df5-4220aedec794",
-		"niveau_id": [
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"194351f7-55ab-446d-9449-0cace29f5c91"
-		]
-	},
-	{
-		"description": "experimenteren met woorden, zinnen, klanken, ritme en visuele vormen.",
-		"prefix": "u1",
-		"id": "72b311a9-26a5-4d4b-9ebd-ba52ad5123b6",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"17500ee7-427d-40f5-ba56-b6ab3a661dd9"
-		]
-	},
-	{
-		"description": "uitdrukken van ervaringen, gevoelens, gedachten en ideeën in verschillende soorten eenvoudige taalcreaties.",
-		"prefix": "u2",
-		"id": "81814aab-b465-49e5-911f-8c1136f921bf",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"1aa8226a-f0e8-42c9-9919-5f19dbfe0ab6"
-		]
-	},
-	{
-		"description": "gebruiken van creatieve voorbeelden om een creatieve tekst te maken.",
-		"prefix": "u3",
-		"id": "844ce8e1-5d45-4459-8673-31bba0950ea9",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"186c2d3e-f294-47ad-876a-314510041325"
-		]
-	},
-	{
-		"description": "reflecteren op het eigen creatieve werk en dat van anderen.",
-		"prefix": "u4",
-		"id": "508fac46-82bd-4980-be3b-cbcd44084461",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"d8eadbb3-7a39-4315-aede-ba40423c2a2c"
-		]
-	},
-	{
-		"description": "lezen van, kijken naar en luisteren naar fictie en non-fictie teksten over uiteenlopende thema's en onderwerpen.",
-		"prefix": "u1",
-		"id": "f90b337c-f416-4d15-8640-3761b2d03637",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"8c9fdc3c-5022-45c6-9724-2adbbe402d6e"
-		]
-	},
-	{
-		"description": "lezen van, kijken naar en luisteren naar verschillende taalvariëteiten en taalniveaus van sprekers van de doeltaal en contexten waarin de doeltaal als lingua franca wordt gebruikt.",
-		"prefix": "u2",
-		"id": "ba80ed7e-66ec-4dc0-80ed-44abb05de654",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"1891b057-dfa0-498c-97b1-5b63030eec97"
 		]
 	},
 	{
@@ -106601,19 +101749,6 @@
 		]
 	},
 	{
-		"description": "korte eenvoudige, langzaam en zorgvuldig uitgesproken tekst over concrete en vertrouwde alledaagse zaken.",
-		"prefix": "u6",
-		"id": "d4856990-537a-4dba-8e4a-6ec80eb79684",
-		"niveau_id": [
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"d97c7227-6efe-4301-a5df-afe1eb3a5b18"
-		]
-	},
-	{
 		"description": "geïllustreerde fictie- en non-fictieteksten over voorspelbare en alledaagse zaken in heldere standaardtaal en een vertrouwde taalvariëteit;",
 		"prefix": "u1",
 		"id": "9ddc5d95-2068-4766-a12b-adcfb81a3b35",
@@ -106667,19 +101802,6 @@
 		"status": "definitief concept",
 		"replaces": [
 			"8077f406-a2f7-4992-adab-bc369d449e02"
-		]
-	},
-	{
-		"description": "verschillende soorten korte, eenvoudige teksten over concrete en vertrouwde alledaagse zaken.",
-		"prefix": "u5",
-		"id": "aec23d7e-6029-4f2e-a16e-a74b6ee43a55",
-		"niveau_id": [
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"0c23af6d-922e-4aa7-b2e6-424cc05d077d"
 		]
 	},
 	{
@@ -106821,20 +101943,6 @@
 		]
 	},
 	{
-		"description": "gebruiken van zeer elementaire woordenschat, woordcombinaties, uitdrukkingen, zinnen en taalstructuren.",
-		"prefix": "u4",
-		"id": "93579720-2ea2-4e0c-96e6-3c4a4548d3c5",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"1d4a7e89-4b60-4288-96ec-f73c4d96b5d6"
-		]
-	},
-	{
 		"description": "gebruiken van passende schrijfstrategieën.",
 		"prefix": "u4",
 		"id": "88f1ac06-7347-4164-b37e-aab65e4822c3",
@@ -106859,127 +101967,6 @@
 		"status": "definitief concept",
 		"replaces": [
 			"7fa9b6a6-c493-4f32-b739-d67db37ae115"
-		]
-	},
-	{
-		"description": "samenvatten van de gelezen en beluisterde inhoud.",
-		"prefix": "u1",
-		"id": "c2660605-0c9f-4e10-a300-495434ab447b",
-		"niveau_id": [
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"0cd11660-3c94-4cb5-85ca-45de00776c0a"
-		]
-	},
-	{
-		"description": "vergelijken van de inhoud van teksten.",
-		"prefix": "u2",
-		"id": "fcd80738-1a36-4b2e-b2ea-02104568f60c",
-		"niveau_id": [
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"14924073-cbbf-4232-9e63-5d6bb06f647f"
-		]
-	},
-	{
-		"description": "ordenen van informatie in een schema.",
-		"prefix": "u3",
-		"id": "61a5ea20-f25e-4d85-9346-4e4ec066f1c5",
-		"niveau_id": [
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"fc742624-a9e3-4369-b7da-e78eb4b7ae3e"
-		]
-	},
-	{
-		"description": "verwoorden van ideeën en meningen naar aanleiding van teksten.",
-		"prefix": "u4",
-		"id": "166ecd7f-d5e3-4236-923f-023bc1fe5e64",
-		"niveau_id": [
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"b63f9fb5-ca4b-4413-b59b-9fbf775a2fdc"
-		]
-	},
-	{
-		"description": "gebruiken van school- en vaktaal.",
-		"prefix": "u5",
-		"id": "854f848b-60c7-4506-aa00-e2ad108052ef",
-		"niveau_id": [
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"2f3c8620-cd07-45e1-aa52-c86f065cb09c"
-		]
-	},
-	{
-		"description": "experimenteren met woorden, zinnen, klanken, ritme en visuele vormen.",
-		"prefix": "u1",
-		"id": "36bd7bf6-42eb-40ae-b6b2-54f112ddca58",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"337ec113-dcac-4886-bb6c-608f3a962c1b"
-		]
-	},
-	{
-		"description": "uitdrukken van ervaringen, gevoelens, gedachten en ideeën in verschillende soorten eenvoudige taalcreaties.",
-		"prefix": "u2",
-		"id": "2b88117c-d78b-41aa-b66a-1db33e2f20f2",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"55b3d1cb-8f9f-480d-ac1c-c861423222a9"
-		]
-	},
-	{
-		"description": "gebruiken van creatieve voorbeelden om een creatieve tekst te maken.",
-		"prefix": "u3",
-		"id": "32a16975-59be-4e1e-812f-261b130cdd7c",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"3ae94b95-2748-477c-aaa6-451b9504bfe2"
-		]
-	},
-	{
-		"description": "reflecteren op het eigen creatieve werk en dat van anderen.",
-		"prefix": "u4",
-		"id": "2daba816-980d-4c8a-816d-69b0e466fd68",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"8e3a1e46-05ec-4105-b74e-9b6cdedcdb19"
 		]
 	},
 	{
@@ -107162,296 +102149,6 @@
 		"status": "definitief concept",
 		"replaces": [
 			"ca9fc444-02b5-43ce-b211-cb7a08e3ee22"
-		]
-	},
-	{
-		"description": "interpreteren van culturele interacties die in de doeltaal plaatsvinden.",
-		"prefix": "u4",
-		"id": "47f2d5bc-6270-42e9-8210-b912a90957ff",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"fb0776a8-7a77-4500-8a29-ee9f2dea6df2"
-		]
-	},
-	{
-		"description": "deelnemen aan eenvoudige communicatieve situaties met sprekers van de doeltaal.",
-		"prefix": "u5",
-		"id": "729cdb6b-6953-4540-80ba-7640fbdcec50",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"42b6670f-baa0-427f-b496-7bc27a3b790d"
-		]
-	},
-	{
-		"description": "onderzoeken van culturele aspecten van doeltaalgebieden en doeltaalsprekers.",
-		"prefix": "u6",
-		"id": "1844837c-1c7c-49c3-a495-96d7391357e8",
-		"niveau_id": [
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"3674d27f-08ca-4013-b850-4c466281c663"
-		]
-	},
-	{
-		"description": "kritische vragen formuleren over aannames.",
-		"prefix": "u7",
-		"id": "db543f99-b1e6-4384-be6d-29163317ac12",
-		"niveau_id": [
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"ff7d73ae-dc79-4ea7-a3b0-62e375fe694d"
-		]
-	},
-	{
-		"description": "beschrijven van de eigen taalleerstrategieën.",
-		"prefix": "u1",
-		"id": "69350f07-c97f-4dd1-9ebc-3fa46483063b",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"2d25980c-6589-4fe8-90db-053ec8b63f77"
-		]
-	},
-	{
-		"description": "verkennen wat de eigen meertaligheid betekent voor het leren van talen.",
-		"prefix": "u2",
-		"id": "4d2fe4d4-ba50-43b6-b0f3-b08a41b45634",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"276e71e2-5970-4d93-bb10-d3a2ef56b412"
-		]
-	},
-	{
-		"description": "benoemen van overeenkomsten en verschillen tussen het Engels en andere talen ter bevordering van het taalleerproces.",
-		"prefix": "u3",
-		"id": "ce3488aa-484f-47d9-9c3f-58a3936e76f8",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"9912f3b7-f360-42b1-8a94-87fffbfd9afc"
-		]
-	},
-	{
-		"description": "evalueren van de bruikbaarheid van digitale middelen voor het eigen taalleerproces.",
-		"prefix": "u4",
-		"id": "c6a20c7f-935f-4b04-9c25-891685664edd",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"c4d87a3e-6d00-4508-9f99-bc7516a3bd9c"
-		]
-	},
-	{
-		"description": "verkennen van de eigen interesses en doelen voor het leren van en over de doeltaal, doeltaalculturen en doeltaalsprekers.",
-		"prefix": "u5",
-		"id": "320515fa-6c82-44be-9c42-c64ee298af5b",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"de98b08a-21d6-4131-aee8-75e4e0f5021b"
-		]
-	},
-	{
-		"description": "onderscheiden waar, door wie en in welke contexten de doeltaal wordt gebruikt.",
-		"prefix": "u1",
-		"id": "b5d24889-2e0b-4d2c-bb6e-676587906f1d",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"565ab89c-5678-445a-a540-d5db23393c6c"
-		]
-	},
-	{
-		"description": "benoemen van overeenkomsten en verschillen op het gebied van gewoontes, omgangsvormen en perspectieven binnen en tussen culturen.",
-		"prefix": "u2",
-		"id": "56db34f7-c32a-4b43-afbd-c31312d74191",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"2eb7af69-996a-48c5-ae6d-e2c93ec7788e"
-		]
-	},
-	{
-		"description": "benoemen van maatschappelijke thema's.",
-		"prefix": "u3",
-		"id": "5452f994-7338-4eef-a2b8-650e6eebd8d2",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"a8541502-67f0-473d-8384-2d8b1579fa76"
-		]
-	},
-	{
-		"description": "beschrijven van situaties vanuit verschillende culturele perspectieven.",
-		"prefix": "u4",
-		"id": "db918406-cad8-403a-8be5-976e8a48ede3",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"f51dc26b-f87f-40fe-aef4-ae46807c46af"
-		]
-	},
-	{
-		"description": "reflecteren op de eigen lees-, luister- en kijkervaring van fictie en nonfictie uit verschillende culturen.",
-		"prefix": "u5",
-		"id": "65d9aecc-97f7-4da9-af10-7043fc0736ce",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"99e5176d-5d9a-402c-a767-5c1371df70d3"
-		]
-	},
-	{
-		"description": "beschrijven van culturele aspecten van sprekers van de doeltaal en gebieden waar de doeltaal wordt gesproken.",
-		"prefix": "u1",
-		"id": "b4bdd8dd-7936-4166-8bfb-8d125b06463c",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"09baa2a7-1544-4345-84a8-930a21acc1e2"
-		]
-	},
-	{
-		"description": "reflecteren op de eigen eerdere interculturele ervaringen.",
-		"prefix": "u2",
-		"id": "fea239a4-24c2-4108-b491-8540d55e11fd",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"a8726ccc-f867-4b97-ae63-be08ad0c0d04"
-		]
-	},
-	{
-		"description": "benoemen van culturele elementen in interacties.",
-		"prefix": "u3",
-		"id": "967b6eba-4b66-4aa6-ba36-75c37448241c",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"c666c308-4cc2-4cf6-8af9-53506776c2f5"
-		]
-	},
-	{
-		"description": "interpreteren van culturele interacties die in de doeltaal plaatsvinden.",
-		"prefix": "u4",
-		"id": "b95bc4f0-760f-4183-b657-dca14ecf4328",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"0f85e810-0166-4545-ad53-e97d492cfe67"
-		]
-	},
-	{
-		"description": "deelnemen aan eenvoudige communicatieve situaties met sprekers van de doeltaal.",
-		"prefix": "u5",
-		"id": "c496a8c3-49a7-4b3e-96de-c9ba386c1d86",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"a0817364-1bf0-435b-8911-aa3b648df7f1"
-		]
-	},
-	{
-		"description": "onderzoeken van culturele aspecten van doeltaalgebieden en doeltaalsprekers.",
-		"prefix": "u6",
-		"id": "05400e2e-434f-4e69-8e52-c404c580fbfb",
-		"niveau_id": [
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"6a94bbc9-4bf6-4f59-ac9b-df44ba405783"
-		]
-	},
-	{
-		"description": "kritische vragen formuleren over aannames.",
-		"prefix": "u7",
-		"id": "b94437f4-9948-4df4-9363-a74b29a11c72",
-		"niveau_id": [
-			"7835ae8e-0923-4a60-aadd-251b9c0b99b5"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "definitief concept",
-		"replaces": [
-			"9789e55b-75e7-4196-9936-330e4df4ccd1"
 		]
 	},
 	{
@@ -121518,6 +116215,720 @@
 		"replaces": [
 			"741a066d-45e2-4689-b82b-236af07e563c",
 			"b4cdd6e0-842b-4716-930d-f5d691b7640e"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "de Friese taal en cultuur in al zijn verschijningsvormen laten horen en zien;",
+		"prefix": "u1",
+		"status": "definitief concept",
+		"id": "e80c2b7c-dc93-44e6-a632-2f83b51dedef",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"replaces": [
+			"c932921b-d084-458f-8912-a828aee97b80"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "aanbieden van een veelzijdig en actueel aanbod Friese (voor)leesboeken, jeugdliteratuur en authentieke vakoverstijgende Friestalige teksten;",
+		"prefix": "u2",
+		"status": "definitief concept",
+		"id": "714a2e72-e9a9-4c13-9627-c4c63da26170",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"replaces": [
+			"8d792957-87d2-4233-ab72-fe96a86883b2"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "aanbieden van kennis en vaardigheden uit het leergebied Friese taal & cultuur in onderlinge samenhang;",
+		"prefix": "u3",
+		"status": "definitief concept",
+		"id": "43c710c6-7326-4362-8433-4ea134ba1600",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"replaces": [
+			"c8763a49-0440-4053-889f-d9dae16e7a1a"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "aanbieden van taalsteunmiddelen om Fries te begrijpen en durven gebruiken;",
+		"prefix": "u4",
+		"status": "definitief concept",
+		"id": "be76ceda-dcd8-4853-8d0f-738babf6e4d7",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"replaces": [
+			"42bf8791-cad9-482c-b772-402df8e4f1f0"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "stimuleren van de leesmotivatie voor Friestalige teksten, boeken en jeugdliteratuur.",
+		"prefix": "u5",
+		"status": "definitief concept",
+		"id": "3ed62612-0c96-4c3c-a86d-38bd3ad2403f",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"replaces": [
+			"48d19b14-0fbc-43c1-a0d9-56be49f90da9"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "ruimte bieden aan het gebruik van het Fries en taalvariëteiten van het Fries in informele en formele setting;",
+		"prefix": "u1",
+		"status": "definitief concept",
+		"id": "cf5ef87b-3325-4128-9097-dfafcbb23634",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"replaces": [
+			"32f1da35-3862-404b-b114-c5fbd99ca827"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "aanbieden van leeractiviteiten passend bij het taalniveau en de belevingswereld van de leerlingen;",
+		"prefix": "u2",
+		"status": "definitief concept",
+		"id": "855351b6-74f5-495d-85ea-ec2c4061296a",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"replaces": [
+			"bccc8645-2c76-4c0c-84e3-2db449895557"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "aanbieden van betekenisvolle leeractiviteiten waarin de Friese taal als school- en vaktaal actief wordt gebruikt;",
+		"prefix": "u3",
+		"status": "definitief concept",
+		"id": "46e57ca7-b95d-490a-afaf-df466917e13e",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"replaces": [
+			"c9b73d39-e25a-4f7a-8015-2cc0c8db2ca6"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "aanbieden van leeractiviteiten waarin leerlingen kennis en vaardigheden vakoverstijgend toepassen.",
+		"prefix": "u4",
+		"status": "definitief concept",
+		"id": "4e773d75-90f3-45b1-ae68-f229abae80c5",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"replaces": [
+			"ed464605-da44-4997-9440-9fa1b8403c46"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "lezen, bekijken en beluisteren van Friestalige teksten;",
+		"prefix": "u1",
+		"status": "definitief concept",
+		"id": "5853e370-448b-4798-8c60-0a0a9db8ca42",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"replaces": [
+			"1fe5e2c4-a1ee-46e2-b334-e25eeb73a329"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "verwoorden van onderwerp en hoofdzaken;",
+		"prefix": "u2",
+		"status": "definitief concept",
+		"id": "6667fc55-d2c3-4174-af9d-896d3b911b1a",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"replaces": [
+			"87c2a67b-16a1-4288-a3ba-66c1af0b54f7"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "inzetten en uitbreiden van de Friese woordenschat;",
+		"prefix": "u3",
+		"status": "definitief concept",
+		"id": "80c1fa1a-5db8-463f-a5cf-725000e23798",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"replaces": [
+			"e2a6f7d4-a2de-4177-bd30-b18ca2c302b1"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "flexibel toepassen van verschillende aanpakken en begripsverhogende strategieën;",
+		"prefix": "u4",
+		"status": "definitief concept",
+		"id": "dfe59be5-3137-4987-862e-3216693866f0",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"replaces": [
+			"376304eb-af9d-40f1-b0ae-59a82be3104c"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "beoordelen en selecteren van verschillende soorten teksten;",
+		"prefix": "u1",
+		"status": "definitief concept",
+		"id": "0bfb5ac1-0b7d-4803-b2a1-17ab115c74be",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"replaces": [
+			"e772f604-4ace-4fdf-bb91-7a0dfd491a33"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "verbanden leggen tussen teksten en eigen ervaringen;",
+		"prefix": "u2",
+		"status": "definitief concept",
+		"id": "d139a7a7-5500-4035-999d-627ef838a750",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"replaces": [
+			"c3f79d76-0a81-4a6d-a5fd-5471821432f1"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "verbanden leggen binnen en tussen teksten;",
+		"prefix": "u3",
+		"status": "definitief concept",
+		"id": "3e7cd446-cd7d-49f8-ae94-9cea9b284f76",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"replaces": [
+			"6164719b-96ae-4855-9ce3-2180e96d5076"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "formuleren van gedachten, ideeën, inzichten en ervaringen in gesproken en geschreven teksten passend bij het taalniveau en de leeftijdsfase van de leerling;",
+		"prefix": "u1",
+		"status": "definitief concept",
+		"id": "737d0ebb-1a2d-4197-83c8-778aa5f6a0b5",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"replaces": [
+			"fe88e590-6fa9-47b1-9f48-ec1dacbc3a58"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "gebruiken van Friese spelling- en grammaticaregels;",
+		"prefix": "u2",
+		"status": "definitief concept",
+		"id": "c926761a-e4a3-45a9-a31c-d4d4269dee62",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"replaces": [
+			"3ef52dfb-2379-4a84-aa8d-87a2e020feb5"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "reviseren van een tekst met het oog op doelgerichte communicatie: taalgebruik en taalverzorging;",
+		"prefix": "u3",
+		"status": "definitief concept",
+		"id": "23fd52a5-321b-4e5f-b551-e74940240168",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"replaces": [
+			"16c5e074-f5ec-4cea-88d1-4ff23c8c5c89"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "inzetten van kennis over de vorm van teksten: tekstsoorten, tekststructuren, verteltechnieken.",
+		"prefix": "u4",
+		"status": "definitief concept",
+		"id": "775b7d7d-2a5d-4f6a-b561-2f4932ba76b2",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"replaces": [
+			"857591ee-6026-44d7-a2fe-9663e0c4519c"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "adequaat reageren op een Friessprekende gesprekspartner;",
+		"prefix": "u1",
+		"status": "definitief concept",
+		"id": "7c8242b7-e89f-44c8-8482-46c36bd73a8e",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"replaces": [
+			"2a4c49da-65b2-4c6c-9ff3-cc47f3e82f92"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "verstaanbaar Fries spreken;",
+		"prefix": "u2",
+		"status": "definitief concept",
+		"id": "c4c339e0-8c3d-4513-b3d6-841de84c143c",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"replaces": [
+			"2b356052-c805-4ed7-b336-cecb5c96123e"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "in het Fries bijdragen aan een gesprek waarbij kwaliteit en kwantiteit van de bijdrage passen bij het taalniveau en de leeftijdsfase van de leerling;",
+		"prefix": "u3",
+		"status": "definitief concept",
+		"id": "c817432a-5d7f-41b3-99d9-c4ca0b895ab3",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"replaces": [
+			"f8bc319c-35b6-4039-bb1c-1b1373eb6f76"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "flexibel toepassen van gespreksconventies passend bij de gespreksvorm.",
+		"prefix": "u4",
+		"status": "definitief concept",
+		"id": "66ed51e2-f9c1-46c6-98e9-3689203ff06e",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"replaces": [
+			"cf841763-c994-4693-92bb-cf8c138f7815"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "verkennen van de Friese taal op vorm, klank en gebruik;",
+		"prefix": "u1",
+		"status": "definitief concept",
+		"id": "48fe17eb-4922-4c14-bac3-97b37e7b8a08",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"replaces": [
+			"96156d0a-a4c3-4b1a-99cd-d0b733ef2e5b"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "vergelijken van het Fries met het Nederlands en andere talen en taalvariëteiten in Fryslân;",
+		"prefix": "u2",
+		"status": "definitief concept",
+		"id": "e2ff14dd-4e4a-46f4-b17f-97c90cb8f340",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"replaces": [
+			"b2260878-966c-43af-a8f1-1baec8838342"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "benoemen van en reflecteren op taaleigen kenmerken van de Friese taal;",
+		"prefix": "u3",
+		"status": "definitief concept",
+		"id": "36774c1f-3155-4181-98bb-6e3ad678d7bb",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"replaces": [
+			"b23bb971-7167-444c-93d1-414574b17e96"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "verkennen van verschillen tussen gesproken en geschreven Fries.",
+		"prefix": "u4",
+		"status": "definitief concept",
+		"id": "209ea972-313f-4a5b-b91b-fa8355297f63",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"replaces": [
+			"258d2d08-52ed-4cb8-b8f3-b4cabc47cab9"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "evalueren van het eigen talenrepertoire en de positie van het Fries daarin;",
+		"prefix": "u1",
+		"status": "definitief concept",
+		"id": "dd35846d-c21b-44b2-8ac7-e134508d4fad",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"replaces": [
+			"118d0f13-500b-4fed-ac06-c52f6ec2864e"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "redeneren wanneer en waarom zijzelf en anderen Fries gebruiken;",
+		"prefix": "u2",
+		"status": "definitief concept",
+		"id": "f4b6d440-284a-40ac-9121-0dbb2dbb0698",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"replaces": [
+			"6c212012-671d-4ecb-b918-5c3b41342e75"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "verbanden leggen tussen Fries taalgebruik en kennis van meertaligheid, identiteit en (sub)cultuur;",
+		"prefix": "u3",
+		"status": "definitief concept",
+		"id": "7587f30c-e87a-4cf3-ad48-7f64442a2ee1",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"replaces": [
+			"ed3634dd-50fa-429d-90f4-017f9f160bf7"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "reflecteren op de maatschappelijke positie van het Fries in de meertalige samenleving.",
+		"prefix": "u4",
+		"status": "definitief concept",
+		"id": "331bf877-ceb4-4a41-b9d7-8d4471882ae7",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"replaces": [
+			"b246bc1a-0b1c-4323-8ca9-44790a2a0e1d"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "reflecteren op het verloop van het proces en de gemaakte keuzes tijdens en na het proces;",
+		"prefix": "u1",
+		"status": "definitief concept",
+		"id": "7a5060f9-a1e0-42d2-920b-a66119898385",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"replaces": [
+			"782cab64-6449-4c8d-8681-07d68b3ea184"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "evalueren van de eigen Friese taalproducten aan de hand van kwaliteitscriteria voor inhoud en vorm;",
+		"prefix": "u2",
+		"status": "definitief concept",
+		"id": "09a508bc-dc7d-43dd-8507-f112c96681b6",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"replaces": [
+			"09205b1c-0e0b-44a0-a1b9-8e4f9c0b7016"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "evalueren van Friese taalproducten aan de hand van vergelijkingen met taalproducten van anderen;",
+		"prefix": "u3",
+		"status": "definitief concept",
+		"id": "146cb681-2c37-4357-a31a-fa8c580da1ad",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"replaces": [
+			"22f798c0-3a34-4c33-a0d6-6399a8662332"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "formuleren van leerdoelen voor de eigen Friese taalontwikkeling op basis van evaluatie en reflectie;",
+		"prefix": "u4",
+		"status": "definitief concept",
+		"id": "853f29ee-9451-4b2f-b157-c5dc2a3b093e",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"replaces": [
+			"88e90d2d-fb2c-41e2-8606-4e516b49fea8"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "verwerken van feedback.",
+		"prefix": "u5",
+		"status": "definitief concept",
+		"id": "9319e2b4-c8e1-44dc-84f1-ec2a1f46732d",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"replaces": [
+			"57b9961d-603f-4b0f-9993-10d5e4236624"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "lezen, bekijken en beluisteren van Friese culturele en creatieve taaluitingen;",
+		"prefix": "u1",
+		"status": "definitief concept",
+		"id": "487661fb-fe6d-4dce-9ea0-53857df170b1",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"replaces": [
+			"4198ec37-eb84-464e-bb97-6de1d993bcc2"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "verwoorden en verbeelden van persoonlijke gedachten en gevoelens;",
+		"prefix": "u2",
+		"status": "definitief concept",
+		"id": "fe5bb53a-c475-42df-a98b-a57e0f694012",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"replaces": [
+			"515c8230-27eb-459c-89cf-0e58ae4aabaa"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "vergelijken van eigen interpretaties van Friese culturele en creatieve taaluitingen met die van anderen.",
+		"prefix": "u3",
+		"status": "definitief concept",
+		"id": "8ad2263d-a9e6-49f8-98ab-1342313767f0",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"replaces": [
+			"ca019dda-1cab-4b6c-b4a4-33adea40fb4c"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "uitdrukking geven aan ideeën, gedachten, gevoelens, ervaringen en fantasieën in verschillende soorten taalcreaties;",
+		"prefix": "u1",
+		"status": "definitief concept",
+		"id": "76d8300a-cb2d-4ce5-b8bd-8769867598fc",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"replaces": [
+			"be7236f0-ad9d-4aa1-a8a9-a0685d4f3e39"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "experimenten met Friese klanken, woorden, zinnen, literaire genres, taalregels, taalconventies en visuele vormen;",
+		"prefix": "u2",
+		"status": "definitief concept",
+		"id": "65a4e311-8e3d-4fec-9db1-357da5e516ad",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"replaces": [
+			"31196715-3e73-48ba-adfd-13dfce9ef34b"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "gebruiken van vormgevingsmiddelen om de Friese taaluiting te versterken;",
+		"prefix": "u3",
+		"status": "definitief concept",
+		"id": "c0913e57-b6e0-421f-a747-f4e1d68455c2",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"replaces": [
+			"37be2b5f-2d08-412d-91db-4efe88f64f6a"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "toelichten hoe eigen ideeën, gedachten, gevoelens, ervaringen of fantasieën zijn verwerkt in de taalcreatie;",
+		"prefix": "u4",
+		"status": "definitief concept",
+		"id": "a370e79e-6090-49fa-b138-428ca5b2b05b",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"replaces": [
+			"4c6e9926-3166-48c2-b399-16626e5fb440"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "waarderen van taalcreaties van anderen.",
+		"prefix": "u5",
+		"status": "definitief concept",
+		"id": "eebc1c3e-6ef4-4633-97db-65a7c5d1b5cb",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"replaces": [
+			"d7214c9b-33f5-4d21-a498-2101bdedaef2"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "beschrijven van belangrijke historische gebeurtenissen en personen binnen Fryslân en hoe deze doorwerken in het heden;",
+		"prefix": "u1",
+		"status": "definitief concept",
+		"id": "d845e75b-d02f-437b-8d27-3da22d281308",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"replaces": [
+			"1623ab23-92bb-489d-b1a5-53bac56dc5bd"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "beschrijven van aspecten van het Friese landschap en de Friese cultuur;",
+		"prefix": "u2",
+		"status": "definitief concept",
+		"id": "14c24e68-60b0-4adf-a67a-a58a7ca3dd4c",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"replaces": [
+			"54602111-79ad-4816-ae07-94ee596c6b9c"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "verkennen van Friese tradities en gebruiken en de daaraan verbonden waarden en opvattingen.",
+		"prefix": "u3",
+		"status": "definitief concept",
+		"id": "ad555646-cbe4-4c7f-8721-b16785475469",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"replaces": [
+			"50011764-b9eb-463e-a872-9c24ba955876"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "verwoorden van persoonlijke leeservaring en - beleving na het lezen van of luisteren naar Friese jeugdliteratuur;",
+		"prefix": "u1",
+		"status": "definitief concept",
+		"id": "335a6019-1a2f-4638-8619-4219f21a2641",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"replaces": [
+			"445cc61f-f8c2-4023-bbcc-a555a339677d"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "reflecteren op de waarde van Friese jeugdliteratuur voor de eigen persoonsvorming;",
+		"prefix": "u2",
+		"status": "definitief concept",
+		"id": "eaaa2f02-0bce-4e81-bd15-1407f208f321",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"replaces": [
+			"7e5714ea-b740-426d-a60f-b9ae967c2871"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "verwoorden van opgedane inzichten en kennis over de Friese context en cultuur na het lezen of luisteren.",
+		"prefix": "u3",
+		"status": "definitief concept",
+		"id": "7dd8c5a7-42c4-49ac-9938-3dc6d48d857b",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+		],
+		"replaces": [
+			"643adc9e-7ef2-4773-9324-8e66d06111c7"
 		]
 	}
 ]
