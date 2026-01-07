@@ -488,18 +488,6 @@
 		]
 	},
 	{
-		"title": "Kerndoel 38",
-		"description": "De leerling communiceert in de [….] taal.",
-		"prefix": "38",
-		"id": "b736cb9a-b408-4466-a763-a5f934c42126",
-		"fo_doelzin_id": [
-			"401560af-e903-4c87-8695-544e4507c394",
-			"9226f588-7ff8-4fa2-9998-9022e3976dc6",
-			"cfd21281-b6d2-4c6a-8f3d-a819ab719113",
-			"b4c6bafb-4497-42bf-a3b2-b4e8b9c6be34"
-		]
-	},
-	{
 		"title": "Kerndoel 39",
 		"description": "De leerling ontwikkelt zich als taal- en cultuurbewuste gebruiker van de [….] taal",
 		"prefix": "39",
@@ -2100,6 +2088,21 @@
 		],
 		"replaces": [
 			"c42c5913-79ea-4382-95a7-57305e45b211"
+		]
+	},
+	{
+		"title": "Kerndoel 38",
+		"description": "De leerling communiceert in de [….] taal.",
+		"prefix": "38",
+		"id": "3235c07d-1847-4177-bc32-a15910b1cba4",
+		"fo_doelzin_id": [
+			"401560af-e903-4c87-8695-544e4507c394",
+			"9226f588-7ff8-4fa2-9998-9022e3976dc6",
+			"8085e45b-2143-46f6-a13a-944f986271d0",
+			"a32c4698-f059-41e8-9590-43e773763e73"
+		],
+		"replaces": [
+			"b736cb9a-b408-4466-a763-a5f934c42126"
 		]
 	}
 ]

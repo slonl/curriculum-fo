@@ -28,6 +28,9 @@
 							]
 						},
 						"karakteristiek": { "type": "string" },
+						"karakteristiek2": { "type": "string" },
+						"karakteristiek3": { "type": "string" },
+						"karakteristiek4": { "type": "string" },
 						"settype": { "type": "string",   "enum": ["functionele kerndoelenset", "kerndoelenset", "examenprogramma"]	},
 						"status": { "type": "string", "enum": [ "concept", "definitief concept", "definitief" ] }
 					},
