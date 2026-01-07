@@ -298,114 +298,125 @@
 	},
 	{
 		"title": "Subdomein B1",
-		"description": "Wiskundig probleemoplossen met verhoudingen en procenten",
+		"description": "Wiskundig probleemoplossen",
 		"prefix": "B1",
 		"id": "724e779f-f394-43ec-b2c1-91e5f4ae0f69",
 		"fo_doelzin_id": [
 			"ca19d1bf-193c-46de-b327-d9317e758b98"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein B2",
-		"description": "Rekenwiskundige handelingen met verhoudingen en procenten",
+		"description": "Rekenwiskundige handelingen",
 		"prefix": "B2",
 		"id": "8ade449f-25ee-46d7-8809-0c29c8d2a14a",
 		"fo_doelzin_id": [
 			"2454ef13-06d1-4618-a6fd-0586e493958a"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein C2",
-		"description": "Rekenwiskundige handelingen met grootheden en eenheden",
+		"description": "Rekenwiskundige handelingen",
 		"prefix": "C2",
 		"id": "51254bc0-40ce-452a-b938-6af1ee7457ac",
 		"fo_doelzin_id": [
 			"4f1e8b8b-79c6-4436-bd81-314213039b10"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein C4",
-		"description": "Abstraheren met grootheden en eenheden",
+		"description": "Abstraheren",
 		"prefix": "C4",
 		"id": "9602751c-5fd6-4158-9d17-476ca7f333ab",
 		"fo_doelzin_id": [
 			"1c74323d-86d2-4916-80df-42fec9000a52"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein E2",
-		"description": "Rekenwiskundige handelingen met VVV",
+		"description": "Rekenwiskundige handelingen",
 		"prefix": "E2",
 		"id": "a610d6b8-ac4e-498e-adcc-0a95277175eb",
 		"fo_doelzin_id": [
 			"225b2d79-f183-4fb8-ba9e-014dee210bef",
 			"e1cad22b-6460-4a64-b281-499afa2144c0"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein E3",
-		"description": "Representeren en vaktaal met VVV",
+		"description": "Representeren en vaktaal",
 		"prefix": "E3",
 		"id": "53e4a5a7-b314-4ce6-9e0c-b208273ef8c5",
 		"fo_doelzin_id": [
-			"c898c5ae-dc87-4f4d-a549-9b1a5af35665",
-			"233df855-1b18-432c-8ac3-b1a1938e7f9f"
-		]
+			"c898c5ae-dc87-4f4d-a549-9b1a5af35665"
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein F1",
-		"description": "Wiskundig probleemoplossen in twee- en driedimensionale ruimte",
+		"description": "Wiskundig probleemoplossen",
 		"prefix": "F1",
 		"id": "997be8ec-a574-40e3-8c44-f182dae60b79",
 		"fo_doelzin_id": [
 			"7cd85772-42fe-4e0a-bcef-80ef32245e41",
 			"62a3f6af-e0a3-4d92-8a9e-3b511261ee45"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein F2",
-		"description": "Rekenwiskundige handelingen in twee- en driedimensionale ruimte",
+		"description": "Rekenwiskundige handelingen",
 		"prefix": "F2",
 		"id": "01105246-406c-4320-99d6-d6cbe2ec6aab",
 		"fo_doelzin_id": [
-			"f8d4e38a-2e0d-48a9-a4ca-835b49551f8b"
-		]
+			"f8d4e38a-2e0d-48a9-a4ca-835b49551f8b",
+			"e5570ea9-83e9-427d-9b52-cc7d469498b1"
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein G1",
-		"description": "Verbindende vaardigheden",
+		"description": "Wiskundige houding",
 		"prefix": "G1",
 		"id": "c762a587-9abd-42eb-a00e-33555d34019c",
 		"fo_doelzin_id": [
 			"c96a68ae-6cd3-483e-a875-82b2fb10fc3a"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein G2",
-		"description": "Geïntegreerde wiskundige activiteiten",
+		"description": "Verbindende vaardigheden",
 		"prefix": "G2",
 		"id": "86ac03f4-83aa-4a0b-9769-e68504fd625d",
 		"fo_doelzin_id": [
 			"ccfc5bde-30a4-4ccc-85a4-e02e2249e2f9"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein G5",
 		"description": "Samenhang met andere vakken",
 		"prefix": "G5",
 		"id": "beb1247f-7bd1-4100-a177-3341ea306297",
-		"fo_doelzin_id": [
-			"36f43b36-951a-425c-a1f9-0e92955ae20b"
-		]
+		"fo_doelzin_id": [],
+		"deleted": true,
+		"dirty": true
 	},
 	{
-		"title": "Subdomein G6",
+		"title": "Subdomein G4",
 		"description": "Loopbaanontwikkeling",
-		"prefix": "G6",
+		"prefix": "G4",
 		"id": "c15eac80-f7aa-4d4d-a56f-e176879b35ac",
 		"fo_doelzin_id": [
 			"826fc896-2c99-43a9-b0aa-ad06f23b8636"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein A2",
@@ -418,78 +429,86 @@
 	},
 	{
 		"title": "Subdomein B1",
-		"description": "Wiskundig probleemoplossen met verhoudingen en procenten",
+		"description": "Wiskundig probleemoplossen",
 		"prefix": "B1",
 		"id": "cd2f2d4b-ab7c-4f16-a8c7-4dfa218d90cf",
 		"fo_doelzin_id": [
 			"0f62e103-81d9-4bd4-94ae-0048f9747af6"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein B2",
-		"description": "Rekenwiskundige handelingen met verhoudingen en procenten",
+		"description": "Rekenwiskundige handelingen",
 		"prefix": "B2",
 		"id": "6c423f5f-db4b-43fc-bb23-883373981826",
 		"fo_doelzin_id": [
 			"3f35417e-9419-4681-a5c4-b444a4f60940"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein C2",
-		"description": "Rekenwiskundige handelingen met grootheden en eenheden",
+		"description": "Rekenwiskundige handelingen",
 		"prefix": "C2",
 		"id": "1d8c9485-37b4-4676-a094-6183f5462ebf",
 		"fo_doelzin_id": [
 			"0658e572-5686-4bb0-a26b-6ebabcce57c0"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein C4",
-		"description": "Abstraheren met grootheden en eenheden",
+		"description": "Abstraheren",
 		"prefix": "C4",
 		"id": "73acdf09-1f5b-4556-b79f-0c9ea7fdfa31",
 		"fo_doelzin_id": [
 			"e2a25c36-c3f9-4208-a684-9e6ad5e49799"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein E2",
-		"description": "Rekenwiskundige handelingen met VVV",
+		"description": "Rekenwiskundige handelingen",
 		"prefix": "E2",
 		"id": "d503c9ab-579d-4864-923a-1d8a8cb1e54c",
 		"fo_doelzin_id": [
 			"f807b830-37a5-47b8-a856-176131c17f0b",
 			"29c79924-ad3d-4f49-b23f-c2a5cd8dbb13"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein E3",
-		"description": "Representeren en vaktaal met VVV",
+		"description": "Representeren en vaktaal",
 		"prefix": "E3",
 		"id": "84247291-7f63-40df-ae43-a50b16247a32",
 		"fo_doelzin_id": [
-			"ee30125b-bbf0-4438-8b2d-d79096a4c9ea",
-			"f7d5609b-2ec1-4348-bc50-c2222e0cd936"
-		]
+			"ee30125b-bbf0-4438-8b2d-d79096a4c9ea"
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein F1",
-		"description": "Wiskundig probleemoplossen in twee- en driedimensionale ruimte",
+		"description": "Wiskundig probleemoplossen",
 		"prefix": "F1",
 		"id": "64771f34-47b5-4ffa-8317-d9bcc44bc70f",
 		"fo_doelzin_id": [
 			"c7742fd7-e50d-4bdf-ac31-a5432aa1d0e8",
 			"b2588271-a55f-46f3-91fe-594dc08c573b"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein F2",
-		"description": "Rekenwiskundige handelingen in twee- en driedimensionale ruimte",
+		"description": "Rekenwiskundige handelingen",
 		"prefix": "F2",
 		"id": "34435572-68b7-4c63-be43-6cc1af8e4aff",
 		"fo_doelzin_id": [
-			"02d47aff-9f0f-4314-9077-17223e47d274"
-		]
+			"02d47aff-9f0f-4314-9077-17223e47d274",
+			"5c301742-f8f0-4f4d-a7d8-1b185360b3cf"
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein G1",
@@ -501,22 +520,23 @@
 		]
 	},
 	{
-		"title": "Subdomein G2",
+		"title": "Subdomein G3",
 		"description": "Geïntegreerde wiskundige activiteiten",
-		"prefix": "u6",
+		"prefix": "G3",
 		"id": "302e14ed-fc26-4dba-a951-fda42ed9d9e7",
 		"fo_doelzin_id": [
 			"ba2b4142-5919-481d-a91c-4043a3219807"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein G5",
 		"description": "Samenhang met andere vakken",
 		"prefix": "G5",
 		"id": "a82e27e7-3e20-41e7-84f1-58bd8880453a",
-		"fo_doelzin_id": [
-			"dc7d5644-7a31-417e-931e-9d16cd66e506"
-		]
+		"fo_doelzin_id": [],
+		"deleted": true,
+		"dirty": true
 	},
 	{
 		"title": "Subdomein G6",
@@ -538,78 +558,85 @@
 	},
 	{
 		"title": "Subdomein B1",
-		"description": "Wiskundig probleemoplossen met verhoudingen en procenten",
+		"description": "Wiskundig probleemoplossen",
 		"prefix": "B1",
 		"id": "d2e5d108-020f-4c01-a97b-4f63a33d1559",
 		"fo_doelzin_id": [
 			"9251e552-f97d-4f86-bfc4-bc0c7f46c6a2"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein B2",
-		"description": "Rekenwiskundige handelingen met verhoudingen en procenten",
+		"description": "Rekenwiskundige handelingen",
 		"prefix": "B2",
 		"id": "cdd34792-1f61-4ae7-b7e0-fa2b9014cf0b",
 		"fo_doelzin_id": [
 			"e215ca3c-adb7-4293-a059-b6feaa7eb088"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein C2",
-		"description": "Rekenwiskundige handelingen met grootheden en eenheden",
+		"description": "Rekenwiskundige handelingen",
 		"prefix": "C2",
 		"id": "048abc22-42a5-4c65-a8da-b4ca95d57524",
 		"fo_doelzin_id": [
 			"536966aa-a351-4698-a422-ab580f58a1cf"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein E2",
-		"description": "Rekenwiskundige handelingen met VVV",
+		"description": "Rekenwiskundige handelingen",
 		"prefix": "E2",
 		"id": "efb6b6ed-f446-4322-92ba-3e9ad7786cd7",
 		"fo_doelzin_id": [
 			"f40a2939-e960-41f0-b0b7-2b89cd704b11",
-			"069e3e55-026b-4c34-901f-759bc17df804",
-			"47bae557-1dfd-4bba-809c-6e762ca630db"
-		]
+			"069e3e55-026b-4c34-901f-759bc17df804"
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein E3",
-		"description": "Representeren en vaktaal met VVV",
+		"description": "Representeren en vaktaal",
 		"prefix": "E3",
 		"id": "4cc2610d-ef52-4a7d-b4b3-6848006b8cd6",
 		"fo_doelzin_id": [
-			"fef54c48-5fc5-428e-acb1-582b09f88663",
-			"2769fd8f-4e02-4243-beee-6aadb99c80b5"
-		]
+			"cc806361-47d0-4c87-a478-7935c5d8b502"
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein F2",
-		"description": "Rekenwiskundige handelingen in twee- en driedimensionale ruimte",
+		"description": "Rekenwiskundige handelingen",
 		"prefix": "F2",
 		"id": "0f52cb59-262f-45cd-879a-de96ba205e5f",
 		"fo_doelzin_id": [
-			"36a530d2-a9e5-465d-b027-8bb72aa23a40"
-		]
-	},
-	{
-		"title": "Subdomein G1",
-		"description": "Verbindende vaardigheden",
-		"prefix": "G1",
-		"id": "402392dc-b462-4f60-8a28-2a9b5598e443",
-		"fo_doelzin_id": [
-			"b69ff059-138a-45b7-8d7f-51301989b291"
-		]
+			"36a530d2-a9e5-465d-b027-8bb72aa23a40",
+			"9afbeec3-d26a-4d63-aa5f-db8f60f70325"
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein G2",
-		"description": "Geïntegreerde wiskundige activiteiten",
+		"description": "Verbindende vaardigheden",
 		"prefix": "G2",
+		"id": "402392dc-b462-4f60-8a28-2a9b5598e443",
+		"fo_doelzin_id": [
+			"b69ff059-138a-45b7-8d7f-51301989b291"
+		],
+		"dirty": true
+	},
+	{
+		"title": "Subdomein G3",
+		"description": "Geïntegreerde wiskundige activiteiten",
+		"prefix": "G3",
 		"id": "3eda8e68-198a-47ac-8b73-6e2b6a465b41",
 		"fo_doelzin_id": [
 			"4d5ac09b-24df-48fc-927e-07b2437a449d"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein G5",
@@ -618,16 +645,18 @@
 		"id": "bee9ec9a-5299-4db4-83f4-ccd9eda0f771",
 		"fo_doelzin_id": [
 			"7796369f-10a7-4840-86de-55f1501eab08"
-		]
+		],
+		"deleted": true
 	},
 	{
-		"title": "Subdomein G6",
+		"title": "Subdomein G4",
 		"description": "Loopbaanontwikkeling",
-		"prefix": "G6",
+		"prefix": "G4",
 		"id": "019c102b-772b-49b2-90a1-7494c26fc4a3",
 		"fo_doelzin_id": [
 			"2aa026b4-b935-4f3d-bfb3-b8dd54a30ede"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein B2 Taal en individu",
@@ -8895,7 +8924,9 @@
 		],
 		"replaces": [
 			"e96273c6-bd1b-44ed-9c9e-e039c6b35b61"
-		]
+		],
+		"dirty": true,
+		"prefix": "F3"
 	},
 	{
 		"title": "Subdomein F4",
@@ -8907,7 +8938,9 @@
 		],
 		"replaces": [
 			"204ffbd8-bf36-4ae4-bba6-fef73d75a3ee"
-		]
+		],
+		"dirty": true,
+		"prefix": "F4"
 	},
 	{
 		"title": "Subdomein G3",
@@ -8935,7 +8968,7 @@
 	},
 	{
 		"title": "Subdomein A1",
-		"description": "Bewerking met getallen",
+		"description": "Bewerkingen met getallen (SE/CE)",
 		"prefix": "A1",
 		"id": "3d0904ef-4b2e-46f2-a0ff-0dc88d06289d",
 		"fo_doelzin_id": [
@@ -8943,11 +8976,12 @@
 		],
 		"replaces": [
 			"d02f3779-2aca-4f55-8191-3dcf1a199d53"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein B3",
-		"description": "Representeren en vaktaal met verhoudingen en procenten",
+		"description": "Representeren en vaktaal",
 		"prefix": "B3",
 		"id": "ce19e295-2c8a-4fe0-bfb1-3f9c7414f473",
 		"fo_doelzin_id": [
@@ -8955,24 +8989,25 @@
 		],
 		"replaces": [
 			"04a21fdb-c102-4f73-8854-7f78533156a1"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein B4",
-		"description": "Abstraheren met verhoudingen en procenten",
+		"description": "Abstraheren",
 		"prefix": "B4",
 		"id": "2ef997e3-f21d-463b-ba2a-69b577495374",
 		"fo_doelzin_id": [
-			"e41d6a97-178a-4a06-9278-92d45a73f1d5",
-			"6988ac2e-8d4c-4063-9c43-5ae4f7c87194"
+			"e41d6a97-178a-4a06-9278-92d45a73f1d5"
 		],
 		"replaces": [
 			"d7709e8c-7073-4cd8-9bd7-f4465b755378"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein C1",
-		"description": "Wiskundig probleemoplossen met grootheden en eenheden",
+		"description": "Wiskundig probleemoplossen (CE)",
 		"prefix": "C1",
 		"id": "ebd468ff-64df-4278-892e-a1b297449c55",
 		"fo_doelzin_id": [
@@ -8981,11 +9016,12 @@
 		],
 		"replaces": [
 			"1bee384e-d57f-47bf-bab5-9fafbf259277"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein C3",
-		"description": "Representeren en vaktaal met grootheden en eenheden",
+		"description": "Representeren en vaktaal",
 		"prefix": "C3",
 		"id": "e7af76bf-fecf-4574-ab3a-1c478a30b661",
 		"fo_doelzin_id": [
@@ -8993,24 +9029,25 @@
 		],
 		"replaces": [
 			"7e5e22de-4ab0-4469-b821-aad38324c288"
-		]
+		],
+		"dirty": true
 	},
 	{
-		"title": "Subdomein C7",
-		"description": "Gereedschap gebruiken met grootheden en eenheden",
-		"prefix": "C7",
+		"title": "Subdomein C5",
+		"description": "Gereedschap gebruiken",
+		"prefix": "C5",
 		"id": "5b630bda-ddc6-4e1e-8c31-5f70896d358f",
 		"fo_doelzin_id": [
-			"cbcb1daa-fb72-4a7c-923a-8c2a424e3c9a",
-			"f5e7008f-97be-422a-8168-3e239df7f6b0"
+			"cbcb1daa-fb72-4a7c-923a-8c2a424e3c9a"
 		],
 		"replaces": [
 			"e2f16bec-2310-4f96-a931-e77fe77a663b"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein E1",
-		"description": "Wiskundig probleemoplossen met VVV",
+		"description": "Wiskundig probleemoplossen",
 		"prefix": "E1",
 		"id": "066abae0-fc27-4993-9522-5873033ffb3b",
 		"fo_doelzin_id": [
@@ -9018,11 +9055,12 @@
 		],
 		"replaces": [
 			"d56d3483-6935-467f-89e6-7b19e183d367"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein E4",
-		"description": "Abstraheren met VVV",
+		"description": "Abstraheren",
 		"prefix": "E4",
 		"id": "752a7670-7e5c-4b06-9662-3ac17d1467a6",
 		"fo_doelzin_id": [
@@ -9031,11 +9069,12 @@
 		],
 		"replaces": [
 			"a19fd9a8-c7d1-4e7b-bf1d-f074bdbcda53"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein E5",
-		"description": "Wiskundig modelleren met VVV",
+		"description": "Wiskundig modelleren",
 		"prefix": "E5",
 		"id": "9443b9c6-6c5a-4020-91b3-d5c80f4c91a0",
 		"fo_doelzin_id": [
@@ -9043,22 +9082,24 @@
 		],
 		"replaces": [
 			"adc3a152-b456-4c5a-8c21-9635ced76206"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein E6",
-		"description": "Wiskundig redeneren met VVV",
+		"description": "Wiskundig redeneren",
 		"id": "0a800f1e-ca64-4d5e-a5ac-224625100ed5",
 		"fo_doelzin_id": [
 			"c15555a6-7185-4396-b707-93d11e97dab0"
 		],
 		"replaces": [
 			"87fbf883-fbcd-46cd-a8c6-e66321231d18"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein F3",
-		"description": "Representeren en vaktaal in twee- en driedimensionale ruimte",
+		"description": "Representeren en vaktaal",
 		"id": "8caad9ad-7dc8-47a9-a427-2d19157471e6",
 		"fo_doelzin_id": [
 			"814faf5a-ab8f-4ae7-96ea-c89ca6276eba",
@@ -9066,23 +9107,24 @@
 		],
 		"replaces": [
 			"4cba6b6c-ecbc-4ca6-a741-1ad8ad290e69"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein F4",
-		"description": "Abstraheren in twee- en driedimensionale ruimte",
+		"description": "Abstraheren",
 		"id": "9e3f826c-5deb-4c81-a323-4d70e68d6eb9",
 		"fo_doelzin_id": [
-			"3dc146c8-ae3a-4e15-a4f5-df8cd341bd57",
-			"7e55dfcc-f32a-4957-aa2a-b7a5c5bb65c9"
+			"3dc146c8-ae3a-4e15-a4f5-df8cd341bd57"
 		],
 		"replaces": [
 			"ead6faa6-85db-4de0-bceb-5a3c6bf65999"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein G3",
-		"description": "Digitale geletterdheid",
+		"description": "Geïntegreerde wiskundige activiteiten",
 		"prefix": "G3",
 		"id": "c9fa3d3c-8809-47bb-8d87-ee76dce04362",
 		"fo_doelzin_id": [
@@ -9090,19 +9132,20 @@
 		],
 		"replaces": [
 			"23bb9080-35a9-4111-8124-025afb50f91d"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein G4",
 		"description": "Burgerschap",
 		"prefix": "G4",
 		"id": "7ba8f4ac-d6c1-4974-8376-f26a419371d2",
-		"fo_doelzin_id": [
-			"7cdfbdcf-a650-4b72-b7ec-2c8ba6f4add3"
-		],
+		"fo_doelzin_id": [],
 		"replaces": [
 			"f6278bee-3e5d-4538-b196-5530f311d5ec"
-		]
+		],
+		"deleted": true,
+		"dirty": true
 	},
 	{
 		"title": "Subdomein A1",
@@ -9118,7 +9161,7 @@
 	},
 	{
 		"title": "Subdomein B3",
-		"description": "Representeren en vaktaal met verhoudingen en procenten",
+		"description": "Representeren en vaktaal",
 		"prefix": "B3",
 		"id": "12137f6e-4778-423a-bbbe-d1d630c50622",
 		"fo_doelzin_id": [
@@ -9126,36 +9169,38 @@
 		],
 		"replaces": [
 			"0caacee9-d8ca-42d0-a1df-16709b712ef6"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein B4",
-		"description": "Abstraheren met verhoudingen en procenten",
+		"description": "Abstraheren",
 		"prefix": "B4",
 		"id": "9eb1dec3-ce6a-4e40-8ab7-c74128ade45e",
 		"fo_doelzin_id": [
-			"0aa7bb70-c067-4e12-bdf3-858aae212cd1",
-			"03259ffd-fc43-4fae-89bc-92af7f850a81"
+			"0aa7bb70-c067-4e12-bdf3-858aae212cd1"
 		],
 		"replaces": [
 			"5e8aeae5-ea21-4be3-a747-117a0e883040"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein B5",
-		"description": "Wiskundig modelleren met verhoudingen en procenten",
+		"description": "Wiskundig modelleren",
 		"prefix": "B5",
 		"id": "293f44ab-c467-4ddf-9d44-fa601ae1b315",
 		"fo_doelzin_id": [
-			"04d8ad4f-529f-4104-b2e7-a3e883983443"
+			"bf0b0170-f233-4214-af1a-c5c5835ccf97"
 		],
 		"replaces": [
 			"17bd3afb-c603-4090-ae29-e2ede9444755"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein C1",
-		"description": "Wiskundig probleemoplossen met grootheden en eenheden",
+		"description": "Wiskundig probleemoplossen",
 		"prefix": "C1",
 		"id": "841db49f-9e64-4d47-a5f7-136fe812868b",
 		"fo_doelzin_id": [
@@ -9164,11 +9209,12 @@
 		],
 		"replaces": [
 			"7f7b8b44-b016-43f5-8fc6-ecf7cdb927dc"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein C3",
-		"description": "Representeren en vaktaal met grootheden en eenheden",
+		"description": "Representeren en vaktaal",
 		"prefix": "C3",
 		"id": "b61bbd2c-e04d-43bf-ade6-aab5217ff0d6",
 		"fo_doelzin_id": [
@@ -9176,24 +9222,25 @@
 		],
 		"replaces": [
 			"3db8eb9b-75a4-43e3-b9a5-f0ccdeed7f65"
-		]
+		],
+		"dirty": true
 	},
 	{
-		"title": "Subdomein C7",
-		"description": "Gereedschap gebruiken met grootheden en eenheden",
-		"prefix": "C7",
+		"title": "Subdomein C5",
+		"description": "Gereedschap gebruiken",
+		"prefix": "C5",
 		"id": "36090412-81c1-4008-9fd9-ac763434d0f3",
 		"fo_doelzin_id": [
-			"497d7cf8-d532-4db8-ad20-2fc1e138d6bb",
-			"b44599e4-022e-47dd-ad16-5340b68e6c89"
+			"497d7cf8-d532-4db8-ad20-2fc1e138d6bb"
 		],
 		"replaces": [
 			"0ac68df2-1e31-4874-be47-7a81fa27e3ad"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein E1",
-		"description": "Wiskundig probleemoplossen met VVV",
+		"description": "Wiskundig probleemoplossen",
 		"prefix": "E1",
 		"id": "e141a2a2-b664-45b0-ab92-7c8d1fc085a6",
 		"fo_doelzin_id": [
@@ -9201,11 +9248,12 @@
 		],
 		"replaces": [
 			"bcb77ff6-4d55-4c6d-8e33-0cfc1793c716"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein E4",
-		"description": "Abstraheren met VVV",
+		"description": "Abstraheren",
 		"prefix": "E4",
 		"id": "2d707534-25de-480a-bd47-eb243c652259",
 		"fo_doelzin_id": [
@@ -9214,11 +9262,12 @@
 		],
 		"replaces": [
 			"6d661f2c-e6f8-45f0-ac73-5594400b88f9"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein E5",
-		"description": "Wiskundig modelleren met VVV",
+		"description": "Wiskundig modelleren",
 		"prefix": "E5",
 		"id": "58142394-bba6-405c-b5c6-cc7084111a5d",
 		"fo_doelzin_id": [
@@ -9226,22 +9275,24 @@
 		],
 		"replaces": [
 			"abccd154-f12b-4205-9434-8c0597156d2b"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein E6",
-		"description": "Wiskundig redeneren met VVV",
+		"description": "Wiskundig redeneren",
 		"id": "cb70f6d2-e1e5-4a72-99d9-b6082f873d2f",
 		"fo_doelzin_id": [
 			"552336ec-1c59-40b1-900b-8c4406e337dc"
 		],
 		"replaces": [
 			"f310ed11-d3b1-4364-9e79-4a91c6d0a735"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein F3",
-		"description": "Representeren en vaktaal in twee- en driedimensionale ruimte",
+		"description": "Representeren en vaktaal",
 		"id": "ed716a31-8121-40d7-8178-5c4a998ecb44",
 		"fo_doelzin_id": [
 			"33dc7609-6e7e-46c2-b9da-0528007d836b",
@@ -9249,47 +9300,50 @@
 		],
 		"replaces": [
 			"52743174-52df-4837-9a71-b7f68b8896f4"
-		]
+		],
+		"dirty": true,
+		"prefix": "F3"
 	},
 	{
 		"title": "Subdomein F4",
-		"description": "Abstraheren in twee- en driedimensionale ruimte",
+		"description": "Abstraheren",
 		"id": "e7416072-bd6e-45a5-8d2c-59c946e39185",
 		"fo_doelzin_id": [
-			"eaae17d3-4f79-46b8-9279-14682c6d2f9a",
-			"9e465640-b15f-41a0-aadd-c03d0559b2a9"
+			"eaae17d3-4f79-46b8-9279-14682c6d2f9a"
 		],
 		"replaces": [
 			"a06671a3-dff6-40ae-a48e-fb72d530994d"
-		]
+		],
+		"dirty": true,
+		"prefix": "F4"
 	},
 	{
 		"title": "Subdomein G3",
 		"description": "Digitale geletterdheid",
 		"prefix": "G3",
 		"id": "cc9c5b63-628a-4797-b1fd-bf8bf6066825",
-		"fo_doelzin_id": [
-			"90d29c75-4f63-48d7-8337-1f3afab5f5d8"
-		],
+		"fo_doelzin_id": [],
 		"replaces": [
 			"83e4e506-04da-466a-8bbd-ff649dcfbe30"
-		]
+		],
+		"deleted": true,
+		"dirty": true
 	},
 	{
 		"title": "Subdomein G4",
 		"description": "Burgerschap",
 		"prefix": "G4",
 		"id": "ca1993f0-a9e0-4591-9ffc-49df66edf43d",
-		"fo_doelzin_id": [
-			"ffc87bff-f390-4432-b6dc-0f763883d64f"
-		],
+		"fo_doelzin_id": [],
 		"replaces": [
 			"0e0219a0-eb39-4896-bd6d-be0a7dd8cb93"
-		]
+		],
+		"deleted": true,
+		"dirty": true
 	},
 	{
 		"title": "Subdomein A1",
-		"description": "Bewerking met getallen",
+		"description": "Bewerkingen met getallen",
 		"prefix": "A1",
 		"id": "74b8cb38-76f0-4879-81bc-59ad7d2c1940",
 		"fo_doelzin_id": [
@@ -9297,11 +9351,12 @@
 		],
 		"replaces": [
 			"81964b47-555f-46de-947f-c5860c739e4a"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein B3",
-		"description": "Representeren en vaktaal met verhoudingen en procenten",
+		"description": "Representeren en vaktaal",
 		"prefix": "B3",
 		"id": "f8b73d44-1be2-4932-9a14-d090a53fe1fb",
 		"fo_doelzin_id": [
@@ -9309,24 +9364,25 @@
 		],
 		"replaces": [
 			"c496e7b3-be1e-4350-a338-a92ae73607a1"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein B4",
-		"description": "Abstraheren met verhoudingen en procenten",
+		"description": "Abstraheren",
 		"prefix": "B4",
 		"id": "8406f4fd-9b4a-4cc6-bde1-47eb7993ff4e",
 		"fo_doelzin_id": [
-			"805295e5-bb60-4423-874f-a0d63801d6c8",
-			"57034648-1947-4204-bd9e-2414af9a1d8d"
+			"805295e5-bb60-4423-874f-a0d63801d6c8"
 		],
 		"replaces": [
 			"b6e8418d-cf2f-4858-ad30-b5a0db751062"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein B5",
-		"description": "Wiskundig modelleren met verhoudingen en procenten",
+		"description": "Wiskundig modelleren",
 		"prefix": "B5",
 		"id": "f47cd3f3-7ea6-4cf9-b275-2b9f9c1e6b52",
 		"fo_doelzin_id": [
@@ -9334,11 +9390,12 @@
 		],
 		"replaces": [
 			"b3ad6b2b-d401-4f47-a256-7c44876e9716"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein B6",
-		"description": "Wiskundig redeneren met verhoudingen en procenten",
+		"description": "Wiskundig redeneren",
 		"prefix": "B6",
 		"id": "66adc19d-4436-4b61-b374-d8db3fd2d765",
 		"fo_doelzin_id": [
@@ -9346,11 +9403,12 @@
 		],
 		"replaces": [
 			"e69a5a13-eaf5-47ff-8159-380fce802978"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein C1",
-		"description": "Wiskundig probleemoplossen met grootheden en eenheden",
+		"description": "Wiskundig probleemoplossen",
 		"prefix": "C1",
 		"id": "15997313-13be-40e2-a72b-a7da0672e2d6",
 		"fo_doelzin_id": [
@@ -9359,11 +9417,12 @@
 		],
 		"replaces": [
 			"53fd6da4-7f04-45c2-9664-641c11f60584"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein C3",
-		"description": "Representeren en vaktaal met grootheden en eenheden",
+		"description": "Representeren en vaktaal",
 		"prefix": "C3",
 		"id": "b912da49-0270-4773-beaa-96e3e97853b9",
 		"fo_doelzin_id": [
@@ -9371,11 +9430,12 @@
 		],
 		"replaces": [
 			"664d2255-c8d3-40fc-bcde-c206e9d587e2"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein C4",
-		"description": "Abstraheren met grootheden en eenheden",
+		"description": "Abstraheren",
 		"prefix": "C4",
 		"id": "3bfe3ebd-a1cd-438a-b363-72c048106de4",
 		"fo_doelzin_id": [
@@ -9383,24 +9443,25 @@
 		],
 		"replaces": [
 			"7bbf3d37-ac49-4278-8044-bc852f619339"
-		]
+		],
+		"dirty": true
 	},
 	{
-		"title": "Subdomein C7",
-		"description": "Gereedschap gebruiken met grootheden en eenheden",
-		"prefix": "C7",
+		"title": "Subdomein C5",
+		"description": "Gereedschap gebruiken",
+		"prefix": "C5",
 		"id": "6a667650-352a-4a9d-a33b-190e27c550d7",
 		"fo_doelzin_id": [
-			"4e9d1039-2580-45bf-9afd-80e0fcafb6b9",
-			"e73c5990-8e0c-4f79-9bdd-efeb54ac577c"
+			"4e9d1039-2580-45bf-9afd-80e0fcafb6b9"
 		],
 		"replaces": [
 			"25e89093-01d1-4b9e-902d-730d60b64452"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein E1",
-		"description": "Wiskundig probleemoplossen met VVV",
+		"description": "Wiskundig probleemoplossen",
 		"prefix": "E1",
 		"id": "00318fa1-418c-433b-94f9-66886d9c7abe",
 		"fo_doelzin_id": [
@@ -9408,11 +9469,12 @@
 		],
 		"replaces": [
 			"5749e2e8-35fe-4d6e-b603-b534f2060079"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein E4",
-		"description": "Abstraheren met VVV",
+		"description": "Abstraheren",
 		"prefix": "E4",
 		"id": "5553cb4b-baaf-493d-b723-c28bf6bd452a",
 		"fo_doelzin_id": [
@@ -9421,11 +9483,12 @@
 		],
 		"replaces": [
 			"350b5502-713f-447e-b8d8-c74084e78e51"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein E5",
-		"description": "Wiskundig modelleren met VVV",
+		"description": "Wiskundig modelleren",
 		"prefix": "E5",
 		"id": "2e4d080a-c6fd-47d0-9ec5-ba32ff1c9d78",
 		"fo_doelzin_id": [
@@ -9433,22 +9496,25 @@
 		],
 		"replaces": [
 			"6fa2f0aa-f0ef-4de5-9ba4-d691ad49ff7c"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein E6",
-		"description": "Wiskundig redeneren met VVV",
+		"description": "Wiskundig redeneren",
 		"id": "7d89ea88-90e0-4712-9b65-807c7c4123e9",
 		"fo_doelzin_id": [
 			"0c78132b-69af-4f6a-984c-b57127a73a37"
 		],
 		"replaces": [
 			"efd9459b-373f-4238-b8f0-863ecbe0aadc"
-		]
+		],
+		"dirty": true,
+		"prefix": "E6"
 	},
 	{
 		"title": "Subdomein F1",
-		"description": "Wiskundig probleemoplossen in twee- en driedimensionale ruimte",
+		"description": "Wiskundig probleemoplossen",
 		"prefix": "F1",
 		"id": "f082b939-0c18-4d10-beb5-0d8af562857f",
 		"fo_doelzin_id": [
@@ -9457,11 +9523,12 @@
 		],
 		"replaces": [
 			"281a77ad-7ecc-4591-b1b4-2a58d0df91b6"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein F3",
-		"description": "Representeren en vaktaal in twee- en driedimensionale ruimte",
+		"description": "Representeren en vaktaal",
 		"id": "c14959e2-abed-4933-a54b-f728fc0983d4",
 		"fo_doelzin_id": [
 			"c66bc054-ace9-4066-83e7-a83eba777731",
@@ -9469,32 +9536,35 @@
 		],
 		"replaces": [
 			"13d633cd-d378-42c9-acc3-f31d183fdffc"
-		]
+		],
+		"dirty": true,
+		"prefix": "F3"
 	},
 	{
 		"title": "Subdomein F4",
-		"description": "Abstraheren in twee- en driedimensionale ruimte",
-		"prefix": "u9",
+		"description": "Abstraheren",
+		"prefix": "F4",
 		"id": "1ac5f423-01d3-46c5-b3bb-fb0520d1b802",
 		"fo_doelzin_id": [
-			"098595c9-5106-4c20-b67d-70680d32ab1e",
-			"7b9afa39-c41c-4a25-9e4c-daf76440b5c4"
+			"098595c9-5106-4c20-b67d-70680d32ab1e"
 		],
 		"replaces": [
 			"0a31d137-4dab-4a4a-93b2-004c567afb48"
-		]
+		],
+		"dirty": true
 	},
 	{
-		"title": "Subdomein F6",
-		"description": "Wiskundig redeneren in twee- en driedimensionale ruimte",
-		"prefix": "F6",
+		"title": "Subdomein F5",
+		"description": "Wiskundig redeneren",
+		"prefix": "F5",
 		"id": "738f3a89-ada7-49fe-a5d5-0cac7cd9e16c",
 		"fo_doelzin_id": [
 			"31b56cb7-ac71-41d2-83a8-a646119af5c4"
 		],
 		"replaces": [
 			"5fd441a2-1a51-4d63-bcc8-8bff633e636d"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein G3",
@@ -9506,7 +9576,8 @@
 		],
 		"replaces": [
 			"7675eeb5-a31d-42cb-ab1a-16bb4157d0b6"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Subdomein G4",
@@ -9518,7 +9589,8 @@
 		],
 		"replaces": [
 			"cb65def9-9f61-4c00-8438-167a1d65afa3"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Subdomein A2 Getallen en variabelen",
@@ -10750,6 +10822,403 @@
 		],
 		"replaces": [
 			"abb24375-5b5a-4a84-90d6-5d556a809ea9"
+		]
+	},
+	{
+		"title": "Subdomein D1",
+		"description": "Wiskundig probleemoplossen met kwantitatieve informatie en kansen",
+		"prefix": "D1",
+		"id": "a95d13d0-86f8-4123-bb63-a3733ad13482",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"8be860d3-71d7-4fc1-a6ff-49689ef236fd",
+			"361dc8fe-182d-4364-ba66-288f4130acdb"
+		]
+	},
+	{
+		"title": "Subdomein D2",
+		"description": "Rekenwiskundige handelingen met kwantitatieve informatie en kansen",
+		"prefix": "D2",
+		"id": "ee04dc24-126a-4491-8a95-0a38307300a3",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"d700118e-71ee-45d7-bdf4-395e73524069"
+		]
+	},
+	{
+		"title": "Subdomein D3",
+		"description": "Representeren en vaktaal met kwantitatieve informatie en kansen",
+		"prefix": "D3",
+		"id": "899c0330-ce26-40be-801b-31700d73f498",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"731696bd-48a9-45a7-a165-95d44dc8749b",
+			"f4c01eae-1c97-4e6f-bcdd-f7f826455b99"
+		]
+	},
+	{
+		"title": "Subdomein D4",
+		"description": "Abstraheren met kwantitatieve informatie en kansen",
+		"prefix": "D4",
+		"id": "1046b0a0-cd11-4002-88c4-80c0e81e0e43",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"79a29f3f-6207-493c-9df3-6606f1fea7b3",
+			"6b3516a6-a8be-4d09-92fe-b9b2fd253618"
+		]
+	},
+	{
+		"title": "Subdomein D1",
+		"description": "Wiskundig probleemoplossen met kwantitatieve informatie en kansen",
+		"prefix": "D1",
+		"id": "588a38cb-e464-436f-9cc9-f70174993d2e",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"02a7f1f3-3788-446b-bf29-cc3620571a65",
+			"57ad373c-93aa-4251-a11a-8cc0bf7d9af4"
+		]
+	},
+	{
+		"title": "Subdomein D2",
+		"description": "Rekenwiskundige handelingen met kwantitatieve informatie en kansen",
+		"prefix": "D2",
+		"id": "a4be5c05-26cb-4dd1-a44e-b333f214b8bd",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"e0aa73ba-426b-4200-8dbd-031f316804f4"
+		]
+	},
+	{
+		"title": "Subdomein D3",
+		"description": "Representeren en vaktaal met kwantitatieve informatie en kansen",
+		"prefix": "D3",
+		"id": "5b906597-ee20-4486-abf7-8bddd505a59a",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"2c4d7314-5f69-4625-9a63-b722d13864ee",
+			"0730856e-6736-435d-9e88-da67fca65b31"
+		]
+	},
+	{
+		"title": "Subdomein D4",
+		"description": "Abstraheren met kwantitatieve informatie en kansen",
+		"prefix": "D4",
+		"id": "67413176-38d6-4263-9649-7c1f20e82dd8",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"3f6cccb4-8185-4266-8769-60e14eb0ceaf",
+			"dcaf9639-d213-43d4-aade-131707dbb810"
+		]
+	},
+	{
+		"title": "Subdomein D1",
+		"description": "Wiskundig probleemoplossen met kwantitatieve informatie en kansen",
+		"prefix": "D1",
+		"id": "fd37eef1-e7b2-4878-8887-ff552e55f284",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"04f7a517-9983-46cd-a158-6737425ff673",
+			"50acf720-a990-424f-a40d-97f8dcddbb5d"
+		]
+	},
+	{
+		"title": "Subdomein D2",
+		"description": "Rekenwiskundige handelingen met kwantitatieve informatie en kansen",
+		"prefix": "D2",
+		"id": "2778d29d-f2c6-484d-bda7-59f845be975e",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"42434cef-c5cf-44f4-b395-78dbb04d5013"
+		]
+	},
+	{
+		"title": "Subdomein D3",
+		"description": "Representeren en vaktaal met kwantitatieve informatie en kansen",
+		"prefix": "D3",
+		"id": "17bb580b-2166-45a4-94e9-bdbb826253a7",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"a6634842-31ae-4b51-9b7a-b0c807c52975",
+			"3805b809-6a63-40ba-b3df-6dbcd795d48c"
+		]
+	},
+	{
+		"title": "Subdomein D4",
+		"description": "Abstraheren met kwantitatieve informatie en kansen",
+		"prefix": "D4",
+		"id": "06e8bc76-b888-4c59-b0c5-403bd437eec4",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"4711e70c-dff4-483e-b8c6-ba6225366a4f",
+			"01a77b87-2466-4b3d-8006-6a7019c4a1bb"
+		]
+	},
+	{
+		"title": "Subdomein D1",
+		"description": "Wiskundig probleemoplossen",
+		"prefix": "D1",
+		"id": "ad83fbb4-6f3f-4ab0-98fc-2b33cd1a6994",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"ff33de19-c882-41aa-98ab-b44078469381",
+			"ade18087-8236-4cda-96ed-a0c94cf8ee9c"
+		]
+	},
+	{
+		"title": "Subdomein D2",
+		"description": "Rekenwiskundige handelingen",
+		"prefix": "D2",
+		"id": "695ccc99-80ce-4951-8e9f-8ae498bb7f92",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"a942c853-9f21-49aa-8e04-3aeb3d6fb80f"
+		]
+	},
+	{
+		"title": "Subdomein D3",
+		"description": "Representeren en vaktaal",
+		"prefix": "D3",
+		"id": "4c5a033d-06aa-4c09-8543-0d70cc985182",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"6858b410-07a9-41b6-a754-224a8422d2cf",
+			"a643fda8-c485-4418-b063-210537c58771"
+		]
+	},
+	{
+		"title": "Subdomein D4",
+		"description": "Abstraheren",
+		"prefix": "D4",
+		"id": "ac806e33-d618-4b88-9014-086818ed9471",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"5c7de97d-cd1f-4cf8-8062-72f98f7b99ab"
+		]
+	},
+	{
+		"title": "Subdomein D5",
+		"description": "Wiskundig redeneren",
+		"prefix": "D5",
+		"id": "3edbf62e-9ec5-4232-a20f-a5441fd268af",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"0851e8b2-0b4e-4b20-80d2-0d84084372d1"
+		]
+	},
+	{
+		"title": "Subdomein F5",
+		"description": "Wiskundig redeneren",
+		"prefix": "F5",
+		"id": "b77c9c21-ffe8-4363-a5e8-64309416f5b4",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"b45ab6e7-88dd-4661-8587-a5226a584024"
+		]
+	},
+	{
+		"title": "Subdomein F6",
+		"description": "Gereedschap gebruiken",
+		"prefix": "F6",
+		"id": "4713e2f1-a8d1-4b2d-b3d5-db15fe26efc9",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"e35c340d-80cf-470b-bf1a-0bc6e9859484"
+		]
+	},
+	{
+		"title": "Subdomein G1",
+		"description": "Wiskundige houding",
+		"prefix": "G1",
+		"id": "996651fc-d050-4d9a-8390-fa5e27475256",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"eed00fc6-c8b2-40d3-87ad-20955b27d454"
+		]
+	},
+	{
+		"title": "Subdomein G2",
+		"description": "Verbindende vaardigheden",
+		"prefix": "G2",
+		"id": "ddc8cb3c-6edd-49c9-b4c3-29e71cced4c4",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"f3d5d775-a1f2-4b5d-9097-45a0747a48de"
+		]
+	},
+	{
+		"deleted": true,
+		"title": "Subdomein G4",
+		"description": "Loopbaanontwikkeling",
+		"prefix": "G4",
+		"id": "f29f98b4-4b1a-4466-bed6-6743a046ff63",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"350457e0-528e-4b50-9f33-db25861ccfb0"
+		]
+	},
+	{
+		"title": "Subdomein G4",
+		"description": "Loopbaanontwikkeling",
+		"prefix": "G4",
+		"id": "20083519-832d-49dd-95ee-5dbb120092b0",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"350457e0-528e-4b50-9f33-db25861ccfb0"
+		]
+	},
+	{
+		"title": "Subdomein D1",
+		"description": "Wiskundig probleemoplossen",
+		"prefix": "D1",
+		"id": "222afd00-0ba9-43ba-a951-9ae71cfc4c0f",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"f443d42b-962b-4d06-b08c-093ebe826b80",
+			"a9e0677b-4aaf-4a69-b0ad-aa1605143c66"
+		]
+	},
+	{
+		"title": "Subdomein D2",
+		"description": "Rekenwiskundige handelingen",
+		"prefix": "D2",
+		"id": "b259553c-e85c-4b1c-9f0e-2ad8b9b246c2",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"9f38ba00-e819-4295-b6ad-4be6db6187b5"
+		]
+	},
+	{
+		"title": "SubdomeinD3",
+		"description": "Representeren en vaktaal",
+		"prefix": "D3",
+		"id": "5e59e251-01e5-41c8-a20c-c30170f594d9",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"d2e8e0c1-2533-44d4-8b33-e870f7b1b959",
+			"2a0b4c43-832e-43c0-a328-5a9d557c0078"
+		]
+	},
+	{
+		"title": "Subdomein D4",
+		"description": "Abstraheren",
+		"prefix": "D4",
+		"id": "a9d46bfb-ccb3-4135-a677-b38bbf903643",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"3c28844e-fa80-4d1a-9ce9-3bd22aa1768a"
+		]
+	},
+	{
+		"title": "Subdomein D5",
+		"description": "Wiskundig redeneren",
+		"prefix": "D5",
+		"id": "9e8cff04-63f9-44cf-8376-fd7d6567f128",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"0f0a05f0-9ad0-429d-9893-122ea6b436d4"
+		]
+	},
+	{
+		"title": "Subdomein F5",
+		"description": "Wiskunde redeneren",
+		"prefix": "F5",
+		"id": "c403c3b3-8f07-4faf-89ec-6a4f3bde02b8",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"c40e6634-e5d3-4d52-9485-d0b4c7e747c6"
+		]
+	},
+	{
+		"title": "Subdomein F",
+		"description": "Gereedschap gebruiken",
+		"prefix": "F6",
+		"id": "adae4fc4-aa99-4eb4-b52e-1b76d34b9a76",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"7e55dfcc-f32a-4957-aa2a-b7a5c5bb65c9"
+		]
+	},
+	{
+		"title": "Subdomein D1",
+		"description": "Wiskundig probleemoplossen",
+		"prefix": "D1",
+		"id": "2f210087-6801-49f8-9164-d32a154baec7",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"c79fe293-c4b6-454b-8bcf-be7dc1660e1c",
+			"ef3407a9-1986-4f0f-9740-5d108ed09798"
+		]
+	},
+	{
+		"title": "Subdomein D2",
+		"description": "Rekenwiskundige handelingen",
+		"prefix": "D2",
+		"id": "7a8f32c3-589c-4da4-b3b6-7ef2a0062331",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"fde00751-2a56-45b2-85a2-65503dccdf80",
+			"b93cfa14-3d6d-4299-8eac-5de985fc68ad"
+		]
+	},
+	{
+		"title": "Subdomein D3",
+		"description": "Representeren en vaktaal",
+		"prefix": "D3",
+		"id": "5b3f1160-916c-452f-8f8a-2b09bc54141d",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"632ad3db-7947-4e8a-ab2b-ab7877bfc9dd",
+			"439339cd-2154-493b-acdf-aab8ea0be7b8"
+		]
+	},
+	{
+		"title": "Subdomein D4",
+		"description": "Abstraheren",
+		"prefix": "D4",
+		"id": "a0f521cc-3682-47ae-9de9-cf6b3171160e",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"29884973-da35-4741-8728-da6e7032d5d1"
+		]
+	},
+	{
+		"title": "Subdomein D5",
+		"description": "Wiskundig modelleren",
+		"prefix": "D5",
+		"id": "94cdb0e3-f004-4b5e-b68f-ef7e07fd9e8d",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"7be2e753-7535-4bbe-b7c7-4d776fd4c6ad"
+		]
+	},
+	{
+		"title": "Subdomein D6",
+		"description": "Wiskundig redeneren",
+		"prefix": "D6",
+		"id": "726fdab2-7976-4773-ac81-9cb930f8fffd",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"2b34e85e-82fe-48c0-b41e-eaac39762213"
+		]
+	},
+	{
+		"title": "Subdomein F6",
+		"description": "Gereedschappen gebruiken",
+		"prefix": "F6",
+		"id": "5e5b2804-600c-4343-b695-da260fe71084",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"1dd9b9a6-802f-44a2-b497-fa84fa4ba3f9"
+		]
+	},
+	{
+		"title": "Subdomein G1",
+		"description": "Wiskundige houding",
+		"prefix": "G1",
+		"id": "d622ec9b-7b9e-45f1-a145-3bbe1699ba80",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"9d2e7990-640c-4607-b097-5f79020999b5"
 		]
 	}
 ]

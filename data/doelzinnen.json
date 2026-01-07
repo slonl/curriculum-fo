@@ -1505,7 +1505,8 @@
 		"fo_uitwerking_id": [
 			"fb006c4b-728b-4aaa-a243-af11aae12ec4"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 04",
@@ -1520,7 +1521,8 @@
 			"e4192538-c39f-4bff-a6ec-6d9295452005",
 			"30b86a76-6bd8-4628-a75b-f15ebe17fbde"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 07",
@@ -1532,7 +1534,8 @@
 		"fo_uitwerking_id": [
 			"00237b05-3cd8-4c89-9f4c-174232a0a592"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 08",
@@ -1541,7 +1544,8 @@
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "33d04dec-27f2-4be5-b9fa-a4b8fe7b4ee2",
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 10",
@@ -1554,7 +1558,8 @@
 			"a854a8f9-929f-48cc-ad94-e65225a87733",
 			"f03fe7c1-09ab-4c88-a590-d0481ea65b4c"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 12",
@@ -1566,7 +1571,8 @@
 		"fo_uitwerking_id": [
 			"1bd7f1ac-525b-436c-a106-16e2ceff5a8e"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 13",
@@ -1578,7 +1584,8 @@
 		"fo_uitwerking_id": [
 			"7ee83cda-b327-42ff-b201-e070b54ff62f"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 23",
@@ -1591,7 +1598,8 @@
 			"9734a24a-8f05-4eaa-a9d1-359867bf4e29",
 			"dc74743e-d0e8-4434-889a-5a18b12d2828"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 24",
@@ -1600,7 +1608,8 @@
 		"soort": "eindterm",
 		"se": 1,
 		"id": "9b1c179a-059f-4e91-88a3-42a3acd60e98",
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 29",
@@ -1609,7 +1618,8 @@
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "a77dc8d4-be34-4696-b54f-92671ff0829b",
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 31",
@@ -1624,7 +1634,8 @@
 			"5792bc4e-25b9-48b7-b5cb-f327d873069d",
 			"e17e0780-a73b-44cc-8db3-a3e364301660"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 33",
@@ -1639,7 +1650,8 @@
 			"3615cc66-6c66-4de0-bfc3-b23f74b38fe5",
 			"b5157b31-ec47-4f48-8806-ff369f7bed2b"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 36",
@@ -1654,7 +1666,8 @@
 			"4031b263-59b7-4960-adee-fc301132b937",
 			"2cca7921-2626-4b2f-a49b-e941fc50a029"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 37",
@@ -1663,7 +1676,8 @@
 		"soort": "eindterm",
 		"se": 1,
 		"id": "607fe947-7e37-40c2-81ad-ad70ce44359a",
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 40",
@@ -1675,7 +1689,8 @@
 		"fo_uitwerking_id": [
 			"376f825d-d2db-44a2-83e7-57df5343f7c6"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 41",
@@ -1690,7 +1705,8 @@
 			"63ab5aba-4225-464d-895e-a62d3a78cb10",
 			"7aa0648d-b1b5-4d6e-8ef6-4c4b61aa1f2d"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 02",
@@ -1703,7 +1719,8 @@
 			"44de1c1a-a275-4c21-b9e8-1a4f6796364d",
 			"084a883d-03b5-4eaa-b223-0395ff3a2d9a"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 04",
@@ -1719,7 +1736,8 @@
 			"1bf53c14-ed14-4e32-afb3-a367482d9481",
 			"f9dd4b13-e6a4-4a4a-b7e7-f6cd3a577dec"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 07",
@@ -1731,7 +1749,8 @@
 		"fo_uitwerking_id": [
 			"5481f12f-5cbd-4182-bc4d-f3855b47acef"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 08",
@@ -1740,7 +1759,8 @@
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "247a09a5-b750-409c-88b2-21fb50c40add",
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 10",
@@ -1753,7 +1773,8 @@
 			"b147bf21-4b95-45d0-9a29-5b89000cfc3c",
 			"8696ef3c-f5e1-4d83-aa1a-ff46cd660a30"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 12",
@@ -1765,7 +1786,8 @@
 		"fo_uitwerking_id": [
 			"ee48efe0-e08d-440e-8026-abb442ede69c"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 13",
@@ -1777,7 +1799,8 @@
 		"fo_uitwerking_id": [
 			"6eef38e1-911c-4891-9f16-dd98dfa563bf"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 23",
@@ -1790,7 +1813,8 @@
 			"0068eea4-f511-4b83-ab70-72a13399e815",
 			"7f443c3c-e313-41cb-91cf-404f64d00a25"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 24",
@@ -1799,7 +1823,8 @@
 		"soort": "eindterm",
 		"se": 1,
 		"id": "a967f54b-411f-4b24-8d7a-f388b7335903",
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 29",
@@ -1808,7 +1833,8 @@
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "086ee213-3b5a-4627-a0a8-c320276991f7",
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 31",
@@ -1823,7 +1849,8 @@
 			"8b7d311a-9e0c-42c6-a0b0-4e4c1fded793",
 			"e3670b94-eccd-4b70-a712-48654e3b1b7b"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 33",
@@ -1838,7 +1865,8 @@
 			"0a0c3bf4-2494-40e0-9ca3-9eef0ef03216",
 			"3537a103-a933-421d-b1f8-8a61574f5f5d"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 36",
@@ -1853,7 +1881,8 @@
 			"a6378f84-3537-4d79-a2d8-85076fd24a17",
 			"ddf01f1a-84b8-4793-acf4-762b1756551c"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 37",
@@ -1862,7 +1891,8 @@
 		"soort": "eindterm",
 		"se": 1,
 		"id": "c3f9fc85-4d3e-494c-981f-81171a3fddfc",
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 40",
@@ -1874,7 +1904,8 @@
 		"fo_uitwerking_id": [
 			"490a16ae-3d55-4c41-a583-d9d0e98e7838"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 41",
@@ -1889,7 +1920,8 @@
 			"fa55add2-9600-4fc1-9563-4c78a80f9891",
 			"56e80b3e-a9ee-46fb-a06b-d5813dc9008c"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 02",
@@ -1902,7 +1934,8 @@
 			"b194c108-e78e-4293-a447-f729270ea0b2",
 			"e9fd7582-b04a-4e00-9aa2-028b407a714d"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 04",
@@ -1918,7 +1951,8 @@
 			"91f0b3fd-a848-489d-9667-5dd451130d82",
 			"c64535c4-7273-400a-9835-412f6706493c"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 07",
@@ -1930,7 +1964,8 @@
 		"fo_uitwerking_id": [
 			"ddb8ac80-3672-4a5d-93eb-09f0c257bfe6"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 08",
@@ -1939,7 +1974,8 @@
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "0e509339-54c7-4702-924b-2872c7196a7a",
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 10",
@@ -1952,7 +1988,8 @@
 			"ec0fa973-f83f-41d9-9272-cb0ab78a8a8f",
 			"d7a7f1f5-3fb7-439d-813c-70b94a975ea7"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 12",
@@ -1964,7 +2001,8 @@
 		"fo_uitwerking_id": [
 			"c2433a9b-2515-41ab-974d-4165c6f67950"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 13",
@@ -1977,7 +2015,8 @@
 			"02246f8b-a4e8-4ec2-82d2-a1d982cdede1",
 			"d80e4c81-9034-42a0-ab44-c3e1b50a8352"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 23",
@@ -1990,7 +2029,8 @@
 			"d796b105-60cd-4d2f-bf2d-ae305cc7c894",
 			"c52e803b-8090-4b17-a25d-e1f17a7fd40e"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 24",
@@ -1999,7 +2039,8 @@
 		"soort": "eindterm",
 		"se": 1,
 		"id": "4494edac-e28c-49e4-8f60-05cf3b9a5b36",
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 29",
@@ -2008,7 +2049,8 @@
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "7e3c9a87-c065-44c5-bdb3-583f830f2742",
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 31",
@@ -2023,7 +2065,8 @@
 			"d9a4c222-6e31-4ef1-9155-be3deaa04a88",
 			"a636d9c0-bf66-40df-bf3e-2de3dc048aff"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 33",
@@ -2038,7 +2081,8 @@
 			"11821261-bfe6-46de-bc06-76022b07103e",
 			"efcbd0d8-cd7f-437a-b0be-c4457ee05afc"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 36",
@@ -2053,7 +2097,8 @@
 			"4d46dbdc-ce79-4930-85d3-0c476a63e305",
 			"0060bb79-d549-481e-b841-e253f1be72d5"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 37",
@@ -2062,7 +2107,8 @@
 		"soort": "eindterm",
 		"se": 1,
 		"id": "e0abca1c-a8a4-46d3-957f-13d4b75ff7e0",
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 40",
@@ -2074,7 +2120,8 @@
 		"fo_uitwerking_id": [
 			"8881c0e0-e8a7-45f3-be63-cc70e46c2d28"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 41",
@@ -2089,65 +2136,84 @@
 			"64375647-118a-49c8-8e1f-d269e2c76b97",
 			"b0fd58a3-1772-4a06-a8de-8c5d0e7720ef"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 02",
-		"description": "De leerling gebruikt in alle domeinen een rekenmachine en een formulekaart.",
+		"description": "De leerling gebruikt hulpmiddelen. (B)",
 		"prefix": "2",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "a824bab0-335c-40f5-945c-2ad1b2d19c38",
 		"fo_uitwerking_id": [
 			"4a4af13f-e319-41cc-b792-bf9819032155",
+			"c8df0e9c-bfd3-4095-91cd-7a7fffcffd10",
 			"0fd6fc02-fab5-4c08-88fa-a5d272965c96"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true,
+		"se": 1,
+		"fo_illustratie_id": [
+			"57a858e4-7e94-4b25-af9c-e2ad36bd6cb5",
+			"fdc74db8-01f0-4ade-b637-d6096e94f19f",
+			"03a2989e-2134-4ac1-b92c-d2cf6f255016",
+			"e3248a79-9e9e-4780-93a1-89857c6566ba"
+		]
 	},
 	{
 		"title": "Eindterm 03",
-		"description": "De leerling lost in een concrete situatie een eenvoudig probleem op waarin verhoudingen, procenten en/of schaal een rol spelen.",
+		"description": "De leerling lost in een concrete situatie een probleem op waarin verhoudingen, procenten en/of schaal een rol spelen. (B)",
 		"prefix": "3",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "ca19d1bf-193c-46de-b327-d9317e758b98",
-		"fo_uitwerking_id": [
-			"79cc9777-d357-4507-9541-d1d3610f7085"
-		],
-		"status": "concept"
+		"fo_uitwerking_id": [],
+		"status": "definitief concept",
+		"dirty": true,
+		"fo_illustratie_id": [
+			"6339e13a-934c-4379-bbd1-5c991a68308a",
+			"a38d5736-b2bb-4aa9-8668-a93cfad0a799",
+			"133ab7e8-9d71-4c9c-8cf3-76d3cd5fd9d3",
+			"e216d7ac-9824-444c-86d0-e0462562a91d",
+			"506cd4b3-6508-4688-be92-bb91a785af8a"
+		]
 	},
 	{
 		"title": "Eindterm 04",
-		"description": "De leerling voert rekenwiskundige handelingen uit met eenvoudige verhoudingen, procenten en schaal.",
+		"description": "De leerling voert rekenwiskundige handelingen uit met  verhoudingen, procenten en schaal. (B)",
 		"prefix": "4",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "2454ef13-06d1-4618-a6fd-0586e493958a",
 		"fo_uitwerking_id": [
-			"3bccbdf8-5296-46d6-bac2-eb780e91dc93",
 			"2bae0e90-ef87-4e5f-bf1f-4b37fa133ab7",
 			"45e7116b-e525-45e7-830b-a5c701d2b4f1",
-			"0fa197de-be82-4dc2-b405-5011f64ad2df",
 			"c09eed76-5786-4a68-9516-e7981df879fb",
 			"e8fcc891-2a43-405c-beb6-de95aa877758",
-			"c47d4703-10a9-4cbe-afba-79668cbdf09e",
 			"3b88c6e5-3b4f-490e-b0b9-03827dc46f0c",
 			"90835e2d-2aab-4e7a-980f-ad3b9963b689"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
-		"title": "Eindterm 08",
-		"description": "De leerling lost in een concrete situatie een eenvoudig probleem op waarin grootheden, maten, aantallen, eenheden en/of hun representaties een rol spelen.",
-		"prefix": "8",
+		"title": "Eindterm 07",
+		"description": "De leerling lost in een concrete situatie een probleem op waarin grootheden, maten, aantallen, eenheden en/of hun representaties een rol spelen. (B)",
+		"prefix": "7",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "e9ce5cdc-48a4-4ac9-8c46-3dd172d690d9",
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true,
+		"fo_uitwerking_id": [
+			"d350cb7c-4e60-48e6-a88a-620c9d60f25c",
+			"06b19a5a-e224-46b1-99f6-da23db9b9b52"
+		]
 	},
 	{
 		"title": "Eindterm 10",
-		"description": "De leerling voert rekenwiskundige handelingen uit met eenvoudige maten.",
+		"description": "De leerling voert rekenwiskundige handelingen uit met maten. (B)",
 		"prefix": "10",
 		"soort": "eindterm",
 		"ce": 1,
@@ -2156,24 +2222,32 @@
 			"acd5a70b-3158-480c-8143-a6571992dd63",
 			"452d67d0-0cea-4fe2-a504-b34750e4dae1"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true,
+		"fo_illustratie_id": [
+			"68baf42b-a12c-45aa-ae60-a4b19c6bbc16"
+		]
 	},
 	{
-		"title": "Eindterm 12",
-		"description": "De leerling geeft in concrete situaties betekenis aan gangbare grootheden",
-		"prefix": "12",
+		"title": "Eindterm 11",
+		"description": "De leerling geeft in concrete situaties betekenis aan gangbare grootheden en eenheden. (B)",
+		"prefix": "11",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "1c74323d-86d2-4916-80df-42fec9000a52",
 		"fo_uitwerking_id": [
 			"13defe69-28d8-49d7-8919-4ea437f61e1f"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true,
+		"fo_illustratie_id": [
+			"43006663-36c3-4d1e-9aad-7bad52648868"
+		]
 	},
 	{
-		"title": "Eindterm 13",
-		"description": "De leerling gebruikt gangbare meetinstrumenten voor het meten van lengte, inhoud, tijdsduur, snelheid, gewicht en temperatuur. En voor het meten en tekenen van hoeken.",
-		"prefix": "13",
+		"title": "Eindterm 12",
+		"description": "De leerling gebruikt meetinstrumenten. (B)",
+		"prefix": "12",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "cbcb1daa-fb72-4a7c-923a-8c2a424e3c9a",
@@ -2181,48 +2255,60 @@
 			"e080bce3-ff9e-4385-b8d6-e2f9d3a14426",
 			"aa16015e-fcbb-4694-8214-01bc3cee7f98"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true,
+		"se": 1,
+		"fo_illustratie_id": [
+			"850e815f-155f-4687-b289-534a2f897792",
+			"4c65dc2e-ff71-440b-b431-7aee95f2fb7c",
+			"e2e4ed82-fe1b-46c0-9ba8-e28422a0244d"
+		]
 	},
 	{
-		"title": "Eindterm 24",
-		"description": "De leerling voert rekenwiskundige handelingen uit met tabellen, grafieken en woordformules.",
-		"prefix": "24",
+		"title": "Eindterm 21",
+		"description": "De leerling voert rekenwiskundige handelingen uit met tabellen en grafieken. (B)",
+		"prefix": "21",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "225b2d79-f183-4fb8-ba9e-014dee210bef",
 		"fo_uitwerking_id": [
 			"8d7bfa75-d0b4-46ff-8044-4fc4fb7e6d68",
 			"f6723961-8ca5-4481-aeaf-e6fdb9b6703a",
-			"15207982-82f5-4153-ac43-1884acd9d6da",
-			"b875bdaa-4a0c-4cf0-a331-5b2aa6d9e4be",
-			"fbb2b7fc-2372-4ea8-8cd7-8c5e0a47ba6b"
+			"15207982-82f5-4153-ac43-1884acd9d6da"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
-		"title": "Eindterm 25",
-		"description": "De leerling voert specifieke rekenwiskundige handelingen uit op lineaire verbanden.",
-		"prefix": "25",
+		"title": "Eindterm 22",
+		"description": "De leerling voert rekenwiskundige handelingen uit met woordformules. (B)",
+		"prefix": "22",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "e1cad22b-6460-4a64-b281-499afa2144c0",
 		"fo_uitwerking_id": [
-			"1abc0e0e-3ba8-4c5f-9a2b-541d0a50f409"
+			"1abc0e0e-3ba8-4c5f-9a2b-541d0a50f409",
+			"cb51e6b7-9776-433b-9e77-70b4ce423c64",
+			"af65fc61-0e6b-455f-a52b-d3ec58b928cc"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
-		"title": "Eindterm 26",
-		"description": "De leerling geeft een verband weer met behulp van een tabel , een grafiek of een formule met woordvariabelen.",
-		"prefix": "26",
+		"title": "Eindterm 23",
+		"description": "De leerling gebruikt vaktaal voor representaties en het veranderingsgedrag van verbanden en standaardverbanden. (B)",
+		"prefix": "23",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "c898c5ae-dc87-4f4d-a549-9b1a5af35665",
 		"fo_uitwerking_id": [
 			"98d2308d-2a44-41ac-8436-4d2647e54fc7",
-			"ccae9c54-cd47-427c-8c44-1efe358b2df2"
+			"ccae9c54-cd47-427c-8c44-1efe358b2df2",
+			"4ead14e7-2a63-4458-b257-dfed4ec138d6",
+			"ec10b336-0ce0-4766-b850-f9c70c1dd5af"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 27",
@@ -2231,37 +2317,42 @@
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "233df855-1b18-432c-8ac3-b1a1938e7f9f",
-		"fo_uitwerking_id": [
-			"5ac9c12e-91f0-4db9-824c-5d3fef71b522",
-			"c5601373-ec0e-4532-a513-f42bacac16f4",
-			"0eb5173f-09d6-46b1-b11a-0376beb8b4e1",
-			"1c15ea37-9ddf-4e89-ba35-0241f8f6b4bd",
-			"c46294fe-1fbb-43e7-8816-443e7e119637"
-		],
-		"status": "concept"
+		"fo_uitwerking_id": [],
+		"status": "definitief concept",
+		"deleted": true,
+		"dirty": true
 	},
 	{
-		"title": "Eindterm 32",
-		"description": "De leerling lost in een concrete situatie een eenvoudig probleem op met hoeken en met de omtrek, oppervlakte en inhoud van meetkundige figuren.",
-		"prefix": "32",
+		"title": "Eindterm 28",
+		"description": "De leerling lost in een concrete situatie een probleem op met hoeken en/of met de omtrek, oppervlakte en/of inhoud van meetkundige figuren. (B)",
+		"prefix": "28",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "7cd85772-42fe-4e0a-bcef-80ef32245e41",
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true,
+		"fo_illustratie_id": [
+			"c9ffc59a-2061-4318-9937-6a15109d9354"
+		]
 	},
 	{
-		"title": "Eindterm 33",
-		"description": "De leerling lost in concrete situaties een eenvoudig probleem op met routes en kijklijnen.",
-		"prefix": "33",
+		"title": "Eindterm 29",
+		"description": "De leerling lost in concrete situaties een probleem op met routes en kijklijnen. (B)",
+		"prefix": "29",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "62a3f6af-e0a3-4d92-8a9e-3b511261ee45",
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true,
+		"fo_illustratie_id": [
+			"178efc55-3d96-4573-8529-a9a857285555",
+			"2b8c2c54-9f4c-4835-8d24-1531d338a700"
+		]
 	},
 	{
-		"title": "Eindterm 34",
-		"description": "De leerling voert eenvoudige rekenwiskundige handelingen uit met lengten, afmetingen, hoeken, omtrek, oppervlakte en inhoud en gebruikt daarbij een formulekaart met alle relevante formules.",
-		"prefix": "34",
+		"title": "Eindterm 30",
+		"description": "De leerling voert rekenwiskundige handelingen uit met afmetingen, omtrek, oppervlakte, inhoud en meetkundige plaatsbepaling en gebruikt daarbij een formulekaart met relevante formules. (B)",
+		"prefix": "30",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "f8d4e38a-2e0d-48a9-a4ca-835b49551f8b",
@@ -2273,12 +2364,16 @@
 			"198243d9-10ee-4023-b07b-f149c85abd92",
 			"77849fb2-d363-4d4a-86c9-4837751c1f09"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true,
+		"fo_illustratie_id": [
+			"e529ba23-4bc8-42aa-bfe3-e652b896896f"
+		]
 	},
 	{
-		"title": "Eindterm 36",
-		"description": "De leerling benoemt in vlakke en ruimtelijke situaties, in objecten, bij routes en bij plaatsbepaling eenvoudige meetkundige vormen, hun onderdelen en andere meetkundige begrippen, en gebruikt meetkundige symbolen",
-		"prefix": "36",
+		"title": "Eindterm 33",
+		"description": "De leerling gebruikt de namen, begrippen en symbolen van en bij meetkundige vormen. (B)",
+		"prefix": "33",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "eb738fcc-e297-4600-904b-f937b8f55de3",
@@ -2286,37 +2381,53 @@
 			"377b2134-61cc-439b-b06b-7d0b12ea9800",
 			"8306ce3f-9c3e-4954-b977-4ad11a7daa25",
 			"3830f193-0811-4383-95f0-58f98cb13120",
-			"6b360524-59aa-4d21-9fe5-08dc305dbee4",
 			"0e30d40c-8165-4f4a-946e-5486532b193b",
-			"233c62ef-5216-4ca3-ba5a-e79ff50c10b0",
 			"61408d33-cf20-48ba-b0e9-060f4b56a78d"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
-		"title": "Eindterm 39",
-		"description": "De leerling ontwikkelt algemene vaardigheden aan de hand van wiskundige denk- en werkwijzen.",
-		"prefix": "39",
+		"title": "Eindterm 37",
+		"description": "De leerling werkt aan de ontwikkeling van een wiskundige houding. (E)",
+		"prefix": "37",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "c96a68ae-6cd3-483e-a875-82b2fb10fc3a",
 		"fo_uitwerking_id": [
-			"b55d8fab-256e-438e-b3ca-9ca40f92b718",
-			"fccfa4ae-472d-4b0e-9178-b0c7332a629e",
-			"dadd83cf-115a-4f30-a6b8-b5d290704adc",
-			"74288351-cded-4182-98fa-04886362ce41",
-			"93ef26e0-d800-4745-beca-eedd6bb7a415"
+			"86f19bd1-87af-44f4-ae49-0212ce3e7134",
+			"b2c7c3f6-f086-4b62-842e-9091d67cfbc9",
+			"a15725cb-d2b4-442f-9e04-91bbb6653627",
+			"eae66335-747a-47d3-9c1c-20b685100407"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true,
+		"se": 1,
+		"fo_illustratie_id": [
+			"42f0e686-d791-4c95-8618-e6504f062e22",
+			"05aa7eea-f10b-45a5-a29d-3043b6a3c255"
+		]
 	},
 	{
-		"title": "Eindterm 40",
-		"description": "De leerling gebruikt in onderlinge samenhang wiskundekennis en wiskundige denk- en werkwijzen om eenvoudige wiskundetaken uit te voeren.",
-		"prefix": "40",
+		"title": "Eindterm 38",
+		"description": "De leerling gebruikt wiskundige denk-werkwijzen bij de ontwikkeling van algemene vaardigheden. (B)",
+		"prefix": "38",
 		"soort": "eindterm",
 		"se": 1,
 		"id": "ccfc5bde-30a4-4ccc-85a4-e02e2249e2f9",
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true,
+		"ce": 1,
+		"fo_uitwerking_id": [
+			"c0a844cc-6ca1-465b-9744-fce4d1e489ce",
+			"2176fed5-b4ca-4d2e-8edf-03baec6c55ba",
+			"23506db4-eccf-4b48-b583-ca714f8c14ef",
+			"865a259e-2fcf-4bc1-8773-1081c2e84b8b",
+			"435aac11-4b3b-4869-bd17-d1e218e5e486"
+		],
+		"fo_illustratie_id": [
+			"bae62a16-93b9-4bc1-9af0-f0da14d6cf1c"
+		]
 	},
 	{
 		"title": "Eindterm 43",
@@ -2325,16 +2436,15 @@
 		"soort": "eindterm",
 		"se": 1,
 		"id": "36f43b36-951a-425c-a1f9-0e92955ae20b",
-		"fo_uitwerking_id": [
-			"3ba2c781-9812-4305-8a69-cd9020700597",
-			"94d8f159-cdb6-4949-9273-d58725646fd5"
-		],
-		"status": "concept"
+		"fo_uitwerking_id": [],
+		"status": "definitief concept",
+		"deleted": true,
+		"dirty": true
 	},
 	{
-		"title": "Eindterm 44",
-		"description": "De leerling verzamelt inzichten over de eigen loopbaanontwikkeling, maakt loopbaankeuzes en licht deze toe.",
-		"prefix": "44",
+		"title": "Eindterm 40",
+		"description": "De leerling legt verbanden tussen ervaringen, persoonlijke interesses en kwaliteiten, vervolgopleidingen en toekomst. €",
+		"prefix": "40",
 		"soort": "eindterm",
 		"se": 1,
 		"id": "826fc896-2c99-43a9-b0aa-ad06f23b8636",
@@ -2344,11 +2454,17 @@
 			"a271ec93-9510-4340-88a7-4145447ac23e",
 			"3e14ca1d-d5c2-4b31-9ad5-24c4ba4e107e"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true,
+		"fo_illustratie_id": [
+			"7f1a8498-c1f5-4383-8295-d379a124e474",
+			"9efb8745-6e25-4e31-8ab1-a587f8a5030c",
+			"5dca56ee-e53b-4fd1-a961-6cbf24e82788"
+		]
 	},
 	{
 		"title": "Eindterm 02",
-		"description": "De leerling gebruikt in alle domeinen een rekenmachine en een formulekaart.",
+		"description": "De leerling gebruikt hulpmiddelen. (B)",
 		"prefix": "2",
 		"soort": "eindterm",
 		"ce": 1,
@@ -2356,25 +2472,41 @@
 		"fo_uitwerking_id": [
 			"50b56b8a-c9e2-4494-a5af-84ddf6754234",
 			"02088bbe-0ce6-4ce8-adf0-549f98c3c2bd",
-			"32f8314c-d0a1-47d8-b495-088258411c4f"
+			"32f8314c-d0a1-47d8-b495-088258411c4f",
+			"84c89ea0-5423-4823-913d-dede74f960cc"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true,
+		"se": 1,
+		"fo_illustratie_id": [
+			"866a1693-b1bd-4004-bfb4-102792c6b6ab",
+			"e7caf8fc-412d-46f6-9908-628f22475a2b",
+			"1ce0206a-b71d-42a9-8422-4e23f55a063a",
+			"824ceae1-aee9-4b37-9d40-b1097e5fd685",
+			"bc35d026-f19b-4d66-9c91-dfc2efe505fa"
+		]
 	},
 	{
 		"title": "Eindterm 03",
-		"description": "De leerling lost in een concrete situatie een betrekkelijk eenvoudig probleem op waarin verhoudingen, procenten en/of schaal een rol spelen.",
+		"description": "De leerling lost in een concrete situatie een probleem op waarin verhoudingen, procenten en/of schaal een rol spelen. (B)",
 		"prefix": "3",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "0f62e103-81d9-4bd4-94ae-0048f9747af6",
-		"fo_uitwerking_id": [
-			"a778187c-0462-40ef-b712-c63536bb0182"
-		],
-		"status": "concept"
+		"fo_uitwerking_id": [],
+		"status": "definitief concept",
+		"dirty": true,
+		"fo_illustratie_id": [
+			"20d2c98b-b32a-4a63-b750-645f7a53edea",
+			"24de0279-2eb8-4756-9f09-86700e5fcf14",
+			"315389f9-a970-47a8-ab1d-598aff1c0b82",
+			"0a7aaee0-45c0-43cb-9582-c413987cee15",
+			"28a020e2-cb22-4867-a7c5-f968e06cd4be"
+		]
 	},
 	{
 		"title": "Eindterm 04",
-		"description": "De leerling voert rekenwiskundige handelingen uit met betrekkelijk eenvoudige verhoudingen, procenten en schaal.",
+		"description": "De leerling voert rekenwiskundige handelingen uit met verhoudingen, procenten en schaal. (B)",
 		"prefix": "4",
 		"soort": "eindterm",
 		"ce": 1,
@@ -2385,28 +2517,29 @@
 			"411b9b3f-7efc-4558-ba84-2e65ad2b60a4",
 			"8133b314-af4e-4bef-a306-1c1fc69cf259",
 			"3d618256-1873-4864-a183-6fee9c16d006",
-			"5d267fdd-5fc6-44f6-a0e1-32059adcd982",
-			"5d8a0436-dad2-4dff-9829-e8d3aa2c9021",
-			"ac3ed921-ec2b-459b-ab61-a34048f86ec2",
-			"526a139f-d789-47b5-a119-7550ebe3609d",
-			"4ad983d3-1ec2-4d0f-bc9b-4b0478a4e486",
-			"6cc3a1b9-a6b9-4cfe-8032-9aa022060a2b"
+			"5d267fdd-5fc6-44f6-a0e1-32059adcd982"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
-		"title": "Eindterm 09",
-		"description": "De leerling lost in een concrete situatie een betrekkelijk eenvoudig probleem op waarin grootheden, maten, aantallen, eenheden en/of hun representaties een rol spelen.",
-		"prefix": "9",
+		"title": "Eindterm 08",
+		"description": "De leerling lost in een concrete situatie een probleem op waarin grootheden, maten, aantallen, eenheden en/of hun representaties een rol spelen. (B)",
+		"prefix": "8",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "4be72eae-3190-472e-b912-6216b25cbca1",
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true,
+		"fo_uitwerking_id": [
+			"d89a2f1e-61fd-4561-aa62-79b19b15e6c9",
+			"a03fb9a2-a7f0-4793-b9c0-6fcdaf7bb301"
+		]
 	},
 	{
-		"title": "Eindterm 11",
-		"description": "De leerling voert rekenwiskundige handelingen uit met betrekkelijk eenvoudige maten.",
-		"prefix": "11",
+		"title": "Eindterm 10",
+		"description": "De leerling voert rekenwiskundige handelingen uit met maten. (B)",
+		"prefix": "10",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "0658e572-5686-4bb0-a26b-6ebabcce57c0",
@@ -2414,24 +2547,32 @@
 			"dd7cb90d-dc9e-4d61-a459-7be5d415bd15",
 			"57b084c4-e99c-44e1-a9ff-e39e7df93bd4"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true,
+		"fo_illustratie_id": [
+			"8101a012-ee63-4d29-859a-a0b4219f8d69"
+		]
 	},
 	{
-		"title": "Eindterm 13",
-		"description": "De leerling geeft in concrete situaties betekenis aan gangbare grootheden.",
-		"prefix": "13",
+		"title": "Eindterm 12",
+		"description": "De leerling geeft in concrete situaties betekenis aan gangbare grootheden en eenheden. (B)",
+		"prefix": "12",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "e2a25c36-c3f9-4208-a684-9e6ad5e49799",
 		"fo_uitwerking_id": [
 			"391a0925-0195-411b-8396-48f10533d2f3"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true,
+		"fo_illustratie_id": [
+			"54b8fcc7-24ec-4993-b657-f1e100d0155a"
+		]
 	},
 	{
-		"title": "Eindterm 14",
-		"description": "De leerling gebruikt gangbare meetinstrumenten voor het meten van lengte, inhoud, tijdsduur, snelheid, gewicht en temperatuur en voor het meten en tekenen van hoeken.",
-		"prefix": "14",
+		"title": "Eindterm 13",
+		"description": "De leerling gebruikt meetinstrumenten. (B)",
+		"prefix": "13",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "497d7cf8-d532-4db8-ad20-2fc1e138d6bb",
@@ -2439,12 +2580,19 @@
 			"650ce374-ea90-46b1-ad5d-7f85bd36882c",
 			"cb8ae916-080f-404b-ac27-e2376eae60dd"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true,
+		"se": 1,
+		"fo_illustratie_id": [
+			"16625887-c0ea-4ed0-8e95-2d2505a79785",
+			"e8d3d3ce-58b8-40c3-9544-98f57ccd5315",
+			"d891bf5d-89c5-4622-b298-b9e83a02a672"
+		]
 	},
 	{
-		"title": "Eindterm 27",
-		"description": "De leerling voert rekenwiskundige handelingen uit met tabellen, grafieken en formules.",
-		"prefix": "27",
+		"title": "Eindterm 22",
+		"description": "De leerling voert rekenwiskundige handelingen uit met tabellen en grafieken. (B)",
+		"prefix": "22",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "f807b830-37a5-47b8-a856-176131c17f0b",
@@ -2455,37 +2603,39 @@
 			"c51a3797-810d-46da-99a1-33f340726c06",
 			"a9007ef4-c451-42ed-baea-17761301c22d"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
-		"title": "Eindterm 28",
-		"description": "De leerling voert specifieke rekenwiskundige handelingen uit op lineaire en exponentiële verbanden.",
-		"prefix": "28",
+		"title": "Eindterm 23",
+		"description": "De leerling voert rekenwiskundige handelingen uit met formules. (B)",
+		"prefix": "23",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "29c79924-ad3d-4f49-b23f-c2a5cd8dbb13",
 		"fo_uitwerking_id": [
 			"31564f3d-f701-47e1-8b5e-1d9a98e783ef",
 			"e3ab9963-427e-45aa-a486-e1270a2c3b1e",
-			"da1b42f5-d2c0-4d9d-862a-99dbc5332f7d",
-			"685c3230-2edb-41b7-8b7f-e5fee02296c1",
-			"9489088a-e16d-4040-8c2d-aad284f943bf"
+			"da1b42f5-d2c0-4d9d-862a-99dbc5332f7d"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
-		"title": "Eindterm 29",
-		"description": "De leerling geeft een verband weer met behulp van een tabel , een grafiek of een formule met betekenisvolle lettervariabelen.",
-		"prefix": "29",
+		"title": "Eindterm 24",
+		"description": "De leerling gebruikt vaktaal voor representaties en het veranderingsgedrag van verbanden en standaardverbanden. (B)",
+		"prefix": "24",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "ee30125b-bbf0-4438-8b2d-d79096a4c9ea",
 		"fo_uitwerking_id": [
 			"3f5903a1-85d1-4380-8347-b60e9829da9a",
 			"c93d1b5b-723e-412e-9662-23c5d4e4c22d",
-			"cc300eed-ec14-467c-aa4b-ad1a02c0fb19"
+			"cc300eed-ec14-467c-aa4b-ad1a02c0fb19",
+			"31634235-cbec-4a3d-b341-8b8019804783"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 30",
@@ -2494,37 +2644,45 @@
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "f7d5609b-2ec1-4348-bc50-c2222e0cd936",
-		"fo_uitwerking_id": [
-			"080d00ff-7d17-48a4-9447-6ad509c7016d",
-			"4f387266-aec5-4c9a-bce2-15920e7735f3",
-			"3c32e9cb-f49f-4bbc-a739-197d2f1a9a0f",
-			"0de74b80-a66d-4f7b-acda-e406abbd5c40",
-			"493018ee-16a2-48ff-8413-a876312c6535"
-		],
-		"status": "concept"
+		"fo_uitwerking_id": [],
+		"status": "definitief concept",
+		"deleted": true,
+		"dirty": true
 	},
 	{
-		"title": "Eindterm 35",
-		"description": "De leerling lost een betrekkelijk eenvoudig probleem op met hoeken en met de omtrek, oppervlakte en inhoud van meetkundige figuren.",
-		"prefix": "35",
+		"title": "Eindterm 29",
+		"description": "De leerling lost een probleem op met hoeken en/of met de omtrek, oppervlakte en/of inhoud van meetkundige figuren. (B)",
+		"prefix": "29",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "c7742fd7-e50d-4bdf-ac31-a5432aa1d0e8",
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true,
+		"fo_illustratie_id": [
+			"0b79f0f1-169e-44a8-ab12-6ad6bd1a0155",
+			"dba6e9bb-5fbd-4626-8b76-f1b91de1de2c",
+			"96e3c7fc-1f8e-4f4b-866b-e40830cc5238",
+			"face406b-b2ef-4ae0-98ad-55860dc25362"
+		]
 	},
 	{
-		"title": "Eindterm 36",
-		"description": "De leerling lost  een betrekkelijk eenvoudig probleem op met routes en kijklijnen.",
-		"prefix": "36",
+		"title": "Eindterm 30",
+		"description": "De leerling lost  een probleem op met routes en kijklijnen. (B)",
+		"prefix": "30",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "b2588271-a55f-46f3-91fe-594dc08c573b",
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true,
+		"fo_illustratie_id": [
+			"c928bbd2-be5f-4849-a2b2-a73903dad34f",
+			"04a9b41d-6007-47b5-aa8e-4cde60adee94"
+		]
 	},
 	{
-		"title": "Eindterm 37",
-		"description": "De leerling voert rekenwiskundige handelingen uit met lengten, afmetingen, hoeken, omtrek, oppervlakte en inhoud en gebruikt daarbij een formulekaart met alle relevante formules.",
-		"prefix": "37",
+		"title": "Eindterm 31",
+		"description": "De leerling voert rekenwiskundige handelingen uit met afmetingen, omtrek, oppervlakte, inhoud en meetkundige plaatsbepaling en gebruikt daarbij een formulekaart met relevante formules. (B)",
+		"prefix": "31",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "02d47aff-9f0f-4314-9077-17223e47d274",
@@ -2534,17 +2692,18 @@
 			"358caf79-f8c2-48e4-aaca-02759a3b02c3",
 			"cf5e8f75-94ea-402b-a53a-e424d4fcba3d",
 			"e0c1497c-374c-4411-89a6-7e77a786368b",
-			"e53317d7-09a9-4f61-ab80-4d1cedc09c45",
-			"b90c8260-dbb6-49d0-82fb-9fe0977131f0",
-			"3eca941e-4756-49fb-85e5-0f043603b965",
-			"790a9367-0486-41ad-ad8e-12beeb7c6d02"
+			"e53317d7-09a9-4f61-ab80-4d1cedc09c45"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true,
+		"fo_illustratie_id": [
+			"b71d97d8-08b2-4b25-b430-dbfb731a500b"
+		]
 	},
 	{
-		"title": "Eindterm 39",
-		"description": "De leerling benoemt in vlakke en ruimtelijke situaties, in objecten, bij routes en bij plaatsbepaling eenvoudige meetkundige vormen, hun onderdelen en andere meetkundige begrippen, en gebruikt meetkundige symbolen.",
-		"prefix": "39",
+		"title": "Eindterm 34",
+		"description": "De leerling gebruikt de namen, begrippen en symbolen van en bij meetkundige vormen. (B)",
+		"prefix": "34",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "d4874720-b62e-4ba8-944f-58d5448a6a72",
@@ -2554,16 +2713,15 @@
 			"cd09bcdd-5327-4937-9c04-ecab66a3ea77",
 			"fdbf01a2-ce34-429d-acd3-8e940f9cceff",
 			"5cf26233-f42d-49f7-8f2c-4ed0f14c5da9",
-			"423b2683-f4e6-4ad9-8a50-282434704143",
-			"b1e7618f-f8de-418b-a653-2234049eb5af",
-			"44ce8bef-1e5e-405d-bbde-1f34af83f87e"
+			"423b2683-f4e6-4ad9-8a50-282434704143"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
-		"title": "Eindterm 42",
-		"description": "De leerling ontwikkelt algemene vaardigheden aan de hand van wiskundige denk- en werkwijzen.",
-		"prefix": "42",
+		"title": "Eindterm 39",
+		"description": "De leerling gebruikt wiskundige denk-werkwijzen bij de ontwikkeling van algemene vaardigheden. (B)",
+		"prefix": "39",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "f3d5d775-a1f2-4b5d-9097-45a0747a48de",
@@ -2574,16 +2732,35 @@
 			"1d59e131-b9c9-463b-8280-f30844da51c5",
 			"56ee6827-d8ca-4bc8-91ad-1c885d122ceb"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true,
+		"se": 1,
+		"fo_illustratie_id": [
+			"f380dde2-24d2-453e-b234-f08fa5596ae1"
+		]
 	},
 	{
-		"title": "Eindterm 43",
-		"description": "De leerling gebruikt in onderlinge samenhang wiskundekennis en wiskundige denk- en werkwijzen om eenvoudige wiskundetaken uit te voeren.",
-		"prefix": "43",
+		"title": "Eindterm 40",
+		"description": "De leerling herkent en gebruikt wiskunde in dagelijkse, maatschappelijke en onderwijsgerichte situaties. (E)",
+		"prefix": "40",
 		"soort": "eindterm",
 		"se": 1,
 		"id": "ba2b4142-5919-481d-a91c-4043a3219807",
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true,
+		"fo_uitwerking_id": [
+			"b99f3a75-e03b-4e72-82e3-52457cbe3899",
+			"2b5578ad-4330-4f14-b83f-68902d1ca94d",
+			"348ce781-4bf8-4657-bd88-ee4e71b1b364",
+			"b4ef8396-9a49-404c-b358-3ffcc28ad08a",
+			"10b3f928-0ab8-4536-8e40-afc8532c3e29"
+		],
+		"fo_illustratie_id": [
+			"25689f68-5626-4f6f-b0ee-ef372b213960",
+			"68045ab4-aaf9-42a9-90fa-711af58954eb",
+			"1aa74ca2-bd8a-43b6-8df3-35420c977f07",
+			"94e14124-5bfd-4775-ab05-0bbabbe9b85a"
+		]
 	},
 	{
 		"title": "Eindterm 45",
@@ -2592,16 +2769,15 @@
 		"soort": "eindterm",
 		"se": 1,
 		"id": "dc7d5644-7a31-417e-931e-9d16cd66e506",
-		"fo_uitwerking_id": [
-			"8540bfb4-8c1c-4dcd-8c57-f537dc0f0aa9",
-			"52fd9ffe-bb27-450a-a218-51ffa74a2f0d"
-		],
-		"status": "concept"
+		"fo_uitwerking_id": [],
+		"status": "definitief concept",
+		"deleted": true,
+		"dirty": true
 	},
 	{
-		"title": "Eindterm 47",
-		"description": "De leerling verzamelt inzichten over de eigen loopbaanontwikkeling, maakt loopbaankeuzes en licht deze toe.",
-		"prefix": "47",
+		"title": "Eindterm 41",
+		"description": "De leerling legt verbanden tussen ervaringen, persoonlijke interesses en kwaliteiten, vervolgopleidingen en toekomst. (E)",
+		"prefix": "41",
 		"soort": "eindterm",
 		"se": 1,
 		"id": "350457e0-528e-4b50-9f33-db25861ccfb0",
@@ -2611,37 +2787,60 @@
 			"423ec8f2-3d81-46bf-8ece-7841f2aa9b8f",
 			"4dcb2e4b-f887-4e83-8804-02627a73dbb8"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true,
+		"fo_illustratie_id": [
+			"a610d394-2900-4f7b-ab79-4fd2e0b2b3d7",
+			"5a3e48b3-cad0-42c8-9ae7-b5534806d0de",
+			"4787c175-faa9-4434-98c3-cfec8f53f296"
+		]
 	},
 	{
 		"title": "Eindterm 02",
-		"description": "De leerling gebruikt in alle domeinen een rekenmachine en een formulekaart.",
+		"description": "De leerling gebruikt hulpmiddelen. (B)",
 		"prefix": "2",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "c631b7e6-4a67-47f2-b673-e9ab9a02ced2",
 		"fo_uitwerking_id": [
 			"567c93d9-4ccd-44c7-8a0c-485bb3313e0d",
-			"84edb551-b863-4e15-8379-300446239beb",
-			"0f295505-830b-4dde-95b6-c0496d3f5ae1"
+			"cd488ebc-eb1e-45c0-bdff-c2fdef46a1c1",
+			"e6a97ea4-3923-4901-a686-c0abe6aa3239",
+			"84edb551-b863-4e15-8379-300446239beb"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true,
+		"se": 1,
+		"fo_illustratie_id": [
+			"b91ad55e-f855-4deb-92c3-348dd3df8c1f",
+			"4bb99c5c-2280-4f85-a57a-ba15c2635fe5",
+			"ee10f2bf-cf14-46fa-86c5-920c565b74f7",
+			"261197f1-5c0a-474a-b2df-814df763972b",
+			"a05a9b00-e665-4b15-99c4-094045b752f7"
+		]
 	},
 	{
 		"title": "Eindterm 03",
-		"description": "De leerling lost in een concrete situatie een probleem op waarin verhoudingen, procenten en/of schaal een rol spelen.",
+		"description": "De leerling lost in een concrete situatie een probleem op waarin verhoudingen, procenten en/of schaal een rol spelen. (B)",
 		"prefix": "3",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "9251e552-f97d-4f86-bfc4-bc0c7f46c6a2",
-		"fo_uitwerking_id": [
-			"75f3de03-464b-49bd-bf47-9e83946d6fe1"
-		],
-		"status": "concept"
+		"fo_uitwerking_id": [],
+		"status": "definitief concept",
+		"dirty": true,
+		"fo_illustratie_id": [
+			"2c7addb2-da0d-4ecc-80ca-3f9dff346c8e",
+			"6ed9288f-f565-4e24-8292-46ba67aeb206",
+			"e731bb6f-4667-4c9b-843f-f2d568ef5958",
+			"f5379601-8183-4e09-9744-640ced4b79d0",
+			"f4031fba-03bd-4c44-b15d-03469344adc3",
+			"5a9d6e98-f9f2-4731-9ff1-55fe869d8292"
+		]
 	},
 	{
 		"title": "Eindterm 04",
-		"description": "De leerling voert rekenwiskundige handelingen uit met verhoudingen, procenten en schaal.",
+		"description": "De leerling voert rekenwiskundige handelingen uit met verhoudingen, procenten en schaal. (B)",
 		"prefix": "4",
 		"soort": "eindterm",
 		"ce": 1,
@@ -2652,28 +2851,29 @@
 			"b37d84a2-0d1c-44cb-a456-beee39a84bb3",
 			"23e0b775-552c-4cc5-bbe0-909a9b10d39d",
 			"a1b69ab3-b21b-4ab4-97be-72046e6bc984",
-			"07bb1b72-d511-4dc3-8f11-3a60f4f0fe2c",
-			"0a12625e-4c6a-4084-85e9-65116bcb9980",
-			"c598e811-d3d0-411d-8560-41845bdcdf25",
-			"11ba45c2-ed0f-4240-a853-30dacd84eb50",
-			"0970767c-5d15-4d4f-bbba-67848299b705",
-			"01ec2b2b-461f-49f1-a920-2fb202b04cb9"
+			"07bb1b72-d511-4dc3-8f11-3a60f4f0fe2c"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
-		"title": "Eindterm 10",
-		"description": "De leerling lost in een concrete situatie een probleem op waarin grootheden, maten, aantallen, eenheden en/of hun representaties een rol spelen.",
-		"prefix": "10",
+		"title": "Eindterm 09",
+		"description": "De leerling lost in een concrete situatie een probleem op waarin grootheden, maten, aantallen, eenheden en/of hun representaties een rol spelen. (B)",
+		"prefix": "9",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "183d18b0-cf80-4550-8ac1-eebff3ee449a",
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true,
+		"fo_uitwerking_id": [
+			"891a0e1c-aa25-4e2b-9836-49a6e05a25b3",
+			"cddf290a-0229-4535-83b7-9ba5ee979853"
+		]
 	},
 	{
-		"title": "Eindterm 12",
-		"description": "De leerling voert rekenwiskundige handelingen uit met maten.",
-		"prefix": "12",
+		"title": "Eindterm 11",
+		"description": "De leerling voert rekenwiskundige handelingen uit met maten. (B)",
+		"prefix": "11",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "536966aa-a351-4698-a422-ab580f58a1cf",
@@ -2681,12 +2881,13 @@
 			"55433ff4-dd3d-402d-9630-badbcc9126bb",
 			"906f5b39-257c-4cf8-b6bb-3b103c7b1b46"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
-		"title": "Eindterm 28",
-		"description": "De leerling voert rekenwiskundige handelingen uit met tabellen, grafieken en formules.",
-		"prefix": "28",
+		"title": "Eindterm 25",
+		"description": "De leerling voert rekenwiskundige handelingen uit met tabellen en grafieken.",
+		"prefix": "25",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "f40a2939-e960-41f0-b0b7-2b89cd704b11",
@@ -2695,16 +2896,15 @@
 			"75112d55-9de0-49b7-b847-bf5e395af434",
 			"78da155a-5fc9-42bb-b4ab-9cb82a3013e5",
 			"c344069b-2231-4fe7-be9d-5e4d2659fb33",
-			"87f16afa-7294-4087-8afd-99fb947cd8e4",
-			"5cda4495-3f88-4ebd-8a49-507a7a60af63",
-			"aa97d4e0-efdb-48e7-bcf3-f4234122f590"
+			"87f16afa-7294-4087-8afd-99fb947cd8e4"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
-		"title": "Eindterm 29",
-		"description": "De leerling voert specifieke rekenwiskundige handelingen uit op lineaire, exponentiële en omgekeerd evenredige verbanden.",
-		"prefix": "29",
+		"title": "Eindterm 26",
+		"description": "De leerling voert rekenwiskundige handelingen uit met formules. (B)",
+		"prefix": "26",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "069e3e55-026b-4c34-901f-759bc17df804",
@@ -2716,7 +2916,12 @@
 			"8f59cb57-5481-4436-b8b1-0fbaadab5b98",
 			"314b6f05-767a-4fe6-a0a3-a1439ef46555"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true,
+		"fo_illustratie_id": [
+			"73a070b1-0623-4f72-90e1-7414fdf69fbf",
+			"bf20a5c9-8633-4ad0-9165-8661863c106e"
+		]
 	},
 	{
 		"title": "Eindterm 30",
@@ -2729,11 +2934,13 @@
 			"57d3294d-1f0c-46ac-b4fb-6fb229662fb6",
 			"3e46414f-7c9d-44c2-b657-fe6452c0c95b"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true,
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 31",
-		"description": "De leerling geeft een verband weer met behulp van een tabel , een grafiek of een formule met lettervariabelen en gebruikt de  ∆-notatie om veranderingen van grootheden weer te geven.",
+		"description": "Verwijderen",
 		"prefix": "31",
 		"soort": "eindterm",
 		"ce": 1,
@@ -2744,7 +2951,9 @@
 			"1fe87dd5-2587-4296-bd16-aea9fb308ffb",
 			"6ee73256-2bb6-479d-bffc-ab7065d40956"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true,
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 32",
@@ -2760,21 +2969,30 @@
 			"bcfc39dd-2e6d-4120-ba79-bea5a9f47ef0",
 			"bab9881a-4b8c-43e3-9d88-566051a0cbea"
 		],
-		"status": "concept"
+		"status": "concept",
+		"deleted": true,
+		"dirty": true
 	},
 	{
-		"title": "Eindterm 37",
-		"description": "De leerling lost een probleem op met hoeken en met de omtrek, oppervlakte en inhoud van meetkundige figuren.",
-		"prefix": "37",
+		"title": "Eindterm 32",
+		"description": "De leerling lost een probleem op met hoeken en/of met de omtrek, oppervlakte en/of inhoud van meetkundige figuren. (B)",
+		"prefix": "32",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "afa8d44e-c820-49de-a699-e3945f65d526",
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true,
+		"fo_illustratie_id": [
+			"99a741ad-99fc-4369-a70f-eaf2bb1fd007",
+			"e872ae92-511a-45f6-918c-8f26bd7ce5c9",
+			"bda8684a-c524-4502-b937-c19162155861",
+			"8936647c-1da9-485a-93d5-d8d3487239cd"
+		]
 	},
 	{
-		"title": "Eindterm 39",
-		"description": "De leerling voert rekenwiskundige handelingen uit met lengten, afmetingen, hoeken, omtrek, oppervlakte en inhoud en gebruikt daarbij een formulekaart met alle relevante formules.",
-		"prefix": "39",
+		"title": "Eindterm 34",
+		"description": "De leerling voert rekenwiskundige handelingen uit met afmetingen, omtrek, oppervlakte, inhoud en meetkundige plaatsbepaling en gebruikt daarbij een formulekaart met relevante formules. (B)",
+		"prefix": "34",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "36a530d2-a9e5-465d-b027-8bb72aa23a40",
@@ -2784,17 +3002,18 @@
 			"d44a8a61-8bfa-4e3d-aeaa-e96a41e93bc7",
 			"272a9a45-ea7d-4ba6-9ea5-8a140f175d57",
 			"00f9035c-9d56-481e-8500-34fec522f1bb",
-			"7e39d41b-fe49-4b5c-afbf-ff07c19ad396",
-			"251a0b1f-297b-403b-a9d9-f0b6d2cdcaf6",
-			"ba084b59-780c-441a-a172-183fa06697e9",
-			"afc0469e-b114-4d11-aa54-7a5014ba3561"
+			"7e39d41b-fe49-4b5c-afbf-ff07c19ad396"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true,
+		"fo_illustratie_id": [
+			"380b77ab-1f36-4c95-8620-8f4da9adecae"
+		]
 	},
 	{
-		"title": "Eindterm 41",
-		"description": "De leerling benoemt in vlakke en ruimtelijke situaties, in objecten, bij routes en bij plaatsbepaling meetkundige vormen, hun onderdelen en andere meetkundige begrippen, en gebruikt meetkundige symbolen.",
-		"prefix": "41",
+		"title": "Eindterm 37",
+		"description": "De leerling gebruikt de namen, begrippen en symbolen van en bij meetkundige vormen. (B)",
+		"prefix": "37",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "a31940c1-adb5-4472-be5d-82e0caacc448",
@@ -2804,16 +3023,15 @@
 			"52e94d72-befd-49d1-b087-8b4969a4885f",
 			"3abdb259-f463-4168-ab55-a4cc9dc7fa45",
 			"57a38ace-76c9-4bda-9925-3ddc25668911",
-			"c7e2e378-c35e-4875-8c2b-d7cedd1e98f7",
-			"e484c703-1421-40fa-a115-40df35c7ac85",
-			"b6a032b9-29f6-4340-b558-e581cc8f3af1"
+			"c7e2e378-c35e-4875-8c2b-d7cedd1e98f7"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true
 	},
 	{
-		"title": "Eindterm 45",
-		"description": "De leerling ontwikkelt algemene vaardigheden aan de hand van wiskundige denk- en werkwijzen.",
-		"prefix": "45",
+		"title": "Eindterm 42",
+		"description": "De leerling gebruikt wiskundige denk-werkwijzen bij de ontwikkeling van algemene vaardigheden. (B)",
+		"prefix": "42",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "b69ff059-138a-45b7-8d7f-51301989b291",
@@ -2824,16 +3042,35 @@
 			"6ade3747-51b4-49d7-8879-976e74147361",
 			"ae40ae33-dfa9-477a-bfd1-570a08f60259"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true,
+		"se": 1,
+		"fo_illustratie_id": [
+			"ece07c52-facd-42aa-a96f-612db5bf7299"
+		]
 	},
 	{
-		"title": "Eindterm 46",
-		"description": "De leerling gebruikt in onderlinge samenhang wiskundekennis en wiskundige denk- en werkwijzen om eenvoudige wiskundetaken uit te voeren.",
-		"prefix": "46",
+		"title": "Eindterm 43",
+		"description": "De leerling herkent en gebruikt wiskunde in dagelijkse, maatschappelijke en onderwijsgerichte situaties. €",
+		"prefix": "43",
 		"soort": "eindterm",
 		"se": 1,
 		"id": "4d5ac09b-24df-48fc-927e-07b2437a449d",
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true,
+		"fo_uitwerking_id": [
+			"3eec3587-8d5e-4cd4-86fb-7350e45dd7e1",
+			"7e9533ef-4302-4d78-90db-b5d116674ccc",
+			"4367dfd2-7ac3-45b0-a7ca-8f089b2ded76",
+			"a90232ec-12f0-4480-8b49-c98f5a01fa58",
+			"7e85c2a7-2281-44e9-b358-d9518a45806d"
+		],
+		"fo_illustratie_id": [
+			"756b5011-8f95-4c78-a162-26688dce9efa",
+			"cf116a88-7c98-4e24-9c8b-e2a3c30f1b78",
+			"8ccee751-92b9-42c9-95c7-5cc39c992b4f",
+			"303cbd59-fbd8-4ba8-9a8a-2834b71a64a1"
+		]
 	},
 	{
 		"title": "Eindterm 49",
@@ -2847,12 +3084,13 @@
 			"b8a8df19-0399-4734-b08d-91273a9814b8",
 			"cbf64235-916c-4694-954a-8e14e927612b"
 		],
-		"status": "concept"
+		"status": "concept",
+		"dirty": true
 	},
 	{
-		"title": "Eindterm 50",
-		"description": "De leerling verzamelt inzichten over de eigen loopbaanontwikkeling, maakt loopbaankeuzes en licht deze toe.",
-		"prefix": "50",
+		"title": "Eindterm 44",
+		"description": "De leerling  legt verbanden tussen ervaringen, persoonlijke interesses en kwaliteiten, vervolgopleidingen en toekomst. €",
+		"prefix": "44",
 		"soort": "eindterm",
 		"se": 1,
 		"id": "2aa026b4-b935-4f3d-bfb3-b8dd54a30ede",
@@ -2862,7 +3100,13 @@
 			"60ac2a87-c0c3-4dad-a33c-ea17c91e94ba",
 			"cfe8a2b9-5d41-443f-9145-794789e8c45f"
 		],
-		"status": "concept"
+		"status": "definitief concept",
+		"dirty": true,
+		"fo_illustratie_id": [
+			"a2ec1f91-025c-4308-92f1-95c5ca3933d5",
+			"291f9c51-7aa2-4df5-b294-278cd123cacb",
+			"75c973b7-fd28-4cb9-bf33-9e398eb0898c"
+		]
 	},
 	{
 		"title": "Eindterm 12",
@@ -43346,14 +43590,15 @@
 			"5fecd829-f54c-4d9e-b151-b27b727a143a",
 			"ddf49244-92cc-4c93-9b42-addc58a5f60b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"2a6f8fcb-97a4-4b63-8287-7b29ec9c5c26",
 			"bd210410-e41e-46e5-9520-66cc82d6d4e4"
 		],
 		"replaces": [
 			"80c110a6-6dce-423d-a89a-7b02cda4de7b"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 03",
@@ -43365,7 +43610,7 @@
 		"fo_uitwerking_id": [
 			"d3dc8dfb-db3c-4019-b75a-637989086bd7"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"ced38e9a-3f77-4c40-89b9-59abea96352e",
 			"31dfb137-f8cf-4bd9-af6d-a8a6a57e17f8",
@@ -43373,7 +43618,8 @@
 		],
 		"replaces": [
 			"163f0d6e-913c-429a-9067-794d699894d2"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 05",
@@ -43386,14 +43632,15 @@
 			"b4e5b273-a2c6-4a2b-8560-01753e1dfc68",
 			"e322dcfe-bda5-4259-8b5a-0075c395d327"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"ef1ace7d-d9a4-4e20-84b0-4c7f5e797aa9",
 			"832f3e89-1b8d-43cb-87e8-20b3a08521f0"
 		],
 		"replaces": [
 			"a85b22c6-6d26-4dc7-a9f1-febb31cb47c1"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 06",
@@ -43406,13 +43653,14 @@
 			"caf0932b-d5ea-444e-b30f-cd5011b5110a",
 			"55e92403-d2a0-4d33-8c60-709e9be61499"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"11d9577e-d0d7-4525-97aa-353f14de3223"
 		],
 		"replaces": [
 			"f1efa13c-9316-4c51-9de1-e29d392d9fde"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 09",
@@ -43421,14 +43669,15 @@
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "db65fd8c-8e34-427b-a66b-c14e3fdb3542",
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"1195b679-24d1-4ea0-91b8-54f6ecacc9dd",
 			"bd9659a0-5306-4c33-be62-f9161827dbc5"
 		],
 		"replaces": [
 			"986986f4-a6ad-4244-9bb8-983e8b490200"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 11",
@@ -43443,7 +43692,7 @@
 			"201960fa-fdbc-4585-a1a0-976d52f2ee04",
 			"6ae0e3f6-92a1-408f-99be-c696ef892ba0"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"83173761-9698-4bef-9bda-32b836bd9c06",
 			"2337db4e-60ed-4dc9-962a-74983af59237",
@@ -43455,7 +43704,8 @@
 		],
 		"replaces": [
 			"1a3b04bf-6428-412b-8d8f-e26095c9ce1c"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 14",
@@ -43464,13 +43714,14 @@
 		"soort": "eindterm",
 		"se": 1,
 		"id": "04d185ee-abd2-4ff5-b42f-82654dc56b95",
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"cd934397-b891-49c0-a8eb-80066b0f2f32"
 		],
 		"replaces": [
 			"55b22e5f-65fa-4b4f-a66e-a727486a5643"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 22",
@@ -43479,13 +43730,14 @@
 		"soort": "eindterm",
 		"se": 1,
 		"id": "2c0f8079-d8ea-4e6e-9eb2-d6c919390836",
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"7ec04ce7-9e8e-4610-baaf-5bee8d117ea8"
 		],
 		"replaces": [
 			"b63d52a8-9f59-4555-8a30-843dfb3ebb14"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 25",
@@ -43494,14 +43746,15 @@
 		"soort": "eindterm",
 		"se": 1,
 		"id": "753b4697-fca2-4333-85a4-0e7d4c2d115b",
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"387bb87b-99aa-44cb-90d8-b9df8857f5cf",
 			"73084a9a-7aa8-4e8c-8566-a1104637283e"
 		],
 		"replaces": [
 			"2e91dd14-8e67-4ae4-81d0-15d4678efc92"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 26",
@@ -43513,13 +43766,14 @@
 		"fo_uitwerking_id": [
 			"892395df-69de-48bd-bd8d-9e5f2218f27a"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"ab3f9341-70d4-4f19-83d6-695130722053"
 		],
 		"replaces": [
 			"2971ec74-1442-4ba8-8666-3b7652c55d4c"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 27",
@@ -43532,7 +43786,7 @@
 			"f045b369-e450-4ae4-91d7-eca2533c4798",
 			"86de9f7c-0cf1-4bef-ae08-c8be01b3cf00"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"0e8f2168-39c9-4627-8f44-3f642ddde6e9",
 			"ac9b155b-65a9-4310-bbe1-3ab81f499a31",
@@ -43541,7 +43795,8 @@
 		],
 		"replaces": [
 			"9fd21e49-368e-473e-a0b4-fde1d2676390"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 28",
@@ -43554,13 +43809,14 @@
 			"fa630c7f-13a0-47ef-84b8-8ccde11b743f",
 			"ab9968ba-746a-4bc3-810e-8b4941b9d89c"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"b3dcf68a-37e9-4f53-ad21-483aeaefa321"
 		],
 		"replaces": [
 			"82ad44f1-dfd9-488f-ab24-dca0f1bc61bb"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 30",
@@ -43569,13 +43825,14 @@
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "2be4ea82-f0f7-49b6-b17c-6a0e67885efb",
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"75df8cd1-65ef-403c-9038-f255ebdc8339"
 		],
 		"replaces": [
 			"c1312d43-5799-4709-833c-9b17daa9b4c1"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 32",
@@ -43587,13 +43844,14 @@
 		"fo_uitwerking_id": [
 			"ac7428b7-407b-4a44-bbe7-21543425fafc"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"b9406b7a-edf4-45ef-a773-2e468d8e539c"
 		],
 		"replaces": [
 			"db1d8223-981b-426d-bef5-0505f4584181"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 34",
@@ -43607,14 +43865,15 @@
 			"9b2bb1cf-207e-4ba5-ba54-d8195aae776a",
 			"5281235b-9042-462e-a5aa-12eaecd482c4"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"dedbcb4a-318f-4b77-8f9e-9852c5d6b7fa",
 			"b1d40562-0b8b-4a90-af43-aa7b5d2d2d2d"
 		],
 		"replaces": [
 			"1cddd086-f74e-478b-8927-cfcdbdb6b472"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 35",
@@ -43627,13 +43886,14 @@
 			"2bcd3a2f-447e-4e45-9e97-51e3bb25b9a3",
 			"5cb38089-a3d9-4aa2-af93-2b0b10a1f2e9"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"637d8626-8d2e-4069-9045-6fa635504660"
 		],
 		"replaces": [
 			"ed953ced-9397-43ca-b3ae-7310a3d71e37"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 38",
@@ -43642,13 +43902,14 @@
 		"soort": "eindterm",
 		"se": 1,
 		"id": "b5feca54-13da-4d00-bbf8-ffffeb978f9f",
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"a91c9aff-6513-4ac6-84cc-ada194882115"
 		],
 		"replaces": [
 			"203daa69-d697-47e7-abda-325765b2e6a6"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 39",
@@ -43657,7 +43918,7 @@
 		"soort": "eindterm",
 		"se": 1,
 		"id": "4caf5a45-09c4-4e38-85dd-5f5daddedbbe",
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"4631e3a4-c228-4ff6-b9bd-09ece87908f3",
 			"d213a7b1-5f7c-4106-b137-820e23fd2e90",
@@ -43665,7 +43926,8 @@
 		],
 		"replaces": [
 			"8983ded5-c404-4922-923c-8e5b62266afa"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 01",
@@ -43681,14 +43943,15 @@
 			"61f6d79f-1ffd-4b96-b6a3-8ffedbbd299f",
 			"c0e1d77c-7d6f-4336-967d-ef79133dd883"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"a84fb866-e67a-4ce6-a894-92368d5827b5",
 			"aa323f55-30b8-47d3-bdde-75763b9789b3"
 		],
 		"replaces": [
 			"e1293ea4-07bf-47ef-8db5-24dbdba45d8d"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 03",
@@ -43700,7 +43963,7 @@
 		"fo_uitwerking_id": [
 			"e0683957-9d6d-43c4-b747-f125542d644f"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"a411e904-d20b-49ee-8623-8e7ec351f136",
 			"df4b123e-3222-4a82-8ad7-4a3c587d82c5",
@@ -43708,7 +43971,8 @@
 		],
 		"replaces": [
 			"10b5e872-300b-4b74-b2f9-2e0fd1bf4864"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 05",
@@ -43721,7 +43985,7 @@
 			"447373f3-6a95-4149-87cf-83937a4109c1",
 			"964f2f3b-4418-458b-80b9-e40951eecd0a"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"cb5191cd-81e5-4848-8d6a-51d5e66c1068",
 			"d92d7ac2-0cd5-487c-8f4d-bef2842320ca",
@@ -43729,7 +43993,8 @@
 		],
 		"replaces": [
 			"1bed2ddb-01fe-45f5-aae5-4e8117bfe78e"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 06",
@@ -43742,14 +44007,15 @@
 			"ede0b357-8094-4675-b1b2-dbb0a095e0f1",
 			"b7784329-83d0-4c13-93d3-32dc8fff9e02"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"d9437c9a-00c4-484c-bb80-b6717a79f72a",
 			"ee0b4e28-8d94-4601-a7d9-22a1bccee684"
 		],
 		"replaces": [
 			"fcb19f3e-f57d-45e5-9199-cc84851e2fdb"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 09",
@@ -43758,14 +44024,15 @@
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "eb650f4e-b4cd-4a39-87ed-39d640a5923b",
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"5b6461d0-ed65-48dc-998b-53bccb1242ac",
 			"f0beb22c-29a2-45bd-af64-06015ebf8474"
 		],
 		"replaces": [
 			"63889b94-8e5d-4df1-b291-7627987dcab0"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 11",
@@ -43780,7 +44047,7 @@
 			"61ffc68d-f70f-4adb-b1ad-ade994693542",
 			"ce4de38b-1e49-43be-a9fc-21a1e6d971c9"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"1f117739-061e-410b-8e96-62712afc8388",
 			"dfa6dbc6-4b3f-4e87-b03c-edad9fc41427",
@@ -43792,7 +44059,8 @@
 		],
 		"replaces": [
 			"5be527fa-3ce8-4060-862d-f8161f72232e"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 14",
@@ -43801,13 +44069,14 @@
 		"soort": "eindterm",
 		"se": 1,
 		"id": "4ac51d8e-0a99-4457-9913-3df75a4bc50b",
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"a13268fd-f468-4404-bbc6-e3d9bf4073bb"
 		],
 		"replaces": [
 			"4557a2db-d678-4519-a8a4-03d6cad801d0"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 22",
@@ -43816,13 +44085,14 @@
 		"soort": "eindterm",
 		"se": 1,
 		"id": "5f013c21-a9b1-4cc0-b5c5-29cd8bfbcafa",
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"43078cce-8e64-4ac3-a288-54e925620dc6"
 		],
 		"replaces": [
 			"4404adc8-5b21-4ea7-a76c-d845c1adc5fb"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 25",
@@ -43831,14 +44101,15 @@
 		"soort": "eindterm",
 		"se": 1,
 		"id": "5d250241-87a1-45c6-9759-362a9dbdf1a8",
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"f40e4acd-4a01-44bb-a2ad-415b63944407",
 			"7c29edcf-fd0a-4257-88e6-ffc65e607b36"
 		],
 		"replaces": [
 			"5eec6b12-515f-49a1-b0f7-0d2bd66706fa"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 26",
@@ -43850,13 +44121,14 @@
 		"fo_uitwerking_id": [
 			"8da6be36-867e-49da-b8e2-224c827bdb19"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"3cdf1a16-2b34-43b4-b13c-6add68ddfb5d"
 		],
 		"replaces": [
 			"404ac715-6da6-4ba9-97e6-c1e8824294a3"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 27",
@@ -43869,7 +44141,7 @@
 			"f390cc5d-0a62-4887-906c-e5b98d3482a7",
 			"19a6fa75-c365-4935-bb0b-bf5cbc3d1d32"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"35510da1-d7f6-49ce-ba35-f2350b468c12",
 			"f094aa0b-dc09-4805-8d2a-d60fe31deac3",
@@ -43878,7 +44150,8 @@
 		],
 		"replaces": [
 			"15bb3480-29e8-4152-9462-fa43eefb1034"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 28",
@@ -43891,13 +44164,14 @@
 			"5dd6c79a-d8e2-42c3-a1ae-9fe5f34aba38",
 			"2eef7886-30d2-47c8-b111-75d59041090d"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"6b2a5b2d-f8ed-4021-940d-0d46d3d91337"
 		],
 		"replaces": [
 			"f713d442-b45f-4877-b88a-f9b423c3081f"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 30",
@@ -43906,13 +44180,14 @@
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "bd02ca4f-6865-4ddd-b34d-26861d54df08",
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"4eb56f1b-d5f6-475f-94bc-ecfc7dbd6dc4"
 		],
 		"replaces": [
 			"cb841ada-d8ed-4426-95ff-1e56572ad318"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 32",
@@ -43924,13 +44199,14 @@
 		"fo_uitwerking_id": [
 			"78362571-3150-4a5d-b78d-a04062aadc4f"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"a5b28ddc-4e7d-4a43-8fd2-4e1a07c2c7be"
 		],
 		"replaces": [
 			"475518ec-73d2-4ee7-b414-524c22c75139"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 34",
@@ -43944,14 +44220,15 @@
 			"41299500-0c52-4135-96bb-2405f0ca56f4",
 			"c4346f53-69f5-4b51-bc8f-db3f9c484b18"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"a9b377a1-fcb6-4592-9152-d76332002dda",
 			"97c42397-36a1-415b-9c53-b18b96a44d97"
 		],
 		"replaces": [
 			"84111f70-9a29-43f5-b89a-a4f2d07c3dd8"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 35",
@@ -43964,13 +44241,14 @@
 			"ee19baab-5cff-4655-918a-6091135f4e81",
 			"1611d883-990f-4433-92fc-88d958499b28"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"634c820f-07f0-4501-b235-7f9d8d10dbe3"
 		],
 		"replaces": [
 			"97e17722-fbab-445c-92cb-07d6747ceced"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 38",
@@ -43979,13 +44257,14 @@
 		"soort": "eindterm",
 		"se": 1,
 		"id": "08c6805a-2cd0-474c-9102-45cb2ac8fce3",
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"c9e9fbae-dcf9-4639-ab8d-7bd42fcf20c3"
 		],
 		"replaces": [
 			"0b5b5658-ddf5-4288-8c03-0e02fc7a3609"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 39",
@@ -43994,7 +44273,7 @@
 		"soort": "eindterm",
 		"se": 1,
 		"id": "c7b08db9-1c8a-4dc4-843d-be551a5636ac",
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"43a47b9f-cb71-4428-b893-e78e1e2b58f7",
 			"8b814b1c-fd4e-4333-a801-fb4c73895808",
@@ -44002,7 +44281,8 @@
 		],
 		"replaces": [
 			"f2f66d06-7768-48df-aa5f-9ef73661635e"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 01",
@@ -44017,14 +44297,15 @@
 			"08ec97ab-2b15-4d6a-bfcf-af8192d39d3f",
 			"6127e3a1-1007-4e5c-9524-fc066639ae9d"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"358ae58a-b8f1-4d2d-a763-c0c66b636aa5",
 			"0b2924ce-70d4-40cf-a21a-930a4bbed913"
 		],
 		"replaces": [
 			"1cb6f938-5c61-4315-ac0d-9edd12ce6dcf"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 03",
@@ -44036,7 +44317,7 @@
 		"fo_uitwerking_id": [
 			"5ce90de6-fd3a-4456-8cfc-f2327760a938"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"bab55e35-77b2-4460-9b08-233d28b2f247",
 			"21efc5e5-870f-48cc-a51a-e7ded1b77507",
@@ -44044,7 +44325,8 @@
 		],
 		"replaces": [
 			"bb6c85b6-a12c-4752-b3f9-7b29ceac4c42"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 05",
@@ -44058,7 +44340,7 @@
 			"2030819c-e8eb-49e6-8030-7db20d99f90c",
 			"92b77176-0801-4aae-ae2e-70744a173387"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"b779bbdd-4ba6-49db-b360-1ca7a7b6c47d",
 			"f883a4cf-e67e-47e0-bbdc-19bc4a5f6471",
@@ -44067,7 +44349,8 @@
 		],
 		"replaces": [
 			"92203919-739b-43d7-9631-3a141c4d7172"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 06",
@@ -44080,14 +44363,15 @@
 			"4accbcd7-bc31-4b53-afc4-8fe73efd118a",
 			"694f46c3-31c1-4425-bc46-8ccf92ea9501"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"3b50c06c-54f4-4221-bf1d-33bf011166ac",
 			"7e806f93-f803-4bfb-8e95-fc252c3f7517"
 		],
 		"replaces": [
 			"619081e8-3294-4890-889d-0ad8af3f2f46"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 09",
@@ -44096,14 +44380,15 @@
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "edb713e6-b4eb-4190-b985-0973e98581b4",
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"350d9f3a-b3f9-443d-a7ed-ffdb3c12983a",
 			"c78c2cc5-222e-40c9-b705-927df14d4cc7"
 		],
 		"replaces": [
 			"e2a74d6a-7302-4457-997c-6b2e09e1fc3e"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 11",
@@ -44118,7 +44403,7 @@
 			"fa37846e-04a8-4e66-83df-8c4959731d69",
 			"2a160ad1-eb5c-4d50-83a3-421799d9b5f4"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"2e06708b-28f8-4568-8aec-d33ad13e592c",
 			"2824f8c2-6a4d-4f11-a4d1-4d42430d0ac3",
@@ -44131,7 +44416,8 @@
 		],
 		"replaces": [
 			"161de2e9-1bf1-404e-ae08-aae0e0126184"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 14",
@@ -44140,14 +44426,15 @@
 		"soort": "eindterm",
 		"se": 1,
 		"id": "f6bf8e60-1b0e-4d25-946a-a797782b1d21",
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"f4be559c-1312-48e3-84b1-94f45c4f8640",
 			"ea4c3869-3b2b-49a7-bc94-0aa634719480"
 		],
 		"replaces": [
 			"1ea69797-dad3-4b86-aa3d-51b3b94a8e44"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 22",
@@ -44156,13 +44443,14 @@
 		"soort": "eindterm",
 		"se": 1,
 		"id": "ee767e5f-3e24-4ac8-bfd4-d53c4d422c1a",
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"d1448c2e-126e-46db-9d1d-4d87043bc8f4"
 		],
 		"replaces": [
 			"7acd52b8-34a7-448c-9abd-b49c654a08f3"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 25",
@@ -44171,14 +44459,15 @@
 		"soort": "eindterm",
 		"se": 1,
 		"id": "1f2f2aed-b691-4dd5-ba50-d4bdb9281ef4",
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"e74979db-a7c5-4776-bdb6-d9361eefe176",
 			"e00de9fc-16c1-43f4-a650-403d08133b83"
 		],
 		"replaces": [
 			"4718b6e9-edeb-410b-986b-7e6e65c0c6e8"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 26",
@@ -44190,13 +44479,14 @@
 		"fo_uitwerking_id": [
 			"e358bcf0-2704-4f9a-b712-8dc3f5d02f6e"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"b8f99391-9daf-41d9-a322-0548af98bd75"
 		],
 		"replaces": [
 			"9519ab83-6724-4f88-bdc7-21d3cdb69573"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 27",
@@ -44209,7 +44499,7 @@
 			"6651cc94-9b9f-427c-bb46-78b189be6c3b",
 			"8a9b0bbd-fd13-4248-a99f-3b041df469a2"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"81caba0d-dbe6-4e06-bd72-342797bde115",
 			"ab502dc0-a17e-4ad8-b8ee-6c5658b37934",
@@ -44218,7 +44508,8 @@
 		],
 		"replaces": [
 			"9328fa6c-d687-4eb1-91c8-8c34802821bb"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 28",
@@ -44231,13 +44522,14 @@
 			"58e91526-f262-4703-827b-7c68edf0b642",
 			"528d3e7c-2ec9-4299-a070-ef91b5b27dbe"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"483b5284-505f-44cc-a06f-d6cb0a88693d"
 		],
 		"replaces": [
 			"83c78af8-f196-403a-808a-b9dea11a79e3"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 30",
@@ -44246,13 +44538,14 @@
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "9c91dcaf-812d-4089-a7cc-6d25e1adbeb7",
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"c907f0a5-2c5a-4c26-9d9a-638f55b450c9"
 		],
 		"replaces": [
 			"ffd248ef-7e7f-42f5-afdd-aa3a6d6315cd"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 32",
@@ -44264,13 +44557,14 @@
 		"fo_uitwerking_id": [
 			"980dbf87-8338-4025-85c7-f25b192e3019"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"463dee26-b6ef-4a45-a96f-4d677b054091"
 		],
 		"replaces": [
 			"e41527f9-75b8-4900-bea6-bbf52d411891"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 34",
@@ -44284,14 +44578,15 @@
 			"af49e2ad-6976-42f3-93f5-8be2ca2bb201",
 			"77ed6bf8-fffd-4785-aa73-5d27dd363155"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"d3339efc-71d3-42ef-9f87-6a03d5070e63",
 			"18f94bfa-f503-42e2-8fa1-00ffa1dc3b2b"
 		],
 		"replaces": [
 			"c3b3298b-7f76-4004-8d9d-cf5cf60673ec"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 35",
@@ -44304,13 +44599,14 @@
 			"c08da5bb-cefd-48de-b131-6bc8d566cd88",
 			"355de2e0-1a43-4777-a7bb-999410396c6d"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"ea39f243-9049-428a-bbd9-dc0ca4d13b30"
 		],
 		"replaces": [
 			"863a2ef9-345c-4cc6-aead-4e2e3859087f"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 38",
@@ -44319,13 +44615,14 @@
 		"soort": "eindterm",
 		"se": 1,
 		"id": "be37674e-c1b2-4c8f-b2c0-75acd5f486d7",
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"29d8be12-9699-4968-ac4e-d79bb22ec95b"
 		],
 		"replaces": [
 			"87cf5332-e1ea-4b01-bdab-e3d81c158096"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 39",
@@ -44334,7 +44631,7 @@
 		"soort": "eindterm",
 		"se": 1,
 		"id": "adb2c8ab-a558-4dee-b30f-ff37663d0e94",
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"45c18501-8c8f-4d92-ae20-be4dc05761bd",
 			"ff9a4516-e926-4947-9799-119e2f9bd9f8",
@@ -44342,34 +44639,39 @@
 		],
 		"replaces": [
 			"2e3c50b1-3517-4bd0-bf24-6080eda46f98"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 01",
-		"description": "De leerling rekent met eenvoudige gehele en decimale getallen en rondt getallen af.",
+		"description": "De leerling rekent met gehele en decimale getallen en rondt getallen af. (B)",
 		"prefix": "1",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "b70a94fe-e8e0-4ab2-b446-01b1fc2b848b",
 		"fo_uitwerking_id": [
 			"ba9b3058-bb42-42eb-8a01-fa1e11651ac7",
-			"e8d7f51b-dd14-4c45-b57e-f7f5dca30f08",
+			"0719b74a-5f87-49e6-a76b-ce0f25ea22b6",
 			"496be5ad-f0ce-4735-93ac-6b92e85d77a1",
 			"49293c5c-a94f-407c-9559-68d36ab6e632",
-			"40e76a02-b354-4774-8ed5-bb38e520737b"
+			"40e76a02-b354-4774-8ed5-bb38e520737b",
+			"a527a1fe-498a-45d7-aefc-10ab0b72370f"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
-			"64c01336-3937-4ac0-8d59-6770c57d5501",
-			"bc19bc0d-f29f-4ccc-82d5-77bd555dfb4b"
+			"9b5a77e6-d55a-4bc5-b858-d2363c1c6c07",
+			"e87ea547-d7bc-4a6e-a554-ecacfd38fbc5",
+			"5c85368c-06da-462c-8d5e-970e5fcb81e8"
 		],
 		"replaces": [
 			"280e421c-2351-4769-adab-aeb8453ff68a"
-		]
+		],
+		"dirty": true,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 05",
-		"description": "De leerling geeft een verhouding in taak en teken weer.",
+		"description": "De leerling geeft een verhouding in taak en teken weer. (B)",
 		"prefix": "5",
 		"soort": "eindterm",
 		"ce": 1,
@@ -44380,34 +44682,37 @@
 			"e5d0bada-4f98-4f6d-b70a-83be3bba8ffa",
 			"de5cea09-0941-491e-afad-7ab2cddefc71"
 		],
-		"status": "concept",
-		"fo_illustratie_id": [
-			"85887360-8713-4e9c-ab64-e9c4feecfb31",
-			"f1fbcc2b-4051-483b-9f40-f76c460337a2",
-			"02b503ec-ce29-4893-bd14-5953cfee4e5a"
-		],
+		"status": "definitief concept",
+		"fo_illustratie_id": [],
 		"replaces": [
 			"17c4247b-83c8-4f77-863e-ae3c0a689819"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 06",
-		"description": "De leerling identificeert verhoudingen in een situatie.",
+		"description": "De leerling identificeert en geeft betekenis aan verhoudingen, procenten en schaal in een concrete situatie. (B)",
 		"prefix": "6",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "e41d6a97-178a-4a06-9278-92d45a73f1d5",
 		"fo_uitwerking_id": [
 			"dabee5f8-b65b-4cd0-b775-20710a0dbc6f",
-			"237e83e5-fd00-4ef9-a44b-1dc9e2ff70d7"
+			"237e83e5-fd00-4ef9-a44b-1dc9e2ff70d7",
+			"7dbfba24-d3d9-4718-9ec7-0f9b0affb4bf",
+			"03652694-9c90-4197-8cc1-70c0499eccd5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
-			"9f60286e-b4dd-485a-a9f1-3b3a27eaf491"
+			"9834e25e-6d1b-43b2-86cf-bd432e4196a0",
+			"2c0830bc-3e95-446e-a342-748c0ed199b2",
+			"cd8611e7-4e39-487d-bb71-3dcc960a9a64"
 		],
 		"replaces": [
 			"c47af52b-d0ae-4bbd-95e4-c4be4170ac8e"
-		]
+		],
+		"dirty": true,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 07",
@@ -44416,38 +44721,42 @@
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "6988ac2e-8d4c-4063-9c43-5ae4f7c87194",
-		"fo_uitwerking_id": [
-			"5c974c1a-bf31-4311-8627-d674be724a60"
-		],
-		"status": "concept",
-		"fo_illustratie_id": [
-			"48377a92-7ef9-4227-b135-4fe47c0e237c",
-			"c99a5474-7b12-4942-a43b-e54095e66884"
-		],
+		"fo_uitwerking_id": [],
+		"status": "definitief concept",
+		"fo_illustratie_id": [],
 		"replaces": [
 			"b3bec1c4-23b2-425d-8316-8565fc3d6818"
-		]
+		],
+		"deleted": true,
+		"dirty": true,
+		"se": 1
 	},
 	{
-		"title": "Eindterm 09",
-		"description": "De leerling lost in een concrete situatie een eenvoudig probleem op met behulp van benaderingen, schattingen en eenvoudige referentiematen en -aantallen.",
-		"prefix": "9",
+		"title": "Eindterm 08",
+		"description": "De leerling lost in een concrete situatie een probleem op met behulp van benaderingen, referentiematen en/of referentieaantallen. (B)",
+		"prefix": "8",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "5783e62e-93b7-4651-87ae-69b791de50c0",
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"52cab3ea-be89-4e37-8398-357f62826652",
+			"39949631-e511-484f-97dd-31c929a96a3e",
 			"35b9053e-eab5-4b45-a6a3-fa5b84c8e711"
 		],
 		"replaces": [
 			"03dc31db-f723-43a3-ae3c-268452447caf"
+		],
+		"dirty": true,
+		"fo_uitwerking_id": [
+			"0477bcc7-5b94-4fd7-bc3e-832496d59681",
+			"c4cfee49-d45a-4b08-8ba2-5a85dabf9b3c"
 		]
 	},
 	{
-		"title": "Eindterm 11",
-		"description": "De leerling kiest in eenvoudige concrete situaties passende gangbare eenheden en voorvoegsels en geeft een maat met de gekozen eenheid weer.",
-		"prefix": "11",
+		"title": "Eindterm 10",
+		"description": "De leerling kiest in concrete situaties gangbare eenheden en voorvoegsels en geeft een maat met de gekozen eenheid weer. (B)",
+		"prefix": "10",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "f008f247-308a-4181-9788-41aaf7b389f5",
@@ -44455,16 +44764,17 @@
 			"69f202b6-f001-49de-945a-7a102e550ed5",
 			"9ec36546-9628-4f84-a928-9dc39f86af29",
 			"d6613bd9-7b98-4a79-b118-2a28cbf79b83",
-			"e599598e-393d-49ee-964e-a9b9a2060571"
+			"e599598e-393d-49ee-964e-a9b9a2060571",
+			"3dcce502-1539-4b53-9b97-4c32cd495362"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
-			"a6bccead-d30d-4572-9c50-63845490148e",
-			"f1829c13-a487-4607-a61b-a33ce6bd56b5"
+			"a6bccead-d30d-4572-9c50-63845490148e"
 		],
 		"replaces": [
 			"b1156c1a-dcf2-48e7-96d1-cd03ae1acd75"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 14",
@@ -44473,154 +44783,158 @@
 		"soort": "eindterm",
 		"se": 1,
 		"id": "f5e7008f-97be-422a-8168-3e239df7f6b0",
-		"status": "concept",
-		"fo_illustratie_id": [
-			"1c3fdba9-3dde-458d-92e7-da3b06d37082"
-		],
+		"status": "definitief concept",
+		"fo_illustratie_id": [],
 		"replaces": [
 			"a52fad23-447c-4f8d-97c8-55f011fb660a"
-		]
+		],
+		"deleted": true,
+		"dirty": true
 	},
 	{
-		"title": "Eindterm 23",
-		"description": "De leerling lost in een concrete situatie een eenvoudig probleem op waarin tabellen, grafieken of woordformules een rol spelen.",
-		"prefix": "23",
+		"title": "Eindterm 20",
+		"description": "De leerling lost in een concrete situatie een probleem op waarin tabellen, grafieken en/of woordformules een rol spelen. (B)",
+		"prefix": "20",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "690a336c-f55f-4453-8bc5-d4277ddc276b",
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"56b8743a-b5f9-4087-8e36-6392ea17092e"
 		],
 		"replaces": [
 			"140cea2d-9b15-4fb6-bf62-87418f25bf05"
-		]
+		],
+		"dirty": true
 	},
 	{
-		"title": "Eindterm 28",
-		"description": "De leerling identificeert patronen en verbanden in een concrete situatie.",
-		"prefix": "28",
+		"title": "Eindterm 24",
+		"description": "De leerling identificeert patronen en verbanden in een situatie. (B)",
+		"prefix": "24",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "dd768c2e-aefd-46cb-94b1-e5fd09214c3a",
 		"fo_uitwerking_id": [
 			"55a2bc2c-6142-4373-9526-76f5acd978fc",
 			"06a5aa0d-5428-4bf9-bc80-7e65f0ab681b",
-			"4abae80a-87a4-4ba6-9962-a534b52d6d4b"
+			"4abae80a-87a4-4ba6-9962-a534b52d6d4b",
+			"abff654b-9e08-4f60-a9a0-d00e6d304fd9"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"c498c227-9ce3-487c-b608-4ae57ecf47f1"
 		],
 		"replaces": [
 			"9d9b6e4f-caa8-455f-b132-7fcf5fb8fe58"
-		]
+		],
+		"dirty": true
 	},
 	{
-		"title": "Eindterm 29",
-		"description": "De leerling geeft betekenis aan tabellen, grafieken, woordformules en verbanden.",
-		"prefix": "29",
+		"title": "Eindterm 25",
+		"description": "De leerling geeft betekenis aan tabellen, grafieken, woordformules en verbanden. (B)",
+		"prefix": "25",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "896c82fe-6e89-4761-9dfc-6e992a343fef",
 		"fo_uitwerking_id": [
 			"79c5ccba-41b8-4ef2-88ce-848e8b48343e",
-			"c683b101-fa37-4d26-8811-f3a16c3c7382",
-			"3f8154ea-2bd1-4605-86fe-39a8f128325e"
+			"c683b101-fa37-4d26-8811-f3a16c3c7382"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
-			"32d7e84e-bd58-4100-8cb0-53abf9bf6ee4",
-			"eaa44cef-e224-4df7-a3eb-66316aea7a20",
-			"216dce8b-3d50-48ad-b4fc-2e996cc52420"
+			"32d7e84e-bd58-4100-8cb0-53abf9bf6ee4"
 		],
 		"replaces": [
 			"0feaddeb-3f97-40de-b4ff-268d93494127"
-		]
+		],
+		"dirty": true
 	},
 	{
-		"title": "Eindterm 30",
-		"description": "De leerling geeft een eenvoudige concrete situatie weer met behulp van een verband.",
-		"prefix": "30",
+		"title": "Eindterm 26",
+		"description": "De leerling geeft een concrete situatie weer als een verband met behulp van een tabel, een grafiek en een woordformule. (B)",
+		"prefix": "26",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "e11d0a58-68d3-4b2d-a99b-82209cdb85b8",
 		"fo_uitwerking_id": [
 			"77fc24e6-b9f5-443d-8815-8b36dfc05623",
-			"88dba86d-d325-4e0f-8069-7891be55f47a",
-			"8bc1d80b-2fbb-46d2-a756-732182946cbc"
+			"88dba86d-d325-4e0f-8069-7891be55f47a"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"6f011c7d-6e03-4945-9f92-fc3da256df1d",
 			"62526efc-c00f-4758-bbac-e8dc68d8b5e6"
 		],
 		"replaces": [
 			"2c792777-f4f4-488b-8228-73c83fb350d0"
-		]
+		],
+		"dirty": true
 	},
 	{
-		"title": "Eindterm 31",
-		"description": "De leerling geeft met behulp van voorbeelden een redenering over een verband.",
-		"prefix": "31",
+		"title": "Eindterm 27",
+		"description": "De leerling redeneert met behulp van voorbeelden over een verband. (B)",
+		"prefix": "27",
 		"soort": "eindterm",
 		"se": 1,
 		"id": "c15555a6-7185-4396-b707-93d11e97dab0",
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"9cd8e448-c472-4e64-80be-be736847dc67"
 		],
 		"replaces": [
 			"2de6842d-50b2-435e-aaba-dfad2d8e3a77"
-		]
+		],
+		"dirty": true
 	},
 	{
-		"title": "Eindterm 35",
-		"description": "De leerling geeft in concrete situaties eenvoudige driedimensionale objecten op een eenvoudige tweedimensionale manier weer.",
-		"prefix": "35",
+		"title": "Eindterm 32",
+		"description": "De leerling geeft in concrete situaties driedimensionale objecten op een tweedimensionale manier weer. (B)",
+		"prefix": "32",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "814faf5a-ab8f-4ae7-96ea-c89ca6276eba",
 		"fo_uitwerking_id": [
-			"eb00e694-6348-4a11-ae66-c4599f95c90b"
+			"eb00e694-6348-4a11-ae66-c4599f95c90b",
+			"ed221360-c95c-4c1d-8dd0-51c4a627dee4",
+			"36941367-977f-4cec-91f4-ec5ddf1ff87c"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
-			"6f854913-00fa-4cd4-846d-c572bf7bc5c3",
-			"d3346506-b9be-45ab-9007-bf02595b23d9"
+			"6f854913-00fa-4cd4-846d-c572bf7bc5c3"
 		],
 		"replaces": [
 			"3eac9ca9-f5c0-4db2-9c43-582fc8b53b3e"
-		]
+		],
+		"dirty": true
 	},
 	{
-		"title": "Eindterm 37",
-		"description": "De leerling identificeert in een eenvoudige concrete situatie meetkundige grootheden en andere meetkundige constructies.",
-		"prefix": "37",
+		"title": "Eindterm 34",
+		"description": "De leerling identificeert en geeft betekenis aan meetkundige grootheden, constrcties, eigenschappen en plaatsbepaling. (B)",
+		"prefix": "34",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "3dc146c8-ae3a-4e15-a4f5-df8cd341bd57",
 		"fo_uitwerking_id": [
+			"fd1515d7-5575-41bb-981f-b322895b74b6",
 			"8fc9a30f-2506-4280-b247-bdcb18df825c",
 			"75c88e0d-0eae-44a4-b218-021647626c72",
 			"2231f780-1739-479f-963b-25a538563e2a"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"9c2336cb-9ec3-4ca2-b06c-c421d023e405",
 			"5a8c9779-cabf-484a-99e5-1898f72ffc2b",
-			"5fa1a717-c9ac-41ea-8db9-8e36fe71e468",
-			"cea4fa55-0e63-42d9-be1c-efa9774fc469",
-			"0d22ba2d-7df4-4fe9-b73f-0b647908c89b"
+			"5fa1a717-c9ac-41ea-8db9-8e36fe71e468"
 		],
 		"replaces": [
 			"28860ea3-f8ff-4b51-8676-ca9c6766cfcf"
-		]
+		],
+		"dirty": true
 	},
 	{
-		"title": "Eindterm 38",
-		"description": "De leerling geeft betekenis aan meetkundige constructies en meetkundige eigenschappen.",
-		"prefix": "38",
+		"title": "Eindterm 36",
+		"description": "De leerling gebruikt meetinstrumenten voor het meten en tekenen van hoeken. (B)",
+		"prefix": "36",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "7e55dfcc-f32a-4957-aa2a-b7a5c5bb65c9",
@@ -44628,28 +44942,40 @@
 			"37d27707-8811-40da-b276-3d6074e329da",
 			"e46bf98f-6b6b-49c7-bbd7-1e0a30b03b50"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"18ae02b5-bc2c-4552-b193-8fb0668fbd0e"
 		],
 		"replaces": [
 			"0ef8316f-68d8-4443-8845-65814b3c2e90"
-		]
+		],
+		"dirty": true,
+		"se": 1
 	},
 	{
-		"title": "Eindterm 41",
-		"description": "De leerling gebruikt in alle domeinen standaardapplicaties.",
-		"prefix": "41",
+		"title": "Eindterm 39",
+		"description": "De leerling herkent en gebruikt wiskunde in dagelijkse, maatschappelijke en onderwijsgerichte situaties. €",
+		"prefix": "39",
 		"soort": "eindterm",
 		"se": 1,
 		"id": "566c1445-01c7-4f95-8169-a3e52e22fd44",
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"a795e363-f653-4473-a151-c7723fb94cca",
-			"2f731bb1-a60a-48ef-be47-83803d7f1c9b"
+			"2f731bb1-a60a-48ef-be47-83803d7f1c9b",
+			"550512e0-ddf5-4d3d-898a-925d9b1038d8",
+			"9c82f58c-47e4-418b-a20c-8abef7a47f92"
 		],
 		"replaces": [
 			"e8a1c57c-8de8-43dd-9b89-31ec27e3376b"
+		],
+		"dirty": true,
+		"fo_uitwerking_id": [
+			"82715d4f-1a4d-4186-bff8-76fc249b81fa",
+			"71619825-6846-4e05-b375-9da29ee31e76",
+			"78658b12-af6e-482e-a95c-4ea5d98ccb79",
+			"c3485400-74a2-41e3-8ddd-46cb643b1b60",
+			"2448ecbb-9b82-40d5-8c76-bd81672c965e"
 		]
 	},
 	{
@@ -44659,19 +44985,17 @@
 		"soort": "eindterm",
 		"se": 1,
 		"id": "7cdfbdcf-a650-4b72-b7ec-2c8ba6f4add3",
-		"status": "concept",
-		"fo_illustratie_id": [
-			"bb7fe3e7-0f86-4468-afb6-f12af4fe7720",
-			"94dc443e-08ce-482a-9450-4e95da24cb86",
-			"dc90a9ea-ecb4-43c4-a90a-e8a4b4bb0403"
-		],
+		"status": "definitief concept",
+		"fo_illustratie_id": [],
 		"replaces": [
 			"70d4c6ff-a5c3-4241-a185-910d2f5ea9c9"
-		]
+		],
+		"deleted": true,
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 01",
-		"description": "De leerling rekent met betrekkelijk eenvoudige gehele en decimale getallen en eenvoudige breuken en rondt getallen af.",
+		"description": "De leerling rekent met gehele en decimale getallen en breuken en rondt getallen af. (B)",
 		"prefix": "1",
 		"soort": "eindterm",
 		"ce": 1,
@@ -44683,25 +45007,23 @@
 			"195ab26f-af9c-4284-bbcd-d96c6cdbb9d9",
 			"0d89171b-12c6-4585-9deb-1446aa748170",
 			"c4b9dd9a-863a-473d-897b-092d923c9afe",
-			"ee9433ff-f389-430e-a335-b0bbf394d0db",
-			"4d3c6fd9-9929-4470-812e-3434a1e402f7"
+			"ee9433ff-f389-430e-a335-b0bbf394d0db"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
-			"cf14dfbb-3e4d-440b-88e5-2e965bfd5edd",
-			"2c060797-dacf-4e0a-a778-7ae2c7979f11",
-			"7e943fb3-8f37-46f4-a62b-9accffac4569",
-			"dcbc0227-e385-46d3-b4e0-521baa96ce9c",
-			"bdac6b62-1782-4a3e-9026-e56b437de9e2",
-			"202157a7-601d-48a4-9d9a-b0ccb32761e8"
+			"85376b08-0ca2-47b3-9435-e48e244cd0cd",
+			"3f227606-3a50-4ad8-a0a4-23d4dd7b92a2",
+			"a6dd122e-33d1-426d-a92e-9bddb6c45bdc"
 		],
 		"replaces": [
 			"b410f115-ab8f-41f0-85e7-fc582c6117ae"
-		]
+		],
+		"dirty": true,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 05",
-		"description": "De leerling geeft een verhouding in taak en teken weer.",
+		"description": "De leerling geeft een verhouding in taak en teken weer. (B)",
 		"prefix": "5",
 		"soort": "eindterm",
 		"ce": 1,
@@ -44712,21 +45034,16 @@
 			"11790841-6e9d-4a5c-8a5b-83835ba69958",
 			"8b260aac-2e96-42cb-b248-08e085ff7c34"
 		],
-		"status": "concept",
-		"fo_illustratie_id": [
-			"d01a3798-890d-4878-ae1b-fdf9d9a92dc7",
-			"481e6367-91bf-48a0-a50b-f747cb5274a5",
-			"155eed38-a023-4323-b07b-7e6d7d4b1a83",
-			"6b4a23b2-d8d5-4ffc-959f-a409650ca07a",
-			"2aa049d7-081c-40bd-8e5e-245770dc8f4d"
-		],
+		"status": "definitief concept",
+		"fo_illustratie_id": [],
 		"replaces": [
 			"4877ded8-9e5b-4f27-886b-a158a587d005"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 06",
-		"description": "De leerling identificeert verhoudingen in een situatie.",
+		"description": "De leerling identificeert en geeft betekenis aan verhoudingen, procenten en schaal. (B)",
 		"prefix": "6",
 		"soort": "eindterm",
 		"ce": 1,
@@ -44734,16 +45051,20 @@
 		"fo_uitwerking_id": [
 			"68e758b4-bfd7-4579-b582-b27e5b2baf54",
 			"b0ab0ae3-9e10-4ca5-a73e-086cd4a5c4b4",
-			"6a0872c2-633a-40da-9ab2-00c1d90c69f3"
+			"6a0872c2-633a-40da-9ab2-00c1d90c69f3",
+			"a2426ece-d29d-4fa2-bf3c-6567e9225441"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"9f3466e2-7f23-4483-94a8-73d3c04633d1",
-			"84b9c5c0-0b7a-4e14-911b-4c51a045be9c"
+			"84b9c5c0-0b7a-4e14-911b-4c51a045be9c",
+			"91a229f9-8999-4a11-b68c-6f7ff148c65f"
 		],
 		"replaces": [
 			"fe970e9d-0072-45db-bcf3-4bfc6a245c88"
-		]
+		],
+		"dirty": true,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 07",
@@ -44752,17 +45073,14 @@
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "03259ffd-fc43-4fae-89bc-92af7f850a81",
-		"fo_uitwerking_id": [
-			"f1d4eca8-93d2-4d91-b3a9-dc4ef4730abc"
-		],
-		"status": "concept",
-		"fo_illustratie_id": [
-			"2b7580ff-347f-43d8-a659-3be71d6d3ffc",
-			"018cb9b3-6a39-4386-8014-c725012af4c0"
-		],
+		"fo_uitwerking_id": [],
+		"status": "definitief concept",
+		"fo_illustratie_id": [],
 		"replaces": [
 			"6837057b-9957-4503-8e6f-cc2a029b07d1"
-		]
+		],
+		"deleted": true,
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 08",
@@ -44771,34 +45089,42 @@
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "04d8ad4f-529f-4104-b2e7-a3e883983443",
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"683aa004-05ec-444e-bde9-d318f1da1415"
 		],
 		"replaces": [
 			"efb103ca-5b2e-494b-8212-5053b6ee0efc"
-		]
+		],
+		"dirty": true
 	},
 	{
-		"title": "Eindterm 10",
-		"description": "De leerling lost in een concrete situatie een betrekkelijk eenvoudig probleem op met behulp van benaderingen, schattingen, referentiematen en -aantallen.",
-		"prefix": "10",
+		"title": "Eindterm 09",
+		"description": "De leerling lost in een concrete situatie een probleem op met behulp van benaderingen, referentiematen en/of referentieaantallen. (B)",
+		"prefix": "9",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "51bf427d-3668-4286-a2d4-e0582b8d620e",
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"b520e328-7202-4343-8f0f-9cdf6a103e50",
-			"0b64be2e-241e-4692-a0ad-465792c941cc"
+			"0b64be2e-241e-4692-a0ad-465792c941cc",
+			"21e1869c-2bb8-49c2-a7c3-3bb6f669ff79",
+			"8d96d837-3235-44a3-9d7e-582f269a94cc"
 		],
 		"replaces": [
 			"6a4eed99-b2ac-433f-bdea-c0d78c7ae92f"
+		],
+		"dirty": true,
+		"fo_uitwerking_id": [
+			"393ae615-2ea6-470b-b36e-203fc3f853bb",
+			"6f0526d1-895c-4660-b524-619b10a10806"
 		]
 	},
 	{
-		"title": "Eindterm 12",
-		"description": "De leerling kiest in eenvoudige concrete situaties passende eenheden en voorvoegsels en geeft een maat met de gekozen eenheid weer.",
-		"prefix": "12",
+		"title": "Eindterm 11",
+		"description": "De leerling kiest in concrete situaties passende eenheden en voorvoegsels en geeft een maat met de gekozen eenheid weer. (B)",
+		"prefix": "11",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "825f0ee9-1784-40b0-919a-5103e6411a24",
@@ -44806,16 +45132,18 @@
 			"9d57ba8c-e489-4f80-a8d8-9f190da96b36",
 			"ef3bba8e-6660-41af-ae8c-c75141469d49",
 			"b50228eb-1d3a-4948-a142-9df1dad8456d",
-			"b96a24ab-1264-4f31-b349-2b2c248876f0"
+			"b96a24ab-1264-4f31-b349-2b2c248876f0",
+			"97665732-ccd4-4d7f-93f2-1717fb4ffb2f"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"7a80dc5f-cb4e-495b-aa44-3efe535fbf3e",
 			"142319a6-3a5f-459f-b197-135fd8028358"
 		],
 		"replaces": [
 			"156e3aa4-fc0c-47c8-ad48-cb702cf57f9f"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 15",
@@ -44824,75 +45152,78 @@
 		"soort": "eindterm",
 		"se": 1,
 		"id": "b44599e4-022e-47dd-ad16-5340b68e6c89",
-		"status": "concept",
-		"fo_illustratie_id": [
-			"e738eaa4-5fd9-426f-adee-65e3693483a4"
-		],
+		"status": "definitief concept",
+		"fo_illustratie_id": [],
 		"replaces": [
 			"35dda5e4-d5e7-456b-a446-95b05fa66496"
-		]
+		],
+		"deleted": true,
+		"dirty": true,
+		"ce": 1
 	},
 	{
-		"title": "Eindterm 26",
-		"description": "De leerling lost in een betrekkelijk eenvoudig probleem op waarin tabellen, grafieken, formules of vergelijkingen een rol spelen.",
-		"prefix": "26",
+		"title": "Eindterm 21",
+		"description": "De leerling lost in een probleem op waarin tabellen, grafieken, formules en/of vergelijkingen een rol spelen. (B)",
+		"prefix": "21",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "4cf19c04-101c-4062-a76f-127d34915117",
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"0955666f-0e28-4403-a72c-9f85d27e56b6"
 		],
 		"replaces": [
 			"6dfb0f9d-6074-46cd-8bfd-bc1b5f8d4105"
-		]
+		],
+		"dirty": true
 	},
 	{
-		"title": "Eindterm 31",
-		"description": "De leerling identificeert patronen en verbanden in een situatie.",
-		"prefix": "31",
+		"title": "Eindterm 25",
+		"description": "De leerling identificeert patronen en verbanden in een situatie. (B)",
+		"prefix": "25",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "90d3d212-1804-4f96-80e4-593ec9c7df01",
 		"fo_uitwerking_id": [
 			"751fa701-d51f-4118-a363-217e458ba319",
 			"dec4959e-ebfa-4b0f-8a6c-39902a2a9ecf",
-			"4cf013d3-c7bd-490e-aed8-5417a5fb083e"
+			"4cf013d3-c7bd-490e-aed8-5417a5fb083e",
+			"5440789c-8f30-498a-b8e2-e48c0430435d"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
-			"90171725-e52f-4565-9c72-a222ab12330d"
+			"90171725-e52f-4565-9c72-a222ab12330d",
+			"e6b11bd3-9159-4db5-b01a-349e51d313b4"
 		],
 		"replaces": [
 			"4736fbc1-14ef-4b80-8364-c5c0aa38c350"
-		]
+		],
+		"dirty": true
 	},
 	{
-		"title": "Eindterm 32",
-		"description": "De leerling geeft betekenis aan tabellen, grafieken, formules en verbanden.",
-		"prefix": "32",
+		"title": "Eindterm 26",
+		"description": "De leerling geeft betekenis aan tabellen, grafieken, formules en verbanden. (B)",
+		"prefix": "26",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "f6209804-ad5e-4bd8-b1d7-ccfdb1613131",
 		"fo_uitwerking_id": [
 			"a3dfd5d0-0837-4916-9dc2-032fb51bbc2a",
-			"b9ebc0ce-9e9f-4728-b5a9-510856107165",
-			"ebbd37b5-8d5c-4208-b7fd-d93472152645"
+			"b9ebc0ce-9e9f-4728-b5a9-510856107165"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
-			"fd9fd5b4-b426-4267-a27b-5f75ad53eb30",
-			"6f64ebb1-d1a5-4ffb-a369-dfeb82ddf96e",
-			"161b0aa3-449e-4fc9-a635-b354f7368cd5"
+			"fd9fd5b4-b426-4267-a27b-5f75ad53eb30"
 		],
 		"replaces": [
 			"c0915d9b-e2dd-4b1f-aa80-fb756840f6db"
-		]
+		],
+		"dirty": true
 	},
 	{
-		"title": "Eindterm 33",
-		"description": "De leerling geeft een betrekkelijk eenvoudige concrete situatie weer met behulp van een verband.",
-		"prefix": "33",
+		"title": "Eindterm 27",
+		"description": "De leerling geeft een concrete situatie weer als een verband met behulp van een tabel, een grafiek en een formulie. (B)",
+		"prefix": "27",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "9b628587-9a8d-4079-bcc6-de12b441f387",
@@ -44901,72 +45232,80 @@
 			"bcfdc255-4a33-4d84-bb8b-633168d671df",
 			"dfa3301e-3f24-49a9-a8e0-9d6dae2e26bf"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"93d1452a-7ec4-4d65-8b04-0409c197c7c9",
 			"fa850742-187b-44a8-96d4-3448022c940f"
 		],
 		"replaces": [
 			"25dd2104-0daa-4d50-bd68-2a36d58cc88c"
-		]
+		],
+		"dirty": true
 	},
 	{
-		"title": "Eindterm 34",
-		"description": "De leerling toont aan de hand van een grafiek een bewering over een verband aan.",
-		"prefix": "34",
+		"title": "Eindterm 28",
+		"description": "De leerling toont aan de hand van een grafiek een bewering over een verband aan. (B)",
+		"prefix": "28",
 		"soort": "eindterm",
 		"se": 1,
 		"id": "552336ec-1c59-40b1-900b-8c4406e337dc",
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
-			"8da3c93b-dffa-484a-9b6b-628d03e00866"
+			"8da3c93b-dffa-484a-9b6b-628d03e00866",
+			"75961baa-f03c-4286-812b-a14d535298c0"
 		],
 		"replaces": [
 			"72d7e35c-9956-4875-87b7-c9c81c454d4b"
-		]
+		],
+		"dirty": true
 	},
 	{
-		"title": "Eindterm 38",
-		"description": "De leerling geeft driedimensionale objecten op een eenvoudige tweedimensionale manier weer.",
-		"prefix": "38",
+		"title": "Eindterm 33",
+		"description": "De leerling geeft driedimensionale objecten op een tweedimensionale manier weer. (B)",
+		"prefix": "33",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "33dc7609-6e7e-46c2-b9da-0528007d836b",
 		"fo_uitwerking_id": [
-			"221eaa94-dc64-473e-a74f-576d596270fa"
+			"221eaa94-dc64-473e-a74f-576d596270fa",
+			"0151cfcd-1697-4b91-a773-2ac65be6523f",
+			"bd8e8709-4650-4fd1-ade1-b549712751aa"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"d002dfa8-c0d7-4942-8f42-48d0543e752d",
 			"de97d9e6-1028-44ad-bac1-a70b4a18fab9"
 		],
 		"replaces": [
 			"91edac8a-d5cd-4a95-aa4e-3b51ca476705"
-		]
+		],
+		"dirty": true
 	},
 	{
-		"title": "Eindterm 40",
-		"description": "De leerling identificeert in een betrekkelijk eenvoudige concrete situatie meetkundige grootheden en andere meetkundige constructies.",
-		"prefix": "40",
+		"title": "Eindterm 35",
+		"description": "De leerling identificeert en geeft betekenis aan meetkundige grootheden, constructies, eigenschappen en plaatsbepaling. (B)",
+		"prefix": "35",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "eaae17d3-4f79-46b8-9279-14682c6d2f9a",
 		"fo_uitwerking_id": [
 			"404589cb-92d7-4f21-bca7-d4f432d8483d",
 			"f71a9c8b-bb69-4f37-9abf-e90833a46310",
-			"f5079aef-c942-4a08-8ad7-2eefa845c787"
+			"f5079aef-c942-4a08-8ad7-2eefa845c787",
+			"9489b668-e16a-456a-9d23-f3db33e7735f",
+			"920af936-4c7d-420f-9d44-b3e29af9ce0c"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"3f560f12-3357-4a55-9136-59849900ebd0",
 			"e1568358-5772-4843-9814-5c2aeac50efa",
 			"517d2b0f-3c38-4f1d-b7c4-4c0d056b62fb",
-			"69cd6f8d-2e41-4cca-83ed-b9d3d0ede351",
-			"2d92a443-ae7f-4208-8522-348afd9b8b4b"
+			"69cd6f8d-2e41-4cca-83ed-b9d3d0ede351"
 		],
 		"replaces": [
 			"10c20733-d1b4-4a18-b19b-3d15c5798769"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 41",
@@ -44975,24 +45314,14 @@
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "9e465640-b15f-41a0-aadd-c03d0559b2a9",
-		"fo_uitwerking_id": [
-			"d191b509-8370-4db8-8f57-6f592a403fc8",
-			"c53b3ff2-e655-4bac-8891-54fd89717850",
-			"7bd63112-e4b5-48b8-a8de-5f5aa10ac2f1",
-			"b8341715-9767-4740-9e4c-7ead89ea31d0",
-			"62ed1f1d-02fa-49a2-be37-9debeb59019d",
-			"59db1425-6fd5-4f9c-937a-023fb31c7aa0"
-		],
-		"status": "concept",
-		"fo_illustratie_id": [
-			"c046d0de-88e3-42e3-b1bd-df6b69630e55",
-			"7f42e8b6-1504-4320-9783-ed9580fd0587",
-			"1cf1b2a3-4393-4146-ac93-95fc44382845",
-			"2571752c-c277-4ea8-8d45-17199bf28832"
-		],
+		"fo_uitwerking_id": [],
+		"status": "definitief concept",
+		"fo_illustratie_id": [],
 		"replaces": [
 			"2805ded3-8a46-4c41-ba94-0d181c966f40"
-		]
+		],
+		"deleted": true,
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 44",
@@ -45001,14 +45330,13 @@
 		"soort": "eindterm",
 		"se": 1,
 		"id": "90d29c75-4f63-48d7-8337-1f3afab5f5d8",
-		"status": "concept",
-		"fo_illustratie_id": [
-			"f510479f-0be0-4755-a3de-5ab9546cab26",
-			"5ab9cbc6-719b-4a6f-a12f-a547124ea730"
-		],
+		"status": "definitief concept",
+		"fo_illustratie_id": [],
 		"replaces": [
 			"899139d7-6327-4665-a178-c3befb8b01c3"
-		]
+		],
+		"deleted": true,
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 45",
@@ -45017,19 +45345,17 @@
 		"soort": "eindterm",
 		"se": 1,
 		"id": "ffc87bff-f390-4432-b6dc-0f763883d64f",
-		"status": "concept",
-		"fo_illustratie_id": [
-			"fc969097-aa59-44bf-95bf-2a1d5dba5f8c",
-			"cf2ad50f-6394-4bdf-9923-8ee92ca9db40",
-			"2dc61cbd-28ee-42e1-8450-90df1347e004"
-		],
+		"status": "definitief concept",
+		"fo_illustratie_id": [],
 		"replaces": [
 			"e523891e-fe83-4a3a-b4ff-7a87b92157cc"
-		]
+		],
+		"deleted": true,
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 01",
-		"description": "De leerling rekent met betrekkelijk eenvoudige gehele en decimale getallen en eenvoudige breuken en rondt getallen af.",
+		"description": "De leerling rekent met gehele en decimale getallen en rondt getallen af. (B)",
 		"prefix": "1",
 		"soort": "eindterm",
 		"ce": 1,
@@ -45041,29 +45367,23 @@
 			"335eb030-109c-4c8b-bd5b-85b751f7e6a5",
 			"62a33c3c-514c-474d-8d7f-aa194eccf41c",
 			"1c4fc71b-75a2-4800-903d-491604f0acc9",
-			"473ca81f-c1aa-422f-ac01-f478b82678bf",
-			"95b6317d-69a9-4a77-adb9-96063ab0cb80",
-			"02d1e1e5-65dd-48ee-b49e-8d6ecd711db7",
-			"4fcc2469-277e-4e0f-bb84-8051e450ddbb"
+			"473ca81f-c1aa-422f-ac01-f478b82678bf"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"9939a582-cc32-4ce4-b65b-bb00cbeef660",
 			"dc3eb3b5-f811-44f5-b6c0-15f051b4ffd4",
-			"ec19191c-b6ab-447a-b0bb-ed702d3730f3",
-			"f2eb898c-4b34-4853-aef5-4aa2705a17ce",
-			"fb376a43-237d-453e-bbd1-ddc04c5c2705",
-			"9e39d389-1f51-449b-9d09-ac3fc1905fe1",
-			"c6d73ecf-64ed-44b9-9808-42bc14e584ea",
-			"8623827a-73dd-4370-bfc5-d1ab8271e55d"
+			"ec19191c-b6ab-447a-b0bb-ed702d3730f3"
 		],
 		"replaces": [
 			"b7a887db-5298-4ce1-9250-024a1005bef1"
-		]
+		],
+		"dirty": true,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 05",
-		"description": "De leerling geeft een verhouding in taak en teken weer.",
+		"description": "De leerling geeft een verhouding in taal en teken weer. (B)",
 		"prefix": "5",
 		"soort": "eindterm",
 		"ce": 1,
@@ -45073,29 +45393,20 @@
 			"91d87a3c-9782-4b63-b75e-049c4fad0842",
 			"528aa034-d86c-4a17-b2b2-c9c324b82ef0",
 			"0053b0bf-ce9b-4eea-9e9e-562055164d0f",
-			"856cd40e-319f-4a64-a1d5-b3bb71992925",
 			"6cd7b681-8d12-477c-a2ae-6837a036de5d"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
-			"eb2c3cab-9a6f-421c-87df-401c74e83aa0",
-			"772aa8b3-67cc-4939-a698-4d6d032f87f5",
-			"0fe911f4-7cb1-438a-9ec2-9c9630b298fa",
-			"b4509096-2c63-4e86-bf0f-a9db20c29ede",
-			"e63cfd11-76ec-470a-8160-5f64cd8965a8",
-			"0df1dd5c-3421-4bcb-987a-c3b8559bb833",
-			"3f5f089e-4207-4aa2-a831-1e36e71a21d0",
-			"33a9b0aa-7413-436d-8f40-1520411aacb3",
-			"767e61dc-d788-4a24-8c32-34614c661088",
-			"9ff2aa48-81ef-44ca-8c0f-1afcec38661a"
+			"eb2c3cab-9a6f-421c-87df-401c74e83aa0"
 		],
 		"replaces": [
 			"b6f4dc64-bf50-4d76-a54a-4ccb2997e0f9"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 06",
-		"description": "De leerling identificeert verhoudingen in een situatie.",
+		"description": "De leerling identificeert en geeft betekenis aan verhoudingen, procenten en schaal. (B)",
 		"prefix": "6",
 		"soort": "eindterm",
 		"ce": 1,
@@ -45103,16 +45414,20 @@
 		"fo_uitwerking_id": [
 			"d0fbe6ae-5d56-4645-b75e-ea6811c526c0",
 			"199f6530-6ed6-4474-ad02-cca89329da81",
-			"bda88ea1-c891-4a7c-99d8-3696a225a8d1"
+			"bda88ea1-c891-4a7c-99d8-3696a225a8d1",
+			"dc3260dc-3a8c-4ca5-a70d-e322e8ed8552"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"214bdce1-4faf-473a-93b3-66999cd227db",
-			"7c256da1-6f45-47e0-a63b-cd6a5a5bd441"
+			"7c256da1-6f45-47e0-a63b-cd6a5a5bd441",
+			"c3686747-c751-49c0-86db-07d35c2d3d78"
 		],
 		"replaces": [
 			"0bca77b0-df2a-44c0-b0f9-2b24f739693b"
-		]
+		],
+		"dirty": true,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 07",
@@ -45134,59 +45449,68 @@
 		],
 		"replaces": [
 			"4484cec1-ac35-4e8a-943b-c3c6b41a5002"
-		]
+		],
+		"deleted": true,
+		"dirty": true
 	},
 	{
-		"title": "Eindterm 08",
-		"description": "De leerling geeft een verhoudingssituatie weer door middel van een verhoudingsfactor of een formule.",
-		"prefix": "8",
+		"title": "Eindterm 07",
+		"description": "De leerling geeft een verhoudingssituatie weer door middel van een verhoudingsfactor of een formule. (B)",
+		"prefix": "7",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "58984d23-0e3e-4111-9d74-8b34d4afce89",
-		"status": "concept",
-		"fo_illustratie_id": [
-			"a8a95305-0b23-49b2-891a-d746ea9f8eb3",
-			"28bca1c3-3b7b-4cea-a4a7-43baabb6c0ad"
-		],
+		"status": "definitief concept",
+		"fo_illustratie_id": [],
 		"replaces": [
 			"e6040502-53c4-4e58-9148-d8f6d5da4e59"
-		]
+		],
+		"dirty": true
 	},
 	{
-		"title": "Eindterm 09",
-		"description": "De leerling toont eenvoudige beweringen over verhoudingen en procenten aan of weerlegt ze.",
-		"prefix": "9",
+		"title": "Eindterm 08",
+		"description": "De leerling toont beweringen over verhoudingen en procenten aan of weerlegt ze. (B)",
+		"prefix": "8",
 		"soort": "eindterm",
 		"se": 1,
 		"id": "441220bf-02b3-43c9-9b11-fb7475ee49ae",
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
-			"37746122-0e3c-41ad-9538-86a5df96a18c"
+			"37746122-0e3c-41ad-9538-86a5df96a18c",
+			"3a9d1144-b6b8-4f65-93c2-09d098a8edd1"
 		],
 		"replaces": [
 			"01db30cb-5ff3-4143-a613-9a07acd66446"
-		]
+		],
+		"dirty": true
 	},
 	{
-		"title": "Eindterm 11",
-		"description": "De leerling lost in een concrete situatie een probleem op met behulp van benaderingen, schattingen, referentiematen en -aantallen.",
-		"prefix": "11",
+		"title": "Eindterm 10",
+		"description": "De leerling lost in een concrete situatie een probleem op met behulp van benaderingen, referentiematen en/of referentieaantallen. (B)",
+		"prefix": "10",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "af309fd6-66e3-40fa-b024-f2c38f45b163",
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"4bdf36dc-ff0e-4792-86e6-da21597228ac",
-			"ac26a44b-1463-46e1-abdd-7d6396f3dbd4"
+			"ac26a44b-1463-46e1-abdd-7d6396f3dbd4",
+			"1f6efc46-f745-4163-b9fa-5c1f7e09a2ed",
+			"c59b2243-4284-4cde-aaaa-60f10992302f"
 		],
 		"replaces": [
 			"29364943-ace4-4b84-ba6a-ed557dc77f90"
+		],
+		"dirty": true,
+		"fo_uitwerking_id": [
+			"7cd2a585-f6d7-4096-bedb-b431100775a1",
+			"dd6fe19f-4a53-4726-8174-c73701a64f38"
 		]
 	},
 	{
-		"title": "Eindterm 13",
-		"description": "De leerling kiest in concrete situaties passende eenheden en voorvoegsels en geeft een maat met de gekozen eenheid weer.",
-		"prefix": "13",
+		"title": "Eindterm 12",
+		"description": "De leerling kiest in concrete situaties passende eenheden en voorvoegsels en geeft een maat met de gekozen eenheid weer. (B)",
+		"prefix": "12",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "3c44960d-b320-4da1-b8a5-001510e4ed1f",
@@ -45194,21 +45518,23 @@
 			"48d6bc04-0820-4d84-9c1b-38ed84f9b3b5",
 			"4dc182cf-239e-4a2b-9de5-41c189a782fe",
 			"3a484e0a-3850-42b3-ab3d-6dd8445a2262",
-			"8a29c556-9d54-4215-82cd-5c9d4d84a71e"
+			"8a29c556-9d54-4215-82cd-5c9d4d84a71e",
+			"97167f2e-3998-463d-8dce-01d5b84c9c94"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"0bceef76-1a46-49ee-a506-a2502a4759bd",
 			"7c4f2cb4-55f7-4f7b-ba6c-5312eb07f765"
 		],
 		"replaces": [
 			"f1c233b8-5f87-45d1-b6a3-619d2e8792a3"
-		]
+		],
+		"dirty": true
 	},
 	{
-		"title": "Eindterm 14",
-		"description": "De leerling geeft betekenis aan gangbare grootheden en eenheden.",
-		"prefix": "14",
+		"title": "Eindterm 13",
+		"description": "De leerling geeft betekenis aan gangbare grootheden en eenheden. (B)",
+		"prefix": "13",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "d1cad657-7bbf-493d-85fd-2fbf08f0ac53",
@@ -45216,18 +45542,21 @@
 			"ccdf61ec-2919-4fa2-aba9-84027ebf9250",
 			"272946c8-4376-4e98-9835-ed8d675fd123"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
-			"e43fd220-94e6-4a5c-a174-acea4060b1b6"
+			"e43fd220-94e6-4a5c-a174-acea4060b1b6",
+			"82c3fd61-ee93-4aeb-b53e-96eba9fa9746",
+			"88d9fb2b-2ddc-4ec2-be5b-c191c5c3f783"
 		],
 		"replaces": [
 			"81472aa3-efef-48bb-a5e3-b479c72f9c87"
-		]
+		],
+		"dirty": true
 	},
 	{
-		"title": "Eindterm 15",
-		"description": "De leerling gebruikt meetinstrumenten voor het meten van lengte, inhoud, tijdsduur, snelheid, gewicht en temperatuur en voor het meten en tekenen van hoeken.",
-		"prefix": "15",
+		"title": "Eindterm 14",
+		"description": "De leerling gebruikt meetinstrumenten. (B)",
+		"prefix": "14",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "4e9d1039-2580-45bf-9afd-80e0fcafb6b9",
@@ -45236,13 +45565,18 @@
 			"0fc61c17-675a-45a7-b03b-de612b70fa24",
 			"0e141a15-ebd4-4c77-ac1f-e1b057040297"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
-			"f4e84b50-1422-4cb1-ac46-67bde87c3b61"
+			"f4e84b50-1422-4cb1-ac46-67bde87c3b61",
+			"00656d9c-b956-4ab8-abf4-e04ed862609d",
+			"c67b6630-48b6-460b-b586-af1909ce54e5",
+			"438856e8-5a67-49e0-9258-72423593b15c"
 		],
 		"replaces": [
 			"2de53b99-f229-42cb-9fb0-5a318696db29"
-		]
+		],
+		"dirty": true,
+		"se": 1
 	},
 	{
 		"title": "Eindterm 16",
@@ -45257,160 +45591,178 @@
 		],
 		"replaces": [
 			"e7061912-1dfa-4ad4-a751-5d46b0bdb26d"
-		]
+		],
+		"deleted": true,
+		"dirty": true
 	},
 	{
-		"title": "Eindterm 27",
-		"description": "De leerling lost in een probleem op waarin tabellen, grafieken, formules of vergelijkingen een rol spelen.",
-		"prefix": "27",
+		"title": "Eindterm 24",
+		"description": "De leerling lost een probleem op waarin tabellen, grafieken, formules en/of vergelijkingen een rol spelen. (B)",
+		"prefix": "24",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "618dcf01-ae5c-46d0-8951-adf4f57928e6",
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"5be61560-3a6b-43b7-a71d-8e71bc2e544c"
 		],
 		"replaces": [
 			"8967f4c3-0b42-4c8f-b71d-b55e6c00a083"
-		]
+		],
+		"dirty": true
 	},
 	{
-		"title": "Eindterm 33",
-		"description": "De leerling identificeert patronen en verbanden in een situatie.",
-		"prefix": "33",
+		"title": "Eindterm 28",
+		"description": "De leerling identificeert patronen en verbanden in een situatie. (B)",
+		"prefix": "28",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "6b0c82b9-d21a-48cb-b333-5405f6c411cd",
 		"fo_uitwerking_id": [
 			"1330948e-b58a-402f-b07a-7a951cb99d5b",
 			"71b95d33-4b79-4d80-8beb-b4a16df7d6b3",
-			"b85c4acf-99ab-4823-9a2a-c8155e7ca8d5"
+			"b85c4acf-99ab-4823-9a2a-c8155e7ca8d5",
+			"ab712c08-4a5e-49cb-ba01-102f05e562fc"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
-			"a70d03cc-7157-4298-870c-7b5bf4034553"
+			"a70d03cc-7157-4298-870c-7b5bf4034553",
+			"0791f115-8b58-4c26-a63a-dd2eee596b93",
+			"ad694e23-c87e-4dab-899f-23213e20a7f1"
 		],
 		"replaces": [
 			"45a84a69-c886-4e7b-b44a-2e72e1c9137d"
-		]
+		],
+		"dirty": true
 	},
 	{
-		"title": "Eindterm 34",
-		"description": "De leerling geeft betekenis aan tabellen, grafieken, formules en verbanden.",
-		"prefix": "34",
+		"title": "Eindterm 29",
+		"description": "De leerling geeft betekenis aan tabellen, grafieken, formules en verbanden. (B)",
+		"prefix": "29",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "caaae77e-b7ed-4eb4-9d0c-b4605c041746",
 		"fo_uitwerking_id": [
 			"fcfdd506-f598-4fd4-b1fb-d4feaaaa9279",
-			"1109f575-65f4-4271-8ec2-a5962f7dd9fa",
-			"882f1a69-823a-4339-a21e-58913654b733"
+			"1109f575-65f4-4271-8ec2-a5962f7dd9fa"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"5780b1e0-11d2-406d-8467-24b3e7938bb6",
-			"9127e5a9-7fcc-4fb1-85e3-23d9c7d2a662",
-			"15e69a70-330e-4d5b-847a-b0d99bbb1416",
-			"811124c3-ec61-45c1-b926-1b279149b16d"
+			"9127e5a9-7fcc-4fb1-85e3-23d9c7d2a662"
 		],
 		"replaces": [
 			"02fff437-fc82-49dc-9ef8-2576ce7c74d7"
-		]
+		],
+		"dirty": true
 	},
 	{
-		"title": "Eindterm 35",
-		"description": "De leerling geeft een concrete situatie weer met behulp van een verband.",
-		"prefix": "35",
+		"title": "Eindterm 30",
+		"description": "De leerling geeft een concrete situatie weer als een verband of een vergelijking met behulp van een tabel, een grafiek en een formule. (B)",
+		"prefix": "30",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "2beaa2f5-aa8b-4e1a-863c-c166465eb6dc",
 		"fo_uitwerking_id": [
 			"b8a5215a-0e08-4fcb-810a-a0692f821acd",
 			"8e5cdb88-f8b9-403e-a749-32ac5d786038",
-			"f859de6d-122d-496d-8666-dcfbfc94ba37"
+			"f859de6d-122d-496d-8666-dcfbfc94ba37",
+			"c407236e-1726-4d21-81a1-e2761516dd21",
+			"9fb4c9fe-1d85-4209-aeb9-6c6a5531399c"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"21f0762c-72ea-43af-8d68-61b771799bda",
-			"ee91c722-e190-4498-aa94-0801dd41c78c",
-			"6510fe4c-e51c-4dd5-96ec-5c523b90249b"
+			"ee91c722-e190-4498-aa94-0801dd41c78c"
 		],
 		"replaces": [
 			"e9232b97-4c93-40db-94da-3dbd88159cf1"
-		]
+		],
+		"dirty": true
 	},
 	{
-		"title": "Eindterm 36",
-		"description": "De leerling toont aan de hand van een grafiek of formule een bewering over een verband aan.",
-		"prefix": "36",
+		"title": "Eindterm 31",
+		"description": "De leerling toont aan de hand van een grafiek of formule een bewering over een verband aan. (B)",
+		"prefix": "31",
 		"soort": "eindterm",
 		"se": 1,
 		"id": "0c78132b-69af-4f6a-984c-b57127a73a37",
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
-			"1f30a35d-a653-4ab0-9b2c-b8b0f25b832b"
+			"1f30a35d-a653-4ab0-9b2c-b8b0f25b832b",
+			"524739ae-7512-42d6-bcb8-c034b4aa90dc"
 		],
 		"replaces": [
 			"b1c01e7d-20fd-4d00-bd86-67a3b2bae8cc"
-		]
+		],
+		"dirty": true
 	},
 	{
-		"title": "Eindterm 38",
-		"description": "De leerling lost  een probleem op met routes, kijklijnen, spiegelingen en draaiingen.",
-		"prefix": "38",
+		"title": "Eindterm 33",
+		"description": "De leerling lost een probleem op met routes en kijklijnen. (B)",
+		"prefix": "33",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "d81e2f13-c3ee-484a-8314-4b69b8255b4d",
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
-			"81c438be-64c8-41b1-abf4-0882866a0a77"
+			"81c438be-64c8-41b1-abf4-0882866a0a77",
+			"b6592e52-50b3-48a9-aee5-63c8ee7ec02a",
+			"969eb7a4-deb0-49bd-9b74-a1257e19af47",
+			"eeba1531-7701-48d3-af2a-61e3f5c9233d"
 		],
 		"replaces": [
 			"901d32b6-d12a-43fa-941e-28a3e09ba3b1"
-		]
+		],
+		"dirty": true
 	},
 	{
-		"title": "Eindterm 40",
-		"description": "De leerling geeft driedimensionale objecten op een tweedimensionale manier weer.",
-		"prefix": "40",
+		"title": "Eindterm 36",
+		"description": "De leerling geeft driedimensionale objecten op een tweedimensionale manier weer. (B)",
+		"prefix": "36",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "c66bc054-ace9-4066-83e7-a83eba777731",
 		"fo_uitwerking_id": [
-			"55b40b96-89bb-474e-8abe-9d7cf8e1c706"
+			"55b40b96-89bb-474e-8abe-9d7cf8e1c706",
+			"772a6ff4-20ea-433a-9e22-42b5c8005afb",
+			"23709082-fb4e-4645-912f-fe628a0028e8"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"8fd04513-42a6-46e7-8496-b6631fb28e61",
 			"3aadbaea-5b97-457c-b044-3401eb8bb393"
 		],
 		"replaces": [
 			"2c852921-866c-40af-a8aa-db6f1aa88d61"
-		]
+		],
+		"dirty": true
 	},
 	{
-		"title": "Eindterm 42",
-		"description": "De leerling identificeert in een concrete situatie meetkundige grootheden en andere meetkundige constructies.",
-		"prefix": "42",
+		"title": "Eindterm 38",
+		"description": "De leerling identificeert en geeft betekenis aan meetkundige grootheden, constructies, eigenschappen en plaatsbepaling. (B)",
+		"prefix": "38",
 		"soort": "eindterm",
 		"ce": 1,
 		"id": "098595c9-5106-4c20-b67d-70680d32ab1e",
 		"fo_uitwerking_id": [
 			"11ad1aac-7833-4b8f-a4a8-fce96a265bec",
 			"5d1c1d07-c30c-4c91-9e02-5b3b6e53180f",
-			"d40d0164-c416-4e68-a24a-4fc7b68da96b"
+			"d40d0164-c416-4e68-a24a-4fc7b68da96b",
+			"ccf3cf70-5cd6-45b8-9467-9c8f7e2d3105",
+			"d9bc84b9-4558-4a6e-a7a8-f2af6de50463"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"e499854f-e68a-447a-9e29-e9fd970e11bf",
 			"f3664b3e-0fcb-4504-87a3-6212201b790a",
 			"24bcd877-1da3-4657-93a2-cca089aed0b5",
-			"159aa880-4ab4-48c1-98bc-46367bebfe33",
-			"118880c9-fb60-464e-a7fd-368e12398136"
+			"159aa880-4ab4-48c1-98bc-46367bebfe33"
 		],
 		"replaces": [
 			"56d63149-db66-4d19-a15c-6793dcfa37b5"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 43",
@@ -45438,22 +45790,32 @@
 		],
 		"replaces": [
 			"ea2185dc-e068-4d34-9412-d0c25bb49432"
-		]
+		],
+		"deleted": true,
+		"dirty": true
 	},
 	{
-		"title": "Eindterm 44",
-		"description": "De leerling maakt beweringen aannemelijk over meetkundige figuren en hun afmetingen, omtrek, oppervlakte of inhoud",
-		"prefix": "44",
+		"title": "Eindterm 39",
+		"description": "De leerling maakt beweringen aannemelijk over meetkundige figuren en hun afmetingen, omtrek, oppervlakte of inhoud. (B)",
+		"prefix": "39",
 		"soort": "eindterm",
 		"se": 1,
 		"id": "31b56cb7-ac71-41d2-83a8-a646119af5c4",
-		"status": "concept",
+		"status": "definitief concept",
 		"fo_illustratie_id": [
 			"24bdde28-fd5d-4595-b4b1-b228ee7c042a",
-			"66187ecd-cc96-47b9-bee1-5dec484ff8ae"
+			"66187ecd-cc96-47b9-bee1-5dec484ff8ae",
+			"ad9d04b5-279a-4542-9387-a48a965c7bef",
+			"efae924c-1546-4abf-8041-450c1fcaff1d",
+			"97bfe6db-1c8f-409e-b0ca-ea9844e9538c"
 		],
 		"replaces": [
 			"39b3995a-94d4-4298-a9f9-f77b92b2828f"
+		],
+		"dirty": true,
+		"fo_uitwerking_id": [
+			"33762037-ad24-443c-a0a9-a571b3a78aee",
+			"27162fce-e762-427f-9d1a-a58a2c7ab539"
 		]
 	},
 	{
@@ -45470,7 +45832,8 @@
 		],
 		"replaces": [
 			"70e89beb-d5eb-4de4-ada7-47ac7ac77d72"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 48",
@@ -45487,7 +45850,8 @@
 		],
 		"replaces": [
 			"c0a9d44a-7dc9-4632-8138-dd6fc123efc0"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 2",
@@ -58968,7 +59332,6 @@
 			"a9031dcf-a464-4aef-bbaf-c08147074f36",
 			"a3efff25-8cfb-43a1-971f-639c5c8b94ff",
 			"d19c6957-5ac4-4913-a43a-c9ead654f0f5",
-			"df1976c4-55f5-44da-b4b6-8a45f9074104",
 			"151ef096-2a0c-48ab-8f25-088031a6be36",
 			"483dbbd9-5c3d-4368-addd-c22463e3053b",
 			"a0c77820-543b-4252-af0b-e0e1ebd79566"
@@ -58988,7 +59351,8 @@
 		"replaces": [
 			"5a95f4c9-148b-46cb-b0be-371076987282",
 			"3f2f28fa-0f14-4750-b904-930e75e37722"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Doelzin 38D - Schriftelijke communicatie",
@@ -59000,6 +59364,7 @@
 			"6ab0f4bb-5110-4b05-b4ba-ab7d3521a54f",
 			"717262cb-adb8-4d0d-8bc1-8f8b88ef3332",
 			"14b10383-3b7d-4095-b90c-77db530bd5e5",
+			"df1976c4-55f5-44da-b4b6-8a45f9074104",
 			"88f1ac06-7347-4164-b37e-aab65e4822c3",
 			"607ea0fa-3ce2-41fd-a08e-9fa63283838c",
 			"9c3daf0c-32f0-491a-a9d2-4802551f1d3c"
@@ -59020,7 +59385,8 @@
 		"replaces": [
 			"6d5f4cec-3ca7-491e-8e7f-ee89f236c329",
 			"53d43e53-20d5-4d8f-8d04-1dce3f1e7e1c"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Doelzin 39A Taalleerproces en meertaligheid",
@@ -60327,6 +60693,948 @@
 		],
 		"replaces": [
 			"2e208672-89f8-40a1-9902-7f41136e9b6c"
+		]
+	},
+	{
+		"title": "Eindterm 15",
+		"description": "De leerling beoordeelt of specificeert in een eenvoudige concrete situatie gegevens, op basis waarvan een eenvoudige onderzoeksvraag beantwoord wordt of kan worden.",
+		"prefix": "15",
+		"soort": "eindterm",
+		"ce": 1,
+		"status": "definitief concept",
+		"id": "8be860d3-71d7-4fc1-a6ff-49689ef236fd",
+		"unreleased": true,
+		"fo_illustratie_id": [
+			"cbc324de-5861-4a53-b242-c86706740d13",
+			"0bad54b0-8f50-4e40-bd7e-65e981ba4473"
+		]
+	},
+	{
+		"title": "Eindterm 16",
+		"description": "De leerling lost in concrete situaties een eenvoudig probleem op waarin grafische representaties van data een rol spelen.",
+		"prefix": "16",
+		"soort": "eindterm",
+		"ce": 1,
+		"status": "definitief concept",
+		"id": "361dc8fe-182d-4364-ba66-288f4130acdb",
+		"unreleased": true,
+		"fo_illustratie_id": [
+			"2b21cb50-3d00-4239-8bce-80fcdefd1078"
+		]
+	},
+	{
+		"title": "Eindterm 17",
+		"description": "De leerling voert rekenwiskundige handelingen uit met een kleine hoeveelheid univariate data.",
+		"prefix": "17",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "definitief concept",
+		"id": "d700118e-71ee-45d7-bdf4-395e73524069",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"ce2eb2c9-0cb9-469f-884e-2fb51a512dc1",
+			"f7883601-1ed2-4f0c-a438-38176ba868c5"
+		]
+	},
+	{
+		"title": "Eindterm 18",
+		"description": "De leerling maakt in een concrete situatie keuzes hoe hij/zij univariate data met behulp van een softwarepakket grafisch zou weergeven,",
+		"prefix": "18",
+		"soort": "eindterm",
+		"ce": 1,
+		"status": "definitief concept",
+		"id": "731696bd-48a9-45a7-a165-95d44dc8749b",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"50f24e31-d31e-4f5b-88d8-61be7a671138",
+			"f80c1566-8eca-4cdc-a915-665a0304d74f",
+			"2cbc3aed-157e-4329-a683-b7f502279a17",
+			"7557459a-7fc9-47f1-91b0-c0048d72ac2f"
+		]
+	},
+	{
+		"title": "Eindterm 19",
+		"description": "De leerling geeft in een concrete situatie een kans in taal en teken weer.",
+		"prefix": "19",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "definitief concept",
+		"id": "f4c01eae-1c97-4e6f-bcdd-f7f826455b99",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"24d6e00b-e77f-4272-b907-73c4b9824cc0",
+			"913f3b77-ee90-42cd-b9f0-7a6b06da0a68"
+		],
+		"fo_illustratie_id": [
+			"2cc5f3f2-cd3e-4610-9870-0c5d1b73a27f",
+			"072f7b71-3bce-486d-ac8f-5519c5d48910"
+		]
+	},
+	{
+		"title": "Eindterm 20",
+		"description": "De  leerling geeft in eenvoudige concrete situaties betekenis aan gangbare grafische representaties van data.",
+		"prefix": "20",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "definitief concept",
+		"id": "79a29f3f-6207-493c-9df3-6606f1fea7b3",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"7791a8da-2e1c-48a5-b05d-4eeb556780fa",
+			"86390d60-e0c2-40db-b084-f91cc5e3a005",
+			"e319dda5-5cb9-46c9-8eb2-94f9906fc938"
+		]
+	},
+	{
+		"title": "Eindterm 21",
+		"description": "De leerling geeft in een eenvoudige concrete situatie betekenis aan kansen.",
+		"prefix": "21",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "definitief concept",
+		"id": "6b3516a6-a8be-4d09-92fe-b9b2fd253618",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"2b8e780f-10e4-48f2-871a-b924dd0cae7f",
+			"317b2cef-25c8-4edc-bf9a-221f380b67f2"
+		],
+		"fo_illustratie_id": [
+			"d6f9a483-0dc3-4969-8e5c-28e019853676"
+		]
+	},
+	{
+		"title": "Eindterm 15",
+		"description": "De leerling beoordeelt of specificeert in een betrekkelijk eenvoudige concrete situatie gegevens, op basis waarvan een eenvoudige onderzoeksvraag beantwoord wordt of kan worden.",
+		"prefix": "15",
+		"soort": "eindterm",
+		"se": 1,
+		"id": "02a7f1f3-3788-446b-bf29-cc3620571a65",
+		"unreleased": true,
+		"fo_illustratie_id": [
+			"d4eb3175-2651-4f5a-a1f4-4663026abde2",
+			"d0bdc5a6-2109-4501-b7c5-d6a6061a7dc9",
+			"2d28d2e2-102a-498a-bc69-41807e8f4292"
+		]
+	},
+	{
+		"title": "Eindterm 16",
+		"description": "De leerling lost in concrete situaties een betrekkelijk eenvoudig probleem op waarin grafische representaties van data of gemiddelden een rol spelen.",
+		"prefix": "16",
+		"soort": "eindterm",
+		"se": 1,
+		"id": "57ad373c-93aa-4251-a11a-8cc0bf7d9af4",
+		"unreleased": true,
+		"fo_illustratie_id": [
+			"bcda45f3-ffb1-4db8-bd90-f20357417815",
+			"406560f7-1341-478a-b450-54a468329539"
+		]
+	},
+	{
+		"title": "Eindterm 17",
+		"description": "De leerling voert rekenwiskundige handelingen uit met univariate data.",
+		"prefix": "17",
+		"soort": "eindterm",
+		"se": 1,
+		"id": "e0aa73ba-426b-4200-8dbd-031f316804f4",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"7adb42c1-42d6-4fb3-9955-517e8dbc799d",
+			"2c52af83-bc15-48a0-b773-6058fd2f90d6"
+		]
+	},
+	{
+		"title": "Eindterm 18",
+		"description": "De leerling maakt in een concrete situatie keuzes hoe hij/zij univariate data met behulp van een softwarepakket grafisch zou weergeven,",
+		"prefix": "18",
+		"soort": "eindterm",
+		"ce": 1,
+		"id": "2c4d7314-5f69-4625-9a63-b722d13864ee",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"566e66ac-c589-4470-9549-4f93fe5719e5",
+			"dd284427-8bd6-47ac-80e7-100f90c65d1e",
+			"7e462db0-348b-4239-b230-8b83222066df",
+			"c6397573-d41b-4847-90f1-eb9513c66c78"
+		]
+	},
+	{
+		"title": "Eindterm 19",
+		"description": "De leerling geeft in een concrete situatie een kans in taal en teken weer.",
+		"prefix": "19",
+		"soort": "eindterm",
+		"se": 1,
+		"id": "0730856e-6736-435d-9e88-da67fca65b31",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"12eca194-e34b-4387-8b29-0df9a7f67fde",
+			"f12813e8-2506-4373-b230-e3b5553bca07"
+		],
+		"fo_illustratie_id": [
+			"129c8626-d9fa-4e0e-b134-9c5de2d0abfa",
+			"d7968bcb-5735-4cb6-add3-5eb10cb7ed07"
+		]
+	},
+	{
+		"title": "Eindterm 20",
+		"description": "De  leerling geeft in concrete situaties betekenis aan gemiddelden, spreiding en gangbare grafische representaties van data en trends.",
+		"prefix": "20",
+		"soort": "eindterm",
+		"se": 1,
+		"id": "3f6cccb4-8185-4266-8769-60e14eb0ceaf",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"4698ad4d-a1ef-4878-b6c9-f744d77bd514",
+			"0abe4bf1-7f89-4ce7-b379-6365ab86b890",
+			"25e906a5-861b-4f4b-9d54-e3b194236705"
+		],
+		"fo_illustratie_id": [
+			"cf552cc6-ed9a-4652-bda2-e4c637877266",
+			"02a229ab-dca2-4a93-ad4f-b923dcccfdc6"
+		]
+	},
+	{
+		"title": "Eindterm 21",
+		"description": "De leerling geeft in een betrekkelijk eenvoudige concrete situatie betekenis aan kansen.",
+		"prefix": "21",
+		"soort": "eindterm",
+		"se": 1,
+		"id": "dcaf9639-d213-43d4-aade-131707dbb810",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"a32dba50-6ad6-4029-8427-6387995c5851",
+			"95545663-0913-4504-a78a-a343d235df03"
+		],
+		"fo_illustratie_id": [
+			"fe675493-edf2-43ee-97ff-5b0c82a724c5"
+		]
+	},
+	{
+		"title": "Eindterm 15",
+		"description": "De leerling beoordeelt of specificeert in een concrete situatie gegevens op basis waarvan een onderzoeksvraag beantwoord wordt of kan worden.",
+		"prefix": "15",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "definitief concept",
+		"id": "04f7a517-9983-46cd-a158-6737425ff673",
+		"unreleased": true,
+		"fo_illustratie_id": [
+			"9a08b75c-bd57-4a47-8297-0549c9c8d80f",
+			"1f86c9dc-91c0-41d3-b3ae-11c9bb08b161",
+			"65d5228e-eaf4-4e81-bfbc-3d13c1baea27"
+		]
+	},
+	{
+		"title": "Eindterm 16",
+		"description": "De leerling lost in concrete situaties een probleem op waarin grafische representaties van data of gemiddelden een rol spelen.",
+		"prefix": "16",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "definitief concept",
+		"id": "50acf720-a990-424f-a40d-97f8dcddbb5d",
+		"unreleased": true,
+		"fo_illustratie_id": [
+			"2fe30d8a-1ccc-464f-8037-d429841aba00",
+			"886d41fd-f7fd-430a-ab57-e7151bd00f2a"
+		]
+	},
+	{
+		"title": "Eindterm 17",
+		"description": "De leerling voert rekenwiskundige handelingen uit met univariate data.",
+		"prefix": "17",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "definitief concept",
+		"id": "42434cef-c5cf-44f4-b395-78dbb04d5013",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"682102d6-b35a-41cf-828a-969b2c755643",
+			"a0b44afd-e42c-4a8b-a785-d410b1e89851"
+		]
+	},
+	{
+		"title": "Eindterm 18",
+		"description": "De leerling maakt in een concrete situatie keuzes hoe hij/zij univariate data met behulp van een softwarepakket grafisch zou weergeven,",
+		"prefix": "18",
+		"soort": "eindterm",
+		"ce": 1,
+		"status": "definitief concept",
+		"id": "a6634842-31ae-4b51-9b7a-b0c807c52975",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"9cf37334-5eeb-458e-89fa-ca5e766bd84f",
+			"470d4135-6ae9-4f27-94ac-fc239076f844",
+			"5f8d6899-b6e7-4040-9db6-7ef4a9ce244e",
+			"547a885c-d321-42f2-a29e-e5a0529a578e"
+		]
+	},
+	{
+		"title": "Eindterm 19",
+		"description": "De leerling geeft in een concrete situatie een kans in taal en teken weer.",
+		"prefix": "19",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "definitief concept",
+		"id": "3805b809-6a63-40ba-b3df-6dbcd795d48c",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"85a2ca26-f367-4713-a3bf-6589ff44d522",
+			"0fe56636-9923-4cd8-9006-acc7a0dcad4c"
+		],
+		"fo_illustratie_id": [
+			"2b5f52f9-5e68-410c-8830-726887d6f357",
+			"b9cd3305-1e15-42fa-83be-32cc26f25961",
+			"73ab4188-b99a-41bd-8658-1494b12e9853",
+			"acc011ad-89a8-4196-a842-71dbacf13d7a"
+		]
+	},
+	{
+		"title": "Eindterm 20",
+		"description": "De  leerling geeft in concrete situaties betekenis aan gemiddelden, spreiding en gangbare grafische representaties van data en trends.",
+		"prefix": "20",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "definitief concept",
+		"id": "4711e70c-dff4-483e-b8c6-ba6225366a4f",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"4bc1adbe-9182-41d7-8cd1-fac31c544323",
+			"69958252-6498-426a-a611-b6eb2505923c",
+			"8b7cb135-e6d3-4c95-9835-e79f4ce9a241",
+			"d8d69c94-b92e-4b7d-9dcb-c74d2488135d",
+			"603dc32b-f521-4d54-9ef2-dbf3b6af7ca1"
+		]
+	},
+	{
+		"title": "Eindterm 21",
+		"description": "De leerling geeft in een concrete situatie betekenis aan kansen.",
+		"prefix": "21",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "definitief concept",
+		"id": "01a77b87-2466-4b3d-8006-6a7019c4a1bb",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"291ce2d2-f71f-498b-88a9-84c4b936941e",
+			"68ac5522-e35a-4c5d-bdd5-bb8ddaa24306"
+		],
+		"fo_illustratie_id": [
+			"00f1c98d-c0ed-47fc-8d69-f3ceb169fd8f"
+		]
+	},
+	{
+		"title": "Eindterm 07",
+		"description": "De leerling geeft een verhoudingssituatie weer door middel van een verhoudingsfactor. (B)",
+		"prefix": "7",
+		"soort": "eindterm",
+		"ce": 1,
+		"status": "definitief concept",
+		"id": "bf0b0170-f233-4214-af1a-c5c5835ccf97",
+		"unreleased": true
+	},
+	{
+		"title": "Eindterm 14",
+		"description": "De leerling lost in een concrete situatie een probleem op waarin data en/of hun grafische representaties een rol spelen. (B)",
+		"prefix": "14",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "definitief concept",
+		"id": "ff33de19-c882-41aa-98ab-b44078469381",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"b42da8b5-0ce4-4746-a123-8ed192f0de20",
+			"c29eb232-fad0-483d-8340-021119f78deb",
+			"13bcf6db-b663-4940-8949-76f2b0293368"
+		],
+		"fo_illustratie_id": [
+			"caa189c5-439c-40b6-99f1-61c4195cf965",
+			"c585fd80-39c5-4ad3-a9b3-0c5b5596b0e7",
+			"60a57dce-02ce-4ce4-8dd4-92bea4b225d3",
+			"fa28612e-1377-43b9-b1ea-dabd3bb2e5e9"
+		]
+	},
+	{
+		"title": "Eindterm 15",
+		"description": "De leerling lost een kansprobleem op. (B)",
+		"prefix": "15",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "definitief concept",
+		"id": "ade18087-8236-4cda-96ed-a0c94cf8ee9c",
+		"unreleased": true,
+		"fo_illustratie_id": [
+			"7f037330-a771-4918-8a9c-9ecdb55e2447",
+			"679c8052-e758-4770-ae69-23fc6658d617"
+		]
+	},
+	{
+		"title": "Eindterm 16",
+		"description": "De leerling voert rekenwiskundige handelingen uit met univariate data. (B)",
+		"prefix": "16",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "definitief concept",
+		"id": "a942c853-9f21-49aa-8e04-3aeb3d6fb80f",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"25f8e5ef-3203-4767-921c-870584c8ebc4",
+			"09c40358-8a89-4a17-a7fa-da8fafc0a4b2",
+			"e114e6a8-80f2-4d1b-9d70-f34e830ee999"
+		],
+		"fo_illustratie_id": [
+			"7356e200-c18b-4981-9bfb-e9f2c545b565",
+			"50b5ea7a-7a8d-4048-a2fd-dcbdbe6be247"
+		]
+	},
+	{
+		"title": "Eindterm 17",
+		"description": "De leerling geeft in een concrete situatie een of meerdere datasets met behulp van ICT grafisch weer. (B)",
+		"prefix": "17",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "definitief concept",
+		"id": "6858b410-07a9-41b6-a754-224a8422d2cf",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"f891fdbb-4633-4914-a4da-ed95745806d4",
+			"f31c2887-decf-4365-9724-f213832735b3",
+			"467f555c-50be-4e3c-a4b8-cc74ca35cd7e",
+			"e7d5a530-d46d-41a4-866c-8eaabb57770f"
+		],
+		"fo_illustratie_id": [
+			"9b3a8f3d-12a4-45d5-aafe-07d8d73ce50d",
+			"e76a40bc-aecc-4b05-8b93-11cc22e44c95",
+			"d6842dea-2336-4c45-853a-a2be69eaec95",
+			"d531c2aa-058f-491a-9ee7-224d477abe96"
+		]
+	},
+	{
+		"title": "Eindterm 18",
+		"description": "De leerling geeft in een concrete situatie een kans in taal en teken weer. (B)",
+		"prefix": "18",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "definitief concept",
+		"id": "a643fda8-c485-4418-b063-210537c58771",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"6c165ce7-9007-4625-a4c5-0a819652553f",
+			"73fdae49-d123-4a3d-90dc-b709e085cc93",
+			"210f2aab-27eb-4843-b59a-4fdba02e0cf4"
+		],
+		"fo_illustratie_id": [
+			"9f05abf3-5cff-4fef-9fbb-2d48b0c4a2f6"
+		]
+	},
+	{
+		"title": "Eindterm 19",
+		"description": "De leerling identificeert en geeft betekenis aan centrum- en spreidingsmaten, trends en gangbare grafische representaties van data in concrete situaties. (B)",
+		"prefix": "19",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "definitief concept",
+		"id": "5c7de97d-cd1f-4cf8-8062-72f98f7b99ab",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"b4bdf6ee-78b2-4046-8c96-780358aa0a45",
+			"f80dcc6a-aad3-4b65-a03c-4d9f7d8ef9e5",
+			"3441e0f5-c491-482c-881a-bfbd213f14d6",
+			"4d40e2dc-9403-4d6d-a5bb-13e72b806bb9",
+			"0f8b7415-9b7d-4249-a18a-b4dec5ab0f05"
+		],
+		"fo_illustratie_id": [
+			"6d2db51b-e7b1-4617-a5ae-bb3e20cd6689",
+			"02641d66-a042-4906-b90d-bf9ca56abd69",
+			"c8c3d289-6dc7-4364-914f-c6e93162e219",
+			"5e9af0d4-79ee-43c9-a373-d40a4a8351b2",
+			"3a60c96c-e532-4468-a30a-0af9b710ca0a"
+		]
+	},
+	{
+		"title": "Eindterm 20",
+		"description": "De leerling geeft in een concrete situatie betekenis aan kansen. (B)",
+		"prefix": "20",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "definitief concept",
+		"id": "0851e8b2-0b4e-4b20-80d2-0d84084372d1",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"9df335c0-874a-47fd-a2ef-16237e2b01f6",
+			"44107ec8-90a7-4f97-93d7-9d469bb521a9"
+		],
+		"fo_illustratie_id": [
+			"23712121-fdc4-4480-adb0-16dd15007a3f",
+			"4516f4a8-1260-4f6f-939d-2ffedee1542a"
+		]
+	},
+	{
+		"title": "Eindterm 32",
+		"description": "De leerling voert rekenwiskundige handelingen uit met lengten van zijdes van driehoeken en met hoeken. (B)",
+		"prefix": "32",
+		"soort": "eindterm",
+		"ce": 1,
+		"status": "definitief concept",
+		"id": "5c301742-f8f0-4f4d-a7d8-1b185360b3cf",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"3fcadc1b-a674-4472-b9af-9c92d7f9a278",
+			"2ac135d4-b319-4306-9300-e1e955d978f3",
+			"b49f4094-6821-4de0-aa2f-5f87fd9561d3",
+			"9fe1b588-c359-40f0-a98c-ad7adc7e6475"
+		]
+	},
+	{
+		"title": "Eindterm 36",
+		"description": "De leerling maakt beweringen aannemelijk over meetkundige figuren en hun afmetingen of omtrek. (B)",
+		"prefix": "36",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "definitief concept",
+		"id": "b45ab6e7-88dd-4661-8587-a5226a584024",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"09b8b152-f953-419a-80b3-13a035a84b83",
+			"916ef1dd-01a4-42d8-8f57-8ae2959772e9"
+		],
+		"fo_illustratie_id": [
+			"c7ef7de4-c3f0-4db3-a008-8c77fbe2bac4",
+			"09f68526-fca4-41eb-bf93-4a0d4f1b93ce"
+		]
+	},
+	{
+		"title": "Eindterm 37",
+		"description": "De leerling gebruikt meetinstrumenten voor het meten en tekenen van hoeken. (B)",
+		"prefix": "37",
+		"soort": "eindterm",
+		"ce": 1,
+		"se": 1,
+		"status": "definitief concept",
+		"id": "e35c340d-80cf-470b-bf1a-0bc6e9859484",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"2eb7ab0e-c831-46a3-87ff-725a8e85b36e",
+			"2f0997f7-8286-4d36-af83-a90bee3ef117"
+		],
+		"fo_illustratie_id": [
+			"d7f60aa1-abc1-421f-99ee-7d64b646e7b7"
+		]
+	},
+	{
+		"title": "Eindterm 38",
+		"description": "De leerling werkt aan de ontwikkeling van een wiskundige houding. €",
+		"prefix": "38",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "definitief concept",
+		"id": "eed00fc6-c8b2-40d3-87ad-20955b27d454",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"81de3aae-5b3f-4ca4-844a-0f3e08709ff5",
+			"9853440c-d744-41d8-873a-09747402c6a4",
+			"31e8be4b-3a3e-4554-bd7f-7e631e446f6c",
+			"8ab47257-288b-4541-9d92-918b43e3bf01"
+		],
+		"fo_illustratie_id": [
+			"28af8bf6-6cab-4464-8ba9-8002ec6fd1bf",
+			"a39ade5f-547b-4fe3-9f72-ba77b96283a2"
+		]
+	},
+	{
+		"title": "Eindterm 13",
+		"description": "De leerling lost in een concrete situatie een probleem op waarin data en/of hun grafische representaties een rol spelen. (B)",
+		"prefix": "13",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "definitief concept",
+		"id": "f443d42b-962b-4d06-b08c-093ebe826b80",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"275cf447-4e2d-43cf-8b4d-79e4eea8a789",
+			"d105b7b7-e315-4639-b3bf-3556221da2a5",
+			"60bda5a8-8a87-421b-a329-1919e5e05917"
+		],
+		"fo_illustratie_id": [
+			"bf597b94-269d-47ba-a416-94fd51a9e490",
+			"74dc3693-e269-4d37-bb1c-4b2c4c0cef91",
+			"b1b8baae-66e1-4c28-bb2f-aed9ca8f5531",
+			"38651d25-bb82-41e3-a1bb-be33dfe3b676"
+		]
+	},
+	{
+		"title": "Eindterm 14",
+		"description": "De leerling lost een kansprobleem op. (B)",
+		"prefix": "14",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "definitief concept",
+		"id": "a9e0677b-4aaf-4a69-b0ad-aa1605143c66",
+		"unreleased": true,
+		"fo_illustratie_id": [
+			"7fa6aa0c-1c3a-47ae-bbeb-e6f30610897a",
+			"ef6ea981-ff6c-42aa-8302-30e63005142c"
+		]
+	},
+	{
+		"title": "Eindterm 15",
+		"description": "De leerling voert rekenwiskundige handelingen uit met een kleine hoeveelheid univariate data. (B)",
+		"prefix": "15",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "definitief concept",
+		"id": "9f38ba00-e819-4295-b6ad-4be6db6187b5",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"1070bde6-6cfe-4d7f-b741-f54e320e9173",
+			"2cd5df9f-4940-463d-8a25-8e2113a0eaa4",
+			"83665de8-50ec-42df-a6a8-0c05d635eb1c"
+		],
+		"fo_illustratie_id": [
+			"7e197709-f0a6-4dd0-a04e-c6ab9eb914af",
+			"4b516293-197c-4f42-9066-51dc44ccfa52"
+		]
+	},
+	{
+		"title": "Eindterm16",
+		"description": "De leerling geeft in een concrete situatie een dataset met behulp van ICT grafisch weer. (B)",
+		"prefix": "16",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "definitief concept",
+		"id": "d2e8e0c1-2533-44d4-8b33-e870f7b1b959",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"f4873872-2b93-4811-9260-e82f31d8671d",
+			"dd550292-af06-48e6-9da2-41ed90ca62b7",
+			"e878426d-08ac-431c-a365-a363f6488e13"
+		],
+		"fo_illustratie_id": [
+			"8a5a1135-e7e6-4955-b230-063533fca562",
+			"18ffbbcc-6a7f-42cb-9bbd-319435668d68",
+			"3600b98b-ebcc-4cfa-bd21-4cecc9ee6607"
+		]
+	},
+	{
+		"title": "Eindterm 17",
+		"description": "De leerling geeft in een concrete situatie een kans in taal en teken weer. (B)",
+		"prefix": "17",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "definitief concept",
+		"id": "2a0b4c43-832e-43c0-a328-5a9d557c0078",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"b46a90d0-bdcc-4c66-abb1-ed9b22377dbd",
+			"e278a08f-f5f1-4a9f-8b00-9f6451202f92",
+			"9399239e-83cb-4fe3-9ce3-4d4daef3c906"
+		],
+		"fo_illustratie_id": [
+			"752b470f-b0c6-4d23-a7aa-4bd90ff1b071"
+		]
+	},
+	{
+		"title": "Eindterm 18",
+		"description": "De leerling geeft in concrete situaties betekenis aan gemiddelden en gangbare grafische representaties van data. (B)",
+		"prefix": "18",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "definitief concept",
+		"id": "3c28844e-fa80-4d1a-9ce9-3bd22aa1768a",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"5e185201-44d9-4386-9da7-00310eaf9747",
+			"8b067d21-db8b-4c63-b73e-d60066ad65a5",
+			"6c2d4aab-1246-4d65-ae85-a57d19123275"
+		],
+		"fo_illustratie_id": [
+			"2fb558e5-0f9d-433a-ab1e-d6b470233c70",
+			"e17bb8e2-1599-4e41-a2cc-14bf96046084"
+		]
+	},
+	{
+		"title": "Eindterm 19",
+		"description": "De leerling geeft in een concrete situatie betekenis aan kansen. (B)",
+		"prefix": "19",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "definitief concept",
+		"id": "0f0a05f0-9ad0-429d-9893-122ea6b436d4",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"dfd2363d-970c-4c23-96f0-ae2dd7a4e4c7",
+			"cb6795b5-8a98-4b05-a659-b5cfa98e1efe"
+		],
+		"fo_illustratie_id": [
+			"0a3880e9-54f3-4740-a54b-debb19571739",
+			"8800a91e-3e85-4a83-89ac-61b5940ff6b7"
+		]
+	},
+	{
+		"title": "Eindterm 31",
+		"description": "De leerling voert rekenwiskundige handelingen uit met  lengten van zijdes van driehoeken en met hoeken. (B)",
+		"prefix": "31",
+		"soort": "eindterm",
+		"ce": 1,
+		"status": "definitief concept",
+		"id": "e5570ea9-83e9-427d-9b52-cc7d469498b1",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"a31e55f8-9f1f-4e4b-8b85-019232574bc0",
+			"399ca697-8f31-4132-b5c5-4d42c550e583"
+		]
+	},
+	{
+		"title": "Eindterm 35",
+		"description": "De leerling maakt beweringen aannemelijk over meetkundige figuren. (B)",
+		"prefix": "35",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "definitief concept",
+		"id": "c40e6634-e5d3-4d52-9485-d0b4c7e747c6",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"99b558a8-f375-4e4a-94fe-04f2f898b618"
+		],
+		"fo_illustratie_id": [
+			"e422da08-7ba6-4e60-ab7c-7d90d36dc8a2"
+		]
+	},
+	{
+		"title": "Eindterm 15",
+		"description": "De leerling lost een probleem op waarin data en/of hun grafische representaties een rol spelen. (B)",
+		"prefix": "15",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "definitief concept",
+		"id": "c79fe293-c4b6-454b-8bcf-be7dc1660e1c",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"12f7c466-2231-4fc0-b673-453e7df0438a",
+			"1cd76ecc-04f0-40d6-a526-4c796fa79152",
+			"f37b87fe-4e03-4985-9b3f-6d8a6cb22513",
+			"9a7573c6-423c-43d7-8b4a-5801074eff99"
+		],
+		"fo_illustratie_id": [
+			"cbeeea4e-94c8-4a1f-8e90-722bb8def64d",
+			"dbfb1be4-4f31-4123-92fc-7570cb99ec56",
+			"89a2551d-7113-4319-8e86-210a3e96330f",
+			"243faf0b-688a-43e8-b533-18fc5486cf36",
+			"1cad1c5d-5b08-402f-b08c-10906ef27ac4"
+		]
+	},
+	{
+		"title": "Eindterm 16",
+		"description": "De leerling lost een kansprobleem op. (B)",
+		"prefix": "16",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "definitief concept",
+		"id": "ef3407a9-1986-4f0f-9740-5d108ed09798",
+		"unreleased": true,
+		"fo_illustratie_id": [
+			"318bc84b-1542-43be-9c6d-75df1d11cdfd",
+			"ee4e2234-80f4-4e20-a4f2-e79ac971b6e5",
+			"78b8158d-8a96-456b-aa56-e12a94762c38"
+		]
+	},
+	{
+		"title": "Eindterm 17",
+		"description": "De leerling voert rekenwiskundige handelingen uit met univariate en bivariate data. (B)",
+		"prefix": "17",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "definitief concept",
+		"id": "fde00751-2a56-45b2-85a2-65503dccdf80",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"43b1b2aa-0973-4e92-ae89-2347dcb7e6b7",
+			"ff48d3e1-7973-4a16-b90d-462ea43dd746",
+			"efe5b2d4-feba-4a4a-8623-21396f960f51"
+		],
+		"fo_illustratie_id": [
+			"c53e8718-fca0-4fb6-bbea-9c4f3bd9ed1d",
+			"e4ee73f9-8bdc-4456-8e34-4e02d35911dd",
+			"2e325fd9-48f9-49a9-8809-0e6254f93547",
+			"23de901f-bc25-49fd-9894-851ad8353b68"
+		]
+	},
+	{
+		"title": "Eindterm 18",
+		"description": "De leerling berekent kansen me behulp van een boom- of wegendiagram. (B)",
+		"prefix": "18",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "definitief concept",
+		"id": "b93cfa14-3d6d-4299-8eac-5de985fc68ad",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"24808fc4-5c6b-4c19-8e1b-babeeb12d518"
+		]
+	},
+	{
+		"title": "Eindterm 19",
+		"description": "De leerling geeft in een concrete situatie een of meerdere datasets met behulp van ICT grafisch weer. (B)",
+		"prefix": "19",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "definitief concept",
+		"id": "632ad3db-7947-4e8a-ab2b-ab7877bfc9dd",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"ac76a1c5-35a8-478f-a97e-79cf75608d53",
+			"c93837c1-7343-477e-8bbc-d7abf290ed00",
+			"67d58a66-f542-4714-9a02-a8630c957335",
+			"db5cedcd-a030-4315-976f-c07895ec72ad"
+		],
+		"fo_illustratie_id": [
+			"68b40a13-78cb-4498-9fbb-6ded88d1e617",
+			"3f7e53f4-44ce-492d-98aa-6b16308e7fb8",
+			"b0d02522-0c78-42e4-ae23-980b02045884",
+			"3cae4c70-0c8c-4a2f-9c11-45073382803a",
+			"080e7825-2af5-412e-b1ad-ecdddf029e60"
+		]
+	},
+	{
+		"title": "Eindterm 20",
+		"description": "De leerling geeft in een concrete situatie een kans in taal en teken weer. (B)",
+		"prefix": "20",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "definitief concept",
+		"id": "439339cd-2154-493b-acdf-aab8ea0be7b8",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"f17039e2-f05c-4a8f-ba84-e69ea056b99c",
+			"5ad7ce4c-a24e-4b54-b18c-ca207159c283",
+			"51717f96-1dc5-49ad-8718-4e7595947893"
+		],
+		"fo_illustratie_id": [
+			"cd44ed65-e608-4697-865a-6875c8bbc683"
+		]
+	},
+	{
+		"title": "Eindterm 21",
+		"description": "De leerling identificeert en geeft betekenis aan centrum- en spreidingsmaten, trends en gangbare grafische representaties van data in concrete situaties. (B)",
+		"prefix": "21",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "definitief concept",
+		"id": "29884973-da35-4741-8728-da6e7032d5d1",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"5379161a-87a1-4265-9bf3-173004e9cf90",
+			"350b3683-01cc-442d-850a-52da30605ff1",
+			"d141baae-fa14-4879-8e57-9d1a780b8bf2",
+			"443f1c5a-b83e-4968-a6d0-a535b22e4f47",
+			"e308c100-6a7a-4b54-a497-6a5076d793e1"
+		],
+		"fo_illustratie_id": [
+			"abf5dbb8-3bdc-487e-a1e2-2f68955a79eb",
+			"f12f9094-ca4b-4201-b62b-a60bcd4ed0f0",
+			"3d173738-e27f-42f8-aca9-759be8fc1af9",
+			"cbc9177e-3853-4cc4-a619-b083b362047a",
+			"30fb6cf3-317f-44c2-8614-d0f0044d3c89"
+		]
+	},
+	{
+		"title": "Eindterm 22",
+		"description": "De leerling geeft een kanssituatie weer met een boom- of wegendiagram. (B)",
+		"prefix": "22",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "definitief concept",
+		"id": "7be2e753-7535-4bbe-b7c7-4d776fd4c6ad",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"9c0d4dd9-68a1-48ba-b1c0-c89344132843"
+		]
+	},
+	{
+		"title": "Eindterm 23",
+		"description": "De leerling geeft in een concrete situatie betekenis aan kansen. (B)",
+		"prefix": "23",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "definitief concept",
+		"id": "2b34e85e-82fe-48c0-b41e-eaac39762213",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"0ea7cb90-ce01-437d-ad38-0856939aed8a",
+			"6b5b8cc0-03c7-4cfe-80ae-ea54dfa3e18f"
+		],
+		"fo_illustratie_id": [
+			"1318c08f-0abf-4eab-b386-94df33c2e3b3",
+			"e88f0c5e-8728-4e19-80af-392f1e51c1d1",
+			"24d567e6-6041-4cf7-8934-2bf35e35c180"
+		]
+	},
+	{
+		"title": "Eindterm 27",
+		"description": "De leerling gebruikt vaktaal voor representaties en het veranderingsgedrag van verbanden en standaardverbanden. (B)",
+		"prefix": "27",
+		"soort": "eindterm",
+		"ce": 1,
+		"status": "definitief concept",
+		"id": "cc806361-47d0-4c87-a478-7935c5d8b502",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"856e102e-b50c-4373-9cec-7639b55c96e6",
+			"e5fa7c6c-01ad-40c4-9530-da5184a272f6",
+			"2a878930-63e6-4ef8-ada3-ced0d9d6187e",
+			"faa244a1-9acd-42aa-b159-e07eec46278a"
+		]
+	},
+	{
+		"title": "Eindterm 35",
+		"description": "De leerling voert rekenwiskundige handelingen uit met lengten van zijdes van driehoeken en met hoeken. (B)",
+		"prefix": "35",
+		"soort": "eindterm",
+		"ce": 1,
+		"status": "definitief concept",
+		"id": "9afbeec3-d26a-4d63-aa5f-db8f60f70325",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"08819b35-b93a-469a-ba90-51c521c20dc4",
+			"cda3df5a-70b5-4a23-98e6-72f83abb37cb",
+			"11c6870b-aab2-455d-8055-00246a991dbf",
+			"c007970b-9fa0-40f1-8eb0-773c25f61d3a"
+		]
+	},
+	{
+		"title": "Eindterm 40",
+		"description": "De leerling gebruikt meetinstrumenten voor het meten en tekenen van hoeken. (B)",
+		"prefix": "40",
+		"soort": "eindterm",
+		"ce": 1,
+		"se": 1,
+		"status": "definitief concept",
+		"id": "1dd9b9a6-802f-44a2-b497-fa84fa4ba3f9",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"e115859c-30d8-4f13-885a-9c866cd191ca",
+			"b3983eef-d990-4f5e-b84c-150fd00d1c0c"
+		],
+		"fo_illustratie_id": [
+			"0a334a58-1924-4c44-98db-e7b5ebca9380"
+		]
+	},
+	{
+		"title": "Eindterm 41",
+		"description": "De leerling werkt aan de ontwikkeling van een wiskundige houding. (E)",
+		"prefix": "41",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "definitief concept",
+		"id": "9d2e7990-640c-4607-b097-5f79020999b5",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"3e6b8f1f-a5d2-4cea-9423-f6e2ce992e82",
+			"05fe92c9-1db2-412d-888d-535c0f8f9164",
+			"b6449d76-9369-46ff-9502-04cbff8c0b9e",
+			"9feaca15-7bdd-4feb-b625-11a6c8f0b9ff"
+		],
+		"fo_illustratie_id": [
+			"b9e6881d-7356-4711-9abc-d47ca1f401ac",
+			"39023d9f-a7f3-4fcc-af7d-97507f360728"
 		]
 	}
 ]

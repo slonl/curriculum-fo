@@ -45278,9 +45278,10 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "5² = 25"
+		"description": "5² = 25",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
@@ -45288,9 +45289,10 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "√25 = 5"
+		"description": "√25 = 5",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -45298,9 +45300,10 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "een probleem oplossen met korting, prijsstijging of btw."
+		"description": "een probleem oplossen met korting, prijsstijging of btw.",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
@@ -45308,9 +45311,10 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "verhoudingen gebruiken bij het voorbereiden van een gerecht voor meerdere personen."
+		"description": "verhoudingen gebruiken bij het voorbereiden van een gerecht voor meerdere personen.",
+		"dirty": true
 	},
 	{
 		"prefix": "t3",
@@ -45318,9 +45322,10 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "wat is in verhouding het goedkoopst?"
+		"description": "wat is in verhouding het goedkoopst?",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -45328,9 +45333,10 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "twee van de vijf bezoekers."
+		"description": "twee van de vijf bezoekers.",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
@@ -45338,9 +45344,10 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "40% van de bezoekers."
+		"description": "40% van de bezoekers.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -45348,9 +45355,10 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "de hoeveelheid ingrediënten van een gerecht staat in verhouding tot het aantal personen voor wie het gerecht wordt bereid."
+		"description": "de hoeveelheid ingrediënten van een gerecht staat in verhouding tot het aantal personen voor wie het gerecht wordt bereid.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -45358,9 +45366,10 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "het benaderen van de hoogte van objecten m.b.v. referentiematen."
+		"description": "het benaderen van de hoogte van objecten m.b.v. referentiematen.",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
@@ -45368,9 +45377,10 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "het schatten van een te betalen bedrag bij aankopen."
+		"description": "het schatten van een te betalen bedrag bij aankopen.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -45378,9 +45388,10 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "het gewicht van een pak suiker in g of kg."
+		"description": "het gewicht van een pak suiker in g of kg.",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
@@ -45388,9 +45399,10 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "het gewicht van een pak suiker in g of kg"
+		"description": "het gewicht van een pak suiker in g of kg",
+		"dirty": true
 	},
 	{
 		"prefix": "t3",
@@ -45398,9 +45410,10 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "de inhoud van een blikje cola in ml."
+		"description": "de inhoud van een blikje cola in ml.",
+		"dirty": true
 	},
 	{
 		"prefix": "t4",
@@ -45408,9 +45421,10 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "de snelheid van je fiets in kilometer per uur."
+		"description": "de snelheid van je fiets in kilometer per uur.",
+		"dirty": true
 	},
 	{
 		"prefix": "t5",
@@ -45418,9 +45432,10 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "de afstand tussen twee plaatsen in km."
+		"description": "de afstand tussen twee plaatsen in km.",
+		"dirty": true
 	},
 	{
 		"prefix": "t6",
@@ -45428,9 +45443,10 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "de oppervlakte van het klaslokaal in m²."
+		"description": "de oppervlakte van het klaslokaal in m².",
+		"dirty": true
 	},
 	{
 		"prefix": "t7",
@@ -45438,9 +45454,10 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "de kamertemperatuur in graden °C."
+		"description": "de kamertemperatuur in graden °C.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -45448,9 +45465,10 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "het schatten van afstanden, oppervlaktes en hoeken."
+		"description": "het schatten van afstanden, oppervlaktes en hoeken.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -45458,9 +45476,10 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "je ziet hier een grafiek over de temperatuur op een berg. Op welke hoogte is het 18°C?"
+		"description": "je ziet hier een grafiek over de temperatuur op een berg. Op welke hoogte is het 18°C?",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -45468,9 +45487,10 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "assenstelsel, as, schaalverdeling."
+		"description": "assenstelsel, as, schaalverdeling.",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
@@ -45478,9 +45498,10 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "stijgen, dalen, constant, minimum, maximum"
+		"description": "stijgen, dalen, constant, minimum, maximum",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -45488,9 +45509,10 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "als je snelheid verdubbelt wordt je remweg niet twee keer zo lang. Waar zou dat door kunnen komen?"
+		"description": "als je snelheid verdubbelt wordt je remweg niet twee keer zo lang. Waar zou dat door kunnen komen?",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -45498,9 +45520,10 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "in een grafiek staat hoe warm het op een bepaalde dag was. Bepaal wanneer de temperatuur het snelst steeg: tussen 6:00 en 9:00 uur of tussen 9:00 en 12:00 uur?"
+		"description": "in een grafiek staat hoe warm het op een bepaalde dag was. Bepaal wanneer de temperatuur het snelst steeg: tussen 6:00 en 9:00 uur of tussen 9:00 en 12:00 uur?",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
@@ -45508,9 +45531,10 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "er komt iedere keer hetzelfde bij (of er gaat hetzelfde af); alsmaar sneller of langzamer stijgen of dalen; zich alsmaar herhalend."
+		"description": "er komt iedere keer hetzelfde bij (of er gaat hetzelfde af); alsmaar sneller of langzamer stijgen of dalen; zich alsmaar herhalend.",
+		"dirty": true
 	},
 	{
 		"prefix": "t3",
@@ -45518,9 +45542,10 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "elke zeven jaar verdubbelt de wereldbevolking zich. Dit gaat heel hard en is daarom een zorgelijke ontwikkeling."
+		"description": "elke zeven jaar verdubbelt de wereldbevolking zich. Dit gaat heel hard en is daarom een zorgelijke ontwikkeling.",
+		"dirty": true
 	},
 	{
 		"prefix": "t4",
@@ -45528,9 +45553,10 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "in een grafiek staat hoeveel voedsel er over een groot aantal jaren wereldwijd is geproduceerd. Deze grafiek is nagenoeg een rechte lijn. Blijkbaar verloopt de groei van de wereldproductie van voedsel gelijkmatig."
+		"description": "in een grafiek staat hoeveel voedsel er over een groot aantal jaren wereldwijd is geproduceerd. Deze grafiek is nagenoeg een rechte lijn. Blijkbaar verloopt de groei van de wereldproductie van voedsel gelijkmatig.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -45538,9 +45564,10 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "je spaart iedere maand 75 euro. Geef dit weer in een tabel of grafiek."
+		"description": "je spaart iedere maand 75 euro. Geef dit weer in een tabel of grafiek.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -45548,9 +45575,10 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "geef een routebeschrijving tussen twee kruispunten in een rechthoekig stratenplan."
+		"description": "geef een routebeschrijving tussen twee kruispunten in een rechthoekig stratenplan.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -45558,9 +45586,10 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "het herkennen van een vooraanzicht van een gebouw"
+		"description": "het herkennen van een vooraanzicht van een gebouw",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -45568,9 +45597,10 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "we treffen elkaar bij het cilindervormige kunstwerk op de hoek."
+		"description": "we treffen elkaar bij het cilindervormige kunstwerk op de hoek.",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
@@ -45578,9 +45608,10 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "het patroon op je vest is symmetrisch."
+		"description": "het patroon op je vest is symmetrisch.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -45588,9 +45619,10 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "vak P, rij 5, stoel 16."
+		"description": "vak P, rij 5, stoel 16.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -45598,9 +45630,10 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "grafische weergaven van datasets tekenen met behulp van een spreadsheetprogramma."
+		"description": "grafische weergaven van datasets tekenen met behulp van een spreadsheetprogramma.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -45608,9 +45641,10 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "(schattend) rekenen in alledaagse situaties."
+		"description": "(schattend) rekenen in alledaagse situaties.",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
@@ -45618,9 +45652,10 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "misleidende weergaven van kwantitatieve informatie identificeren en beredeneren wat het voordeel van de misleider kan zijn."
+		"description": "misleidende weergaven van kwantitatieve informatie identificeren en beredeneren wat het voordeel van de misleider kan zijn.",
+		"dirty": true
 	},
 	{
 		"prefix": "t3",
@@ -45628,9 +45663,10 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "onjuiste redeneringen weerleggen en/of corrigeren."
+		"description": "onjuiste redeneringen weerleggen en/of corrigeren.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -45638,9 +45674,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "5² = 25"
+		"description": "5² = 25",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
@@ -45648,9 +45685,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "√25 = 5"
+		"description": "√25 = 5",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -45658,9 +45696,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "een probleem oplossen met korting, prijsstijging of btw."
+		"description": "een probleem oplossen met korting, prijsstijging of btw.",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
@@ -45668,9 +45707,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "verhoudingen gebruiken bij het voorbereiden van een gerecht voor meerdere personen."
+		"description": "verhoudingen gebruiken bij het voorbereiden van een gerecht voor meerdere personen.",
+		"dirty": true
 	},
 	{
 		"prefix": "t3",
@@ -45678,9 +45718,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "wat is in verhouding het goedkoopst?"
+		"description": "wat is in verhouding het goedkoopst?",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -45688,9 +45729,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "twee van de zeven bezoekers."
+		"description": "twee van de zeven bezoekers.",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
@@ -45698,9 +45740,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "twee delen ranja op vijf delen water."
+		"description": "twee delen ranja op vijf delen water.",
+		"dirty": true
 	},
 	{
 		"prefix": "t3",
@@ -45708,9 +45751,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "28% van de bezoekers."
+		"description": "28% van de bezoekers.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -45718,9 +45762,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "de hoeveelheid ingrediënten van een gerecht staat in verhouding tot het aantal personen voor wie het gerecht bereid wordt, maar de kooktijd niet."
+		"description": "de hoeveelheid ingrediënten van een gerecht staat in verhouding tot het aantal personen voor wie het gerecht bereid wordt, maar de kooktijd niet.",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
@@ -45728,9 +45773,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "je betaalt per pizza + een vast bedrag per bezorging. Is de totaalprijs bij 3 pizza's 3 keer zoveel als bij 1 pizza?"
+		"description": "je betaalt per pizza + een vast bedrag per bezorging. Is de totaalprijs bij 3 pizza's 3 keer zoveel als bij 1 pizza?",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -45738,9 +45784,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "het benaderen van de hoogte van objecten m.b.v. referentiematen."
+		"description": "het benaderen van de hoogte van objecten m.b.v. referentiematen.",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
@@ -45748,9 +45795,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "het schatten van een te betalen bedrag bij aankopen."
+		"description": "het schatten van een te betalen bedrag bij aankopen.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -45758,9 +45806,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "het gewicht van een pil geef je weer in mg of g, dat van een pak suiker in g of kg en dat van een vrachtwagen in ton."
+		"description": "het gewicht van een pil geef je weer in mg of g, dat van een pak suiker in g of kg en dat van een vrachtwagen in ton.",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
@@ -45768,9 +45817,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "de opslagcapaciteit van je tablet in GB."
+		"description": "de opslagcapaciteit van je tablet in GB.",
+		"dirty": true
 	},
 	{
 		"prefix": "t3",
@@ -45778,9 +45828,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "de inhoud van een blikje cola wordt gegeven  in ml, melk koop je per liter."
+		"description": "de inhoud van een blikje cola wordt gegeven  in ml, melk koop je per liter.",
+		"dirty": true
 	},
 	{
 		"prefix": "t4",
@@ -45788,9 +45839,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "de snelheid van je fiets in kilometer per uur."
+		"description": "de snelheid van je fiets in kilometer per uur.",
+		"dirty": true
 	},
 	{
 		"prefix": "t5",
@@ -45798,9 +45850,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "de afstand tussen twee plaatsen wordt gemeten in km."
+		"description": "de afstand tussen twee plaatsen wordt gemeten in km.",
+		"dirty": true
 	},
 	{
 		"prefix": "t6",
@@ -45808,9 +45861,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "de oppervlakte van het klaslokaal in m²."
+		"description": "de oppervlakte van het klaslokaal in m².",
+		"dirty": true
 	},
 	{
 		"prefix": "t7",
@@ -45818,9 +45872,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "de kamertemperatuur in  °C."
+		"description": "de kamertemperatuur in  °C.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -45828,9 +45883,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "het schatten van afstanden, oppervlaktes en hoeken."
+		"description": "het schatten van afstanden, oppervlaktes en hoeken.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -45838,9 +45894,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "je ziet hier een grafiek over de temperatuur op een berg. Het dal ligt op 400 meter hoogte. Hoeveel meter moet je vanuit het dal klimmen om een plek met een temperatuur van 18°C te bereiken?"
+		"description": "je ziet hier een grafiek over de temperatuur op een berg. Het dal ligt op 400 meter hoogte. Hoeveel meter moet je vanuit het dal klimmen om een plek met een temperatuur van 18°C te bereiken?",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -45848,9 +45905,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "assenstelsel, as, oorsprong, schaalverdeling, zaagtand."
+		"description": "assenstelsel, as, oorsprong, schaalverdeling, zaagtand.",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
@@ -45858,9 +45916,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "stijgen, dalen, constant, minimum, maximum."
+		"description": "stijgen, dalen, constant, minimum, maximum.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -45868,9 +45927,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "als je snelheid verdubbelt wordt je remweg niet twee keer zo lang. Waar zou dat door kunnen komen?"
+		"description": "als je snelheid verdubbelt wordt je remweg niet twee keer zo lang. Waar zou dat door kunnen komen?",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -45878,9 +45938,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "in een grafiek staat hoe warm het op een bepaalde dag was. Wanneer steeg de temperatuur het snelst: tussen 6:00 en 9:00 uur of tussen 9:00 en 11:00 uur?"
+		"description": "in een grafiek staat hoe warm het op een bepaalde dag was. Wanneer steeg de temperatuur het snelst: tussen 6:00 en 9:00 uur of tussen 9:00 en 11:00 uur?",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
@@ -45888,9 +45949,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "er komt iedere keer hetzelfde bij (of er gaat hetzelfde af); alsmaar sneller of langzamer stijgen of dalen; zich alsmaar herhalend."
+		"description": "er komt iedere keer hetzelfde bij (of er gaat hetzelfde af); alsmaar sneller of langzamer stijgen of dalen; zich alsmaar herhalend.",
+		"dirty": true
 	},
 	{
 		"prefix": "t3",
@@ -45898,9 +45960,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "elke zeven jaar verdubbelt de wereldbevolking zich. Dit gaat heel hard en is daarom een zorgelijke ontwikkeling."
+		"description": "elke zeven jaar verdubbelt de wereldbevolking zich. Dit gaat heel hard en is daarom een zorgelijke ontwikkeling.",
+		"dirty": true
 	},
 	{
 		"prefix": "t4",
@@ -45908,9 +45971,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "in een grafiek staat hoeveel voedsel er over een groot aantal jaren wereldwijd is geproduceerd. Deze grafiek is nagenoeg een rechte lijn. Blijkbaar verloopt de groei van de wereldproductie van voedsel gelijkmatig."
+		"description": "in een grafiek staat hoeveel voedsel er over een groot aantal jaren wereldwijd is geproduceerd. Deze grafiek is nagenoeg een rechte lijn. Blijkbaar verloopt de groei van de wereldproductie van voedsel gelijkmatig.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -45918,9 +45982,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "je leent bij je opa 450 euro en je betaalt iedere maand 25 euro terug. Maak een tabel of grafiek voor de hoogte van je schuld."
+		"description": "je leent bij je opa 450 euro en je betaalt iedere maand 25 euro terug. Maak een tabel of grafiek voor de hoogte van je schuld.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -45928,9 +45993,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "geef een routebeschrijving tussen twee kruispunten in een rechthoekig stratenplan, waarin je zo weinig mogelijk linksaf of rechtsaf slaat."
+		"description": "geef een routebeschrijving tussen twee kruispunten in een rechthoekig stratenplan, waarin je zo weinig mogelijk linksaf of rechtsaf slaat.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -45938,9 +46004,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "het tekenen van een vooraanzicht van een gebouw"
+		"description": "het tekenen van een vooraanzicht van een gebouw",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -45948,9 +46015,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "we treffen elkaar bij het cilindervormige kunstwerk op de hoek."
+		"description": "we treffen elkaar bij het cilindervormige kunstwerk op de hoek.",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
@@ -45958,9 +46026,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "het patroon op je vest is symmetrisch."
+		"description": "het patroon op je vest is symmetrisch.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -45968,9 +46037,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "vak P, rij 5, stoel 16."
+		"description": "vak P, rij 5, stoel 16.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -45978,9 +46048,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "grafische weergaven van datasets tekenen met behulp van een spreadsheetprogramma."
+		"description": "grafische weergaven van datasets tekenen met behulp van een spreadsheetprogramma.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -45988,9 +46059,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "(schattend) rekenen in alledaagse situaties."
+		"description": "(schattend) rekenen in alledaagse situaties.",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
@@ -45998,9 +46070,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "misleidende weergaven van kwantitatieve informatie identificeren en beredeneren wat het voordeel van de misleider kan zijn."
+		"description": "misleidende weergaven van kwantitatieve informatie identificeren en beredeneren wat het voordeel van de misleider kan zijn.",
+		"dirty": true
 	},
 	{
 		"prefix": "t3",
@@ -46008,9 +46081,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "onjuiste redeneringen weerleggen en/of corrigeren."
+		"description": "onjuiste redeneringen weerleggen en/of corrigeren.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -46019,9 +46093,10 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "2³  = 8"
+		"description": "2³  = 8",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
@@ -46030,9 +46105,10 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "√250.000 = 500"
+		"description": "√250.000 = 500",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -46041,9 +46117,10 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "een probleem oplossen met korting, prijsstijging of btw."
+		"description": "een probleem oplossen met korting, prijsstijging of btw.",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
@@ -46052,9 +46129,10 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "verhoudingen gebruiken bij het voorbereiden van een gerecht voor meerdere personen."
+		"description": "verhoudingen gebruiken bij het voorbereiden van een gerecht voor meerdere personen.",
+		"dirty": true
 	},
 	{
 		"prefix": "t3",
@@ -46063,9 +46141,10 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "wat is in verhouding het goedkoopst?"
+		"description": "wat is in verhouding het goedkoopst?",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -46074,9 +46153,10 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "twee van de zeven bezoekers."
+		"description": "twee van de zeven bezoekers.",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
@@ -46085,9 +46165,10 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "twee delen ranja op vijf delen water."
+		"description": "twee delen ranja op vijf delen water.",
+		"dirty": true
 	},
 	{
 		"prefix": "t3",
@@ -46096,9 +46177,10 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "ruim 28% van de bezoekers."
+		"description": "ruim 28% van de bezoekers.",
+		"dirty": true
 	},
 	{
 		"prefix": "t4",
@@ -46107,9 +46189,10 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "2/7  deel van de bezoekers."
+		"description": "2/7  deel van de bezoekers.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -46118,9 +46201,10 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "de hoeveelheid ingrediënten van een gerecht staat in verhouding tot het aantal personen voor wie het gerecht bereid wordt, maar de kooktijd niet."
+		"description": "de hoeveelheid ingrediënten van een gerecht staat in verhouding tot het aantal personen voor wie het gerecht bereid wordt, maar de kooktijd niet.",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
@@ -46129,9 +46213,10 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "je betaalt per pizza + een vast bedrag per bezorging. Is de totaalprijs bij 3 pizza's 3 keer zoveel als bij 1 pizza?"
+		"description": "je betaalt per pizza + een vast bedrag per bezorging. Is de totaalprijs bij 3 pizza's 3 keer zoveel als bij 1 pizza?",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -46140,9 +46225,10 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "het benaderen van de hoogte van objecten m.b.v. referentiematen."
+		"description": "het benaderen van de hoogte van objecten m.b.v. referentiematen.",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
@@ -46151,9 +46237,10 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "het schatten van een te betalen bedrag bij aankopen."
+		"description": "het schatten van een te betalen bedrag bij aankopen.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -46162,9 +46249,10 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "het gewicht van een pil geef je weer in mg of g, dat van een pak suiker in g of kg en dat van een vrachtwagen in ton."
+		"description": "het gewicht van een pil geef je weer in mg of g, dat van een pak suiker in g of kg en dat van een vrachtwagen in ton.",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
@@ -46173,9 +46261,10 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "de opslagcapaciteit van je tablet in GB."
+		"description": "de opslagcapaciteit van je tablet in GB.",
+		"dirty": true
 	},
 	{
 		"prefix": "t3",
@@ -46184,9 +46273,10 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "de inhoud van een blikje cola wordt gegeven  in ml, melk koop je per liter."
+		"description": "de inhoud van een blikje cola wordt gegeven  in ml, melk koop je per liter.",
+		"dirty": true
 	},
 	{
 		"prefix": "t4",
@@ -46195,9 +46285,10 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "de snelheid van je fiets in kilometer per uur."
+		"description": "de snelheid van je fiets in kilometer per uur.",
+		"dirty": true
 	},
 	{
 		"prefix": "t5",
@@ -46206,9 +46297,10 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "de afstand tussen twee plaatsen wordt gemeten in km."
+		"description": "de afstand tussen twee plaatsen wordt gemeten in km.",
+		"dirty": true
 	},
 	{
 		"prefix": "t6",
@@ -46217,9 +46309,10 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "de oppervlakte van het klaslokaal in m²."
+		"description": "de oppervlakte van het klaslokaal in m².",
+		"dirty": true
 	},
 	{
 		"prefix": "t7",
@@ -46228,9 +46321,10 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "de kamertemperatuur in  °C."
+		"description": "de kamertemperatuur in  °C.",
+		"dirty": true
 	},
 	{
 		"prefix": "t8",
@@ -46239,9 +46333,10 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "langs de weg staat om de honderd meter een hectometerpaaltje."
+		"description": "langs de weg staat om de honderd meter een hectometerpaaltje.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -46250,9 +46345,10 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "het schatten van afstanden, oppervlaktes en hoeken."
+		"description": "het schatten van afstanden, oppervlaktes en hoeken.",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
@@ -46261,9 +46357,10 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "bepalen of een hoek recht is."
+		"description": "bepalen of een hoek recht is.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -46272,9 +46369,10 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "de temperatuur op een berg wordt onder andere bepaald door hoe hoog een plek ligt. Je ziet de grafiek van vandaag en de grafiek van gisteren. Hoe warm was het gisteren op de plek waar het vandaag 18°C is?"
+		"description": "de temperatuur op een berg wordt onder andere bepaald door hoe hoog een plek ligt. Je ziet de grafiek van vandaag en de grafiek van gisteren. Hoe warm was het gisteren op de plek waar het vandaag 18°C is?",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -46283,9 +46381,10 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "assenstelsel, as, oorsprong, schaalverdeling, zaagtand."
+		"description": "assenstelsel, as, oorsprong, schaalverdeling, zaagtand.",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
@@ -46294,9 +46393,10 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "stijgen, dalen, constant, minimum, maximum."
+		"description": "stijgen, dalen, constant, minimum, maximum.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -46305,9 +46405,10 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "als je snelheid verdubbelt wordt je remweg niet twee keer zo lang. Waar zou dat door kunnen komen?"
+		"description": "als je snelheid verdubbelt wordt je remweg niet twee keer zo lang. Waar zou dat door kunnen komen?",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -46316,9 +46417,10 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "in een grafiek staat hoe warm het op een bepaalde dag was. Bepaal gedurende welk uur de temperatuur het snelst steeg."
+		"description": "in een grafiek staat hoe warm het op een bepaalde dag was. Bepaal gedurende welk uur de temperatuur het snelst steeg.",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
@@ -46327,9 +46429,10 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "er komt iedere keer hetzelfde bij (of er gaat hetzelfde af); alsmaar sneller of langzamer stijgen of dalen; zich alsmaar herhalend."
+		"description": "er komt iedere keer hetzelfde bij (of er gaat hetzelfde af); alsmaar sneller of langzamer stijgen of dalen; zich alsmaar herhalend.",
+		"dirty": true
 	},
 	{
 		"prefix": "t3",
@@ -46338,9 +46441,10 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "elke zeven jaar verdubbelt de wereldbevolking zich. Dit gaat heel hard en is daarom een zorgelijke ontwikkeling."
+		"description": "elke zeven jaar verdubbelt de wereldbevolking zich. Dit gaat heel hard en is daarom een zorgelijke ontwikkeling.",
+		"dirty": true
 	},
 	{
 		"prefix": "t4",
@@ -46349,9 +46453,10 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "in een grafiek staat hoeveel voedsel er over een groot aantal jaren wereldwijd is geproduceerd. Deze grafiek is nagenoeg een rechte lijn. Blijkbaar verloopt de groei van de wereldproductie van voedsel gelijkmatig."
+		"description": "in een grafiek staat hoeveel voedsel er over een groot aantal jaren wereldwijd is geproduceerd. Deze grafiek is nagenoeg een rechte lijn. Blijkbaar verloopt de groei van de wereldproductie van voedsel gelijkmatig.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -46360,9 +46465,10 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "je leent bij je opa 450 euro en je betaalt iedere maand 25 euro terug. Maak een tabel of grafiek voor de hoogte van je schuld."
+		"description": "je leent bij je opa 450 euro en je betaalt iedere maand 25 euro terug. Maak een tabel of grafiek voor de hoogte van je schuld.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -46371,9 +46477,10 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "geef een routebeschrijving tussen twee kruispunten in een rechthoekig stratenplan, waarin je zo weinig mogelijk linksaf of rechtsaf slaat."
+		"description": "geef een routebeschrijving tussen twee kruispunten in een rechthoekig stratenplan, waarin je zo weinig mogelijk linksaf of rechtsaf slaat.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -46382,9 +46489,10 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "het tekenen van een bovenaanzicht van je school."
+		"description": "het tekenen van een bovenaanzicht van je school.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -46393,9 +46501,10 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "we treffen elkaar bij het cilindervormige kunstwerk op de hoek."
+		"description": "we treffen elkaar bij het cilindervormige kunstwerk op de hoek.",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
@@ -46404,9 +46513,10 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "het patroon op je vest is symmetrisch."
+		"description": "het patroon op je vest is symmetrisch.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -46415,9 +46525,10 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "vak P, rij 5, stoel 16."
+		"description": "vak P, rij 5, stoel 16.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -46426,9 +46537,10 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "grafische weergaven van datasets tekenen met behulp van een spreadsheetprogramma."
+		"description": "grafische weergaven van datasets tekenen met behulp van een spreadsheetprogramma.",
+		"dirty": true
 	},
 	{
 		"prefix": "t",
@@ -46437,9 +46549,10 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "(schattend) rekenen in alledaagse situaties."
+		"description": "(schattend) rekenen in alledaagse situaties.",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
@@ -46448,9 +46561,10 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "misleidende weergaven van kwantitatieve informatie identificeren en beredeneren wat het voordeel van de misleider kan zijn."
+		"description": "misleidende weergaven van kwantitatieve informatie identificeren en beredeneren wat het voordeel van de misleider kan zijn.",
+		"dirty": true
 	},
 	{
 		"prefix": "t3",
@@ -46459,9 +46573,10 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "onjuiste redeneringen weerleggen en/of corrigeren."
+		"description": "onjuiste redeneringen weerleggen en/of corrigeren.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -46469,9 +46584,10 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "5² = 25"
+		"description": "5² = 25",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
@@ -46479,9 +46595,10 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "√25 = 5"
+		"description": "√25 = 5",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -46489,9 +46606,10 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "twee van de vijf bezoekers."
+		"description": "twee van de vijf bezoekers.",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
@@ -46499,9 +46617,10 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "40% van de bezoekers."
+		"description": "40% van de bezoekers.",
+		"dirty": true
 	},
 	{
 		"prefix": "t3",
@@ -46509,9 +46628,10 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "2/5 deel van de bezoekers."
+		"description": "2/5 deel van de bezoekers.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -46519,9 +46639,10 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "de hoeveelheid ingrediënten van een gerecht staat in verhouding tot het aantal personen voor wie het gerecht wordt bereid."
+		"description": "de hoeveelheid ingrediënten van een gerecht staat in verhouding tot het aantal personen voor wie het gerecht wordt bereid.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -46529,9 +46650,10 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "uitleggen wat het lijntje onder een digitale kaart betekent."
+		"description": "uitleggen wat het lijntje onder een digitale kaart betekent.",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
@@ -46539,9 +46661,10 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "op jouw school zijn er meer 1e-jaars leerlingen lid van een sportclub dan 3e-jaars leerlingen, maar in verhouding zijn er meer 3e-jaars lid van een sportclub dan 1e-jaars. Hieruit mag je concluderen dat 3e-jaars sportiever zijn dan 1e-jaars."
+		"description": "op jouw school zijn er meer 1e-jaars leerlingen lid van een sportclub dan 3e-jaars leerlingen, maar in verhouding zijn er meer 3e-jaars lid van een sportclub dan 1e-jaars. Hieruit mag je concluderen dat 3e-jaars sportiever zijn dan 1e-jaars.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -46549,19 +46672,21 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "het benaderen van de hoogte van objecten m.b.v. referentiematen."
+		"description": "benaderen van de hoogte van een object met behulp van referentiematen;",
+		"dirty": true
 	},
 	{
-		"prefix": "t2",
+		"prefix": "t3",
 		"id": "35b9053e-eab5-4b45-a6a3-fa5b84c8e711",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "het schatten van een te betalen bedrag bij aankopen."
+		"description": "schatten van een te betalen bedrag bij aankopen.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -46569,9 +46694,10 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "het kiezen van de juiste eenheid bij een grootheid."
+		"description": "gebruiken van voorvoegsels bij eenheden in andere vakken.",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
@@ -46579,9 +46705,10 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "het kiezen van een passend voorvoegsel bij de eenheid."
+		"description": "het kiezen van een passend voorvoegsel bij de eenheid.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -46589,9 +46716,10 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "het schatten van afstanden, oppervlaktes en grootte van hoeken."
+		"description": "het schatten van afstanden, oppervlaktes en grootte van hoeken.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -46599,9 +46727,10 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "hier zie je een grafiek over de temperatuur op een berg [met de hoogte op de horizontale as en de temperatuur op de verticale as]. Op welke hoogte is het 18°C?"
+		"description": "oplossen van problemen over omtrek, oppervlakte en inhoud met behulp van vergelijkingen.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -46609,9 +46738,10 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "als je snelheid verdubbelt wordt je remweg niet twee keer zo lang. Waar zou dat door kunnen komen?"
+		"description": "beschrijven waarvan de lengte van de remweg afhangt, gegeven vier grafieken die respectievelijk het verband met de lengte van de fietser, de snelheid van de fietser, de weersomstandigheden, en het gewicht van de fietser weergeven.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -46619,9 +46749,10 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "in een grafiek staat hoe warm het op een bepaalde dag was. Bepaal wanneer de temperatuur het snelst steeg: tussen 6:00 en 9:00 uur of tussen 9:00 en 12:00 uur?"
+		"description": "uitleggen hoe je in een grafiek ziet dat er iedere keer hetzelfde bijkomt of afgaat, of dat de grafiek alsmaar sneller of langzamer stijgt of daalt, of dat de grafiek zich alsmaar herhaalt.",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
@@ -46629,9 +46760,10 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "er komt iedere keer hetzelfde bij (of er gaat hetzelfde af); alsmaar sneller of langzamer stijgen of dalen; zich alsmaar herhalend."
+		"description": "er komt iedere keer hetzelfde bij (of er gaat hetzelfde af); alsmaar sneller of langzamer stijgen of dalen; zich alsmaar herhalend.",
+		"dirty": true
 	},
 	{
 		"prefix": "t3",
@@ -46639,9 +46771,10 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "in een figuur staat een grafiek die weergeeft hoe ver een sprinter op zijn reis van Zwolle naar Amersfoort gevorderd is. Bepaal hoe vaak de trein onderweg nog stopt."
+		"description": "in een figuur staat een grafiek die weergeeft hoe ver een sprinter op zijn reis van Zwolle naar Amersfoort gevorderd is. Bepaal hoe vaak de trein onderweg nog stopt.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -46649,19 +46782,21 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "je spaart iedere maand 75 euro. Geef dit weer in een tabel , grafiek of woordformule."
+		"description": "opstellen van een woordformule of grafiek die het opbranden van een cilindervormige kaars weergeeft;",
+		"dirty": true
 	},
 	{
-		"prefix": "t3",
+		"prefix": "t2",
 		"id": "62526efc-c00f-4758-bbac-e8dc68d8b5e6",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "een leerling heeft een socialmedia-account. Hij/zij heeft eerst 25 volgers. Hij/zij krijgt er iedere week 20 bij. Een woordformule luidt: aantal volgers = 25 + 20 × aantal weken."
+		"description": "opstellen van een tabel, woordformule of grafiek waarin je weergeeft dat je iedere maand 75 euro spaart.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -46669,9 +46804,10 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "uit de formule temperatuur = 30 - 0,01 × hoogte in meters volgt: hoe hoger je komt, hoe kouder het wordt. Geef een aantal voorbeelden waaruit dit blijkt."
+		"description": "geven van een aantal voorbeelden waaruit blijkt dat hoe hoger je komt, hoe kouder het wordt, gegeven de woordformule temperatuur = 30 - 0,01 x hoogte in meters.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -46679,9 +46815,10 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "het herkennen van een vooraanzicht van een gebouw."
+		"description": "maken van een schets van een indeling van een tuin.",
+		"dirty": true
 	},
 	{
 		"prefix": "t3",
@@ -46689,9 +46826,10 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "het kiezen van een uitslag bij een ruimtefiguur."
+		"description": "het kiezen van een uitslag bij een ruimtefiguur.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -46699,9 +46837,10 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "hoeveel vloertegels je nodig hebt wordt bepaald door de oppervlakte van een kamer."
+		"description": "herkennen en benoemen van een vooraanzicht van een gebouw;",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
@@ -46709,9 +46848,10 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "hoeveel water je nodig hebt om een zwembad te vullen wordt bepaald door de inhoud van het bad."
+		"description": "kiezen van een uitslag bij een ruimtefiguur;",
+		"dirty": true
 	},
 	{
 		"prefix": "t3",
@@ -46719,9 +46859,10 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "we treffen elkaar bij het cilindervormige kunstwerk op de hoek."
+		"description": "herkennen en benoemen van een rechthoekige driehoek in een concrete situatie.",
+		"dirty": true
 	},
 	{
 		"prefix": "t4",
@@ -46729,9 +46870,10 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "een ladder die tegen een muur staat vormt samen met de muur en de vloer een rechthoekige driehoek."
+		"description": "een ladder die tegen een muur staat vormt samen met de muur en de vloer een rechthoekige driehoek.",
+		"dirty": true
 	},
 	{
 		"prefix": "t5",
@@ -46739,9 +46881,10 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "het patroon op je vest is symmetrisch."
+		"description": "het patroon op je vest is symmetrisch.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -46749,9 +46892,10 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "uitleggen wat het verschil is tussen verschillende meetkundige figuren."
+		"description": "inschatten van de grootte van de hoek om te bepalen welk getal je van de geodriehoek afleest.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -46759,9 +46903,10 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "grafische weergaven van datasets tekenen met behulp van een spreadsheetprogramma."
+		"description": "gebruiken en beoordelen van wiskundige informatie uit de samenleving en de media bij het vormen van een mening;",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
@@ -46769,9 +46914,10 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "een eenvoudig kansexperiment uitvoeren met behulp van een spreadsheetprogramma."
+		"description": "(schattend) rekenen in alledaagse situaties;",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -46779,9 +46925,10 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "(schattend) rekenen in alledaagse situaties."
+		"description": "(schattend) rekenen in alledaagse situaties.",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
@@ -46789,9 +46936,10 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "misleidende weergaven van kwantitatieve informatie identificeren en beredeneren wat het voordeel van de misleider kan zijn."
+		"description": "misleidende weergaven van kwantitatieve informatie identificeren en beredeneren wat het voordeel van de misleider kan zijn.",
+		"dirty": true
 	},
 	{
 		"prefix": "t3",
@@ -46799,9 +46947,10 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "onjuiste redeneringen weerleggen en/of corrigeren."
+		"description": "onjuiste redeneringen weerleggen en/of corrigeren.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -46809,9 +46958,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "1,1³ = 1,331."
+		"description": "1,1³ = 1,331.",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
@@ -46819,9 +46969,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "√25 = 5"
+		"description": "√25 = 5",
+		"dirty": true
 	},
 	{
 		"prefix": "t3",
@@ -46829,9 +46980,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "1/4 + 2/3 = 3/12 + 8/12 = 11/12"
+		"description": "1/4 + 2/3 = 3/12 + 8/12 = 11/12",
+		"dirty": true
 	},
 	{
 		"prefix": "t4",
@@ -46839,9 +46991,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "1/3 × 1/4 = 1/12"
+		"description": "1/3 × 1/4 = 1/12",
+		"dirty": true
 	},
 	{
 		"prefix": "t5",
@@ -46849,9 +47002,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "2,4 × 109  = 2.400.000.000."
+		"description": "2,4 × 109  = 2.400.000.000.",
+		"dirty": true
 	},
 	{
 		"prefix": "t6",
@@ -46859,9 +47013,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "3.650.000 = 3,65 × 106."
+		"description": "3.650.000 = 3,65 × 106.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -46869,9 +47024,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "twee van de zeven bezoekers."
+		"description": "twee van de zeven bezoekers.",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
@@ -46879,9 +47035,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "twee delen ranja op vijf delen water."
+		"description": "twee delen ranja op vijf delen water.",
+		"dirty": true
 	},
 	{
 		"prefix": "t3",
@@ -46889,9 +47046,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "ruim 28% van de bezoekers."
+		"description": "ruim 28% van de bezoekers.",
+		"dirty": true
 	},
 	{
 		"prefix": "t4",
@@ -46899,9 +47057,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "1/8 deel van de bezoekers."
+		"description": "1/8 deel van de bezoekers.",
+		"dirty": true
 	},
 	{
 		"prefix": "t5",
@@ -46909,9 +47068,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "1 : 200.000"
+		"description": "1 : 200.000",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -46919,9 +47079,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "de hoeveelheid ingrediënten van een gerecht staat in verhouding tot het aantal personen voor wie het gerecht bereid wordt, maar de kooktijd niet."
+		"description": "herkennen en beschrijven van verschijningsvormen van verhoudingen in recepten, prijs per eenheid, snelheid en kans;",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
@@ -46929,9 +47090,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "je betaalt aan afvalstoffenheffing een vast bedrag per jaar + een bedrag per afvalzak. De buurman verbruikt twee keer zoveel afvalzakken als jij. Moet hij ook twee keer zoveel betalen?"
+		"description": "herkennen en beschrijven van verschijningsvormen van procenten zoals rente en korting;",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -46939,9 +47101,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "uitleggen wat het lijntje onder een digitale kaart betekent."
+		"description": "uitleggen wat het lijntje onder een digitale kaart betekent.",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
@@ -46949,9 +47112,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "op jouw school zijn er meer 1e-jaars leerlingen lid van een sportclub dan 3e-jaars leerlingen, maar in verhouding zijn er meer 3e-jaars lid van een sportclub dan 1e-jaars. Hieruit mag je concluderen dat 3e-jaars sportiever zijn dan 1e-jaars."
+		"description": "op jouw school zijn er meer 1e-jaars leerlingen lid van een sportclub dan 3e-jaars leerlingen, maar in verhouding zijn er meer 3e-jaars lid van een sportclub dan 1e-jaars. Hieruit mag je concluderen dat 3e-jaars sportiever zijn dan 1e-jaars.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -46959,9 +47123,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "voor een gerecht voor vier personen heb je een bepaalde hoeveelheid suiker nodig. Als je dit gerecht voor tien personen moet maken, heb je 2,5 keer zoveel suiker nodig. De verhoudingsfactor in deze situatie is 2,5."
+		"description": "voor een gerecht voor vier personen heb je een bepaalde hoeveelheid suiker nodig. Als je dit gerecht voor tien personen moet maken, heb je 2,5 keer zoveel suiker nodig. De verhoudingsfactor in deze situatie is 2,5.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -46969,9 +47134,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "het benaderen van de hoogte van objecten m.b.v. referentiematen."
+		"description": "benaderen van de hoogte van een object met behulp van referentiematen;",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
@@ -46979,9 +47145,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "het schatten van een te betalen bedrag bij aankopen."
+		"description": "benaderen van de bevolkingsdichtheid van Nederland;",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -46989,9 +47156,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "het kiezen van de juiste eenheid bij een grootheid."
+		"description": "benoemen en gebruiken van het dollarteken ($) en het pondteken (£);",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
@@ -46999,9 +47167,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "het kiezen van een passend voorvoegsel bij de eenheid."
+		"description": "gebruiken van voorvoegsels bij eenheden in andere vakken.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -47009,9 +47178,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "het schatten van afstanden, oppervlaktes en grootte van hoeken."
+		"description": "het schatten van afstanden, oppervlaktes en grootte van hoeken.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -47019,9 +47189,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "hier zie je een grafiek over de temperatuur op een berg [met de hoogte op de horizontale as en de temperatuur op de verticale as]. Het dal ligt op 400 meter hoogte. Hoeveel meter moet je vanuit het dal klimmen om een plek met een temperatuur van 18°C te bereiken?"
+		"description": "oplossen van problemen over omtrek, oppervlakte en inhoud met behulp van vergelijkingen.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -47029,9 +47200,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "als je snelheid verdubbelt wordt je remweg niet twee keer zo lang. Waar zou dat door kunnen komen?"
+		"description": "beschrijven waarvan de lengte van de remweg afhangt, gegeven vier grafieken die respectievelijk het verband met de lengte van de fietser, de snelheid van de fietser, de weersomstandigheden, en het gewicht van de fietser weergeven;",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -47039,9 +47211,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "in een grafiek staat hoe warm het op een bepaalde dag was. Bepaal wanneer de temperatuur het snelst steeg: tussen 6:00 en 9:00 uur of tussen 9:00 en 12:00 uur?"
+		"description": "uitleggen hoe je in een grafiek ziet dat er iedere keer hetzelfde bijkomt of afgaat, of dat de grafiek alsmaar sneller of langzamer stijgt of daalt, of dat de grafiek zich alsmaar herhaalt",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
@@ -47049,9 +47222,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "er komt iedere keer hetzelfde bij (of er gaat hetzelfde af); alsmaar sneller of langzamer stijgen of dalen; zich alsmaar herhalend."
+		"description": "er komt iedere keer hetzelfde bij (of er gaat hetzelfde af); alsmaar sneller of langzamer stijgen of dalen; zich alsmaar herhalend.",
+		"dirty": true
 	},
 	{
 		"prefix": "t3",
@@ -47059,9 +47233,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "in een figuur staat een grafiek die weergeeft hoe ver een sprinter op zijn reis van Zwolle naar Amersfoort gevorderd is. Bepaal welke grafiek bij de intercitytrein hoort en welke bij de sprinter."
+		"description": "in een figuur staat een grafiek die weergeeft hoe ver een sprinter op zijn reis van Zwolle naar Amersfoort gevorderd is. Bepaal welke grafiek bij de intercitytrein hoort en welke bij de sprinter.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -47069,9 +47244,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "een leerling heeft een socialmedia-account. Hij/zij heeft eerst 25 volgers. Hij/zij krijgt er iedere week 20 bij. Een formule luidt: v = 25 + 20 × w."
+		"description": "opstellen van een formule of grafiek die het opbranden van een cilindervormige kaars weergeeft;",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
@@ -47079,9 +47255,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "je vermogen van € 700 groeit jaarlijks met 3% ten opzichte van een jaar eerder. Maak een formule waaruit je de hoogte van je vermogen in een bepaald jaar kunt berekenen."
+		"description": "opstellen van een tabel, formule of grafiek waarin je weergeeft dat je iedere maand 75 euro spaart",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -47089,9 +47266,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "uit de grafiek die de temperatuur geeft op een bepaalde hoogte kun je afleiden dat deze met 1°C per 100 meter daalt. Laat dit zien aan de hand van deze grafiek."
+		"description": "redeneren over het gedrag van een lineair verband wanneer het startgetal verdubbelt of twee groter wordt;",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -47099,9 +47277,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "het herkennen van een vooraanzicht van een gebouw."
+		"description": "maken van een schets van een indeling van een tuin;",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
@@ -47109,9 +47288,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "het tekenen van een uitslag van een piramide."
+		"description": "maken van een bouwtekening van een te bouwen huis met behulp van ICT.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -47119,9 +47299,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "hoeveel hoeveel verf je nodig hebt om een muur te schilderen wordt bepaald door de oppervlakte van de muur."
+		"description": "herkennen en benoemen van een vooraanzicht van een gebouw;",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
@@ -47129,9 +47310,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "hoeveel cv-radiatoren je in een kamer nodig hebt wordt bepaald door de inhoud van de kamer."
+		"description": "kiezen van een uitslag bij een ruimtefiguur;",
+		"dirty": true
 	},
 	{
 		"prefix": "t3",
@@ -47139,9 +47321,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "we treffen elkaar bij het cilindervormige kunstwerk op de hoek."
+		"description": "herkennen en benoemen van een rechthoekige driehoek in een situatie;",
+		"dirty": true
 	},
 	{
 		"prefix": "t4",
@@ -47149,9 +47332,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "een uitgeklapte keukentrap vormt een gelijkbenige driehoek."
+		"description": "beschrijven wat de invloed van hoogtelijnen is op de mate van stijgen tijdens een wandeling.",
+		"dirty": true
 	},
 	{
 		"prefix": "t5",
@@ -47159,9 +47343,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "het patroon op je vest is symmetrisch."
+		"description": "het patroon op je vest is symmetrisch.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -47169,9 +47354,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "het bepalen van een punt dat door coördinaten is weergegeven, ook niet-cartesische coördinaten, zoals vak P, rij 5, stoel 16."
+		"description": "het bepalen van een punt dat door coördinaten is weergegeven, ook niet-cartesische coördinaten, zoals vak P, rij 5, stoel 16.",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
@@ -47179,9 +47365,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "aangeven wat de invloed van hoogtelijnen is op de mate van stijgen tijdens een wandeling."
+		"description": "aangeven wat de invloed van hoogtelijnen is op de mate van stijgen tijdens een wandeling.",
+		"dirty": true
 	},
 	{
 		"prefix": "t3",
@@ -47189,9 +47376,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "aangeven wat de invloed van vergroten of verkleinen is op de omtrek van een figuur."
+		"description": "aangeven wat de invloed van vergroten of verkleinen is op de omtrek van een figuur.",
+		"dirty": true
 	},
 	{
 		"prefix": "t4",
@@ -47199,9 +47387,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "beschrijven waarom elk vierkant ook een rechthoek is."
+		"description": "beschrijven waarom elk vierkant ook een rechthoek is.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -47209,9 +47398,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "grafische weergaven van datasets tekenen met behulp van een spreadsheetprogramma."
+		"description": "grafische weergaven van datasets tekenen met behulp van een spreadsheetprogramma.",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
@@ -47219,9 +47409,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "een eenvoudig kansexperiment uitvoeren met behulp van een spreadsheetprogramma."
+		"description": "een eenvoudig kansexperiment uitvoeren met behulp van een spreadsheetprogramma.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -47229,9 +47420,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "(schattend) rekenen in alledaagse situaties."
+		"description": "(schattend) rekenen in alledaagse situaties.",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
@@ -47239,9 +47431,10 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "misleidende weergaven van kwantitatieve informatie identificeren en beredeneren wat het voordeel van de misleider kan zijn."
+		"description": "misleidende weergaven van kwantitatieve informatie identificeren en beredeneren wat het voordeel van de misleider kan zijn.",
+		"dirty": true
 	},
 	{
 		"prefix": "t3",
@@ -47249,669 +47442,802 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "onjuiste redeneringen weerleggen en/of corrigeren."
+		"description": "onjuiste redeneringen weerleggen en/of corrigeren.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
 		"id": "9939a582-cc32-4ce4-b65b-bb00cbeef660",
 		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "1,1³ = 1,331."
+		"description": "beschrijven van het aantal inwoners van Duitsland als ongeveer 84 miljoen;",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
 		"id": "dc3eb3b5-f811-44f5-b6c0-15f051b4ffd4",
 		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "√250.000 = 500"
+		"description": "het totaal van je aankopen is € 8,73 en je betaalt contant € 8,75;",
+		"dirty": true
 	},
 	{
 		"prefix": "t3",
 		"id": "ec19191c-b6ab-447a-b0bb-ed702d3730f3",
 		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "1/4 + 2/3 = 3/12 + 8/12 = 11/12"
+		"description": "interpreteren van de context of er naar boven of beneden situationeel afgerond moet worden.",
+		"dirty": true
 	},
 	{
 		"prefix": "t4",
 		"id": "f2eb898c-4b34-4853-aef5-4aa2705a17ce",
 		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "1/3 × 1/4 = 1/12"
+		"description": "1/3 × 1/4 = 1/12",
+		"dirty": true
 	},
 	{
 		"prefix": "t5",
 		"id": "fb376a43-237d-453e-bbd1-ddc04c5c2705",
 		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "2,4 × 109  = 2.400.000.000."
+		"description": "2,4 × 109  = 2.400.000.000.",
+		"dirty": true
 	},
 	{
 		"prefix": "t6",
 		"id": "9e39d389-1f51-449b-9d09-ac3fc1905fe1",
 		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "3.650.000 = 3,65 × 106."
+		"description": "3.650.000 = 3,65 × 106.",
+		"dirty": true
 	},
 	{
 		"prefix": "t7",
 		"id": "c6d73ecf-64ed-44b9-9808-42bc14e584ea",
 		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "0,012 = 1,2 x 10-2"
+		"description": "0,012 = 1,2 x 10-2",
+		"dirty": true
 	},
 	{
 		"prefix": "t8",
 		"id": "8623827a-73dd-4370-bfc5-d1ab8271e55d",
 		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "2,36 x 10-3 = 0,00236"
+		"description": "2,36 x 10-3 = 0,00236",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
 		"id": "eb2c3cab-9a6f-421c-87df-401c74e83aa0",
 		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "twee van de zeven bezoekers."
+		"description": "benoemen dat bij 10% groei een groeifactor van 1,1 hoort en bij een afname van 10% een groeifactor van 0,9.",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
 		"id": "772aa8b3-67cc-4939-a698-4d6d032f87f5",
 		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "twee delen ranja op vijf delen water."
+		"description": "twee delen ranja op vijf delen water.",
+		"dirty": true
 	},
 	{
 		"prefix": "t3",
 		"id": "0fe911f4-7cb1-438a-9ec2-9c9630b298fa",
 		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "op elke twee mannelijke bezoekers zijn er vijf vrouwelijke bezoekers."
+		"description": "op elke twee mannelijke bezoekers zijn er vijf vrouwelijke bezoekers.",
+		"dirty": true
 	},
 	{
 		"prefix": "t4",
 		"id": "b4509096-2c63-4e86-bf0f-a9db20c29ede",
 		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "twee staat tot vijf."
+		"description": "twee staat tot vijf.",
+		"dirty": true
 	},
 	{
 		"prefix": "t5",
 		"id": "e63cfd11-76ec-470a-8160-5f64cd8965a8",
 		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "ruim 28% van de bezoekers."
+		"description": "ruim 28% van de bezoekers.",
+		"dirty": true
 	},
 	{
 		"prefix": "t6",
 		"id": "0df1dd5c-3421-4bcb-987a-c3b8559bb833",
 		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "2/7 deel van de bezoekers."
+		"description": "2/7 deel van de bezoekers.",
+		"dirty": true
 	},
 	{
 		"prefix": "t7",
 		"id": "3f5f089e-4207-4aa2-a831-1e36e71a21d0",
 		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "1 : 200.000"
+		"description": "1 : 200.000",
+		"dirty": true
 	},
 	{
 		"prefix": "t8",
 		"id": "33a9b0aa-7413-436d-8f40-1520411aacb3",
 		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "2 : 5"
+		"description": "0.08680555555555555",
+		"dirty": true
 	},
 	{
 		"prefix": "t9",
 		"id": "767e61dc-d788-4a24-8c32-34614c661088",
 		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "10% groei komt overeen met een groeifactor van 1,1."
+		"description": "10% groei komt overeen met een groeifactor van 1,1.",
+		"dirty": true
 	},
 	{
 		"prefix": "t10",
 		"id": "9ff2aa48-81ef-44ca-8c0f-1afcec38661a",
 		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "10% afname komt overeen met een groeifactor van 0,9"
+		"description": "10% afname komt overeen met een groeifactor van 0,9",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
 		"id": "214bdce1-4faf-473a-93b3-66999cd227db",
 		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "de hoeveelheid ingrediënten van een gerecht staat in verhouding tot het aantal personen voor wie het gerecht bereid wordt, maar de kooktijd niet."
+		"description": "herkennen en beschrijven van verschijningsvormen van verhoudingen in recepten, prijs per eenheid, snelheid en kans;",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
 		"id": "7c256da1-6f45-47e0-a63b-cd6a5a5bd441",
 		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "je betaalt aan afvalstoffenheffing een vast bedrag per jaar + een bedrag per afvalzak. De buurman verbruikt twee keer zoveel afvalzakken als jij. Moet hij ook twee keer zoveel betalen?"
+		"description": "herkennen en beschrijven van verschijningsvormen van procenten zoals rente en korting;",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
 		"id": "ad554c55-6a3b-4502-ab04-5de6c92d0343",
 		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "uitleggen wat het lijntje onder een digitale kaart betekent."
+		"description": "uitleggen wat het lijntje onder een digitale kaart betekent.",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
 		"id": "b18c830f-6f9b-4cb8-af65-ac25654c5e0a",
 		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "in een zak snoepjes zijn er op elk groen snoepje twee rode snoepjes. Welk deel van de zak bestaat uit rode snoepjes?"
+		"description": "in een zak snoepjes zijn er op elk groen snoepje twee rode snoepjes. Welk deel van de zak bestaat uit rode snoepjes?",
+		"dirty": true
 	},
 	{
 		"prefix": "t3",
 		"id": "4222e11c-404e-461b-9ddc-ef3721b7bb5e",
 		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "op jouw school zijn er meer 1e-jaars leerlingen lid van een sportclub dan 3e-jaars leerlingen, maar in verhouding zijn er meer 3e-jaars lid van een sportclub dan 1e-jaars. Hieruit mag je concluderen dat 3e-jaars sportiever zijn dan 1e-jaars."
+		"description": "op jouw school zijn er meer 1e-jaars leerlingen lid van een sportclub dan 3e-jaars leerlingen, maar in verhouding zijn er meer 3e-jaars lid van een sportclub dan 1e-jaars. Hieruit mag je concluderen dat 3e-jaars sportiever zijn dan 1e-jaars.",
+		"dirty": true
 	},
 	{
 		"prefix": "t4",
 		"id": "a21cb8d0-d1e2-4350-a805-b09739831a7d",
 		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "stel dat het aantal auto's : het aantal fietsen = 2 : 3. Leg uit dat je hieruit kunt afleiden dat drie maal het aantal auto's gelijk is aan twee maal het aantal fietsen."
+		"description": "stel dat het aantal auto's : het aantal fietsen = 2 : 3. Leg uit dat je hieruit kunt afleiden dat drie maal het aantal auto's gelijk is aan twee maal het aantal fietsen.",
+		"dirty": true
 	},
 	{
 		"prefix": "t5",
 		"id": "60b3be71-5285-4bfb-8db0-35635b09e246",
 		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "je krijgt 35% korting plus nog eens 10% kassakorting. Maakt het uit in welke volgorde je deze kortingen berekent?"
+		"description": "je krijgt 35% korting plus nog eens 10% kassakorting. Maakt het uit in welke volgorde je deze kortingen berekent?",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
 		"id": "a8a95305-0b23-49b2-891a-d746ea9f8eb3",
 		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "voor een gerecht voor vier personen heb je een bepaalde hoeveelheid suiker nodig. Als je dit gerecht voor tien personen moet maken, heb je 2,5 keer zoveel suiker nodig. De verhoudingsfactor in deze situatie is 2,5."
+		"description": "voor een gerecht voor vier personen heb je een bepaalde hoeveelheid suiker nodig. Als je dit gerecht voor tien personen moet maken, heb je 2,5 keer zoveel suiker nodig. De verhoudingsfactor in deze situatie is 2,5.",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
 		"id": "28bca1c3-3b7b-4cea-a4a7-43baabb6c0ad",
 		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "een formule, zoals s = 2,5 x p."
+		"description": "een formule, zoals s = 2,5 x p.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
 		"id": "37746122-0e3c-41ad-9538-86a5df96a18c",
 		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "aantonen dat geen BTW betalen niet gelijk is aan het krijgen van 21% korting."
+		"description": "beredeneren wat er gebeurt met de prijs na een prijsverhoging van 10% gevolgd door een prijsdaling van 10%;",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
 		"id": "4bdf36dc-ff0e-4792-86e6-da21597228ac",
 		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "het benaderen van de hoogte van objecten m.b.v. referentiematen."
+		"description": "benaderen van de hoogte van object met behulp van referentiematen;",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
 		"id": "ac26a44b-1463-46e1-abdd-7d6396f3dbd4",
 		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "het schatten van een te betalen bedrag bij aankopen."
+		"description": "benaderen van de bevolkingsdichtheid van Nederland;",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
 		"id": "0bceef76-1a46-49ee-a506-a2502a4759bd",
 		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "het kiezen van de juiste eenheid bij een grootheid."
+		"description": "benoemen en gebruiken van het dollarteken ($) en het pondteken (£);",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
 		"id": "7c4f2cb4-55f7-4f7b-ba6c-5312eb07f765",
 		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "het kiezen van een passend voorvoegsel bij de eenheid."
+		"description": "gebruiken van voorvoegsels bij eenheden in andere vakken.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
 		"id": "e43fd220-94e6-4a5c-a174-acea4060b1b6",
 		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "berekenen van een omrekenfactor bij vreemde valuta."
+		"description": "uitleggen wat de omrekenfactor bij rekenen met vreemde valuta betekent;",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
 		"id": "f4e84b50-1422-4cb1-ac46-67bde87c3b61",
 		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "een schuifmaat of een lasermeter."
+		"description": "gebruiken van een liniaal, meetlint of rolmaat, maatbeker, klok, stopwatch, kilometerteller, weegschaal of thermometer;",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
 		"id": "c9423e5d-4d54-420b-bd50-1aeefed3e526",
 		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "het schatten van afstanden, oppervlaktes en grootte van hoeken."
+		"description": "het schatten van afstanden, oppervlaktes en grootte van hoeken.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
 		"id": "5be61560-3a6b-43b7-a71d-8e71bc2e544c",
 		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "de temperatuur op een berg wordt onder andere bepaald door hoe hoog de plek ligt. Je ziet de grafiek van vandaag en de grafiek van gisteren. Hoe warm was het gisteren op de plek waar het vandaag 18°C is?"
+		"description": "oplossen van problemen over omtrek, oppervlakte en inhoud met behulp van vergelijkingen.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
 		"id": "a70d03cc-7157-4298-870c-7b5bf4034553",
 		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "als je snelheid verdubbelt wordt je remweg niet twee keer zo lang. Waar zou dat door kunnen komen?"
+		"description": "beschrijven waarvan de lengte van de remweg afhangt, gegeven vier grafieken die respectievelijk het verband met de lengte van de fietser, de snelheid van de fietser, de weersomstandigheden, en het gewicht van de fietser weergeven;",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
 		"id": "5780b1e0-11d2-406d-8467-24b3e7938bb6",
 		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "in een grafiek staat hoe warm het op een bepaalde dag was. Bepaal wanneer de temperatuur het snelst steeg."
+		"description": "uitleggen hoe je in een grafiek ziet dat er iedere keer hetzelfde bijkomt of afgaat, of dat de grafiek alsmaar sneller of langzamer stijgt of daalt, of dat de grafiek zich alsmaar herhaalt;",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
 		"id": "9127e5a9-7fcc-4fb1-85e3-23d9c7d2a662",
 		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "er komt iedere keer hetzelfde bij (of er gaat hetzelfde af); alsmaar sneller of langzamer stijgen of dalen; zich alsmaar herhalend."
+		"description": "uitleggen dat de grafiek van dit verband daalt naar een grenswaarde, maar die nooit bereikt.",
+		"dirty": true
 	},
 	{
 		"prefix": "t3",
 		"id": "15e69a70-330e-4d5b-847a-b0d99bbb1416",
 		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "dit verband daalt naar een grenswaarde, maar bereikt die nooit."
+		"description": "dit verband daalt naar een grenswaarde, maar bereikt die nooit.",
+		"dirty": true
 	},
 	{
 		"prefix": "t4",
 		"id": "811124c3-ec61-45c1-b926-1b279149b16d",
 		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "in een figuur staat een grafiek die weergeeft hoe ver een intercitytrein die onderweg nergens stopt,  op zijn reis van Zwolle naar Amersfoort gevorderd is. In dit treintraject zit een scherpe bocht waar de trein langzamer moet rijden. Bepaal hoe ver die bocht zich van Zwolle bevindt."
+		"description": "in een figuur staat een grafiek die weergeeft hoe ver een intercitytrein die onderweg nergens stopt,  op zijn reis van Zwolle naar Amersfoort gevorderd is. In dit treintraject zit een scherpe bocht waar de trein langzamer moet rijden. Bepaal hoe ver die bocht zich van Zwolle bevindt.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
 		"id": "21f0762c-72ea-43af-8d68-61b771799bda",
 		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "een leerling heeft een socialmedia-account. Hij/zij heeft eerst 25 volgers. Hij/zij krijgt er iedere week 20 bij: y = 25 + 20x met x = aantal weken en y = aantal volgers."
+		"description": "opstellen van een formule of grafiek die het opbranden van een cilindervormige kaars weergeeft;",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
 		"id": "ee91c722-e190-4498-aa94-0801dd41c78c",
 		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "je vermogen van € 700 groeit jaarlijks met 3% ten opzichte van een jaar eerder. Maak een formule waaruit je de hoogte van je vermogen in een bepaald jaar kunt berekenen."
+		"description": "opstellen van een tabel, formule of grafiek waarin je weergeeft dat je iedere maand 75 euro spaart",
+		"dirty": true
 	},
 	{
 		"prefix": "t3",
 		"id": "6510fe4c-e51c-4dd5-96ec-5c523b90249b",
 		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "je leent bij je opa 450 euro en je betaalt iedere maand 25 euro terug. Maak een tabel of grafiek voor de hoogte van je schuld."
+		"description": "je leent bij je opa 450 euro en je betaalt iedere maand 25 euro terug. Maak een tabel of grafiek voor de hoogte van je schuld.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
 		"id": "1f30a35d-a653-4ab0-9b2c-b8b0f25b832b",
 		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "uit de formule T = 30 – h, waarbij h de hoogte in eenheden van 100 meter is, kun je afleiden dat de deze met 1°C per 100 meter daalt. Laat dit zien aan de hand van deze formule."
+		"description": "redeneren over het gedrag van een lineair verband wanneer het startgetal verdubbelt of twee groter wordt;",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
 		"id": "81c438be-64c8-41b1-abf4-0882866a0a77",
 		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "het tekenen van het beeld van een driehoek die over een bepaalde hoek gedraaid is om een punt binnen die driehoek."
+		"description": "gebruiken van koershoekmeter om een plek te bepalen;",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
 		"id": "8fd04513-42a6-46e7-8496-b6631fb28e61",
 		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "het tekenen van een bovenaanzicht van een bestaand gebouw."
+		"description": "maken van een schets van een indeling van een tuin;",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
 		"id": "3aadbaea-5b97-457c-b044-3401eb8bb393",
 		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "het tekenen van twee verschillende uitslagen van een meetkundige ruimtefiguur."
+		"description": "tekenen van twee verschillende uitslagen van een meetkundige ruimtefiguur.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
 		"id": "e499854f-e68a-447a-9e29-e9fd970e11bf",
 		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "hoe snel je het in zee koud krijgt, wordt onder meer bepaald door de oppervlakte van je lichaam."
+		"description": "herkennen en benoemen van een vooraanzicht van een gebouw;",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
 		"id": "f3664b3e-0fcb-4504-87a3-6212201b790a",
 		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "we treffen elkaar bij het cilindervormige kunstwerk op de hoek."
+		"description": "kiezen van een uitslag bij een ruimtefiguur;",
+		"dirty": true
 	},
 	{
 		"prefix": "t3",
 		"id": "24bcd877-1da3-4657-93a2-cca089aed0b5",
 		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "een boorgat vormt een cilinder."
+		"description": "herkennen en benoemen van een rechthoekige driehoek in een situatie;",
+		"dirty": true
 	},
 	{
 		"prefix": "t4",
 		"id": "159aa880-4ab4-48c1-98bc-46367bebfe33",
 		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "het patroon op je vest is symmetrisch."
+		"description": "beschrijven wat de invloed van hoogtelijnen is op de mate van stijgen tijdens een wandeling.",
+		"dirty": true
 	},
 	{
 		"prefix": "t5",
 		"id": "118880c9-fb60-464e-a7fd-368e12398136",
 		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "als je dit patroon 90° draait, krijg je hetzelfde patroon te zien."
+		"description": "als je dit patroon 90° draait, krijg je hetzelfde patroon te zien.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
 		"id": "e9b0eb4f-1cf3-43c3-a17b-1a3c602267d4",
 		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "het bepalen van een punt dat door coördinaten is weergegeven, ook niet-cartesische coördinaten, zoals vak P, rij 5, stoel 16."
+		"description": "het bepalen van een punt dat door coördinaten is weergegeven, ook niet-cartesische coördinaten, zoals vak P, rij 5, stoel 16.",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
 		"id": "ab23dae5-515b-4eb8-b330-1274d39fe127",
 		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "aangeven wat de invloed van hoogtelijnen is op de mate van stijgen tijdens een wandeling."
+		"description": "aangeven wat de invloed van hoogtelijnen is op de mate van stijgen tijdens een wandeling.",
+		"dirty": true
 	},
 	{
 		"prefix": "t3",
 		"id": "f417801d-70cf-4bb0-8b02-39d7179242c3",
 		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "aangeven wat de invloed van vergroten of verkleinen is op de omtrek, oppervlakte en inhoud van een figuur."
+		"description": "aangeven wat de invloed van vergroten of verkleinen is op de omtrek, oppervlakte en inhoud van een figuur.",
+		"dirty": true
 	},
 	{
 		"prefix": "t4",
 		"id": "08087e31-b57e-40bb-9b7e-67afff01966a",
 		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "beschrijven waarom bijvoorbeeld vierkanten parallellogrammen zijn."
+		"description": "beschrijven waarom bijvoorbeeld vierkanten parallellogrammen zijn.",
+		"dirty": true
 	},
 	{
 		"prefix": "t5",
 		"id": "3ef963ae-128b-4db5-a422-3fb19ffd519e",
 		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "aangeven of figuren draaisymmetrisch en/of lijnsymmetrisch zijn; draaihoek en aantal symmetrieassen aangeven."
+		"description": "aangeven of figuren draaisymmetrisch en/of lijnsymmetrisch zijn; draaihoek en aantal symmetrieassen aangeven.",
+		"dirty": true
 	},
 	{
 		"prefix": "t6",
 		"id": "8d3b6fc9-0db9-42fe-ad87-f28118d88926",
 		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "leg uit dat een cirkel oneindig veel symmetrieassen heeft en draaisymmetrisch is over elke hoek."
+		"description": "leg uit dat een cirkel oneindig veel symmetrieassen heeft en draaisymmetrisch is over elke hoek.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
 		"id": "24bdde28-fd5d-4595-b4b1-b228ee7c042a",
 		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "aantonen dat het aantal ribben van een prisma gelijk is aan drie maal het aantal hoekpunten van het grondvlak."
+		"description": "uitleggen wat het verschil is tussen verschillende meetkundige figuren;",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
 		"id": "66187ecd-cc96-47b9-bee1-5dec484ff8ae",
 		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"status": "concept",
+		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "je kunt een kegel met water vullen. Laat zien dat er drie kegels water in een cilinder gaan met hetzelfde grondvlak en dezelfde hoogte als de kegel."
+		"description": "aantonen dat het aantal ribben van een prisma gelijk is aan drie maal het aantal hoekpunten van het grondvlak;",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
 		"id": "e05a6b69-a03e-4e17-b2b6-6cacf99829ce",
 		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "grafische weergaven van datasets tekenen met behulp van een spreadsheetprogramma."
+		"description": "grafische weergaven van datasets tekenen met behulp van een spreadsheetprogramma.",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
 		"id": "d06588dc-fb39-4061-971c-25d722b49ac1",
 		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "een eenvoudig kansexperiment uitvoeren met behulp van een spreadsheetprogramma."
+		"description": "een eenvoudig kansexperiment uitvoeren met behulp van een spreadsheetprogramma.",
+		"dirty": true
 	},
 	{
 		"prefix": "t1",
 		"id": "74827bf4-6aa5-42e2-9e8b-5d0f8f3aaa91",
 		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "(schattend) rekenen in alledaagse situaties."
+		"description": "(schattend) rekenen in alledaagse situaties.",
+		"dirty": true
 	},
 	{
 		"prefix": "t2",
 		"id": "20735803-a4f8-428d-94a9-a95bd62587a7",
 		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "misleidende weergaven van kwantitatieve informatie identificeren en beredeneren wat het voordeel van de misleider kan zijn."
+		"description": "misleidende weergaven van kwantitatieve informatie identificeren en beredeneren wat het voordeel van de misleider kan zijn.",
+		"dirty": true
 	},
 	{
 		"prefix": "t3",
 		"id": "1bb4465a-501e-4890-abab-73320efd381f",
 		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "onjuiste redeneringen weerleggen en/of corrigeren."
+		"description": "onjuiste redeneringen weerleggen en/of corrigeren.",
+		"dirty": true
 	},
 	{
 		"prefix": "t3",
@@ -101901,7 +102227,7 @@
 		],
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "leerlingen kiezen positie om\r\r\naangespeeld te kunnen worden of om een scoringskans te creëren.",
+		"description": "leerlingen kiezen positie om\r\r\r\naangespeeld te kunnen worden of om een scoringskans te creëren.",
 		"replaces": [
 			"720ee104-4c94-471c-acdb-b4bd39771736"
 		]
@@ -109038,6 +109364,2444 @@
 		"replaces": [
 			"943269dd-2ca0-4bda-a0ca-e94664fb56c7",
 			"480848fd-3531-4da6-8718-ff1d4ff23a76"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "een gestuurd onderzoek doen. Bijvoorbeeld: wie van je klasgenoten is het sportiefst? Vraag iedereen aan te geven hoeveel uur hij of zij wekelijks aan sport doet.",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "cbc324de-5861-4a53-b242-c86706740d13",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "wat zou je ervan vinden als in een onderzoek je klasgenoten gevraagd zou worden van hoeveel sportclubs ze lid zijn?",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "0bad54b0-8f50-4e40-bd7e-65e981ba4473",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "bij een gegeven temperatuurdiagram van juni, juli en augustus de vraag stellen hoeveel dagen het tropisch warm was.",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "2b21cb50-3d00-4239-8bce-80fcdefd1078",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "een kans van 1 op 5",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "2cc5f3f2-cd3e-4610-9870-0c5d1b73a27f",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "aan 20% kans.",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "072f7b71-3bce-486d-ac8f-5519c5d48910",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "wie heeft de grootste kans om een jaar ouder te worden: je oma van 79 jaar oud of jij?",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "d6f9a483-0dc3-4969-8e5c-28e019853676",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "een gestuurd onderzoek doen. Bijvoorbeeld: wie van je klasgenoten is het sportiefst? Vraag iedereen aan te geven hoeveel uur hij of zij wekelijks aan sport doet.",
+		"prefix": "t1",
+		"id": "d4eb3175-2651-4f5a-a1f4-4663026abde2",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "wat zou je ervan vinden als in een onderzoek je klasgenoten gevraagd zou worden van hoeveel sportclubs ze lid zijn?",
+		"prefix": "t2",
+		"id": "d0bdc5a6-2109-4501-b7c5-d6a6061a7dc9",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "de dagelijkse weergegevens in Nederland vanaf 1951 staan op de website van het KNMI. Welke gegevens kun je het beste gebruiken om klimaatverandering in Nederland in beeld brengen?",
+		"prefix": "t3",
+		"id": "2d28d2e2-102a-498a-bc69-41807e8f4292",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "bij een gegeven temperatuurdiagram van juni, juli en augustus de vraag stellen hoeveel dagen het zomers warm was, maar niet tropisch warm.",
+		"prefix": "t1",
+		"id": "bcda45f3-ffb1-4db8-bd90-f20357417815",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "je hebt drie wiskundeproefwerken van gelijke weging gemaakt en staat gemiddeld een 6,2. Welk cijfer moet je voor het vierde proefwerk halen om gemiddeld een 5,5 te staan?",
+		"prefix": "t2",
+		"id": "406560f7-1341-478a-b450-54a468329539",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "een kans van 1 op 8.",
+		"prefix": "t1",
+		"id": "129c8626-d9fa-4e0e-b134-9c5de2d0abfa",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "12,5% kans.",
+		"prefix": "t2",
+		"id": "d7968bcb-5735-4cb6-add3-5eb10cb7ed07",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "onderzoek heeft uitgewezen dat de jongens van jouw school gemiddeld veel meer tijd aan gamen besteden dan meisjes. Kun je nu van een willekeurige jongen op jouw school zeggen dat hij meer gamet dan alle meisjes op jouw school?",
+		"prefix": "t1",
+		"id": "cf552cc6-ed9a-4652-bda2-e4c637877266",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "het werd de afgelopen honderd jaar alsmaar warmer op aarde. Maar afgelopen jaar was het relatief koud. Is de opvatting dat de aarde opwarmt daarom eigenlijk onzin?",
+		"prefix": "t2",
+		"id": "02a229ab-dca2-4a93-ad4f-b923dcccfdc6",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "wie heeft de grootste kans om een jaar ouder te worden: je oma van 79 jaar oud of jij? Wie heeft de grootste kans om 80 jaar oud te worden?",
+		"prefix": "t1",
+		"id": "fe675493-edf2-43ee-97ff-5b0c82a724c5",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "een gestuurd onderzoek doen. Bijvoorbeeld: zijn klasgenoten van het platteland sportiever dan die uit de stad? Vraag iedereen aan te geven hoeveel uur hij of zij wekelijks aan sport doet en wat de postcode van zijn of haar woonadres is.",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "9a08b75c-bd57-4a47-8297-0549c9c8d80f",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "wat zou je ervan vinden als in een onderzoek je klasgenoten niet om hun postcode gevraagd zou worden, maar hoeveel kilometer ze van school af wonen?",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "1f86c9dc-91c0-41d3-b3ae-11c9bb08b161",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "de dagelijkse weergegevens in Nederland vanaf 1951 staan op de website van het KNMI. Welke gegevens kun je het beste gebruiken om klimaatverandering in Nederland in beeld brengen?",
+		"prefix": "t3",
+		"status": "definitief concept",
+		"id": "65d5228e-eaf4-4e81-bfbc-3d13c1baea27",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "bij een gegeven temperatuurdiagram van juni, juli en augustus de vraag stellen hoeveel hittegolven er zijn geweest.",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "2fe30d8a-1ccc-464f-8037-d429841aba00",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "voor het rapport moet je drie proefwerken maken. Je staat gemiddeld een 5,2 en mag één proefwerk herkansen. Met hoeveel punten moet je je cijfer voor een van de proefwerken verbeteren om een 5,5 op je rapport te staan?",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "886d41fd-f7fd-430a-ab57-e7151bd00f2a",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "een kans van 1 op 25.",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "2b5f52f9-5e68-410c-8830-726887d6f357",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "4% kans.",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "b9cd3305-1e15-42fa-83be-32cc26f25961",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "een kans van 1 op 8 is kleiner dan een kans van 1 op 4.",
+		"prefix": "t3",
+		"status": "definitief concept",
+		"id": "73ab4188-b99a-41bd-8658-1494b12e9853",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "een kans van 12,5% is kleiner dan een kans van 25%.",
+		"prefix": "t4",
+		"status": "definitief concept",
+		"id": "acc011ad-89a8-4196-a842-71dbacf13d7a",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "wie heeft de grootste kans om een jaar ouder te worden: je oma van 79 jaar oud of jij? Wie heeft de grootste kans om 80 jaar oud te worden?",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "00f1c98d-c0ed-47fc-8d69-f3ceb169fd8f",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "beschrijven van het aantal inwoners van Duitsland als ongeveer 84 miljoen;",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "85376b08-0ca2-47b3-9435-e48e244cd0cd",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "het totaal van je aankopen is € 8,73 en je betaalt contant € 8,75;",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "3f227606-3a50-4ad8-a0a4-23d4dd7b92a2",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "interpreteren van de context of er naar boven of beneden situationeel afgerond moet worden.",
+		"prefix": "t3",
+		"status": "definitief concept",
+		"id": "a6dd122e-33d1-426d-a92e-9bddb6c45bdc",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "uitvoeren van goniometrische berekeningen op een rekenmachine;",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "866a1693-b1bd-4004-bfb4-102792c6b6ab",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "uitvoeren van schaalberekeningen met gebruik van een rekenmachine;",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "e7caf8fc-412d-46f6-9908-628f22475a2b",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "worteltrekken van decimale getallen met behulp van een rekenmachine;",
+		"prefix": "t3",
+		"status": "definitief concept",
+		"id": "1ce0206a-b71d-42a9-8422-4e23f55a063a",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "uitrekenen van het gemiddelde van een aantal gegeven getallen met een rekenmachine of een ICT-pakket;",
+		"prefix": "t4",
+		"status": "definitief concept",
+		"id": "824ceae1-aee9-4b37-9d40-b1097e5fd685",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "kiezen van de juiste formule op een formulekaart.",
+		"prefix": "t5",
+		"status": "definitief concept",
+		"id": "bc35d026-f19b-4d66-9c91-dfc2efe505fa",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "oplossen van een probleem met korting, prijsstijging, rente of btw;",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "20d2c98b-b32a-4a63-b750-645f7a53edea",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "gebruiken van verhoudingen bij het voorbereiden van een gerecht voor meerdere personen;",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "24de0279-2eb8-4756-9f09-86700e5fcf14",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "bepalen wat in verhouding het goedkoopste is;",
+		"prefix": "t3",
+		"status": "definitief concept",
+		"id": "315389f9-a970-47a8-ab1d-598aff1c0b82",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "bepalen van de prijs van een aankoop als de prijs per eenheid bekend is",
+		"prefix": "t4",
+		"status": "definitief concept",
+		"id": "0a7aaee0-45c0-43cb-9582-c413987cee15",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "omrekenen tussen de werkelijke afstand en de afstand op de kaart gegeven een kaart of tekening met schaal.",
+		"prefix": "t5",
+		"status": "definitief concept",
+		"id": "28a020e2-cb22-4867-a7c5-f968e06cd4be",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "uitleggen wat de schaallijn onder een digitale kaart betekent.",
+		"prefix": "t3",
+		"status": "definitief concept",
+		"id": "91a229f9-8999-4a11-b68c-6f7ff148c65f",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "benaderen van een afstand die te voet of per fiets is afgelegd;",
+		"prefix": "t3",
+		"status": "definitief concept",
+		"id": "21e1869c-2bb8-49c2-a7c3-3bb6f669ff79",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "schatten van een te betalen bedrag bij aankopen.",
+		"prefix": "t4",
+		"status": "definitief concept",
+		"id": "8d96d837-3235-44a3-9d7e-582f269a94cc",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "omrekenen van mm naar m, maar niet van mm naar km.",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "8101a012-ee63-4d29-859a-a0b4219f8d69",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "uitleggen dat de hoeveelheid verf die je nodig hebt bij het schilderen van een muur bepaald wordt door de oppervlakte.",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "54b8fcc7-24ec-4993-b657-f1e100d0155a",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "gebruiken van een liniaal, meetlint of rolmaat, maatbeker, klok, stopwatch, kilometerteller, weegschaal of thermometer;",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "16625887-c0ea-4ed0-8e95-2d2505a79785",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "gebruiken van meetinstrumenten bij andere vakken;",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "e8d3d3ce-58b8-40c3-9544-98f57ccd5315",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "bepalen welke weegschaal passend is bij een meetsituatie.",
+		"prefix": "t3",
+		"status": "definitief concept",
+		"id": "d891bf5d-89c5-4622-b298-b9e83a02a672",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "beslissen welke vraag beantwoord kan worden met de gegeven data;",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "caa189c5-439c-40b6-99f1-61c4195cf965",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "beantwoorden van de vraag ‘Welke gegevens kun je het beste gebruiken om klimaatverandering in Nederland in beeld brengen?’ op basis van de weergegevens van Nederland vanaf 1951;",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "c585fd80-39c5-4ad3-a9b3-0c5b5596b0e7",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "bepalen hoeveel dagen het zomers warm, maar niet tropisch warm was bij gegeven weer- en temperatuurgegevens;",
+		"prefix": "t3",
+		"status": "definitief concept",
+		"id": "60a57dce-02ce-4ce4-8dd4-92bea4b225d3",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "bepalen welk cijfer minstens behaald moet worden voor een vierde proefwerk om een voldoende te staan, gegeven de cijfers van de eerste drie proefwerken.",
+		"prefix": "t4",
+		"status": "definitief concept",
+		"id": "fa28612e-1377-43b9-b1ea-dabd3bb2e5e9",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "kansen met elkaar vergelijken, zoals het vergelijken van de kans om juist te voorspellen bij het gooien met een dobbelsteen en een muntstuk;",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "7f037330-a771-4918-8a9c-9ecdb55e2447",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "beargumenteren dat de kans op het winnen van de loterij erg klein is.",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "679c8052-e758-4770-ae69-23fc6658d617",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "aflezen van staaf-, lijn- en cirkeldiagrammen;",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "7356e200-c18b-4981-9bfb-e9f2c545b565",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "aflezen van de tabel met de stand van een sportcompetitie.",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "50b5ea7a-7a8d-4048-a2fd-dcbdbe6be247",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "weergeven van de hoeveelheid zonneschijn en regenval door middel van een lijngrafiek en een staafdiagram in één figuur met twee verticale assen;",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "9b3a8f3d-12a4-45d5-aafe-07d8d73ce50d",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "weergeven welke vervoersmiddelen leerlingen uit de klas gebruiken om naar school te komen;",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "e76a40bc-aecc-4b05-8b93-11cc22e44c95",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "labelen van de categorieën van een diagram zoals bij een staaf- of cirkeldiagram;",
+		"prefix": "t3",
+		"status": "definitief concept",
+		"id": "d6842dea-2336-4c45-853a-a2be69eaec95",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "labelen van de assen.",
+		"prefix": "t4",
+		"status": "definitief concept",
+		"id": "d531c2aa-058f-491a-9ee7-224d477abe96",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "weergeven hoe groot de kans is dat je een prijs wint als je meedoet met één lot aan een loterij met honderd loten en één prijs.",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "9f05abf3-5cff-4fef-9fbb-2d48b0c4a2f6",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "kritisch beoordelen van een artikel uit de media waarin een diagram wordt gebruikt;",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "6d2db51b-e7b1-4617-a5ae-bb3e20cd6689",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "vergelijken van diagrammen met de inkomensverdeling van verschillende landen;",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "02641d66-a042-4906-b90d-bf9ca56abd69",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "uitleggen welke trend zichtbaar is bij lineaire, periodieke en exponentiële verbanden;",
+		"prefix": "t3",
+		"status": "definitief concept",
+		"id": "c8c3d289-6dc7-4364-914f-c6e93162e219",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "bepalen hoe vaak een trein nog stopt, gegeven een representatie in een OV-app;",
+		"prefix": "t4",
+		"status": "definitief concept",
+		"id": "5e9af0d4-79ee-43c9-a373-d40a4a8351b2",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "toelichten of het verhogen van alle proefwerkcijfers met één punt invloed heeft op het gemiddelde of de mediaan van de proefwerkcijfers.",
+		"prefix": "t5",
+		"status": "definitief concept",
+		"id": "3a60c96c-e532-4468-a30a-0af9b710ca0a",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "begrijpen dat bij een onderzoek de kans overeenkomt met de verhouding tussen het aantal gewenste uitkomsten en het totaal aantal uitkomsten;",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "23712121-fdc4-4480-adb0-16dd15007a3f",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "beredeneren hoe groot de kans is dat je voor de vierde keer een zes gooit als je al drie keer een zes hebt gegooid.",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "4516f4a8-1260-4f6f-939d-2ffedee1542a",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "gebruiken van de trend (zoals bij kwantitatieve informatie) om het verband te herkennen.",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "e6b11bd3-9159-4db5-b01a-349e51d313b4",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "redeneren over het gedrag van een lineair verband wanneer het hellingsgetal verdubbelt of twee groter wordt.",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "75961baa-f03c-4286-812b-a14d535298c0",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "oplossen van een probleem waarbij gelijkvormigheid en vergrotingsfactor een rol spelen;",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "0b79f0f1-169e-44a8-ab12-6ad6bd1a0155",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "oplossen van een probleem waarin de omtrek, oppervlakte of inhoud gegeven is en een ontbrekende maat van het meetkundig figuur bepaald moet worden;",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "dba6e9bb-5fbd-4626-8b76-f1b91de1de2c",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "berekenen van de omtrek, oppervlakte of inhoud van een samengesteld figuur;",
+		"prefix": "t3",
+		"status": "definitief concept",
+		"id": "96e3c7fc-1f8e-4f4b-866b-e40830cc5238",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "berekenen van de straal of diameter van een cirkel als een omtrek of oppervlakte gegeven is.",
+		"prefix": "t4",
+		"status": "definitief concept",
+		"id": "face406b-b2ef-4ae0-98ad-55860dc25362",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "bepalen van de kijklijnen zodat je niet geraakt wordt tijdens een lasergame;",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "c928bbd2-be5f-4849-a2b2-a73903dad34f",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "uitstippelen van een wandeling die ongeveer 3 km is.",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "04a9b41d-6007-47b5-aa8e-4cde60adee94",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "bepalen van een punt dat door coördinaten is weergegeven – ook niet-cartesische coördinaten – zoals vak P, rij 5, stoel 16.",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "b71d97d8-08b2-4b25-b430-dbfb731a500b",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "uitleggen wat het verschil is tussen verschillende meetkundige figuren;",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "c7ef7de4-c3f0-4db3-a008-8c77fbe2bac4",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "beschrijven waarom elk vierkant ook een rechthoek is",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "09f68526-fca4-41eb-bf93-4a0d4f1b93ce",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "inschatten van de grootte van de hoek om te bepalen welk getal je van de geodriehoek afleest.",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "d7f60aa1-abc1-421f-99ee-7d64b646e7b7",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "vragen stellen bij actuele situaties in de schoolomgeving en uit de media;",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "28af8bf6-6cab-4464-8ba9-8002ec6fd1bf",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "deelnemen aan de Kangoeroewedstrijd.",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "a39ade5f-547b-4fe3-9f72-ba77b96283a2",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "gebruiken van juiste en voor de doelgroep passende wiskundige representaties en dito wiskundetaal.",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "f380dde2-24d2-453e-b234-f08fa5596ae1",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "gebruiken en beoordelen van wiskundige informatie uit de samenleving en de media bij het vormen van een mening;",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "25689f68-5626-4f6f-b0ee-ef372b213960",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "(schattend) rekenen in alledaagse situaties;",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "68045ab4-aaf9-42a9-90fa-711af58954eb",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "gebruiken van procenten en verhoudingen bij economie, natuurkunde en scheikunde;",
+		"prefix": "t3",
+		"status": "definitief concept",
+		"id": "1aa74ca2-bd8a-43b6-8df3-35420c977f07",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "herkennen en gebruiken van voorvoegsels bij eenheden in andere vakken.",
+		"prefix": "t4",
+		"status": "definitief concept",
+		"id": "94e14124-5bfd-4775-ab05-0bbabbe9b85a",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "onderbouwen van een studiekeuze vanuit aandacht voor de eigen affiniteit met wiskunde en ervaringen opgedaan tijdens open dagen van onderwijsinstellingen, bedrijven of organisaties;",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "d6a7aaa6-f7be-4dfd-a0e0-1c0e57fdb0bc",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "onderzoeken van eigen kwaliteiten en motieven;",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "b1bee38c-dfc7-46cd-97b3-3301d18cdedd",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "onderzoeken door middel van een interview tijdens een stage op welke manier diverse beroepen wiskunde gebruiken.",
+		"prefix": "t3",
+		"status": "definitief concept",
+		"id": "3db30b04-8575-463d-baf9-6d8393ab0f8c",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "onderbouwen van een studiekeuze vanuit aandacht voor de eigen affiniteit met wiskunde en ervaringen opgedaan tijdens open dagen van onderwijsinstellingen, bedrijven of organisaties;",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "a610d394-2900-4f7b-ab79-4fd2e0b2b3d7",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "onderzoeken van eigen kwaliteiten en motieven;",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "5a3e48b3-cad0-42c8-9ae7-b5534806d0de",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "onderzoeken door middel van een interview tijdens een stage op welke manier diverse beroepen wiskunde gebruiken.",
+		"prefix": "t3",
+		"status": "definitief concept",
+		"id": "4787c175-faa9-4434-98c3-cfec8f53f296",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "beschrijven  van het aantal inwoners van Duitsland als ongeveer 84 miljoen;",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "9b5a77e6-d55a-4bc5-b858-d2363c1c6c07",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "het totaal van je aankopen is € 8,73 en je betaalt contant € 8,75;",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "e87ea547-d7bc-4a6e-a554-ecacfd38fbc5",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "interpreteren van de context of er naar boven of beneden situationeel afgerond moet worden.",
+		"prefix": "t3",
+		"status": "definitief concept",
+		"id": "5c85368c-06da-462c-8d5e-970e5fcb81e8",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "uitvoeren van schaalberekeningen met gebruik van een rekenmachine;",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "57a858e4-7e94-4b25-af9c-e2ad36bd6cb5",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "worteltrekken van decimale getallen met behulp van een rekenmachine;",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "fdc74db8-01f0-4ade-b637-d6096e94f19f",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "uitrekenen van het gemiddelde van een aantal gegeven getallen met een rekenmachine of een ICT-pakket;",
+		"prefix": "t3",
+		"status": "definitief concept",
+		"id": "03a2989e-2134-4ac1-b92c-d2cf6f255016",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "kiezen van de juiste formule op een formulekaart.",
+		"prefix": "t4",
+		"status": "definitief concept",
+		"id": "e3248a79-9e9e-4780-93a1-89857c6566ba",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "oplossen van een probleem met korting, prijsstijging, rente of btw;",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "6339e13a-934c-4379-bbd1-5c991a68308a",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "gebruiken van verhoudingen bij het voorbereiden van een gerecht voor meerdere personen;",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "a38d5736-b2bb-4aa9-8668-a93cfad0a799",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "bepalen wat in verhouding het goedkoopste is;",
+		"prefix": "t3",
+		"status": "definitief concept",
+		"id": "133ab7e8-9d71-4c9c-8cf3-76d3cd5fd9d3",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "bepalen van de prijs van een aankoop als de prijs per eenheid bekend is;",
+		"prefix": "t4",
+		"status": "definitief concept",
+		"id": "e216d7ac-9824-444c-86d0-e0462562a91d",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "bepalen van de werkelijke afstand tussen twee plaatsen als je een kaart met een schaallijn krijgt.",
+		"prefix": "t5",
+		"status": "definitief concept",
+		"id": "506cd4b3-6508-4688-be92-bb91a785af8a",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "herkennen en beschrijven van verschijningsvormen van verhoudingen in recepten, prijs per eenheid, snelheid en kans",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "9834e25e-6d1b-43b2-86cf-bd432e4196a0",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "herkennen en beschrijven van verschijningsvormen van procenten zoals rente en korting;",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "2c0830bc-3e95-446e-a342-748c0ed199b2",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "uitleggen wat de schaallijn onder een digitale kaart betekent.",
+		"prefix": "t3",
+		"status": "definitief concept",
+		"id": "cd8611e7-4e39-487d-bb71-3dcc960a9a64",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "benaderen van een afstand die te voet of per fiets is afgelegd;",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "39949631-e511-484f-97dd-31c929a96a3e",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "omrekenen van mm naar m, maar niet van mm naar km.",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "68baf42b-a12c-45aa-ae60-a4b19c6bbc16",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "uitleggen dat de hoeveelheid verf die je nodig hebt bij het schilderen van een muur bepaald wordt door de oppervlakte.",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "43006663-36c3-4d1e-9aad-7bad52648868",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "gebruiken van een liniaal, meetlint of rolmaat, maatbeker, klok, stopwatch, kilometerteller, weegschaal of thermometer;",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "850e815f-155f-4687-b289-534a2f897792",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "gebruiken van meetinstrumenten bij andere vakken;",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "4c65dc2e-ff71-440b-b431-7aee95f2fb7c",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "bepalen welke weegschaal passend is bij een meetsituatie.",
+		"prefix": "t3",
+		"status": "definitief concept",
+		"id": "e2e4ed82-fe1b-46c0-9ba8-e28422a0244d",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "beslissen welke vraag beantwoord kan worden met de gegeven data;",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "bf597b94-269d-47ba-a416-94fd51a9e490",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "beantwoorden van de vraag ‘Welke gegevens kun je het beste gebruiken om klimaatverandering in Nederland in beeld brengen?’ op basis van de weergegevens van Nederland vanaf 1951;",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "74dc3693-e269-4d37-bb1c-4b2c4c0cef91",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "bepalen hoeveel dagen het tropisch warm was bij een gegeven temperatuurdiagram;",
+		"prefix": "t3",
+		"status": "definitief concept",
+		"id": "b1b8baae-66e1-4c28-bb2f-aed9ca8f5531",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "bepalen welk cijfer minstens behaald moet worden voor een vierde proefwerk om een voldoende te staan, gegeven de cijfers van de eerste drie proefwerken.",
+		"prefix": "t4",
+		"status": "definitief concept",
+		"id": "38651d25-bb82-41e3-a1bb-be33dfe3b676",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "kansen met elkaar vergelijken, zoals het vergelijken van de kans om juist te voorspellen bij het gooien met een dobbelsteen en een muntstuk;",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "7fa6aa0c-1c3a-47ae-bbeb-e6f30610897a",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "beargumenteren dat de kans op het winnen van de loterij erg klein is.",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "ef6ea981-ff6c-42aa-8302-30e63005142c",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "aflezen van staaf-, lijn- en cirkeldiagrammen;",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "7e197709-f0a6-4dd0-a04e-c6ab9eb914af",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "aflezen van de tabel met de stand van een sportcompetitie.",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "4b516293-197c-4f42-9066-51dc44ccfa52",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "weergeven welke vervoersmiddelen leerlingen uit de klas gebruiken om naar school te komen;",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "8a5a1135-e7e6-4955-b230-063533fca562",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "labelen van de categorieën van een diagram zoals bij een staaf- of cirkeldiagram;",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "18ffbbcc-6a7f-42cb-9bbd-319435668d68",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "labelen van de assen.",
+		"prefix": "t3",
+		"status": "definitief concept",
+		"id": "3600b98b-ebcc-4cfa-bd21-4cecc9ee6607",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "weergeven hoe groot de kans is dat je een prijs wint als je meedoet met één lot aan een loterij met honderd loten en één prijs.",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "752b470f-b0c6-4d23-a7aa-4bd90ff1b071",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "kritisch beoordelen van een artikel uit de media waarin een diagram wordt gebruikt;",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "2fb558e5-0f9d-433a-ab1e-d6b470233c70",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "bepalen hoe vaak een trein nog stopt, gegeven een representatie in een OV-app.",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "e17bb8e2-1599-4e41-a2cc-14bf96046084",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "begrijpen dat bij een onderzoek de kans overeenkomt met de verhouding tussen het aantal gewenste uitkomsten en het totaal aantal uitkomsten;",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "0a3880e9-54f3-4740-a54b-debb19571739",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "beredeneren hoe groot de kans is dat je voor de vierde keer een zes gooit als je al drie keer een zes hebt gegooid.",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "8800a91e-3e85-4a83-89ac-61b5940ff6b7",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "berekenen van de omtrek, oppervlakte of inhoud van een samengesteld figuur.",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "c9ffc59a-2061-4318-9937-6a15109d9354",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "bepalen van de kijklijnen zodat je niet geraakt wordt tijdens een lasergame;",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "178efc55-3d96-4573-8529-a9a857285555",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "uitstippelen van een wandeling die ongeveer 3 km is.",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "2b8c2c54-9f4c-4835-8d24-1531d338a700",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "bepalen van een punt dat door coördinaten is weergegeven – ook niet-cartesische coördinaten – zoals vak P, rij 5, stoel 16.",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "e529ba23-4bc8-42aa-bfe3-e652b896896f",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "uitleggen wat het verschil is tussen verschillende meetkundige figuren.",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "e422da08-7ba6-4e60-ab7c-7d90d36dc8a2",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "vragen stellen bij actuele situaties in de schoolomgeving en uit de media;",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "42f0e686-d791-4c95-8618-e6504f062e22",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "deelnemen aan de Kangoeroewedstrijd.",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "05aa7eea-f10b-45a5-a29d-3043b6a3c255",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "gebruiken van juiste en voor de doelgroep passende wiskundige representaties en dito wiskundetaal.",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "bae62a16-93b9-4bc1-9af0-f0da14d6cf1c",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "gebruiken van procenten en verhoudingen bij economie, natuurkunde en scheikunde;",
+		"prefix": "t3",
+		"status": "definitief concept",
+		"id": "550512e0-ddf5-4d3d-898a-925d9b1038d8",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "herkennen en gebruiken van voorvoegsels bij eenheden in andere vakken.",
+		"prefix": "t4",
+		"status": "definitief concept",
+		"id": "9c82f58c-47e4-418b-a20c-8abef7a47f92",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "onderbouwen van een studiekeuze vanuit aandacht voor de eigen affiniteit met wiskunde en ervaringen opgedaan tijdens open dagen van onderwijsinstellingen, bedrijven of organisaties;",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "7f1a8498-c1f5-4383-8295-d379a124e474",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "onderzoeken van eigen kwaliteiten en motieven;",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "9efb8745-6e25-4e31-8ab1-a587f8a5030c",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "onderzoeken door middel van een interview tijdens een stage op welke manier diverse beroepen wiskunde gebruiken.",
+		"prefix": "t3",
+		"status": "definitief concept",
+		"id": "5dca56ee-e53b-4fd1-a961-6cbf24e82788",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "uitvoeren van goniometrische berekeningen op een rekenmachine;",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "b91ad55e-f855-4deb-92c3-348dd3df8c1f",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "uitvoeren van schaalberekeningen met gebruik van een rekenmachine;",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "4bb99c5c-2280-4f85-a57a-ba15c2635fe5",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "worteltrekken van decimale getallen met behulp van een rekenmachine;",
+		"prefix": "t3",
+		"status": "definitief concept",
+		"id": "ee10f2bf-cf14-46fa-86c5-920c565b74f7",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "uitrekenen van het gemiddelde van een aantal gegeven getallen met een rekenmachine of een ICT-pakket;",
+		"prefix": "t4",
+		"status": "definitief concept",
+		"id": "261197f1-5c0a-474a-b2df-814df763972b",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "kiezen van de juiste formule op een formulekaart.",
+		"prefix": "t5",
+		"status": "definitief concept",
+		"id": "a05a9b00-e665-4b15-99c4-094045b752f7",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "oplossen van een probleem met korting, prijsstijging, rente of btw;",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "2c7addb2-da0d-4ecc-80ca-3f9dff346c8e",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "gebruiken van verhoudingen bij het voorbereiden van een gerecht voor meerdere personen;",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "6ed9288f-f565-4e24-8292-46ba67aeb206",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "bepalen wat in verhouding het goedkoopste is;",
+		"prefix": "t3",
+		"status": "definitief concept",
+		"id": "e731bb6f-4667-4c9b-843f-f2d568ef5958",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "bepalen van de prijs van een aankoop als de prijs per eenheid bekend is",
+		"prefix": "t4",
+		"status": "definitief concept",
+		"id": "f5379601-8183-4e09-9744-640ced4b79d0",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "omrekenen tussen de werkelijke afstand en de afstand op de kaart gegeven een kaart of tekening met schaal;",
+		"prefix": "t5",
+		"status": "definitief concept",
+		"id": "f4031fba-03bd-4c44-b15d-03469344adc3",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "bepalen van de schaal van een maquette, kaart of tekening.",
+		"prefix": "t6",
+		"status": "definitief concept",
+		"id": "5a9d6e98-f9f2-4731-9ff1-55fe869d8292",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "uitleggen wat de schaallijn onder een digitale kaart betekent.",
+		"prefix": "t3",
+		"status": "definitief concept",
+		"id": "c3686747-c751-49c0-86db-07d35c2d3d78",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "beredeneren of de volgorde van kortingen wel of geen invloed heeft.",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "3a9d1144-b6b8-4f65-93c2-09d098a8edd1",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "benaderen van een afstand die te voet of per fiets is afgelegd;",
+		"prefix": "t3",
+		"status": "definitief concept",
+		"id": "1f6efc46-f745-4163-b9fa-5c1f7e09a2ed",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "schatten van een te betalen bedrag bij aankopen.",
+		"prefix": "t4",
+		"status": "definitief concept",
+		"id": "c59b2243-4284-4cde-aaaa-60f10992302f",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "uitleggen dat de hoeveelheid verf die je nodig hebt bij het schilderen van een muur bepaald wordt door de oppervlakte;",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "82c3fd61-ee93-4aeb-b53e-96eba9fa9746",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "uitleggen hoe de factor 3,6 ontstaat bij het omrekenen van m/s naar km/u.",
+		"prefix": "t3",
+		"status": "definitief concept",
+		"id": "88d9fb2b-2ddc-4ec2-be5b-c191c5c3f783",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "gebruiken van meetinstrumenten bij andere vakken;",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "00656d9c-b956-4ab8-abf4-e04ed862609d",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "bepalen welke weegschaal passend is bij een meetsituatie;",
+		"prefix": "t3",
+		"status": "definitief concept",
+		"id": "c67b6630-48b6-460b-b586-af1909ce54e5",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "gebruiken van een bagageweegschaal.",
+		"prefix": "t4",
+		"status": "definitief concept",
+		"id": "438856e8-5a67-49e0-9258-72423593b15c",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "beslissen welke vraag beantwoord kan worden met de gegeven data;",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "cbeeea4e-94c8-4a1f-8e90-722bb8def64d",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "beantwoorden van de vraag ‘Welke gegevens kun je het beste gebruiken om klimaatverandering in Nederland in beeld brengen?’ op basis van de weergegevens van Nederland vanaf 1951;",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "dbfb1be4-4f31-4123-92fc-7570cb99ec56",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "bepalen welk cijfer minstens behaald moet worden bij een herkansing van een proefwerk om een voldoende te staan, gegeven de cijfers van vier reeds gemaakte proefwerken;",
+		"prefix": "t3",
+		"status": "definitief concept",
+		"id": "89a2551d-7113-4319-8e86-210a3e96330f",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "onderzoeken en met elkaar vergelijken van de trend in de hoeveelheid zonneschijn en de trend in de hoeveelheid regen per maand;",
+		"prefix": "t4",
+		"status": "definitief concept",
+		"id": "243faf0b-688a-43e8-b533-18fc5486cf36",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "kiezen voor een steekproef van 300 fietsen in plaats van een steekproef van 30 fietsen bij een onderzoek naar het percentage van de fietsen in de gemeente dat elektrisch is",
+		"prefix": "t5",
+		"status": "definitief concept",
+		"id": "1cad1c5d-5b08-402f-b08c-10906ef27ac4",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "bepalen van een kans aan de hand van een boom- of wegendiagram;",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "318bc84b-1542-43be-9c6d-75df1d11cdfd",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "kansen met elkaar vergelijken, zoals het vergelijken van de kans om juist te voorspellen bij het gooien met een dobbelsteen en een muntstuk;",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "ee4e2234-80f4-4e20-a4f2-e79ac971b6e5",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "beargumenteren dat de kans op het winnen van de loterij erg klein is.",
+		"prefix": "t3",
+		"status": "definitief concept",
+		"id": "78b8158d-8a96-456b-aa56-e12a94762c38",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "aflezen van staaf-, lijn- en cirkeldiagrammen, gestapelde staafdiagrammen, spreidingsdiagrammen en boxplots;",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "c53e8718-fca0-4fb6-bbea-9c4f3bd9ed1d",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "aflezen van de tabel met de stand van een sportcompetitie;",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "e4ee73f9-8bdc-4456-8e34-4e02d35911dd",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "aflezen van een diagram waar je BMI wordt bepaald door je lengte en gewicht;",
+		"prefix": "t3",
+		"status": "definitief concept",
+		"id": "2e325fd9-48f9-49a9-8809-0e6254f93547",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "bepalen welke maat panty je nodig hebt door een panty-diagram te gebruiken.",
+		"prefix": "t4",
+		"status": "definitief concept",
+		"id": "23de901f-bc25-49fd-9894-851ad8353b68",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "weergeven van de hoeveelheid zonneschijn en regenval door middel van een lijngrafiek en een staafdiagram in één figuur met twee verticale assen;",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "68b40a13-78cb-4498-9fbb-6ded88d1e617",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "weergeven welke vervoersmiddelen leerlingen uit de klas gebruiken om naar school te komen;",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "3f7e53f4-44ce-492d-98aa-6b16308e7fb8",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "weergeven van het gemiddelde inkomen en de levensverwachting van verschillende landen in de wereld in een spreidingsdiagram;",
+		"prefix": "t3",
+		"status": "definitief concept",
+		"id": "b0d02522-0c78-42e4-ae23-980b02045884",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "labelen van de categorieën van een diagram zoals bij een staaf- of cirkeldiagram;",
+		"prefix": "t4",
+		"status": "definitief concept",
+		"id": "3cae4c70-0c8c-4a2f-9c11-45073382803a",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "labelen van de assen.",
+		"prefix": "t5",
+		"status": "definitief concept",
+		"id": "080e7825-2af5-412e-b1ad-ecdddf029e60",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "weergeven hoe groot de kans is dat je een prijs wint als je meedoet met twee loten aan een loterij met honderd loten en één prijs.",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "cd44ed65-e608-4697-865a-6875c8bbc683",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "kritisch beoordelen van een artikel uit de media waarin een diagram wordt gebruikt;",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "abf5dbb8-3bdc-487e-a1e2-2f68955a79eb",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "vergelijken van diagrammen met de inkomensverdeling van verschillende landen;",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "f12f9094-ca4b-4201-b62b-a60bcd4ed0f0",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "uitleggen welke trend zichtbaar is bij lineaire, periodieke en exponentiële verbanden;",
+		"prefix": "t3",
+		"status": "definitief concept",
+		"id": "3d173738-e27f-42f8-aca9-759be8fc1af9",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "toelichten of het verhogen van alle proefwerkcijfers met één punt invloed heeft op het gemiddelde, de mediaan of de spreidingsbreedte van de proefwerkcijfers;",
+		"prefix": "t4",
+		"status": "definitief concept",
+		"id": "cbc9177e-3853-4cc4-a619-b083b362047a",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "bepalen of je schoolgenoten in meerderheid beter zijn in wiskunde of Nederlands gegeven een spreidingsdiagram van hun rapportcijfers (met één decimaal) voor wiskunde en voor Nederlands.",
+		"prefix": "t5",
+		"status": "definitief concept",
+		"id": "30fb6cf3-317f-44c2-8614-d0f0044d3c89",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "begrijpen dat bij een onderzoek de kans overeenkomt met de verhouding tussen het aantal gewenste uitkomsten en het totaal aantal uitkomsten;",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "1318c08f-0abf-4eab-b386-94df33c2e3b3",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "beredeneren hoe groot de kans is dat je voor de vierde keer een zes gooit als je al drie keer een zes hebt gegooid;",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "e88f0c5e-8728-4e19-80af-392f1e51c1d1",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "beredeneren dat de kans op het gooien van een drie bij zes worpen niet gelijk is aan 1.",
+		"prefix": "t3",
+		"status": "definitief concept",
+		"id": "24d567e6-6041-4cf7-8934-2bf35e35c180",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "gebruikmaken van de balansmethode om een lineaire, wortel- of kwadratische vergelijking op te lossen;",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "73a070b1-0623-4f72-90e1-7414fdf69fbf",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "gebruikmaken van terugrekenen of een pijlenketting om een lineaire, wortel- of kwadratische vergelijking op te lossen.",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "bf20a5c9-8633-4ad0-9165-8661863c106e",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "gebruiken van de trend (zoals bij kwantitatieve informatie) om het verband te herkennen;",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "0791f115-8b58-4c26-a63a-dd2eee596b93",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "herkennen van goniometrische verhoudingen als (omgekeerd) evenredig verband.",
+		"prefix": "t3",
+		"status": "definitief concept",
+		"id": "ad694e23-c87e-4dab-899f-23213e20a7f1",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "redeneren over het gedrag van een lineair verband wanneer de richtingscoëfficiënt verdubbelt of twee groter wordt.",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "524739ae-7512-42d6-bcb8-c034b4aa90dc",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "oplossen van een probleem waarbij gelijkvormigheid en vergrotingsfactor een rol spelen;",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "99a741ad-99fc-4369-a70f-eaf2bb1fd007",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "oplossen van een probleem waarin de omtrek, oppervlakte of inhoud gegeven is en een ontbrekende maat van het meetkundig figuur bepaald moet worden;",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "e872ae92-511a-45f6-918c-8f26bd7ce5c9",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "berekenen van de omtrek, oppervlakte of inhoud van een samengesteld figuur;",
+		"prefix": "t3",
+		"status": "definitief concept",
+		"id": "bda8684a-c524-4502-b937-c19162155861",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "berekenen van de straal of diameter van een cirkel als een omtrek of oppervlakte gegeven is.",
+		"prefix": "t4",
+		"status": "definitief concept",
+		"id": "8936647c-1da9-485a-93d5-d8d3487239cd",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "bepalen van een kijklijn op basis van een koershoek;",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "b6592e52-50b3-48a9-aee5-63c8ee7ec02a",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "bepalen van de kijklijnen zodat je niet geraakt wordt tijdens een lasergame;",
+		"prefix": "t3",
+		"status": "definitief concept",
+		"id": "969eb7a4-deb0-49bd-9b74-a1257e19af47",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "uitstippelen van een wandeling die ongeveer 3 km is.",
+		"prefix": "t4",
+		"status": "definitief concept",
+		"id": "eeba1531-7701-48d3-af2a-61e3f5c9233d",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "bepalen van een punt dat door coördinaten is weergegeven – ook niet-cartesische coördinaten – zoals vak P, rij 5, stoel 16.",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "380b77ab-1f36-4c95-8620-8f4da9adecae",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "beschrijven of een figuur draaisymmetrisch en/of lijnsymmetrisch is;",
+		"prefix": "t3",
+		"status": "definitief concept",
+		"id": "ad9d04b5-279a-4542-9387-a48a965c7bef",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "uitleggen dat een cirkel oneindig veel symmetrieassen heeft en draaisymmetrisch is over elke hoek;",
+		"prefix": "t4",
+		"status": "definitief concept",
+		"id": "efae924c-1546-4abf-8041-450c1fcaff1d",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "uitleggen waarom een rechthoek ook een parallellogram genoemd kan worden.",
+		"prefix": "t5",
+		"status": "definitief concept",
+		"id": "97bfe6db-1c8f-409e-b0ca-ea9844e9538c",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "inschatten van de grootte van de hoek om te bepalen welk getal je van de geodriehoek afleest.",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "0a334a58-1924-4c44-98db-e7b5ebca9380",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "vragen stellen bij actuele situaties in de schoolomgeving en uit de media;",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "b9e6881d-7356-4711-9abc-d47ca1f401ac",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "deelnemen aan de Kangoeroewedstrijd.",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "39023d9f-a7f3-4fcc-af7d-97507f360728",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "gebruiken van juiste en voor de doelgroep passende wiskundige representaties en dito wiskundetaal.",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "ece07c52-facd-42aa-a96f-612db5bf7299",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "gebruiken en beoordelen van wiskundige informatie uit de samenleving en de media bij het vormen van een mening;",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "756b5011-8f95-4c78-a162-26688dce9efa",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "(schattend) rekenen in alledaagse situaties;",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "cf116a88-7c98-4e24-9c8b-e2a3c30f1b78",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "gebruiken van procenten en verhoudingen bij economie, natuurkunde en scheikunde;",
+		"prefix": "t3",
+		"status": "definitief concept",
+		"id": "8ccee751-92b9-42c9-95c7-5cc39c992b4f",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "herkennen en gebruiken van voorvoegsels bij eenheden in andere vakken.",
+		"prefix": "t4",
+		"status": "definitief concept",
+		"id": "303cbd59-fbd8-4ba8-9a8a-2834b71a64a1",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "onderbouwen van een studiekeuze vanuit aandacht voor de eigen affiniteit met wiskunde en ervaringen opgedaan tijdens open dagen van onderwijsinstellingen, bedrijven of organisaties;",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "a2ec1f91-025c-4308-92f1-95c5ca3933d5",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "onderzoeken van eigen kwaliteiten en motieven",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "291f9c51-7aa2-4df5-b294-278cd123cacb",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "onderzoeken door middel van een interview tijdens een stage op welke manier diverse beroepen wiskunde gebruiken.",
+		"prefix": "t3",
+		"status": "definitief concept",
+		"id": "75c973b7-fd28-4cb9-bf33-9e398eb0898c",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		]
 	}
 ]
