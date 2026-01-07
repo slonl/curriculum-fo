@@ -3085,7 +3085,8 @@
 			"cbf64235-916c-4694-954a-8e14e927612b"
 		],
 		"status": "concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"title": "Eindterm 44",
@@ -45096,7 +45097,8 @@
 		"replaces": [
 			"efb103ca-5b2e-494b-8212-5053b6ee0efc"
 		],
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"title": "Eindterm 09",
@@ -45833,7 +45835,8 @@
 		"replaces": [
 			"70e89beb-d5eb-4de4-ada7-47ac7ac77d72"
 		],
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"title": "Eindterm 48",
@@ -45851,7 +45854,8 @@
 		"replaces": [
 			"c0a9d44a-7dc9-4632-8138-dd6fc123efc0"
 		],
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"title": "Eindterm 2",

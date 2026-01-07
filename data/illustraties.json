@@ -46587,7 +46587,8 @@
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
 		"description": "5² = 25",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -46598,7 +46599,8 @@
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
 		"description": "√25 = 5",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -46609,7 +46611,8 @@
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
 		"description": "twee van de vijf bezoekers.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -46620,7 +46623,8 @@
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
 		"description": "40% van de bezoekers.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t3",
@@ -46631,7 +46635,8 @@
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
 		"description": "2/5 deel van de bezoekers.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -46642,7 +46647,8 @@
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
 		"description": "de hoeveelheid ingrediënten van een gerecht staat in verhouding tot het aantal personen voor wie het gerecht wordt bereid.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -46653,7 +46659,8 @@
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
 		"description": "uitleggen wat het lijntje onder een digitale kaart betekent.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -46664,7 +46671,8 @@
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
 		"description": "op jouw school zijn er meer 1e-jaars leerlingen lid van een sportclub dan 3e-jaars leerlingen, maar in verhouding zijn er meer 3e-jaars lid van een sportclub dan 1e-jaars. Hieruit mag je concluderen dat 3e-jaars sportiever zijn dan 1e-jaars.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -46708,7 +46716,8 @@
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
 		"description": "het kiezen van een passend voorvoegsel bij de eenheid.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -46719,7 +46728,8 @@
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
 		"description": "het schatten van afstanden, oppervlaktes en grootte van hoeken.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -46763,7 +46773,8 @@
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
 		"description": "er komt iedere keer hetzelfde bij (of er gaat hetzelfde af); alsmaar sneller of langzamer stijgen of dalen; zich alsmaar herhalend.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t3",
@@ -46774,7 +46785,8 @@
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
 		"description": "in een figuur staat een grafiek die weergeeft hoe ver een sprinter op zijn reis van Zwolle naar Amersfoort gevorderd is. Bepaal hoe vaak de trein onderweg nog stopt.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -46829,7 +46841,8 @@
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
 		"description": "het kiezen van een uitslag bij een ruimtefiguur.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -46873,7 +46886,8 @@
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
 		"description": "een ladder die tegen een muur staat vormt samen met de muur en de vloer een rechthoekige driehoek.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t5",
@@ -46884,7 +46898,8 @@
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
 		"description": "het patroon op je vest is symmetrisch.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -46928,7 +46943,8 @@
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
 		"description": "(schattend) rekenen in alledaagse situaties.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -46939,7 +46955,8 @@
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
 		"description": "misleidende weergaven van kwantitatieve informatie identificeren en beredeneren wat het voordeel van de misleider kan zijn.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t3",
@@ -46950,7 +46967,8 @@
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
 		"description": "onjuiste redeneringen weerleggen en/of corrigeren.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -46961,7 +46979,8 @@
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
 		"description": "1,1³ = 1,331.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -46972,7 +46991,8 @@
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
 		"description": "√25 = 5",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t3",
@@ -46983,7 +47003,8 @@
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
 		"description": "1/4 + 2/3 = 3/12 + 8/12 = 11/12",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t4",
@@ -46994,7 +47015,8 @@
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
 		"description": "1/3 × 1/4 = 1/12",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t5",
@@ -47005,7 +47027,8 @@
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
 		"description": "2,4 × 109  = 2.400.000.000.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t6",
@@ -47016,7 +47039,8 @@
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
 		"description": "3.650.000 = 3,65 × 106.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -47027,7 +47051,8 @@
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
 		"description": "twee van de zeven bezoekers.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -47038,7 +47063,8 @@
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
 		"description": "twee delen ranja op vijf delen water.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t3",
@@ -47049,7 +47075,8 @@
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
 		"description": "ruim 28% van de bezoekers.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t4",
@@ -47060,7 +47087,8 @@
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
 		"description": "1/8 deel van de bezoekers.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t5",
@@ -47071,7 +47099,8 @@
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
 		"description": "1 : 200.000",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -47104,7 +47133,8 @@
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
 		"description": "uitleggen wat het lijntje onder een digitale kaart betekent.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -47115,7 +47145,8 @@
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
 		"description": "op jouw school zijn er meer 1e-jaars leerlingen lid van een sportclub dan 3e-jaars leerlingen, maar in verhouding zijn er meer 3e-jaars lid van een sportclub dan 1e-jaars. Hieruit mag je concluderen dat 3e-jaars sportiever zijn dan 1e-jaars.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -47126,7 +47157,8 @@
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
 		"description": "voor een gerecht voor vier personen heb je een bepaalde hoeveelheid suiker nodig. Als je dit gerecht voor tien personen moet maken, heb je 2,5 keer zoveel suiker nodig. De verhoudingsfactor in deze situatie is 2,5.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -47181,7 +47213,8 @@
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
 		"description": "het schatten van afstanden, oppervlaktes en grootte van hoeken.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -47225,7 +47258,8 @@
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
 		"description": "er komt iedere keer hetzelfde bij (of er gaat hetzelfde af); alsmaar sneller of langzamer stijgen of dalen; zich alsmaar herhalend.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t3",
@@ -47236,7 +47270,8 @@
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
 		"description": "in een figuur staat een grafiek die weergeeft hoe ver een sprinter op zijn reis van Zwolle naar Amersfoort gevorderd is. Bepaal welke grafiek bij de intercitytrein hoort en welke bij de sprinter.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -47346,7 +47381,8 @@
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
 		"description": "het patroon op je vest is symmetrisch.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -47357,7 +47393,8 @@
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
 		"description": "het bepalen van een punt dat door coördinaten is weergegeven, ook niet-cartesische coördinaten, zoals vak P, rij 5, stoel 16.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -47368,7 +47405,8 @@
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
 		"description": "aangeven wat de invloed van hoogtelijnen is op de mate van stijgen tijdens een wandeling.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t3",
@@ -47379,7 +47417,8 @@
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
 		"description": "aangeven wat de invloed van vergroten of verkleinen is op de omtrek van een figuur.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t4",
@@ -47390,7 +47429,8 @@
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
 		"description": "beschrijven waarom elk vierkant ook een rechthoek is.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -47401,7 +47441,8 @@
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
 		"description": "grafische weergaven van datasets tekenen met behulp van een spreadsheetprogramma.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -47412,7 +47453,8 @@
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
 		"description": "een eenvoudig kansexperiment uitvoeren met behulp van een spreadsheetprogramma.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -47423,7 +47465,8 @@
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
 		"description": "(schattend) rekenen in alledaagse situaties.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -47434,7 +47477,8 @@
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
 		"description": "misleidende weergaven van kwantitatieve informatie identificeren en beredeneren wat het voordeel van de misleider kan zijn.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t3",
@@ -47445,7 +47489,8 @@
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
 		"description": "onjuiste redeneringen weerleggen en/of corrigeren.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -47493,7 +47538,8 @@
 		"status": "concept",
 		"title": "Te denken valt aan",
 		"description": "1/3 × 1/4 = 1/12",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t5",
@@ -47505,7 +47551,8 @@
 		"status": "concept",
 		"title": "Te denken valt aan",
 		"description": "2,4 × 109  = 2.400.000.000.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t6",
@@ -47517,7 +47564,8 @@
 		"status": "concept",
 		"title": "Te denken valt aan",
 		"description": "3.650.000 = 3,65 × 106.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t7",
@@ -47529,7 +47577,8 @@
 		"status": "concept",
 		"title": "Te denken valt aan",
 		"description": "0,012 = 1,2 x 10-2",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t8",
@@ -47541,7 +47590,8 @@
 		"status": "concept",
 		"title": "Te denken valt aan",
 		"description": "2,36 x 10-3 = 0,00236",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -47565,7 +47615,8 @@
 		"status": "concept",
 		"title": "Te denken valt aan",
 		"description": "twee delen ranja op vijf delen water.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t3",
@@ -47577,7 +47628,8 @@
 		"status": "concept",
 		"title": "Te denken valt aan",
 		"description": "op elke twee mannelijke bezoekers zijn er vijf vrouwelijke bezoekers.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t4",
@@ -47589,7 +47641,8 @@
 		"status": "concept",
 		"title": "Te denken valt aan",
 		"description": "twee staat tot vijf.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t5",
@@ -47601,7 +47654,8 @@
 		"status": "concept",
 		"title": "Te denken valt aan",
 		"description": "ruim 28% van de bezoekers.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t6",
@@ -47613,7 +47667,8 @@
 		"status": "concept",
 		"title": "Te denken valt aan",
 		"description": "2/7 deel van de bezoekers.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t7",
@@ -47625,7 +47680,8 @@
 		"status": "concept",
 		"title": "Te denken valt aan",
 		"description": "1 : 200.000",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t8",
@@ -47637,7 +47693,8 @@
 		"status": "concept",
 		"title": "Te denken valt aan",
 		"description": "0.08680555555555555",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t9",
@@ -47649,7 +47706,8 @@
 		"status": "concept",
 		"title": "Te denken valt aan",
 		"description": "10% groei komt overeen met een groeifactor van 1,1.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t10",
@@ -47661,7 +47719,8 @@
 		"status": "concept",
 		"title": "Te denken valt aan",
 		"description": "10% afname komt overeen met een groeifactor van 0,9",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -47697,7 +47756,8 @@
 		"status": "concept",
 		"title": "Te denken valt aan",
 		"description": "uitleggen wat het lijntje onder een digitale kaart betekent.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -47709,7 +47769,8 @@
 		"status": "concept",
 		"title": "Te denken valt aan",
 		"description": "in een zak snoepjes zijn er op elk groen snoepje twee rode snoepjes. Welk deel van de zak bestaat uit rode snoepjes?",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t3",
@@ -47721,7 +47782,8 @@
 		"status": "concept",
 		"title": "Te denken valt aan",
 		"description": "op jouw school zijn er meer 1e-jaars leerlingen lid van een sportclub dan 3e-jaars leerlingen, maar in verhouding zijn er meer 3e-jaars lid van een sportclub dan 1e-jaars. Hieruit mag je concluderen dat 3e-jaars sportiever zijn dan 1e-jaars.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t4",
@@ -47733,7 +47795,8 @@
 		"status": "concept",
 		"title": "Te denken valt aan",
 		"description": "stel dat het aantal auto's : het aantal fietsen = 2 : 3. Leg uit dat je hieruit kunt afleiden dat drie maal het aantal auto's gelijk is aan twee maal het aantal fietsen.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t5",
@@ -47745,7 +47808,8 @@
 		"status": "concept",
 		"title": "Te denken valt aan",
 		"description": "je krijgt 35% korting plus nog eens 10% kassakorting. Maakt het uit in welke volgorde je deze kortingen berekent?",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -47757,7 +47821,8 @@
 		"status": "concept",
 		"title": "Te denken valt aan",
 		"description": "voor een gerecht voor vier personen heb je een bepaalde hoeveelheid suiker nodig. Als je dit gerecht voor tien personen moet maken, heb je 2,5 keer zoveel suiker nodig. De verhoudingsfactor in deze situatie is 2,5.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -47769,7 +47834,8 @@
 		"status": "concept",
 		"title": "Te denken valt aan",
 		"description": "een formule, zoals s = 2,5 x p.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -47865,7 +47931,8 @@
 		"status": "concept",
 		"title": "Te denken valt aan",
 		"description": "het schatten van afstanden, oppervlaktes en grootte van hoeken.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -47925,7 +47992,8 @@
 		"status": "concept",
 		"title": "Te denken valt aan",
 		"description": "dit verband daalt naar een grenswaarde, maar bereikt die nooit.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t4",
@@ -47937,7 +48005,8 @@
 		"status": "concept",
 		"title": "Te denken valt aan",
 		"description": "in een figuur staat een grafiek die weergeeft hoe ver een intercitytrein die onderweg nergens stopt,  op zijn reis van Zwolle naar Amersfoort gevorderd is. In dit treintraject zit een scherpe bocht waar de trein langzamer moet rijden. Bepaal hoe ver die bocht zich van Zwolle bevindt.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -47973,7 +48042,8 @@
 		"status": "concept",
 		"title": "Te denken valt aan",
 		"description": "je leent bij je opa 450 euro en je betaalt iedere maand 25 euro terug. Maak een tabel of grafiek voor de hoogte van je schuld.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -48081,7 +48151,8 @@
 		"status": "concept",
 		"title": "Te denken valt aan",
 		"description": "als je dit patroon 90° draait, krijg je hetzelfde patroon te zien.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -48093,7 +48164,8 @@
 		"status": "concept",
 		"title": "Te denken valt aan",
 		"description": "het bepalen van een punt dat door coördinaten is weergegeven, ook niet-cartesische coördinaten, zoals vak P, rij 5, stoel 16.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -48105,7 +48177,8 @@
 		"status": "concept",
 		"title": "Te denken valt aan",
 		"description": "aangeven wat de invloed van hoogtelijnen is op de mate van stijgen tijdens een wandeling.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t3",
@@ -48117,7 +48190,8 @@
 		"status": "concept",
 		"title": "Te denken valt aan",
 		"description": "aangeven wat de invloed van vergroten of verkleinen is op de omtrek, oppervlakte en inhoud van een figuur.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t4",
@@ -48129,7 +48203,8 @@
 		"status": "concept",
 		"title": "Te denken valt aan",
 		"description": "beschrijven waarom bijvoorbeeld vierkanten parallellogrammen zijn.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t5",
@@ -48141,7 +48216,8 @@
 		"status": "concept",
 		"title": "Te denken valt aan",
 		"description": "aangeven of figuren draaisymmetrisch en/of lijnsymmetrisch zijn; draaihoek en aantal symmetrieassen aangeven.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t6",
@@ -48153,7 +48229,8 @@
 		"status": "concept",
 		"title": "Te denken valt aan",
 		"description": "leg uit dat een cirkel oneindig veel symmetrieassen heeft en draaisymmetrisch is over elke hoek.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -48189,7 +48266,8 @@
 		"status": "concept",
 		"title": "Te denken valt aan",
 		"description": "grafische weergaven van datasets tekenen met behulp van een spreadsheetprogramma.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -48201,7 +48279,8 @@
 		"status": "concept",
 		"title": "Te denken valt aan",
 		"description": "een eenvoudig kansexperiment uitvoeren met behulp van een spreadsheetprogramma.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -48213,7 +48292,8 @@
 		"status": "concept",
 		"title": "Te denken valt aan",
 		"description": "(schattend) rekenen in alledaagse situaties.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -48225,7 +48305,8 @@
 		"status": "concept",
 		"title": "Te denken valt aan",
 		"description": "misleidende weergaven van kwantitatieve informatie identificeren en beredeneren wat het voordeel van de misleider kan zijn.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t3",
@@ -48237,7 +48318,8 @@
 		"status": "concept",
 		"title": "Te denken valt aan",
 		"description": "onjuiste redeneringen weerleggen en/of corrigeren.",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"prefix": "t3",
@@ -110321,7 +110403,8 @@
 		"unreleased": true,
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -110332,7 +110415,8 @@
 		"unreleased": true,
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Te denken valt aan",
@@ -110343,7 +110427,8 @@
 		"unreleased": true,
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Te denken valt aan",

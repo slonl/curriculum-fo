@@ -517,7 +517,8 @@
 		"id": "028c4aaa-9d33-45bc-90fd-44a614df5b40",
 		"fo_doelzin_id": [
 			"f3d5d775-a1f2-4b5d-9097-45a0747a48de"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Subdomein G3",
@@ -545,7 +546,8 @@
 		"id": "2b306c97-32ea-495f-b9a6-53481d8ffb52",
 		"fo_doelzin_id": [
 			"350457e0-528e-4b50-9f33-db25861ccfb0"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Subdomein A2",

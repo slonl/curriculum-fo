@@ -50148,7 +50148,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "definitief concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "een eenvoudige breuk in een decimaal getal omzetten en omgekeerd.",
@@ -50214,7 +50215,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "definitief concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "verhoudingen omrekenen naar gelijkwaardige verhoudingen.",
@@ -50225,7 +50227,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "definitief concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "vergelijken van verhoudingen met elkaar;",
@@ -50258,7 +50261,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "definitief concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "omrekenen tussen procenten, breuken en decimale getallen;",
@@ -50291,7 +50295,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "definitief concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "een deel nemen van een geheel;",
@@ -50390,7 +50395,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "definitief concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "berekeningen uitvoeren met enkelvoudige en samengestelde grootheden;",
@@ -50533,7 +50539,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "definitief concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "een vergelijking oplossen door middel van inklemmen of gericht proberen.",
@@ -50544,7 +50551,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "definitief concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "tekenen van een grafiek aan de hand van een woordformule;",
@@ -50588,7 +50596,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "definitief concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "kennen en gebruiken van de woorden stijgen, dalen, constant, minimum, maximum.",
@@ -50599,7 +50608,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "definitief concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "kennen en gebruiken van de woorden lineair verband, kwadratisch verband, wortelverband.",
@@ -50610,7 +50620,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "definitief concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "kennen en gebruiken van de woorden hellingsgetal en startgetal.",
@@ -50621,7 +50632,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "definitief concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "kennen en gebruiken van het woord coördinaat.",
@@ -50632,7 +50644,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "definitief concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "herkennen en benoemen van grootheden die in een concrete situatie met elkaar in verband staan;",
@@ -50698,7 +50711,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "definitief concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "weergeven van een lineair, wortel- of kwadratisch verband in een tabel en een grafiek;",
@@ -50731,7 +50745,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "definitief concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "afleiden van een ontbrekende afmeting uit andere afmetingen in een tekening;",
@@ -50852,7 +50867,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "definitief concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "gebruiken van de begrippen lijnsymmetrie, symmetrieas en evenwijdig;",
@@ -50874,7 +50890,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "definitief concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "gebruiken van de begrippen hoekpunt, zijde, diagonaal, middelpunt, straal, diameter, ribbe, zijvlak en grondvlak.",
@@ -50951,7 +50968,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "definitief concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "ontwikkelen van analytisch denkvermogen door middel van wiskundig probleemoplossen, wiskundig modelleren, wiskundig redeneren en abstraheren.",
@@ -50962,7 +50980,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "definitief concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "ontwikkelen van kritisch en creatief denkvermogen door middel van wiskundig probleemoplossen, wiskundig modelleren en wiskundig redeneren.",
@@ -50973,7 +50992,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "definitief concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "ontwikkelen van onderzoeksvaardigheden door middel van wiskundig redeneren.",
@@ -50984,7 +51004,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "definitief concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "ontwikkelen van ontwerpvaardigheden door middel van wiskundig modelleren.",
@@ -50995,7 +51016,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "definitief concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "wiskundeprocedures in andere vakken gebruiken.",
@@ -51006,7 +51028,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "definitief concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "toepassen van wiskundige denk- en werkwijzen in andere vakken.",
@@ -51017,7 +51040,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "definitief concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "verkennen van de plaats en functie van wiskunde in de samenleving",
@@ -51149,7 +51173,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "definitief concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "gebruiken van een rekenmachine;",
@@ -51193,7 +51218,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "definitief concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "vergelijken van verhoudingen met elkaar;",
@@ -51270,7 +51296,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "definitief concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "een afstand of afmeting op een kaart of tekening met een bepaalde schaal berekenen als deze in werkelijkheid gegeven is.",
@@ -51281,7 +51308,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "definitief concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "bepalen welke schaal een kaart of tekening heeft.",
@@ -51292,7 +51320,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "definitief concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "een deel nemen van een geheel.",
@@ -51303,7 +51332,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "definitief concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "uitrekenen welk deel een getal is van een ander getal.",
@@ -51314,7 +51344,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "definitief concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "gebruiken van verhoudingstaal;",
@@ -51402,7 +51433,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "definitief concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "berekeningen uitvoeren met enkelvoudige en samengestelde grootheden;",
@@ -51600,7 +51632,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "definitief concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "grafieken verticaal verschuiven.",
@@ -51611,7 +51644,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "definitief concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "gebruiken van de begrippen assenstelsel, horizontale en verticale as, oorsprong, coördinaat, schaalverdeling, zaagtand, formule;",
@@ -51655,7 +51689,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "definitief concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "kennen en gebruiken van de woorden stijgen, dalen, constant, minimum, maximum.",
@@ -51666,7 +51701,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "definitief concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "kennen en gebruiken van de woorden lineair, evenredig, exponentieel, kwadratisch, wortel, periodiek.",
@@ -51677,7 +51713,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "definitief concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "kennen en gebruiken van de woorden hellingsgetal, startgetal, groeifactor, periode, fredquentie.",
@@ -51688,7 +51725,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "definitief concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "kennen en gebruiken van het woord coördinaat.",
@@ -51699,7 +51737,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "definitief concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "herkennen en benoemen van grootheden die in een concrete situatie met elkaar in verband staan;",
@@ -51765,7 +51804,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "definitief concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "weergeven van een tabel en een grafiek bij een verband;",
@@ -51875,7 +51915,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "definitief concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "hoeken berekenen met behulp van goniometrische verhoudingen.",
@@ -51886,7 +51927,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "definitief concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "berekeningen met π uitvoeren.",
@@ -51897,7 +51939,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "definitief concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "tekenen an een aanzicht;",
@@ -51985,7 +52028,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "definitief concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "vergrotingsfactor.",
@@ -51996,7 +52040,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "definitief concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "koppelen van aanzichten en uitslagen aan een driedimensionale weergave;",
@@ -52040,7 +52085,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "definitief concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "uitleggen wat cartesische coördinaten betekenen in twee dimensies.",
@@ -52051,7 +52097,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "definitief concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "interpreteren van hoogtekaarten.",
@@ -52062,7 +52109,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "definitief concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "betekenis geven aan omtrek.",
@@ -52073,7 +52121,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "definitief concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "toelichten van meetkundige figuren aan de hand van hun eigenschappen.",
@@ -52084,7 +52133,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "definitief concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "uitleggen wat een vergrotingsfactor betekent.",
@@ -52095,7 +52145,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "definitief concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "communiceren over een oplossingswijze, redenering of uitleg ten behoeve van de ontwikkeling van sociaal handelingsvermogen;",
@@ -52161,7 +52212,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "definitief concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "toepassen van wiskundige denk- en werkwijzen in andere vakken.",
@@ -52172,7 +52224,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "definitief concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "verkennen van de plaats en functie van wiskunde in de samenleving;",
@@ -52312,7 +52365,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "decimale getallen afronden op een gegeven aantal decimalen, op een veelvoud van € 0,05 en op een geheel getal.",
@@ -52324,7 +52378,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "een geheel getal afronden op een veelvoud van 10, 100, 1.000 of 10.000.",
@@ -52336,7 +52391,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "gebruiken van een rekenmachine;",
@@ -52372,7 +52428,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "kennis van de volgende referentiematen- en aantallen:\r\r\neen gemiddeld wandeltempo en een gemiddeld fietstempo; \r\r\nde hoogte van een deur en een verdieping; \r\r\nhet aantal inwoners van Nederland;\r\r\nde lichaamstemperatuur van een gezond persoon.",
@@ -52384,7 +52441,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "vergelijken van verhoudingen met elkaar;",
@@ -52468,7 +52526,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "een afstand of afmeting op een kaart of tekening met een bepaalde schaal berekenen als deze in werkelijkheid gegeven is.",
@@ -52480,7 +52539,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "bepalen welke schaal een kaart of tekening heeft.",
@@ -52492,7 +52552,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "een deel nemen van een geheel.",
@@ -52504,7 +52565,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "uitrekenen welk deel een getal is van een ander getal.",
@@ -52516,7 +52578,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "gebruiken van verhoudingstaal en verhoudingsnotatie;",
@@ -52576,7 +52639,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "noteren van een groeifactor.",
@@ -52636,7 +52700,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "berekeningen uitvoeren met enkelvoudige en samengestelde grootheden;",
@@ -52840,7 +52905,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "toepassen van de balansmethode om een vergelijking exact op te lossen.",
@@ -52852,7 +52918,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "tekenen van een grafiek aan de hand van een formule;",
@@ -52936,7 +53003,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "expressies in gelijksoortige termen samennemen in de vorm van ax².",
@@ -52948,7 +53016,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "omzetten van een verband naar een tabel en een grafiek.",
@@ -52959,7 +53028,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "definitief concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "een formule met lettervariabelen opstellen bij een lineair verband.",
@@ -52970,7 +53040,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "definitief concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "een formule met lettervariabelen opstellen bij een exponentieel verband.",
@@ -52981,7 +53052,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "definitief concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "noteren van een verandering als ∆T = x.",
@@ -52992,7 +53064,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "definitief concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "kennen en gebruiken van de woorden assenstelsel, horizontale en verticale as, oorsprong, schaalverdeling, zaagtand, variabele, snijpunt.",
@@ -53004,7 +53077,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "kennen en gebruiken van de woorden stijgen, dalen, constant, minimum, maximum.",
@@ -53016,7 +53090,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "kennen en gebruiken van de woorden algebraïsch, lineair, evenredig, omgekeerd evenredig, exponentieel, kwadratisch, wortel, periodiek.",
@@ -53028,7 +53103,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "kennen en gebruiken van de woorden richtingscoëfficiënt, startgetal, groeifactor, periode, aplitude, frequentie.",
@@ -53040,7 +53116,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "kennen en gebruiken van het woord coördinaat.",
@@ -53052,7 +53129,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "herkennen en benoemen van grootheden die in een concrete situatie met elkaar in verband staan;",
@@ -53124,7 +53202,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "weergeven van een tabel en een grafiek bij een verband;",
@@ -53244,7 +53323,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "hoeken en lengtematen berekenen met behulp van goniometrische verhoudingen.",
@@ -53256,7 +53336,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "berekeningen met π uitvoeren.",
@@ -53268,7 +53349,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "tekenen van een aanzicht;",
@@ -53364,7 +53446,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "vergrotingsfactor.",
@@ -53376,7 +53459,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "koppelen van aanzichten en uitslagen aan een driedimensionale weergave;",
@@ -53424,7 +53508,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "uitleggen wat cartesische coördinaten betekenen in twee en drie dimensies.",
@@ -53436,7 +53521,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "interpreteren van hoogtekaarten.",
@@ -53448,7 +53534,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "betekenis geven aan omtrek, oppervlakte en inhoud.",
@@ -53460,7 +53547,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "toelichten van meetkundige figuren aan de hand van hun eigenschappen.",
@@ -53472,7 +53560,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "uitleggen wat een vergrotingsfactor betekent.",
@@ -53484,7 +53573,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "communiceren over een oplossingswijze, redenering of uitleg ten behoeve van de ontwikkeling van sociaal handelingsvermogen;",
@@ -53556,7 +53646,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "toepassen van wiskundige denk- en werkwijzen in andere vakken.",
@@ -53568,7 +53659,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "verbanden leggen tussen wiskundeconcepten en concepten uit andere vakken.",
@@ -53580,7 +53672,8 @@
 		],
 		"title": "Het gaat hierbij om",
 		"status": "concept",
-		"dirty": true
+		"dirty": true,
+		"deleted": true
 	},
 	{
 		"description": "verkennen van de plaats en functie van wiskunde in de samenleving;",
