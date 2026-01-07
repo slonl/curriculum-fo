@@ -4463,582 +4463,6 @@
 		]
 	},
 	{
-		"title": "Domein A. Domeinonafhankelijke ondersteunende vaardigheden",
-		"description": "Domeinonafhankelijke ondersteunende vaardigheden (DOV)",
-		"prefix": "A",
-		"id": "810e4648-7954-4c12-99ac-22c5ee15cdb2",
-		"fo_subdomein_id": [
-			"11a9a183-c0fd-408a-a06a-a9cb115d6e09",
-			"e67af225-f999-45ba-8e8d-885087ea355d"
-		],
-		"replaces": [
-			"4a1ce3e6-bc7b-4e96-b869-46907fc54420"
-		]
-	},
-	{
-		"title": "Domein B Verhoudingen en procenten",
-		"description": "Verhoudingen en procenten (VP)",
-		"prefix": "B",
-		"id": "4011e5cf-611b-4668-b026-c461e8770440",
-		"fo_subdomein_id": [
-			"f38f8748-a068-4abe-8f73-e880e3f67656",
-			"3912dc98-a3bf-4eb9-b4e6-8a3479ea37fa",
-			"8882d3b6-bdc5-4a75-a889-c0ffdd3e771a",
-			"26000a86-5113-44d3-b0df-747c7527bfe9"
-		],
-		"replaces": [
-			"a038fa63-17e1-4aaa-893d-1d7d4def7e5a"
-		]
-	},
-	{
-		"title": "Domein C Grootheden en eenheden",
-		"description": "Grootheden en eenheden (GE)",
-		"prefix": "C",
-		"id": "c1b91873-86ed-42c9-aea9-23f3dc2c28c3",
-		"fo_subdomein_id": [
-			"55b2cd87-1a95-473e-a15c-1dc9c96db6c0",
-			"7768b9e1-fd28-461b-98df-653713d5a100",
-			"fb5120a7-1d76-4b6e-8ef0-4bf6a79195ce",
-			"43374cb7-f663-4dd8-bfe6-d33b70a05080",
-			"49dde56d-ce10-408b-95da-eb1415497bb9"
-		],
-		"replaces": [
-			"8a1b57ce-a278-4f52-8695-bf31f29151d2"
-		]
-	},
-	{
-		"title": "Domein E Verbanden, verschijningsvormen en vergelijkingen",
-		"description": "Verbanden, verschijningsvormen en vergelijkingen (VVV)",
-		"prefix": "E",
-		"id": "4eb2471d-af68-4191-a041-8b9bde480a4a",
-		"fo_subdomein_id": [
-			"a9965589-8bfc-4286-88d3-28b3b7f5d8b2",
-			"f4a00784-2b8d-4b3a-b687-6ed4197c04cd",
-			"40d16ee4-31ad-4ba7-936f-44a1ffb9a374",
-			"b09ce8a8-eb08-4920-9a90-2b0bd7fa0508",
-			"682d56e2-e6ab-4c6d-84df-fb67e85df572"
-		],
-		"replaces": [
-			"609ff30a-0a62-4492-953a-dfa61b87f8e9"
-		]
-	},
-	{
-		"title": "Domein F Twee- en driedimensionale ruimte",
-		"description": "Twee- en driedimensionale ruimte (23D)",
-		"prefix": "F",
-		"id": "3cc112c8-2865-4757-93e2-2a4b1c2f00e9",
-		"fo_subdomein_id": [
-			"3b455c91-3961-46fb-bd19-1de16af0483d",
-			"ea215377-d01b-4c17-9264-ec160f389ff4",
-			"b7137980-1aee-44c6-a919-2d259fd81c97",
-			"b7674a83-3b62-4cf8-9a30-de24ee44780b"
-		],
-		"replaces": [
-			"27083826-f3c5-48ca-93d0-72bf83a7fd44"
-		]
-	},
-	{
-		"title": "Domein G Wiskunde en de wereld",
-		"description": "Wiskunde en de wereld",
-		"prefix": "G",
-		"id": "c9c1fa67-ba0c-4e99-aadc-8d51895d015d",
-		"fo_subdomein_id": [
-			"46173636-f591-4255-b892-161a20ca957b",
-			"5d4e6826-27c5-4875-9c56-a75934cd6e59",
-			"b232da86-c760-4e2f-ac94-6ef07211df10",
-			"fa6f16c3-c554-4f63-9704-73cda39326f4",
-			"d96945b3-b1f1-4c6d-a871-7db8f79b8580",
-			"6ccc79c9-985a-476e-bd22-ea207687e7f8"
-		],
-		"replaces": [
-			"57c36369-9f9b-4de5-b4e3-bc498b485039"
-		]
-	},
-	{
-		"title": "Domein A Domeinonafhankelijke ondersteunende vaardigheden",
-		"description": "Domeinonafhankelijke ondersteunende vaardigheden (DOV)",
-		"prefix": "A",
-		"id": "90d7a699-9f7d-4fcf-8432-46e42f373f86",
-		"fo_subdomein_id": [
-			"59bdfc68-1c43-4fe4-a24a-1d5fe1700067",
-			"6d45c713-f030-480a-b7c0-294bfa649ba1"
-		],
-		"replaces": [
-			"f1090a98-0e0a-4d08-b397-960b84716363"
-		]
-	},
-	{
-		"title": "Domein B Verhoudingen en procenten",
-		"description": "Verhoudingen en procenten (VP)",
-		"prefix": "B",
-		"id": "15fdb903-3a38-4529-8116-8efe790652b1",
-		"fo_subdomein_id": [
-			"81db02cd-40e5-46dc-be9f-3f1ba7f3bf50",
-			"611f87c1-ce18-42ea-97da-992b600ef5ac",
-			"5dd23842-e8b8-492e-9bad-00274c35567e",
-			"14398972-7062-442a-86e6-00864a66bc06"
-		],
-		"replaces": [
-			"de1c3c4e-087d-4626-9c3e-31233779d6be"
-		]
-	},
-	{
-		"title": "Domein C Grootheden en eenheden",
-		"description": "Grootheden en eenheden (GE)",
-		"prefix": "C",
-		"id": "7932b58c-fc3f-471b-8199-3d5dc0f814d4",
-		"fo_subdomein_id": [
-			"38e91f0e-497b-493e-9bd2-ea9cfa59fedd",
-			"f40a9331-4d7f-4cff-95b3-ba7acca76aa9",
-			"a34bdaeb-032f-4bd6-8b7f-783d0bd7814a",
-			"086d8c49-ed59-4873-aea6-94081e7da023",
-			"04bbe88e-f78a-4709-bbc2-5489fcdf72fe"
-		],
-		"replaces": [
-			"ace2ad85-a79e-48ea-87f1-420d8a591a13"
-		]
-	},
-	{
-		"title": "Domein E verbanden, verschijningsvormen en vergelijkingen",
-		"description": "Verbanden, verschijningsvormen en vergelijkingen (VVV)",
-		"prefix": "E",
-		"id": "eb14ab00-30a6-4ac7-99d9-0990e1edf0bc",
-		"fo_subdomein_id": [
-			"8e0ca310-b67b-4df8-be15-fceca9ab8846",
-			"679fd0bc-f606-4e6e-bc87-4000e8f6177d",
-			"51e8ac87-0cfa-4ec3-b2fc-f652d8d999ce",
-			"a47e8a13-c96c-4c0a-b7b0-cbfb25a8247b",
-			"a2aad1ec-d1d3-4ff0-b0ff-46de307c2708"
-		],
-		"replaces": [
-			"316cbb2d-fb2b-49d3-af55-d3f93d96ad74"
-		]
-	},
-	{
-		"title": "Domein F Twee- en driedimensionale ruimte",
-		"description": "Twee- en driedimensionale ruimte (23D)",
-		"prefix": "F",
-		"id": "a8a4547a-a790-4fd2-b2d0-d6c557ef69c2",
-		"fo_subdomein_id": [
-			"4b948408-b705-47e0-8d4f-ca931ea8573d",
-			"cbf2b8ad-296c-4cd9-b6f5-ea5705c2cd08",
-			"8eecb3bc-1ddf-4540-b280-66a7322870df",
-			"62337b30-d98a-4fdf-bd14-c4c2dce71450"
-		],
-		"replaces": [
-			"532cbf65-68bb-4625-8cfe-7a3af68c02db"
-		]
-	},
-	{
-		"title": "Domein G",
-		"description": "Wiskunde en de wereld",
-		"prefix": "G",
-		"id": "9669a694-2d28-4cc7-a657-82047f0bcb7d",
-		"fo_subdomein_id": [
-			"263507b2-1917-41dc-b061-5621e4699676",
-			"a35bb989-338d-4c59-aeca-1a530d883e22",
-			"e4434114-6612-4b3e-a423-7b86848df768",
-			"9f5cddbc-3008-4c15-a8ee-8e036142d9fa",
-			"451d037d-ad17-4b40-b2f1-35dabb6401ec",
-			"891d71c4-f2e6-4621-8dea-f5cc604e8318"
-		],
-		"replaces": [
-			"02e8d29f-8239-4687-9a58-c1627818c8fa"
-		]
-	},
-	{
-		"title": "Domein A",
-		"description": "Domeinonafhankelijke ondersteunende vaardigheden (DOV)",
-		"prefix": "A",
-		"id": "1edc42f2-0770-4f68-ba2c-33d06b606a61",
-		"fo_subdomein_id": [
-			"d2098914-92cb-4c89-abbf-56ad03dd6629",
-			"b89c55a6-2d30-40a9-887d-6e1376a81cee"
-		],
-		"replaces": [
-			"ac3a914b-4d4d-42ec-9abc-d60cef2b9007"
-		]
-	},
-	{
-		"title": "Domein B",
-		"description": "Verhoudingen en procenten (VP)",
-		"prefix": "B",
-		"id": "16bbeb08-ab7f-4d94-81b8-5c3c8593e11f",
-		"fo_subdomein_id": [
-			"7c11ad99-44dc-41e3-ba3a-333c1996fa83",
-			"1b11b93e-c759-4ac0-962d-d0db9f3f4c73",
-			"f9d917b0-9198-462a-a10d-4cec1ab126f3",
-			"db1c13fe-7bfc-4ec3-a664-51810ccfa301"
-		],
-		"replaces": [
-			"4dde5f75-d187-4b18-841d-b9402e827516"
-		]
-	},
-	{
-		"title": "Domein C",
-		"description": "Grootheden en eenheden (GE)",
-		"prefix": "C",
-		"id": "6370e2c0-5afe-4763-92ee-f2ea0c975dcc",
-		"fo_subdomein_id": [
-			"e5f34c85-8f9b-4bf5-a5e6-41af7cbf3aeb",
-			"cbcb69c2-e877-4624-bd87-41f31a495046",
-			"89605888-2f50-4e07-80da-f16663d72b7e",
-			"beb19d0c-0859-4162-8794-4838453fb0b3",
-			"3268c4e2-67de-437d-89f4-2039fea82fae"
-		],
-		"replaces": [
-			"c45fdfd7-e30e-46df-a909-3b5644eaa0ed"
-		]
-	},
-	{
-		"title": "Domein E",
-		"description": "Verbanden, verschijningsvormen en vergelijkingen (VVV)",
-		"prefix": "E",
-		"id": "3cbfe59c-5e6e-40d0-801b-600ddba76fca",
-		"fo_subdomein_id": [
-			"eec8eeec-7277-49c0-93e5-54e654113872",
-			"0dcf9dc1-c125-4125-a233-c6265b33a069",
-			"73d7c19e-5d67-4bc6-84c4-5b1e2e76f7d2",
-			"d068a911-baf6-4c64-92af-bbd50e9ad423",
-			"3c72852d-4299-4947-9c2d-3ecd44a4de1c"
-		],
-		"replaces": [
-			"1660a9c7-b0b0-43e2-9900-b95f3a91bae8"
-		]
-	},
-	{
-		"title": "Domein F",
-		"description": "Twee- en driedimensionale ruimte (23D)",
-		"prefix": "F",
-		"id": "b78a2e83-02a2-4550-8e33-6711127ea170",
-		"fo_subdomein_id": [
-			"10120bd9-7f1e-4978-a467-0e790a58a954",
-			"287b4434-a77d-4b42-82ea-aa08a6569d80",
-			"ff086c91-03fa-4d74-9ac7-89876a3487a7",
-			"a522889c-b887-4058-a87e-883adf5cfd40"
-		],
-		"replaces": [
-			"7c3b0c54-5646-4b62-913e-462823fe7c7b"
-		]
-	},
-	{
-		"title": "Domein G",
-		"description": "Wiskunde en de wereld",
-		"prefix": "G",
-		"id": "57fd5cfe-2beb-41be-890a-30dfa71b28b3",
-		"fo_subdomein_id": [
-			"e3f623ce-a60d-4539-b061-92871d0b09c4",
-			"01fd3d84-eaa5-4082-90e6-5d08ded99b3a",
-			"2d2721da-0655-40b1-a22d-eb8882c8a055",
-			"0b403ef3-3286-4504-b454-9f194519d4fa",
-			"e4fcd716-ab30-4bec-87fb-bf789568b790",
-			"829e6abf-6755-4dba-9e53-debbdc2fb499"
-		],
-		"replaces": [
-			"affbc61d-f4a6-49d0-b509-1cba0390ca56"
-		]
-	},
-	{
-		"title": "Domein A",
-		"description": "Domeinonafhankelijke ondersteunende vaardigheden",
-		"prefix": "A",
-		"id": "f39cb86d-7fb8-4cdd-9e72-654021c69f08",
-		"fo_subdomein_id": [
-			"3d0904ef-4b2e-46f2-a0ff-0dc88d06289d",
-			"20f94029-32c5-4612-909f-103ca3110c2e"
-		],
-		"replaces": [
-			"a56c7bff-0cf0-4a2e-ab07-2f7b0438f7bf"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Domein B",
-		"description": "Verhoudingen en procenten",
-		"prefix": "B",
-		"id": "2770a3fb-17ff-4241-856e-7355fd0b891e",
-		"fo_subdomein_id": [
-			"724e779f-f394-43ec-b2c1-91e5f4ae0f69",
-			"8ade449f-25ee-46d7-8809-0c29c8d2a14a",
-			"ce19e295-2c8a-4fe0-bfb1-3f9c7414f473",
-			"2ef997e3-f21d-463b-ba2a-69b577495374"
-		],
-		"replaces": [
-			"12ecacad-52ea-4a45-a61b-e815a55fa38f"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Domein C",
-		"description": "Grootheden en eenheden",
-		"prefix": "C",
-		"id": "807e9ab3-6fb2-47e7-ad60-49a1c60d8659",
-		"fo_subdomein_id": [
-			"ebd468ff-64df-4278-892e-a1b297449c55",
-			"51254bc0-40ce-452a-b938-6af1ee7457ac",
-			"e7af76bf-fecf-4574-ab3a-1c478a30b661",
-			"9602751c-5fd6-4158-9d17-476ca7f333ab",
-			"5b630bda-ddc6-4e1e-8c31-5f70896d358f"
-		],
-		"replaces": [
-			"56c4c92b-50bf-4cb6-a734-5604f7f1b699"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Domein E",
-		"description": "Verbanden, verschijningsvormen en vergelijkingen",
-		"prefix": "E",
-		"id": "210352e3-3493-4e34-bd11-1a5609084b39",
-		"fo_subdomein_id": [
-			"066abae0-fc27-4993-9522-5873033ffb3b",
-			"a610d6b8-ac4e-498e-adcc-0a95277175eb",
-			"53e4a5a7-b314-4ce6-9e0c-b208273ef8c5",
-			"752a7670-7e5c-4b06-9662-3ac17d1467a6",
-			"9443b9c6-6c5a-4020-91b3-d5c80f4c91a0",
-			"0a800f1e-ca64-4d5e-a5ac-224625100ed5"
-		],
-		"replaces": [
-			"2e54c31c-bf40-4b1a-bb9f-981961cbce26"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Domein F",
-		"description": "Twee- en driedimensionale ruimte",
-		"prefix": "F",
-		"id": "584b5335-f2de-4cfa-818a-5c27956f2b68",
-		"fo_subdomein_id": [
-			"997be8ec-a574-40e3-8c44-f182dae60b79",
-			"01105246-406c-4320-99d6-d6cbe2ec6aab",
-			"8caad9ad-7dc8-47a9-a427-2d19157471e6",
-			"9e3f826c-5deb-4c81-a323-4d70e68d6eb9",
-			"c403c3b3-8f07-4faf-89ec-6a4f3bde02b8",
-			"adae4fc4-aa99-4eb4-b52e-1b76d34b9a76"
-		],
-		"replaces": [
-			"627f8b18-3f95-4e46-9892-9ac1b7ec40a9"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Domein G",
-		"description": "Wiskundige oriëntatie",
-		"prefix": "G",
-		"id": "05c54006-3797-47ef-99b3-c290b83a3533",
-		"fo_subdomein_id": [
-			"c762a587-9abd-42eb-a00e-33555d34019c",
-			"86ac03f4-83aa-4a0b-9769-e68504fd625d",
-			"c9fa3d3c-8809-47bb-8d87-ee76dce04362",
-			"c15eac80-f7aa-4d4d-a56f-e176879b35ac"
-		],
-		"replaces": [
-			"0ce0d02c-40d9-4ea3-9748-e9212b979064"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Domein A",
-		"description": "Domeinonafhankelijke ondersteunende vaardigheden",
-		"prefix": "A",
-		"id": "81446b82-4a3a-4c1e-81c2-84528264f4ae",
-		"fo_subdomein_id": [
-			"2506ba41-7d32-4875-83df-59b1d1ba9e67",
-			"c210a2cf-cf3d-4bb6-968b-e8ab25c0a8bd"
-		],
-		"replaces": [
-			"845788cb-12b0-41a9-a45a-61c40b7b8a2a"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Domein B",
-		"description": "Verhoudingen en procenten",
-		"prefix": "B",
-		"id": "ceb52d6b-fc0f-4123-868e-f68fa2be8279",
-		"fo_subdomein_id": [
-			"cd2f2d4b-ab7c-4f16-a8c7-4dfa218d90cf",
-			"6c423f5f-db4b-43fc-bb23-883373981826",
-			"12137f6e-4778-423a-bbbe-d1d630c50622",
-			"9eb1dec3-ce6a-4e40-8ab7-c74128ade45e",
-			"293f44ab-c467-4ddf-9d44-fa601ae1b315"
-		],
-		"replaces": [
-			"2f7a8a25-d2eb-4fe0-b099-cd88677f5bdb"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Domein C",
-		"description": "Grootheden en eenheden",
-		"prefix": "C",
-		"id": "6964b7e0-1ffe-4f1f-9375-dd7a31993bec",
-		"fo_subdomein_id": [
-			"841db49f-9e64-4d47-a5f7-136fe812868b",
-			"1d8c9485-37b4-4676-a094-6183f5462ebf",
-			"b61bbd2c-e04d-43bf-ade6-aab5217ff0d6",
-			"73acdf09-1f5b-4556-b79f-0c9ea7fdfa31",
-			"36090412-81c1-4008-9fd9-ac763434d0f3"
-		],
-		"replaces": [
-			"d760758e-b360-4978-9083-db7f66ac71df"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Domein E",
-		"description": "Verbanden, verschijningsvormen en vergelijkingen",
-		"prefix": "E",
-		"id": "35ea2e02-3f8a-4b72-b9f0-c1ad814f98de",
-		"fo_subdomein_id": [
-			"e141a2a2-b664-45b0-ab92-7c8d1fc085a6",
-			"d503c9ab-579d-4864-923a-1d8a8cb1e54c",
-			"84247291-7f63-40df-ae43-a50b16247a32",
-			"2d707534-25de-480a-bd47-eb243c652259",
-			"58142394-bba6-405c-b5c6-cc7084111a5d",
-			"cb70f6d2-e1e5-4a72-99d9-b6082f873d2f"
-		],
-		"replaces": [
-			"2ab36534-6198-4a0b-bf83-fb9931a54daa"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Domein F",
-		"description": "Twee- en driedimensionale ruimte",
-		"prefix": "F",
-		"id": "7e40f5be-8f0a-41bf-8eb9-81caa78fd505",
-		"fo_subdomein_id": [
-			"64771f34-47b5-4ffa-8317-d9bcc44bc70f",
-			"34435572-68b7-4c63-be43-6cc1af8e4aff",
-			"ed716a31-8121-40d7-8178-5c4a998ecb44",
-			"e7416072-bd6e-45a5-8d2c-59c946e39185",
-			"b77c9c21-ffe8-4363-a5e8-64309416f5b4",
-			"4713e2f1-a8d1-4b2d-b3d5-db15fe26efc9"
-		],
-		"replaces": [
-			"937a0f31-87d1-4076-a7b9-972e19286cf0"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Domein G",
-		"description": "Wiskundige oriëntatie",
-		"prefix": "G",
-		"id": "59cb7e97-1829-47cf-b972-fcf115b9c58d",
-		"fo_subdomein_id": [
-			"996651fc-d050-4d9a-8390-fa5e27475256",
-			"ddc8cb3c-6edd-49c9-b4c3-29e71cced4c4",
-			"302e14ed-fc26-4dba-a951-fda42ed9d9e7",
-			"20083519-832d-49dd-95ee-5dbb120092b0"
-		],
-		"replaces": [
-			"a7b87a67-1d83-482d-8726-68dd80510b62"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Domein A",
-		"description": "Domeinonafhankelijke ondersteunende vaardigheden",
-		"prefix": "A",
-		"id": "deb80d3e-a380-47a1-83ba-365fe5cba316",
-		"fo_subdomein_id": [
-			"74b8cb38-76f0-4879-81bc-59ad7d2c1940",
-			"bff23331-36f3-4b80-8fde-2a6546155d63"
-		],
-		"replaces": [
-			"4e915876-dfbb-4595-9a61-c25f3818d9fc"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Domein B",
-		"description": "Verhoudingen en procenten",
-		"prefix": "B",
-		"id": "6f2f5ce6-99ab-4d1b-9da3-3e6b8bae8a8f",
-		"fo_subdomein_id": [
-			"d2e5d108-020f-4c01-a97b-4f63a33d1559",
-			"cdd34792-1f61-4ae7-b7e0-fa2b9014cf0b",
-			"f8b73d44-1be2-4932-9a14-d090a53fe1fb",
-			"8406f4fd-9b4a-4cc6-bde1-47eb7993ff4e",
-			"f47cd3f3-7ea6-4cf9-b275-2b9f9c1e6b52",
-			"66adc19d-4436-4b61-b374-d8db3fd2d765"
-		],
-		"replaces": [
-			"bbb7c909-da40-42b2-a81a-69b97aae909e"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Domein C",
-		"description": "Grootheden en eenheden",
-		"prefix": "C",
-		"id": "3944c478-1d96-49ba-8e91-980fb5b7a0ad",
-		"fo_subdomein_id": [
-			"15997313-13be-40e2-a72b-a7da0672e2d6",
-			"048abc22-42a5-4c65-a8da-b4ca95d57524",
-			"b912da49-0270-4773-beaa-96e3e97853b9",
-			"3bfe3ebd-a1cd-438a-b363-72c048106de4",
-			"6a667650-352a-4a9d-a33b-190e27c550d7"
-		],
-		"replaces": [
-			"11a15d45-b8d5-408d-8584-d01176a88122"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Domein E",
-		"description": "Verbanden, verschijningsvormen en vergelijkingen",
-		"prefix": "E",
-		"id": "e4a85bc1-3c98-4739-9395-d15c10340e19",
-		"fo_subdomein_id": [
-			"00318fa1-418c-433b-94f9-66886d9c7abe",
-			"efb6b6ed-f446-4322-92ba-3e9ad7786cd7",
-			"4cc2610d-ef52-4a7d-b4b3-6848006b8cd6",
-			"5553cb4b-baaf-493d-b723-c28bf6bd452a",
-			"2e4d080a-c6fd-47d0-9ec5-ba32ff1c9d78",
-			"7d89ea88-90e0-4712-9b65-807c7c4123e9"
-		],
-		"replaces": [
-			"a9c69a27-5915-464a-9061-2065d9323cd5"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Domein F",
-		"description": "Twee- en driedimensionale ruimte",
-		"prefix": "F",
-		"id": "92f191cc-a21d-4da5-a802-9187c265c3dc",
-		"fo_subdomein_id": [
-			"f082b939-0c18-4d10-beb5-0d8af562857f",
-			"0f52cb59-262f-45cd-879a-de96ba205e5f",
-			"c14959e2-abed-4933-a54b-f728fc0983d4",
-			"1ac5f423-01d3-46c5-b3bb-fb0520d1b802",
-			"738f3a89-ada7-49fe-a5d5-0cac7cd9e16c",
-			"5e5b2804-600c-4343-b695-da260fe71084"
-		],
-		"replaces": [
-			"e65b3459-7638-46f9-b032-a42d417ab9c9"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Domein G",
-		"description": "Wiskundige oriëntatie",
-		"prefix": "G",
-		"id": "ac618799-413b-41fd-8384-35fdc4e53dfa",
-		"fo_subdomein_id": [
-			"d622ec9b-7b9e-45f1-a145-3bbe1699ba80",
-			"402392dc-b462-4f60-8a28-2a9b5598e443",
-			"3eda8e68-198a-47ac-8b73-6e2b6a465b41",
-			"019c102b-772b-49b2-90a1-7494c26fc4a3"
-		],
-		"replaces": [
-			"1914da86-9a31-4242-af24-df82e0ecf8af"
-		],
-		"dirty": true
-	},
-	{
 		"title": "Domein A Wiskundige concepten",
 		"description": "Domein A Wiskundige concepten",
 		"prefix": "A",
@@ -5413,20 +4837,6 @@
 		"fo_kernzin_id": [
 			"fb2bb689-b912-474d-9902-60d912fb3656",
 			"86ab20f0-abfc-4330-aee5-6b04be9ed64b"
-		]
-	},
-	{
-		"title": "Domein: communicatie",
-		"description": "Domein: communicatie",
-		"prefix": "",
-		"id": "8aea361e-9135-4db7-9c93-2d630db52173",
-		"replaces": [
-			"d2412550-d944-4d05-a76d-5838315f4517",
-			"8d666ccd-fd32-41be-ad28-545968b5964e"
-		],
-		"fo_kernzin_id": [
-			"56a737ce-592f-4b51-94bd-f8b7fb6c5647",
-			"b736cb9a-b408-4466-a763-a5f934c42126"
 		]
 	},
 	{
@@ -6011,7 +5421,6 @@
 		"description": "Kwantitatieve informatie en kansen (KIK)",
 		"prefix": "D",
 		"id": "ae70f7b2-2994-4c4c-b709-91ca59402ee0",
-		"unreleased": true,
 		"fo_subdomein_id": [
 			"a95d13d0-86f8-4123-bb63-a3733ad13482",
 			"ee04dc24-126a-4491-8a95-0a38307300a3",
@@ -6024,7 +5433,6 @@
 		"description": "Kwantitatieve informatie en kansen (KIK)",
 		"prefix": "D",
 		"id": "d94a7904-e88f-4603-a513-f97f97eda99d",
-		"unreleased": true,
 		"fo_subdomein_id": [
 			"588a38cb-e464-436f-9cc9-f70174993d2e",
 			"a4be5c05-26cb-4dd1-a44e-b333f214b8bd",
@@ -6037,7 +5445,6 @@
 		"description": "Kwantitatieve informatie en kansen (KIK)",
 		"prefix": "D",
 		"id": "a7e73749-c429-4a99-8cd8-1c52b7a84cad",
-		"unreleased": true,
 		"fo_subdomein_id": [
 			"fd37eef1-e7b2-4878-8887-ff552e55f284",
 			"2778d29d-f2c6-484d-bda7-59f845be975e",
@@ -6050,7 +5457,6 @@
 		"description": "Kwantitatieve informatie en kansen",
 		"prefix": "D",
 		"id": "b0b46677-07f6-4e88-96a8-57f17004a99c",
-		"unreleased": true,
 		"fo_subdomein_id": [
 			"ad83fbb4-6f3f-4ab0-98fc-2b33cd1a6994",
 			"695ccc99-80ce-4951-8e9f-8ae498bb7f92",
@@ -6064,7 +5470,6 @@
 		"description": "Kwantitatieve informatie en kansen",
 		"prefix": "D",
 		"id": "2236652a-6546-40f0-8f1e-8938fc40c29e",
-		"unreleased": true,
 		"fo_subdomein_id": [
 			"222afd00-0ba9-43ba-a951-9ae71cfc4c0f",
 			"b259553c-e85c-4b1c-9f0e-2ad8b9b246c2",
@@ -6078,7 +5483,6 @@
 		"description": "Kwantitatieve informatie en kansen",
 		"prefix": "D",
 		"id": "0f083eff-b498-4bc5-ac83-70cd0401eb2f",
-		"unreleased": true,
 		"fo_subdomein_id": [
 			"2f210087-6801-49f8-9164-d32a154baec7",
 			"7a8f32c3-589c-4da4-b3b6-7ef2a0062331",
@@ -6086,6 +5490,615 @@
 			"a0f521cc-3682-47ae-9de9-cf6b3171160e",
 			"94cdb0e3-f004-4b5e-b68f-ef7e07fd9e8d",
 			"726fdab2-7976-4773-ac81-9cb930f8fffd"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Domeinonafhankelijke ondersteunende vaardigheden",
+		"prefix": "A",
+		"id": "2a3666a5-288e-46b4-8be3-d2c8c30169fb",
+		"fo_subdomein_id": [
+			"8499354a-a58e-4e3c-a46a-aa0ad76e5fea",
+			"827327fb-b519-488c-84c9-82073ab90476"
+		],
+		"replaces": [
+			"a56c7bff-0cf0-4a2e-ab07-2f7b0438f7bf",
+			"f39cb86d-7fb8-4cdd-9e72-654021c69f08"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Verhoudingen en procenten",
+		"prefix": "B",
+		"id": "a57774e9-5bf6-4300-8138-53bce073c8c0",
+		"fo_subdomein_id": [
+			"1fb009c9-69fc-4c31-ac18-5a6383aed997",
+			"d393dfb5-3a16-4195-9622-18355829d364",
+			"877e5bfb-0c67-4a20-afc0-5832217f1f35",
+			"2a5ef4bb-5a37-4a8a-9a2c-b94921c1b9ec"
+		],
+		"replaces": [
+			"12ecacad-52ea-4a45-a61b-e815a55fa38f",
+			"2770a3fb-17ff-4241-856e-7355fd0b891e"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Grootheden en eenheden",
+		"prefix": "C",
+		"id": "847c2662-2379-4404-a107-48419911e991",
+		"fo_subdomein_id": [
+			"0206090e-4465-40a4-9ee3-7bece3b16a96",
+			"0bd4f6b5-6f76-480d-9831-12d636ec8ef5",
+			"f6c84a3c-aac6-490c-bfba-22fc75849e90",
+			"ff477523-9578-43c1-9661-711d59e43789",
+			"8bc32ba7-d843-4feb-bd4e-38cbc14f4219"
+		],
+		"replaces": [
+			"56c4c92b-50bf-4cb6-a734-5604f7f1b699",
+			"807e9ab3-6fb2-47e7-ad60-49a1c60d8659"
+		]
+	},
+	{
+		"title": "Domein E",
+		"description": "Verbanden, verschijningsvormen en vergelijkingen",
+		"prefix": "E",
+		"id": "852101a6-fd4f-4a94-bc81-6c0ab002b5e9",
+		"fo_subdomein_id": [
+			"8c07a5e8-b039-4205-83e8-0c3372f33efa",
+			"992b5f54-0c78-41b9-8256-acfac1c0aafb",
+			"2624afd9-b1dd-4d82-a5f4-795356959ba8",
+			"bf29a00b-aaa9-480d-b491-2b3355f6d820",
+			"f86a647d-f033-4db9-8ae7-368b3097d607",
+			"e8702211-a4a2-4c3d-9c2e-124a53878a58"
+		],
+		"replaces": [
+			"2e54c31c-bf40-4b1a-bb9f-981961cbce26",
+			"210352e3-3493-4e34-bd11-1a5609084b39"
+		]
+	},
+	{
+		"title": "Domein F",
+		"description": "Twee- en driedimensionale ruimte",
+		"prefix": "F",
+		"id": "95a1d559-4461-4755-ae51-7b0a7a4ff416",
+		"fo_subdomein_id": [
+			"50fe0ebf-05b7-4646-abe6-1e59f3b88ddf",
+			"8b7fadbd-aed6-4a80-97de-53543575a22e",
+			"b6a810cc-c732-4945-bfae-296d4b9e9998",
+			"d47c3806-0715-4934-8949-3dfa09390b63",
+			"c403c3b3-8f07-4faf-89ec-6a4f3bde02b8",
+			"adae4fc4-aa99-4eb4-b52e-1b76d34b9a76"
+		],
+		"replaces": [
+			"627f8b18-3f95-4e46-9892-9ac1b7ec40a9",
+			"584b5335-f2de-4cfa-818a-5c27956f2b68"
+		]
+	},
+	{
+		"title": "Domein G",
+		"description": "Wiskundige oriëntatie",
+		"prefix": "G",
+		"id": "fe78d0b2-ebc8-4e68-b329-33eeaba2faf1",
+		"fo_subdomein_id": [
+			"31eb7028-1dd7-49ec-b7c1-2eff8105a29b",
+			"98a379a4-53b1-4ecd-84a4-6870d003e3d2",
+			"3aadef7f-cb3e-4649-937e-7f56cf1847d8",
+			"825de4a5-69dc-4687-8360-6dde31084598"
+		],
+		"replaces": [
+			"0ce0d02c-40d9-4ea3-9748-e9212b979064",
+			"05c54006-3797-47ef-99b3-c290b83a3533"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Domeinonafhankelijke ondersteunende vaardigheden",
+		"prefix": "A",
+		"id": "87b61b08-0f10-4767-938e-09615e511a13",
+		"fo_subdomein_id": [
+			"d06ab047-3516-459f-901c-118ee9020b6c",
+			"6bb5043b-2afe-41f8-8f27-fd872c06f5d8"
+		],
+		"replaces": [
+			"845788cb-12b0-41a9-a45a-61c40b7b8a2a",
+			"81446b82-4a3a-4c1e-81c2-84528264f4ae"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Verhoudingen en procenten",
+		"prefix": "B",
+		"id": "021b73d0-d3a5-49b5-a303-9ec0cbfff83a",
+		"fo_subdomein_id": [
+			"355575dd-17b1-4f21-a5fb-af88d6773657",
+			"2ca21559-4714-44e4-9718-655cbe2702ee",
+			"88b34324-b398-4001-8e3b-accdcb089522",
+			"9f6e764b-6b0d-4e52-b0c2-10c44138e896",
+			"416de7f0-8896-488b-a5ba-1bb29639c378"
+		],
+		"replaces": [
+			"2f7a8a25-d2eb-4fe0-b099-cd88677f5bdb",
+			"ceb52d6b-fc0f-4123-868e-f68fa2be8279"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Grootheden en eenheden",
+		"prefix": "C",
+		"id": "4fef6b5f-c50f-44bc-b160-fe8896d452d1",
+		"fo_subdomein_id": [
+			"721bb1c8-3846-485e-9220-6aa49a7414d9",
+			"267eb0c3-f881-4f1f-9b3e-a9b96a89fda5",
+			"ed3f2721-8d7b-4e34-832c-d575cc6bf36f",
+			"f8ab20f7-ef06-41cb-a201-cd919218a6e1",
+			"31789253-b1f0-4635-9a57-06d34203c08a"
+		],
+		"replaces": [
+			"d760758e-b360-4978-9083-db7f66ac71df",
+			"6964b7e0-1ffe-4f1f-9375-dd7a31993bec"
+		]
+	},
+	{
+		"title": "Domein E",
+		"description": "Verbanden, verschijningsvormen en vergelijkingen",
+		"prefix": "E",
+		"id": "eb6e81fa-954a-45dc-bf1f-7df4d2e66043",
+		"fo_subdomein_id": [
+			"bb4f5862-27a2-47f2-ac34-a3f560aaf889",
+			"65efd281-f6fe-4ced-a42f-e9208326df0e",
+			"77e2cbe6-c1e5-4b31-8172-f5f86f32d3eb",
+			"5e84f728-dd62-4767-8ed1-eb67c5851ee8",
+			"2198b61a-0ab4-4ee2-87b7-fb01ddbd83ed",
+			"9a9c9096-32c1-4b08-9447-e4519c4a7fc2"
+		],
+		"replaces": [
+			"2ab36534-6198-4a0b-bf83-fb9931a54daa",
+			"35ea2e02-3f8a-4b72-b9f0-c1ad814f98de"
+		]
+	},
+	{
+		"title": "Domein F",
+		"description": "Twee- en driedimensionale ruimte",
+		"prefix": "F",
+		"id": "e7fae06a-665e-48c3-b55a-667486e67e28",
+		"fo_subdomein_id": [
+			"1dc8fb81-0fe8-4cbe-bd8f-540d086c88f6",
+			"db999b47-22bb-47ec-8b8f-2d719b15411d",
+			"60fdc54e-1a41-4fc2-9cf4-fc4e0c51156b",
+			"c717a893-fc1d-4891-9eca-4811910d16c9",
+			"b77c9c21-ffe8-4363-a5e8-64309416f5b4",
+			"4713e2f1-a8d1-4b2d-b3d5-db15fe26efc9"
+		],
+		"replaces": [
+			"937a0f31-87d1-4076-a7b9-972e19286cf0",
+			"7e40f5be-8f0a-41bf-8eb9-81caa78fd505"
+		]
+	},
+	{
+		"title": "Domein G",
+		"description": "Wiskundige oriëntatie",
+		"prefix": "G",
+		"id": "23dce73c-3b34-4b7e-85fb-7f142286e54e",
+		"fo_subdomein_id": [
+			"996651fc-d050-4d9a-8390-fa5e27475256",
+			"ddc8cb3c-6edd-49c9-b4c3-29e71cced4c4",
+			"5c8420f7-7325-4647-90c9-755fb0b93130",
+			"20083519-832d-49dd-95ee-5dbb120092b0"
+		],
+		"replaces": [
+			"a7b87a67-1d83-482d-8726-68dd80510b62",
+			"59cb7e97-1829-47cf-b972-fcf115b9c58d"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Domeinonafhankelijke ondersteunende vaardigheden",
+		"prefix": "A",
+		"id": "0cf0384f-5ef4-4a5b-a55c-ed09c3469e96",
+		"fo_subdomein_id": [
+			"47b8ba58-c1c5-4bfd-9e90-fdce4e679ddd",
+			"e0e2b051-1813-45ae-92b5-4f2c349245a2"
+		],
+		"replaces": [
+			"4e915876-dfbb-4595-9a61-c25f3818d9fc",
+			"deb80d3e-a380-47a1-83ba-365fe5cba316"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Verhoudingen en procenten",
+		"prefix": "B",
+		"id": "3e056e87-b69a-4dc2-9dfc-f0939361793f",
+		"fo_subdomein_id": [
+			"422e3754-4130-4f64-9a0b-aa7160c3e3b7",
+			"4592a071-16de-4fd1-8099-47fe430261e3",
+			"db73d018-5480-44bc-bd6a-25a76a365920",
+			"961502a5-ef7d-4c73-aa00-0d2ac2d8788e",
+			"1594515f-d50a-4784-a211-b3534e681264",
+			"58b522a0-aa3b-4178-ad30-f91a6d95b818"
+		],
+		"replaces": [
+			"bbb7c909-da40-42b2-a81a-69b97aae909e",
+			"6f2f5ce6-99ab-4d1b-9da3-3e6b8bae8a8f"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Grootheden en eenheden",
+		"prefix": "C",
+		"id": "4d81317f-f3c8-484f-ac73-da032c75dfd6",
+		"fo_subdomein_id": [
+			"c1337b1c-9774-48e0-9ae5-74dccad59f6a",
+			"53a9c4a8-253e-4511-a2d5-6aff300cad07",
+			"353a88fb-c565-47b7-abd7-2ef9a7175710",
+			"db389a0f-b865-4781-bbe2-a89f5349f099",
+			"9d1311a4-f229-4d64-8493-5f9619a276ab"
+		],
+		"replaces": [
+			"11a15d45-b8d5-408d-8584-d01176a88122",
+			"3944c478-1d96-49ba-8e91-980fb5b7a0ad"
+		]
+	},
+	{
+		"title": "Domein E",
+		"description": "Verbanden, verschijningsvormen en vergelijkingen",
+		"prefix": "E",
+		"id": "9b312395-a36e-485d-be2b-e1372135eaf7",
+		"fo_subdomein_id": [
+			"2e4197a0-8a86-4255-9450-21f7ab2d44db",
+			"802b33e3-6044-440f-87ad-5e84aa8602b5",
+			"df525bc3-b9ea-467e-ad83-13d6379ede32",
+			"0ec34831-8550-4a57-91e2-dbb5cf4b5606",
+			"7706ad0c-6864-4f50-9672-de06f412fe08",
+			"c3a2e8f3-d842-4e51-a4af-ef99e52fa7cf"
+		],
+		"replaces": [
+			"a9c69a27-5915-464a-9061-2065d9323cd5",
+			"e4a85bc1-3c98-4739-9395-d15c10340e19"
+		]
+	},
+	{
+		"title": "Domein F",
+		"description": "Twee- en driedimensionale ruimte",
+		"prefix": "F",
+		"id": "02626096-718d-47a3-958d-045bcbe61f26",
+		"fo_subdomein_id": [
+			"504c12ac-a5c3-4eac-a0b7-f5883234c1ed",
+			"58417c9d-ffb8-4f72-9719-2ba9ec705140",
+			"135ae527-e40c-41ea-bb58-a7ef348c11ac",
+			"b1c0d455-bc06-4b61-95eb-d0a456cb67de",
+			"09b43df3-3c4f-4ff0-a806-eea685260161",
+			"5e5b2804-600c-4343-b695-da260fe71084"
+		],
+		"replaces": [
+			"e65b3459-7638-46f9-b032-a42d417ab9c9",
+			"92f191cc-a21d-4da5-a802-9187c265c3dc"
+		]
+	},
+	{
+		"title": "Domein G",
+		"description": "Wiskundige oriëntatie",
+		"prefix": "G",
+		"id": "15ba4fb7-300a-4da0-8344-3e006f805cbd",
+		"fo_subdomein_id": [
+			"d622ec9b-7b9e-45f1-a145-3bbe1699ba80",
+			"5c9fd30a-52ad-4b05-a8fb-ec6f7623a35c",
+			"7c2a76fb-b53c-4aae-9c53-31055e33f459",
+			"eecae58e-9bbf-4870-b7d9-203c2fb8b5df"
+		],
+		"replaces": [
+			"1914da86-9a31-4242-af24-df82e0ecf8af",
+			"ac618799-413b-41fd-8384-35fdc4e53dfa"
+		]
+	},
+	{
+		"title": "Domein F",
+		"description": "Twee- en driedimensionale ruimte (23D)",
+		"prefix": "F",
+		"id": "f614765e-4104-4c07-8eb3-f755fc896124",
+		"fo_subdomein_id": [
+			"dc7f4d0b-fd35-4665-bead-4dd1dc70d635",
+			"27836a6c-4d63-4a1e-b745-bd914ac002ec",
+			"cbebbdb0-270f-41d5-9acc-9b2c2bd2f6b4",
+			"719d38c2-ccf9-4f40-b053-60e77c657cc0"
+		],
+		"replaces": [
+			"7c3b0c54-5646-4b62-913e-462823fe7c7b",
+			"b78a2e83-02a2-4550-8e33-6711127ea170"
+		]
+	},
+	{
+		"title": "Domein A. Domeinonafhankelijke ondersteunende vaardigheden",
+		"description": "Domeinonafhankelijke ondersteunende vaardigheden (DOV)",
+		"prefix": "A",
+		"id": "3b196845-6f69-4889-8aeb-6e3bb3e09cfe",
+		"fo_subdomein_id": [
+			"3b4935a3-663f-408b-ae77-9621c455ee15",
+			"6a7c212d-4a8d-47c2-8c9d-7b9f4a4c03aa"
+		],
+		"replaces": [
+			"4a1ce3e6-bc7b-4e96-b869-46907fc54420",
+			"810e4648-7954-4c12-99ac-22c5ee15cdb2"
+		]
+	},
+	{
+		"title": "Domein B Verhoudingen en procenten",
+		"description": "Verhoudingen en procenten (VP)",
+		"prefix": "B",
+		"id": "8d22b53e-bbad-4093-9cb5-857e38e44813",
+		"fo_subdomein_id": [
+			"9baf8a0c-eb45-474e-a36e-890a85ccbcec",
+			"62d0d662-53c7-4a58-84d4-cc1b7945e529",
+			"03604eb5-802c-4399-b984-0cfd913dbc43",
+			"6da1cc7b-f357-41a2-82e2-fa145a4ace36"
+		],
+		"replaces": [
+			"a038fa63-17e1-4aaa-893d-1d7d4def7e5a",
+			"4011e5cf-611b-4668-b026-c461e8770440"
+		]
+	},
+	{
+		"title": "Domein C Grootheden en eenheden",
+		"description": "Grootheden en eenheden (GE)",
+		"prefix": "C",
+		"id": "cf8a60e1-c662-4968-b9ad-601d61d20290",
+		"fo_subdomein_id": [
+			"8199796e-4d79-43c2-b384-410adb01748c",
+			"99c9f407-9c6f-4e26-ad19-e16460d41f3b",
+			"363d16c9-329c-445c-82ec-079fdfb173f9",
+			"b86a3de5-837c-49de-b5e0-2a8be45d06a8",
+			"1c5d719e-2700-4ee3-abc1-373deb392d63"
+		],
+		"replaces": [
+			"8a1b57ce-a278-4f52-8695-bf31f29151d2",
+			"c1b91873-86ed-42c9-aea9-23f3dc2c28c3"
+		]
+	},
+	{
+		"title": "Domein E Verbanden, verschijningsvormen en vergelijkingen",
+		"description": "Verbanden, verschijningsvormen en vergelijkingen (VVV)",
+		"prefix": "E",
+		"id": "1672f4db-a236-48da-907d-799be5cbf993",
+		"fo_subdomein_id": [
+			"836a6b8b-4d78-40f5-b588-3a28c93542d1",
+			"7b6dc340-c70f-4b43-b8d2-0069ca6acd34",
+			"4a93d489-6af4-4c2c-b1d9-438e61cd2850",
+			"a63cc227-9448-4c0d-885f-b9c44edb49e9",
+			"432bddec-b1df-4a16-a98f-e01c461c1880"
+		],
+		"replaces": [
+			"609ff30a-0a62-4492-953a-dfa61b87f8e9",
+			"4eb2471d-af68-4191-a041-8b9bde480a4a"
+		]
+	},
+	{
+		"title": "Domein F Twee- en driedimensionale ruimte",
+		"description": "Twee- en driedimensionale ruimte (23D)",
+		"prefix": "F",
+		"id": "a5558c7b-6835-42f7-b1ee-3d28cf42e062",
+		"fo_subdomein_id": [
+			"2b109501-66d9-4125-bcb1-80754cd556ad",
+			"11ce9bbd-cdcb-4fa8-8c95-7aa5189895dc",
+			"0ff58889-7f43-4204-b6c4-db009ca2f7ed",
+			"2a91db3f-0725-44e3-ac77-b7a34407bf0f"
+		],
+		"replaces": [
+			"27083826-f3c5-48ca-93d0-72bf83a7fd44",
+			"3cc112c8-2865-4757-93e2-2a4b1c2f00e9"
+		]
+	},
+	{
+		"title": "Domein G Wiskunde en de wereld",
+		"description": "Wiskunde en de wereld",
+		"prefix": "G",
+		"id": "745e44bf-375b-4644-a2ba-2a8599611b25",
+		"fo_subdomein_id": [
+			"0636935a-15dd-4388-ad77-7405c0e0f972",
+			"d4abd8df-a402-4ced-b58a-3278e106218f",
+			"23df5250-9278-44bb-9f91-6bfef5b28b36",
+			"8f20fa2b-1332-4d32-9815-13be2dac223e",
+			"b4092b37-5a8e-4f20-81fb-7ac67dd4d27b",
+			"49a442b8-b8de-4194-9577-54c6104bb9d3"
+		],
+		"replaces": [
+			"57c36369-9f9b-4de5-b4e3-bc498b485039",
+			"c9c1fa67-ba0c-4e99-aadc-8d51895d015d"
+		]
+	},
+	{
+		"title": "Domein A Domeinonafhankelijke ondersteunende vaardigheden",
+		"description": "Domeinonafhankelijke ondersteunende vaardigheden (DOV)",
+		"prefix": "A",
+		"id": "2d0866ee-b98e-4950-bb05-f8eaf4e61542",
+		"fo_subdomein_id": [
+			"5e956b7b-f345-4c4e-bcea-23b90cdc5b4a",
+			"59ea6dd0-265f-46dc-8009-df141cd8e40e"
+		],
+		"replaces": [
+			"f1090a98-0e0a-4d08-b397-960b84716363",
+			"90d7a699-9f7d-4fcf-8432-46e42f373f86"
+		]
+	},
+	{
+		"title": "Domein B Verhoudingen en procenten",
+		"description": "Verhoudingen en procenten (VP)",
+		"prefix": "B",
+		"id": "7b161b3b-a715-4184-93bd-73a6bbd209e8",
+		"fo_subdomein_id": [
+			"fce3ea57-b571-4532-9917-14108cd69801",
+			"09be9560-70af-4c90-9461-891ebc89e10c",
+			"54ab81ff-1ada-447a-af85-7f8ea7abb21a",
+			"34be58d0-1ec5-47de-9222-8765d090b54d"
+		],
+		"replaces": [
+			"de1c3c4e-087d-4626-9c3e-31233779d6be",
+			"15fdb903-3a38-4529-8116-8efe790652b1"
+		]
+	},
+	{
+		"title": "Domein C Grootheden en eenheden",
+		"description": "Grootheden en eenheden (GE)",
+		"prefix": "C",
+		"id": "98190cd8-df00-43f4-afc9-e9e7d041d3c3",
+		"fo_subdomein_id": [
+			"c1c79692-6c35-4399-9cd3-127e1e50892c",
+			"b48ba91e-4aba-4e75-bb4c-637be6e3dc32",
+			"4f94ca61-5fdb-4c90-b33f-84a385a1e8c2",
+			"e16632b5-70dd-4c26-80fd-5824ab20e00d",
+			"704f8f02-fdf3-4641-ad08-283a67809a94"
+		],
+		"replaces": [
+			"ace2ad85-a79e-48ea-87f1-420d8a591a13",
+			"7932b58c-fc3f-471b-8199-3d5dc0f814d4"
+		]
+	},
+	{
+		"title": "Domein E verbanden, verschijningsvormen en vergelijkingen",
+		"description": "Verbanden, verschijningsvormen en vergelijkingen (VVV)",
+		"prefix": "E",
+		"id": "ec1eda90-0eda-4cc3-b2f7-400dfef2f3f5",
+		"fo_subdomein_id": [
+			"3a8ca519-bb3a-41bf-9e69-7be10b091c34",
+			"784c23ea-ca1e-4392-9733-7a5393cc9aae",
+			"786b4cd5-162d-4861-9b77-0967c1d1b2f7",
+			"f822f133-5692-4fd3-8f11-1abf9cbbadf0",
+			"f039a617-def2-4fa4-a4de-78a98984ab53"
+		],
+		"replaces": [
+			"316cbb2d-fb2b-49d3-af55-d3f93d96ad74",
+			"eb14ab00-30a6-4ac7-99d9-0990e1edf0bc"
+		]
+	},
+	{
+		"title": "Domein F Twee- en driedimensionale ruimte",
+		"description": "Twee- en driedimensionale ruimte (23D)",
+		"prefix": "F",
+		"id": "d84bc0c9-5d24-448c-b655-14205f0c07f3",
+		"fo_subdomein_id": [
+			"d8f700b6-b84c-44bf-952c-7d736376caba",
+			"65a62074-01cf-4c88-9b67-68afcfc71ef3",
+			"ccbeaf30-580f-4e83-a608-5bf17c7ec3e5",
+			"59bef51e-c2ca-4978-9673-5cd82568bd74"
+		],
+		"replaces": [
+			"532cbf65-68bb-4625-8cfe-7a3af68c02db",
+			"a8a4547a-a790-4fd2-b2d0-d6c557ef69c2"
+		]
+	},
+	{
+		"title": "Domein G",
+		"description": "Wiskunde en de wereld",
+		"prefix": "G",
+		"id": "2560496d-3f84-4105-a343-2131545243be",
+		"fo_subdomein_id": [
+			"f9356ad3-f534-4bed-84e1-7b243ea8b3f5",
+			"0a02001c-129c-408a-84e5-b7ecca54a6a6",
+			"d9cf00d1-0f3b-4944-8ffd-2d0c358467ae",
+			"cae3a9d2-0f7b-4e95-acb8-283e0023c53f",
+			"f910b972-7333-4e20-8fb7-8b90c6eea96f",
+			"d5f02bb6-37b8-4659-b824-0cc943baf71a"
+		],
+		"replaces": [
+			"02e8d29f-8239-4687-9a58-c1627818c8fa",
+			"9669a694-2d28-4cc7-a657-82047f0bcb7d"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Domeinonafhankelijke ondersteunende vaardigheden (DOV)",
+		"prefix": "A",
+		"id": "f1928e8d-bef6-434d-8c60-be2bf4710030",
+		"fo_subdomein_id": [
+			"692cbf0e-a4cf-41c2-a659-ea329447dcfe",
+			"b2d08f75-1822-4273-822a-0ac8c0694782"
+		],
+		"replaces": [
+			"ac3a914b-4d4d-42ec-9abc-d60cef2b9007",
+			"1edc42f2-0770-4f68-ba2c-33d06b606a61"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Verhoudingen en procenten (VP)",
+		"prefix": "B",
+		"id": "9f0e6145-8d7c-4890-b693-69bdcfa2a664",
+		"fo_subdomein_id": [
+			"730e1f01-0695-4f33-8ce2-02a76bc28374",
+			"aeac6a07-1df0-454c-ba35-21530504a0e6",
+			"c63c7395-15da-4e4c-9c46-c98a600d9611",
+			"870d8f2b-c4a7-42e2-b282-e22b1d8349f8"
+		],
+		"replaces": [
+			"4dde5f75-d187-4b18-841d-b9402e827516",
+			"16bbeb08-ab7f-4d94-81b8-5c3c8593e11f"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Grootheden en eenheden (GE)",
+		"prefix": "C",
+		"id": "f66632af-350e-4b70-b52a-72bc4e34d436",
+		"fo_subdomein_id": [
+			"59d1b07b-46f9-4290-9505-06100d2d5c66",
+			"6fed0ef8-f994-4c25-82e4-0d77e30d0ea1",
+			"4aec7047-2160-4f2d-bcfb-7a702e844983",
+			"a7baba5b-c5cf-45a8-a10d-7666f7ac3cb9",
+			"9abac80e-2235-40e7-90b2-f224fdeac974"
+		],
+		"replaces": [
+			"c45fdfd7-e30e-46df-a909-3b5644eaa0ed",
+			"6370e2c0-5afe-4763-92ee-f2ea0c975dcc"
+		]
+	},
+	{
+		"title": "Domein E",
+		"description": "Verbanden, verschijningsvormen en vergelijkingen (VVV)",
+		"prefix": "E",
+		"id": "c16c5890-cbc5-44d3-83a2-14e96875f779",
+		"fo_subdomein_id": [
+			"c93e171d-6360-45bf-9460-59ab455dca67",
+			"512e6e74-93c4-4305-b05a-522c290c3e25",
+			"627e060b-1aa9-4ddd-9544-a7959535096a",
+			"8bab14e1-bfd0-453b-8e33-aa44d8e01488",
+			"1f94606d-c566-47e8-94b4-3eec6afb3cbb"
+		],
+		"replaces": [
+			"1660a9c7-b0b0-43e2-9900-b95f3a91bae8",
+			"3cbfe59c-5e6e-40d0-801b-600ddba76fca"
+		]
+	},
+	{
+		"title": "Domein G",
+		"description": "Wiskunde en de wereld",
+		"prefix": "G",
+		"id": "26d72f1f-d67a-4526-9935-f7314b37384e",
+		"fo_subdomein_id": [
+			"933440a7-130e-4d02-baa1-aadb3437455d",
+			"6ca8eff7-bed8-4899-9b45-6434ad67ca1b",
+			"5b0f0813-1017-4d88-8272-1a7013099b0c",
+			"c4ccd66e-792d-4e07-bd4d-17d429ffa5ee",
+			"e6066a30-0c69-4b93-b2dd-6602a33ae8db",
+			"eec5aa2e-216c-4d89-9867-90ee93511666"
+		],
+		"replaces": [
+			"affbc61d-f4a6-49d0-b509-1cba0390ca56",
+			"57fd5cfe-2beb-41be-890a-30dfa71b28b3"
+		]
+	},
+	{
+		"title": "Domein: communicatie",
+		"description": "Domein: communicatie",
+		"prefix": "",
+		"id": "c21e9e11-8ea2-4647-be1c-98a8d5700a1d",
+		"replaces": [
+			"d2412550-d944-4d05-a76d-5838315f4517",
+			"8d666ccd-fd32-41be-ad28-545968b5964e",
+			"8aea361e-9135-4db7-9c93-2d630db52173"
+		],
+		"fo_kernzin_id": [
+			"56a737ce-592f-4b51-94bd-f8b7fb6c5647",
+			"3235c07d-1847-4177-bc32-a15910b1cba4"
 		]
 	}
 ]
