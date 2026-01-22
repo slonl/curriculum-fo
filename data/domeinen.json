@@ -4668,7 +4668,7 @@
 	},
 	{
 		"title": "praktische kennis & vaardigheden",
-		"description": "praktische kennis & vaardigheden",
+		"description": "",
 		"id": "087b12f4-5116-477d-82af-e98cd5b92e3a",
 		"fo_kernzin_id": [
 			"7e4abff8-ed83-4e2e-be18-606d49a43f2c",
@@ -4678,7 +4678,7 @@
 	},
 	{
 		"title": "ontwerpen en maken",
-		"description": "ontwerpen en maken",
+		"description": "",
 		"id": "fb716895-b04e-4c22-80a4-8d779b08cbca",
 		"fo_kernzin_id": [
 			"5a12f220-cdaf-48b5-8ed6-021f3ad0c3a4",
@@ -4688,7 +4688,7 @@
 	},
 	{
 		"title": "de gedigitaliseerde wereld",
-		"description": "de gedigitaliseerde wereld",
+		"description": "",
 		"id": "74267558-8694-4f1b-ba91-625cabbe4516",
 		"fo_kernzin_id": [
 			"272435ee-a09a-4d7d-b1b8-82ebba1538b9",
@@ -4698,7 +4698,7 @@
 	},
 	{
 		"title": "Domein: mens en welvaart",
-		"description": "Domein: mens en welvaart",
+		"description": "",
 		"id": "eb5c8393-f95b-4bdf-9d2a-b998fdf57671",
 		"fo_kernzin_id": [
 			"781541a8-32ac-4569-bbb8-fcefed92f3c5"
@@ -4706,7 +4706,7 @@
 	},
 	{
 		"title": "Domein: scheikundige verschijnselen",
-		"description": "Domein: scheikundige verschijnselen",
+		"description": "",
 		"id": "414d29ff-590a-4bfe-b7d7-d61c4d8d4a55",
 		"fo_kernzin_id": [
 			"c31a9633-362f-43c6-bbb5-76fda0c3d08d"
@@ -4714,7 +4714,7 @@
 	},
 	{
 		"title": "Domein: natuurwetenschappen en technologie",
-		"description": "Domein: natuurwetenschappen en technologie",
+		"description": "",
 		"prefix": "",
 		"id": "2e95911f-8bd5-41f2-904c-86f348da8989",
 		"replaces": [
@@ -4728,7 +4728,7 @@
 	},
 	{
 		"title": "Domein: natuurkundige en scheikundige verschijnselen en technische systemen",
-		"description": "Domein: natuurkundige en scheikundige verschijnselen en technische systemen",
+		"description": "",
 		"prefix": "",
 		"id": "2f5dfd65-4188-4a6a-8a18-7d253125db85",
 		"replaces": [
@@ -4742,7 +4742,7 @@
 	},
 	{
 		"title": "Domein: organismen en gezondheid",
-		"description": "Domein: organismen en gezondheid",
+		"description": "",
 		"prefix": "",
 		"id": "8456e3cd-ccc7-4174-8796-e86b335409cf",
 		"replaces": [
@@ -4756,7 +4756,7 @@
 	},
 	{
 		"title": "Domein: systeem aarde",
-		"description": "Domein: systeem aarde",
+		"description": "",
 		"prefix": "",
 		"id": "7c8e6b84-912c-4bf9-a365-6595240e3242",
 		"replaces": [
@@ -4770,7 +4770,7 @@
 	},
 	{
 		"title": "Domein: mens en ruimte",
-		"description": "Domein: mens en ruimte",
+		"description": "",
 		"prefix": "",
 		"id": "86d1e6c8-a127-47c0-ac4e-5b14002a2762",
 		"replaces": [
@@ -4784,7 +4784,7 @@
 	},
 	{
 		"title": "Domein: mens en tijd",
-		"description": "Domein: mens en tijd",
+		"description": "",
 		"prefix": "",
 		"id": "5ab630ee-61da-4bb9-811d-aa2153d6404d",
 		"replaces": [
@@ -4798,7 +4798,7 @@
 	},
 	{
 		"title": "Domein: mens en samenleving",
-		"description": "Domein: mens en samenleving",
+		"description": "",
 		"prefix": "",
 		"id": "8586da57-d81d-4ec1-a450-a75e15c01a71",
 		"replaces": [
@@ -5010,12 +5010,12 @@
 			"86e8dde3-ff46-4906-8501-bf8b22c3f78f",
 			"187dc9c0-7370-4954-87c9-1e6c9c8b9dda",
 			"c4f4289f-5543-49c4-b4ac-f1e05f3e0f71",
-			"a69cbd96-49c7-45ea-8438-f19d98749a0c",
-			"baa9dfb6-73e6-4565-a2aa-a5033988d61b",
-			"efc63233-1104-407d-9c81-12c63cab4295",
 			"f105011e-82f5-49e0-8e86-c7e6c31405e2",
 			"a696990c-f5e5-482a-9fcd-00ae5ac87ade",
-			"da24f9be-9c56-4e23-ab68-dd361ca4077d"
+			"da24f9be-9c56-4e23-ab68-dd361ca4077d",
+			"a69cbd96-49c7-45ea-8438-f19d98749a0c",
+			"baa9dfb6-73e6-4565-a2aa-a5033988d61b",
+			"efc63233-1104-407d-9c81-12c63cab4295"
 		],
 		"replaces": [
 			"82c3686f-4c8d-44e3-a18a-596d37466a17"
@@ -5115,13 +5115,13 @@
 		"fo_kernzin_id": [
 			"38b7bf72-31e7-4f80-9b85-a3ceea825ff8",
 			"c8cf12dc-d3f5-4819-a1cd-21008a5dcbe8",
-			"923369d7-1c98-4fd9-a4c6-9f3d7cd9b4df",
-			"4341f8f3-6251-4921-9a81-a81aaaac4c9a",
 			"2a377e8b-fc0f-41c4-8d82-93277698cb13",
+			"9860c2ca-8824-4399-aaeb-22c95f771dbd",
 			"cfcc92bf-54c9-4f5b-b283-d385d5bea06c",
 			"2cd591e7-2e6d-4f3e-837c-f97f953533aa",
+			"923369d7-1c98-4fd9-a4c6-9f3d7cd9b4df",
 			"3d75a697-d81c-4a66-9a81-63bd7bbf3c32",
-			"9860c2ca-8824-4399-aaeb-22c95f771dbd"
+			"4341f8f3-6251-4921-9a81-a81aaaac4c9a"
 		],
 		"replaces": [
 			"f87d2b59-714b-4b94-9dfa-81e49632ad4e",
@@ -5304,7 +5304,7 @@
 	},
 	{
 		"title": "jezelf en de ander",
-		"description": "jezelf en de ander",
+		"description": "",
 		"id": "06e5c5fc-794a-4406-ba03-2478768a6e4e",
 		"fo_kernzin_id": [
 			"aa740ed2-677d-47ef-8f2a-d26118e7929c",
@@ -5317,7 +5317,7 @@
 	},
 	{
 		"title": "samenleven in een democratische rechtsstaat",
-		"description": "samenleven in een democratische rechtsstaat",
+		"description": "",
 		"id": "60bf576d-c6f9-49fa-a0b6-acd6ff2c7a71",
 		"fo_kernzin_id": [
 			"65445176-f499-4a57-9acd-9caddce69071",
@@ -5330,7 +5330,7 @@
 	},
 	{
 		"title": "vormgeven aan democratische en maatschappelijke betrokkenheid",
-		"description": "vormgeven aan democratische en maatschappelijke betrokkenheid",
+		"description": "",
 		"id": "7db915ba-30aa-4691-a7c1-36253eef0616",
 		"fo_kernzin_id": [
 			"88d1d5b4-6613-4e12-be6b-460bc99cb260",
@@ -5343,7 +5343,7 @@
 	},
 	{
 		"title": "Domein: vraagstukken en perspectieven",
-		"description": "Domein: vraagstukken en perspectieven",
+		"description": "",
 		"prefix": "",
 		"id": "aa5aecc8-196e-4ebc-add4-25621e65d055",
 		"replaces": [
