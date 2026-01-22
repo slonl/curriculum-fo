@@ -5303,19 +5303,6 @@
 		]
 	},
 	{
-		"title": "jezelf en de ander",
-		"description": "",
-		"id": "06e5c5fc-794a-4406-ba03-2478768a6e4e",
-		"fo_kernzin_id": [
-			"aa740ed2-677d-47ef-8f2a-d26118e7929c",
-			"11809484-8510-45d3-bbb8-bd5830a82ad4",
-			"7576f8c3-d758-4e74-8eda-f51126dafbde"
-		],
-		"replaces": [
-			"4e9e8eba-6487-40f4-bcfb-dd2b959d2771"
-		]
-	},
-	{
 		"title": "samenleven in een democratische rechtsstaat",
 		"description": "",
 		"id": "60bf576d-c6f9-49fa-a0b6-acd6ff2c7a71",
@@ -6099,6 +6086,20 @@
 		"fo_kernzin_id": [
 			"56a737ce-592f-4b51-94bd-f8b7fb6c5647",
 			"3235c07d-1847-4177-bc32-a15910b1cba4"
+		]
+	},
+	{
+		"title": "jezelf en de ander",
+		"description": "",
+		"id": "43ea8556-d28b-40aa-8966-7fb5894c4b46",
+		"fo_kernzin_id": [
+			"aa740ed2-677d-47ef-8f2a-d26118e7929c",
+			"d95db995-d689-4332-98e7-0a19ddedabe8",
+			"7576f8c3-d758-4e74-8eda-f51126dafbde"
+		],
+		"replaces": [
+			"4e9e8eba-6487-40f4-bcfb-dd2b959d2771",
+			"06e5c5fc-794a-4406-ba03-2478768a6e4e"
 		]
 	}
 ]

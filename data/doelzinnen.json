@@ -56290,20 +56290,6 @@
 		]
 	},
 	{
-		"title": "Doelzin 15B",
-		"description": "De school stimuleert een respectvolle omgang van leerlingen met diversiteit in de samenleving.",
-		"prefix": "B",
-		"soort": "kerndoel",
-		"status": "definitief concept",
-		"id": "79ca7ab9-d2f9-43e3-82a3-dcbdcb6ff188",
-		"fo_uitwerking_id": [],
-		"replaces": [
-			"148c4b6f-a4ae-4238-be51-fab2d2b02d0a"
-		],
-		"deleted": true,
-		"dirty": true
-	},
-	{
 		"title": "Doelzin 15A",
 		"description": "De school draagt bij aan de sociale identiteit van leerlingen.",
 		"prefix": "A",

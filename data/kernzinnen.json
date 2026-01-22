@@ -1906,20 +1906,6 @@
 		]
 	},
 	{
-		"title": "Kerndoel 15",
-		"description": "De school stimuleert sociale en maatschappelijke competenties van leerlingen.",
-		"prefix": "15",
-		"id": "11809484-8510-45d3-bbb8-bd5830a82ad4",
-		"fo_doelzin_id": [
-			"f16450ba-f3c6-43df-9ada-e0ffe6b40160",
-			"7b28cad0-b664-4513-b380-fb724cab42fa"
-		],
-		"replaces": [
-			"6f544178-75ba-486d-88d1-c96d3bed0de2"
-		],
-		"dirty": true
-	},
-	{
 		"title": "Kerndoel 16",
 		"description": "De leerling doet ervaringen op met samenleven in een democratische rechtsstaat.",
 		"prefix": "16",
@@ -2103,6 +2089,20 @@
 		],
 		"replaces": [
 			"b736cb9a-b408-4466-a763-a5f934c42126"
+		]
+	},
+	{
+		"title": "Kerndoel 15",
+		"description": "De school stimuleert sociale en maatschappelijke competenties van leerlingen.",
+		"prefix": "15",
+		"id": "d95db995-d689-4332-98e7-0a19ddedabe8",
+		"fo_doelzin_id": [
+			"f16450ba-f3c6-43df-9ada-e0ffe6b40160",
+			"7b28cad0-b664-4513-b380-fb724cab42fa"
+		],
+		"replaces": [
+			"6f544178-75ba-486d-88d1-c96d3bed0de2",
+			"11809484-8510-45d3-bbb8-bd5830a82ad4"
 		]
 	}
 ]
