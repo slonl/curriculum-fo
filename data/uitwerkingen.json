@@ -89646,7 +89646,8 @@
 		"id": "89a145b6-084a-407c-8b30-9299c32b26b1",
 		"niveau_id": [
 			"bdc4744f-79df-4795-8795-2fee50c7416a"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -89656,7 +89657,8 @@
 		"id": "aae91307-55c5-443f-8ca5-f79f2143cb72",
 		"niveau_id": [
 			"bdc4744f-79df-4795-8795-2fee50c7416a"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -89666,7 +89668,8 @@
 		"id": "6cfba293-802c-4dca-a9f5-6c320fa7de6f",
 		"niveau_id": [
 			"bdc4744f-79df-4795-8795-2fee50c7416a"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -89676,7 +89679,8 @@
 		"id": "24f906ba-d269-4a21-946f-9c183b19c4cc",
 		"niveau_id": [
 			"bdc4744f-79df-4795-8795-2fee50c7416a"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "Het gaat hierbij om",
