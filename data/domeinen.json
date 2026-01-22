@@ -195,7 +195,7 @@
 	},
 	{
 		"title": "Domein B Taalbewustzijn",
-		"description": "Domein B Taalbewustzijn",
+		"description": "",
 		"prefix": "B",
 		"id": "f4dee6dd-cd68-4d20-ac6d-086e464fd487",
 		"fo_subdomein_id": [
@@ -208,7 +208,7 @@
 	},
 	{
 		"title": "Domein C Cultuurbewustzijn",
-		"description": "Domein C Cultuurbewustzijn",
+		"description": "",
 		"prefix": "C",
 		"id": "9f50eedc-bfc5-456b-b3aa-d0637900fad5",
 		"fo_subdomein_id": [
@@ -221,7 +221,7 @@
 	},
 	{
 		"title": "Keuzedomein D Schrijfverdieping",
-		"description": "Keuzedomein D Schrijfverdieping",
+		"description": "",
 		"prefix": "D",
 		"id": "6d5a0c6b-bb7b-475c-8879-4ca75ded401d",
 		"fo_doelzin_id": [
@@ -233,7 +233,7 @@
 	},
 	{
 		"title": "Keuzedomein E Taalonderzoek",
-		"description": "Keuzedomein E Taalonderzoek",
+		"description": "",
 		"prefix": "E",
 		"id": "d14a5f93-2e6f-4a79-8e6b-a81afe711060",
 		"fo_doelzin_id": [
@@ -245,7 +245,7 @@
 	},
 	{
 		"title": "Keuzedomein F Cultuuronderzoek",
-		"description": "Keuzedomein F Cultuuronderzoek",
+		"description": "",
 		"prefix": "F",
 		"id": "00df879e-7edb-455a-bec4-555619afbfea",
 		"fo_doelzin_id": [
@@ -257,7 +257,7 @@
 	},
 	{
 		"title": "Domein B Taalbewustzijn",
-		"description": "Domein B Taalbewustzijn",
+		"description": "",
 		"prefix": "B",
 		"id": "13138ed7-af19-4ad8-9954-82e2a872dba2",
 		"fo_subdomein_id": [
@@ -270,7 +270,7 @@
 	},
 	{
 		"title": "Domein C Cultuurbewustzijn",
-		"description": "Domein C Cultuurbewustzijn",
+		"description": "",
 		"prefix": "C",
 		"id": "c611d750-d524-46aa-9736-ed07f207f336",
 		"fo_subdomein_id": [
@@ -283,7 +283,7 @@
 	},
 	{
 		"title": "Keuzedomein D Schrijfverdieping",
-		"description": "Keuzedomein D Schrijfverdieping",
+		"description": "",
 		"prefix": "D",
 		"id": "e3f77ac0-fa4c-4623-80a4-72534f18b570",
 		"fo_doelzin_id": [
@@ -295,7 +295,7 @@
 	},
 	{
 		"title": "Keuzedomein E Taalonderzoek",
-		"description": "Keuzedomein E Taalonderzoek",
+		"description": "",
 		"prefix": "E",
 		"id": "ca1a5590-ec4a-464f-bd32-575125ff3f5c",
 		"fo_doelzin_id": [
@@ -307,7 +307,7 @@
 	},
 	{
 		"title": "Keuzedomein F Cultuuronderzoek",
-		"description": "Keuzedomein F Cultuuronderzoek",
+		"description": "",
 		"prefix": "F",
 		"id": "e9ca06cc-738b-44fb-b357-299ba1a7fd8f",
 		"fo_doelzin_id": [
@@ -319,7 +319,7 @@
 	},
 	{
 		"title": "Domein B Taalbewustzijn",
-		"description": "Domein B Taalbewustzijn",
+		"description": "",
 		"prefix": "B",
 		"id": "b904dd32-f9a0-4cfb-b3be-0b0a35a8176a",
 		"fo_subdomein_id": [
@@ -332,7 +332,7 @@
 	},
 	{
 		"title": "Domein C Cultuurbewustzijn",
-		"description": "Domein C Cultuurbewustzijn",
+		"description": "",
 		"prefix": "C",
 		"id": "3c701aeb-dc41-4fc6-8cab-c350fcdff8c2",
 		"fo_subdomein_id": [
@@ -345,7 +345,7 @@
 	},
 	{
 		"title": "Keuzedomein D Schrijfverdieping",
-		"description": "Keuzedomein D Schrijfverdieping",
+		"description": "",
 		"prefix": "D",
 		"id": "7967f512-5777-429e-b514-03aa1257f967",
 		"fo_doelzin_id": [
@@ -357,7 +357,7 @@
 	},
 	{
 		"title": "Keuzedomein E Taalonderzoek",
-		"description": "Keuzedomein E Taalonderzoek",
+		"description": "",
 		"prefix": "E",
 		"id": "d6be6948-61c0-4ec7-a84b-35c1171622b6",
 		"fo_doelzin_id": [
@@ -369,7 +369,7 @@
 	},
 	{
 		"title": "Keuzedomein F Cultuuronderzoek",
-		"description": "Keuzedomein F Cultuuronderzoek",
+		"description": "",
 		"prefix": "F",
 		"id": "63d1510d-a957-4b6c-ae58-cfb30d14a570",
 		"fo_doelzin_id": [
@@ -381,7 +381,7 @@
 	},
 	{
 		"title": "Domein B Tekst in context",
-		"description": "Domein B Tekst in context",
+		"description": "",
 		"prefix": "B",
 		"id": "f427057b-ea10-4161-888b-52a5fd48cd3f",
 		"fo_doelzin_id": [
@@ -394,7 +394,7 @@
 	},
 	{
 		"title": "Keuzedomein E Cultuurbeschouwing",
-		"description": "Keuzedomein E Cultuurbeschouwing",
+		"description": "",
 		"prefix": "E",
 		"id": "f095df5e-c861-4c96-ae68-cabe64e03286",
 		"fo_doelzin_id": [
@@ -408,7 +408,7 @@
 	},
 	{
 		"title": "Keuzedomein F Literatuurbeschouwing",
-		"description": "Keuzedomein F Literatuurbeschouwing",
+		"description": "",
 		"prefix": "F",
 		"id": "b92e7af4-555c-4a17-8468-ee9c4b788b16",
 		"fo_doelzin_id": [
@@ -422,7 +422,7 @@
 	},
 	{
 		"title": "Keuzedomein G Receptie",
-		"description": "Keuzedomein G Receptie",
+		"description": "",
 		"prefix": "G",
 		"id": "d61bcbeb-c4df-4af3-94f6-772fdef13509",
 		"fo_doelzin_id": [
@@ -436,7 +436,7 @@
 	},
 	{
 		"title": "Keuzedomein H Taalbeschouwing",
-		"description": "Keuzedomein H Taalbeschouwing",
+		"description": "",
 		"prefix": "H",
 		"id": "36c93083-adec-4559-880d-788521b0ae6b",
 		"fo_doelzin_id": [
@@ -450,7 +450,7 @@
 	},
 	{
 		"title": "Keuzedomein I Vertaalkunde",
-		"description": "Keuzedomein I Vertaalkunde",
+		"description": "",
 		"prefix": "I",
 		"id": "b6b0b885-135a-4971-94d0-47d1f89d4ff2",
 		"fo_doelzin_id": [
@@ -464,7 +464,7 @@
 	},
 	{
 		"title": "Domein B Tekst in context",
-		"description": "Domein B Tekst in context",
+		"description": "",
 		"prefix": "B",
 		"id": "c6c297c3-069f-4aab-80db-a1bd51b41f63",
 		"fo_doelzin_id": [
@@ -477,7 +477,7 @@
 	},
 	{
 		"title": "Keuzedomein E Cultuurbeschouwing",
-		"description": "Keuzedomein E Cultuurbeschouwing",
+		"description": "",
 		"prefix": "E",
 		"id": "727bb569-1f67-44cf-83d2-0c25000f0032",
 		"fo_doelzin_id": [
@@ -491,7 +491,7 @@
 	},
 	{
 		"title": "Keuzedomein F Literatuurbeschouwing",
-		"description": "Keuzedomein F Literatuurbeschouwing",
+		"description": "",
 		"prefix": "F",
 		"id": "de6cd132-3590-4c8c-a1be-4974e79c7ce7",
 		"fo_doelzin_id": [
@@ -505,7 +505,7 @@
 	},
 	{
 		"title": "Keuzedomein G Receptie",
-		"description": "Keuzedomein G Receptie",
+		"description": "",
 		"prefix": "G",
 		"id": "dca4e105-5db6-47e3-8466-af7223d81d3c",
 		"fo_doelzin_id": [
@@ -519,7 +519,7 @@
 	},
 	{
 		"title": "Keuzedomein H Taalbeschouwing",
-		"description": "Keuzedomein H Taalbeschouwing",
+		"description": "",
 		"prefix": "H",
 		"id": "2bc8f863-a91a-426b-b13e-741df573f9b8",
 		"fo_doelzin_id": [
@@ -533,7 +533,7 @@
 	},
 	{
 		"title": "Keuzedomein I Vertaalkunde",
-		"description": "Keuzedomein I Vertaalkunde",
+		"description": "",
 		"prefix": "I",
 		"id": "7362ea53-7215-4da4-8ca2-b1f04bad93f5",
 		"fo_doelzin_id": [
@@ -562,7 +562,7 @@
 	},
 	{
 		"title": "Domein C Denkwijzen",
-		"description": "Domein C Denkwijzen",
+		"description": "",
 		"prefix": "C",
 		"id": "935b1bb2-12d4-4857-858a-7c8625a4e756",
 		"fo_doelzin_id": [
@@ -580,7 +580,7 @@
 	},
 	{
 		"title": "Domein F Zelfontwikkeling",
-		"description": "Domein F Zelfontwikkeling",
+		"description": "",
 		"prefix": "F",
 		"id": "d0446ef4-9f85-4828-a0c6-efa633f94e3c",
 		"fo_doelzin_id": [
@@ -609,7 +609,7 @@
 	},
 	{
 		"title": "Domein C Denkwijzen",
-		"description": "Domein C Denkwijzen",
+		"description": "",
 		"prefix": "C",
 		"id": "49f5aab5-96e2-4e2b-930d-789dbce0c5bb",
 		"fo_doelzin_id": [
@@ -627,7 +627,7 @@
 	},
 	{
 		"title": "Domein F Zelfontwikkeling",
-		"description": "Domein F Zelfontwikkeling",
+		"description": "",
 		"prefix": "F",
 		"id": "b2286d5d-d225-4306-9059-bd71b865fcbf",
 		"fo_doelzin_id": [
@@ -656,7 +656,7 @@
 	},
 	{
 		"title": "Domein C Denkwijzen",
-		"description": "Domein C Denkwijzen",
+		"description": "",
 		"prefix": "C",
 		"id": "9bd48663-d790-4851-a544-505466eff798",
 		"fo_doelzin_id": [
@@ -674,7 +674,7 @@
 	},
 	{
 		"title": "Domein F Zelfontwikkeling",
-		"description": "Domein F Zelfontwikkeling",
+		"description": "",
 		"prefix": "F",
 		"id": "b1526a6c-0ccf-4a71-aad7-bac8fce41fea",
 		"fo_doelzin_id": [
@@ -703,7 +703,7 @@
 	},
 	{
 		"title": "Domein C Denkwijzen",
-		"description": "Domein C Denkwijzen",
+		"description": "",
 		"prefix": "C",
 		"id": "ca24a037-ad97-4759-8af4-c1d5f4c2bb60",
 		"fo_doelzin_id": [
@@ -722,7 +722,7 @@
 	},
 	{
 		"title": "Domein F Zelfontwikkeling",
-		"description": "Domein F Zelfontwikkeling",
+		"description": "",
 		"prefix": "F",
 		"id": "06402966-4921-4c80-8e79-f83eaed8d21a",
 		"fo_doelzin_id": [
@@ -751,7 +751,7 @@
 	},
 	{
 		"title": "Domein C Denkwijzen",
-		"description": "Domein C Denkwijzen",
+		"description": "",
 		"prefix": "C",
 		"id": "f0101014-884c-4cfc-af50-6b65fee98411",
 		"fo_doelzin_id": [
@@ -770,7 +770,7 @@
 	},
 	{
 		"title": "Domein F Zelfontwikkeling",
-		"description": "Domein F Zelfontwikkeling",
+		"description": "",
 		"prefix": "F",
 		"id": "3cbd3558-3440-4e48-963a-579ecf093f5d",
 		"fo_doelzin_id": [
@@ -784,7 +784,7 @@
 	},
 	{
 		"title": "Domein A Aard van de natuurwetenschappen en technologie",
-		"description": "Domein A Aard van de natuurwetenschappen en technologie",
+		"description": "",
 		"prefix": "A",
 		"id": "9bc70f17-27a6-4a8c-a5e2-4e849f0e693e",
 		"fo_doelzin_id": [
@@ -799,7 +799,7 @@
 	},
 	{
 		"title": "Domein C Denkwijzen",
-		"description": "Domein C Denkwijzen",
+		"description": "",
 		"prefix": "C",
 		"id": "898c08d0-1bd6-447c-affe-f131556bcf8a",
 		"fo_doelzin_id": [
@@ -816,7 +816,7 @@
 	},
 	{
 		"title": "Domein F Zelfontwikkeling",
-		"description": "Domein F Zelfontwikkeling",
+		"description": "",
 		"prefix": "F",
 		"id": "44f2c03d-399c-41e5-bde3-3d518d5a0f6b",
 		"fo_doelzin_id": [
@@ -830,7 +830,7 @@
 	},
 	{
 		"title": "Domein A Aard van de natuurwetenschappen en technologie",
-		"description": "Domein A Aard van de natuurwetenschappen en technologie",
+		"description": "",
 		"prefix": "A",
 		"id": "38c413a0-6450-43c7-92c6-a8ad502a5827",
 		"fo_doelzin_id": [
@@ -845,7 +845,7 @@
 	},
 	{
 		"title": "Domein C Denkwijzen",
-		"description": "Domein C Denkwijzen",
+		"description": "",
 		"prefix": "C",
 		"id": "afcc1309-efb9-4fa8-b09c-dc96eab2bb98",
 		"fo_doelzin_id": [
@@ -862,7 +862,7 @@
 	},
 	{
 		"title": "Domein F Zelfontwikkeling",
-		"description": "Domein F Zelfontwikkeling",
+		"description": "",
 		"prefix": "F",
 		"id": "66a3f9a0-2ed8-42ad-98d0-5389f862d17e",
 		"fo_doelzin_id": [
@@ -876,7 +876,7 @@
 	},
 	{
 		"title": "Domein A Aard van de natuurwetenschappen en technologie",
-		"description": "Domein A Aard van de natuurwetenschappen en technologie",
+		"description": "",
 		"prefix": "A",
 		"id": "f94c7ca7-018d-46d1-a588-7cde84bf703e",
 		"fo_doelzin_id": [
@@ -891,7 +891,7 @@
 	},
 	{
 		"title": "Domein C Denkwijzen",
-		"description": "Domein C Denkwijzen",
+		"description": "",
 		"prefix": "C",
 		"id": "4f9716d9-f644-43a6-93e3-8460d931832b",
 		"fo_doelzin_id": [
@@ -908,7 +908,7 @@
 	},
 	{
 		"title": "Domein F Zelfontwikkeling",
-		"description": "Domein F Zelfontwikkeling",
+		"description": "",
 		"prefix": "F",
 		"id": "7b84aea6-b2eb-4c9b-a0bb-59d9d9e56eeb",
 		"fo_doelzin_id": [
@@ -922,7 +922,7 @@
 	},
 	{
 		"title": "Domein A Aard van de natuurwetenschappen en technologie",
-		"description": "Domein A Aard van de natuurwetenschappen en technologie",
+		"description": "",
 		"prefix": "A",
 		"id": "113bd940-a39d-45aa-ae97-938a53413f55",
 		"fo_doelzin_id": [
@@ -937,7 +937,7 @@
 	},
 	{
 		"title": "Domein C Denkwijzen",
-		"description": "Domein C Denkwijzen",
+		"description": "",
 		"prefix": "C",
 		"id": "deb8094f-ee3a-4769-b1d2-7db1f82b76c4",
 		"fo_doelzin_id": [
@@ -955,7 +955,7 @@
 	},
 	{
 		"title": "Domein F Zelfontwikkeling",
-		"description": "Domein F Zelfontwikkeling",
+		"description": "",
 		"prefix": "F",
 		"id": "951794a1-f68d-4639-b76b-9ac8d81ce6f8",
 		"fo_doelzin_id": [
@@ -969,7 +969,7 @@
 	},
 	{
 		"title": "Domein A Aard van de natuurwetenschappen en technologie",
-		"description": "Domein A Aard van de natuurwetenschappen en technologie",
+		"description": "",
 		"prefix": "A",
 		"id": "345fa76b-9e17-4cce-92f9-e251d1df9853",
 		"fo_doelzin_id": [
@@ -984,7 +984,7 @@
 	},
 	{
 		"title": "Domein C Denkwijzen",
-		"description": "Domein C Denkwijzen",
+		"description": "",
 		"prefix": "C",
 		"id": "0ee78953-d9d6-425c-86eb-b068ef19f976",
 		"fo_doelzin_id": [
@@ -1002,7 +1002,7 @@
 	},
 	{
 		"title": "Domein F Zelfontwikkeling",
-		"description": "Domein F Zelfontwikkeling",
+		"description": "",
 		"prefix": "F",
 		"id": "a8cd6d41-88f4-47c3-87f4-16abf66e6f90",
 		"fo_doelzin_id": [
@@ -1031,7 +1031,7 @@
 	},
 	{
 		"title": "Domein C Denkwijzen",
-		"description": "Domein C Denkwijzen",
+		"description": "",
 		"prefix": "C",
 		"id": "912d2c4c-7fb5-4070-8453-6c2501b32846",
 		"fo_doelzin_id": [
@@ -1046,7 +1046,7 @@
 	},
 	{
 		"title": "Domein F Zelfontwikkeling",
-		"description": "Domein F Zelfontwikkeling",
+		"description": "",
 		"prefix": "F",
 		"id": "f3b400c8-5bc9-457e-8d91-b8665a7db259",
 		"fo_doelzin_id": [
@@ -1075,7 +1075,7 @@
 	},
 	{
 		"title": "Domein C Denkwijzen",
-		"description": "Domein C Denkwijzen",
+		"description": "",
 		"prefix": "C",
 		"id": "c11c67f6-8044-460f-aa01-c0e9abf45157",
 		"fo_doelzin_id": [
@@ -1093,7 +1093,7 @@
 	},
 	{
 		"title": "Domein F Zelfontwikkeling",
-		"description": "Domein F Zelfontwikkeling",
+		"description": "",
 		"prefix": "F",
 		"id": "8c2b5222-25e9-4f0d-8f99-63bc80d2a94f",
 		"fo_doelzin_id": [
@@ -1122,7 +1122,7 @@
 	},
 	{
 		"title": "Domein C Denkwijzen",
-		"description": "Domein C Denkwijzen",
+		"description": "",
 		"prefix": "C",
 		"id": "30cb1c15-99b6-43c6-ae07-3d03ceac4caa",
 		"fo_doelzin_id": [
@@ -1140,7 +1140,7 @@
 	},
 	{
 		"title": "Domein F Zelfontwikkeling",
-		"description": "Domein F Zelfontwikkeling",
+		"description": "",
 		"prefix": "F",
 		"id": "870fcd21-97bb-4479-94a0-71d0015b02de",
 		"fo_doelzin_id": [
@@ -1168,7 +1168,7 @@
 	},
 	{
 		"title": "Domein B Concepten",
-		"description": "Domein B Concepten",
+		"description": "",
 		"prefix": "B",
 		"id": "6ae66ae9-4e5e-4bff-a85d-eefd7a331347",
 		"fo_doelzin_id": [
@@ -1180,7 +1180,7 @@
 	},
 	{
 		"title": "Domein C Denkwijzen",
-		"description": "Domein C Denkwijzen",
+		"description": "",
 		"prefix": "C",
 		"id": "86ed28e8-62c5-4678-8461-db4d6df97f4a",
 		"fo_doelzin_id": [
@@ -1199,7 +1199,7 @@
 	},
 	{
 		"title": "Domein D Vraagstukken",
-		"description": "Domein D Vraagstukken",
+		"description": "",
 		"prefix": "D",
 		"id": "043ac89c-f3f7-4748-b5f2-9c358c9f00f7",
 		"fo_doelzin_id": [
@@ -1216,7 +1216,7 @@
 	},
 	{
 		"title": "Domein E Werkwijzen",
-		"description": "Domein E Werkwijzen",
+		"description": "",
 		"prefix": "E",
 		"id": "b3cb232e-3830-45f0-82e5-c83b45289a86",
 		"fo_doelzin_id": [
@@ -1238,7 +1238,7 @@
 	},
 	{
 		"title": "Domein F Zelfontwikkeling",
-		"description": "Domein F Zelfontwikkeling",
+		"description": "",
 		"prefix": "F",
 		"id": "561edfd7-4f08-4579-8a0d-7b9cc5ccdfe3",
 		"fo_doelzin_id": [
@@ -1267,7 +1267,7 @@
 	},
 	{
 		"title": "Domein B Concepten",
-		"description": "Domein B Concepten",
+		"description": "",
 		"prefix": "B",
 		"id": "bf919711-4387-4138-8b8a-f1a45b759728",
 		"fo_doelzin_id": [
@@ -1279,7 +1279,7 @@
 	},
 	{
 		"title": "Domein C Denkwijzen",
-		"description": "Domein C Denkwijzen",
+		"description": "",
 		"prefix": "C",
 		"id": "91f7e99e-df7a-4031-9581-1b8163e97a43",
 		"fo_doelzin_id": [
@@ -1298,7 +1298,7 @@
 	},
 	{
 		"title": "Domein D Vraagstukken",
-		"description": "Domein D Vraagstukken",
+		"description": "",
 		"prefix": "D",
 		"id": "86a256c9-29e3-4495-bbd8-87260aa83cb7",
 		"fo_doelzin_id": [
@@ -1315,7 +1315,7 @@
 	},
 	{
 		"title": "Domein E Werkwijzen",
-		"description": "Domein E Werkwijzen",
+		"description": "",
 		"prefix": "E",
 		"id": "8fd5127e-c5b2-4c5e-9549-d2dd159241e9",
 		"fo_doelzin_id": [
@@ -1337,7 +1337,7 @@
 	},
 	{
 		"title": "Domein F Zelfontwikkeling",
-		"description": "Domein F Zelfontwikkeling",
+		"description": "",
 		"prefix": "F",
 		"id": "41b4a5c6-bf64-49cc-bace-b3cd40e136be",
 		"fo_doelzin_id": [
@@ -1366,7 +1366,7 @@
 	},
 	{
 		"title": "Domein B Concepten",
-		"description": "Domein B Concepten",
+		"description": "",
 		"prefix": "B",
 		"id": "375e47ce-7e33-419d-840a-f46616ec3e52",
 		"fo_doelzin_id": [
@@ -1382,7 +1382,7 @@
 	},
 	{
 		"title": "Domein C Denkwijzen",
-		"description": "Domein C Denkwijzen",
+		"description": "",
 		"prefix": "C",
 		"id": "44ce5a5b-c39b-4c90-8179-7c34357559ba",
 		"fo_doelzin_id": [
@@ -1401,7 +1401,7 @@
 	},
 	{
 		"title": "Domein D Vraagstukken",
-		"description": "Domein D Vraagstukken",
+		"description": "",
 		"prefix": "D",
 		"id": "9a584e9f-622f-4421-8ffa-2f142e7b07e9",
 		"fo_doelzin_id": [
@@ -1413,7 +1413,7 @@
 	},
 	{
 		"title": "Domein F Zelfontwikkeling",
-		"description": "Domein F Zelfontwikkeling",
+		"description": "",
 		"prefix": "F",
 		"id": "1338bf00-c50a-4273-b208-0e36e093922c",
 		"fo_doelzin_id": [
@@ -1442,7 +1442,7 @@
 	},
 	{
 		"title": "Domein B Concepten",
-		"description": "Domein B Concepten",
+		"description": "",
 		"prefix": "B",
 		"id": "74969048-0257-45b6-877d-a779d35dc6b5",
 		"fo_doelzin_id": [
@@ -1458,7 +1458,7 @@
 	},
 	{
 		"title": "Domein C Denkwijzen",
-		"description": "Domein C Denkwijzen",
+		"description": "",
 		"prefix": "C",
 		"id": "9fd150b5-e027-4b09-90b0-784d2ce5fea8",
 		"fo_doelzin_id": [
@@ -1477,7 +1477,7 @@
 	},
 	{
 		"title": "Domein D Vraagstukken",
-		"description": "Domein D Vraagstukken",
+		"description": "",
 		"prefix": "D",
 		"id": "bb837880-8680-4092-b805-b20a1204431e",
 		"fo_doelzin_id": [
@@ -1489,7 +1489,7 @@
 	},
 	{
 		"title": "Domein F Zelfontwikkeling",
-		"description": "Domein F Zelfontwikkeling",
+		"description": "",
 		"prefix": "F",
 		"id": "03ab90a9-cf13-4f0d-8554-14638e2070bc",
 		"fo_doelzin_id": [
@@ -1504,7 +1504,7 @@
 	},
 	{
 		"title": "Domein A Wiskundige concepten",
-		"description": "Domein A Wiskundige concepten",
+		"description": "",
 		"prefix": "A",
 		"id": "b3184615-4458-45de-80ce-6028c0d032f2",
 		"fo_subdomein_id": [
@@ -1521,7 +1521,7 @@
 	},
 	{
 		"title": "Domein B Wiskundige activiteiten",
-		"description": "Domein B Wiskundige activiteiten",
+		"description": "",
 		"prefix": "B",
 		"id": "c4474b99-f156-4903-802b-b423a3c8c5c0",
 		"fo_subdomein_id": [
@@ -1536,7 +1536,7 @@
 	},
 	{
 		"title": "Domein C Wiskundige oriëntatie",
-		"description": "Domein C Wiskundige oriëntatie",
+		"description": "",
 		"prefix": "C",
 		"id": "7d2fa55a-cbca-45b5-aead-4334e1316f38",
 		"fo_subdomein_id": [
@@ -1549,7 +1549,7 @@
 	},
 	{
 		"title": "Domein A Wiskundige concepten",
-		"description": "Domein A Wiskundige concepten",
+		"description": "",
 		"prefix": "A",
 		"id": "829f1721-bf5a-4089-af25-814aeaec3f9a",
 		"fo_subdomein_id": [
@@ -1566,7 +1566,7 @@
 	},
 	{
 		"title": "Domein B Wiskundige activiteiten",
-		"description": "Domein B Wiskundige activiteiten",
+		"description": "",
 		"prefix": "B",
 		"id": "52150a73-1442-4f8e-9602-d7d6ef28f039",
 		"fo_subdomein_id": [
@@ -1582,7 +1582,7 @@
 	},
 	{
 		"title": "Domein A Wiskundige concepten",
-		"description": "Domein A Wiskundige concepten",
+		"description": "",
 		"prefix": "A",
 		"id": "c020f951-8769-4c17-83d2-a2a855748fee",
 		"fo_subdomein_id": [
@@ -1599,7 +1599,7 @@
 	},
 	{
 		"title": "Domein A Wiskundige concepten",
-		"description": "Domein A Wiskundige concepten",
+		"description": "",
 		"prefix": "A",
 		"id": "9584e083-0163-4c4e-a85a-418c0eb98ae2",
 		"fo_subdomein_id": [
@@ -1617,7 +1617,7 @@
 	},
 	{
 		"title": "Domein B Wiskundige activiteiten",
-		"description": "Domein B Wiskundige activiteiten",
+		"description": "",
 		"prefix": "B",
 		"id": "0eed07f9-d413-4140-b889-dc7a69fb578b",
 		"fo_subdomein_id": [
@@ -1633,7 +1633,7 @@
 	},
 	{
 		"title": "Domein A Wiskundige concepten",
-		"description": "Domein A Wiskundige concepten",
+		"description": "",
 		"prefix": "A",
 		"id": "8721de69-ca88-4554-9461-32bbf6fe158f",
 		"fo_subdomein_id": [
@@ -1651,7 +1651,7 @@
 	},
 	{
 		"title": "Domein B Wiskundige activiteiten",
-		"description": "Domein B Wiskundige activiteiten",
+		"description": "",
 		"prefix": "B",
 		"id": "c43d80da-cbd3-4a41-8c6b-4d5659d376a5",
 		"fo_subdomein_id": [
@@ -1667,7 +1667,7 @@
 	},
 	{
 		"title": "Domein A Communicatie",
-		"description": "Domein A Communicatie",
+		"description": "",
 		"prefix": "A",
 		"id": "ac00187d-87e5-4d9b-bf8f-0fcd84f652ee",
 		"fo_subdomein_id": [
@@ -1681,7 +1681,7 @@
 	},
 	{
 		"title": "Domein B Taal",
-		"description": "Domein B Taal",
+		"description": "",
 		"prefix": "B",
 		"id": "23abb4a4-83e6-408a-ab97-e74d786078d0",
 		"fo_subdomein_id": [
@@ -1694,7 +1694,7 @@
 	},
 	{
 		"title": "Domein C Literatuur",
-		"description": "Domein C Literatuur",
+		"description": "",
 		"prefix": "C",
 		"id": "02b914f6-170c-474a-9f15-d52e22bb0c19",
 		"fo_subdomein_id": [
@@ -1707,7 +1707,7 @@
 	},
 	{
 		"title": "Domein A Communicatie",
-		"description": "Domein A Communicatie",
+		"description": "",
 		"prefix": "A",
 		"id": "e2283de4-577d-4d2f-871d-43403edda09e",
 		"fo_subdomein_id": [
@@ -1721,7 +1721,7 @@
 	},
 	{
 		"title": "Domein B Taal",
-		"description": "Domein B Taal",
+		"description": "",
 		"prefix": "B",
 		"id": "29acb0ab-ff17-4e8f-b1f9-c5a9f7d63a17",
 		"fo_subdomein_id": [
@@ -1734,7 +1734,7 @@
 	},
 	{
 		"title": "Domein C Literatuur",
-		"description": "Domein C Literatuur",
+		"description": "",
 		"prefix": "C",
 		"id": "be4d16a6-97f4-49bb-8057-33cf87eb15cf",
 		"fo_subdomein_id": [
@@ -1747,7 +1747,7 @@
 	},
 	{
 		"title": "Domein A Communicatie",
-		"description": "Domein A Communicatie",
+		"description": "",
 		"prefix": "A",
 		"id": "8a75298c-7b86-43b2-9a4c-507004c9a305",
 		"fo_subdomein_id": [
@@ -1761,7 +1761,7 @@
 	},
 	{
 		"title": "Domein B Taal",
-		"description": "Domein B Taal",
+		"description": "",
 		"prefix": "B",
 		"id": "30e98c87-b1e1-4960-ad92-70e998e729ed",
 		"fo_subdomein_id": [
@@ -1774,7 +1774,7 @@
 	},
 	{
 		"title": "Domein C Literatuur",
-		"description": "Domein C Literatuur",
+		"description": "",
 		"prefix": "C",
 		"id": "1d4fa890-e7e2-49e9-a5f8-f63ad902d7b4",
 		"fo_subdomein_id": [
@@ -1787,7 +1787,7 @@
 	},
 	{
 		"title": "Domein A Communicatie",
-		"description": "Domein A Communicatie",
+		"description": "",
 		"prefix": "A",
 		"id": "610f33b2-aee5-4aba-ad33-4a0a06d91ea7",
 		"fo_subdomein_id": [
@@ -1801,7 +1801,7 @@
 	},
 	{
 		"title": "Domein B Taal",
-		"description": "Domein B Taal",
+		"description": "",
 		"prefix": "B",
 		"id": "e3259dcd-8d9c-467f-93f9-cc0121fdc0bc",
 		"fo_subdomein_id": [
@@ -1814,7 +1814,7 @@
 	},
 	{
 		"title": "Domein C Literatuur",
-		"description": "Domein C Literatuur",
+		"description": "",
 		"prefix": "C",
 		"id": "687ca831-4db7-4ba9-82b9-c7dbe87706ec",
 		"fo_subdomein_id": [
@@ -1827,7 +1827,7 @@
 	},
 	{
 		"title": "Domein A Communicatie",
-		"description": "Domein A Communicatie",
+		"description": "",
 		"prefix": "A",
 		"id": "349c77e8-7ff7-4135-b097-b885523c6fda",
 		"fo_subdomein_id": [
@@ -1841,7 +1841,7 @@
 	},
 	{
 		"title": "Domein B Taal",
-		"description": "Domein B Taal",
+		"description": "",
 		"prefix": "B",
 		"id": "7e56ad25-3bfe-4917-85ba-666fe37d68bf",
 		"fo_subdomein_id": [
@@ -1854,7 +1854,7 @@
 	},
 	{
 		"title": "Domein C Literatuur",
-		"description": "Domein C Literatuur",
+		"description": "",
 		"prefix": "C",
 		"id": "6ea1b549-e091-42c7-9b22-ee867ade037f",
 		"fo_subdomein_id": [
@@ -1867,7 +1867,7 @@
 	},
 	{
 		"title": "Domein A Taal leren en gebruiken",
-		"description": "Domein A Taal leren en gebruiken",
+		"description": "",
 		"prefix": "A",
 		"id": "57ef821f-e597-490b-9141-ff6dbc98c989",
 		"fo_subdomein_id": [
@@ -1881,7 +1881,7 @@
 	},
 	{
 		"title": "Domein B Taalbewustzijn",
-		"description": "Domein B Taalbewustzijn",
+		"description": "",
 		"prefix": "B",
 		"id": "cee5415a-f5ac-409f-87fe-90c3be30c36b",
 		"fo_subdomein_id": [
@@ -1894,7 +1894,7 @@
 	},
 	{
 		"title": "Domein C Cultuurbewustzijn",
-		"description": "Domein C Cultuurbewustzijn",
+		"description": "",
 		"prefix": "C",
 		"id": "b50db867-ac89-43d2-a1bd-7a26874c53f4",
 		"fo_subdomein_id": [
@@ -1907,7 +1907,7 @@
 	},
 	{
 		"title": "Domein A Taal leren en gebruiken",
-		"description": "Domein A Taal leren en gebruiken",
+		"description": "",
 		"prefix": "A",
 		"id": "27288e65-8d8f-49c5-97c8-12f52ceaeb08",
 		"fo_subdomein_id": [
@@ -1921,7 +1921,7 @@
 	},
 	{
 		"title": "Domein B Taalbewustzijn",
-		"description": "Domein B Taalbewustzijn",
+		"description": "",
 		"prefix": "B",
 		"id": "3518d931-cc0d-4b46-97b1-8553164f3071",
 		"fo_subdomein_id": [
@@ -1934,7 +1934,7 @@
 	},
 	{
 		"title": "Domein C Cultuurbewustzijn",
-		"description": "Domein C Cultuurbewustzijn",
+		"description": "",
 		"prefix": "C",
 		"id": "84672801-bef3-4b12-a92a-b5197e672e85",
 		"fo_subdomein_id": [
@@ -1947,7 +1947,7 @@
 	},
 	{
 		"title": "Domein A Taal leren en gebruiken",
-		"description": "Domein A Taal leren en gebruiken",
+		"description": "",
 		"prefix": "A",
 		"id": "6ce38eee-7681-40ff-bf78-15587605767b",
 		"fo_subdomein_id": [
@@ -1961,7 +1961,7 @@
 	},
 	{
 		"title": "Domein A Taal leren en gebruiken",
-		"description": "Domein A Taal leren en gebruiken",
+		"description": "",
 		"prefix": "A",
 		"id": "1d9f0f63-c72c-4d3b-9191-cf1a20140cfc",
 		"fo_subdomein_id": [
@@ -1975,7 +1975,7 @@
 	},
 	{
 		"title": "Domein A Taal leren en gebruiken",
-		"description": "Domein A Taal leren en gebruiken",
+		"description": "",
 		"prefix": "A",
 		"id": "e611a67b-d2dc-4dbd-96cd-d186a1882932",
 		"fo_subdomein_id": [
@@ -1989,7 +1989,7 @@
 	},
 	{
 		"title": "Domein A Tekstontsluiting",
-		"description": "Domein A Tekstontsluiting",
+		"description": "",
 		"prefix": "A",
 		"id": "9562041f-4c7e-4e1f-9cbb-c42aa18197f4",
 		"fo_subdomein_id": [
@@ -2002,7 +2002,7 @@
 	},
 	{
 		"title": "Domein C Tekst vanuit later perspectief",
-		"description": "Domein C Tekst vanuit later perspectief",
+		"description": "",
 		"prefix": "C",
 		"id": "bae5d48c-ea39-4c85-8b5a-2da1213acbd6",
 		"fo_subdomein_id": [
@@ -2015,7 +2015,7 @@
 	},
 	{
 		"title": "Domein D Tekst en leerling",
-		"description": "Domein D Tekst en leerling",
+		"description": "",
 		"prefix": "D",
 		"id": "1a0cc30d-6483-4e25-bb58-b95895eabbcd",
 		"fo_subdomein_id": [
@@ -2028,7 +2028,7 @@
 	},
 	{
 		"title": "Domein A Tekstontsluiting",
-		"description": "Domein A Tekstontsluiting",
+		"description": "",
 		"prefix": "A",
 		"id": "f61fd7b6-19b5-4c53-a9c5-5190b88e98d6",
 		"fo_subdomein_id": [
@@ -2041,7 +2041,7 @@
 	},
 	{
 		"title": "Domein C Tekst vanuit later perspectief",
-		"description": "Domein C Tekst vanuit later perspectief",
+		"description": "",
 		"prefix": "C",
 		"id": "f2e899d6-d174-4b9d-a392-2d366397eb5f",
 		"fo_subdomein_id": [
@@ -2054,7 +2054,7 @@
 	},
 	{
 		"title": "Domein D Tekst en leerling",
-		"description": "Domein D Tekst en leerling",
+		"description": "",
 		"prefix": "D",
 		"id": "8fd86729-7097-4376-a4ae-1a631e18c834",
 		"fo_subdomein_id": [
@@ -2081,7 +2081,7 @@
 	},
 	{
 		"title": "Domein B Taalbewustzijn",
-		"description": "Domein B Taalbewustzijn",
+		"description": "",
 		"prefix": "B",
 		"id": "6c430211-c7e4-49b1-8d85-022c2740b63f",
 		"fo_subdomein_id": [
@@ -2094,7 +2094,7 @@
 	},
 	{
 		"title": "Domein C Cultuurbewustzijn",
-		"description": "Domein C Cultuurbewustzijn",
+		"description": "",
 		"prefix": "C",
 		"id": "6bf0b9cd-f74b-47ff-9564-7c4d25ea485a",
 		"fo_subdomein_id": [
@@ -2121,7 +2121,7 @@
 	},
 	{
 		"title": "Domein B Taalbewustzijn",
-		"description": "Domein B Taalbewustzijn",
+		"description": "",
 		"prefix": "B",
 		"id": "6529d007-360e-458e-93a1-f34160d11936",
 		"fo_subdomein_id": [
@@ -2134,7 +2134,7 @@
 	},
 	{
 		"title": "Domein C Cultuurbewustzijn",
-		"description": "Domein C Cultuurbewustzijn",
+		"description": "",
 		"prefix": "C",
 		"id": "fbd3faa8-0e49-4fb7-a233-15532d547e56",
 		"fo_subdomein_id": [
@@ -2161,7 +2161,7 @@
 	},
 	{
 		"title": "Domein B Taalbewustzijn",
-		"description": "Domein B Taalbewustzijn",
+		"description": "",
 		"prefix": "B",
 		"id": "f0147234-919d-4e1f-b270-4bd0befc94da",
 		"fo_subdomein_id": [
@@ -2174,7 +2174,7 @@
 	},
 	{
 		"title": "Domein C Cultuurbewustzijn",
-		"description": "Domein C Cultuurbewustzijn",
+		"description": "",
 		"prefix": "C",
 		"id": "7ce92c87-feb0-4290-aea5-ef55404a9d72",
 		"fo_subdomein_id": [
@@ -2201,7 +2201,7 @@
 	},
 	{
 		"title": "Domein B Taalbewustzijn",
-		"description": "Domein B Taalbewustzijn",
+		"description": "",
 		"prefix": "B",
 		"id": "16ed42a2-5d75-46e8-a962-fa77a31c4e24",
 		"fo_subdomein_id": [
@@ -2214,7 +2214,7 @@
 	},
 	{
 		"title": "Domein C Cultuurbewustzijn",
-		"description": "Domein C Cultuurbewustzijn",
+		"description": "",
 		"prefix": "C",
 		"id": "41a96f7d-7747-46fa-842d-6ac2b509249a",
 		"fo_subdomein_id": [
@@ -2241,7 +2241,7 @@
 	},
 	{
 		"title": "Domein B Taalbewustzijn",
-		"description": "Domein B Taalbewustzijn",
+		"description": "",
 		"prefix": "B",
 		"id": "a8c0d877-558d-4646-bfd3-dfe46cab517c",
 		"fo_subdomein_id": [
@@ -2254,7 +2254,7 @@
 	},
 	{
 		"title": "Domein C Cultuurbewustzijn",
-		"description": "Domein C Cultuurbewustzijn",
+		"description": "",
 		"prefix": "C",
 		"id": "9be8a825-c7e0-4568-b559-363fa3b4b71a",
 		"fo_subdomein_id": [
@@ -2281,7 +2281,7 @@
 	},
 	{
 		"title": "Domein B Taalbewustzijn",
-		"description": "Domein B Taalbewustzijn",
+		"description": "",
 		"prefix": "B",
 		"id": "3b410fa8-5190-4e34-8923-085042b73584",
 		"fo_subdomein_id": [
@@ -2294,7 +2294,7 @@
 	},
 	{
 		"title": "Domein C Cultuurbewustzijn",
-		"description": "Domein C Cultuurbewustzijn",
+		"description": "",
 		"prefix": "C",
 		"id": "a9c4cfb6-5fca-43fc-8453-d37d4d67a81d",
 		"fo_subdomein_id": [
@@ -2321,7 +2321,7 @@
 	},
 	{
 		"title": "Domein B Taalbewustzijn",
-		"description": "Domein B Taalbewustzijn",
+		"description": "",
 		"prefix": "B",
 		"id": "cafaa1da-2e7e-47f7-a843-af9945e926dd",
 		"fo_subdomein_id": [
@@ -2334,7 +2334,7 @@
 	},
 	{
 		"title": "Domein C Cultuurbewustzijn",
-		"description": "Domein C Cultuurbewustzijn",
+		"description": "",
 		"prefix": "C",
 		"id": "631d2567-389c-4a4c-b435-28b40132c64d",
 		"fo_subdomein_id": [
@@ -2361,7 +2361,7 @@
 	},
 	{
 		"title": "Domein B Taalbewustzijn",
-		"description": "Domein B Taalbewustzijn",
+		"description": "",
 		"prefix": "B",
 		"id": "f3fd3d93-ec20-4026-b626-bac209f5119d",
 		"fo_subdomein_id": [
@@ -2374,7 +2374,7 @@
 	},
 	{
 		"title": "Domein C Cultuurbewustzijn",
-		"description": "Domein C Cultuurbewustzijn",
+		"description": "",
 		"prefix": "C",
 		"id": "748c0971-2c24-446e-8631-c77329027bda",
 		"fo_subdomein_id": [
@@ -2401,7 +2401,7 @@
 	},
 	{
 		"title": "Domein B Taalbewustzijn",
-		"description": "Domein B Taalbewustzijn",
+		"description": "",
 		"prefix": "B",
 		"id": "b27f09e1-b547-4a52-807e-7fa5d06916d2",
 		"fo_subdomein_id": [
@@ -2414,7 +2414,7 @@
 	},
 	{
 		"title": "Domein C Cultuurbewustzijn",
-		"description": "Domein C Cultuurbewustzijn",
+		"description": "",
 		"prefix": "C",
 		"id": "d721897d-43fb-4435-8d76-61d707d369a9",
 		"fo_subdomein_id": [
@@ -2441,7 +2441,7 @@
 	},
 	{
 		"title": "Domein B Taalbewustzijn",
-		"description": "Domein B Taalbewustzijn",
+		"description": "",
 		"prefix": "B",
 		"id": "d05dafe4-39fe-463f-9c2b-02c520d4c872",
 		"fo_subdomein_id": [
@@ -2454,7 +2454,7 @@
 	},
 	{
 		"title": "Domein C Cultuurbewustzijn",
-		"description": "Domein C Cultuurbewustzijn",
+		"description": "",
 		"prefix": "C",
 		"id": "a4f79035-ceb1-4521-935b-e02df7dbcc50",
 		"fo_subdomein_id": [
@@ -2481,7 +2481,7 @@
 	},
 	{
 		"title": "Domein B Taalbewustzijn",
-		"description": "Domein B Taalbewustzijn",
+		"description": "",
 		"prefix": "B",
 		"id": "1dd68316-8027-4264-a258-ff980157d71b",
 		"fo_subdomein_id": [
@@ -2494,7 +2494,7 @@
 	},
 	{
 		"title": "Domein C Cultuurbewustzijn",
-		"description": "Domein C Cultuurbewustzijn",
+		"description": "",
 		"prefix": "C",
 		"id": "d4c0e150-38cf-4d7b-a548-abd6f0530d0e",
 		"fo_subdomein_id": [
@@ -2521,7 +2521,7 @@
 	},
 	{
 		"title": "Domein B Taalbewustzijn",
-		"description": "Domein B Taalbewustzijn",
+		"description": "",
 		"prefix": "B",
 		"id": "229f2720-023b-491c-862a-89b07875461a",
 		"fo_subdomein_id": [
@@ -2534,7 +2534,7 @@
 	},
 	{
 		"title": "Domein C Cultuurbewustzijn",
-		"description": "Domein C Cultuurbewustzijn",
+		"description": "",
 		"prefix": "C",
 		"id": "b3874d79-058d-4a0f-a1a7-e326a649d07b",
 		"fo_subdomein_id": [
@@ -2561,7 +2561,7 @@
 	},
 	{
 		"title": "Domein B Taalbewustzijn",
-		"description": "Domein B Taalbewustzijn",
+		"description": "",
 		"prefix": "B",
 		"id": "76b5ecb6-ab93-4b08-b167-fe03f6adfeea",
 		"fo_subdomein_id": [
@@ -2574,7 +2574,7 @@
 	},
 	{
 		"title": "Domein C Cultuurbewustzijn",
-		"description": "Domein C Cultuurbewustzijn",
+		"description": "",
 		"prefix": "C",
 		"id": "ef42d2b3-bbdc-4627-8f0c-a0c33f8a0e4d",
 		"fo_subdomein_id": [
@@ -2601,7 +2601,7 @@
 	},
 	{
 		"title": "Domein B Taalbewustzijn",
-		"description": "Domein B Taalbewustzijn",
+		"description": "",
 		"prefix": "B",
 		"id": "2beeb696-0071-4131-9de8-b8d82d7baea1",
 		"fo_subdomein_id": [
@@ -2614,7 +2614,7 @@
 	},
 	{
 		"title": "Domein C Cultuurbewustzijn",
-		"description": "Domein C Cultuurbewustzijn",
+		"description": "",
 		"prefix": "C",
 		"id": "aab009f6-ea5c-45b0-9464-df5e099cd0cf",
 		"fo_subdomein_id": [
@@ -2641,7 +2641,7 @@
 	},
 	{
 		"title": "Domein B Taalbewustzijn",
-		"description": "Domein B Taalbewustzijn",
+		"description": "",
 		"prefix": "B",
 		"id": "76d5cc42-fadc-4aeb-a111-c99390922332",
 		"fo_subdomein_id": [
@@ -2654,7 +2654,7 @@
 	},
 	{
 		"title": "Domein C Cultuurbewustzijn",
-		"description": "Domein C Cultuurbewustzijn",
+		"description": "",
 		"prefix": "C",
 		"id": "92650760-17b2-4722-84cf-7717fc44dcd3",
 		"fo_subdomein_id": [
@@ -2681,7 +2681,7 @@
 	},
 	{
 		"title": "Domein B Taalbewustzijn",
-		"description": "Domein B Taalbewustzijn",
+		"description": "",
 		"prefix": "B",
 		"id": "b8d8ec83-bd27-4805-bb90-4faea689026a",
 		"fo_subdomein_id": [
@@ -2694,7 +2694,7 @@
 	},
 	{
 		"title": "Domein C Cultuurbewustzijn",
-		"description": "Domein C Cultuurbewustzijn",
+		"description": "",
 		"prefix": "C",
 		"id": "603ed7b7-6c89-4b2f-b7b4-aef27bfe15c4",
 		"fo_subdomein_id": [
@@ -2721,7 +2721,7 @@
 	},
 	{
 		"title": "Domein B Taalbewustzijn",
-		"description": "Domein B Taalbewustzijn",
+		"description": "",
 		"prefix": "B",
 		"id": "331a5402-83a6-465b-b4b7-ea86c1236589",
 		"fo_subdomein_id": [
@@ -2734,7 +2734,7 @@
 	},
 	{
 		"title": "Domein C Cultuurbewustzijn",
-		"description": "Domein C Cultuurbewustzijn",
+		"description": "",
 		"prefix": "C",
 		"id": "78b3e89a-7790-4c3a-b7ef-85e35dbe212f",
 		"fo_subdomein_id": [
@@ -2761,7 +2761,7 @@
 	},
 	{
 		"title": "Domein B Taalbewustzijn",
-		"description": "Domein B Taalbewustzijn",
+		"description": "",
 		"prefix": "B",
 		"id": "9ab13c9c-6669-4e6e-9d1a-8a8725b77a26",
 		"fo_subdomein_id": [
@@ -2774,7 +2774,7 @@
 	},
 	{
 		"title": "Domein C Cultuurbewustzijn",
-		"description": "Domein C Cultuurbewustzijn",
+		"description": "",
 		"prefix": "C",
 		"id": "e3a8f1ef-40d7-4721-99a5-944a84951736",
 		"fo_subdomein_id": [
@@ -2801,7 +2801,7 @@
 	},
 	{
 		"title": "Domein B Taalbewustzijn",
-		"description": "Domein B Taalbewustzijn",
+		"description": "",
 		"prefix": "B",
 		"id": "5e70e22e-b61e-42d0-98c0-49bc2e70e263",
 		"fo_subdomein_id": [
@@ -2814,7 +2814,7 @@
 	},
 	{
 		"title": "Domein C Cultuurbewustzijn",
-		"description": "Domein C Cultuurbewustzijn",
+		"description": "",
 		"prefix": "C",
 		"id": "c59cd837-1974-4784-8f0a-1a3cf9436957",
 		"fo_subdomein_id": [
@@ -2841,7 +2841,7 @@
 	},
 	{
 		"title": "Domein B Taalbewustzijn",
-		"description": "Domein B Taalbewustzijn",
+		"description": "",
 		"prefix": "B",
 		"id": "742e3be3-2a2b-43da-93f8-662767d55c11",
 		"fo_subdomein_id": [
@@ -2854,7 +2854,7 @@
 	},
 	{
 		"title": "Domein C Cultuurbewustzijn",
-		"description": "Domein C Cultuurbewustzijn",
+		"description": "",
 		"prefix": "C",
 		"id": "4def9c68-03a6-4560-802e-218007cdb087",
 		"fo_subdomein_id": [
@@ -2881,7 +2881,7 @@
 	},
 	{
 		"title": "Domein B Taalbewustzijn",
-		"description": "Domein B Taalbewustzijn",
+		"description": "",
 		"prefix": "B",
 		"id": "564ecb5e-0194-4194-9982-ec509fd91d24",
 		"fo_subdomein_id": [
@@ -2894,7 +2894,7 @@
 	},
 	{
 		"title": "Domein C Cultuurbewustzijn",
-		"description": "Domein C Cultuurbewustzijn",
+		"description": "",
 		"prefix": "C",
 		"id": "4408ecf0-6be3-4703-b3a0-0efbd1f550dd",
 		"fo_subdomein_id": [
@@ -2921,7 +2921,7 @@
 	},
 	{
 		"title": "Domein B Taalbewustzijn",
-		"description": "Domein B Taalbewustzijn",
+		"description": "",
 		"prefix": "B",
 		"id": "c978f937-7b0d-4ea7-967c-f75c1aea8fb2",
 		"fo_subdomein_id": [
@@ -2934,7 +2934,7 @@
 	},
 	{
 		"title": "Domein C Cultuurbewustzijn",
-		"description": "Domein C Cultuurbewustzijn",
+		"description": "",
 		"prefix": "C",
 		"id": "e1d089fc-34bf-477e-9436-c7d05608a856",
 		"fo_subdomein_id": [
@@ -2961,7 +2961,7 @@
 	},
 	{
 		"title": "Domein B Taalbewustzijn",
-		"description": "Domein B Taalbewustzijn",
+		"description": "",
 		"prefix": "B",
 		"id": "9c97001e-0c9a-44a9-a696-22dbd3672dc1",
 		"fo_subdomein_id": [
@@ -2974,7 +2974,7 @@
 	},
 	{
 		"title": "Domein C Cultuurbewustzijn",
-		"description": "Domein C Cultuurbewustzijn",
+		"description": "",
 		"prefix": "C",
 		"id": "3bb298f2-30d7-4f67-abe6-56f667d05219",
 		"fo_subdomein_id": [
@@ -3001,7 +3001,7 @@
 	},
 	{
 		"title": "Domein B Taalbewustzijn",
-		"description": "Domein B Taalbewustzijn",
+		"description": "",
 		"prefix": "B",
 		"id": "ad4fe885-8fd9-450c-86d7-c881ffb1abbf",
 		"fo_subdomein_id": [
@@ -3014,7 +3014,7 @@
 	},
 	{
 		"title": "Domein C Cultuurbewustzijn",
-		"description": "Domein C Cultuurbewustzijn",
+		"description": "",
 		"prefix": "C",
 		"id": "052b8e82-09ea-43a6-bc7c-71b0c614eb2b",
 		"fo_subdomein_id": [
@@ -3041,7 +3041,7 @@
 	},
 	{
 		"title": "Domein B Taalbewustzijn",
-		"description": "Domein B Taalbewustzijn",
+		"description": "",
 		"prefix": "B",
 		"id": "a746876e-f66b-45e1-baec-0240fc59a6b7",
 		"fo_subdomein_id": [
@@ -3054,7 +3054,7 @@
 	},
 	{
 		"title": "Domein C Cultuurbewustzijn",
-		"description": "Domein C Cultuurbewustzijn",
+		"description": "",
 		"prefix": "C",
 		"id": "4a01688e-aa7d-4e2f-8633-a200d505bef4",
 		"fo_subdomein_id": [
@@ -3081,7 +3081,7 @@
 	},
 	{
 		"title": "Domein B Taalbewustzijn",
-		"description": "Domein B Taalbewustzijn",
+		"description": "",
 		"prefix": "B",
 		"id": "3a24cdd8-10af-4621-874a-d9011bb7091b",
 		"fo_subdomein_id": [
@@ -3094,7 +3094,7 @@
 	},
 	{
 		"title": "Domein C Cultuurbewustzijn",
-		"description": "Domein C Cultuurbewustzijn",
+		"description": "",
 		"prefix": "C",
 		"id": "e6a96459-b0d1-42ca-9ac5-c9f97357deac",
 		"fo_subdomein_id": [
@@ -3121,7 +3121,7 @@
 	},
 	{
 		"title": "Domein B Taalbewustzijn",
-		"description": "Domein B Taalbewustzijn",
+		"description": "",
 		"prefix": "B",
 		"id": "4f0de9c4-3c2b-4cdc-989a-de6a8ded45fa",
 		"fo_subdomein_id": [
@@ -3134,7 +3134,7 @@
 	},
 	{
 		"title": "Domein C Cultuurbewustzijn",
-		"description": "Domein C Cultuurbewustzijn",
+		"description": "",
 		"prefix": "C",
 		"id": "4f01c131-8f00-4ed6-98d4-93cb894294ca",
 		"fo_subdomein_id": [
@@ -3161,7 +3161,7 @@
 	},
 	{
 		"title": "Domein B Taalbewustzijn",
-		"description": "Domein B Taalbewustzijn",
+		"description": "",
 		"prefix": "B",
 		"id": "6e2b9801-9f3f-4f06-abca-d8743292492d",
 		"fo_subdomein_id": [
@@ -3174,7 +3174,7 @@
 	},
 	{
 		"title": "Domein C Cultuurbewustzijn",
-		"description": "Domein C Cultuurbewustzijn",
+		"description": "",
 		"prefix": "C",
 		"id": "387fd155-fd01-453b-963b-b733c3fdd766",
 		"fo_subdomein_id": [
@@ -3201,7 +3201,7 @@
 	},
 	{
 		"title": "Domein B Taalbewustzijn",
-		"description": "Domein B Taalbewustzijn",
+		"description": "",
 		"prefix": "B",
 		"id": "b6ba5d0f-0922-4bfe-9c28-4af818847c56",
 		"fo_subdomein_id": [
@@ -3214,7 +3214,7 @@
 	},
 	{
 		"title": "Domein C Cultuurbewustzijn",
-		"description": "Domein C Cultuurbewustzijn",
+		"description": "",
 		"prefix": "C",
 		"id": "3c3f16e8-538d-4caf-be45-8b7957d73fb2",
 		"fo_subdomein_id": [
@@ -3241,7 +3241,7 @@
 	},
 	{
 		"title": "Domein B Taalbewustzijn",
-		"description": "Domein B Taalbewustzijn",
+		"description": "",
 		"prefix": "B",
 		"id": "37c1f382-c24e-4638-ba47-72b7f1f5fa2d",
 		"fo_subdomein_id": [
@@ -3254,7 +3254,7 @@
 	},
 	{
 		"title": "Domein C Cultuurbewustzijn",
-		"description": "Domein C Cultuurbewustzijn",
+		"description": "",
 		"prefix": "C",
 		"id": "3cefbb56-9879-4e87-a602-ae15423a8b91",
 		"fo_subdomein_id": [
@@ -3281,7 +3281,7 @@
 	},
 	{
 		"title": "Domein B Taalbewustzijn",
-		"description": "Domein B Taalbewustzijn",
+		"description": "",
 		"prefix": "B",
 		"id": "c0871813-128f-47fd-a58f-3badefc2f302",
 		"fo_subdomein_id": [
@@ -3294,7 +3294,7 @@
 	},
 	{
 		"title": "Domein C Cultuurbewustzijn",
-		"description": "Domein C Cultuurbewustzijn",
+		"description": "",
 		"prefix": "C",
 		"id": "44a11066-b5a5-4a84-bf21-74098293b086",
 		"fo_subdomein_id": [
@@ -3321,7 +3321,7 @@
 	},
 	{
 		"title": "Domein B Taalbewustzijn",
-		"description": "Domein B Taalbewustzijn",
+		"description": "",
 		"prefix": "B",
 		"id": "d05bcb5c-e4bb-4ec3-8f0f-52b058166e8c",
 		"fo_subdomein_id": [
@@ -3334,7 +3334,7 @@
 	},
 	{
 		"title": "Domein C Cultuurbewustzijn",
-		"description": "Domein C Cultuurbewustzijn",
+		"description": "",
 		"prefix": "C",
 		"id": "308df6ff-01ed-49f6-a26a-f9b241ed1607",
 		"fo_subdomein_id": [
@@ -3361,7 +3361,7 @@
 	},
 	{
 		"title": "Domein B Taalbewustzijn",
-		"description": "Domein B Taalbewustzijn",
+		"description": "",
 		"prefix": "B",
 		"id": "05e16211-e551-47d8-8efc-6fb0064b39d3",
 		"fo_subdomein_id": [
@@ -3374,7 +3374,7 @@
 	},
 	{
 		"title": "Domein C Cultuurbewustzijn",
-		"description": "Domein C Cultuurbewustzijn",
+		"description": "",
 		"prefix": "C",
 		"id": "7d4e2efb-37e4-4eb5-8f9b-caa053ccbd04",
 		"fo_subdomein_id": [
@@ -3401,7 +3401,7 @@
 	},
 	{
 		"title": "Domein B Taalbewustzijn",
-		"description": "Domein B Taalbewustzijn",
+		"description": "",
 		"prefix": "B",
 		"id": "f2ed5342-0cbc-423a-a73c-f8a16c6455cd",
 		"fo_subdomein_id": [
@@ -3414,7 +3414,7 @@
 	},
 	{
 		"title": "Domein C Cultuurbewustzijn",
-		"description": "Domein C Cultuurbewustzijn",
+		"description": "",
 		"prefix": "C",
 		"id": "818ea17e-93f9-4586-a413-b2ffe86534e2",
 		"fo_subdomein_id": [
@@ -3441,7 +3441,7 @@
 	},
 	{
 		"title": "Domein B Taalbewustzijn",
-		"description": "Domein B Taalbewustzijn",
+		"description": "",
 		"prefix": "B",
 		"id": "273889eb-51a6-4530-8955-35e56cfebc1d",
 		"fo_subdomein_id": [
@@ -3454,7 +3454,7 @@
 	},
 	{
 		"title": "Domein C Cultuurbewustzijn",
-		"description": "Domein C Cultuurbewustzijn",
+		"description": "",
 		"prefix": "C",
 		"id": "2478486f-e6bb-4b24-a064-4080c4b127d8",
 		"fo_subdomein_id": [
@@ -3481,7 +3481,7 @@
 	},
 	{
 		"title": "Domein B Taalbewustzijn",
-		"description": "Domein B Taalbewustzijn",
+		"description": "",
 		"prefix": "B",
 		"id": "4129754a-3a3b-47f4-9bcc-50cecd1be5d2",
 		"fo_subdomein_id": [
@@ -3494,7 +3494,7 @@
 	},
 	{
 		"title": "Domein C Cultuurbewustzijn",
-		"description": "Domein C Cultuurbewustzijn",
+		"description": "",
 		"prefix": "C",
 		"id": "dad404c6-8f60-4a3f-96c0-bebef6e140f6",
 		"fo_subdomein_id": [
@@ -3507,7 +3507,7 @@
 	},
 	{
 		"title": "Domein A Vaardigheden",
-		"description": "Domein A Vaardigheden",
+		"description": "",
 		"prefix": "A",
 		"id": "faa0d40b-6b02-48fd-a9aa-f7e89f7c8bca",
 		"fo_subdomein_id": [
@@ -3521,7 +3521,7 @@
 	},
 	{
 		"title": "Domein B Democratische waarden en grondrechten",
-		"description": "Domein B Democratische waarden en grondrechten",
+		"description": "",
 		"prefix": "B",
 		"id": "c903690b-af06-48e8-bc6e-014f61477431",
 		"fo_subdomein_id": [
@@ -3533,7 +3533,7 @@
 	},
 	{
 		"title": "Domein C Sociale cohesie en sociale verschillen",
-		"description": "Domein C Sociale cohesie en sociale verschillen",
+		"description": "",
 		"prefix": "C",
 		"id": "f7ecc9f0-aebd-49b3-a154-b339a0a04bff",
 		"fo_subdomein_id": [
@@ -3548,7 +3548,7 @@
 	},
 	{
 		"title": "Domein D Politiek en macht",
-		"description": "Domein D Politiek en macht",
+		"description": "",
 		"prefix": "D",
 		"id": "cf36be6b-6447-48e2-bfde-54f7e9038570",
 		"fo_subdomein_id": [
@@ -3563,7 +3563,7 @@
 	},
 	{
 		"title": "Domein E Dilemma's en rechtvaardigheid",
-		"description": "Domein E Dilemma's en rechtvaardigheid",
+		"description": "",
 		"prefix": "E",
 		"id": "acfaa805-c66c-4898-b152-0a8ec50650c0",
 		"fo_subdomein_id": [
@@ -3578,7 +3578,7 @@
 	},
 	{
 		"title": "Domein A Vaardigheden",
-		"description": "Domein A Vaardigheden",
+		"description": "",
 		"prefix": "A",
 		"id": "57843b15-e38b-4bd4-96a4-101688f1ad24",
 		"fo_subdomein_id": [
@@ -3592,7 +3592,7 @@
 	},
 	{
 		"title": "Domein B Democratische waarden en grondrechten",
-		"description": "Domein B Democratische waarden en grondrechten",
+		"description": "",
 		"prefix": "B",
 		"id": "212bce9f-eb3b-47ba-84c8-f7674f765d26",
 		"fo_subdomein_id": [
@@ -3604,7 +3604,7 @@
 	},
 	{
 		"title": "Domein C Sociale cohesie en sociale verschillen",
-		"description": "Domein C Sociale cohesie en sociale verschillen",
+		"description": "",
 		"prefix": "C",
 		"id": "de54133b-3812-47ea-a94b-149a4f37d238",
 		"fo_subdomein_id": [
@@ -3619,7 +3619,7 @@
 	},
 	{
 		"title": "Domein D Politiek en macht",
-		"description": "Domein D Politiek en macht",
+		"description": "",
 		"prefix": "D",
 		"id": "2c55fdef-e327-4460-b99a-99c3384385fc",
 		"fo_subdomein_id": [
@@ -3634,7 +3634,7 @@
 	},
 	{
 		"title": "Domein E Dilemma's en rechtvaardigheid",
-		"description": "Domein E Dilemma's en rechtvaardigheid",
+		"description": "",
 		"prefix": "E",
 		"id": "4a40b4fe-0a8e-40f1-832a-26548c18e13a",
 		"fo_subdomein_id": [
@@ -3649,7 +3649,7 @@
 	},
 	{
 		"title": "Domein A Vaardigheden",
-		"description": "Domein A Vaardigheden",
+		"description": "",
 		"prefix": "A",
 		"id": "c8e15034-55fc-4bbf-bb2c-5f9f5517514d",
 		"fo_subdomein_id": [
@@ -3663,7 +3663,7 @@
 	},
 	{
 		"title": "Domein B Democratische waarden en grondrechten",
-		"description": "Domein B Democratische waarden en grondrechten",
+		"description": "",
 		"prefix": "B",
 		"id": "621e07ca-5b1a-4eda-a258-a26e666e7add",
 		"fo_subdomein_id": [
@@ -3675,7 +3675,7 @@
 	},
 	{
 		"title": "Domein C Sociale cohesie en sociale verschillen",
-		"description": "Domein C Sociale cohesie en sociale verschillen",
+		"description": "",
 		"prefix": "C",
 		"id": "6bff7c6b-3c66-4842-a0ef-4271ff49fb84",
 		"fo_subdomein_id": [
@@ -3690,7 +3690,7 @@
 	},
 	{
 		"title": "Domein D Politiek en macht",
-		"description": "Domein D Politiek en macht",
+		"description": "",
 		"prefix": "D",
 		"id": "0513b7d5-5d83-4502-be1b-9008e1fde714",
 		"fo_subdomein_id": [
@@ -3705,7 +3705,7 @@
 	},
 	{
 		"title": "Domein E Dilemma's en rechtvaardigheid",
-		"description": "Domein E Dilemma's en rechtvaardigheid",
+		"description": "",
 		"prefix": "E",
 		"id": "e73d245c-8af8-45d1-9bba-9bc50773f2b1",
 		"fo_subdomein_id": [
@@ -3720,7 +3720,7 @@
 	},
 	{
 		"title": "Domein A Vaardigheden",
-		"description": "Domein A Vaardigheden",
+		"description": "",
 		"prefix": "A",
 		"id": "8a916002-042c-4b21-a7a5-7e2bcb1c3a88",
 		"fo_subdomein_id": [
@@ -3734,7 +3734,7 @@
 	},
 	{
 		"title": "Domein B Democratische waarden en grondrechten",
-		"description": "Domein B Democratische waarden en grondrechten",
+		"description": "",
 		"prefix": "B",
 		"id": "4db9d430-bf7f-480a-866c-f149067aa601",
 		"fo_subdomein_id": [
@@ -3746,7 +3746,7 @@
 	},
 	{
 		"title": "Domein C Sociale cohesie en sociale verschillen",
-		"description": "Domein C Sociale cohesie en sociale verschillen",
+		"description": "",
 		"prefix": "C",
 		"id": "96167a17-7514-4ef5-98d5-1472f9f3c051",
 		"fo_subdomein_id": [
@@ -3761,7 +3761,7 @@
 	},
 	{
 		"title": "Domein D Politiek en macht",
-		"description": "Domein D Politiek en macht",
+		"description": "",
 		"prefix": "D",
 		"id": "3131dd0c-448e-4a98-8cab-a940502a6226",
 		"fo_subdomein_id": [
@@ -3776,7 +3776,7 @@
 	},
 	{
 		"title": "Domein E Dilemma's en rechtvaardigheid",
-		"description": "Domein E Dilemma's en rechtvaardigheid",
+		"description": "",
 		"prefix": "E",
 		"id": "1b8b7572-0a38-43c1-ab11-9f564e742526",
 		"fo_subdomein_id": [
@@ -3791,7 +3791,7 @@
 	},
 	{
 		"title": "Domein A Vaardigheden",
-		"description": "Domein A Vaardigheden",
+		"description": "",
 		"prefix": "A",
 		"id": "c5b3a3b1-8665-4ba4-8ef8-cd7882810c4a",
 		"fo_subdomein_id": [
@@ -3805,7 +3805,7 @@
 	},
 	{
 		"title": "Domein B Democratische waarden en grondrechten",
-		"description": "Domein B Democratische waarden en grondrechten",
+		"description": "",
 		"prefix": "B",
 		"id": "f6728d00-1892-47ba-8754-c1388bfcb7d6",
 		"fo_subdomein_id": [
@@ -3817,7 +3817,7 @@
 	},
 	{
 		"title": "Domein C Sociale cohesie en sociale verschillen",
-		"description": "Domein C Sociale cohesie en sociale verschillen",
+		"description": "",
 		"prefix": "C",
 		"id": "232f376f-f848-4255-9a6e-d865b0a4bebf",
 		"fo_subdomein_id": [
@@ -3832,7 +3832,7 @@
 	},
 	{
 		"title": "Domein D Politiek en macht",
-		"description": "Domein D Politiek en macht",
+		"description": "",
 		"prefix": "D",
 		"id": "ad8c9b41-28fb-4394-82ad-49005c683cc9",
 		"fo_subdomein_id": [
@@ -3847,7 +3847,7 @@
 	},
 	{
 		"title": "Domein E Dilemma's en rechtvaardigheid",
-		"description": "Domein E Dilemma's en rechtvaardigheid",
+		"description": "",
 		"prefix": "E",
 		"id": "6d70cfc3-d239-41e1-a63e-1b3af29995e7",
 		"fo_subdomein_id": [
@@ -3862,7 +3862,7 @@
 	},
 	{
 		"title": "Domein B Concepten",
-		"description": "Domein B Concepten",
+		"description": "",
 		"prefix": "B",
 		"id": "7444af44-cca9-47f3-8a7f-7822089eef6d",
 		"fo_subdomein_id": [
@@ -3880,7 +3880,7 @@
 	},
 	{
 		"title": "Domein D Vraagstukken",
-		"description": "Domein D Vraagstukken",
+		"description": "",
 		"prefix": "D",
 		"id": "3a1b1363-8754-4526-8a08-828fb46abcb2",
 		"fo_subdomein_id": [
@@ -3893,7 +3893,7 @@
 	},
 	{
 		"title": "Domein E Werkwijzen",
-		"description": "Domein E Werkwijzen",
+		"description": "",
 		"prefix": "E",
 		"id": "8eeb1bd3-5fe1-4b57-8f63-4c82e87ef0cf",
 		"fo_subdomein_id": [
@@ -3906,7 +3906,7 @@
 	},
 	{
 		"title": "Domein B Concepten",
-		"description": "Domein B Concepten",
+		"description": "",
 		"prefix": "B",
 		"id": "c8a8bacf-c135-46c6-8f98-d84e4546c727",
 		"fo_subdomein_id": [
@@ -3924,7 +3924,7 @@
 	},
 	{
 		"title": "Domein D Vraagstukken",
-		"description": "Domein D Vraagstukken",
+		"description": "",
 		"prefix": "D",
 		"id": "4dc9d0cc-0322-4ffd-a4ee-85586b1daefc",
 		"fo_subdomein_id": [
@@ -3937,7 +3937,7 @@
 	},
 	{
 		"title": "Domein E Werkwijzen",
-		"description": "Domein E Werkwijzen",
+		"description": "",
 		"prefix": "E",
 		"id": "9e98ea8d-9aab-404d-b385-8590adffc896",
 		"fo_subdomein_id": [
@@ -3950,7 +3950,7 @@
 	},
 	{
 		"title": "Domein B Concepten",
-		"description": "Domein B Concepten",
+		"description": "",
 		"prefix": "B",
 		"id": "a1ddc5be-172a-4d3b-b37b-7b4e441580a4",
 		"fo_subdomein_id": [
@@ -3969,7 +3969,7 @@
 	},
 	{
 		"title": "Domein D Vraagstukken",
-		"description": "Domein D Vraagstukken",
+		"description": "",
 		"prefix": "D",
 		"id": "2d2435db-efb4-4770-86f8-2b6299301689",
 		"fo_subdomein_id": [
@@ -3982,7 +3982,7 @@
 	},
 	{
 		"title": "Domein E Werkwijzen",
-		"description": "Domein E Werkwijzen",
+		"description": "",
 		"prefix": "E",
 		"id": "0e3d622b-eec7-4186-9574-101689b218bd",
 		"fo_subdomein_id": [
@@ -3995,7 +3995,7 @@
 	},
 	{
 		"title": "Domein B Concepten",
-		"description": "Domein B Concepten",
+		"description": "",
 		"prefix": "B",
 		"id": "e1e50578-9516-4527-861f-ac4e8002e7da",
 		"fo_subdomein_id": [
@@ -4014,7 +4014,7 @@
 	},
 	{
 		"title": "Domein D Vraagstukken",
-		"description": "Domein D Vraagstukken",
+		"description": "",
 		"prefix": "D",
 		"id": "c263f624-e67b-4c3f-8768-1c8bd8d7a290",
 		"fo_subdomein_id": [
@@ -4027,7 +4027,7 @@
 	},
 	{
 		"title": "Domein E Werkwijzen",
-		"description": "Domein E Werkwijzen",
+		"description": "",
 		"prefix": "E",
 		"id": "9c3db89e-61db-46c9-b14c-0a51b9dd5ad3",
 		"fo_subdomein_id": [
@@ -4040,7 +4040,7 @@
 	},
 	{
 		"title": "Domein B Concepten",
-		"description": "Domein B Concepten",
+		"description": "",
 		"prefix": "B",
 		"id": "c9407747-4e9c-485b-ad36-bad471b79eb6",
 		"fo_subdomein_id": [
@@ -4060,7 +4060,7 @@
 	},
 	{
 		"title": "Domein D Vraagstukken",
-		"description": "Domein D Vraagstukken",
+		"description": "",
 		"prefix": "D",
 		"id": "2a8dbbe6-747f-4763-aa85-9ec82ab1e279",
 		"fo_subdomein_id": [
@@ -4073,7 +4073,7 @@
 	},
 	{
 		"title": "Domein E Werkwijzen",
-		"description": "Domein E Werkwijzen",
+		"description": "",
 		"prefix": "E",
 		"id": "f98e0cfd-c796-4720-a8b0-9f83fa54916f",
 		"fo_subdomein_id": [
@@ -4086,7 +4086,7 @@
 	},
 	{
 		"title": "Domein B Concepten",
-		"description": "Domein B Concepten",
+		"description": "",
 		"prefix": "B",
 		"id": "aab1e6f5-69fd-44fe-be2e-9ac388c0c106",
 		"fo_subdomein_id": [
@@ -4104,7 +4104,7 @@
 	},
 	{
 		"title": "Domein D Vraagstukken",
-		"description": "Domein D Vraagstukken",
+		"description": "",
 		"prefix": "D",
 		"id": "99559eae-0606-4349-91b4-81fab64d1941",
 		"fo_subdomein_id": [
@@ -4117,7 +4117,7 @@
 	},
 	{
 		"title": "Domein E Werkwijzen",
-		"description": "Domein E Werkwijzen",
+		"description": "",
 		"prefix": "E",
 		"id": "f28c3407-e829-4a96-a3be-1573e5482b7f",
 		"fo_subdomein_id": [
@@ -4130,7 +4130,7 @@
 	},
 	{
 		"title": "Domein B Concepten",
-		"description": "Domein B Concepten",
+		"description": "",
 		"prefix": "B",
 		"id": "c561bad0-aa49-4996-be56-c390875eae33",
 		"fo_subdomein_id": [
@@ -4148,7 +4148,7 @@
 	},
 	{
 		"title": "Domein D Vraagstukken",
-		"description": "Domein D Vraagstukken",
+		"description": "",
 		"prefix": "D",
 		"id": "4211784b-5477-4c46-967c-3086ac318093",
 		"fo_subdomein_id": [
@@ -4161,7 +4161,7 @@
 	},
 	{
 		"title": "Domein E Werkwijzen",
-		"description": "Domein E Werkwijzen",
+		"description": "",
 		"prefix": "E",
 		"id": "f2a0b609-aad7-49d7-a2d7-126cdcd1b8b6",
 		"fo_subdomein_id": [
@@ -4174,7 +4174,7 @@
 	},
 	{
 		"title": "Domein B Concepten",
-		"description": "Domein B Concepten",
+		"description": "",
 		"prefix": "B",
 		"id": "3ca78269-ae55-44ab-807d-94e9e98a9449",
 		"fo_subdomein_id": [
@@ -4193,7 +4193,7 @@
 	},
 	{
 		"title": "Domein D Vraagstukken",
-		"description": "Domein D Vraagstukken",
+		"description": "",
 		"prefix": "D",
 		"id": "b9f4b8d2-890f-413b-b298-e1988362a286",
 		"fo_subdomein_id": [
@@ -4206,7 +4206,7 @@
 	},
 	{
 		"title": "Domein E Werkwijzen",
-		"description": "Domein E Werkwijzen",
+		"description": "",
 		"prefix": "E",
 		"id": "7633754f-b97c-4a96-ac33-71a93c2ef8c3",
 		"fo_subdomein_id": [
@@ -4219,7 +4219,7 @@
 	},
 	{
 		"title": "Domein B Concepten",
-		"description": "Domein B Concepten",
+		"description": "",
 		"prefix": "B",
 		"id": "6577b575-7bbe-4b07-be3e-b2f101c020f2",
 		"fo_subdomein_id": [
@@ -4236,7 +4236,7 @@
 	},
 	{
 		"title": "Domein D Vraagstukken",
-		"description": "Domein D Vraagstukken",
+		"description": "",
 		"prefix": "D",
 		"id": "40b1cc25-fc69-40c5-87bc-766fbe190544",
 		"fo_subdomein_id": [
@@ -4249,7 +4249,7 @@
 	},
 	{
 		"title": "Domein E Werkwijzen",
-		"description": "Domein E Werkwijzen",
+		"description": "",
 		"prefix": "E",
 		"id": "9e614fdd-1099-4955-83b2-6277eb7d4566",
 		"fo_subdomein_id": [
@@ -4262,7 +4262,7 @@
 	},
 	{
 		"title": "Domein B Concepten",
-		"description": "Domein B Concepten",
+		"description": "",
 		"prefix": "B",
 		"id": "07949b6a-3208-4b5d-8339-03ddd6a34dc7",
 		"fo_subdomein_id": [
@@ -4278,7 +4278,7 @@
 	},
 	{
 		"title": "Domein D Vraagstukken",
-		"description": "Domein D Vraagstukken",
+		"description": "",
 		"prefix": "D",
 		"id": "8056d08a-e620-45ba-956a-efadc82faff4",
 		"fo_subdomein_id": [
@@ -4291,7 +4291,7 @@
 	},
 	{
 		"title": "Domein E Werkwijzen",
-		"description": "Domein E Werkwijzen",
+		"description": "",
 		"prefix": "E",
 		"id": "f9eb07eb-57ed-45ae-8d25-9023728df6d4",
 		"fo_subdomein_id": [
@@ -4320,7 +4320,7 @@
 	},
 	{
 		"title": "Domein D Vraagstukken",
-		"description": "Domein D Vraagstukken",
+		"description": "",
 		"prefix": "D",
 		"id": "6ccc38f4-4945-4418-a4ee-8334a7eab89d",
 		"fo_subdomein_id": [
@@ -4335,7 +4335,7 @@
 	},
 	{
 		"title": "Domein E Werkwijzen",
-		"description": "Domein E Werkwijzen",
+		"description": "",
 		"prefix": "E",
 		"id": "c8c3a0ea-c6e7-4b40-8e8e-43e2902a7bba",
 		"fo_subdomein_id": [
@@ -4365,7 +4365,7 @@
 	},
 	{
 		"title": "Domein D Vraagstukken",
-		"description": "Domein D Vraagstukken",
+		"description": "",
 		"prefix": "D",
 		"id": "eca8455a-8759-4d8d-9cd8-6f743f8d7718",
 		"fo_subdomein_id": [
@@ -4380,7 +4380,7 @@
 	},
 	{
 		"title": "Domein E Werkwijzen",
-		"description": "Domein E Werkwijzen",
+		"description": "",
 		"prefix": "E",
 		"id": "75cce880-5de2-4872-a973-b3b6e05601cc",
 		"fo_subdomein_id": [
@@ -4411,7 +4411,7 @@
 	},
 	{
 		"title": "Domein D Vraagstukken",
-		"description": "Domein D Vraagstukken",
+		"description": "",
 		"prefix": "D",
 		"id": "c3613002-a8ef-4ed6-bf25-b162ab095c55",
 		"fo_subdomein_id": [
@@ -4425,7 +4425,7 @@
 	},
 	{
 		"title": "Domein E Werkwijzen",
-		"description": "Domein E Werkwijzen",
+		"description": "",
 		"prefix": "E",
 		"id": "c2c44103-2d5f-446e-ae07-2a91a5a34c3c",
 		"fo_subdomein_id": [
@@ -4438,7 +4438,7 @@
 	},
 	{
 		"title": "Domein E Werkwijzen",
-		"description": "Domein E Werkwijzen",
+		"description": "",
 		"prefix": "E",
 		"id": "a6d3eb13-dc95-44f5-9eb8-2a11f2c5eefc",
 		"fo_subdomein_id": [
@@ -4451,7 +4451,7 @@
 	},
 	{
 		"title": "Domein E Werkwijzen",
-		"description": "Domein E Werkwijzen",
+		"description": "",
 		"prefix": "E",
 		"id": "8175bd80-2792-4876-9a7c-83e7af163410",
 		"fo_subdomein_id": [
@@ -4464,7 +4464,7 @@
 	},
 	{
 		"title": "Domein A Wiskundige concepten",
-		"description": "Domein A Wiskundige concepten",
+		"description": "",
 		"prefix": "A",
 		"id": "1811acf6-2b40-4d6d-b250-39d13102aa36",
 		"fo_subdomein_id": [
@@ -4480,7 +4480,7 @@
 	},
 	{
 		"title": "Domein B Wiskundige activiteiten",
-		"description": "Domein B Wiskundige activiteiten",
+		"description": "",
 		"prefix": "B",
 		"id": "ae6efce3-ad7c-4c1a-b68a-ce68555124e6",
 		"fo_subdomein_id": [
@@ -4495,7 +4495,7 @@
 	},
 	{
 		"title": "Domein C Wiskundige oriëntatie",
-		"description": "Domein C Wiskundige oriëntatie",
+		"description": "",
 		"prefix": "C",
 		"id": "5aa53a5e-6b5f-4fe0-911a-a553768dfde2",
 		"fo_subdomein_id": [
@@ -4508,7 +4508,7 @@
 	},
 	{
 		"title": "Domein A Wiskundige concepten",
-		"description": "Domein A Wiskundige concepten",
+		"description": "",
 		"prefix": "A",
 		"id": "7a2808dd-df58-47a1-8d99-518485477335",
 		"fo_subdomein_id": [
@@ -4525,7 +4525,7 @@
 	},
 	{
 		"title": "Domein B Wiskundige activiteiten",
-		"description": "Domein B Wiskundige activiteiten",
+		"description": "",
 		"prefix": "B",
 		"id": "86acf903-dc8a-46cf-b28d-9e1e7a0820b8",
 		"fo_subdomein_id": [
@@ -4541,7 +4541,7 @@
 	},
 	{
 		"title": "Domein C Wiskundige oriëntatie",
-		"description": "Domein C Wiskundige oriëntatie",
+		"description": "",
 		"prefix": "C",
 		"id": "52c8da45-b5a9-42d8-9151-9ccf7dad3bae",
 		"fo_subdomein_id": [
@@ -4554,7 +4554,7 @@
 	},
 	{
 		"title": "Domein B Wiskundige activiteiten",
-		"description": "Domein B Wiskundige activiteiten",
+		"description": "",
 		"prefix": "B",
 		"id": "480fc490-9b03-43a1-b1db-46a0c1d9ae99",
 		"fo_subdomein_id": [
@@ -4570,7 +4570,7 @@
 	},
 	{
 		"title": "Domein C Wiskundige oriëntatie",
-		"description": "Domein C Wiskundige oriëntatie",
+		"description": "",
 		"prefix": "C",
 		"id": "1de9354a-3d9c-4c2e-b62b-7d35d3c60f58",
 		"fo_subdomein_id": [
@@ -4583,7 +4583,7 @@
 	},
 	{
 		"title": "Domein A Wiskundige concepten",
-		"description": "Domein A Wiskundige concepten",
+		"description": "",
 		"prefix": "A",
 		"id": "b30d9cea-995b-46a5-998b-1d3388ae1e20",
 		"fo_subdomein_id": [
@@ -4600,7 +4600,7 @@
 	},
 	{
 		"title": "Domein C Wiskundige oriëntatie",
-		"description": "Domein C Wiskundige oriëntatie",
+		"description": "",
 		"prefix": "C",
 		"id": "53d414d0-35f7-4ad2-8a36-cc08da99e8de",
 		"fo_subdomein_id": [
@@ -4613,7 +4613,7 @@
 	},
 	{
 		"title": "Domein B Wiskundige activiteiten",
-		"description": "Domein B Wiskundige activiteiten",
+		"description": "",
 		"prefix": "B",
 		"id": "3b59600c-6805-4131-9f65-b26c9a54f12f",
 		"fo_subdomein_id": [
@@ -4629,7 +4629,7 @@
 	},
 	{
 		"title": "Domein C Wiskundige oriëntatie",
-		"description": "Domein C Wiskundige oriëntatie",
+		"description": "",
 		"prefix": "C",
 		"id": "e91bcef6-6bc3-4ef5-abe7-e71df057bfb8",
 		"fo_subdomein_id": [
@@ -4642,7 +4642,7 @@
 	},
 	{
 		"title": "Domein C Wiskundige oriëntatie",
-		"description": "Domein C Wiskundige oriëntatie",
+		"description": "",
 		"prefix": "C",
 		"id": "a8b5d736-80c2-4dee-ad35-4af2435a21e4",
 		"fo_subdomein_id": [
@@ -4655,7 +4655,7 @@
 	},
 	{
 		"title": "Domein C Wiskundige oriëntatie",
-		"description": "Domein C Wiskundige oriëntatie",
+		"description": "",
 		"prefix": "C",
 		"id": "411f9ee1-0567-440f-b044-715e0a6b90ad",
 		"fo_subdomein_id": [
@@ -4812,7 +4812,7 @@
 	},
 	{
 		"title": "Domein: communicatie",
-		"description": "Domein: communicatie",
+		"description": "",
 		"prefix": "",
 		"id": "2804c90f-6f93-485c-9456-7bba7b14b949",
 		"replaces": [
@@ -4868,7 +4868,7 @@
 	},
 	{
 		"title": "Domein: maken en betekenis geven",
-		"description": "Domein: maken en betekenis geven",
+		"description": "",
 		"prefix": "",
 		"id": "9743923c-5a1a-419c-9df8-64deff5d1f00",
 		"replaces": [
@@ -4882,7 +4882,7 @@
 	},
 	{
 		"title": "Domein: meemaken en betekenis geven",
-		"description": "Domein: meemaken en betekenis geven",
+		"description": "",
 		"prefix": "",
 		"id": "d7dbd08b-e05d-4396-a48f-bfbe19a73bee",
 		"replaces": [
@@ -4896,7 +4896,7 @@
 	},
 	{
 		"title": "Domein: leren bewegen",
-		"description": "Domein: leren bewegen",
+		"description": "",
 		"prefix": "",
 		"id": "f5e0ad38-79d0-45e1-865b-eebb340e71af",
 		"replaces": [
@@ -4910,7 +4910,7 @@
 	},
 	{
 		"title": "Domein: samen bewegen",
-		"description": "Domein: samen bewegen",
+		"description": "",
 		"prefix": "",
 		"id": "6bcb0d9d-d3a1-4f79-bfd0-6b6a98700c90",
 		"replaces": [
@@ -4924,7 +4924,7 @@
 	},
 	{
 		"title": "Domein: betrokken bewegen",
-		"description": "Domein: betrokken bewegen",
+		"description": "",
 		"prefix": "",
 		"id": "02c38a9a-58d8-445f-8000-76860246f950",
 		"replaces": [
@@ -5345,7 +5345,7 @@
 	},
 	{
 		"title": "Domein: rijke leeromgeving",
-		"description": "Domein: rijke leeromgeving",
+		"description": "",
 		"id": "a69d5e2d-bacd-4546-98e7-a3d125639b1e",
 		"fo_kernzin_id": [
 			"91f72431-0558-4405-a828-fa2fcf1d0e43",
@@ -5357,7 +5357,7 @@
 	},
 	{
 		"title": "Domein: taal leren en gebruiken",
-		"description": "Domein: taal leren en gebruiken",
+		"description": "",
 		"id": "03713bc8-2e09-4a70-8c41-a8ee318c5fc2",
 		"fo_kernzin_id": [
 			"539f16c5-29e0-45e8-83e7-72efada2f385",
@@ -5369,7 +5369,7 @@
 	},
 	{
 		"title": "Domein: taalbewustzijn",
-		"description": "Domein: taalbewustzijn",
+		"description": "",
 		"id": "d9acd37d-ec0d-4062-b165-d989a1324bf0",
 		"fo_kernzin_id": [
 			"e787e067-f84a-4dec-a16b-ef631cfa479e",
@@ -5381,7 +5381,7 @@
 	},
 	{
 		"title": "Domein: taalexpressie",
-		"description": "Domein: taalexpressie",
+		"description": "",
 		"id": "9939365c-866a-4a4d-b2d5-f8751b14d0c0",
 		"fo_kernzin_id": [
 			"710a4500-a3d3-4c1e-a3d1-9f5ea71958cd",
@@ -5393,7 +5393,7 @@
 	},
 	{
 		"title": "Domein: cultuurbewustzijn",
-		"description": "Domein: cultuurbewustzijn",
+		"description": "",
 		"id": "9766b242-8cb5-4ca0-8f85-6d7431ee9992",
 		"fo_kernzin_id": [
 			"5b988b3c-a5f7-4fe6-a4f5-9d9bb637ad59",
@@ -6075,7 +6075,7 @@
 	},
 	{
 		"title": "Domein: communicatie",
-		"description": "Domein: communicatie",
+		"description": "",
 		"prefix": "",
 		"id": "c21e9e11-8ea2-4647-be1c-98a8d5700a1d",
 		"replaces": [
