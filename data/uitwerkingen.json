@@ -8637,7 +8637,8 @@
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "eenvoudig en helder presenteren van eenduidige informatie over vertrouwde onderwerpen;",
@@ -13089,7 +13090,8 @@
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "kort en eenvoudig presenteren van concrete alledaagse informatie over vertrouwde onderwerpen;",
@@ -17220,7 +17222,8 @@
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
 		"title": "Het gaat hierbij om",
-		"status": "concept"
+		"status": "concept",
+		"deleted": true
 	},
 	{
 		"description": "eenvoudig en helder presenteren van eenduidige informatie over vertrouwde onderwerpen;",
