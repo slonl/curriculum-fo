@@ -259,36 +259,6 @@
 		]
 	},
 	{
-		"title": "Subdomein A1 Receptieve taalvaardigheid",
-		"description": "Subdomein A1 Receptieve taalvaardigheid",
-		"prefix": "A1",
-		"id": "9412cf7a-9d6e-44bf-9404-317fe02b3e0e",
-		"fo_doelzin_id": [
-			"d6e7b7c9-80a1-4bdc-aa42-400b22f9b831",
-			"da0a5691-edfb-4a41-97a7-de047554f8bf"
-		],
-		"replaces": [
-			"42dd8eef-cc2e-446c-a4e7-d964f0ca80c4"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Subdomein A2 Productieve taalvaardigheid",
-		"description": "Subdomein A2 Productieve taalvaardigheid",
-		"prefix": "A2",
-		"id": "bd01a1c8-a736-450a-a727-095dacd975b0",
-		"fo_doelzin_id": [
-			"da3a7282-ad04-4580-a30d-5ec73b9bc5a0",
-			"0a3989f6-f01a-4a3d-9d86-e5d73332578a",
-			"936f5ce7-eefe-42e8-8ab5-ffc065b880a6",
-			"1af8992f-9117-4c1d-9b63-1231f99d0c15"
-		],
-		"replaces": [
-			"dcf6c486-baf7-4ed2-aef3-5dc497690bbb"
-		],
-		"dirty": true
-	},
-	{
 		"title": "Subdomein A3 Interactie",
 		"description": "Subdomein A3 Interactie",
 		"prefix": "A3",
@@ -353,36 +323,6 @@
 		"replaces": [
 			"b070a677-0fa7-4d02-9061-80d620b36fbf"
 		]
-	},
-	{
-		"title": "Subdomein A1 Receptieve taalvaardigheid",
-		"description": "Subdomein A1 Receptieve taalvaardigheid",
-		"prefix": "A1",
-		"id": "3998ccd9-8188-4269-9292-6e72026d90a4",
-		"fo_doelzin_id": [
-			"722f01cc-bbd7-48ef-aa08-ae1425c443d1",
-			"6614d321-2204-4527-9ed3-57b56abd1da8"
-		],
-		"replaces": [
-			"49749559-e251-4b03-837e-f614e5aea8ba"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Subdomein A2 Productieve taalvaardigheid",
-		"description": "Subdomein A2 Productieve taalvaardigheid",
-		"prefix": "A2",
-		"id": "33c9ed61-a43f-4d7c-ac55-b70755862e90",
-		"fo_doelzin_id": [
-			"d75414a7-a42c-485a-ad2a-2739ea4a37e1",
-			"260ad1b1-d3c1-4de1-bbd0-1a092d867fa3",
-			"5076219f-5480-4219-974a-9a59c23a9109",
-			"e01f7b73-254b-46ff-8d72-07e4bd333889"
-		],
-		"replaces": [
-			"2c9325ea-83f3-4312-9ea2-b1f435a5c7ac"
-		],
-		"dirty": true
 	},
 	{
 		"title": "Subdomein A3 Interactie",
@@ -451,36 +391,6 @@
 		]
 	},
 	{
-		"title": "Subdomein A1 Receptieve taalvaardigheid",
-		"description": "Subdomein A1 Receptieve taalvaardigheid",
-		"prefix": "A1",
-		"id": "db698881-6d86-4d7a-aeeb-a2a638ab36be",
-		"fo_doelzin_id": [
-			"cb4ad041-d973-411b-8640-8deb964bde89",
-			"5041b7bc-df3a-4dd2-8237-1c3701a11d79"
-		],
-		"replaces": [
-			"5d6610ef-ecd7-4f05-b16a-9e08943c683b"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Subdomein A2 Productieve taalvaardigheid",
-		"description": "Subdomein A2 Productieve taalvaardigheid",
-		"prefix": "A2",
-		"id": "5b9f1aed-f2a2-4e96-a0a2-f8a455d494c1",
-		"fo_doelzin_id": [
-			"eeb16e3d-1b83-4b44-b606-9498f02e8133",
-			"779f6be6-26d9-4659-a46e-a72339d72070",
-			"6eae7c5d-67e3-4823-8918-95da1c986f02",
-			"433b6f6a-88b4-401c-b15a-f11637697f7f"
-		],
-		"replaces": [
-			"03ab2d65-671a-48f3-bb3f-bb3af334ed81"
-		],
-		"dirty": true
-	},
-	{
 		"title": "Subdomein A3 Interactie",
 		"description": "Subdomein A3 Interactie",
 		"prefix": "A3",
@@ -545,36 +455,6 @@
 		"replaces": [
 			"d9e24826-e7c3-4abd-9e55-670e99ba221d"
 		]
-	},
-	{
-		"title": "Subdomein A1 Receptieve taalvaardigheid",
-		"description": "Subdomein A1 Receptieve taalvaardigheid",
-		"prefix": "A1",
-		"id": "2d637dc9-1fa3-4f41-ad19-5b99a9183a7d",
-		"fo_doelzin_id": [
-			"9a609d09-2651-463c-9efc-62a9ea7502c8",
-			"1e918c7f-9a8d-4c95-b146-c6d15a326de1"
-		],
-		"replaces": [
-			"10e63535-f180-43c9-8d45-06ca837523d3"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Subdomein A2 Productieve taalvaardigheid",
-		"description": "Subdomein A2 Productieve taalvaardigheid",
-		"prefix": "A2",
-		"id": "d279599c-3ee4-4516-af12-9287d032ae31",
-		"fo_doelzin_id": [
-			"bfa22f41-e638-4b25-a698-2b6f5cf9859a",
-			"1d09839f-ad6a-4e9d-bbc0-b4a255bfce19",
-			"aae00795-5595-4b2d-9a05-41b290601914",
-			"cd524a4b-561a-45d3-a2eb-1eb532e573fc"
-		],
-		"replaces": [
-			"b7d0e707-aee4-4144-aa51-38b0329e08cb"
-		],
-		"dirty": true
 	},
 	{
 		"title": "Subdomein A3 Interactie",
@@ -643,36 +523,6 @@
 		"replaces": [
 			"2317f620-dc64-48ed-b0bc-122dfb06f9c9"
 		]
-	},
-	{
-		"title": "Subdomein A1 Receptieve taalvaardigheid",
-		"description": "Subdomein A1 Receptieve taalvaardigheid",
-		"prefix": "A1",
-		"id": "e28b5614-a2df-4cac-9dba-cc0ffd1705ec",
-		"fo_doelzin_id": [
-			"40151b32-a9d1-476d-b927-577ca5d86b0f",
-			"eaeb720c-b4ab-44ab-a6d0-644e97dc09df"
-		],
-		"replaces": [
-			"d9943a7b-63a8-404a-a444-b3b8a8775d3f"
-		],
-		"dirty": true
-	},
-	{
-		"title": "Subdomein A2 Productieve taalvaardigheid",
-		"description": "Subdomein A2 Productieve taalvaardigheid",
-		"prefix": "A2",
-		"id": "fe9a6079-681f-48f9-9c76-af2a08a0fa47",
-		"fo_doelzin_id": [
-			"33372d3f-e40d-463c-92fd-90b6790eb4fe",
-			"f1d7637a-fa91-40d3-91c8-71f69b38e99f",
-			"1ce5fe61-9428-4f76-9216-05374c74e7b7",
-			"c1020d7b-78f9-41a9-8967-0848d1ce9f81"
-		],
-		"replaces": [
-			"d44999b0-a962-428f-b8cc-4f73e0b3e2b8"
-		],
-		"dirty": true
 	},
 	{
 		"title": "Subdomein A3 Interactie",
@@ -1279,472 +1129,6 @@
 		],
 		"replaces": [
 			"f10926af-98ed-4632-a1a3-b5177985a71a"
-		]
-	},
-	{
-		"title": "Subdomein A1 Rijke ervaringen met taal",
-		"description": "Subdomein A1 Rijke ervaringen met taal",
-		"prefix": "A1",
-		"id": "41a22097-8b80-42d0-8ea3-c5a96b9b4be3",
-		"fo_doelzin_id": [
-			"76f8a195-2059-437d-ad89-ff660fe9cbaf",
-			"f78f5296-95c3-435f-a99b-eb95ce19c20b"
-		],
-		"replaces": [
-			"c758a59d-15b2-4cd0-8973-b87655adafa1"
-		]
-	},
-	{
-		"title": "Subdomein A2 Receptie",
-		"description": "Subdomein A2 Receptie",
-		"prefix": "A2",
-		"id": "60bd72c3-b2d7-4048-9e24-320a486d18ff",
-		"fo_doelzin_id": [
-			"186a81ae-e11e-4e1d-a88e-0a688904066c",
-			"ac683b8d-2c62-4432-b791-1df83611a804"
-		],
-		"replaces": [
-			"469dbf6e-bc9d-43fa-ba1b-5442de5a6fec"
-		]
-	},
-	{
-		"title": "Subdomein A3 Productie en interactie",
-		"description": "Subdomein A3 Productie en interactie",
-		"prefix": "A3",
-		"id": "5b430218-c083-48a4-8d21-1ef14091ddb6",
-		"fo_doelzin_id": [
-			"d68c6e52-5fdc-4c46-ba26-dadc24e0f8e3",
-			"0310da10-f767-435f-9eb2-a531e95c242b"
-		],
-		"replaces": [
-			"0644c472-9f37-4d8f-b4aa-461515767ebe"
-		]
-	},
-	{
-		"title": "Subdomein B1 Taal als fenomeen",
-		"description": "Subdomein B1 Taal als fenomeen",
-		"prefix": "B1",
-		"id": "d27d18cf-018d-492f-a3a3-74f60945cf8a",
-		"fo_doelzin_id": [
-			"f948baec-057c-4c70-8452-3d85c6a99e74"
-		],
-		"replaces": [
-			"37fc60c7-c383-467b-a4ae-549d23cf5cdf"
-		]
-	},
-	{
-		"title": "Subdomein B2 Taal en individu",
-		"description": "Subdomein B2 Taal en individu",
-		"prefix": "B2",
-		"id": "c97861aa-2fb2-40e0-881f-00f102c48eec",
-		"fo_doelzin_id": [
-			"ed2d5e46-50b8-478f-b218-478fc716e545",
-			"cc20028b-b14e-4e1c-bb6a-3f3d8d6497e7",
-			"5e472006-8a9e-4542-b20d-251918d8267e",
-			"f00e9e49-06c4-46eb-8cf7-5b946cadeac5"
-		],
-		"replaces": [
-			"6eafc183-018a-41fe-b2db-5c23ceb0818b"
-		]
-	},
-	{
-		"title": "Subdomein C1 Cultuur in fictie",
-		"description": "Subdomein C1 Cultuur in fictie",
-		"prefix": "C1",
-		"id": "6a9257e8-63ee-4cb2-9132-a367a6a10efc",
-		"fo_doelzin_id": [
-			"b86bc90a-91a4-41b4-82a5-2183eb90d496"
-		],
-		"replaces": [
-			"4068527a-6233-4f0a-b396-381f4d7ad1b2"
-		]
-	},
-	{
-		"title": "Subdomein C2 Cultuur in de maatschappij",
-		"description": "Subdomein C2 Cultuur in de maatschappij",
-		"prefix": "C2",
-		"id": "5905df2f-eeed-48ba-9a15-b681e9d51521",
-		"fo_doelzin_id": [
-			"b24dc940-5278-416a-b057-ae89a08015ab",
-			"8be126b9-50bd-4625-b754-11e4f598f3a6"
-		],
-		"replaces": [
-			"b5820863-763b-4661-9287-9ef47520c675"
-		]
-	},
-	{
-		"title": "Subdomein A1 Rijke ervaringen met taal",
-		"description": "Subdomein A1 Rijke ervaringen met taal",
-		"prefix": "A1",
-		"id": "84592f42-b61e-4233-8cc3-1f819999e189",
-		"fo_doelzin_id": [
-			"26200457-7b5f-48fc-8400-39c6eabbac93",
-			"f35962b8-3e43-49c1-9d83-87fe64616297"
-		],
-		"replaces": [
-			"2c84a9e6-f089-4438-b6e0-1f467016df90"
-		]
-	},
-	{
-		"title": "Subdomein A2 Receptie",
-		"description": "Subdomein A2 Receptie",
-		"prefix": "A2",
-		"id": "d5f35bc8-0b2a-4b45-835d-67f283872659",
-		"fo_doelzin_id": [
-			"878a374e-a716-4262-b557-1a80873a81ff",
-			"0e06e3b8-3d60-43dc-b4f8-3a796c6d473d"
-		],
-		"replaces": [
-			"e01d554c-4e54-4ab2-b0a1-6d4d82513508"
-		]
-	},
-	{
-		"title": "Subdomein A3 Productie en interactie",
-		"description": "Subdomein A3 Productie en interactie",
-		"prefix": "A3",
-		"id": "b37a0307-9eb4-4e00-901d-5633d99e9451",
-		"fo_doelzin_id": [
-			"b4ffcfad-cd24-4d7e-8fe0-0ca5deebd15c",
-			"8c1e4b37-85d2-4262-9b80-e48c168fe768",
-			"461e0d7d-09fc-4df8-a982-b57d25a6fe03"
-		],
-		"replaces": [
-			"3c1e4400-ffe0-463b-bb2f-fcba25d9dde6"
-		]
-	},
-	{
-		"title": "Subdomein B1 Taal als fenomeen",
-		"description": "Subdomein B1 Taal als fenomeen",
-		"prefix": "B1",
-		"id": "99657f30-ca95-4515-b1a1-3e282f4876f8",
-		"fo_doelzin_id": [
-			"01a4d120-efae-4b11-a36a-83df6340bf78"
-		],
-		"replaces": [
-			"3ea05713-5fac-4f94-8301-d6da30538b36"
-		]
-	},
-	{
-		"title": "Subdomein B2 Taal en individu",
-		"description": "Subdomein B2 Taal en individu",
-		"prefix": "B2",
-		"id": "1f7d5818-edd3-4b52-9489-c7541c115fd8",
-		"fo_doelzin_id": [
-			"098ad5be-875d-4010-9f69-e2badf310a94",
-			"9948f6b0-0fce-408e-b062-3080300f9f96",
-			"bd6bae0c-e2ce-4c8b-bb5f-b5029df0b8f4",
-			"80906153-9e27-4f6c-9077-f0ddc32444ae"
-		],
-		"replaces": [
-			"a2e18231-0496-4878-8d76-a83d4fd120f8"
-		]
-	},
-	{
-		"title": "Subdomein C1 Cultuur in fictie",
-		"description": "Subdomein C1 Cultuur in fictie",
-		"prefix": "C1",
-		"id": "d1c69c0a-7f68-4c0e-8333-94c720c9e555",
-		"fo_doelzin_id": [
-			"3b48c0a8-cd35-40f8-abcc-94697191f9a1",
-			"817be122-447c-4e92-b98f-f9c2e7df7c35"
-		],
-		"replaces": [
-			"99092ab3-15cc-4933-9f77-0a0c80551988"
-		]
-	},
-	{
-		"title": "Subdomein C2 Cultuur in de maatschappij",
-		"description": "Subdomein C2 Cultuur in de maatschappij",
-		"prefix": "C2",
-		"id": "f43c8841-383f-4bda-9b6c-17374643a284",
-		"fo_doelzin_id": [
-			"067c54df-0920-40d1-9b37-f0c7d6aed3f2",
-			"b7625b22-9db2-4ad0-8acf-aa46169cdfaa"
-		],
-		"replaces": [
-			"2292e111-8231-4a55-8c99-9c31e3b28889"
-		]
-	},
-	{
-		"title": "Subdomein A1 Rijke ervaringen met taal",
-		"description": "Subdomein A1 Rijke ervaringen met taal",
-		"prefix": "A1",
-		"id": "26263eac-48bd-44ca-b296-ba720f8091f2",
-		"fo_doelzin_id": [
-			"c22acd07-e7c0-4261-ae60-358dc8e4d8f9",
-			"73ed4c07-bb54-4323-87fd-785eadb37522"
-		],
-		"replaces": [
-			"4e69d8cd-d976-4108-b783-8014446311d6"
-		]
-	},
-	{
-		"title": "Subdomein A2 Receptie",
-		"description": "Subdomein A2 Receptie",
-		"prefix": "A2",
-		"id": "30659695-8b2c-40c6-9d49-466b50b003dd",
-		"fo_doelzin_id": [
-			"337bd00c-8ba8-496f-8a96-4515824e01d0",
-			"77486d9c-5b01-44dd-8eb3-370a89a776b0"
-		],
-		"replaces": [
-			"9eb0a4b4-e0a2-4a25-a700-0c0c248060d2"
-		]
-	},
-	{
-		"title": "Subdomein A3 Productie en interactie",
-		"description": "Subdomein A3 Productie en interactie",
-		"prefix": "A3",
-		"id": "ef175477-9061-4c93-8786-fcf60a297174",
-		"fo_doelzin_id": [
-			"8ba2da3f-7d20-4e61-bbea-24010e666d8b",
-			"96afe778-5af4-4653-a9c6-297e7e2a610f",
-			"3e31e246-39c0-4265-9d83-b500c3c399bb"
-		],
-		"replaces": [
-			"8ca7c5f7-14e1-4a9d-b260-e35b7d476c83"
-		]
-	},
-	{
-		"title": "Subdomein B1 Taal als fenomeen",
-		"description": "Subdomein B1 Taal als fenomeen",
-		"prefix": "B1",
-		"id": "ec728205-03d6-4fc7-aa21-b4bf5be11931",
-		"fo_doelzin_id": [
-			"1bd6c0e5-db5a-4319-ab21-67406dc19cb4"
-		],
-		"replaces": [
-			"a9c133e3-5695-4ec8-9ee1-55554ce442fb"
-		]
-	},
-	{
-		"title": "Subdomein B2 Taal en individu",
-		"description": "Subdomein B2 Taal en individu",
-		"prefix": "B2",
-		"id": "2c33b874-aac5-4acd-bba8-635ca6dcacd8",
-		"fo_doelzin_id": [
-			"155126ce-ed09-4ae5-b194-a4fe0f84ce5b",
-			"cf80d287-c0b2-44f9-aec4-cbc0a654010f",
-			"229908a7-86a3-4fbf-ac37-83c0238ae647",
-			"f441503d-04af-4484-95c2-eb0a1ff65fbb"
-		],
-		"replaces": [
-			"0f0838d1-dca8-41b1-b23d-212aabe053a1"
-		]
-	},
-	{
-		"title": "Subdomein C1 Cultuur in fictie",
-		"description": "Subdomein C1 Cultuur in fictie",
-		"prefix": "C1",
-		"id": "14c903ee-e145-4caa-b23d-6f58b0e19e81",
-		"fo_doelzin_id": [
-			"05479afa-ced6-4ec8-bf6f-9d9ce6da0886",
-			"0c6e1c5c-6eda-4a4d-ae13-765a32d49913"
-		],
-		"replaces": [
-			"8489e8c0-636f-43fc-a2fd-cb7a5d6c32d4"
-		]
-	},
-	{
-		"title": "Subdomein C2 Cultuur in de maatschappij",
-		"description": "Subdomein C2 Cultuur in de maatschappij",
-		"prefix": "C2",
-		"id": "c45b8bd4-2b91-4872-92be-67d46aad5f86",
-		"fo_doelzin_id": [
-			"0a2478a5-c3aa-43e0-99ba-f4c0c7ce83f6",
-			"3686ddbb-c1ae-4f2e-afe5-e04da9625b10"
-		],
-		"replaces": [
-			"44baa553-56ed-4744-aab5-ad5623401707"
-		]
-	},
-	{
-		"title": "Subdomein A1 Rijke ervaringen met taal",
-		"description": "Subdomein A1 Rijke ervaringen met taal",
-		"prefix": "A1",
-		"id": "4888c9a0-d64a-4eda-a125-fbe42fc0122c",
-		"fo_doelzin_id": [
-			"9b762e1a-467e-4849-9a3d-8e03bd8caf28",
-			"d0ed2434-f3d0-42d6-b5bd-0e42189d8d2c"
-		],
-		"replaces": [
-			"524895d8-c7df-44af-9cb2-6ba9bdcc039e"
-		]
-	},
-	{
-		"title": "Subdomein A2 Receptie",
-		"description": "Subdomein A2 Receptie",
-		"prefix": "A2",
-		"id": "6321485a-1d45-4473-b6bc-8e1e4a04cd13",
-		"fo_doelzin_id": [
-			"9c4b3fa4-a6c9-47c9-936c-7e6b125fdbc5",
-			"29a286ed-c60f-4099-bac3-670997961d28"
-		],
-		"replaces": [
-			"44efef55-ca56-4d35-8a87-c902a3ea52ce"
-		]
-	},
-	{
-		"title": "Subdomein A3 Productie en interactie",
-		"description": "Subdomein A3 Productie en interactie",
-		"prefix": "A3",
-		"id": "af4196d5-13cb-4994-b523-08e79d02eb81",
-		"fo_doelzin_id": [
-			"1e3747b8-6ba3-4a7d-9c1b-28ab95ac64f7",
-			"ad881736-a9ef-4c8a-ab23-b63bae5d8e0e",
-			"361dea0b-20fa-405d-be1a-153dcb6ad479"
-		],
-		"replaces": [
-			"5c835b97-0f9a-45cd-a8a7-039529e0ed23"
-		]
-	},
-	{
-		"title": "Subdomein B1 Taal als fenomeen",
-		"description": "Subdomein B1 Taal als fenomeen",
-		"prefix": "B1",
-		"id": "64b5be37-9b71-411c-b4e1-e807dd204f7c",
-		"fo_doelzin_id": [
-			"1a40198c-0ecf-40df-b0c8-915787a0add8"
-		],
-		"replaces": [
-			"84970e0e-4954-46ee-83e2-886c7d3b1b98"
-		]
-	},
-	{
-		"title": "Subdomein B2 Taal en individu",
-		"description": "Subdomein B2 Taal en individu",
-		"prefix": "B2",
-		"id": "a19bac58-f610-44d3-959c-0bb7453cdfec",
-		"fo_doelzin_id": [
-			"053810fa-fcef-43a1-b80b-5ecead48789c",
-			"79d903fa-1a08-4e6a-b7bd-1899bad1bf1b",
-			"ab0453ff-39af-413a-966a-4109d6c14493",
-			"fe783a10-e1d5-454a-ad13-02b8946c9d80"
-		],
-		"replaces": [
-			"322f7dcf-8a3f-4b64-b631-7c1090468abc"
-		]
-	},
-	{
-		"title": "Subdomein C1 Cultuur in fictie",
-		"description": "Subdomein C1 Cultuur in fictie",
-		"prefix": "C1",
-		"id": "83749820-3d54-4174-84ce-2a74337da5ce",
-		"fo_doelzin_id": [
-			"a7d524ef-9ba9-49c1-a247-d90eef19b32d",
-			"2cdc0730-2b6c-4134-ac37-600d0c4df510",
-			"9934a805-84fd-4d15-9db1-39ea661b0aeb"
-		],
-		"replaces": [
-			"bd4ab22a-6595-46e6-968c-3f2f223b8590"
-		]
-	},
-	{
-		"title": "Subdomein C2 Cultuur in de maatschappij",
-		"description": "Subdomein C2 Cultuur in de maatschappij",
-		"prefix": "C2",
-		"id": "fe663f8c-49ef-4935-9cfb-8131ca1366fb",
-		"fo_doelzin_id": [
-			"a0ade014-c2d2-497b-9d35-77ff23fcf699",
-			"bc5567f5-8e41-4113-b43d-d2be87160eb6"
-		],
-		"replaces": [
-			"1ba22e83-a5fd-480a-b15e-38354bb3e8c6"
-		]
-	},
-	{
-		"title": "Subdomein A1 Rijke ervaringen met taal",
-		"description": "Subdomein A1 Rijke ervaringen met taal",
-		"prefix": "A1",
-		"id": "2f4fd14c-0450-4f54-8fb2-4c6983ad6254",
-		"fo_doelzin_id": [
-			"e1483ba8-9377-417b-b405-0a0a2edea68c",
-			"2ee42874-ede3-412d-a42b-cea51f113e55"
-		],
-		"replaces": [
-			"7b485c5b-04ad-4dfd-8e46-a3c7472f8ed1"
-		]
-	},
-	{
-		"title": "Subdomein A2 Receptie",
-		"description": "Subdomein A2 Receptie",
-		"prefix": "A2",
-		"id": "d3082ee4-2886-4807-b6eb-0fe449650ac6",
-		"fo_doelzin_id": [
-			"fb9b4a9a-90f1-41a8-a274-7d7effb38e6c",
-			"691c14c2-168b-4475-b9f9-e38977423304",
-			"da7380ef-925a-425f-acc0-9957eb430e04"
-		],
-		"replaces": [
-			"eccba603-6778-4f92-aab2-8eaf91847727"
-		]
-	},
-	{
-		"title": "Subdomein A3 Productie en interactie",
-		"description": "Subdomein A3 Productie en interactie",
-		"prefix": "A3",
-		"id": "615f0498-42f0-4908-b7fb-393cc498e02a",
-		"fo_doelzin_id": [
-			"f611facd-6ca0-462f-9575-b6b7fabdde4d",
-			"67608c87-c4fd-47f8-952f-06281ec21479",
-			"4ddf65f2-65f1-4e20-a9e2-a0f8e3aa8917"
-		],
-		"replaces": [
-			"760d0185-bc22-4eb8-8c9c-01e78981de80"
-		]
-	},
-	{
-		"title": "Subdomein B1 Taal als fenomeen",
-		"description": "Subdomein B1 Taal als fenomeen",
-		"prefix": "B1",
-		"id": "d8967cd0-0b36-4d12-81ba-3fa3c768d36e",
-		"fo_doelzin_id": [
-			"501b9c52-932f-45e2-967f-fdebb7097781"
-		],
-		"replaces": [
-			"ff9e9d05-8436-4aa4-a9f6-89c355fb6b9a"
-		]
-	},
-	{
-		"title": "Subdomein B2 Taal en individu",
-		"description": "Subdomein B2 Taal en individu",
-		"prefix": "B2",
-		"id": "2d5a7ed0-c243-43d8-a88e-982a6a00aaa4",
-		"fo_doelzin_id": [
-			"aa285421-8348-49b1-9d70-1896fdff7ad5",
-			"de8620f5-ae66-41ea-854c-2383a2ddd5d9",
-			"4073eca7-9ac1-4865-96db-c78e696da135",
-			"43dbc2f9-7274-4a8d-baad-ff48d3cfb78e"
-		],
-		"replaces": [
-			"3cc2deed-de60-414c-8c93-85b80efc6d88"
-		]
-	},
-	{
-		"title": "Subdomein C1 Cultuur in fictie",
-		"description": "Subdomein C1 Cultuur in fictie",
-		"prefix": "C1",
-		"id": "788b4b79-322a-409d-913a-9fb109b4da87",
-		"fo_doelzin_id": [
-			"10e2d4a2-5950-42e6-8e7b-88740689c0e9",
-			"b73233a2-385b-4d6a-ab64-2133dae4e574",
-			"6fa9650b-cb31-4743-9ca2-43e2b0ade53f"
-		],
-		"replaces": [
-			"71283ba4-8f4f-4f7b-87ba-e19cfbc3d2ab"
-		]
-	},
-	{
-		"title": "Subdomein C2 Cultuur in de maatschappij",
-		"description": "Subdomein C2 Cultuur in de maatschappij",
-		"prefix": "C2",
-		"id": "0d32f5e5-600f-48d0-b757-88bfde6f080f",
-		"fo_doelzin_id": [
-			"915e943c-e446-4b73-8d67-81a026e2d45a",
-			"00c5193f-f2d0-47be-88f3-8feb26e85eec"
-		],
-		"replaces": [
-			"617d53c1-6c01-4878-9ab0-5438ee57b46f"
 		]
 	},
 	{
@@ -3550,195 +2934,6 @@
 		"title": "Subdomein A1 Rijke ervaringen met taal",
 		"description": "Subdomein A1 Rijke ervaringen met taal",
 		"prefix": "A1",
-		"id": "e7ec767c-2424-444e-a519-d24d9d1a8672",
-		"fo_doelzin_id": [
-			"10943517-eb67-4cb2-a97b-53d22caa4139",
-			"41180497-c639-4cec-a948-70913bb620a7"
-		],
-		"replaces": [
-			"bf6f7fee-6f49-4b5d-904f-88dd2ee64a05"
-		]
-	},
-	{
-		"title": "Subdomein A2 Receptie",
-		"description": "Subdomein A2 Receptie",
-		"prefix": "A2",
-		"id": "0bef71cc-ec47-4518-ae5c-5d57f5a1516b",
-		"fo_doelzin_id": [
-			"e0ba9115-60c7-45d0-8b30-f77ecb63aa0b",
-			"8d9faf81-0799-4112-bccc-e190e6ff89b8"
-		],
-		"replaces": [
-			"6ab31e51-e1ba-49fd-b011-c34b779ef85e"
-		]
-	},
-	{
-		"title": "Subdomein A3 Productie en interactie",
-		"description": "Subdomein A3 Productie en interactie",
-		"prefix": "A3",
-		"id": "f139b3d5-5013-4ffa-95b5-8c3d203e4759",
-		"fo_doelzin_id": [
-			"34128e0a-88e2-4c78-a5a5-a45493ee897c",
-			"3a6f7d39-92e9-4799-9ac4-39b475ebb542",
-			"fc018ee8-7a99-43a5-b90a-d62ab74beb1b"
-		],
-		"replaces": [
-			"2d5afb69-5632-4788-bfb4-acebd49399b6"
-		]
-	},
-	{
-		"title": "Subdomein B1 Taal als fenomeen",
-		"description": "Subdomein B1 Taal als fenomeen",
-		"prefix": "B1",
-		"id": "4e874175-f351-437c-85f0-507e8c3d569e",
-		"fo_doelzin_id": [
-			"925dd228-89ba-4fd0-979a-7a9b3c04ed01"
-		],
-		"replaces": [
-			"2f8ef8c9-2127-4323-9759-439eaefe83c1"
-		]
-	},
-	{
-		"title": "Subdomein B2 Taal en individu",
-		"description": "Subdomein B2 Taal en individu",
-		"prefix": "B2",
-		"id": "63ebe060-4dac-4f1a-a0b6-65ad6f6cecdc",
-		"fo_doelzin_id": [
-			"0cf640e3-a650-4779-90fb-0832e8b0ad32",
-			"298c672c-f3cb-4f0f-b2bd-66e2c3fd5aa6",
-			"f071477d-2c8b-4c6c-85a3-977c463f6f2b",
-			"a1ab87ee-3e5b-4e02-927b-92b5e25f608e"
-		],
-		"replaces": [
-			"f11cfe25-2dcb-4ac7-9414-c9f8e147e807"
-		]
-	},
-	{
-		"title": "Subdomein C1 Cultuur in fictie",
-		"description": "Subdomein C1 Cultuur in fictie",
-		"prefix": "C1",
-		"id": "a54735b8-bd2c-4b50-9347-800ef964a2e3",
-		"fo_doelzin_id": [
-			"f6de3f25-2bb1-4440-b0f4-b7d62f6d7f08",
-			"a2fe6cfb-9f37-4fd9-a607-7740b2e5a8ad",
-			"4f4b7e10-6e52-4e57-a7ef-b232c3ae5209"
-		],
-		"replaces": [
-			"c6e04566-e20b-4f3c-921c-6812ac6cbcc7"
-		]
-	},
-	{
-		"title": "Subdomein C2 Cultuur in de maatschappij",
-		"description": "Subdomein C2 Cultuur in de maatschappij",
-		"prefix": "C2",
-		"id": "1c80477c-39d7-41e8-b49c-2fbfcbf09e8e",
-		"fo_doelzin_id": [
-			"420f0f6a-e179-4e0e-a0e2-84cc1030e8c4",
-			"9949d911-7a1f-4814-a109-d07bb5729c1b"
-		],
-		"replaces": [
-			"f397c59d-ad1e-4dc3-8520-034f11d9c425"
-		]
-	},
-	{
-		"title": "Subdomein A1 Rijke ervaringen met taal",
-		"description": "Subdomein A1 Rijke ervaringen met taal",
-		"prefix": "A1",
-		"id": "e5449220-ef75-491e-a274-e306b5337d8d",
-		"fo_doelzin_id": [
-			"6a0adc8b-d5a8-47a3-b828-4cf46209b5d6",
-			"d75e91cd-e4ba-48bf-86d5-51b5c56a8905"
-		],
-		"replaces": [
-			"ae909165-9589-4ddd-ac6c-3290aa658a05"
-		]
-	},
-	{
-		"title": "Subdomein A2 Receptie",
-		"description": "Subdomein A2 Receptie",
-		"prefix": "A2",
-		"id": "30792fd6-f567-4825-a0a3-f3b2835da25a",
-		"fo_doelzin_id": [
-			"bbad58f6-0688-4697-82bb-f46e6dedf47f",
-			"54012e63-10af-416f-a0fb-38e65a0b1c2c",
-			"a4cd214f-f7e3-45f0-b8ea-1f55542954bb"
-		],
-		"replaces": [
-			"bd374ba5-8e65-4bc5-9aa9-d4bed19d2385"
-		]
-	},
-	{
-		"title": "Subdomein A3 Productie en interactie",
-		"description": "Subdomein A3 Productie en interactie",
-		"prefix": "A3",
-		"id": "6da1ccb1-ad23-4337-88b9-b1e6790a41dd",
-		"fo_doelzin_id": [
-			"a846fdbc-5364-456e-bf25-8e1a0ba1cfc0",
-			"c8853dc3-adb5-432d-bf44-20f75c51f0fa",
-			"ff63aa4f-5c08-4bef-b915-c28052ec33b5"
-		],
-		"replaces": [
-			"10f2c9d7-81ba-42b6-bc30-186d43b7ea56"
-		]
-	},
-	{
-		"title": "Subdomein B1 Taal als fenomeen",
-		"description": "Subdomein B1 Taal als fenomeen",
-		"prefix": "B1",
-		"id": "20c7440a-8da3-4106-958f-3fd26abe8ded",
-		"fo_doelzin_id": [
-			"a6c8f827-bf96-42d3-bc5a-f8e98a73375f"
-		],
-		"replaces": [
-			"b701c429-b90b-41ad-bde9-51c211d65555"
-		]
-	},
-	{
-		"title": "Subdomein B2 Taal en individu",
-		"description": "Subdomein B2 Taal en individu",
-		"prefix": "B2",
-		"id": "bfa1f389-a5bb-4407-b998-a594810b8012",
-		"fo_doelzin_id": [
-			"ea3d919f-cc1b-4694-996d-85018563b66d",
-			"1454cd93-592c-4605-aaf3-a045ec2c5a31",
-			"9c2d725e-e3a3-4b68-9b4a-90d5d98c2d46",
-			"38887935-d933-466b-8474-00941781dd7a"
-		],
-		"replaces": [
-			"e784925a-6c8c-4b4f-b41a-7627323ebb28"
-		]
-	},
-	{
-		"title": "Subdomein C1 Cultuur in fictie",
-		"description": "Subdomein C1 Cultuur in fictie",
-		"prefix": "C1",
-		"id": "302b6dbd-c029-4b93-8c43-7f14a5c589e2",
-		"fo_doelzin_id": [
-			"a0f511f9-4662-4692-abff-87f1554e1945",
-			"c22f3785-81b8-4431-9d47-bb800aafcae8",
-			"c59f9874-c307-4c71-877b-33f6b7312b93"
-		],
-		"replaces": [
-			"93c906a5-a9cf-4ab9-a3ff-330a9cc0d627"
-		]
-	},
-	{
-		"title": "Subdomein C2 Cultuur in de maatschappij",
-		"description": "Subdomein C2 Cultuur in de maatschappij",
-		"prefix": "C2",
-		"id": "2df96f38-10ab-4f4d-bcbc-55632b0227e5",
-		"fo_doelzin_id": [
-			"f71685f6-1099-42b3-9e13-a2e79dbce99c",
-			"1f9c13d3-783d-470b-9a3c-6385eb6c26a5"
-		],
-		"replaces": [
-			"4c690f06-0613-4b7a-88b4-56e0b240d8c1"
-		]
-	},
-	{
-		"title": "Subdomein A1 Rijke ervaringen met taal",
-		"description": "Subdomein A1 Rijke ervaringen met taal",
-		"prefix": "A1",
 		"id": "7530cacf-0f14-4889-83ed-8e25f8e21873",
 		"fo_doelzin_id": [
 			"a0b59048-e2b5-4b53-8616-7c267f7ff3f9",
@@ -4203,472 +3398,6 @@
 		],
 		"replaces": [
 			"9f404874-4ade-4a30-a080-e404a46b4dd0"
-		]
-	},
-	{
-		"title": "Subdomein A1 Rijke ervaringen met taal",
-		"description": "Subdomein A1 Rijke ervaringen met taal",
-		"prefix": "A1",
-		"id": "008ffaa2-7a71-44de-a6dc-9e304ff7ef2d",
-		"fo_doelzin_id": [
-			"ce346a14-3c63-4cf4-8bd2-0c14753df8d7",
-			"0d04ed45-0220-470b-a256-b123489a6a7e"
-		],
-		"replaces": [
-			"dce328ad-a57c-49d9-9f75-a830d17b6cab"
-		]
-	},
-	{
-		"title": "Subdomein A2 Receptie",
-		"description": "Subdomein A2 Receptie",
-		"prefix": "A2",
-		"id": "d90e4387-6e2c-4f01-8739-ac083352a924",
-		"fo_doelzin_id": [
-			"8d5f3784-20d6-4e6c-9c31-60ebff819e6b",
-			"1d70dd1c-6054-433f-ac95-1c929cc3125d"
-		],
-		"replaces": [
-			"42f168f8-3b93-43e2-b283-6e24b3864af9"
-		]
-	},
-	{
-		"title": "Subdomein A3 Productie en interactie",
-		"description": "Subdomein A3 Productie en interactie",
-		"prefix": "A3",
-		"id": "0d874b03-3cd2-4819-b679-341c08b1da2c",
-		"fo_doelzin_id": [
-			"708876fe-14ed-41ad-9517-bbd422fb0a61",
-			"1caf1bdb-9581-4ccd-9bd2-d6966d5e3421"
-		],
-		"replaces": [
-			"cfa91053-6f2f-479e-8ddb-e2c1b4fb2331"
-		]
-	},
-	{
-		"title": "Subdomein B1 Taal als fenomeen",
-		"description": "Subdomein B1 Taal als fenomeen",
-		"prefix": "B1",
-		"id": "70089d2a-b940-45a2-b248-4101ffa95801",
-		"fo_doelzin_id": [
-			"628502a8-75db-4ffe-bbe9-221370cf061a"
-		],
-		"replaces": [
-			"1d6d47ba-d379-4dab-855a-295aacfdd3d9"
-		]
-	},
-	{
-		"title": "Subdomein B2 Taal en individu",
-		"description": "Subdomein B2 Taal en individu",
-		"prefix": "B2",
-		"id": "a948ecba-4810-4909-93a7-d6a28e1409ce",
-		"fo_doelzin_id": [
-			"725bc820-27ac-4752-be2e-e32968191877",
-			"e1ba987f-e631-4a93-bfa4-f0b1159656ff",
-			"ab6b7425-7b69-4121-9f11-16ec8ca0d1f2",
-			"1ea59af1-1203-43d2-8ff1-600edf2f4be4"
-		],
-		"replaces": [
-			"21781bf3-c87f-4285-8398-ac216989ffe2"
-		]
-	},
-	{
-		"title": "Subdomein C1 Cultuur in fictie",
-		"description": "Subdomein C1 Cultuur in fictie",
-		"prefix": "C1",
-		"id": "6b48ef89-2c16-445e-a649-49336e6454f4",
-		"fo_doelzin_id": [
-			"fb427998-637d-49ab-b269-b79b6234c322"
-		],
-		"replaces": [
-			"220723e3-40b2-42eb-91d5-90113c4bf891"
-		]
-	},
-	{
-		"title": "Subdomein C2 Cultuur in de maatschappij",
-		"description": "Subdomein C2 Cultuur in de maatschappij",
-		"prefix": "C2",
-		"id": "18deed48-df5a-4253-aa4c-422398d98721",
-		"fo_doelzin_id": [
-			"135120d4-e173-4705-8f06-8b52103c57cb",
-			"4c0de451-fb76-40ec-b3d5-2bdd6d325de2"
-		],
-		"replaces": [
-			"5ff7ce0b-1bf6-4629-a7ad-b9d54b36f37e"
-		]
-	},
-	{
-		"title": "Subdomein A1 Rijke ervaringen met taal",
-		"description": "Subdomein A1 Rijke ervaringen met taal",
-		"prefix": "A1",
-		"id": "8f070c03-335d-4c67-95ff-3ddc97649df0",
-		"fo_doelzin_id": [
-			"6909babe-77d4-478d-9b31-d46c6958adf5",
-			"e6855f2a-f7b9-435f-9bac-64844d02b9c6"
-		],
-		"replaces": [
-			"3db67cab-693e-41dd-8852-5a56e417bc4e"
-		]
-	},
-	{
-		"title": "Subdomein A2 Receptie",
-		"description": "Subdomein A2 Receptie",
-		"prefix": "A2",
-		"id": "e4b58b12-2709-41fd-a118-25aaab5a5ac2",
-		"fo_doelzin_id": [
-			"a4bf2767-828b-4735-bf6a-e1efc636a99f",
-			"e37a6cf4-5044-4946-a3c3-53722056951b"
-		],
-		"replaces": [
-			"4be9e41e-34f4-4f3b-b578-a6b1ac4299c6"
-		]
-	},
-	{
-		"title": "Subdomein A3 Productie en interactie",
-		"description": "Subdomein A3 Productie en interactie",
-		"prefix": "A3",
-		"id": "fde03958-ff88-4d52-ae13-3ca6a246fe8f",
-		"fo_doelzin_id": [
-			"a2e40a1b-4e8e-4c67-8e80-a4631be00f11",
-			"633c1225-ea9c-4113-b4b1-f344cae696c4",
-			"6b487cd5-f831-457f-bba4-0d1e52c0de64"
-		],
-		"replaces": [
-			"3b981ab3-5d72-4655-a297-7935768249b8"
-		]
-	},
-	{
-		"title": "Subdomein B1 Taal als fenomeen",
-		"description": "Subdomein B1 Taal als fenomeen",
-		"prefix": "B1",
-		"id": "0836d1cf-15c3-4519-aecb-26738d27f98d",
-		"fo_doelzin_id": [
-			"a56a2d07-ca39-4ed4-a5aa-edc391de6adb"
-		],
-		"replaces": [
-			"355e4750-3cfd-4833-86bd-227dfb639801"
-		]
-	},
-	{
-		"title": "Subdomein B2 Taal en individu",
-		"description": "Subdomein B2 Taal en individu",
-		"prefix": "B2",
-		"id": "b7c1cac1-8c07-46d3-ba8b-d70cad9133cb",
-		"fo_doelzin_id": [
-			"75acfbd1-63d5-42f8-a269-0d1c900ebc44",
-			"1ee337e0-394e-4c4f-b720-d6f696fa621a",
-			"5a9aa30d-ef50-43a1-916b-158217b2b65d",
-			"64168bc0-ec2b-4448-83d0-4c5fa1dde462"
-		],
-		"replaces": [
-			"b8342f89-079d-4343-b3e8-357c56d7adb4"
-		]
-	},
-	{
-		"title": "Subdomein C1 Cultuur in fictie",
-		"description": "Subdomein C1 Cultuur in fictie",
-		"prefix": "C1",
-		"id": "cf4853f4-b61c-423c-a492-8368a8457fdf",
-		"fo_doelzin_id": [
-			"81c5dbcd-7ed6-4192-a5a2-1b8a491acdbd",
-			"a757b6d3-ad21-4c73-94c7-68f9f9b2b149"
-		],
-		"replaces": [
-			"40ffc07c-5db5-4394-9f39-2eff97d9eee2"
-		]
-	},
-	{
-		"title": "Subdomein C2 Cultuur in de maatschappij",
-		"description": "Subdomein C2 Cultuur in de maatschappij",
-		"prefix": "C2",
-		"id": "6ec29320-a887-40ce-a65d-9ff0f713dd99",
-		"fo_doelzin_id": [
-			"6c144521-3a98-4b4b-9008-1bbb71126a63",
-			"ed0569ee-bcab-47c0-8ff8-820d9d717250"
-		],
-		"replaces": [
-			"f87482b6-6b8a-4cf9-ba96-1bc41acb4f42"
-		]
-	},
-	{
-		"title": "Subdomein A1 Rijke ervaringen met taal",
-		"description": "Subdomein A1 Rijke ervaringen met taal",
-		"prefix": "A1",
-		"id": "b4d6ff67-f416-4b0c-bc34-ce02a1a52bb3",
-		"fo_doelzin_id": [
-			"03f695f4-a9d7-45d0-b51c-a779678500ba",
-			"8835b172-ca6d-43b6-a904-44fd97d20101"
-		],
-		"replaces": [
-			"8e72f278-6c6a-4633-9080-a2622fbb2564"
-		]
-	},
-	{
-		"title": "Subdomein A2 Receptie",
-		"description": "Subdomein A2 Receptie",
-		"prefix": "A2",
-		"id": "25a3e355-12db-45df-8456-d481a275621c",
-		"fo_doelzin_id": [
-			"d728c971-ddc1-4bf3-b175-83e838d6fed8",
-			"8e5299c9-877c-401e-a784-efb62827533f"
-		],
-		"replaces": [
-			"bbb0b6ff-9b86-4117-bd93-a173ff1d4fd2"
-		]
-	},
-	{
-		"title": "Subdomein A3 Productie en interactie",
-		"description": "Subdomein A3 Productie en interactie",
-		"prefix": "A3",
-		"id": "e969974b-60a8-4bb1-bb9d-74bb67de918e",
-		"fo_doelzin_id": [
-			"b041e710-d7f7-4e8e-9e92-b1ee5590ac7e",
-			"8daae46e-1b03-4c95-b21a-bd31d0047030",
-			"76f7869d-a96e-4630-8444-193fbb8f59b9"
-		],
-		"replaces": [
-			"3862dd9a-0af9-4beb-9def-6083767ed20c"
-		]
-	},
-	{
-		"title": "Subdomein B1 Taal als fenomeen",
-		"description": "Subdomein B1 Taal als fenomeen",
-		"prefix": "B1",
-		"id": "6dcb1131-033c-4aab-97b1-634ab532fe98",
-		"fo_doelzin_id": [
-			"e66bb926-59f1-4f07-add4-c5290d3aea7b"
-		],
-		"replaces": [
-			"78e9a8cc-951f-4c14-946c-22767e9b015c"
-		]
-	},
-	{
-		"title": "Subdomein B2 Taal en individu",
-		"description": "Subdomein B2 Taal en individu",
-		"prefix": "B2",
-		"id": "e08159bd-fc58-43a1-b2c3-5ff0189595f4",
-		"fo_doelzin_id": [
-			"5bd915cb-b174-4967-8b65-a25e23887b1d",
-			"f3220fb2-d883-40fb-bfad-76b523877a8a",
-			"0111f4f1-04db-4a00-ae34-e72986b0e782",
-			"cd1ad078-f0e4-4145-983b-35db5ba033c7"
-		],
-		"replaces": [
-			"10cc76d3-795e-4d8e-b42e-f4a73585a332"
-		]
-	},
-	{
-		"title": "Subdomein C1 Cultuur in fictie",
-		"description": "Subdomein C1 Cultuur in fictie",
-		"prefix": "C1",
-		"id": "8b723c86-b0d6-4daf-970f-9c4c3635cb34",
-		"fo_doelzin_id": [
-			"fba482de-90e7-4b61-81da-b921de82b546",
-			"99165d09-eb73-4cad-8007-9a4269723e59"
-		],
-		"replaces": [
-			"e8bca52b-a7d8-427f-bd58-15493b6bea01"
-		]
-	},
-	{
-		"title": "Subdomein C2 Cultuur in de maatschappij",
-		"description": "Subdomein C2 Cultuur in de maatschappij",
-		"prefix": "C2",
-		"id": "56bc74bd-df54-4c59-87d7-f5379044e51b",
-		"fo_doelzin_id": [
-			"6990c5c3-1349-4fa4-a17b-883756c4fb1d",
-			"75bd62c7-2cbe-4868-a747-064661cec239"
-		],
-		"replaces": [
-			"a0a9ee0e-7e43-4194-9cd8-5a56db0229c2"
-		]
-	},
-	{
-		"title": "Subdomein A1 Rijke ervaringen met taal",
-		"description": "Subdomein A1 Rijke ervaringen met taal",
-		"prefix": "A1",
-		"id": "cbdf2595-1570-4779-8ad8-24df60e191fe",
-		"fo_doelzin_id": [
-			"30044075-c66d-4354-b487-4a18bed7d9c8",
-			"9dd74dca-7032-4ae5-a6d0-ed560149b72f"
-		],
-		"replaces": [
-			"52262e2c-4039-4358-9778-3f26894a5d36"
-		]
-	},
-	{
-		"title": "Subdomein A2 Receptie",
-		"description": "Subdomein A2 Receptie",
-		"prefix": "A2",
-		"id": "7d9b11b8-7951-403a-af2d-747aa4fd5fab",
-		"fo_doelzin_id": [
-			"2a228f34-c54d-4993-a56d-298bcedd5315",
-			"e61cc749-caaa-4e57-b6b9-f6103701d45d"
-		],
-		"replaces": [
-			"cc697682-57a1-4e03-8c03-1ddd1ecf9506"
-		]
-	},
-	{
-		"title": "Subdomein A3 Productie en interactie",
-		"description": "Subdomein A3 Productie en interactie",
-		"prefix": "A3",
-		"id": "247870a7-f86c-4cf7-8a14-125232033d6f",
-		"fo_doelzin_id": [
-			"886812d7-1c16-4782-b958-01f7140cebfc",
-			"3746c82e-da5b-484e-8989-22b4acdd8cbc",
-			"a38c6609-3066-40d4-9a9b-c2d7cd9c43e6"
-		],
-		"replaces": [
-			"d12c20d5-00e9-4619-95f5-22bc476d4880"
-		]
-	},
-	{
-		"title": "Subdomein B1 Taal als fenomeen",
-		"description": "Subdomein B1 Taal als fenomeen",
-		"prefix": "B1",
-		"id": "34871274-9cd1-4aab-b477-9378c9886705",
-		"fo_doelzin_id": [
-			"bf9a2251-c689-4c51-b5be-784bfab5f365"
-		],
-		"replaces": [
-			"e1405c04-2530-48c6-9d83-4fcb3dc20b49"
-		]
-	},
-	{
-		"title": "Subdomein B2 Taal en individu",
-		"description": "Subdomein B2 Taal en individu",
-		"prefix": "B2",
-		"id": "da08481a-e294-4615-958d-09e9d082fefd",
-		"fo_doelzin_id": [
-			"63bf655a-bd69-4f16-9855-e1963667d0ab",
-			"9957e07c-764f-4fc3-be31-72bfe26d31e2",
-			"df27fb11-8d0d-4d31-8430-120f0ff6441f",
-			"4ff14ad5-752d-428d-99f1-cb657b0d3c9d"
-		],
-		"replaces": [
-			"2395a4a3-babe-472b-8dfe-b0ee154839eb"
-		]
-	},
-	{
-		"title": "Subdomein C1 Cultuur in fictie",
-		"description": "Subdomein C1 Cultuur in fictie",
-		"prefix": "C1",
-		"id": "033887f4-52f7-4c67-bfff-a8f38b87fff1",
-		"fo_doelzin_id": [
-			"c671d632-5e87-4d3b-85d3-f4b697f56ba8",
-			"ddefe1de-de8e-4c3b-b24d-6da0efaeacbc",
-			"ba7d6742-a8bc-4a26-bd1d-b75810f2fb76"
-		],
-		"replaces": [
-			"7683af2c-7eae-436c-a966-55308a5f5231"
-		]
-	},
-	{
-		"title": "Subdomein C2 Cultuur in de maatschappij",
-		"description": "Subdomein C2 Cultuur in de maatschappij",
-		"prefix": "C2",
-		"id": "ca7fb946-0f94-49da-9743-c8ef0240a553",
-		"fo_doelzin_id": [
-			"68bee083-66ed-437d-a9c7-22a12baedb8c",
-			"da76a1f4-c2db-4abd-880c-02800a7c1a3b"
-		],
-		"replaces": [
-			"b7ba1ce9-fb67-408d-94a4-4f2602899e25"
-		]
-	},
-	{
-		"title": "Subdomein A1 Rijke ervaringen met taal",
-		"description": "Subdomein A1 Rijke ervaringen met taal",
-		"prefix": "A1",
-		"id": "458e6a6d-5b35-4776-a05a-08c69734686a",
-		"fo_doelzin_id": [
-			"57a67504-98f5-4cd6-ac78-aded2b636c02",
-			"095ad788-00a1-4f4f-b6f6-9f82bd1f810c"
-		],
-		"replaces": [
-			"9a17e965-f846-465c-9d3a-c7358bf0c59b"
-		]
-	},
-	{
-		"title": "Subdomein A2 Receptie",
-		"description": "Subdomein A2 Receptie",
-		"prefix": "A2",
-		"id": "84b6ada2-d22d-4065-a0c6-8626f4c26077",
-		"fo_doelzin_id": [
-			"ee86850c-4c71-4385-a702-b77b879e04ad",
-			"41001c6f-b56b-43f3-9324-8f0728a8e8f0",
-			"92de3582-6d78-4765-9856-2389643a0018"
-		],
-		"replaces": [
-			"bd4a60a8-d39e-4400-b7cf-aef37977315c"
-		]
-	},
-	{
-		"title": "Subdomein A3 Productie en interactie",
-		"description": "Subdomein A3 Productie en interactie",
-		"prefix": "A3",
-		"id": "7cbacf0b-7f9b-4683-8bb5-068066a661e6",
-		"fo_doelzin_id": [
-			"f064ebfc-fb66-4b4d-9676-e5db17e7e9c5",
-			"e0c29cc7-4c9e-4174-add2-9c2003afe7dd",
-			"6e7ade51-b583-4184-a575-9ff377327090"
-		],
-		"replaces": [
-			"bb76f18c-ea1d-4c63-b398-61aeccbb9ab5"
-		]
-	},
-	{
-		"title": "Subdomein B1 Taal als fenomeen",
-		"description": "Subdomein B1 Taal als fenomeen",
-		"prefix": "B1",
-		"id": "545de428-18de-409f-ae7b-9d415144182d",
-		"fo_doelzin_id": [
-			"d9fee368-872c-4834-b0c8-4bde827e36c9"
-		],
-		"replaces": [
-			"65190c94-98dc-4a62-84a1-4d713c435d8e"
-		]
-	},
-	{
-		"title": "Subdomein B2 Taal en individu",
-		"description": "Subdomein B2 Taal en individu",
-		"prefix": "B2",
-		"id": "ca2f650f-c2dd-4bac-af4c-d1959dcb391f",
-		"fo_doelzin_id": [
-			"91a033a0-9c2d-496a-8c5e-8bafd76d1bb9",
-			"97fb1f57-e095-4db8-9437-b3248a89e147",
-			"0b12c99f-4c5f-450f-ace7-a5c76d740518",
-			"8ee31739-b6f4-444f-bde6-c400902961de"
-		],
-		"replaces": [
-			"f1b0be69-c56e-482f-8a92-367460538d31"
-		]
-	},
-	{
-		"title": "Subdomein C1 Cultuur in fictie",
-		"description": "Subdomein C1 Cultuur in fictie",
-		"prefix": "C1",
-		"id": "6b3e199d-0f58-4a4d-ae26-eec5b95ec538",
-		"fo_doelzin_id": [
-			"83b69bd0-7980-40eb-918c-8d462374b989",
-			"16071985-4c9e-4f20-994e-9822532042db",
-			"757002ee-cd3f-4d79-b667-7e8850623016"
-		],
-		"replaces": [
-			"869014e0-c302-4ee8-979f-a96c4e6fb169"
-		]
-	},
-	{
-		"title": "Subdomein C2 Cultuur in de maatschappij",
-		"description": "Subdomein C2 Cultuur in de maatschappij",
-		"prefix": "C2",
-		"id": "269fb69e-6991-494c-851f-f5e51e07d887",
-		"fo_doelzin_id": [
-			"a350be70-31ab-4c31-8ee8-c8ccf36e4443",
-			"dfff0874-1ec4-4b10-929d-cb07f631bca6"
-		],
-		"replaces": [
-			"5e238e5e-9ce4-4a31-931e-8688868e8358"
 		]
 	},
 	{
@@ -11277,6 +10006,1361 @@
 		"replaces": [
 			"76e912ed-0c11-4c49-b3c3-cbf9590e6ed3",
 			"2506ba41-7d32-4875-83df-59b1d1ba9e67"
+		]
+	},
+	{
+		"title": "Subdomein A1 Receptieve taalvaardigheid",
+		"description": "Subdomein A1 Receptieve taalvaardigheid",
+		"prefix": "A1",
+		"id": "9baeb82f-ceb3-4652-acb2-63e4ea2374d2",
+		"fo_doelzin_id": [
+			"d6e7b7c9-80a1-4bdc-aa42-400b22f9b831",
+			"da0a5691-edfb-4a41-97a7-de047554f8bf"
+		],
+		"replaces": [
+			"42dd8eef-cc2e-446c-a4e7-d964f0ca80c4",
+			"9412cf7a-9d6e-44bf-9404-317fe02b3e0e"
+		]
+	},
+	{
+		"title": "Subdomein A2 Productieve taalvaardigheid",
+		"description": "Subdomein A2 Productieve taalvaardigheid",
+		"prefix": "A2",
+		"id": "2b1ef045-4ed8-4d74-8ed0-107396685048",
+		"fo_doelzin_id": [
+			"da3a7282-ad04-4580-a30d-5ec73b9bc5a0",
+			"0a3989f6-f01a-4a3d-9d86-e5d73332578a",
+			"936f5ce7-eefe-42e8-8ab5-ffc065b880a6",
+			"1af8992f-9117-4c1d-9b63-1231f99d0c15"
+		],
+		"replaces": [
+			"dcf6c486-baf7-4ed2-aef3-5dc497690bbb",
+			"bd01a1c8-a736-450a-a727-095dacd975b0"
+		]
+	},
+	{
+		"title": "Subdomein A1 Receptieve taalvaardigheid",
+		"description": "Subdomein A1 Receptieve taalvaardigheid",
+		"prefix": "A1",
+		"id": "7f6da74e-554a-4f84-8872-d7cb08539a44",
+		"fo_doelzin_id": [
+			"722f01cc-bbd7-48ef-aa08-ae1425c443d1",
+			"6614d321-2204-4527-9ed3-57b56abd1da8"
+		],
+		"replaces": [
+			"49749559-e251-4b03-837e-f614e5aea8ba",
+			"3998ccd9-8188-4269-9292-6e72026d90a4"
+		]
+	},
+	{
+		"title": "Subdomein A2 Productieve taalvaardigheid",
+		"description": "Subdomein A2 Productieve taalvaardigheid",
+		"prefix": "A2",
+		"id": "8f105b00-c9ad-4662-86eb-410b9f0d8bae",
+		"fo_doelzin_id": [
+			"d75414a7-a42c-485a-ad2a-2739ea4a37e1",
+			"260ad1b1-d3c1-4de1-bbd0-1a092d867fa3",
+			"5076219f-5480-4219-974a-9a59c23a9109",
+			"e01f7b73-254b-46ff-8d72-07e4bd333889"
+		],
+		"replaces": [
+			"2c9325ea-83f3-4312-9ea2-b1f435a5c7ac",
+			"33c9ed61-a43f-4d7c-ac55-b70755862e90"
+		]
+	},
+	{
+		"title": "Subdomein A1 Receptieve taalvaardigheid",
+		"description": "Subdomein A1 Receptieve taalvaardigheid",
+		"prefix": "A1",
+		"id": "4c2485ef-2645-4a6b-b669-018189148f79",
+		"fo_doelzin_id": [
+			"cb4ad041-d973-411b-8640-8deb964bde89",
+			"5041b7bc-df3a-4dd2-8237-1c3701a11d79"
+		],
+		"replaces": [
+			"5d6610ef-ecd7-4f05-b16a-9e08943c683b",
+			"db698881-6d86-4d7a-aeeb-a2a638ab36be"
+		]
+	},
+	{
+		"title": "Subdomein A2 Productieve taalvaardigheid",
+		"description": "Subdomein A2 Productieve taalvaardigheid",
+		"prefix": "A2",
+		"id": "e2a9f1f4-258f-4e0a-b29a-abbbb4f9144f",
+		"fo_doelzin_id": [
+			"eeb16e3d-1b83-4b44-b606-9498f02e8133",
+			"779f6be6-26d9-4659-a46e-a72339d72070",
+			"6eae7c5d-67e3-4823-8918-95da1c986f02",
+			"433b6f6a-88b4-401c-b15a-f11637697f7f"
+		],
+		"replaces": [
+			"03ab2d65-671a-48f3-bb3f-bb3af334ed81",
+			"5b9f1aed-f2a2-4e96-a0a2-f8a455d494c1"
+		]
+	},
+	{
+		"title": "Subdomein A1 Receptieve taalvaardigheid",
+		"description": "Subdomein A1 Receptieve taalvaardigheid",
+		"prefix": "A1",
+		"id": "5d320977-4225-4346-ba5f-d0d3b20977ae",
+		"fo_doelzin_id": [
+			"9a609d09-2651-463c-9efc-62a9ea7502c8",
+			"1e918c7f-9a8d-4c95-b146-c6d15a326de1"
+		],
+		"replaces": [
+			"10e63535-f180-43c9-8d45-06ca837523d3",
+			"2d637dc9-1fa3-4f41-ad19-5b99a9183a7d"
+		]
+	},
+	{
+		"title": "Subdomein A2 Productieve taalvaardigheid",
+		"description": "Subdomein A2 Productieve taalvaardigheid",
+		"prefix": "A2",
+		"id": "2882cb4a-2926-42f3-b3b2-d4c7485ac3e1",
+		"fo_doelzin_id": [
+			"bfa22f41-e638-4b25-a698-2b6f5cf9859a",
+			"1d09839f-ad6a-4e9d-bbc0-b4a255bfce19",
+			"aae00795-5595-4b2d-9a05-41b290601914",
+			"cd524a4b-561a-45d3-a2eb-1eb532e573fc"
+		],
+		"replaces": [
+			"b7d0e707-aee4-4144-aa51-38b0329e08cb",
+			"d279599c-3ee4-4516-af12-9287d032ae31"
+		]
+	},
+	{
+		"title": "Subdomein A1 Receptieve taalvaardigheid",
+		"description": "Subdomein A1 Receptieve taalvaardigheid",
+		"prefix": "A1",
+		"id": "1da388a8-714b-4887-b6e4-b98d6802e1f8",
+		"fo_doelzin_id": [
+			"40151b32-a9d1-476d-b927-577ca5d86b0f",
+			"eaeb720c-b4ab-44ab-a6d0-644e97dc09df"
+		],
+		"replaces": [
+			"d9943a7b-63a8-404a-a444-b3b8a8775d3f",
+			"e28b5614-a2df-4cac-9dba-cc0ffd1705ec"
+		]
+	},
+	{
+		"title": "Subdomein A2 Productieve taalvaardigheid",
+		"description": "Subdomein A2 Productieve taalvaardigheid",
+		"prefix": "A2",
+		"id": "6ce41131-8e9f-4729-a44a-b0951d9e7d49",
+		"fo_doelzin_id": [
+			"33372d3f-e40d-463c-92fd-90b6790eb4fe",
+			"f1d7637a-fa91-40d3-91c8-71f69b38e99f",
+			"1ce5fe61-9428-4f76-9216-05374c74e7b7",
+			"c1020d7b-78f9-41a9-8967-0848d1ce9f81"
+		],
+		"replaces": [
+			"d44999b0-a962-428f-b8cc-4f73e0b3e2b8",
+			"fe9a6079-681f-48f9-9c76-af2a08a0fa47"
+		]
+	},
+	{
+		"title": "Subdomein A1 Rijke ervaringen met taal",
+		"description": "Subdomein A1 Rijke ervaringen met taal",
+		"prefix": "A1",
+		"id": "b1abd468-bd92-4aea-949e-5c7b5b747e26",
+		"fo_doelzin_id": [
+			"67ad688c-1b53-4c1d-b922-46dd8b1fc4bc",
+			"19e1fecc-3184-4b31-a79c-587c8a9db992"
+		],
+		"replaces": [
+			"c758a59d-15b2-4cd0-8973-b87655adafa1",
+			"41a22097-8b80-42d0-8ea3-c5a96b9b4be3"
+		]
+	},
+	{
+		"title": "Subdomein C2 Cultuur in de maatschappij",
+		"description": "Subdomein C2 Cultuur in de maatschappij",
+		"prefix": "C2",
+		"id": "e7fa69ba-468d-4956-b099-30412aa079b0",
+		"fo_doelzin_id": [
+			"7b81a044-090d-41e7-a70d-7fc42438ccea",
+			"bf7f4da7-8223-4267-a4f4-7abb985e5747"
+		],
+		"replaces": [
+			"b5820863-763b-4661-9287-9ef47520c675",
+			"5905df2f-eeed-48ba-9a15-b681e9d51521"
+		]
+	},
+	{
+		"title": "Subdomein A1 Rijke ervaringen met taal",
+		"description": "Subdomein A1 Rijke ervaringen met taal",
+		"prefix": "A1",
+		"id": "97f7ef5d-b637-4e33-ace6-cf5eece4edd2",
+		"fo_doelzin_id": [
+			"6da668b3-34c2-4c52-98a4-a7a5a16d8ce3",
+			"8cb145ff-7b9e-449b-8390-6a23dcbad841"
+		],
+		"replaces": [
+			"2c84a9e6-f089-4438-b6e0-1f467016df90",
+			"84592f42-b61e-4233-8cc3-1f819999e189"
+		]
+	},
+	{
+		"title": "Subdomein C2 Cultuur in de maatschappij",
+		"description": "Subdomein C2 Cultuur in de maatschappij",
+		"prefix": "C2",
+		"id": "eab11546-4448-4878-9369-a3f50d55121b",
+		"fo_doelzin_id": [
+			"7be1cc44-b17e-4c83-b2eb-d83997c213ba",
+			"6a8cc636-a392-4662-91a6-fda51e8342be"
+		],
+		"replaces": [
+			"2292e111-8231-4a55-8c99-9c31e3b28889",
+			"f43c8841-383f-4bda-9b6c-17374643a284"
+		]
+	},
+	{
+		"title": "Subdomein A1 Rijke ervaringen met taal",
+		"description": "Subdomein A1 Rijke ervaringen met taal",
+		"prefix": "A1",
+		"id": "d3371b1c-a632-4703-acb6-ed8e2db0bc99",
+		"fo_doelzin_id": [
+			"d53184df-7873-4d7c-92a1-fe93a024a165",
+			"9e458416-b691-4c90-973e-5c326536e89e"
+		],
+		"replaces": [
+			"4e69d8cd-d976-4108-b783-8014446311d6",
+			"26263eac-48bd-44ca-b296-ba720f8091f2"
+		]
+	},
+	{
+		"title": "Subdomein C2 Cultuur in de maatschappij",
+		"description": "Subdomein C2 Cultuur in de maatschappij",
+		"prefix": "C2",
+		"id": "cc226d3a-0e57-4554-832d-7e4cf79e8ffb",
+		"fo_doelzin_id": [
+			"d88aa8d1-333a-4ef3-81ee-d9978df8442e",
+			"20b0892e-bc69-47f4-9f3b-a64e1c84065c"
+		],
+		"replaces": [
+			"44baa553-56ed-4744-aab5-ad5623401707",
+			"c45b8bd4-2b91-4872-92be-67d46aad5f86"
+		]
+	},
+	{
+		"title": "Subdomein A1 Rijke ervaringen met taal",
+		"description": "Subdomein A1 Rijke ervaringen met taal",
+		"prefix": "A1",
+		"id": "32f3d273-1dc0-4fd7-91cd-e68e5a2ebe6f",
+		"fo_doelzin_id": [
+			"4cc93352-d033-4860-a6aa-6866ee09001d",
+			"d100baeb-858e-4b37-997e-9077eb85a1e2"
+		],
+		"replaces": [
+			"524895d8-c7df-44af-9cb2-6ba9bdcc039e",
+			"4888c9a0-d64a-4eda-a125-fbe42fc0122c"
+		]
+	},
+	{
+		"title": "Subdomein A1 Rijke ervaringen met taal",
+		"description": "Subdomein A1 Rijke ervaringen met taal",
+		"prefix": "A1",
+		"id": "581b6fcb-f3ca-46ee-8dd1-aed8d72f2ee0",
+		"fo_doelzin_id": [
+			"07de9eb0-7864-4212-b9db-c44daa1feaa3",
+			"a387ebf1-caf0-4069-af89-7190d48a727a"
+		],
+		"replaces": [
+			"7b485c5b-04ad-4dfd-8e46-a3c7472f8ed1",
+			"2f4fd14c-0450-4f54-8fb2-4c6983ad6254"
+		]
+	},
+	{
+		"title": "Subdomein A2 Receptie",
+		"description": "Subdomein A2 Receptie",
+		"prefix": "A2",
+		"id": "7429a6ad-c0c8-4aec-8eaf-001c23cfb1c9",
+		"fo_doelzin_id": [
+			"4838d4d6-0f01-4874-914c-765101a4ef17",
+			"931656bc-3dd4-4e88-b339-2ea53d263965",
+			"6562d9e5-f807-4c1e-bc39-a2e00eb5adf3"
+		],
+		"replaces": [
+			"eccba603-6778-4f92-aab2-8eaf91847727",
+			"d3082ee4-2886-4807-b6eb-0fe449650ac6"
+		]
+	},
+	{
+		"title": "Subdomein C2 Cultuur in de maatschappij",
+		"description": "Subdomein C2 Cultuur in de maatschappij",
+		"prefix": "C2",
+		"id": "3aae7431-0afc-4c02-b393-1127f03096ff",
+		"fo_doelzin_id": [
+			"161dc53b-65ef-4728-9a38-56c6b6807550",
+			"93add063-5fa3-4bd8-9e80-c4b322f91f40"
+		],
+		"replaces": [
+			"617d53c1-6c01-4878-9ab0-5438ee57b46f",
+			"0d32f5e5-600f-48d0-b757-88bfde6f080f"
+		]
+	},
+	{
+		"title": "Subdomein A1 Rijke ervaringen met taal",
+		"description": "Subdomein A1 Rijke ervaringen met taal",
+		"prefix": "A1",
+		"id": "69e93339-3287-4f65-b189-10039ac21a17",
+		"fo_doelzin_id": [
+			"0e033176-ac33-449f-96b1-3d43dc0b09ca",
+			"bcb04143-cf16-4098-9a7c-b638b0609d1b"
+		],
+		"replaces": [
+			"bf6f7fee-6f49-4b5d-904f-88dd2ee64a05",
+			"e7ec767c-2424-444e-a519-d24d9d1a8672"
+		]
+	},
+	{
+		"title": "Subdomein A3 Productie en interactie",
+		"description": "Subdomein A3 Productie en interactie",
+		"prefix": "A3",
+		"id": "38d04494-8c40-460c-b047-ed506e61e35d",
+		"fo_doelzin_id": [
+			"33b12501-304f-44f3-9cc6-bad99db0f7cf",
+			"ed19040f-c09f-4e9e-b95f-aa441580f710",
+			"2d20a4aa-6663-4884-be0d-9fcab21a052e"
+		],
+		"replaces": [
+			"2d5afb69-5632-4788-bfb4-acebd49399b6",
+			"f139b3d5-5013-4ffa-95b5-8c3d203e4759"
+		]
+	},
+	{
+		"title": "Subdomein C2 Cultuur in de maatschappij",
+		"description": "Subdomein C2 Cultuur in de maatschappij",
+		"prefix": "C2",
+		"id": "119c815b-65cb-47c5-a00c-1487084f45f7",
+		"fo_doelzin_id": [
+			"38d07ed5-a638-4955-8c5e-06d7ea50fea8",
+			"59c656e3-3554-4a37-8cbb-674cee5a6d92"
+		],
+		"replaces": [
+			"f397c59d-ad1e-4dc3-8520-034f11d9c425",
+			"1c80477c-39d7-41e8-b49c-2fbfcbf09e8e"
+		]
+	},
+	{
+		"title": "Subdomein A2 Receptie",
+		"description": "Subdomein A2 Receptie",
+		"prefix": "A2",
+		"id": "d5d95663-c138-4df2-b241-4d59a9b65d60",
+		"fo_doelzin_id": [
+			"01502cc4-3415-49ef-a322-7a8ba9295456",
+			"a775473e-a96d-457d-9488-c7e4395fef58",
+			"68fdd936-10c5-4d24-9a0a-50a8725b5d15"
+		],
+		"replaces": [
+			"bd374ba5-8e65-4bc5-9aa9-d4bed19d2385",
+			"30792fd6-f567-4825-a0a3-f3b2835da25a"
+		]
+	},
+	{
+		"title": "Subdomein A3 Productie en interactie",
+		"description": "Subdomein A3 Productie en interactie",
+		"prefix": "A3",
+		"id": "b77eb663-b80a-466c-ac90-0d7b5393eedd",
+		"fo_doelzin_id": [
+			"81cc38b5-258f-4dd6-9c30-5382c5552f9d",
+			"9531aeaa-d535-456f-babe-1d29c5d57821",
+			"482012dd-247a-4f33-90fc-869f2d300919"
+		],
+		"replaces": [
+			"10f2c9d7-81ba-42b6-bc30-186d43b7ea56",
+			"6da1ccb1-ad23-4337-88b9-b1e6790a41dd"
+		]
+	},
+	{
+		"title": "Subdomein C2 Cultuur in de maatschappij",
+		"description": "Subdomein C2 Cultuur in de maatschappij",
+		"prefix": "C2",
+		"id": "1b1653b0-e2b1-44fa-a9b9-2b7252095c6a",
+		"fo_doelzin_id": [
+			"586c9107-0f46-4db8-9266-6afdee3deb92",
+			"dd6aa085-39ff-4cc2-9e35-d9fbdf508b4c"
+		],
+		"replaces": [
+			"4c690f06-0613-4b7a-88b4-56e0b240d8c1",
+			"2df96f38-10ab-4f4d-bcbc-55632b0227e5"
+		]
+	},
+	{
+		"title": "Subdomein A1 Rijke ervaringen met taal",
+		"description": "Subdomein A1 Rijke ervaringen met taal",
+		"prefix": "A1",
+		"id": "31837619-124f-496e-ac48-67dc6d415f58",
+		"fo_doelzin_id": [
+			"915785fd-879c-4b83-86db-76ec23319be7",
+			"bd742472-fef0-432e-a1c1-6d048beef5ca"
+		],
+		"replaces": [
+			"dce328ad-a57c-49d9-9f75-a830d17b6cab",
+			"008ffaa2-7a71-44de-a6dc-9e304ff7ef2d"
+		]
+	},
+	{
+		"title": "Subdomein A3 Productie en interactie",
+		"description": "Subdomein A3 Productie en interactie",
+		"prefix": "A3",
+		"id": "cf63e569-eff3-4f30-b04a-42aba016914a",
+		"fo_doelzin_id": [
+			"5b82dfdd-9273-447e-aef2-4ea722e3b8de",
+			"8e240e49-df53-4535-b849-a1060524b7dc"
+		],
+		"replaces": [
+			"cfa91053-6f2f-479e-8ddb-e2c1b4fb2331",
+			"0d874b03-3cd2-4819-b679-341c08b1da2c"
+		]
+	},
+	{
+		"title": "Subdomein B2 Taal en individu",
+		"description": "Subdomein B2 Taal en individu",
+		"prefix": "B2",
+		"id": "97c27ab9-75c2-4853-831d-f8ab3f17e54d",
+		"fo_doelzin_id": [
+			"8a236990-4b00-4f49-a474-7746222129b9",
+			"c702dbf8-1b2e-4dfe-a62e-7496636bc243",
+			"4b4fd4c2-fc8a-4fc1-ac0a-c8fd146e675c",
+			"627135e5-1af3-49f7-8cae-32f369cc59cd"
+		],
+		"replaces": [
+			"21781bf3-c87f-4285-8398-ac216989ffe2",
+			"a948ecba-4810-4909-93a7-d6a28e1409ce"
+		]
+	},
+	{
+		"title": "Subdomein A1 Rijke ervaringen met taal",
+		"description": "Subdomein A1 Rijke ervaringen met taal",
+		"prefix": "A1",
+		"id": "8467ccda-56d5-400d-8614-645778912cac",
+		"fo_doelzin_id": [
+			"fb56550a-9395-4b31-bec5-2cf7e7eb5bc6",
+			"2e678fa7-95c5-49a5-b32e-058c8b32f883"
+		],
+		"replaces": [
+			"3db67cab-693e-41dd-8852-5a56e417bc4e",
+			"8f070c03-335d-4c67-95ff-3ddc97649df0"
+		]
+	},
+	{
+		"title": "Subdomein A3 Productie en interactie",
+		"description": "Subdomein A3 Productie en interactie",
+		"prefix": "A3",
+		"id": "cbe18341-412c-410f-aaa2-830cefab7553",
+		"fo_doelzin_id": [
+			"c5bce00c-00cc-4add-84dc-f8facf71fbad",
+			"a4877140-fd9c-4ea1-b8f7-59834872b34f",
+			"a940dc4d-7dbf-43c1-8b8e-a12c7dae319b"
+		],
+		"replaces": [
+			"3b981ab3-5d72-4655-a297-7935768249b8",
+			"fde03958-ff88-4d52-ae13-3ca6a246fe8f"
+		]
+	},
+	{
+		"title": "Subdomein B2 Taal en individu",
+		"description": "Subdomein B2 Taal en individu",
+		"prefix": "B2",
+		"id": "23d5e67a-bb1c-4125-95da-b5c02b3d8a3e",
+		"fo_doelzin_id": [
+			"16e5054a-2155-4985-9bfa-8e16532357af",
+			"96f06123-60cf-4514-b2b0-f7644b35ff04",
+			"1ba1f76c-beb4-4db7-b58a-5f034c50a0b3",
+			"b31ab829-1326-490d-bea6-ea850a8b0a18"
+		],
+		"replaces": [
+			"b8342f89-079d-4343-b3e8-357c56d7adb4",
+			"b7c1cac1-8c07-46d3-ba8b-d70cad9133cb"
+		]
+	},
+	{
+		"title": "Subdomein A1 Rijke ervaringen met taal",
+		"description": "Subdomein A1 Rijke ervaringen met taal",
+		"prefix": "A1",
+		"id": "a88e1274-3cda-46e2-9323-8028a3e2056f",
+		"fo_doelzin_id": [
+			"d3ee71bf-4a68-4894-aaf3-a3e3d39d3dd8",
+			"5d5aebac-09b8-4903-86a4-b184ff02a845"
+		],
+		"replaces": [
+			"8e72f278-6c6a-4633-9080-a2622fbb2564",
+			"b4d6ff67-f416-4b0c-bc34-ce02a1a52bb3"
+		]
+	},
+	{
+		"title": "Subdomein A3 Productie en interactie",
+		"description": "Subdomein A3 Productie en interactie",
+		"prefix": "A3",
+		"id": "8bac7992-011c-4764-9aa7-65f4c6c08c7c",
+		"fo_doelzin_id": [
+			"5a653972-93d4-4dcb-85c0-7e20fe7a6031",
+			"4740820f-8c3c-49a8-947f-c75252332abd",
+			"c9d3a939-fff6-40dd-95c5-bbb1318bcb72"
+		],
+		"replaces": [
+			"3862dd9a-0af9-4beb-9def-6083767ed20c",
+			"e969974b-60a8-4bb1-bb9d-74bb67de918e"
+		]
+	},
+	{
+		"title": "Subdomein B2 Taal en individu",
+		"description": "Subdomein B2 Taal en individu",
+		"prefix": "B2",
+		"id": "90d3da90-ecc2-4798-b82e-b03629b9a7db",
+		"fo_doelzin_id": [
+			"f6d780d1-2fc3-4e33-b26e-879de246c3c9",
+			"a86198f8-0b00-49e5-a181-cb2e55c52132",
+			"ce136c6c-f774-4ff5-ba20-8a655cc295d1",
+			"f0e3cbe0-c65e-4a0e-bc3a-0f49564ae680"
+		],
+		"replaces": [
+			"10cc76d3-795e-4d8e-b42e-f4a73585a332",
+			"e08159bd-fc58-43a1-b2c3-5ff0189595f4"
+		]
+	},
+	{
+		"title": "Subdomein A1 Rijke ervaringen met taal",
+		"description": "Subdomein A1 Rijke ervaringen met taal",
+		"prefix": "A1",
+		"id": "feea618e-fd4b-4bcf-b984-2020a9fc8ee5",
+		"fo_doelzin_id": [
+			"bc1e2688-ec6a-46a9-8615-8134d0f420c2",
+			"b7c37d7d-0953-4247-a9bc-9e45d528382d"
+		],
+		"replaces": [
+			"52262e2c-4039-4358-9778-3f26894a5d36",
+			"cbdf2595-1570-4779-8ad8-24df60e191fe"
+		]
+	},
+	{
+		"title": "Subdomein A3 Productie en interactie",
+		"description": "Subdomein A3 Productie en interactie",
+		"prefix": "A3",
+		"id": "7bddbe9d-2c5a-49f0-a3b9-60d156303791",
+		"fo_doelzin_id": [
+			"4b048152-2803-459e-a47a-c0aa39ba465d",
+			"044616ff-22ea-442b-b427-057e2e2e7113",
+			"77e50849-1509-45d4-8f77-5b51965f734b"
+		],
+		"replaces": [
+			"d12c20d5-00e9-4619-95f5-22bc476d4880",
+			"247870a7-f86c-4cf7-8a14-125232033d6f"
+		]
+	},
+	{
+		"title": "Subdomein B2 Taal en individu",
+		"description": "Subdomein B2 Taal en individu",
+		"prefix": "B2",
+		"id": "f7e5129c-db2b-4031-8413-2d4367cb44ab",
+		"fo_doelzin_id": [
+			"f58fe956-97f9-44d1-89ec-297110dde549",
+			"52e44c4d-d2a3-476c-a9af-2f7644693a72",
+			"dfd271ef-8a25-496d-ae0b-010d7e464831",
+			"79a0372b-9012-47f5-b4ce-0704d137c951"
+		],
+		"replaces": [
+			"2395a4a3-babe-472b-8dfe-b0ee154839eb",
+			"da08481a-e294-4615-958d-09e9d082fefd"
+		]
+	},
+	{
+		"title": "Subdomein A2 Receptie",
+		"description": "Subdomein A2 Receptie",
+		"prefix": "A2",
+		"id": "ce496c6f-4484-4c4a-8e58-33e09b673e22",
+		"fo_doelzin_id": [
+			"e32283f9-1811-466f-bcb0-957c37349ddf",
+			"ae55353d-eb49-43f1-8fbc-325c83937660",
+			"f2b2a1e8-4967-4dc8-a6b4-06528bd75e9c"
+		],
+		"replaces": [
+			"bd4a60a8-d39e-4400-b7cf-aef37977315c",
+			"84b6ada2-d22d-4065-a0c6-8626f4c26077"
+		]
+	},
+	{
+		"title": "Subdomein A3 Productie en interactie",
+		"description": "Subdomein A3 Productie en interactie",
+		"prefix": "A3",
+		"id": "30da6fc9-43f0-40fe-a3ce-f35512fdfea1",
+		"fo_doelzin_id": [
+			"66663585-2cdf-4827-a59f-49884ad66438",
+			"f5077d07-2d5f-424b-8a47-94d6a6776e2f",
+			"d74a22b8-77f8-4e0b-ac13-bce4812555f3"
+		],
+		"replaces": [
+			"bb76f18c-ea1d-4c63-b398-61aeccbb9ab5",
+			"7cbacf0b-7f9b-4683-8bb5-068066a661e6"
+		]
+	},
+	{
+		"title": "Subdomein B2 Taal en individu",
+		"description": "Subdomein B2 Taal en individu",
+		"prefix": "B2",
+		"id": "61715847-b94c-4135-b5ce-2ff69d97bf1e",
+		"fo_doelzin_id": [
+			"8cc4f5f9-3edf-453a-abc4-a702b2fff208",
+			"594e4a3b-a7b0-4b0a-a8ad-8a5d6a2b61ac",
+			"8194262a-a5fc-421f-a78c-6d9dcb7f7b66",
+			"9bc28b96-dc36-427a-9cdb-6927d4309051"
+		],
+		"replaces": [
+			"f1b0be69-c56e-482f-8a92-367460538d31",
+			"ca2f650f-c2dd-4bac-af4c-d1959dcb391f"
+		]
+	},
+	{
+		"title": "Subdomein A2 Receptie",
+		"description": "Subdomein A2 Receptie",
+		"prefix": "A2",
+		"id": "a5cf4111-a104-4543-8f1b-b62c53b8ad18",
+		"fo_doelzin_id": [
+			"0ea0075b-4c36-4bbf-9542-cb1b78d5aa85",
+			"f38cd7aa-5169-4d4f-9ad3-35f5f0ad6df5"
+		],
+		"replaces": [
+			"469dbf6e-bc9d-43fa-ba1b-5442de5a6fec",
+			"60bd72c3-b2d7-4048-9e24-320a486d18ff"
+		]
+	},
+	{
+		"title": "Subdomein A3 Productie en interactie",
+		"description": "Subdomein A3 Productie en interactie",
+		"prefix": "A3",
+		"id": "e5e5a749-0c74-4878-834d-051ac16016fb",
+		"fo_doelzin_id": [
+			"ed20cd90-a46d-4174-a3dc-162b077e2213",
+			"3f8a89d4-9ccf-4757-bf6c-ac1349ea8ce6"
+		],
+		"replaces": [
+			"0644c472-9f37-4d8f-b4aa-461515767ebe",
+			"5b430218-c083-48a4-8d21-1ef14091ddb6"
+		]
+	},
+	{
+		"title": "Subdomein B1 Taal als fenomeen",
+		"description": "Subdomein B1 Taal als fenomeen",
+		"prefix": "B1",
+		"id": "e4aab43a-a072-4179-8c29-5cb573a3fec7",
+		"fo_doelzin_id": [
+			"9e07eb3f-9479-4791-a5c8-cd76500de09d"
+		],
+		"replaces": [
+			"37fc60c7-c383-467b-a4ae-549d23cf5cdf",
+			"d27d18cf-018d-492f-a3a3-74f60945cf8a"
+		]
+	},
+	{
+		"title": "Subdomein B2 Taal en individu",
+		"description": "Subdomein B2 Taal en individu",
+		"prefix": "B2",
+		"id": "acfe67fb-8493-4667-ac80-70c1794902b9",
+		"fo_doelzin_id": [
+			"bc0619ee-a84a-4624-b9d8-5eaca8503429",
+			"54e6770d-96e4-4917-99b9-3754acedfd5d",
+			"9f98d7f5-517d-4cc4-afe5-a5ce2e4f5814",
+			"d3b36e23-fffb-405a-bff1-e5a4da333a6f"
+		],
+		"replaces": [
+			"6eafc183-018a-41fe-b2db-5c23ceb0818b",
+			"c97861aa-2fb2-40e0-881f-00f102c48eec"
+		]
+	},
+	{
+		"title": "Subdomein C1 Cultuur in fictie",
+		"description": "Subdomein C1 Cultuur in fictie",
+		"prefix": "C1",
+		"id": "7ac6fc12-def6-454b-b21e-baf0ea903e3f",
+		"fo_doelzin_id": [
+			"713f894b-8f7a-474e-b92b-dd5be72dcbe4"
+		],
+		"replaces": [
+			"4068527a-6233-4f0a-b396-381f4d7ad1b2",
+			"6a9257e8-63ee-4cb2-9132-a367a6a10efc"
+		]
+	},
+	{
+		"title": "Subdomein A2 Receptie",
+		"description": "Subdomein A2 Receptie",
+		"prefix": "A2",
+		"id": "f72883bb-8d4e-46de-9a4f-11769a7b6243",
+		"fo_doelzin_id": [
+			"33a72574-c837-41ba-bd3c-e5e5d121a9e3",
+			"abe27598-bb12-4a63-8361-84c6d485bff9"
+		],
+		"replaces": [
+			"e01d554c-4e54-4ab2-b0a1-6d4d82513508",
+			"d5f35bc8-0b2a-4b45-835d-67f283872659"
+		]
+	},
+	{
+		"title": "Subdomein A3 Productie en interactie",
+		"description": "Subdomein A3 Productie en interactie",
+		"prefix": "A3",
+		"id": "9783c3f6-6689-491a-a3d5-a798067760c8",
+		"fo_doelzin_id": [
+			"1fa816ab-9b8e-41c1-bfb8-849729e1117d",
+			"68ce68cf-0ef2-42ba-b04e-d15d101a00f5",
+			"a2e7ff11-eed0-4315-a0d4-c356dde343e5"
+		],
+		"replaces": [
+			"3c1e4400-ffe0-463b-bb2f-fcba25d9dde6",
+			"b37a0307-9eb4-4e00-901d-5633d99e9451"
+		]
+	},
+	{
+		"title": "Subdomein B1 Taal als fenomeen",
+		"description": "Subdomein B1 Taal als fenomeen",
+		"prefix": "B1",
+		"id": "10fc622c-df17-4c50-9dd3-b65cfb7eeb92",
+		"fo_doelzin_id": [
+			"bb4eb832-5455-4877-94fc-de1532a9516b"
+		],
+		"replaces": [
+			"3ea05713-5fac-4f94-8301-d6da30538b36",
+			"99657f30-ca95-4515-b1a1-3e282f4876f8"
+		]
+	},
+	{
+		"title": "Subdomein B2 Taal en individu",
+		"description": "Subdomein B2 Taal en individu",
+		"prefix": "B2",
+		"id": "1995c8a0-2fe7-4a72-8ed5-515facfeb9f4",
+		"fo_doelzin_id": [
+			"19b2438f-12d3-4ed3-a55b-2e5399247599",
+			"86b6a91a-7f46-4e78-982e-54b968f82f35",
+			"d9e96a4f-5386-4102-ac2b-50bc38329a2b",
+			"1fe83987-46bb-4cf9-99a9-ed5e16410db3"
+		],
+		"replaces": [
+			"a2e18231-0496-4878-8d76-a83d4fd120f8",
+			"1f7d5818-edd3-4b52-9489-c7541c115fd8"
+		]
+	},
+	{
+		"title": "Subdomein C1 Cultuur in fictie",
+		"description": "Subdomein C1 Cultuur in fictie",
+		"prefix": "C1",
+		"id": "d9ebedc6-70e0-43fa-874d-fbacfff6cb74",
+		"fo_doelzin_id": [
+			"0c71d417-d5b4-442e-bbe0-b4f009e93d10",
+			"29956d3c-d7d0-4571-8b7c-b22b94c86eb5"
+		],
+		"replaces": [
+			"99092ab3-15cc-4933-9f77-0a0c80551988",
+			"d1c69c0a-7f68-4c0e-8333-94c720c9e555"
+		]
+	},
+	{
+		"title": "Subdomein A2 Receptie",
+		"description": "Subdomein A2 Receptie",
+		"prefix": "A2",
+		"id": "f9ecca5a-e2ae-4a12-9841-563e6562de9a",
+		"fo_doelzin_id": [
+			"b2fa6b61-e75f-463e-8611-d20bcb3d8692",
+			"444c9b45-1596-4a37-9b09-ecd02e08b0c6"
+		],
+		"replaces": [
+			"9eb0a4b4-e0a2-4a25-a700-0c0c248060d2",
+			"30659695-8b2c-40c6-9d49-466b50b003dd"
+		]
+	},
+	{
+		"title": "Subdomein A3 Productie en interactie",
+		"description": "Subdomein A3 Productie en interactie",
+		"prefix": "A3",
+		"id": "d4d1ae6b-131e-44a5-988f-6e773ad2f72f",
+		"fo_doelzin_id": [
+			"feed0fa7-7383-449f-9261-12ca31988a22",
+			"c262b8f7-e9b2-4c96-bba3-52939e0bcb92",
+			"50c86d46-e9fc-4d01-a201-cf9a1e1500eb"
+		],
+		"replaces": [
+			"8ca7c5f7-14e1-4a9d-b260-e35b7d476c83",
+			"ef175477-9061-4c93-8786-fcf60a297174"
+		]
+	},
+	{
+		"title": "Subdomein B1 Taal als fenomeen",
+		"description": "Subdomein B1 Taal als fenomeen",
+		"prefix": "B1",
+		"id": "e9efcd6b-c34e-4ea5-8be6-840895226693",
+		"fo_doelzin_id": [
+			"967e4689-9ca8-41c9-ab11-eb819e28d162"
+		],
+		"replaces": [
+			"a9c133e3-5695-4ec8-9ee1-55554ce442fb",
+			"ec728205-03d6-4fc7-aa21-b4bf5be11931"
+		]
+	},
+	{
+		"title": "Subdomein B2 Taal en individu",
+		"description": "Subdomein B2 Taal en individu",
+		"prefix": "B2",
+		"id": "fb576daa-b0b5-4548-9083-9644b20157fa",
+		"fo_doelzin_id": [
+			"2626b06a-f17b-416a-8e9e-360827d1a859",
+			"c29dd141-ca1f-4c82-b88a-f560729422c3",
+			"f92a44d0-ee28-428c-8e9a-2d59a63b0505",
+			"34852dc9-85f3-4b68-a82c-0258e04ce4bc"
+		],
+		"replaces": [
+			"0f0838d1-dca8-41b1-b23d-212aabe053a1",
+			"2c33b874-aac5-4acd-bba8-635ca6dcacd8"
+		]
+	},
+	{
+		"title": "Subdomein C1 Cultuur in fictie",
+		"description": "Subdomein C1 Cultuur in fictie",
+		"prefix": "C1",
+		"id": "d6542c15-1603-485b-990c-ee527fdc3269",
+		"fo_doelzin_id": [
+			"6a40e25b-1dc1-4d6e-a0ad-153ebec2b87d",
+			"c3ecdc34-f840-42b0-807a-8a6d09a3520a"
+		],
+		"replaces": [
+			"8489e8c0-636f-43fc-a2fd-cb7a5d6c32d4",
+			"14c903ee-e145-4caa-b23d-6f58b0e19e81"
+		]
+	},
+	{
+		"title": "Subdomein A2 Receptie",
+		"description": "Subdomein A2 Receptie",
+		"prefix": "A2",
+		"id": "d5449e62-c2ff-434f-acc3-0f0bfaa50b53",
+		"fo_doelzin_id": [
+			"c4cc31d7-72a2-4498-af8c-042023531c4f",
+			"1ce71241-149c-45dc-9d5c-7b27c1f4e0e2"
+		],
+		"replaces": [
+			"44efef55-ca56-4d35-8a87-c902a3ea52ce",
+			"6321485a-1d45-4473-b6bc-8e1e4a04cd13"
+		]
+	},
+	{
+		"title": "Subdomein A3 Productie en interactie",
+		"description": "Subdomein A3 Productie en interactie",
+		"prefix": "A3",
+		"id": "bf36e812-3505-4e4f-a619-057fd23f1679",
+		"fo_doelzin_id": [
+			"ffbf6e4e-94c7-47a3-a9de-7f6726b69eed",
+			"c5e37fae-ae6f-4e04-827d-925b9482e94d",
+			"1a0b8af9-2d66-425b-9f95-9d8201673156"
+		],
+		"replaces": [
+			"5c835b97-0f9a-45cd-a8a7-039529e0ed23",
+			"af4196d5-13cb-4994-b523-08e79d02eb81"
+		]
+	},
+	{
+		"title": "Subdomein B1 Taal als fenomeen",
+		"description": "Subdomein B1 Taal als fenomeen",
+		"prefix": "B1",
+		"id": "04f32efa-450e-4163-bcb4-f09ef5f53c3e",
+		"fo_doelzin_id": [
+			"0a0a441e-bb10-4583-9095-ba1b85cae667"
+		],
+		"replaces": [
+			"84970e0e-4954-46ee-83e2-886c7d3b1b98",
+			"64b5be37-9b71-411c-b4e1-e807dd204f7c"
+		]
+	},
+	{
+		"title": "Subdomein B2 Taal en individu",
+		"description": "Subdomein B2 Taal en individu",
+		"prefix": "B2",
+		"id": "6ca36dc8-19f2-4d86-998f-8cd2be4db4b1",
+		"fo_doelzin_id": [
+			"22a1fe50-e031-42af-9619-3dc5b4be1af3",
+			"77a65f81-1771-4a45-9c30-dcf16f65cfe9",
+			"5399b024-5a62-40e3-8d99-e82ba82e7a24",
+			"e2822b27-90b2-4f4a-b5b7-5eb18a56e108"
+		],
+		"replaces": [
+			"322f7dcf-8a3f-4b64-b631-7c1090468abc",
+			"a19bac58-f610-44d3-959c-0bb7453cdfec"
+		]
+	},
+	{
+		"title": "Subdomein C1 Cultuur in fictie",
+		"description": "Subdomein C1 Cultuur in fictie",
+		"prefix": "C1",
+		"id": "a44c9589-c32e-4890-af4a-6da109953599",
+		"fo_doelzin_id": [
+			"dc8c2998-5f00-4d25-b333-4227771c0fd2",
+			"dca6712b-1483-49e0-b3fe-b74907c1b08b",
+			"a86e64c1-9bdb-4bfa-a204-41a06139c671"
+		],
+		"replaces": [
+			"bd4ab22a-6595-46e6-968c-3f2f223b8590",
+			"83749820-3d54-4174-84ce-2a74337da5ce"
+		]
+	},
+	{
+		"title": "Subdomein C2 Cultuur in de maatschappij",
+		"description": "Subdomein C2 Cultuur in de maatschappij",
+		"prefix": "C2",
+		"id": "41c364b1-e4e8-4a20-8c10-7094c8f5e2a4",
+		"fo_doelzin_id": [
+			"2b58e1b1-52e8-4c89-8702-da63df3b87c5",
+			"2cb94f3f-0054-442d-8eeb-6de5ef7ae21d"
+		],
+		"replaces": [
+			"1ba22e83-a5fd-480a-b15e-38354bb3e8c6",
+			"fe663f8c-49ef-4935-9cfb-8131ca1366fb"
+		]
+	},
+	{
+		"title": "Subdomein A3 Productie en interactie",
+		"description": "Subdomein A3 Productie en interactie",
+		"prefix": "A3",
+		"id": "c74046ab-d590-47f4-818b-ecc453190437",
+		"fo_doelzin_id": [
+			"86e8e341-16d8-4a52-92f4-b875a83f914f",
+			"d06f09e8-02b5-4297-8c52-672bde32a54a",
+			"9ee7009d-e3a6-4d93-aee5-745dc2f87d9b"
+		],
+		"replaces": [
+			"760d0185-bc22-4eb8-8c9c-01e78981de80",
+			"615f0498-42f0-4908-b7fb-393cc498e02a"
+		]
+	},
+	{
+		"title": "Subdomein B1 Taal als fenomeen",
+		"description": "Subdomein B1 Taal als fenomeen",
+		"prefix": "B1",
+		"id": "2bd0059d-3988-4400-9a77-fc04da1a60f7",
+		"fo_doelzin_id": [
+			"59c02564-c0a5-409f-9c55-1a67813c9d51"
+		],
+		"replaces": [
+			"ff9e9d05-8436-4aa4-a9f6-89c355fb6b9a",
+			"d8967cd0-0b36-4d12-81ba-3fa3c768d36e"
+		]
+	},
+	{
+		"title": "Subdomein B2 Taal en individu",
+		"description": "Subdomein B2 Taal en individu",
+		"prefix": "B2",
+		"id": "2d1848d8-27fa-4d2e-a0ee-bc61707d366d",
+		"fo_doelzin_id": [
+			"255c39c3-454c-4661-9a5f-aab28d1a0a79",
+			"fcaf396f-176f-4404-b8ea-7c3781db51e4",
+			"a5e68890-d323-48b2-99bc-0929b6c282b1",
+			"f38dc531-1eae-4e57-9c6c-d0d5accd8a4d"
+		],
+		"replaces": [
+			"3cc2deed-de60-414c-8c93-85b80efc6d88",
+			"2d5a7ed0-c243-43d8-a88e-982a6a00aaa4"
+		]
+	},
+	{
+		"title": "Subdomein C1 Cultuur in fictie",
+		"description": "Subdomein C1 Cultuur in fictie",
+		"prefix": "C1",
+		"id": "7aa3bc45-5cc7-41ba-b1ab-2ffa0d2592cd",
+		"fo_doelzin_id": [
+			"c9bd7164-e9c1-4e65-8a39-98da119841fb",
+			"a1b3af38-17f4-4e0d-854b-5ae65c14cddd",
+			"6a58e270-9101-41f4-9b03-d029bed26a4a"
+		],
+		"replaces": [
+			"71283ba4-8f4f-4f7b-87ba-e19cfbc3d2ab",
+			"788b4b79-322a-409d-913a-9fb109b4da87"
+		]
+	},
+	{
+		"title": "Subdomein A2 Receptie",
+		"description": "Subdomein A2 Receptie",
+		"prefix": "A2",
+		"id": "cb9b89cb-8f25-4340-9cac-20d1f4abbc5f",
+		"fo_doelzin_id": [
+			"e2529a56-4073-4e89-aec7-0a25ef81c62e",
+			"241eaf17-e463-4cb4-a748-c30180a84e4e"
+		],
+		"replaces": [
+			"6ab31e51-e1ba-49fd-b011-c34b779ef85e",
+			"0bef71cc-ec47-4518-ae5c-5d57f5a1516b"
+		]
+	},
+	{
+		"title": "Subdomein B1 Taal als fenomeen",
+		"description": "Subdomein B1 Taal als fenomeen",
+		"prefix": "B1",
+		"id": "11a93945-bb24-454c-9907-25549253bbfd",
+		"fo_doelzin_id": [
+			"7b51f279-f61d-4c86-9a88-afc6c87c75ef"
+		],
+		"replaces": [
+			"2f8ef8c9-2127-4323-9759-439eaefe83c1",
+			"4e874175-f351-437c-85f0-507e8c3d569e"
+		]
+	},
+	{
+		"title": "Subdomein B2 Taal en individu",
+		"description": "Subdomein B2 Taal en individu",
+		"prefix": "B2",
+		"id": "3c54e8c3-2ecd-43a7-bd73-0ca1ce025d5f",
+		"fo_doelzin_id": [
+			"3eef366a-c9e6-47e9-aac4-971921764f5f",
+			"ede7be07-fa95-4fc9-95fb-428c4b0e5a08",
+			"7474c072-3ade-4531-8f20-db8ac9cea189",
+			"2dd4d29b-3e6d-45b8-9d54-62ccbad14fed"
+		],
+		"replaces": [
+			"f11cfe25-2dcb-4ac7-9414-c9f8e147e807",
+			"63ebe060-4dac-4f1a-a0b6-65ad6f6cecdc"
+		]
+	},
+	{
+		"title": "Subdomein C1 Cultuur in fictie",
+		"description": "Subdomein C1 Cultuur in fictie",
+		"prefix": "C1",
+		"id": "1fabd653-0786-4a92-973d-390c83db8167",
+		"fo_doelzin_id": [
+			"d6314ce2-c61c-4f46-a30a-9ce4b75904b2",
+			"a51e219d-15b4-49bb-9ca5-a820ca82a585",
+			"4e5147bd-d165-488e-9c59-ecddd364ea66"
+		],
+		"replaces": [
+			"c6e04566-e20b-4f3c-921c-6812ac6cbcc7",
+			"a54735b8-bd2c-4b50-9347-800ef964a2e3"
+		]
+	},
+	{
+		"title": "Subdomein A1 Rijke ervaringen met taal",
+		"description": "Subdomein A1 Rijke ervaringen met taal",
+		"prefix": "A1",
+		"id": "e6ee66a3-1a04-4f4c-9482-625f0def6a2b",
+		"fo_doelzin_id": [
+			"562f0ace-ea87-4693-9d36-df5c71eb5abc",
+			"ddba6ae1-d30c-4356-bb4b-c54ad1c5c9aa"
+		],
+		"replaces": [
+			"ae909165-9589-4ddd-ac6c-3290aa658a05",
+			"e5449220-ef75-491e-a274-e306b5337d8d"
+		]
+	},
+	{
+		"title": "Subdomein B1 Taal als fenomeen",
+		"description": "Subdomein B1 Taal als fenomeen",
+		"prefix": "B1",
+		"id": "e78642c1-332b-4a3e-8b1f-f643ab1f2895",
+		"fo_doelzin_id": [
+			"73b4560a-7a89-46c9-86c6-fb6dd70a4639"
+		],
+		"replaces": [
+			"b701c429-b90b-41ad-bde9-51c211d65555",
+			"20c7440a-8da3-4106-958f-3fd26abe8ded"
+		]
+	},
+	{
+		"title": "Subdomein B2 Taal en individu",
+		"description": "Subdomein B2 Taal en individu",
+		"prefix": "B2",
+		"id": "d16a0afa-f7b6-40b5-af5f-27588bdb528e",
+		"fo_doelzin_id": [
+			"4ac3f168-091c-4671-9ad6-e0d924142c3a",
+			"e1949106-20c1-4794-a055-c9ea6b9c13e8",
+			"519439fd-19cc-45da-af06-5b5218717ae4",
+			"7a96633c-2b3f-45f0-9c00-6653d9913050"
+		],
+		"replaces": [
+			"e784925a-6c8c-4b4f-b41a-7627323ebb28",
+			"bfa1f389-a5bb-4407-b998-a594810b8012"
+		]
+	},
+	{
+		"title": "Subdomein C1 Cultuur in fictie",
+		"description": "Subdomein C1 Cultuur in fictie",
+		"prefix": "C1",
+		"id": "83a5e31d-c7e2-4764-a997-a2bf7853d562",
+		"fo_doelzin_id": [
+			"d07e2a35-e8e7-4fc2-8077-307874dc446e",
+			"a8a4c075-087f-4d59-a3f1-87ad768e9a19",
+			"2c4b1805-9094-42e6-8fd5-6ef66a00154a"
+		],
+		"replaces": [
+			"93c906a5-a9cf-4ab9-a3ff-330a9cc0d627",
+			"302b6dbd-c029-4b93-8c43-7f14a5c589e2"
+		]
+	},
+	{
+		"title": "Subdomein A2 Receptie",
+		"description": "Subdomein A2 Receptie",
+		"prefix": "A2",
+		"id": "0f1e5ef5-4d23-4f06-a6d0-6b1b1e771f3f",
+		"fo_doelzin_id": [
+			"ac251c01-327b-4f59-913f-c912a3620f17",
+			"ed6b7fe0-e3f4-43a5-878d-209c65578b92"
+		],
+		"replaces": [
+			"42f168f8-3b93-43e2-b283-6e24b3864af9",
+			"d90e4387-6e2c-4f01-8739-ac083352a924"
+		]
+	},
+	{
+		"title": "Subdomein B1 Taal als fenomeen",
+		"description": "Subdomein B1 Taal als fenomeen",
+		"prefix": "B1",
+		"id": "2421be13-2b03-4b55-ad6f-13a16e1d627a",
+		"fo_doelzin_id": [
+			"8996c8f8-7c1d-44d8-8ec8-ae49dc7f27f2"
+		],
+		"replaces": [
+			"1d6d47ba-d379-4dab-855a-295aacfdd3d9",
+			"70089d2a-b940-45a2-b248-4101ffa95801"
+		]
+	},
+	{
+		"title": "Subdomein C1 Cultuur in fictie",
+		"description": "Subdomein C1 Cultuur in fictie",
+		"prefix": "C1",
+		"id": "5917c91f-6f0d-4706-9316-f293d604b30c",
+		"fo_doelzin_id": [
+			"aa3ad1ea-ade0-4d7c-9983-95427fb44c29"
+		],
+		"replaces": [
+			"220723e3-40b2-42eb-91d5-90113c4bf891",
+			"6b48ef89-2c16-445e-a649-49336e6454f4"
+		]
+	},
+	{
+		"title": "Subdomein C2 Cultuur in de maatschappij",
+		"description": "Subdomein C2 Cultuur in de maatschappij",
+		"prefix": "C2",
+		"id": "838e9cf4-cd36-4f69-80ed-215547bdd81b",
+		"fo_doelzin_id": [
+			"c216a319-767b-4e52-8c7f-e9d1f75e1f6a",
+			"9404bd3b-4ee9-41f5-8f90-566a7ab574f6"
+		],
+		"replaces": [
+			"5ff7ce0b-1bf6-4629-a7ad-b9d54b36f37e",
+			"18deed48-df5a-4253-aa4c-422398d98721"
+		]
+	},
+	{
+		"title": "Subdomein A2 Receptie",
+		"description": "Subdomein A2 Receptie",
+		"prefix": "A2",
+		"id": "a2fb2310-3c4b-4b58-a5cc-41543b592dc5",
+		"fo_doelzin_id": [
+			"17861a61-d38c-477b-8aff-02b8daa7d6fe",
+			"f2cb108e-b813-485e-898a-dffbac77f5d8"
+		],
+		"replaces": [
+			"4be9e41e-34f4-4f3b-b578-a6b1ac4299c6",
+			"e4b58b12-2709-41fd-a118-25aaab5a5ac2"
+		]
+	},
+	{
+		"title": "Subdomein B1 Taal als fenomeen",
+		"description": "Subdomein B1 Taal als fenomeen",
+		"prefix": "B1",
+		"id": "18598351-43f4-472e-9bcc-bdd41efc336e",
+		"fo_doelzin_id": [
+			"54f87aa9-357a-43c3-b7b8-5ad832fed525"
+		],
+		"replaces": [
+			"355e4750-3cfd-4833-86bd-227dfb639801",
+			"0836d1cf-15c3-4519-aecb-26738d27f98d"
+		]
+	},
+	{
+		"title": "Subdomein C1 Cultuur in fictie",
+		"description": "Subdomein C1 Cultuur in fictie",
+		"prefix": "C1",
+		"id": "14413fc9-dbb3-483f-be33-56e72edb8a3f",
+		"fo_doelzin_id": [
+			"b21b87d4-1f16-4f2f-b0db-e68658bc586e",
+			"a3c2170b-417f-4e26-b475-ca87fc786e16"
+		],
+		"replaces": [
+			"40ffc07c-5db5-4394-9f39-2eff97d9eee2",
+			"cf4853f4-b61c-423c-a492-8368a8457fdf"
+		]
+	},
+	{
+		"title": "Subdomein C2 Cultuur in de maatschappij",
+		"description": "Subdomein C2 Cultuur in de maatschappij",
+		"prefix": "C2",
+		"id": "127b75a1-d0b3-4717-b428-9d7e6663a4dd",
+		"fo_doelzin_id": [
+			"9615cd8c-bf9a-42b9-8bb8-6a8d7d13ca16",
+			"a82fa0e7-51c5-402c-aaad-38d81de828cb"
+		],
+		"replaces": [
+			"f87482b6-6b8a-4cf9-ba96-1bc41acb4f42",
+			"6ec29320-a887-40ce-a65d-9ff0f713dd99"
+		]
+	},
+	{
+		"title": "Subdomein A2 Receptie",
+		"description": "Subdomein A2 Receptie",
+		"prefix": "A2",
+		"id": "eba3ed87-3f5a-423e-a437-e780a7f470cc",
+		"fo_doelzin_id": [
+			"dc433dbd-085b-4193-bca8-0c0fe8a5ddb8",
+			"6b63fb81-238e-4a82-80a6-3905028842cc"
+		],
+		"replaces": [
+			"bbb0b6ff-9b86-4117-bd93-a173ff1d4fd2",
+			"25a3e355-12db-45df-8456-d481a275621c"
+		]
+	},
+	{
+		"title": "Subdomein B1 Taal als fenomeen",
+		"description": "Subdomein B1 Taal als fenomeen",
+		"prefix": "B1",
+		"id": "7f1cb5dd-5ed7-4ed5-9b7e-213c32fd05ac",
+		"fo_doelzin_id": [
+			"6a78c988-b3db-469c-88fb-07f4b79df7c5"
+		],
+		"replaces": [
+			"78e9a8cc-951f-4c14-946c-22767e9b015c",
+			"6dcb1131-033c-4aab-97b1-634ab532fe98"
+		]
+	},
+	{
+		"title": "Subdomein C1 Cultuur in fictie",
+		"description": "Subdomein C1 Cultuur in fictie",
+		"prefix": "C1",
+		"id": "70694187-f265-466d-8527-972d8f07fff0",
+		"fo_doelzin_id": [
+			"5de125e2-b3c7-4f38-a6dc-dbce07873cd3",
+			"5516aa28-0954-4ded-84be-027b2ae28e96"
+		],
+		"replaces": [
+			"e8bca52b-a7d8-427f-bd58-15493b6bea01",
+			"8b723c86-b0d6-4daf-970f-9c4c3635cb34"
+		]
+	},
+	{
+		"title": "Subdomein C2 Cultuur in de maatschappij",
+		"description": "Subdomein C2 Cultuur in de maatschappij",
+		"prefix": "C2",
+		"id": "debfde65-558c-4a14-ab59-f9810424dbf0",
+		"fo_doelzin_id": [
+			"7cb56912-47e2-4ff5-aa8c-7f32f265c761",
+			"9ecb1489-f6b2-4c70-aae6-614a7b75430d"
+		],
+		"replaces": [
+			"a0a9ee0e-7e43-4194-9cd8-5a56db0229c2",
+			"56bc74bd-df54-4c59-87d7-f5379044e51b"
+		]
+	},
+	{
+		"title": "Subdomein A2 Receptie",
+		"description": "Subdomein A2 Receptie",
+		"prefix": "A2",
+		"id": "cbacac3e-4c87-4fb9-8eec-5c75405d4095",
+		"fo_doelzin_id": [
+			"263483fb-547e-4739-b5b7-d6bc85804f09",
+			"33844e0b-ffbf-45d1-91b8-b8ce646be215"
+		],
+		"replaces": [
+			"cc697682-57a1-4e03-8c03-1ddd1ecf9506",
+			"7d9b11b8-7951-403a-af2d-747aa4fd5fab"
+		]
+	},
+	{
+		"title": "Subdomein B1 Taal als fenomeen",
+		"description": "Subdomein B1 Taal als fenomeen",
+		"prefix": "B1",
+		"id": "612768be-d6ff-4bfa-a5e9-865bbc4d8858",
+		"fo_doelzin_id": [
+			"28d1f9e5-0c79-4c8a-9e43-eec3bbc8768a"
+		],
+		"replaces": [
+			"e1405c04-2530-48c6-9d83-4fcb3dc20b49",
+			"34871274-9cd1-4aab-b477-9378c9886705"
+		]
+	},
+	{
+		"title": "Subdomein C1 Cultuur in fictie",
+		"description": "Subdomein C1 Cultuur in fictie",
+		"prefix": "C1",
+		"id": "1859e9b9-a856-4a03-92ad-24fdeafebea1",
+		"fo_doelzin_id": [
+			"7b5cdb0a-1bba-44ce-a391-33dfb3779303",
+			"57fbd287-b315-49f1-9fb0-e3ed62f17361",
+			"b27359b2-b9fe-4f5c-a400-8ee07ca72b4c"
+		],
+		"replaces": [
+			"7683af2c-7eae-436c-a966-55308a5f5231",
+			"033887f4-52f7-4c67-bfff-a8f38b87fff1"
+		]
+	},
+	{
+		"title": "Subdomein C2 Cultuur in de maatschappij",
+		"description": "Subdomein C2 Cultuur in de maatschappij",
+		"prefix": "C2",
+		"id": "6ba2b713-c68c-453e-8814-6e99ef034947",
+		"fo_doelzin_id": [
+			"2b4ae518-715d-44e9-bbad-f6e7da148e31",
+			"2f6efa30-5b5f-4148-a0ab-135ddf457c6a"
+		],
+		"replaces": [
+			"b7ba1ce9-fb67-408d-94a4-4f2602899e25",
+			"ca7fb946-0f94-49da-9743-c8ef0240a553"
+		]
+	},
+	{
+		"title": "Subdomein A1 Rijke ervaringen met taal",
+		"description": "Subdomein A1 Rijke ervaringen met taal",
+		"prefix": "A1",
+		"id": "64e90652-be9a-4aa7-99a0-259cc5956dcb",
+		"fo_doelzin_id": [
+			"09cdfa0c-c525-46c6-8e70-ba2eafb58bbe",
+			"e7af8ad5-77f1-499c-939a-e3572e0fa692"
+		],
+		"replaces": [
+			"9a17e965-f846-465c-9d3a-c7358bf0c59b",
+			"458e6a6d-5b35-4776-a05a-08c69734686a"
+		]
+	},
+	{
+		"title": "Subdomein B1 Taal als fenomeen",
+		"description": "Subdomein B1 Taal als fenomeen",
+		"prefix": "B1",
+		"id": "054e5d73-0d72-4a74-a55d-70f4b6ac34c9",
+		"fo_doelzin_id": [
+			"ce4271bb-8398-41e7-bc9d-e5b5ce16033e"
+		],
+		"replaces": [
+			"65190c94-98dc-4a62-84a1-4d713c435d8e",
+			"545de428-18de-409f-ae7b-9d415144182d"
+		]
+	},
+	{
+		"title": "Subdomein C1 Cultuur in fictie",
+		"description": "Subdomein C1 Cultuur in fictie",
+		"prefix": "C1",
+		"id": "a9de4b9c-a678-466b-a245-a5e82b03a670",
+		"fo_doelzin_id": [
+			"12252e95-6931-4da3-9543-c9853f5a77fb",
+			"4871db25-49fa-467e-81ea-e43db754c420",
+			"b17acea9-2a73-4a80-83a1-f14583d98486"
+		],
+		"replaces": [
+			"869014e0-c302-4ee8-979f-a96c4e6fb169",
+			"6b3e199d-0f58-4a4d-ae26-eec5b95ec538"
+		]
+	},
+	{
+		"title": "Subdomein C2 Cultuur in de maatschappij",
+		"description": "Subdomein C2 Cultuur in de maatschappij",
+		"prefix": "C2",
+		"id": "fe50981d-fdf0-4b7d-8b30-907a92191a92",
+		"fo_doelzin_id": [
+			"c016aee8-f484-4c64-800d-482a7c88d036",
+			"98dba18f-e251-4047-9e8a-f26571898240"
+		],
+		"replaces": [
+			"5e238e5e-9ce4-4a31-931e-8688868e8358",
+			"269fb69e-6991-494c-851f-f5e51e07d887"
 		]
 	}
 ]
