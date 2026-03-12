@@ -1566,7 +1566,7 @@
 		"description": "De leerling verwerkt doelgericht informatie uit mondelinge, schriftelijke en digitale bronnen. (B)",
 		"prefix": "3",
 		"soort": "eindterm",
-		"ce": 1,
+		"ce": 0,
 		"id": "da3a7282-ad04-4580-a30d-5ec73b9bc5a0",
 		"fo_uitwerking_id": [
 			"2e471a60-089e-4e52-a57c-5327160a7a9d",
@@ -1585,7 +1585,8 @@
 		],
 		"replaces": [
 			"ee0e5470-d832-4c41-b19b-e6371cc1f624"
-		]
+		],
+		"se": 1
 	},
 	{
 		"title": "Eindterm 4",
@@ -1619,7 +1620,7 @@
 		"description": "De leerling spreekt afgestemd op doel, publiek en context. (B)",
 		"prefix": "5",
 		"soort": "eindterm",
-		"ce": 1,
+		"ce": 0,
 		"se": 1,
 		"id": "936f5ce7-eefe-42e8-8ab5-ffc065b880a6",
 		"fo_uitwerking_id": [
@@ -1646,7 +1647,7 @@
 		"description": "De leerling gebruikt taal op een creatieve manier. (E)",
 		"prefix": "6",
 		"soort": "eindterm",
-		"ce": 1,
+		"ce": 0,
 		"se": 1,
 		"id": "1af8992f-9117-4c1d-9b63-1231f99d0c15",
 		"fo_uitwerking_id": [
@@ -1990,7 +1991,7 @@
 		"description": "De leerling verwerkt doelgericht informatie uit mondelinge, schriftelijke en digitale bronnen. (B)",
 		"prefix": "3",
 		"soort": "eindterm",
-		"ce": 1,
+		"ce": 0,
 		"id": "d75414a7-a42c-485a-ad2a-2739ea4a37e1",
 		"fo_uitwerking_id": [
 			"386c303f-a5c7-4621-ba2b-2f92ab52e53f",
@@ -2009,7 +2010,8 @@
 		],
 		"replaces": [
 			"ba84c059-38c9-49bf-ba3a-7ec71d00b9b1"
-		]
+		],
+		"se": 1
 	},
 	{
 		"title": "Eindterm 4",
@@ -2043,7 +2045,7 @@
 		"description": "De leerling spreekt afgestemd op doel, publiek en context. (B)",
 		"prefix": "5",
 		"soort": "eindterm",
-		"ce": 1,
+		"ce": 0,
 		"se": 1,
 		"id": "5076219f-5480-4219-974a-9a59c23a9109",
 		"fo_uitwerking_id": [
@@ -2070,7 +2072,7 @@
 		"description": "De leerling gebruikt taal op een creatieve manier. (E)",
 		"prefix": "6",
 		"soort": "eindterm",
-		"ce": 1,
+		"ce": 0,
 		"se": 1,
 		"id": "e01f7b73-254b-46ff-8d72-07e4bd333889",
 		"fo_uitwerking_id": [
@@ -2415,7 +2417,7 @@
 		"description": "De leerling verwerkt doelgericht informatie uit mondelinge, schriftelijke en digitale bronnen. (B)",
 		"prefix": "3",
 		"soort": "eindterm",
-		"ce": 1,
+		"ce": 0,
 		"id": "eeb16e3d-1b83-4b44-b606-9498f02e8133",
 		"fo_uitwerking_id": [
 			"54880f3e-55b6-4660-94bc-13997d742dc7",
@@ -2434,7 +2436,8 @@
 		],
 		"replaces": [
 			"0ad94dfe-bb18-4caa-b7cd-e96abd57dd4a"
-		]
+		],
+		"se": 1
 	},
 	{
 		"title": "Eindterm 4",
@@ -2468,7 +2471,7 @@
 		"description": "De leerling spreekt afgestemd op doel, publiek en context. (B)",
 		"prefix": "5",
 		"soort": "eindterm",
-		"ce": 1,
+		"ce": 0,
 		"se": 1,
 		"id": "6eae7c5d-67e3-4823-8918-95da1c986f02",
 		"fo_uitwerking_id": [
@@ -2495,7 +2498,7 @@
 		"description": "De leerling gebruikt taal op een creatieve manier. (E)",
 		"prefix": "6",
 		"soort": "eindterm",
-		"ce": 1,
+		"ce": 0,
 		"se": 1,
 		"id": "433b6f6a-88b4-401c-b15a-f11637697f7f",
 		"fo_uitwerking_id": [
@@ -2838,7 +2841,7 @@
 		"description": "De leerling verwerkt doelgericht informatie uit mondelinge, schriftelijke en digitale bronnen. (B)",
 		"prefix": "3",
 		"soort": "eindterm",
-		"ce": 1,
+		"ce": 0,
 		"id": "bfa22f41-e638-4b25-a698-2b6f5cf9859a",
 		"fo_uitwerking_id": [
 			"16e960d5-91ef-4b06-b301-380957bc1ec4",
@@ -2857,7 +2860,8 @@
 		],
 		"replaces": [
 			"adb1327b-e0b4-4602-b188-06ab2e6089f9"
-		]
+		],
+		"se": 1
 	},
 	{
 		"title": "Eindterm 4",
@@ -3319,7 +3323,7 @@
 		"description": "De leerling verwerkt doelgericht informatie uit mondelinge, schriftelijke en digitale bronnen. (B)",
 		"prefix": "3",
 		"soort": "eindterm",
-		"ce": 1,
+		"ce": 0,
 		"id": "33372d3f-e40d-463c-92fd-90b6790eb4fe",
 		"fo_uitwerking_id": [
 			"c651853f-1441-437f-a153-30bb78e4060f",
@@ -3338,7 +3342,8 @@
 		],
 		"replaces": [
 			"cce848c6-9062-4f38-8b8b-109cb533ebad"
-		]
+		],
+		"se": 1
 	},
 	{
 		"title": "Eindterm 4",
@@ -7186,7 +7191,7 @@
 	},
 	{
 		"title": "Eindterm 1",
-		"description": "De leerling doet ervaring op met een rijk aanbod aan talige bronnen in Modern Standaard Arabisch op een passend taalniveau. (E)",
+		"description": "De leerling doet ervaring op met een rijk aanbod aan talige bronnen in het Modern Standaard Arabisch op een passend taalniveau. (E)",
 		"prefix": "1",
 		"soort": "eindterm",
 		"se": 1,
@@ -7205,7 +7210,8 @@
 		],
 		"replaces": [
 			"88a02629-f408-4868-b4a9-297c7f70e0d9"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 2",
@@ -7499,7 +7505,7 @@
 	},
 	{
 		"title": "Eindterm 14",
-		"description": "De leerling reflecteert op ervaringen met cultuurgebonden aspecten in contexten waarin Modern Standaard Arabisch een voertaal is, en beoordeelt hun invloed op communicatie. (H)",
+		"description": "De leerling reflecteert op ervaringen met cultuurgebonden aspecten in contexten waarin Modern Standaard Arabisch een voertaal is en beoordeelt hun invloed op communicatie. (H)",
 		"prefix": "14",
 		"soort": "eindterm",
 		"ce": 1,
@@ -7519,11 +7525,12 @@
 		],
 		"replaces": [
 			"97759be2-b4f9-42b0-99c3-a3314431bfb4"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 1",
-		"description": "De leerling doet ervaring op met een rijk aanbod aan talige bronnen in Modern Standaard Arabisch op een passend taalniveau. (E)",
+		"description": "De leerling doet ervaring op met een rijk aanbod aan talige bronnen in het Modern Standaard Arabisch op een passend taalniveau. (E)",
 		"prefix": "1",
 		"soort": "eindterm",
 		"se": 1,
@@ -7541,7 +7548,8 @@
 		],
 		"replaces": [
 			"d16419bd-3aaf-4520-82ef-3598ed89e920"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 2",
@@ -7835,7 +7843,7 @@
 	},
 	{
 		"title": "Eindterm 14",
-		"description": "De leerling  toont inzicht in inhoud en context van fictie en verkent de relatie met de eigen context. (H)",
+		"description": "De leerling toont inzicht in inhoud en context van fictie en verkent de relatie met de eigen context. (H)",
 		"prefix": "14",
 		"soort": "eindterm",
 		"ce": 1,
@@ -7884,7 +7892,7 @@
 	},
 	{
 		"title": "Eindterm 16",
-		"description": "De leerling reflecteert op ervaringen met cultuurgebonden aspecten in contexten waarin Modern Standaard Arabisch een voertaal is, en beoordeelt hun invloed op communicatie. (H)",
+		"description": "De leerling reflecteert op ervaringen met cultuurgebonden aspecten in contexten waarin Modern Standaard Arabisch een voertaal is en beoordeelt hun invloed op communicatie. (H)",
 		"prefix": "16",
 		"soort": "eindterm",
 		"ce": 1,
@@ -7904,11 +7912,12 @@
 		],
 		"replaces": [
 			"d3d74426-4aa0-4ece-8d58-75dad5cd5555"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 1",
-		"description": "De leerling doet ervaring op met een rijk aanbod aan talige bronnen in Modern Standaard Arabisch op een passend taalniveau. (E)",
+		"description": "De leerling doet ervaring op met een rijk aanbod aan talige bronnen in het Modern Standaard Arabisch op een passend taalniveau. (E)",
 		"prefix": "1",
 		"soort": "eindterm",
 		"se": 1,
@@ -7926,7 +7935,8 @@
 		],
 		"replaces": [
 			"bab78fd1-a0e6-49c7-8c65-bb49fea13420"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 2",
@@ -8227,7 +8237,7 @@
 	},
 	{
 		"title": "Eindterm 14",
-		"description": "De leerling  toont inzicht in inhoud en context van fictie en verkent de relatie met de eigen context. (H)",
+		"description": "De leerling toont inzicht in inhoud en context van fictie en verkent de relatie met de eigen context. (H)",
 		"prefix": "14",
 		"soort": "eindterm",
 		"ce": 1,
@@ -8277,7 +8287,7 @@
 	},
 	{
 		"title": "Eindterm 16",
-		"description": "De leerling reflecteert op ervaringen met cultuurgebonden aspecten in contexten waarin Modern Standaard Arabisch een voertaal is, en beoordeelt hun invloed op communicatie. (H)",
+		"description": "De leerling reflecteert op ervaringen met cultuurgebonden aspecten in contexten waarin Modern Standaard Arabisch een voertaal is en beoordeelt hun invloed op communicatie. (H)",
 		"prefix": "16",
 		"soort": "eindterm",
 		"ce": 1,
@@ -8297,11 +8307,12 @@
 		],
 		"replaces": [
 			"dba65b54-de39-4af2-b768-972a38fc938a"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 1",
-		"description": "De leerling doet ervaring op met een rijk aanbod aan talige bronnen in Modern Standaard Arabisch op een passend taalniveau. (E)",
+		"description": "De leerling doet ervaring op met een rijk aanbod aan talige bronnen in het Modern Standaard Arabisch op een passend taalniveau. (E)",
 		"prefix": "1",
 		"soort": "eindterm",
 		"se": 1,
@@ -8320,7 +8331,8 @@
 		],
 		"replaces": [
 			"3278e9c6-7b40-4d44-bced-5be1d748e2c0"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 2",
@@ -8622,7 +8634,7 @@
 	},
 	{
 		"title": "Eindterm 14",
-		"description": "De leerling  toont inzicht in inhoud en context van fictie en verkent de relatie met de eigen context. (H)",
+		"description": "De leerling toont inzicht in inhoud en context van fictie en verkent de relatie met de eigen context. (H)",
 		"prefix": "14",
 		"soort": "eindterm",
 		"ce": 1,
@@ -8724,7 +8736,7 @@
 	},
 	{
 		"title": "Eindterm 1",
-		"description": "De leerling doet ervaring op met een rijk aanbod aan talige bronnen in Modern Standaard Arabisch op een passend taalniveau. (E)",
+		"description": "De leerling doet ervaring op met een rijk aanbod aan talige bronnen in het Modern Standaard Arabisch op een passend taalniveau. (E)",
 		"prefix": "1",
 		"soort": "eindterm",
 		"se": 1,
@@ -8742,7 +8754,8 @@
 		],
 		"replaces": [
 			"d01ddd89-36fd-4d16-bc8f-a0c3a56c44c4"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 2",
@@ -8823,7 +8836,7 @@
 	},
 	{
 		"title": "Eindterm 5",
-		"description": "De leerling verwerft doelgericht informatie uit mondelinge, schriftelijke en digitale bronnen in het Modern Standaard Arabisch. (B)",
+		"description": "De leerling verwerft doelgericht informatie uit diverse bronnen in het Modern Standaard Arabisch. (B)",
 		"prefix": "5",
 		"soort": "eindterm",
 		"ce": 1,
@@ -8832,8 +8845,7 @@
 			"0b653b88-8750-4719-8d13-740533ae998a",
 			"75ac10ef-41cd-464b-896c-b1dfddb404aa",
 			"9a94bf20-1cff-4c34-8bd2-f8aa07e58a85",
-			"260fee72-765b-49f2-86c7-4fec43238cc4",
-			"c899c339-69ff-4993-8f10-22f80f51089d"
+			"260fee72-765b-49f2-86c7-4fec43238cc4"
 		],
 		"status": "concept",
 		"fo_illustratie_id": [
@@ -8845,7 +8857,8 @@
 		],
 		"replaces": [
 			"73c29a7c-19d5-42d8-afa5-2262bf9890fa"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 6",
@@ -9074,7 +9087,7 @@
 	},
 	{
 		"title": "Eindterm 15",
-		"description": "De leerling  toont inzicht in inhoud en context van fictie en verkent de relatie met de eigen context. (H)",
+		"description": "De leerling toont inzicht in inhoud en context van fictie en verkent de relatie met de eigen context. (H)",
 		"prefix": "15",
 		"soort": "eindterm",
 		"ce": 1,
@@ -9154,7 +9167,7 @@
 	},
 	{
 		"title": "Eindterm 18",
-		"description": "De leerling reflecteert op ervaringen met cultuurgebonden aspecten in contexten waarin Modern Standaard Arabisch een voertaal is, en beoordeelt hun invloed op communicatie. (H)",
+		"description": "De leerling reflecteert op ervaringen met cultuurgebonden aspecten in contexten waarin Modern Standaard Arabisch een voertaal is en beoordeelt hun invloed op communicatie. (H)",
 		"prefix": "18",
 		"soort": "eindterm",
 		"ce": 1,
@@ -9175,7 +9188,8 @@
 		],
 		"replaces": [
 			"8ccf3e84-5bd3-4469-b635-2b661045fc9a"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 1",
@@ -17545,7 +17559,7 @@
 	},
 	{
 		"title": "Eindterm 2",
-		"description": "De leerling gebruikt het Russisch op een creatieve en persoonlijke manier. (E)",
+		"description": "De leerling gebruikt de Russische taal op een creatieve en persoonlijke manier. (E)",
 		"prefix": "2",
 		"soort": "eindterm",
 		"se": 1,
@@ -17566,7 +17580,8 @@
 		],
 		"replaces": [
 			"da86fcce-bab0-476f-bbe6-470186641789"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 3",
@@ -17620,7 +17635,7 @@
 	},
 	{
 		"title": "Eindterm 5",
-		"description": "De leerling spreekt in de Russische taal, afgestemd op doel, publiek en context. (B)",
+		"description": "De leerling spreekt in het Russisch, afgestemd op doel, publiek en context. (B)",
 		"prefix": "5",
 		"soort": "eindterm",
 		"se": 1,
@@ -17641,7 +17656,8 @@
 		],
 		"replaces": [
 			"44e7b22e-3ab8-4c61-b078-a964958784c8"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 6",
@@ -17843,7 +17859,7 @@
 	},
 	{
 		"title": "Eindterm 14",
-		"description": "De leerling  toont inzicht in inhoud en context van fictie en verkent de relatie met de eigen context. (H)",
+		"description": "De leerling toont inzicht in inhoud en context van fictie en verkent de relatie met de eigen context. (H)",
 		"prefix": "14",
 		"soort": "eindterm",
 		"ce": 1,
@@ -17894,7 +17910,7 @@
 	},
 	{
 		"title": "Eindterm 16",
-		"description": "De leerling toont inzicht in cultuurgebonden aspecten in bronnen in relatie tot gebieden waar Russisch een voertaal is. (B)",
+		"description": "De leerling toont inzicht in cultuurgebonden aspecten in bronnen in relatie tot gebieden waar Russisch voorkomt. (B)",
 		"prefix": "16",
 		"soort": "eindterm",
 		"ce": 1,
@@ -17916,11 +17932,12 @@
 		],
 		"replaces": [
 			"2039e924-4d5a-474e-87d9-80f286b71826"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 17",
-		"description": "De leerling reflecteert op ervaringen met cultuurgebonden aspecten in contexten waarin Russisch een voertaal is en beoordeelt hun invloed op communicatie. (H)",
+		"description": "De leerling reflecteert op ervaringen met cultuurgebonden aspecten in contexten waar Russisch voorkomt en beoordeelt hun invloed op communicatie. (H)",
 		"prefix": "17",
 		"soort": "eindterm",
 		"ce": 1,
@@ -17991,7 +18008,7 @@
 	},
 	{
 		"title": "Eindterm 3",
-		"description": "De leerling toont begrip van de inhoud van auditieve en audiovisuele bronnen in het Russisch. (B)",
+		"description": "De leerling toont begrip van de inhoud van auditieve en audiovisuele bronnen in de Russische taal. (B)",
 		"prefix": "3",
 		"soort": "eindterm",
 		"ce": 1,
@@ -18013,11 +18030,12 @@
 		],
 		"replaces": [
 			"dd08f6a9-0e7b-41d9-9c61-d5112574f46d"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 4",
-		"description": "De leerling toont begrip van de inhoud van schriftelijke bronnen in het Russisch. (B)",
+		"description": "De leerling toont begrip van de inhoud van schriftelijke bronnen in de Russische taal. (B)",
 		"prefix": "4",
 		"soort": "eindterm",
 		"ce": 1,
@@ -18039,11 +18057,12 @@
 		],
 		"replaces": [
 			"10afc7b4-b7b0-4582-9b90-1cba8608f858"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 5",
-		"description": "De leerling verwerft doelgericht informatie uit mondelinge, schriftelijke en digitale bronnen in de Russische taal. (B)",
+		"description": "De leerling verwerft doelgericht informatie uit diverse bronnen in de Russische taal. (B)",
 		"prefix": "5",
 		"soort": "eindterm",
 		"ce": 1,
@@ -18052,8 +18071,7 @@
 			"72738c7a-d03f-45a9-9b7b-f66424022677",
 			"414e476e-f071-4449-b301-f0b12e3dc733",
 			"41b1a98a-5b8d-4367-aba8-e2f8150f62a4",
-			"5c08f2be-1294-495b-8fea-07ad1705ddc9",
-			"9e52113a-5215-42e2-8773-a732fc0664a0"
+			"5c08f2be-1294-495b-8fea-07ad1705ddc9"
 		],
 		"status": "concept",
 		"fo_illustratie_id": [
@@ -18065,11 +18083,12 @@
 		],
 		"replaces": [
 			"83e8a075-ab54-46cf-8749-9d92936a3cac"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 6",
-		"description": "De leerling spreekt in de Russische taal, afgestemd op doel, publiek en context. (B)",
+		"description": "De leerling spreekt in het Russisch, afgestemd op doel, publiek en context. (B)",
 		"prefix": "6",
 		"soort": "eindterm",
 		"se": 1,
@@ -18090,7 +18109,8 @@
 		],
 		"replaces": [
 			"ae8e1f3d-28d9-4ad2-8ddf-cdc233b7295a"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 7",
@@ -18293,7 +18313,7 @@
 	},
 	{
 		"title": "Eindterm 15",
-		"description": "De leerling  toont inzicht in inhoud en context van fictie en verkent de relatie met de eigen context. (H)",
+		"description": "De leerling toont inzicht in inhoud en context van fictie en verkent de relatie met de eigen context. (H)",
 		"prefix": "15",
 		"soort": "eindterm",
 		"ce": 1,
@@ -18347,7 +18367,7 @@
 	},
 	{
 		"title": "Eindterm 17",
-		"description": "De leerling toont inzicht in cultuurgebonden aspecten in bronnen in relatie tot gebieden waar Russisch een voertaal is. (B)",
+		"description": "De leerling toont inzicht in cultuurgebonden aspecten in bronnen in relatie tot gebieden waar Russisch voorkomt. (B)",
 		"prefix": "17",
 		"soort": "eindterm",
 		"ce": 1,
@@ -18368,11 +18388,12 @@
 		],
 		"replaces": [
 			"33d10ed7-fc00-4dea-badf-089db49ea50f"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 18",
-		"description": "De leerling reflecteert op ervaringen met cultuurgebonden aspecten in contexten waarin Russisch een voertaal is en beoordeelt hun invloed op communicatie. (H)",
+		"description": "De leerling reflecteert op ervaringen met cultuurgebonden aspecten in contexten waar Russisch voorkomt en beoordeelt hun invloed op communicatie. (H)",
 		"prefix": "18",
 		"soort": "eindterm",
 		"ce": 1,
@@ -20504,7 +20525,7 @@
 	},
 	{
 		"title": "Eindterm 1",
-		"description": "De leerling doet ervaring op met een rijk aanbod aan talige bronnen in Turks op een passend taalniveau. (E)",
+		"description": "De leerling doet ervaring op met een rijk aanbod aan talige bronnen in het Turks op een passend taalniveau. (E)",
 		"prefix": "1",
 		"soort": "eindterm",
 		"se": 1,
@@ -20523,7 +20544,8 @@
 		],
 		"replaces": [
 			"4a11bd91-4f63-4586-89ff-5e5fb9c72e8e"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 2",
@@ -20601,7 +20623,7 @@
 	},
 	{
 		"title": "Eindterm 5",
-		"description": "De leerling spreekt in de Turkse taal, afgestemd op doel, publiek en context. (B)",
+		"description": "De leerling spreekt in het Turks, afgestemd op doel, publiek en context. (B)",
 		"prefix": "5",
 		"soort": "eindterm",
 		"se": 1,
@@ -20620,7 +20642,8 @@
 		],
 		"replaces": [
 			"91b16522-8448-4f70-816b-fa9e2fd02bb2"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 6",
@@ -20720,7 +20743,7 @@
 	},
 	{
 		"title": "Eindterm 10",
-		"description": "De leerling verkent de mogelijkheden en beperkingen van digitale hulpmiddelen in communicatie in de Turkse taal. (E)",
+		"description": "De leerling verkent de mogelijkheden en beperkingen van digitale hulpmiddelen in communicatie in het Turks. (E)",
 		"prefix": "10",
 		"soort": "eindterm",
 		"se": 1,
@@ -20740,7 +20763,8 @@
 		],
 		"replaces": [
 			"bae04f89-7433-4349-8190-01ce9946ba87"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 11",
@@ -20841,7 +20865,7 @@
 	},
 	{
 		"title": "Eindterm 1",
-		"description": "De leerling doet ervaring op met een rijk aanbod aan talige bronnen in het Turks op een passend taalniveau. €",
+		"description": "De leerling doet ervaring op met een rijk aanbod aan talige bronnen in het Turks op een passend taalniveau. (E)",
 		"prefix": "1",
 		"soort": "eindterm",
 		"se": 1,
@@ -20859,11 +20883,12 @@
 		],
 		"replaces": [
 			"9116b655-5e83-4950-ad29-5f5887cbad70"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 2",
-		"description": "De leerling gebruikt het Turks op een creatieve en persoonlijke manier. (E)",
+		"description": "De leerling gebruikt de Turkse taal op een creatieve en persoonlijke manier. (E)",
 		"prefix": "2",
 		"soort": "eindterm",
 		"se": 1,
@@ -20882,7 +20907,8 @@
 		],
 		"replaces": [
 			"fbf3f887-6306-4e88-9751-519c46636fef"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 3",
@@ -20936,7 +20962,7 @@
 	},
 	{
 		"title": "Eindterm 5",
-		"description": "De leerling spreekt in de Turkse taal, afgestemd op doel, publiek en context. (B)",
+		"description": "De leerling spreekt in het Turks, afgestemd op doel, publiek en context. (B)",
 		"prefix": "5",
 		"soort": "eindterm",
 		"se": 1,
@@ -20955,7 +20981,8 @@
 		],
 		"replaces": [
 			"efa55927-1aaa-4b5a-83a3-c38fd94686d6"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 6",
@@ -20984,7 +21011,7 @@
 	},
 	{
 		"title": "Eindterm 7",
-		"description": "De leerling schrijft in de Turkse taal, afgestemd op doel, publiek, context en medium. (B)",
+		"description": "De leerling schrijft in het Turks, afgestemd op doel, publiek, context en medium. (B)",
 		"prefix": "7",
 		"soort": "eindterm",
 		"se": 1,
@@ -21004,7 +21031,8 @@
 		],
 		"replaces": [
 			"b78718af-1ea3-4828-b009-070a036fc067"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 8",
@@ -21079,7 +21107,7 @@
 	},
 	{
 		"title": "Eindterm 11",
-		"description": "De leerling verkent de mogelijkheden en beperkingen van digitale hulpmiddelen in communicatie in de Turkse taal. (E)",
+		"description": "De leerling verkent de mogelijkheden en beperkingen van digitale hulpmiddelen in communicatie in het Turks. (E)",
 		"prefix": "11",
 		"soort": "eindterm",
 		"se": 1,
@@ -21099,7 +21127,8 @@
 		],
 		"replaces": [
 			"b979d8fa-272e-4f8d-a26d-373e97f89205"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 12",
@@ -21153,7 +21182,7 @@
 	},
 	{
 		"title": "Eindterm 14",
-		"description": "De leerling  toont inzicht in inhoud en context van fictie en verkent de relatie met de eigen context. (H)",
+		"description": "De leerling toont inzicht in inhoud en context van fictie en verkent de relatie met de eigen context. (H)",
 		"prefix": "14",
 		"soort": "eindterm",
 		"ce": 1,
@@ -21226,7 +21255,7 @@
 	},
 	{
 		"title": "Eindterm 1",
-		"description": "De leerling doet ervaring op met een rijk aanbod aan talige bronnen in Turks op een passend taalniveau. (E)",
+		"description": "De leerling doet ervaring op met een rijk aanbod aan talige bronnen in het Turks op een passend taalniveau. (E)",
 		"prefix": "1",
 		"soort": "eindterm",
 		"se": 1,
@@ -21244,7 +21273,8 @@
 		],
 		"replaces": [
 			"19aaadff-f510-492c-96ff-dd49154e9419"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 2",
@@ -21323,7 +21353,7 @@
 	},
 	{
 		"title": "Eindterm 5",
-		"description": "De leerling spreekt in de Turkse taal, afgestemd op doel, publiek en context. (B)",
+		"description": "De leerling spreekt in het Turks, afgestemd op doel, publiek en context. (B)",
 		"prefix": "5",
 		"soort": "eindterm",
 		"se": 1,
@@ -21344,7 +21374,8 @@
 		],
 		"replaces": [
 			"0e887e09-d6a1-46bc-8768-059cb2bca646"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 6",
@@ -21374,7 +21405,7 @@
 	},
 	{
 		"title": "Eindterm 7",
-		"description": "De leerling schrijft in de Turkse taal, afgestemd op doel, publiek, context en medium. (B)",
+		"description": "De leerling schrijft in het Turks, afgestemd op doel, publiek, context en medium. (B)",
 		"prefix": "7",
 		"soort": "eindterm",
 		"se": 1,
@@ -21394,7 +21425,8 @@
 		],
 		"replaces": [
 			"f6e32036-3303-49e1-93c0-1e31310dda09"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 8",
@@ -21470,7 +21502,7 @@
 	},
 	{
 		"title": "Eindterm 11",
-		"description": "De leerling verkent de mogelijkheden en beperkingen van digitale hulpmiddelen in communicatie in de Turkse taal. (E)",
+		"description": "De leerling verkent de mogelijkheden en beperkingen van digitale hulpmiddelen in communicatie in het Turks. (E)",
 		"prefix": "11",
 		"soort": "eindterm",
 		"se": 1,
@@ -21490,7 +21522,8 @@
 		],
 		"replaces": [
 			"35d75b54-9971-434d-81f5-84105556360c"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 12",
@@ -21545,7 +21578,7 @@
 	},
 	{
 		"title": "Eindterm 14",
-		"description": "De leerling  toont inzicht in inhoud en context van fictie en verkent de relatie met de eigen context. (H)",
+		"description": "De leerling toont inzicht in inhoud en context van fictie en verkent de relatie met de eigen context. (H)",
 		"prefix": "14",
 		"soort": "eindterm",
 		"ce": 1,
@@ -21619,7 +21652,7 @@
 	},
 	{
 		"title": "Eindterm 1",
-		"description": "De leerling doet ervaring op met een rijk aanbod aan talige bronnen in het Turks op een passend taalniveau. €",
+		"description": "De leerling doet ervaring op met een rijk aanbod aan talige bronnen in het Turks op een passend taalniveau. (E)",
 		"prefix": "1",
 		"soort": "eindterm",
 		"se": 1,
@@ -21638,7 +21671,8 @@
 		],
 		"replaces": [
 			"eb3d2a0b-c3b1-461f-be0c-c9aa4fac0cbe"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 2",
@@ -21717,7 +21751,7 @@
 	},
 	{
 		"title": "Eindterm 5",
-		"description": "De leerling spreekt in de Turkse taal, afgestemd op doel, publiek en context. (B)",
+		"description": "De leerling spreekt in het Turks, afgestemd op doel, publiek en context. (B)",
 		"prefix": "5",
 		"soort": "eindterm",
 		"se": 1,
@@ -21738,7 +21772,8 @@
 		],
 		"replaces": [
 			"0cae2a12-f1c9-4315-bd40-32f50055563c"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 6",
@@ -21768,7 +21803,7 @@
 	},
 	{
 		"title": "Eindterm 7",
-		"description": "De leerling schrijft in de Turkse taal, afgestemd op doel, publiek, context en medium. (B)",
+		"description": "De leerling schrijft in het Turks, afgestemd op doel, publiek, context en medium. (B)",
 		"prefix": "7",
 		"soort": "eindterm",
 		"se": 1,
@@ -21788,7 +21823,8 @@
 		],
 		"replaces": [
 			"7b62b1ca-7f26-48e4-b40a-b94cef3208ca"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 8",
@@ -21865,7 +21901,7 @@
 	},
 	{
 		"title": "Eindterm 11",
-		"description": "De leerling toont inzicht in de mogelijkheden en beperkingen van digitale hulpmiddelen in communicatie in de Turkse taal. (H)",
+		"description": "De leerling toont inzicht in de mogelijkheden en beperkingen van digitale hulpmiddelen in communicatie in het Turks. (H)",
 		"prefix": "11",
 		"soort": "eindterm",
 		"se": 1,
@@ -21886,7 +21922,8 @@
 		],
 		"replaces": [
 			"db5a54a8-45b6-4d65-902d-e9ce009ba173"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 12",
@@ -21941,7 +21978,7 @@
 	},
 	{
 		"title": "Eindterm 14",
-		"description": "De leerling  toont inzicht in inhoud en context van fictie en verkent de relatie met de eigen context. (H)",
+		"description": "De leerling toont inzicht in inhoud en context van fictie en verkent de relatie met de eigen context. (H)",
 		"prefix": "14",
 		"soort": "eindterm",
 		"ce": 1,
@@ -22142,7 +22179,7 @@
 	},
 	{
 		"title": "Eindterm 5",
-		"description": "De leerling verwerft doelgericht informatie uit mondelinge, schriftelijke en digitale bronnen in de Turkse taal. (B)",
+		"description": "De leerling verwerft doelgericht informatie uit diverse bronnen in de Turkse taal. (B)",
 		"prefix": "5",
 		"soort": "eindterm",
 		"ce": 1,
@@ -22151,8 +22188,7 @@
 			"5ce6251c-03f0-40b8-b90c-a194e879a7bb",
 			"a63595c1-1427-4774-879d-2fc1b20fdf60",
 			"c95b2dec-f1a2-4095-b7e9-a695a1c6a44c",
-			"6755f69a-15fb-4d91-88f9-52f40617edf0",
-			"1f3f4581-dcb1-4f92-a9fe-749f8e13ead9"
+			"6755f69a-15fb-4d91-88f9-52f40617edf0"
 		],
 		"status": "concept",
 		"fo_illustratie_id": [
@@ -22164,11 +22200,12 @@
 		],
 		"replaces": [
 			"0ab0824d-0c54-4ca7-8867-577d2589d853"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 6",
-		"description": "De leerling spreekt in de Turkse taal, afgestemd op doel, publiek en context. (B)",
+		"description": "De leerling spreekt in het Turks, afgestemd op doel, publiek en context. (B)",
 		"prefix": "6",
 		"soort": "eindterm",
 		"se": 1,
@@ -22191,7 +22228,8 @@
 		],
 		"replaces": [
 			"e95a907d-cbec-4f42-8d09-021736a1bb1a"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 7",
@@ -22221,7 +22259,7 @@
 	},
 	{
 		"title": "Eindterm 8",
-		"description": "De leerling schrijft in de Turkse taal, afgestemd op doel, publiek, context en medium. (B)",
+		"description": "De leerling schrijft in het Turks, afgestemd op doel, publiek, context en medium. (B)",
 		"prefix": "8",
 		"soort": "eindterm",
 		"se": 1,
@@ -22241,7 +22279,8 @@
 		],
 		"replaces": [
 			"b6ace5d8-e650-4345-a69b-6a8c637a4afa"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 9",
@@ -22318,7 +22357,7 @@
 	},
 	{
 		"title": "Eindterm 12",
-		"description": "De leerling toont inzicht in de mogelijkheden en beperkingen van digitale hulpmiddelen in communicatie in de Turkse taal. (H)",
+		"description": "De leerling toont inzicht in de mogelijkheden en beperkingen van digitale hulpmiddelen in communicatie in het Turks. (H)",
 		"prefix": "12",
 		"soort": "eindterm",
 		"se": 1,
@@ -22339,7 +22378,8 @@
 		],
 		"replaces": [
 			"b3671646-2a10-4137-bfaf-bfca002d9d58"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Eindterm 13",
@@ -22394,7 +22434,7 @@
 	},
 	{
 		"title": "Eindterm 15",
-		"description": "De leerling  toont inzicht in inhoud en context van fictie en verkent de relatie met de eigen context. (H)",
+		"description": "De leerling toont inzicht in inhoud en context van fictie en verkent de relatie met de eigen context. (H)",
 		"prefix": "15",
 		"soort": "eindterm",
 		"ce": 1,
@@ -48389,7 +48429,7 @@
 	{
 		"title": "Doelzin 32C - Ecosystemen",
 		"description": "De leerling verkent verschillende ecosystemen en verklaart interacties binnen het systeem.",
-		"prefix": "32C",
+		"prefix": "C",
 		"soort": "kerndoel",
 		"status": "definitief concept",
 		"id": "36ad7c27-0819-4814-bfad-82aa70c1f93d",
@@ -48404,7 +48444,7 @@
 	{
 		"title": "Doelzin 1A",
 		"description": "De school zorgt voor een Friestalige leer- en leesmaterialen.",
-		"prefix": "1A",
+		"prefix": "A",
 		"soort": "kerndoel",
 		"status": "definitief concept",
 		"id": "9ffca565-fe8d-419d-b264-5be9ca43a968",
@@ -48419,7 +48459,7 @@
 	{
 		"title": "Doelzin 1B",
 		"description": "De school stimuleert de Friese taalontwikkeling van alle leerlingen.",
-		"prefix": "1B",
+		"prefix": "B",
 		"soort": "kerndoel",
 		"status": "definitief concept",
 		"id": "d70c6250-02c1-42f3-9259-4fb8bbda1ad8",
@@ -48583,7 +48623,7 @@
 	{
 		"title": "Doelzin 1A",
 		"description": "De school zorgt voor een rijke taalomgeving om de Nederlandse Gebarentaal te leren en te gebruiken.",
-		"prefix": "1A",
+		"prefix": "A",
 		"id": "ae279cab-9f07-4a66-8a3e-6a29c3150aee",
 		"fo_uitwerking_id": [
 			"0e9e5e1b-8c46-4406-82be-11a69d255e95",
@@ -48599,7 +48639,7 @@
 	{
 		"title": "Doelzin 1A",
 		"description": "De school zorgt voor een rijke taalomgeving om de Nederlandse Gebarentaal te leren en te gebruiken.",
-		"prefix": "1A",
+		"prefix": "A",
 		"id": "7bfb3fe3-da96-4347-b101-00aa4fd92f90",
 		"fo_uitwerking_id": [
 			"31becac6-f166-482a-819f-72210cefb981",
@@ -48615,7 +48655,7 @@
 	{
 		"title": "Doelzin 2A",
 		"description": "De leerling toont begrip van informatie in de Nederlandse Gebarentaal.",
-		"prefix": "2A",
+		"prefix": "A",
 		"id": "c19b4cc8-9dd9-4e3a-a2d5-ae05af8782b1",
 		"fo_uitwerking_id": [
 			"b5284c68-6bea-41ab-968a-ab95bf6508d4",
@@ -48633,7 +48673,7 @@
 	{
 		"title": "Doelzin 2B",
 		"description": "De leerling onderzoekt en verwerkt informatie uit verschillende bronnen in de Nederlandse Gebarentaal.",
-		"prefix": "2B",
+		"prefix": "B",
 		"id": "5a0b0e5b-88dd-46a6-8ccc-9e4bf51e4ce2",
 		"fo_uitwerking_id": [
 			"35c8eac3-07f1-4d21-90eb-6c65dda84472",
@@ -48650,7 +48690,7 @@
 	{
 		"title": "Doelzin 2A",
 		"description": "De leerling toont begrip van informatie in de Nederlandse Gebarentaal.",
-		"prefix": "2A",
+		"prefix": "A",
 		"id": "1b87f7e6-3d73-4799-92c8-bf1b36a5dfe4",
 		"fo_uitwerking_id": [
 			"ae59e0f0-1669-41cc-a296-e78c4a2feb4a",
@@ -48668,7 +48708,7 @@
 	{
 		"title": "Doelzin 2B",
 		"description": "De leerling onderzoekt en verwerkt informatie uit verschillende bronnen in de Nederlandse Gebarentaal.",
-		"prefix": "2B",
+		"prefix": "B",
 		"id": "fcca1b1a-5520-49a2-bc8a-16931ff94274",
 		"fo_uitwerking_id": [
 			"d7ddf7be-2b19-48af-bd4e-823ed0e8fe1f",
@@ -48685,7 +48725,7 @@
 	{
 		"title": "Doelzin 3A",
 		"description": "De leerling drukt zich naar vorm en inhoud begrijpelijk en correct uit in de Nederlandse Gebarentaal.",
-		"prefix": "3A",
+		"prefix": "A",
 		"id": "dda4d644-3e51-4418-bacc-d134eb8e2101",
 		"fo_uitwerking_id": [
 			"c33687e3-d8bd-4aaa-8a79-27756efe3c06",
@@ -48703,7 +48743,7 @@
 	{
 		"title": "Doelzin 3B",
 		"description": "De leerling gebruikt de Nederlandse Gebarentaal op een creatieve manier.",
-		"prefix": "3B",
+		"prefix": "B",
 		"id": "5b2cdf2e-3758-45d7-921a-69bc9a3f27aa",
 		"fo_uitwerking_id": [
 			"b7b51cc2-9097-4b21-ad01-63b401985713",
@@ -48721,7 +48761,7 @@
 	{
 		"title": "Doelzin 3A",
 		"description": "De leerling drukt zich naar vorm en inhoud begrijpelijk en correct uit in de Nederlandse Gebarentaal.",
-		"prefix": "3A",
+		"prefix": "A",
 		"id": "43b1d175-f7e2-40c9-a8d9-52aa9678b28d",
 		"fo_uitwerking_id": [
 			"d390fddf-3a82-4bb1-ac62-2bf4d08ff666",
@@ -48739,7 +48779,7 @@
 	{
 		"title": "Doelzin 3B",
 		"description": "De leerling gebruikt de Nederlandse Gebarentaal op een creatieve manier.",
-		"prefix": "3B",
+		"prefix": "B",
 		"id": "ec051f24-ef13-49ce-b16f-98d36608cea0",
 		"fo_uitwerking_id": [
 			"6d221a19-2d03-4598-8724-2ba8f4407810",
@@ -48757,7 +48797,7 @@
 	{
 		"title": "Doelzin 4A",
 		"description": "De leerling voert gesprekken in de Nederlandse Gebarentaal afgestemd op doel, gesprekspartner(s) en context.",
-		"prefix": "4A",
+		"prefix": "A",
 		"id": "ec685eb7-6c5e-41f3-843e-1e44cb69c324",
 		"fo_uitwerking_id": [
 			"bbcb0f9d-7d59-4e7f-a6ff-9b44861f68cf",
@@ -48774,7 +48814,7 @@
 	{
 		"title": "Doelzin 4B",
 		"description": "De leerling voert gesprekken in de Nederlandse Gebarentaal om tot kennisopbouw, begrip of een aanpak te komen.",
-		"prefix": "4B",
+		"prefix": "B",
 		"id": "03dbe79b-1807-4be6-8e46-80f66069c218",
 		"fo_uitwerking_id": [
 			"af9bf2ec-194d-4f96-8e2e-799692837b5c",
@@ -48792,7 +48832,7 @@
 	{
 		"title": "Doelzin 4A",
 		"description": "De leerling voert gesprekken in de Nederlandse Gebarentaal afgestemd op doel, gesprekspartner(s) en context.",
-		"prefix": "4A",
+		"prefix": "A",
 		"id": "e33c0473-610e-46d5-bb41-088b9b929586",
 		"fo_uitwerking_id": [
 			"352ee86d-a40d-4110-b03d-5f027e9dc968",
@@ -48809,7 +48849,7 @@
 	{
 		"title": "Doelzin 4B",
 		"description": "De leerling voert gesprekken in de Nederlandse Gebarentaal om tot kennisopbouw, begrip of een aanpak te komen.",
-		"prefix": "4B",
+		"prefix": "B",
 		"id": "0687eef6-3a91-41ac-9568-68f050daa78d",
 		"fo_uitwerking_id": [
 			"b78b7e8c-b4aa-4282-a517-616dff048e90",
@@ -48827,7 +48867,7 @@
 	{
 		"title": "Doelzin 5A",
 		"description": "De leerling reflecteert op de eigen ontwikkeling in de Nederlandse Gebarentaal en evalueert het product van een taalactiviteit.",
-		"prefix": "5A",
+		"prefix": "A",
 		"id": "73c5d7ce-308e-452a-9502-fc089bf41875",
 		"fo_uitwerking_id": [
 			"bc88a34a-f6fc-4617-8db4-ce9dd2503add",
@@ -48845,7 +48885,7 @@
 	{
 		"title": "Doelzin 5A",
 		"description": "De leerling reflecteert op de eigen ontwikkeling in de Nederlandse Gebarentaal en evalueert het product van een taalactiviteit.",
-		"prefix": "5A",
+		"prefix": "A",
 		"id": "307c402e-305f-41d3-ab2b-4b7f45385007",
 		"fo_uitwerking_id": [
 			"4db8d1db-3e15-42df-b54f-9d151d55c3d8",
@@ -48863,7 +48903,7 @@
 	{
 		"title": "Doelzin 6A",
 		"description": "De leerling beschouwt de relatie tussen vorm en betekenis van de Nederlandse Gebarentaal.",
-		"prefix": "6A",
+		"prefix": "A",
 		"id": "721a3347-d51e-4698-9a72-d0de92343567",
 		"fo_uitwerking_id": [
 			"7fa5549d-90ea-459e-98d1-b4d347654b6f",
@@ -48880,7 +48920,7 @@
 	{
 		"title": "Doelzin 6A",
 		"description": "De leerling beschouwt de relatie tussen vorm en betekenis van de Nederlandse Gebarentaal.",
-		"prefix": "6A",
+		"prefix": "A",
 		"id": "ae3026e5-916e-4137-9996-37425ad32d6e",
 		"fo_uitwerking_id": [
 			"b1d53bf4-6c61-4d9e-b47d-6fb0fee529b0",
@@ -48897,7 +48937,7 @@
 	{
 		"title": "Doelzin 7A",
 		"description": "De leerling verkent de eigen talige identiteit in de Nederlandse Gebarentaal.",
-		"prefix": "7A",
+		"prefix": "A",
 		"id": "4ba00a5c-7678-4d94-a40a-3b68ad02f7f3",
 		"fo_uitwerking_id": [
 			"f197b06f-0569-4d20-a08c-28d0dc8ed8fb",
@@ -48915,7 +48955,7 @@
 	{
 		"title": "Doelzin 7B",
 		"description": "De leerling verkent taalvariatie en taalverandering van de Nederlandse Gebarentaal.",
-		"prefix": "7B",
+		"prefix": "B",
 		"id": "1463c24c-ea52-4235-9fb5-24a63e34f839",
 		"fo_uitwerking_id": [
 			"68cea19c-3813-4a68-8901-089f1dfd5de3",
@@ -48933,7 +48973,7 @@
 	{
 		"title": "Doelzin 7A",
 		"description": "De leerling verkent de eigen talige identiteit in de Nederlandse Gebarentaal.",
-		"prefix": "7A",
+		"prefix": "A",
 		"id": "aa6cca80-6764-41ec-9e16-9806ffb50916",
 		"fo_uitwerking_id": [
 			"a8319ac6-31cf-4e53-8ad2-d0939344734d",
@@ -48951,7 +48991,7 @@
 	{
 		"title": "Doelzin 7B",
 		"description": "De leerling verkent taalvariatie en taalverandering van de Nederlandse Gebarentaal.",
-		"prefix": "7B",
+		"prefix": "B",
 		"id": "b4f99390-72b7-4fe8-bbb8-b8ed6e617525",
 		"fo_uitwerking_id": [
 			"ba36eae2-f26b-4d1b-8cf7-b0abc9dbd38d",
@@ -49040,7 +49080,7 @@
 	{
 		"title": "Doelzin 19A",
 		"description": "De school stimuleert sociale en maatschappelijke competenties van leerlingen.",
-		"prefix": "19A",
+		"prefix": "A",
 		"id": "e0fd4624-f41d-4729-8331-454589418bba",
 		"fo_uitwerking_id": [
 			"3c8524d7-87fb-4bb3-897e-2b9bfe0be2ac",
@@ -49064,7 +49104,7 @@
 	{
 		"title": "Doelzin 18A",
 		"description": "De school stimuleert sociale en maatschappelijke competenties van leerlingen.",
-		"prefix": "18A",
+		"prefix": "A",
 		"id": "261981f8-61ee-44e9-bd82-61369f7a11e8",
 		"fo_uitwerking_id": [
 			"c608f81d-acd3-44b6-ae20-d3f298ab7a38",
@@ -49088,7 +49128,7 @@
 	{
 		"title": "Doelzin 20A",
 		"description": "De leerling redeneert over het belang van basiswaarden van de democratische rechtsstaat.",
-		"prefix": "20A",
+		"prefix": "A",
 		"id": "63e4b2a2-7596-4670-84eb-587b0845132f",
 		"fo_uitwerking_id": [
 			"e7c48fa4-768d-408f-99c0-581d2a199117",
@@ -49113,7 +49153,7 @@
 	{
 		"title": "Doelzin 19A",
 		"description": "De leerling toont inzicht in het belang van basiswaarden van de democratische rechtsstaat.",
-		"prefix": "19A",
+		"prefix": "A",
 		"id": "ecd7cac1-b278-4cdb-a288-9c1d144c3242",
 		"fo_uitwerking_id": [
 			"3bc2bca4-143c-4c29-b9f6-8b694f6ff5a7",
@@ -49140,7 +49180,7 @@
 	{
 		"title": "Doelzin 19B",
 		"description": "De leerling verkent en reflecteert op hoe die kan omgaan met diversiteit in de samenleving.",
-		"prefix": "19B",
+		"prefix": "B",
 		"id": "5bcb1242-bbbd-45f3-a2b5-ff93b666e870",
 		"fo_uitwerking_id": [
 			"40146690-1661-4bba-aaf7-6b31edf45040",
@@ -49166,7 +49206,7 @@
 	{
 		"title": "Doelzin 20B",
 		"description": "De leerling verkent hoe die kan omgaan met diversiteit in de samenleving.",
-		"prefix": "20B",
+		"prefix": "B",
 		"id": "ff3f317e-6219-4190-823e-88a8db909a91",
 		"fo_uitwerking_id": [
 			"41483b67-ff5d-4f83-bf4e-94db3dc463ec",
@@ -49191,7 +49231,7 @@
 	{
 		"title": "Doelzin 21A",
 		"description": "De leerling verkent mogelijkheden om democratisch te handelen.",
-		"prefix": "21A",
+		"prefix": "A",
 		"id": "d873cdbb-e443-4742-9e87-b09d05f6a4b8",
 		"fo_uitwerking_id": [
 			"d38490b2-8b76-42d2-b51e-bd6ae05cdb3a",
@@ -49215,7 +49255,7 @@
 	{
 		"title": "Doelzin 21B",
 		"description": "De leerling verkent mogelijkheden om bij te dragen aan de samenleving.",
-		"prefix": "21B",
+		"prefix": "B",
 		"id": "1533644c-7f21-4fc2-bdb2-53a93147983d",
 		"fo_uitwerking_id": [
 			"7c87934d-0f0c-4f47-8618-3308a3163afa",
@@ -49239,7 +49279,7 @@
 	{
 		"title": "Doelzin 20A",
 		"description": "De leerling verkent en reflecteert op mogelijkheden om democratisch te handelen",
-		"prefix": "20A",
+		"prefix": "A",
 		"id": "b4589d82-005e-4b81-8c5c-a685e1e24eca",
 		"fo_uitwerking_id": [
 			"b7d35a7c-4c50-4c6d-b3ac-c53734b25c29",
@@ -49265,7 +49305,7 @@
 	{
 		"title": "Doelzin 20B",
 		"description": "De leerling verkent en reflecteert op mogelijkheden om bij te dragen aan de samenleving.",
-		"prefix": "20B",
+		"prefix": "B",
 		"id": "8791d789-490d-4beb-be93-19b430807c8e",
 		"fo_uitwerking_id": [
 			"cfb5ddb6-2e2d-4f5f-a6b7-a79e7b17dcb7",
@@ -50500,7 +50540,7 @@
 	},
 	{
 		"description": "De leerling bedenkt en beschrijft algoritmes.",
-		"title": "Doelzin 15D",
+		"title": "Doelzin 14D",
 		"fo_uitwerking_id": [
 			"83a5dcbf-2c29-4b63-b8ec-2e85e76b386c",
 			"cb21f223-b531-404d-acb6-389fadb23ce6",
@@ -50529,7 +50569,8 @@
 		"replaces": [
 			"0956691b-5ed5-4c1f-a952-58e16b07ad5d",
 			"ec593299-b61c-4c1f-aaa2-ff269791162f"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"description": "De leerling gebruikt wiskundetaal en wiskundige representaties.",
@@ -51080,7 +51121,7 @@
 			"8b2ce9da-9d2d-4fbf-86c7-9fd4079d835d",
 			"b8c1a521-b860-4909-8392-ba6e38f5e478"
 		],
-		"prefix": "22A",
+		"prefix": "A",
 		"id": "ce50e801-b592-4d0b-bbd3-d3bb8d6316c4",
 		"soort": "kerndoel",
 		"status": "definitief concept",
@@ -51106,7 +51147,7 @@
 			"7d0f69d8-b2e6-4b72-b500-4c1aee67888e",
 			"b9f40d65-bd4d-4438-abfe-58c86a4f438d"
 		],
-		"prefix": "22B",
+		"prefix": "B",
 		"id": "76f135a8-8792-48fb-a021-aec93bb5ed61",
 		"soort": "kerndoel",
 		"status": "definitief concept",
@@ -51132,7 +51173,7 @@
 			"ece8e13d-bff6-45e9-bc62-5d5fae59356c",
 			"f89c5d9b-b56a-4d80-ae31-709e539a041f"
 		],
-		"prefix": "24A",
+		"prefix": "A",
 		"id": "de8600bb-8064-4bd1-b6c7-cfcec5163c40",
 		"soort": "kerndoel",
 		"status": "definitief concept",
@@ -51158,7 +51199,7 @@
 			"edfe6a7a-f7ca-444e-ac38-be0ffc54fba1",
 			"f146f290-b5be-4c8b-9e59-c98d7eea3864"
 		],
-		"prefix": "22C",
+		"prefix": "C",
 		"id": "8d046216-3c30-4a99-8980-ea6a593d804a",
 		"soort": "kerndoel",
 		"status": "definitief concept",
@@ -51182,7 +51223,7 @@
 			"d17c15dc-70ee-4708-97ef-acbb57fa3896",
 			"fb4a2a80-fe1b-4b30-87e0-bd95f0a7eed0"
 		],
-		"prefix": "22D",
+		"prefix": "D",
 		"id": "af6e4525-85f8-4983-8acb-1d47722d58d8",
 		"soort": "kerndoel",
 		"status": "definitief concept",
@@ -51208,7 +51249,7 @@
 			"a373704d-f8e3-4e8a-b9ad-9f2c45aa3b6c",
 			"86ad77f6-f3a9-4b19-b1c9-d819643b83e2"
 		],
-		"prefix": "23A",
+		"prefix": "A",
 		"id": "05d479ca-3603-477d-ad0b-a0f7ea795650",
 		"soort": "kerndoel",
 		"status": "definitief concept",
@@ -51233,7 +51274,7 @@
 			"859b1012-16af-4ebc-b04f-f96668d2fd36",
 			"13ddb187-81a6-41ed-a2c1-078335a9f2f0"
 		],
-		"prefix": "23B",
+		"prefix": "B",
 		"id": "ae77a766-38e8-4950-8c6a-fbcd5575e81f",
 		"soort": "kerndoel",
 		"status": "definitief concept",
@@ -51259,7 +51300,7 @@
 			"b0e660a9-e5d4-47d8-829c-3e5f08129d47",
 			"c543e37a-63b3-4635-9797-3a597ce2d4bf"
 		],
-		"prefix": "24B",
+		"prefix": "B",
 		"id": "d20582f3-9a01-41d3-8d4d-a258c51cc094",
 		"soort": "kerndoel",
 		"status": "definitief concept",
@@ -51284,7 +51325,7 @@
 			"d0026d8e-551d-40b7-ac7d-5154369dfac3",
 			"023d264d-53a2-489a-a8ac-d89f6a7ab8cb"
 		],
-		"prefix": "24C",
+		"prefix": "C",
 		"id": "4c612506-f5d3-4b01-91df-b59b3e984e6c",
 		"soort": "kerndoel",
 		"status": "definitief concept",
@@ -51310,7 +51351,7 @@
 			"9e65d4a0-1770-4a9d-9ca8-ab99b6d744e1",
 			"7f910d72-46f9-4e4b-af69-b137be37f314"
 		],
-		"prefix": "21A",
+		"prefix": "A",
 		"id": "e128c4a5-55dd-4b3c-87d5-26999b69aaee",
 		"soort": "kerndoel",
 		"status": "definitief concept",
@@ -51337,7 +51378,7 @@
 			"af92c4d9-fbae-41a0-a794-4a266f8e4a7a",
 			"553d7f72-3f35-4f70-bfa7-55247698e131"
 		],
-		"prefix": "21B",
+		"prefix": "B",
 		"id": "547264c5-f9eb-4ed4-8120-9c58444ca26b",
 		"soort": "kerndoel",
 		"status": "definitief concept",
@@ -51367,7 +51408,7 @@
 			"6f8c3263-e111-4671-be90-7ebed49246d4",
 			"644ad900-7692-4d69-99f9-900538866a7e"
 		],
-		"prefix": "23A",
+		"prefix": "A",
 		"id": "ebb3b7b0-702e-4c7c-91a2-07646b9928c9",
 		"soort": "kerndoel",
 		"status": "definitief concept",
@@ -51396,7 +51437,7 @@
 			"60393485-c67f-4187-be6a-f68f5d8360da",
 			"1b4c4662-d363-4432-91d5-c927dd58ce7f"
 		],
-		"prefix": "21C",
+		"prefix": "C",
 		"id": "200f505d-4b3c-42ef-8db5-e6240a43df57",
 		"soort": "kerndoel",
 		"status": "definitief concept",
@@ -51425,7 +51466,7 @@
 			"cd7aae38-2fde-4c6a-831e-141f09a35d0b",
 			"feb3ccd8-3676-4393-a037-32e850ddb5b3"
 		],
-		"prefix": "21D",
+		"prefix": "D",
 		"id": "5244dbf9-e723-4294-8958-aedb1b50edf9",
 		"soort": "kerndoel",
 		"status": "definitief concept",
@@ -51456,7 +51497,7 @@
 			"1767651c-61cd-482e-9f17-b630c107d48c",
 			"b96a35ec-5236-4b0d-874a-cb6736585ab5"
 		],
-		"prefix": "22A",
+		"prefix": "A",
 		"id": "5a3e2b59-c1fd-443c-b66a-a7ec909da4ff",
 		"soort": "kerndoel",
 		"status": "definitief concept",
@@ -51484,7 +51525,7 @@
 			"6f5b71aa-851a-4246-b7ca-9858ce6ded36",
 			"a7fa43bc-a2ae-482a-ac5e-0df0a79fa820"
 		],
-		"prefix": "22B",
+		"prefix": "B",
 		"id": "f52e6fa6-72d8-46c4-96a3-87d7184ff773",
 		"soort": "kerndoel",
 		"status": "definitief concept",
@@ -51510,7 +51551,7 @@
 			"913979dc-fc37-49f2-8832-41157d08a5ef",
 			"0604d876-1472-4f65-84a6-d76a5894e174"
 		],
-		"prefix": "23B",
+		"prefix": "B",
 		"id": "2bae7ce0-6fc1-4f4e-8331-60efa245489e",
 		"soort": "kerndoel",
 		"status": "definitief concept",
@@ -51536,7 +51577,7 @@
 			"21eb7715-a2ec-44f0-b6f8-de88101bfe7f",
 			"f1fbfcdc-ac3b-44e9-afd4-9d4588bcf2c3"
 		],
-		"prefix": "23C",
+		"prefix": "C",
 		"id": "4908c3c7-9004-4686-9bdd-e150af7e19fb",
 		"soort": "kerndoel",
 		"status": "definitief concept",
@@ -53548,7 +53589,7 @@
 	{
 		"title": "Doelzin 29A - Vraagstukken",
 		"description": "De leerling verkent de leefomgeving en onderzoekt vraagstukken uit de wereld.",
-		"prefix": "29A",
+		"prefix": "A",
 		"soort": "kerndoel",
 		"id": "935258e3-2288-41ae-ae26-29527c602fef",
 		"fo_uitwerking_id": [
@@ -53574,7 +53615,7 @@
 	{
 		"title": "Doelzin 29B - Denkwijzen",
 		"description": "De leerling gebruikt natuurwetenschappelijke en technologische denkwijzen bij het ontdekken en verklaren van de wereld.",
-		"prefix": "29B",
+		"prefix": "B",
 		"soort": "kerndoel",
 		"id": "751e7a41-3cba-4ab8-aa87-f99289162da4",
 		"fo_uitwerking_id": [
@@ -53604,7 +53645,7 @@
 	{
 		"title": "Doelzin 29C - Werkwijzen",
 		"description": "De leerling gebruikt natuurwetenschappelijke en technologische werkwijzen bij het ontdekken en verklaren van de wereld.",
-		"prefix": "29C",
+		"prefix": "C",
 		"soort": "kerndoel",
 		"id": "5e5ac821-5cd4-4350-961a-665c4521cbca",
 		"fo_uitwerking_id": [
@@ -53635,7 +53676,7 @@
 	{
 		"title": "Doelzin 29D - Aard van natuurwetenschappen en technologie",
 		"description": "De leerling verkent de aard van natuurwetenschappen en technologie.",
-		"prefix": "29D",
+		"prefix": "D",
 		"soort": "kerndoel",
 		"id": "7620a64b-a1fd-4055-9cec-fd0ef66d84f0",
 		"fo_uitwerking_id": [
@@ -53663,7 +53704,7 @@
 	{
 		"title": "Doelzin 29E - Veiligheid",
 		"description": "De leerling toont begrip van gevaren van fysische, geologische, chemische en biologische verschijnselen, mogelijke voorzorgsmaatregelen en hoe te handelen in geval van nood.",
-		"prefix": "29E",
+		"prefix": "E",
 		"soort": "kerndoel",
 		"id": "8667d300-61bf-43d3-ba61-fbc55a3cf173",
 		"fo_uitwerking_id": [
@@ -53688,7 +53729,7 @@
 	{
 		"title": "Doelzin 30A - Technische systemen",
 		"description": "De leerling toont inzicht in en experimenteert met voorwerpen en technische systemen uit de leefomgeving.",
-		"prefix": "30A",
+		"prefix": "A",
 		"soort": "kerndoel",
 		"id": "f310dace-65d9-48db-899a-aaf56a196f8c",
 		"fo_uitwerking_id": [
@@ -53714,7 +53755,7 @@
 	{
 		"title": "Doelzin 30B - Stoffen en hun eigenschappen",
 		"description": "De leerling toont inzicht in en experimenteert met stoffen en veranderingen die stoffen kunnen ondergaan.",
-		"prefix": "30B",
+		"prefix": "B",
 		"soort": "kerndoel",
 		"id": "f2d0f530-dac0-434a-a1e4-043ea3740cb1",
 		"fo_uitwerking_id": [
@@ -53740,7 +53781,7 @@
 	{
 		"title": "Doelzin 30C - Licht, geluid, energie en krachten",
 		"description": "De leerling toont inzicht in en experimenteert met licht, geluid, energie, krachten.",
-		"prefix": "30C",
+		"prefix": "C",
 		"soort": "kerndoel",
 		"id": "1ae1b962-9f95-48a3-9fc6-6e978d202d5b",
 		"fo_uitwerking_id": [
@@ -53766,7 +53807,7 @@
 	{
 		"title": "Doelzin 30A - Technische systemen",
 		"description": "De leerling toont inzicht in en experimenteert met voorwerpen en technische systemen.",
-		"prefix": "30A",
+		"prefix": "A",
 		"soort": "kerndoel",
 		"id": "faa37759-7d21-4f59-b640-a6d4fcc836c4",
 		"fo_uitwerking_id": [
@@ -53792,7 +53833,7 @@
 	{
 		"title": "Doelzin 30B - Krachten",
 		"description": "De leerling toont inzicht in en experimenteert met krachten en beweging.",
-		"prefix": "30B",
+		"prefix": "B",
 		"soort": "kerndoel",
 		"id": "a31cd5f3-978e-45d0-8898-c92e945e5b8a",
 		"fo_uitwerking_id": [
@@ -53819,7 +53860,7 @@
 	{
 		"title": "Doelzin 30C - Energie",
 		"description": "De leerling toont inzicht in elektrische schakelingen en energiesystemen, en experimenteert met elektrische schakelingen",
-		"prefix": "30C",
+		"prefix": "C",
 		"soort": "kerndoel",
 		"id": "bb0f433a-08a8-4ecf-8ed5-a8475293f3f2",
 		"fo_uitwerking_id": [
@@ -53845,7 +53886,7 @@
 	{
 		"title": "Doelzin 30D - Licht (havo-vwo)",
 		"description": "De leerling verklaart optische verschijnselen vanuit eigenschappen van licht",
-		"prefix": "30D",
+		"prefix": "D",
 		"soort": "kerndoel",
 		"id": "8494fc10-bde0-4045-98c2-db694c26c863",
 		"fo_uitwerking_id": [
@@ -53871,7 +53912,7 @@
 	{
 		"title": "Doelzin 31A - Deeltjes",
 		"description": "De leerling toont inzicht in deeltjes, faseovergangen, scheidingsmethoden en chemische reacties en experimenteert met deze verschijnselen en methoden.",
-		"prefix": "31A",
+		"prefix": "A",
 		"soort": "kerndoel",
 		"id": "500ab0ab-1fff-4a96-bd07-6043757dcbec",
 		"fo_uitwerking_id": [
@@ -53900,7 +53941,7 @@
 	{
 		"title": "Doelzin 31B - Processen",
 		"description": "De leerling toont inzicht in chemische processen en circulariteit en verkent de impact van processen op de omgeving.",
-		"prefix": "31B",
+		"prefix": "B",
 		"soort": "kerndoel",
 		"id": "6f89b77d-7b02-42d0-9e35-05c1a2f4dcf5",
 		"fo_uitwerking_id": [
@@ -53929,7 +53970,7 @@
 	{
 		"title": "Doelzin 31A - Organismen",
 		"description": "De leerling toont inzicht in organismen.",
-		"prefix": "31A",
+		"prefix": "A",
 		"soort": "kerndoel",
 		"id": "88cbb408-2bea-4b42-b907-4f0c1b361f9a",
 		"fo_uitwerking_id": [
@@ -53954,7 +53995,7 @@
 	{
 		"title": "Doelzin 31B - Gezond leven",
 		"description": "De leerling toont inzicht in leefstijl, gezondheid en ziekte en verkent keuzes hierin.",
-		"prefix": "31B",
+		"prefix": "B",
 		"soort": "kerndoel",
 		"id": "8b6ebb67-0fef-492e-a55f-1fd4552ccc33",
 		"fo_uitwerking_id": [
@@ -53980,7 +54021,7 @@
 	{
 		"title": "Doelzin 32A - Organismen",
 		"description": "De leerling toont inzicht in de bouw, werking en het gebruik van bacteriën, schimmels, planten en dieren en verkent de diversiteit aan organismen.",
-		"prefix": "32A",
+		"prefix": "A",
 		"soort": "kerndoel",
 		"id": "f767d699-f3b4-4e21-89f8-91d7cbf8f91f",
 		"fo_uitwerking_id": [
@@ -54006,7 +54047,7 @@
 	{
 		"title": "Doelzin 32B - Voortbestaan van leven op aarde",
 		"description": "De leerling toont inzicht in het voortbestaan van leven op aarde.",
-		"prefix": "32B",
+		"prefix": "B",
 		"soort": "kerndoel",
 		"id": "29e499f6-dc17-4714-b566-6da1ff53d9df",
 		"fo_uitwerking_id": [
@@ -54036,7 +54077,7 @@
 	{
 		"title": "Doelzin 32A - Aarde",
 		"description": "De leerling toont inzicht in en verkent veranderingen aan het aardoppervlak door natuurverschijnselen en menselijk handelen.",
-		"prefix": "32A",
+		"prefix": "A",
 		"soort": "kerndoel",
 		"id": "2f03060b-ec29-4952-9deb-810549cdcb94",
 		"fo_uitwerking_id": [
@@ -54063,7 +54104,7 @@
 	{
 		"title": "Doelzin 32B - Weer, klimaat en water",
 		"description": "De leerling toont inzicht in waterkringloop, weer en klimaat en verkent deze in de eigen leefomgeving.",
-		"prefix": "32B",
+		"prefix": "B",
 		"soort": "kerndoel",
 		"id": "23b8bf43-68b0-4140-a330-713a056088cf",
 		"fo_uitwerking_id": [
@@ -54088,7 +54129,7 @@
 	{
 		"title": "Doelzin 33A - Aarde",
 		"description": "De leerling toont inzicht in en verkent veranderingen in fysische omstandigheden op aarde op verschillende tijdschalen.",
-		"prefix": "33A",
+		"prefix": "A",
 		"soort": "kerndoel",
 		"id": "ea19f8a0-8498-4d7d-bcf9-25cf7e08d894",
 		"fo_uitwerking_id": [
@@ -54111,7 +54152,7 @@
 	{
 		"title": "Doelzin 33B - Weer, klimaat en water",
 		"description": "De leerling toont inzicht in en verkent weer, klimaat en watersystemen en hun veranderingen.",
-		"prefix": "33B",
+		"prefix": "B",
 		"soort": "kerndoel",
 		"id": "2dfa939b-aa71-4d10-9761-e5f70dc868e4",
 		"fo_uitwerking_id": [
@@ -54164,7 +54205,7 @@
 	{
 		"title": "Doelzin 32C - Gezond leven",
 		"description": "De leerling toont inzicht in leefstijl, lichamelijke- en mentale gezondheid en reflecteert hierop.",
-		"prefix": "32C",
+		"prefix": "C",
 		"soort": "kerndoel",
 		"id": "498a491c-87f2-4c9a-aed2-c4c44f3ca0aa",
 		"fo_uitwerking_id": [
@@ -54190,7 +54231,7 @@
 	{
 		"title": "Doelzin 32D - Relationele en seksuele gezondheid",
 		"description": "De leerling toont inzicht in relationele en seksuele gezondheid en draagt bij aan een veilige en respectvolle omgeving rondom gedrag, diversiteit en seksualiteit.",
-		"prefix": "32D",
+		"prefix": "D",
 		"soort": "kerndoel",
 		"id": "98082185-5cc7-49d5-95c3-da063198cd7b",
 		"fo_uitwerking_id": [
@@ -54216,7 +54257,7 @@
 	{
 		"title": "Doelzin 25A - Denkwijzen",
 		"description": "De leerling analyseert maatschappelijke verschijnselen en ontwikkelingen en benoemt waarden en belangen.",
-		"prefix": "25A",
+		"prefix": "A",
 		"soort": "kerndoel",
 		"id": "8feda1e4-f3b5-47d5-9d88-aca2e2b3494e",
 		"fo_uitwerking_id": [
@@ -54241,7 +54282,7 @@
 	{
 		"title": "Doelzin 25B - Vraagstukken",
 		"description": "De leerling onderzoekt maatschappelijke vraagstukken.",
-		"prefix": "25B",
+		"prefix": "B",
 		"soort": "kerndoel",
 		"id": "1d473d70-8331-4084-a6fc-b7f69c38a55a",
 		"fo_uitwerking_id": [
@@ -54267,7 +54308,7 @@
 	{
 		"title": "Doelzin 24A - Denkwijzen",
 		"description": "De leerling analyseert maatschappelijke verschijnselen en ontwikkelingen en weegt  waarden en belangen af.",
-		"prefix": "24A",
+		"prefix": "A",
 		"id": "bec92148-8ecf-4548-901a-18d65cb882a8",
 		"fo_uitwerking_id": [
 			"83eb33f6-6a52-49af-96f8-ead2fd48be6d",
@@ -54297,7 +54338,7 @@
 	{
 		"title": "Doelzin 24B - Vraagstukken",
 		"description": "De leerling onderzoekt maatschappelijke vraagstukken en evalueert mogelijke oplossingen.",
-		"prefix": "24B",
+		"prefix": "B",
 		"id": "f7a99cfb-62d1-4c62-9365-a93a87daeafe",
 		"fo_uitwerking_id": [
 			"97e4cbb5-afbf-4223-8f49-f83b3e3db778",
@@ -54374,7 +54415,7 @@
 	{
 		"title": "Doelzin 25A - Wereldbeeld",
 		"description": "De leerling analyseert de wereld vanuit geografische kenmerken en verkent haar vanuit verschillende perspectieven.",
-		"prefix": "25A",
+		"prefix": "A",
 		"id": "15977802-f395-4598-a582-141caf9e8c8f",
 		"fo_uitwerking_id": [
 			"d65f71a3-8052-43e5-b0c4-8a56d4b980c5",
@@ -54400,7 +54441,7 @@
 	{
 		"title": "Doelzin 25B - De aarde als leefomgeving",
 		"description": "De leerling analyseert hoe menselijk handelen en de leefomgeving elkaar beïnvloeden en evalueert hoe mensen omgaan met de gevolgen.",
-		"prefix": "25B",
+		"prefix": "B",
 		"id": "2781fe9e-5fe0-4fa7-8d75-0b274b2a6838",
 		"fo_uitwerking_id": [
 			"90170820-3102-4f4d-8911-66ac5b40237d",
@@ -54425,7 +54466,7 @@
 	{
 		"title": "Doelzin 25C - Ruimtelijke inrichting",
 		"description": "De leerling evalueert toekomstscenario's voor ruimtelijke inrichting van Nederland.",
-		"prefix": "25C",
+		"prefix": "C",
 		"id": "6fbd49f4-e91f-43c4-a182-0156a21ef838",
 		"fo_uitwerking_id": [
 			"c3ce7e48-0a50-414b-b0f6-10c8cf419f9e",
@@ -54449,7 +54490,7 @@
 	{
 		"title": "Doelzin 27A - Historische ontwikkelingen",
 		"description": "De leerling beschrijft historische ontwikkelingen aan de hand van gebeurtenissen, personen en voorwerpen.",
-		"prefix": "27A",
+		"prefix": "A",
 		"soort": "kerndoel",
 		"id": "19b4e82d-fb43-4a9c-8b61-4f0af0e7c7a5",
 		"fo_uitwerking_id": [
@@ -54476,7 +54517,7 @@
 	{
 		"title": "Doelzin 27B - Tijd",
 		"description": "De leerling redeneert over historische ontwikkelingen met gebruik van tijdsaanduidingen en bronnen.",
-		"prefix": "27B",
+		"prefix": "B",
 		"soort": "kerndoel",
 		"id": "618dc3de-1153-4581-b27b-770266a5a7be",
 		"fo_uitwerking_id": [
@@ -54501,7 +54542,7 @@
 	{
 		"title": "Doelzin 27C - Doorwerking van het verleden",
 		"description": "De leerling legt verbanden tussen historische ontwikkelingen en gebeurtenissen in het heden en verkent betekenissen die mensen geven aan het verleden.",
-		"prefix": "27C",
+		"prefix": "C",
 		"soort": "kerndoel",
 		"id": "def355b8-5e70-4304-bc35-883712cf12e8",
 		"fo_uitwerking_id": [
@@ -54527,7 +54568,7 @@
 	{
 		"title": "Doelzin 26A - Historische ontwikkelingen",
 		"description": "De leerling beschrijft historische ontwikkelingen aan de hand van gebeurtenissen, personen en voorwerpen.",
-		"prefix": "26A",
+		"prefix": "A",
 		"id": "f0fdc0ad-5197-4a11-b656-8933ea120a1b",
 		"fo_uitwerking_id": [
 			"94220231-8041-44db-aafd-2ca09a4f79ba",
@@ -54553,7 +54594,7 @@
 	{
 		"title": "Doelzin 26B - Tijd",
 		"description": "De leerling redendeert over historische ontwikkelingen met gebruik van tijdsaanduidingen en bronnen.",
-		"prefix": "26B",
+		"prefix": "B",
 		"id": "a92f83df-0125-4d2b-9259-ed4722493aaf",
 		"fo_uitwerking_id": [
 			"f2feee09-a284-46e5-95ac-f9d81dcffea8",
@@ -54578,7 +54619,7 @@
 	{
 		"title": "Doelzin 26C - Doorwerking van het verleden",
 		"description": "De leerling toont inzicht in verbanden tussen historische ontwikkelingen en ontwikkelingen in het heden en redeneert over betekenissen die mensen en groepen geven aan het verleden.",
-		"prefix": "26C",
+		"prefix": "C",
 		"id": "70273048-f10e-4404-ac1e-c89431c22106",
 		"fo_uitwerking_id": [
 			"3ef7baef-81e0-41ad-9281-9f66004a3c7c",
@@ -54606,7 +54647,7 @@
 	{
 		"title": "Doelzin 28A - Economische keuzes",
 		"description": "De leerling verkent economische keuzes van mensen en mogelijke gevolgen.",
-		"prefix": "28A",
+		"prefix": "A",
 		"soort": "kerndoel",
 		"id": "91052a6d-954b-45d3-af83-abf4d03d6e31",
 		"fo_uitwerking_id": [
@@ -54631,7 +54672,7 @@
 	{
 		"title": "Doelzin 28B - Invloed en macht",
 		"description": "De leerling verkent invloed en macht in de samenleving.",
-		"prefix": "28B",
+		"prefix": "B",
 		"soort": "kerndoel",
 		"id": "86ac64d8-af7b-46bc-8b7f-6aa177ae87c2",
 		"fo_uitwerking_id": [
@@ -54657,7 +54698,7 @@
 	{
 		"title": "Doelzin 28C - Diversiteit",
 		"description": "De leerling beschrijft hoe mensen omgaan met diversiteit in de samenleving.",
-		"prefix": "28C",
+		"prefix": "C",
 		"soort": "kerndoel",
 		"id": "fb2f11f7-71fb-4772-8f48-b998c90965a7",
 		"fo_uitwerking_id": [
@@ -54683,7 +54724,7 @@
 	{
 		"title": "Doelzin 28A - Samenleving",
 		"description": "De leerling beschrijft de samenleving als sociaal systeem.",
-		"prefix": "28A",
+		"prefix": "A",
 		"id": "2370471f-b18e-4246-a2c4-513995d241a1",
 		"fo_uitwerking_id": [
 			"b37cbb7f-3ac6-4383-b192-4bad119e95da",
@@ -54708,7 +54749,7 @@
 	{
 		"title": "Doelzin 27A -  Economische systemen",
 		"description": "De leerling toont begrip van de structuur en de werking van het Nederlandse economische systeem.",
-		"prefix": "27A",
+		"prefix": "A",
 		"id": "68928596-7d65-4172-a27c-d48074853558",
 		"fo_uitwerking_id": [
 			"5d31cc57-f18c-408a-9eef-20eddb69223f",
@@ -54736,7 +54777,7 @@
 	{
 		"title": "Doelzin 27B - Economische keuzes",
 		"description": "De leerling toont begrip van economische keuzes en beschrijft hun mogelijke gevolgen.",
-		"prefix": "27B",
+		"prefix": "B",
 		"id": "82364f34-2ff3-49cb-8083-214a44040d72",
 		"fo_uitwerking_id": [
 			"f89a69d6-2505-47cb-a020-c5816028750a",
@@ -54764,7 +54805,7 @@
 	{
 		"title": "Doelzin 28B - Invloed en macht",
 		"description": "De leerling toont inzicht in de werking en de gevolgen van invloed en macht in de samenleving.",
-		"prefix": "28B",
+		"prefix": "B",
 		"id": "35268334-3c97-4406-a6ad-92616000a4f9",
 		"fo_uitwerking_id": [
 			"798126aa-5af8-499f-8634-611972ae490d",
@@ -54790,7 +54831,7 @@
 	{
 		"title": "Doelzin 28C - Diversiteit",
 		"description": "De leerling toont inzicht in hoe mensen omgaan met diversiteit in de samenleving.",
-		"prefix": "28C",
+		"prefix": "C",
 		"id": "8c873507-9ac1-40ba-91c9-dab9dc4809db",
 		"fo_uitwerking_id": [
 			"f8803042-0d2c-483f-8ca6-0f6ffe0a4ea7",
@@ -54817,7 +54858,7 @@
 	{
 		"title": "Doelzin 28D - Sociale omgeving",
 		"description": "De school draagt bij aan de sociale en emotionele ontwikkeling van leerlingen en bevordert respectvolle omgang met anderen.",
-		"prefix": "28D",
+		"prefix": "D",
 		"soort": "kerndoel",
 		"id": "a637e0af-aac9-4a3b-a96d-fbd3de47bce6",
 		"fo_uitwerking_id": [
@@ -54843,7 +54884,7 @@
 	{
 		"title": "Doelzin 28E - Verkeer",
 		"description": "De leerling neemt op veilige en verantwoorde wijze deel aan het verkeer.",
-		"prefix": "28E",
+		"prefix": "E",
 		"soort": "kerndoel",
 		"id": "67a9f58f-3fe7-41b9-9c06-966fbc3d2f95",
 		"fo_uitwerking_id": [
@@ -54868,7 +54909,7 @@
 	{
 		"title": "Doelzin 28D - Sociale omgeving",
 		"description": "De school draagt bij aan de sociale en emotionele ontwikkeling van leerlingen en bevordert respectvolle omgang met anderen.",
-		"prefix": "28D",
+		"prefix": "D",
 		"id": "dd0bc998-c1f6-4f9f-8bd1-339ab208a2af",
 		"fo_uitwerking_id": [
 			"7665a5cf-802c-4b7c-b1e7-9493161a5690",
@@ -55297,7 +55338,7 @@
 	{
 		"title": "Doelzin 37A - Ervaringen met rijk taalaanbod",
 		"description": "De leerling doet ervaring op met een rijk aanbod aan bronnen in de […..]  taal op een passend beheersingsniveau.",
-		"prefix": "37A",
+		"prefix": "A",
 		"soort": "kerndoel",
 		"id": "d0cc45c7-d8d9-445c-b74b-1bf7c316cb1c",
 		"fo_uitwerking_id": [
@@ -55317,7 +55358,7 @@
 	{
 		"title": "Doelzin 37B - Creatieve expressie",
 		"description": "De leerling gebruikt de [...]  taal op een creatieve manier.",
-		"prefix": "37B",
+		"prefix": "B",
 		"soort": "kerndoel",
 		"id": "7c26f1ae-99a3-4f07-89f9-5008c15c83f7",
 		"fo_uitwerking_id": [
@@ -55345,7 +55386,7 @@
 	{
 		"title": "Doelzin 37C - Doelgerichte informatieverwerving (havo-vwo)",
 		"description": "De leerling verwerkt […]talige teksten mondeling en schriftelijk om tot kennisopbouw en begrip te komen.",
-		"prefix": "37C",
+		"prefix": "C",
 		"soort": "kerndoel",
 		"id": "aa09db61-2b33-491f-b6d8-d1cde87f2385",
 		"fo_uitwerking_id": [
@@ -55375,7 +55416,7 @@
 	{
 		"title": "Doelzin 38A - Kijk- en luistervaardigheid",
 		"description": "De leerling toont begrip van auditieve en audiovisuele […] talige teksten.",
-		"prefix": "38A",
+		"prefix": "A",
 		"soort": "kerndoel",
 		"id": "401560af-e903-4c87-8695-544e4507c394",
 		"fo_uitwerking_id": [
@@ -55406,7 +55447,7 @@
 	{
 		"title": "Doelzin 38B -  Leesvaardigheid",
 		"description": "De leerling toont begrip van schriftelijke […] talige teksten.",
-		"prefix": "38B",
+		"prefix": "B",
 		"soort": "kerndoel",
 		"id": "9226f588-7ff8-4fa2-9998-9022e3976dc6",
 		"fo_uitwerking_id": [
@@ -55436,7 +55477,7 @@
 	{
 		"title": "Doelzin 39A Taalleerproces en meertaligheid",
 		"description": "De leerling kiest passende aanpakken voor het leren van de doeltaal.",
-		"prefix": "39A",
+		"prefix": "A",
 		"soort": "kerndoel",
 		"id": "abf87eed-9279-42df-a391-304b9654b725",
 		"fo_uitwerking_id": [
@@ -55462,7 +55503,7 @@
 	{
 		"title": "Doelzin 39B - Culturele aspecten en culturele diversiteit",
 		"description": "De leerling verkent culturele aspecten en culturele diversiteit in fictie en non-fictie.",
-		"prefix": "39B",
+		"prefix": "B",
 		"soort": "kerndoel",
 		"id": "4939a1ee-c4ac-497e-8274-b53a34148d70",
 		"fo_uitwerking_id": [
@@ -55489,7 +55530,7 @@
 	{
 		"title": "Doelzin 39C - Interculturele communicatieve competentie",
 		"description": "De leerling gebruikt culturele kennis in interculturele communicatieve situaties.",
-		"prefix": "39C",
+		"prefix": "C",
 		"soort": "kerndoel",
 		"id": "3b35e270-151d-4ea0-878f-6924fa5d0bda",
 		"fo_uitwerking_id": [
@@ -55515,7 +55556,7 @@
 	{
 		"title": "Doelzin 40A - Creatieve maak- en denkstrategieën",
 		"description": "De leerling gebruikt creatieve maak- en denkstrategieën in een iteratief kunstzinnig proces en reflecteert op gemaakte keuzes.",
-		"prefix": "40A",
+		"prefix": "A",
 		"soort": "kerndoel",
 		"id": "06270727-29d3-4e82-a8fb-e93776234024",
 		"fo_uitwerking_id": [
@@ -55541,7 +55582,7 @@
 	{
 		"title": "Doelzin 40B - Ontwikkelen van creatieve vermogens",
 		"description": "De leerling onderzoekt het eigen artistiek creatief vermogen.",
-		"prefix": "40B",
+		"prefix": "B",
 		"soort": "kerndoel",
 		"id": "8c603236-e378-4fef-aa55-ebc645c3d91e",
 		"fo_uitwerking_id": [
@@ -55567,7 +55608,7 @@
 	{
 		"title": "Doelzin 40C - Betekenis geven",
 		"description": "De leerling  onderzoekt en waardeert betekenissen van kunst en cultuur.",
-		"prefix": "40C",
+		"prefix": "C",
 		"soort": "kerndoel",
 		"id": "ba9b2cf3-0c22-4036-9c3c-10e9d66b1534",
 		"fo_uitwerking_id": [
@@ -55593,7 +55634,7 @@
 	{
 		"title": "Doelzin 35A - Creatieve maak- en denkstrategieën",
 		"description": "De leerling gebruikt creatieve maak- en denkstrategieën in een iteratief kunstzinnig proces.",
-		"prefix": "35A",
+		"prefix": "A",
 		"soort": "kerndoel",
 		"id": "1f9b536e-7694-4af9-ba76-0ce8169a0807",
 		"fo_uitwerking_id": [
@@ -55619,7 +55660,7 @@
 	{
 		"title": "Doelzin 35B - Ontwikkelen van creatieve vermogens",
 		"description": "De leerling onderzoekt het eigen artistiek creatief vermogen.",
-		"prefix": "35B",
+		"prefix": "B",
 		"soort": "kerndoel",
 		"id": "ce8e1b23-5ab6-45e4-92b2-842ff64241d8",
 		"fo_uitwerking_id": [
@@ -55644,7 +55685,7 @@
 	{
 		"title": "Doelzin 35C - Betekenis geven",
 		"description": "De leerling  onderzoekt betekenissen van kunst en cultuur tijdens het maken en meemaken.",
-		"prefix": "35C",
+		"prefix": "C",
 		"soort": "kerndoel",
 		"id": "00165e38-a53b-4352-a998-a2fbbdbae395",
 		"fo_uitwerking_id": [
@@ -55670,7 +55711,7 @@
 	{
 		"title": "Doelzin 41A - Verbeelden en creëren",
 		"description": "De leerling drukt zich zowel individueel als in samenwerking met anderen, betekenisvol uit in vormen van kunst.",
-		"prefix": "41A",
+		"prefix": "A",
 		"soort": "kerndoel",
 		"id": "2b81b719-3f34-4d4d-8568-15b9f8b6d88c",
 		"fo_uitwerking_id": [
@@ -55696,7 +55737,7 @@
 	{
 		"title": "Doelzin 41B - Kunstzinnige technieken en vaardigheden",
 		"description": "De leerling kiest en gebruikt bekende en nieuwe technieken en vaardigheden bij het maken van individueel en gezamenlijk werk.",
-		"prefix": "41B",
+		"prefix": "B",
 		"soort": "kerndoel",
 		"id": "8bbb4157-b3c2-4ddd-8f6a-8eff5d753549",
 		"fo_uitwerking_id": [
@@ -55722,7 +55763,7 @@
 	{
 		"title": "Doelzin 36A - Verbeelden en creëren",
 		"description": "De leerling drukt zich individueel en samen met anderen uit in vormen van kunst.",
-		"prefix": "36A",
+		"prefix": "A",
 		"soort": "kerndoel",
 		"id": "96b892f6-2b8d-49b9-9e6d-06bce8f62749",
 		"fo_uitwerking_id": [
@@ -55748,7 +55789,7 @@
 	{
 		"title": "Doelzin 36B - Kunstzinnige technieken en vaardigheden",
 		"description": "De leerling gebruikt technieken en vaardigheden bij het maken van individueel en gezamenlijk werk.",
-		"prefix": "36B",
+		"prefix": "B",
 		"soort": "kerndoel",
 		"id": "86ef8df9-8725-45cf-95ad-9f509bfeec4f",
 		"fo_uitwerking_id": [
@@ -55774,7 +55815,7 @@
 	{
 		"title": "Doelzin 42A - Kunst en cultuur actief meemaken",
 		"description": "De leerling neemt deel aan diverse kunstzinnige en culturele activiteiten en toont inzicht in kunst- en cultuuruitingen.",
-		"prefix": "42A",
+		"prefix": "A",
 		"soort": "kerndoel",
 		"id": "7181a5e2-6363-413e-ac31-e517fed930b4",
 		"fo_uitwerking_id": [
@@ -55800,7 +55841,7 @@
 	{
 		"title": "Doelzin 42B - Kunst en cultuur in context",
 		"description": "De leerling onderzoekt de achtergrond van kunstzinnige en cultuurhistorische uitingen en de functie van kunst en cultuur op de samenleving.",
-		"prefix": "42B",
+		"prefix": "B",
 		"soort": "kerndoel",
 		"id": "8ae2f63a-5a52-442e-9dcc-d75bc80bae39",
 		"fo_uitwerking_id": [
@@ -55824,7 +55865,7 @@
 	{
 		"title": "Doelzin 37A - Kunst en cultuur actief meemaken",
 		"description": "De leerling neemt deel aan diverse kunstzinnige en culturele activiteiten en reflecteert op eigen ervaringen en die van anderen.",
-		"prefix": "37A",
+		"prefix": "A",
 		"soort": "kerndoel",
 		"id": "b5c9c819-2b30-4907-b1a7-5a43ee866f8d",
 		"fo_uitwerking_id": [
@@ -55850,7 +55891,7 @@
 	{
 		"title": "Doelzin 37B - Kunst en cultuur in context",
 		"description": "De leerling verkent het ontstaan van kunstzinnige en cultuurhistorische uitingen.",
-		"prefix": "37B",
+		"prefix": "B",
 		"soort": "kerndoel",
 		"id": "287afe74-873d-489b-8924-2242412e99c5",
 		"fo_uitwerking_id": [
@@ -55872,7 +55913,7 @@
 	{
 		"title": "Doelzin 43A - Deelnemen aan bewegen",
 		"description": "De leerling neemt deel aan beweegactiviteiten in uiteenlopende beweegthema's.",
-		"prefix": "43A",
+		"prefix": "A",
 		"soort": "kerndoel",
 		"id": "bc8cce30-61f7-46e1-ab99-74dd05e8b1f6",
 		"fo_uitwerking_id": [
@@ -55894,7 +55935,7 @@
 	{
 		"title": "Doelzin 43B - Verbeteren beweegvaardigheid",
 		"description": "De leerling verbetert de beweegvaardigheid.",
-		"prefix": "43B",
+		"prefix": "B",
 		"soort": "kerndoel",
 		"id": "301efd5f-b842-4621-a7d7-b725cca5b249",
 		"fo_uitwerking_id": [
@@ -55920,7 +55961,7 @@
 	{
 		"title": "Doelzin 38A - Deelnemen aan bewegen",
 		"description": "De leerling neemt deel aan beweegactiviteiten in uiteenlopende beweegthema's.",
-		"prefix": "38A",
+		"prefix": "A",
 		"soort": "kerndoel",
 		"id": "fda5b51c-508f-4424-a05c-764d1df54982",
 		"fo_uitwerking_id": [
@@ -55942,7 +55983,7 @@
 	{
 		"title": "Doelzin 38B - Verbeteren beweegvaardigheid",
 		"description": "De leerling verbetert de beweegvaardigheid.",
-		"prefix": "38B",
+		"prefix": "B",
 		"soort": "kerndoel",
 		"id": "68ed0633-b3f9-4a84-bb95-f73d004d89ff",
 		"fo_uitwerking_id": [
@@ -55968,7 +56009,7 @@
 	{
 		"title": "Doelzin 43C - Beweegactiviteit passend maken",
 		"description": "De leerling stemt beweegactiviteiten af op de eigen mogelijkheden.",
-		"prefix": "43C",
+		"prefix": "C",
 		"soort": "kerndoel",
 		"id": "65e08b92-4a0b-4f0e-a288-5f561b4b4b19",
 		"fo_uitwerking_id": [
@@ -55993,7 +56034,7 @@
 	{
 		"title": "Doelzin 38C - Beweegactiviteit passend maken",
 		"description": "De leerling stemt beweegactiviteiten af op de eigen mogelijkheden.",
-		"prefix": "38C",
+		"prefix": "C",
 		"soort": "kerndoel",
 		"id": "f54834d8-19b9-4b2d-9b89-9444c7144afb",
 		"fo_uitwerking_id": [
@@ -56018,7 +56059,7 @@
 	{
 		"title": "Doelzin 44A - Bewegen met anderen",
 		"description": "De leerling neemt verantwoordelijkheid voor het samen deelnemen aan beweegactiviteiten.",
-		"prefix": "44A",
+		"prefix": "A",
 		"soort": "kerndoel",
 		"id": "7a1c69a6-0d99-4d9a-8de1-1f48de7e3802",
 		"fo_uitwerking_id": [
@@ -56044,7 +56085,7 @@
 	{
 		"title": "Doelzin 44B - Bewegen regelen",
 		"description": "De leerling regelt beweegactiviteiten.",
-		"prefix": "44B",
+		"prefix": "B",
 		"soort": "kerndoel",
 		"id": "97060365-e7c2-4d0e-9f88-c7b515681b64",
 		"fo_uitwerking_id": [
@@ -56068,7 +56109,7 @@
 	{
 		"title": "Doelzin 39A - Bewegen met anderen",
 		"description": "De leerling neemt verantwoordelijkheid voor het samen deelnemen aan beweegactiviteiten.",
-		"prefix": "39A",
+		"prefix": "A",
 		"soort": "kerndoel",
 		"id": "ae7a4434-3e7e-440f-8702-a99f16ea87d4",
 		"fo_uitwerking_id": [
@@ -56094,7 +56135,7 @@
 	{
 		"title": "Doelzin 39B - Bewegen regelen",
 		"description": "De leerling regelt beweegactiviteiten.",
-		"prefix": "39B",
+		"prefix": "B",
 		"soort": "kerndoel",
 		"id": "7695a6a7-9227-4f52-93a2-bfdbc600c602",
 		"fo_uitwerking_id": [
@@ -56118,7 +56159,7 @@
 	{
 		"title": "Doelzin 45A - Oriënteren op beweegcontexten",
 		"description": "De leerling oriënteert zich op beweegcontexten.",
-		"prefix": "45A",
+		"prefix": "A",
 		"soort": "kerndoel",
 		"id": "bec40ddc-1326-4aba-8f2c-dc27a8eefe4c",
 		"fo_uitwerking_id": [
@@ -56144,7 +56185,7 @@
 	{
 		"title": "Doelzin 45B - Beweegidentiteit ontwikkelen",
 		"description": "De leerling onderzoekt welke vormen van bewegen passen bij eigen voorkeuren.",
-		"prefix": "45B",
+		"prefix": "B",
 		"soort": "kerndoel",
 		"id": "2d309801-3055-4d61-b698-4ae614000b23",
 		"fo_uitwerking_id": [
@@ -56170,7 +56211,7 @@
 	{
 		"title": "Doelzin 40A - Oriënteren op beweegcontexten",
 		"description": "De leerling oriënteert zich op beweegcontexten.",
-		"prefix": "40A",
+		"prefix": "A",
 		"soort": "kerndoel",
 		"id": "bcdab347-a472-4e56-af23-68e25f9c623d",
 		"fo_uitwerking_id": [
@@ -56196,7 +56237,7 @@
 	{
 		"title": "Doelzin 40 B - Beweegidentiteit ontwikkelen",
 		"description": "De leerling onderzoekt welke vormen van bewegen passen bij eigen voorkeuren.",
-		"prefix": "40B",
+		"prefix": "B",
 		"soort": "kerndoel",
 		"id": "d200c1c5-cce8-434e-add7-831c2ef28380",
 		"fo_uitwerking_id": [
@@ -56466,7 +56507,7 @@
 	{
 		"title": "Doelzin 25C - De omgeving van de school",
 		"description": "De leerling verkent de omgeving van de school vanuit geografische, historische, economische en sociale invalshoeken.",
-		"prefix": "25C",
+		"prefix": "C",
 		"soort": "kerndoel",
 		"status": "definitief concept",
 		"id": "e9813891-233a-4b52-a7d5-6adfd493d180",
@@ -56484,7 +56525,7 @@
 	{
 		"title": "Doelzin 24C - De omgeving van de school",
 		"description": "De leerling beschrijft de omgeving van de school vanuit geografische, historische, economische en sociale invalshoeken.",
-		"prefix": "24C",
+		"prefix": "C",
 		"soort": "kerndoel",
 		"status": "definitief concept",
 		"id": "c14538c7-03db-4ebb-abd2-e9ae0de6d894",
@@ -56502,7 +56543,7 @@
 	{
 		"title": "Doelzin 1A",
 		"description": "De school zorgt voor een Friestalige leer- en leesmaterialen.",
-		"prefix": "1A",
+		"prefix": "A",
 		"soort": "kerndoel",
 		"status": "definitief concept",
 		"id": "a0b34944-e4ef-4666-9409-11dc05bf18c7",
@@ -56520,7 +56561,7 @@
 	{
 		"title": "Doelzin 1B",
 		"description": "De school stimuleert de Friese taalontwikkeling van alle leerlingen.",
-		"prefix": "1B",
+		"prefix": "B",
 		"soort": "kerndoel",
 		"status": "definitief concept",
 		"id": "2db65d5c-0fd6-435d-a78b-6e8bc10e38de",
@@ -61332,7 +61373,7 @@
 	{
 		"title": "Doelzin 38C - Mondelinge communicatie",
 		"description": "De leerling voert gesprekken in de […] taal, afgestemd op doel, publiek en context.",
-		"prefix": "38C",
+		"prefix": "C",
 		"soort": "kerndoel",
 		"id": "8085e45b-2143-46f6-a13a-944f986271d0",
 		"fo_uitwerking_id": [
@@ -61364,7 +61405,7 @@
 	{
 		"title": "Doelzin 38D - Schriftelijke communicatie",
 		"description": "De leerling schrijft in de [...] taal, afgestemd op doel, publiek en context.",
-		"prefix": "38D",
+		"prefix": "D",
 		"soort": "kerndoel",
 		"id": "a32c4698-f059-41e8-9590-43e773763e73",
 		"fo_uitwerking_id": [
@@ -61393,6 +61434,1511 @@
 			"6d5f4cec-3ca7-491e-8e7f-ee89f236c329",
 			"53d43e53-20d5-4d8f-8d04-1dce3f1e7e1c",
 			"b4c6bafb-4497-42bf-a3b2-b4e8b9c6be34"
+		]
+	},
+	{
+		"title": "Eindterm 1",
+		"description": "De leerling werkt doelgericht aan praktijkgerichte opdrachten van en voor externe opdrachtgevers.",
+		"prefix": "1",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "b5d60436-2491-4816-af06-ef63c1c52d4f",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"51058d2a-9ab7-43a6-b795-e54f5641990e",
+			"a74a0692-9b9a-4d95-a2d5-6597f3418f79",
+			"274a8acb-5064-4ad4-b74e-3b14a464015d",
+			"a47126ad-c7f4-4cd8-b753-96c547f5532b"
+		]
+	},
+	{
+		"title": "Eindterm 2",
+		"description": "De leerling communiceert met externe opdrachtgevers bij het uitvoeren van praktijkgerichte opdrachten.",
+		"prefix": "2",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "dc772ed6-0a6d-4499-b243-6194a1dd7d53",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"e807ccae-09f7-4070-ae00-989ef0c8329d",
+			"7f32af46-7f87-40f2-8f5d-25574ebc32d6",
+			"288e08b9-1170-4615-9bb6-336fa0590706"
+		]
+	},
+	{
+		"title": "Eindterm 3",
+		"description": "De leerling houdt rekening met de context van externe opdrachtgevers bij het werken aan praktijkgerichte opdrachten.",
+		"prefix": "3",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "24d266ab-6843-40b1-aea6-56001e3ebf5a",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"c1b3d303-1fd9-4343-8eff-12fbe52372cf",
+			"97ebb47a-65a3-452a-8aed-7acc4f3fca37",
+			"f9a55cb6-9a2c-4705-844a-ccbcb5eb2fbc"
+		]
+	},
+	{
+		"title": "Eindterm 4",
+		"description": "De leerling ontwikkelt eigen interesses door middel van ervaringen met externe opdrachtgevers.",
+		"prefix": "4",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "b8140204-73f8-4a1f-bfae-794312aeee0e",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"7f08f7ed-33f8-4b07-87f1-dbdddbbee6ab",
+			"5febaa10-a6bc-4502-b865-e38ab2b0f5a0",
+			"1f3687a5-a55b-47a1-9fcc-6b89a805d227",
+			"fa56b0dc-176c-4eff-8875-beec5730cec2",
+			"e1fa193a-ba77-4710-8298-02cf072c2e9a"
+		]
+	},
+	{
+		"title": "Eindterm 5",
+		"description": "De leerling ontwikkelt eigen kwaliteiten door het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.",
+		"prefix": "5",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "a430ed88-82c5-4994-b911-cfa688066020",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"dfce36b1-53ec-49ea-aa1c-d2c55a0a7611",
+			"d358c027-34b5-40d4-bef8-16335e1e2dca",
+			"1f627c79-a693-4c66-bc9f-82f66f8cd3b9",
+			"854c74eb-d43d-49db-875d-00b4bb6bd0de",
+			"6ecadb05-a214-400a-a347-ea9fa017ba3c"
+		]
+	},
+	{
+		"title": "Eindterm 6",
+		"description": "De leerling gaat passend om met mensen en situaties tijdens het uitvoeren van praktijkgerichte opdrachten van en voor externe opdrachtgevers.",
+		"prefix": "6",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "6aa3dc3a-4efe-4315-bcd0-ea26d2e89b99",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"607d6d1f-8480-47b3-a325-40907b33a86e",
+			"6e294f23-e4c0-4ab2-9273-a2bd1dd22858",
+			"afd92989-aa10-4dd4-a1c4-393aa0113c5d",
+			"fa8c5a6c-2243-4f1b-bbd6-a835d114fbfb"
+		]
+	},
+	{
+		"title": "Eindterm 7",
+		"description": "De leerling werkt samen aan het realiseren van een gemeenschappelijk doel tijdens het uitvoeren van praktijkgerichte opdrachten van en voor externe opdrachtgevers.",
+		"prefix": "7",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "ef899dfb-c28d-487b-abe2-d018aa44c829",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"ccaf6ef6-309e-4a13-8bb6-b0e6ff6c92a3",
+			"98a987c0-8430-4028-91c4-652951efe872",
+			"83b6e5a0-cf53-45f5-8ff7-7bc679497445",
+			"0eece5b2-32c7-4180-91ce-ff680ddcffa6"
+		]
+	},
+	{
+		"title": "Eindterm 8",
+		"description": "De leerling gebruikt doelgericht taalvaardigheden tijdens het uitvoeren van praktijkgerichte opdrachten van en voor externe opdrachtgevers.",
+		"prefix": "8",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "9aa4d398-8ddc-4d26-a06c-f27689573c7b",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"a2a5abbb-8b57-4068-982d-e6725b068c58",
+			"f07cd147-962a-4942-a037-08b85105592b",
+			"58a97943-3583-4ba9-ab94-56e153d4d8b4",
+			"38e24ed2-32cb-4e36-87b8-e144ecda1e89"
+		]
+	},
+	{
+		"title": "Eindterm 9",
+		"description": "De leerling verwerft, verwerkt en deelt informatie tijdens het uitvoeren van praktijkgerichte opdrachten van en voor externe opdrachtgevers.",
+		"prefix": "9",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "0b036b74-2ffe-4f5c-be59-9e7f6d3a2514",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"596f017f-5207-4899-a2ab-66dd776cd64f",
+			"c3526162-d3b8-48d2-a6d3-2d6c26b13606",
+			"7ef74165-1157-44a7-9324-db9335ea3834",
+			"88d9906e-384a-4010-9677-128e2693c708",
+			"d27a1468-da76-40a5-b186-ee00de66edea"
+		]
+	},
+	{
+		"title": "Eindterm 10",
+		"description": "De leerling gebruikt doelgericht reken- en wiskundige vaardigheden tijdens het uitvoeren van praktijkgerichte opdrachten van en voor externe opdrachtgevers.",
+		"prefix": "10",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "631fb016-65df-4028-9dd2-581d184f73ab",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"494c5030-e4db-48ed-9bfd-17a1ca0a3124",
+			"085f6de9-5c05-4ce2-9c08-d82999c89a1d"
+		]
+	},
+	{
+		"title": "Eindterm 11",
+		"description": "De leerling gebruikt op een verantwoorde manier digitale technologie tijdens het uitvoeren van praktijkgerichte opdrachten van en voor externe opdrachtgevers.",
+		"prefix": "11",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "9761c932-04d3-4199-a254-558dd6e44597",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"47cbc9eb-7057-44bf-bed8-10543bf174c9",
+			"96a430e9-29cc-4fde-aa24-f4c7f58ea8f8",
+			"60313573-3a30-4b10-92a0-0327fa4f8038"
+		]
+	},
+	{
+		"title": "Eindterm 12",
+		"description": "De leerling gebruikt analytische denkvaardigheden om tot een oplossing te komen tijdens het uitvoeren van praktijkgerichte opdrachten van en voor externe opdrachtgevers.",
+		"prefix": "12",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "f1ab7053-4dd1-4676-ae9b-95199be02d14",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"7796af9a-7200-44fe-ae9f-969f923959d9",
+			"d5e10288-0e86-478a-b5af-ecfa29ce2895",
+			"98093e9c-a56c-4973-9a53-c2db57c52443",
+			"eefb22c7-1115-4af3-ae1b-2aaed8767fe4",
+			"966abf75-35e7-4597-9c63-dc3bb1a7222f"
+		]
+	},
+	{
+		"title": "Eindterm 13",
+		"description": "De leerling gebruikt kritische denkvaardigheden om tot een besluit te komen tijdens het uitvoeren van praktijkgerichte opdrachten van en voor externe opdrachtgevers.",
+		"prefix": "13",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "797c8453-f8cb-4bd3-ab4c-ec3c6fe2292c",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"8986e1d8-4bd8-452f-9193-c597c222fd00",
+			"cfd61709-c0ab-44c7-bd17-212d89787573",
+			"72ff09c7-a12d-4864-a5d5-29d8188570ef"
+		]
+	},
+	{
+		"title": "Eindterm 14",
+		"description": "De leerling gebruikt creatieve denk- en maakstrategieën om tot nieuwe ideeën te komen tijdens het uitvoeren van praktijkgerichte opdrachten van en voor externe opdrachtgevers.",
+		"prefix": "14",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "2cfd8f47-44fd-4304-a47f-580ea9b176be",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"f78568ae-76cd-43b4-812d-db1ee9edbdc1",
+			"6f4f22ce-8bc4-42af-9074-4d7a2b68bbb9",
+			"a0ded768-b92a-433e-a287-0e2524481afa"
+		]
+	},
+	{
+		"title": "Eindterm 15",
+		"description": "De leerling oriënteert zich op verschillende werkvelden tijdens het uitvoeren van praktijkgerichte opdrachten van en voor externe opdrachtgevers.",
+		"prefix": "15",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "4e1cc882-180c-4cc8-8897-1b3d517b2155",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"16a06ed5-0ace-4843-8334-4f21829a1976",
+			"3a583fe2-c25a-438e-b3c8-e58233af3002",
+			"f04e2624-967f-4ad1-ac06-addb55de7280",
+			"f30d925d-5b37-45f4-a84f-c3633b918a17",
+			"4150c8f8-67c2-4060-b191-4ada0c89c4af",
+			"4d7f0485-1ab3-47df-bca3-0dc3700b44c4"
+		]
+	},
+	{
+		"title": "Keuze eindterm 16",
+		"description": "De leerling ontwikkelt een dienst op basis van onderzoek.",
+		"prefix": "16",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "f53c72bb-5cd6-462a-9819-084ecf5fc1ac",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"329042d6-699f-4731-a6d8-99bc987557cd",
+			"ae5b1bc1-2501-4990-aab9-a4cf0d9fd919",
+			"54af4255-7b15-4af8-bbb9-c1fcfbe970d4",
+			"0aeab53c-64e9-47e3-b856-9f60774f4cdd"
+		]
+	},
+	{
+		"title": "Keuze eindterm 17",
+		"description": "De leerling ontwerpt een product voor een maatschappelijk vraagstuk.",
+		"prefix": "17",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "f1967b28-a875-4a2a-b053-86d62ae8a2d2",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"b7809dd4-4b86-447c-835f-766da9993cfd",
+			"ea0008b8-3618-43d7-8c44-4eff1a8159d6",
+			"e6fd8c04-b149-4723-a81e-af898ec68735",
+			"54e322e3-7872-4e3f-b027-903d2877ef8e",
+			"0c8e1553-3040-4d6b-b906-c138adcb9443"
+		]
+	},
+	{
+		"title": "Keuze eindterm 18",
+		"description": "De leerling verbetert een proces op basis van onderzoek.",
+		"prefix": "18",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "e2c3c32e-af0a-421a-aebc-4dbb2f43da1c",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"2a6b1006-3233-4192-8d0a-645ad53d5b31",
+			"084f1c7e-796e-4e91-8888-aeb371e7784c",
+			"b0fabd5d-158e-4ea2-aae1-247e929bea19",
+			"08043a3b-e4a8-4923-870b-a6eea78f4fc9"
+		]
+	},
+	{
+		"title": "Eindterm 19",
+		"description": "De leerling onderzoekt een vraagstuk aan de hand van een onderoeksvraag.",
+		"prefix": "19",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "d1ff7640-7b19-436f-aa69-3eec44b0b4a1",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"97ce6f71-ae47-4fff-93f5-67e8394f8501",
+			"0a3b6670-8f83-4a9b-90dd-fb564852aa6f",
+			"4eaaf48b-dbe7-4ba4-a60e-dfae2f319a6f",
+			"13e236d4-5bdb-492d-87f7-cc5d12ea2bbd",
+			"17657420-ffa0-4500-b01d-1975bcd9bf3f"
+		]
+	},
+	{
+		"title": "Eindterm 20",
+		"description": "De leerling bevraagt een expert bij het realiseren van praktijkgerichte opdrachten.",
+		"prefix": "20",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "51f75f65-b04b-4718-88fd-778662066147",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"6cf95b5b-9ccc-414e-ad02-23672e3a26ee",
+			"bcadd398-8565-498a-82ce-833a2a01fdb4",
+			"732e7639-b891-477f-a9bb-efb07ba3582d",
+			"a0eb7719-bf03-475a-9e24-136555a1cefb"
+		]
+	},
+	{
+		"title": "Eindterm 21",
+		"description": "De leerling gebruikt kennis over het menselijk gedrag bij de omgang met anderen.",
+		"prefix": "21",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "ca1d4634-a8b2-47f8-be45-48c6b7562105",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"18a6830f-d71d-4056-acb6-21e65df7404c",
+			"1b22c979-5fad-4abd-938b-0e788af19308",
+			"3f83d82a-7066-48ce-905c-e958015f3192"
+		]
+	},
+	{
+		"title": "Eindterm 22",
+		"description": "De leerling betrekt wet- en regelgeving bij het werken aan praktijkgerichte opdrachten.",
+		"prefix": "22",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "682ff907-f1b5-45e1-9531-a13288f8ff37",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"85a43748-4096-4951-8000-aeac01ce2740",
+			"360fcd54-3f65-4257-bc3d-bfd9cb8f682b"
+		]
+	},
+	{
+		"title": "Eindterm 23",
+		"description": "De leerling verwoordt waarden over duurzame ontwikkelingsdoelen voor zichzelf, de samenleving en de wereld.",
+		"prefix": "23",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "ff2e6a02-30ea-424e-88f3-13b4c9c40039",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"88d27d92-ee5a-43a5-89d1-df394a7b9215",
+			"3833cb79-6605-4e79-974e-4b391c306070",
+			"dc5d9530-3280-4114-af79-9920e189dd28",
+			"3dad2e68-592a-4dd4-87c0-887147abb6e2",
+			"48d9d5fa-cda9-4885-b9c6-da04e6f2c917",
+			"20721f47-2a71-49d5-905f-582695671355",
+			"8e138742-b703-4929-8a28-46a9015ddbde",
+			"3d177ea1-a1df-48fa-a933-6f3e4c88c7f3",
+			"13dbc1d4-bf7c-4a2e-82d8-63ceffaeaafe",
+			"451edb0c-e0e8-4ac6-9e45-30bf7755d23e"
+		]
+	},
+	{
+		"title": "Eindterm 1",
+		"description": "De leerling werkt doelgericht aan praktijkgerichte opdrachten van en voor externe opdrachtgevers.",
+		"prefix": "1",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "60aad7dd-cbd2-4915-be16-7343c1bd1a4a",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"d4570412-b0cc-4338-bf3b-da6a2f2a472a",
+			"c168c6cb-4138-4a78-b914-968e3446d0e5",
+			"add82ad2-d233-4bdf-a7eb-3087d1a401c1",
+			"61f91f42-e25e-4468-9f07-fa2ccfd423eb"
+		]
+	},
+	{
+		"title": "Eindterm 2",
+		"description": "De leerling communiceert met externe opdrachtgevers bij het uitvoeren van praktijkgerichte opdrachten.",
+		"prefix": "2",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "ed8eebe8-c65f-40f7-b4cd-09dd89c16232",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"567103d5-7673-47c3-a09e-18af1bede619",
+			"47bec808-7c31-40c1-be84-641eeb373e58",
+			"d80f6da0-a975-458f-8383-99559ef59cc7"
+		]
+	},
+	{
+		"title": "Eindterm 3",
+		"description": "De leerling houdt rekening met de context van externe opdrachtgevers bij het werken aan praktijkgerichte opdrachten.",
+		"prefix": "3",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "53e30b99-786c-4e14-83dd-fe29ab2053c9",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"2deac08f-7f2f-40d8-aa2c-724034319b84",
+			"f81d3b10-336e-4884-9dab-2ecc4518ca96",
+			"945c14f6-8a04-439f-b7ec-ffcdbcdba949"
+		]
+	},
+	{
+		"title": "Eindterm 4",
+		"description": "De leerling ontwikkelt eigen interesses door middel van ervaringen met externe opdrachtgevers.",
+		"prefix": "4",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "459e37f8-bd3f-4df5-8407-1a79d0257b0f",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"f92039c6-86cd-4d99-9d53-3c4538e7eeaf",
+			"8dd525c8-e476-4015-a590-92cc4498e993",
+			"a8bb6b58-025a-4d80-9c1d-a0b053e8f650",
+			"ee7f3756-1890-4b38-bc3e-8384bb6151af",
+			"903f9c14-75d5-4f3e-bc17-ae1d63e89a77"
+		]
+	},
+	{
+		"title": "Eindterm 5",
+		"description": "De leerling ontwikkelt eigen kwaliteiten door het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.",
+		"prefix": "5",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "3daffded-4faa-4964-8724-1362c7522688",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"4cf16ae0-a649-40d4-80f3-aac18c602100",
+			"a79d71e7-d0b1-49a7-9602-e2c913e7a12a",
+			"c45784c7-70bf-42cb-96e2-e5ad0315d069",
+			"dff6c53d-9839-490e-b2e2-21c13032a229",
+			"c6691a56-ad06-45df-9584-4f8145fc5136"
+		]
+	},
+	{
+		"title": "Eindterm 6",
+		"description": "De leerling gaat passend om met mensen en situaties tijdens het uitvoeren van praktijkgerichte opdrachten van en voor externe opdrachtgevers.",
+		"prefix": "6",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "c54aafcf-ef66-4904-b8a6-f0e3172590d3",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"aa117367-ceee-4d5a-8d23-8939907cf0c4",
+			"eeed35bf-8307-4a8e-9270-64aca075160c",
+			"d5efb9a3-b991-43f9-8bad-f5cd796d0eee",
+			"e6af3fe3-8440-4165-b7a3-c0790eb8e546"
+		]
+	},
+	{
+		"title": "Eindterm 7",
+		"description": "De leerling werkt samen aan het realiseren van een gemeenschappelijk doel tijdens het uitvoeren van praktijkgerichte opdrachten van en voor externe opdrachtgevers.",
+		"prefix": "7",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "4b737ab2-ac27-4470-af09-5e7175672e3d",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"788f09b4-c443-47bb-b711-0b70bae0b467",
+			"fdd9d17a-5ce9-4c84-accf-a0a1176c57c0",
+			"96aa2f59-f65b-4e04-8e8e-d4a0fc5d744d",
+			"0011e84e-b724-49a1-b1e4-c5f924ba5fd2"
+		]
+	},
+	{
+		"title": "Eindterm 8",
+		"description": "De leerling gebruikt doelgericht taalvaardigheden tijdens het uitvoeren van praktijkgerichte opdrachten van en voor externe opdrachtgevers.",
+		"prefix": "8",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "826212c5-7864-4852-b125-688bf9d92f86",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"60b755f2-9195-4269-8599-e2f1544adc2e",
+			"650df3d1-7f01-4aee-a2af-7ec09a1218e4",
+			"2184ebdb-393f-4fb2-9b01-d6b68a6eb327",
+			"1e6b26ba-8dd9-4eff-8187-7ae5b7afec08"
+		]
+	},
+	{
+		"title": "Eindterm 9",
+		"description": "De leerling verwerft, verwerkt en deelt informatie tijdens het uitvoeren van praktijkgerichte opdrachten van en voor externe opdrachtgevers.",
+		"prefix": "9",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "9c46fd78-21a4-4d88-827c-8b137595932f",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"0a78323d-e127-42f3-9a92-efc41a8fb55b",
+			"dd52218b-6134-417d-9f46-01129dd490c3",
+			"f083f1f7-5617-482a-ba4f-238aec61955e",
+			"1012abf9-3e5a-4ab1-a91d-226b8bc8201a",
+			"bd6778af-23ef-4124-85ab-9fcedaaedcfa"
+		]
+	},
+	{
+		"title": "Eindterm 10",
+		"description": "De leerling gebruikt doelgericht reken- en wiskundige vaardigheden tijdens het uitvoeren van praktijkgerichte opdrachten van en voor externe opdrachtgevers.",
+		"prefix": "10",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "a8d30efa-e473-4b13-b677-60388617195b",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"f4f775e9-7869-48dd-a861-164054a2d009",
+			"f341202b-02aa-4d65-b2a2-507dd5b10e96"
+		]
+	},
+	{
+		"title": "Eindterm 11",
+		"description": "De leerling gebruikt op een verantwoorde manier digitale technologie tijdens het uitvoeren van praktijkgerichte opdrachten van en voor externe opdrachtgevers.",
+		"prefix": "11",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "22ff0f3b-9c9c-4ed3-8c4c-89451a3c3654",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"5df30217-fd5c-4bc4-992a-a0c8abd03c2b",
+			"73acf413-d1eb-47a1-b61b-db61b2969fe5",
+			"86110c1d-4965-4f47-a8e1-320e3513d2a1"
+		]
+	},
+	{
+		"title": "Eindterm 12",
+		"description": "De leerling gebruikt analytische denkvaardigheden om tot een oplossing te komen tijdens het uitvoeren van praktijkgerichte opdrachten van en voor externe opdrachtgevers.",
+		"prefix": "12",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "8d724512-f436-4cc6-9612-85eb96e3f70d",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"00fa61cd-3cb9-437c-a5ce-ba321ea9d53f",
+			"45c310ad-33f9-44b9-8716-08e7ef3786db",
+			"e6f1ba63-f765-4076-98e4-48c51a2b3ebf",
+			"14d84f52-c830-47ef-ad89-f00c7bcb7ee6",
+			"e6e01559-3f9b-42b0-845e-9e8159f03f7f"
+		]
+	},
+	{
+		"title": "Eindterm 13",
+		"description": "De leerling gebruikt kritische denkvaardigheden om tot een besluit te komen tijdens het uitvoeren van praktijkgerichte opdrachten van en voor externe opdrachtgevers.",
+		"prefix": "13",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "26e9e916-88da-4a14-9276-c69a9ef6b3d4",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"fc86cefc-7742-49be-bad4-9eb0a6fd876e",
+			"1e552bd9-eb36-4490-afdc-868582f3e75e",
+			"f041f460-368a-40e3-a44d-2834832569ed"
+		]
+	},
+	{
+		"title": "Eindterm 14",
+		"description": "De leerling gebruikt creatieve denk- en maakstrategieën om tot nieuwe ideeën te komen tijdens het uitvoeren van praktijkgerichte opdrachten van en voor externe opdrachtgevers.",
+		"prefix": "14",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "f7ada538-5240-41e3-9a56-893663db787a",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"1cc77c89-c450-4c46-8346-2b2591cd4109",
+			"3858fc46-cf2d-41f3-acd7-3048dce73d28",
+			"50e6a5cc-9e2c-4e6a-8b48-59ed20027c88"
+		]
+	},
+	{
+		"title": "Eindterm 15",
+		"description": "De leerling oriënteert zich op verschillende werkvelden tijdens het uitvoeren van praktijkgerichte opdrachten van en voor externe opdrachtgevers.",
+		"prefix": "15",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "7d4dfb8c-b97b-433d-bb17-6a74a9226f15",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"4b7e3475-d197-4495-8be5-deece10abb89",
+			"b89de7cf-39ba-4902-84de-dcfd273ab31a",
+			"4e801ba8-3b58-4b6b-9406-78dfa5191ceb",
+			"012ff27a-a3f6-4120-bea1-959dd7c0bd8c",
+			"92842927-0bc1-45c8-970e-54e6f1fefc66",
+			"56229a4b-aaa5-44e3-ac45-9f9307036842"
+		]
+	},
+	{
+		"title": "Keuze eindterm 16",
+		"description": "De leerling ontwikkelt een dienst op basis van onderzoek.",
+		"prefix": "16",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "dede2f4a-0833-40ee-a959-9bc171ccbe66",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"56303715-9643-4be0-bc5b-c44b9d4b80a3",
+			"18ec91fd-4099-4059-8e9d-befc84d0f447",
+			"56589496-23cc-4408-a767-6d69c0fbb163",
+			"c5084d22-c4dd-4a93-b5fd-bec1ccbd5562"
+		]
+	},
+	{
+		"title": "Keuze eindterm 17",
+		"description": "De leerling ontwerpt een product voor een maatschappelijk vraagstuk.",
+		"prefix": "17",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "8d7c53b0-119f-4c6b-9948-3d6bd1849282",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"a8d14381-0ec3-4207-95a4-a319a01919db",
+			"fe87e3d5-d96b-4c88-8d34-8549317cee27",
+			"385c2d7c-0637-47af-918b-7267899e23c5",
+			"b5eff71b-9353-414a-96c5-d106760704ac",
+			"596896a7-4b4d-47d4-bc03-7affb408364b"
+		]
+	},
+	{
+		"title": "Keuze eindterm 18",
+		"description": "De leerling verbetert een proces op basis van onderzoek.",
+		"prefix": "18",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "9b60c99b-8b0b-4bb3-8c42-3f52ee5ff99c",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"520eb284-92ef-4ed6-9f49-193959413922",
+			"6c116c36-6810-4617-be13-5df88c469f0c",
+			"9367830a-0dae-4933-bd15-4a56e2f0df17",
+			"003ba1f4-5221-484a-a64a-ba498d62fe62"
+		]
+	},
+	{
+		"title": "Eindterm 19",
+		"description": "De leerling schrijft aan de hand een onderzoeksvraag een voorstel voor een onderzoeksplan.",
+		"prefix": "19",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "5cc13084-afa7-4999-93c4-a89ceadbc152",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"a92803b1-d1d7-44f9-8f47-f973458696df",
+			"f4954a26-3205-4e12-9649-053068871e7d",
+			"76ad872c-5c39-4941-9303-71b43a99b2f4",
+			"c8a9d176-ec6a-47c8-94d7-e35c0b7e16b1",
+			"0e9076ec-fe94-4ab5-8a01-df96d03b6ca2"
+		]
+	},
+	{
+		"title": "Eindterm 20",
+		"description": "De leerling onderzoekt een vraagstuk aan de hand van een onderzoeksvraag.",
+		"prefix": "20",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "04edf558-f429-4348-b0ad-44e2684eae17",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"51b33dc8-abf9-4f97-98fd-4007124fd4a9",
+			"397fbd08-d272-4cea-a752-299b7c16f8a9",
+			"b91711d6-47c0-4abc-bf2a-d94495b7d5db",
+			"a23ab831-a9e0-4b59-b1e1-61fc8c41b3b9"
+		]
+	},
+	{
+		"title": "Eindterm 21",
+		"description": "De leerling bevraagt een expert bij het realiseren van praktijkgerichte opdrachten.",
+		"prefix": "21",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "19542b00-c8d6-4231-b886-aa11bef5a209",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"1b814520-1d98-43a6-860e-3a3296cab492",
+			"357879ba-3741-4019-a311-f12a4c800af1",
+			"ee09cf4f-907d-4ef1-b371-00fa3b0d96dc",
+			"223a487d-0193-48d1-9134-9e7a8ce4ce3f"
+		]
+	},
+	{
+		"title": "Eindterm 22",
+		"description": "De leerling gebruikt kennis over het menselijk gedrag bij de omgang met anderen.",
+		"prefix": "22",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "df8c8a9e-0741-40df-b606-9b8c137df991",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"7d793128-a23d-426b-ac1a-9ca4ec575efd",
+			"1a64c527-a50e-4024-aab0-fdb12e91265c",
+			"ab038150-89e1-4e95-96b3-4afe28055da2"
+		]
+	},
+	{
+		"title": "Eindterm 23",
+		"description": "De leerling betrekt wet- en regelgeving bij het werken aan praktijkgerichte opdrachten.",
+		"prefix": "23",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "5d35c7fb-927e-42ff-ad0b-9fab090643ba",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"db331348-67af-4122-b1d3-44dae0682988",
+			"12de5309-3e95-4b38-99b1-c23291f68d80"
+		]
+	},
+	{
+		"title": "Eindterm 24",
+		"description": "De leerling verwoordt waarden over duurzame ontwikkelingsdoelen voor zichzelf, de samenleving en de wereld.",
+		"prefix": "24",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "af3e4a22-4cb5-48e5-a015-ddaa8c278cc2",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"41a4ae3d-134c-4d05-9688-48f508bd5aa2",
+			"70e7ff51-db08-44e6-ae4e-d955de024a46",
+			"6e24fe90-8979-4c7f-9fb0-708ad948d7ad",
+			"1ae755ff-c64d-43e3-ac99-8c39fe9a831b",
+			"1319227e-3e16-4056-8460-47285e85d401",
+			"7641afb3-40bf-49d0-8bcd-fb3cc59a441b",
+			"361290fd-2a37-426b-8f89-2110f4440202",
+			"f608ab31-36cd-4221-9b49-34f29b45ff2a",
+			"8c6e76f4-efb8-4ce7-bc7a-f56a7e710717",
+			"c97bb85d-6036-4db7-bb8f-86b5745c4479"
+		]
+	},
+	{
+		"title": "Eindterm 1",
+		"description": "De leerling werkt doelgericht aan praktijkgerichte opdrachten van en voor externe opdrachtgevers.",
+		"prefix": "1",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "823128a9-1520-4524-968c-34cd66cbe8db",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"4bc303b3-700a-4086-b1f6-977b9f912180",
+			"cbcdf0e2-a1b1-4467-8faa-a96c4dd3c56a",
+			"79444be2-0d7a-4322-830f-6dac8c7df0ca",
+			"7b998512-5145-4279-80c2-73651f5fcbcf"
+		]
+	},
+	{
+		"title": "Eindterm 2",
+		"description": "De leerling communiceert met externe opdrachtgevers bij het uitvoeren van praktijkgerichte opdrachten.",
+		"prefix": "2",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "701cbedc-f934-4c46-9743-265b710e9597",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"d66b2b6c-c760-446d-8e36-2ff61765b454",
+			"b8644fc0-ac0e-41ff-9ed6-ad666eefc098",
+			"28d8dafe-a49c-4d1e-bafe-0630756f5142"
+		]
+	},
+	{
+		"title": "Eindterm 3",
+		"description": "De leerling houdt rekening met de context van externe opdrachtgevers bij het werken aan praktijkgerichte opdrachten.",
+		"prefix": "3",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "207cc7b5-204a-43db-92b0-2f4373e4dbb2",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"b453dca9-9968-47ca-9096-f3c024847d73",
+			"3f561ec1-a3b9-4184-9bf0-cf49e2813f60",
+			"14b9ced0-128c-44df-813f-d084f1a3a66a"
+		]
+	},
+	{
+		"title": "Eindterm 4",
+		"description": "De leerling ontwikkelt eigen interesses door middel van ervaringen met externe opdrachtgevers.",
+		"prefix": "4",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "dd28fc20-0b39-4d24-9f55-a0975595776d",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"ab0c2465-ce4b-4777-a0e0-ef6b0c109546",
+			"36a484e6-f249-4e25-bcbf-22c1312b817b",
+			"b06c85d8-f084-4bda-a51e-b0993ad741c9",
+			"563610f5-ca2b-4a45-a3cb-2d8c6db79ad8",
+			"8e5bd070-6f97-4328-beeb-791787353e6c"
+		]
+	},
+	{
+		"title": "Eindterm 5",
+		"description": "De leerling ontwikkelt eigen kwaliteiten door het uitvoeren van praktijkgerichte opdrachten voor externe opdrachtgevers.",
+		"prefix": "5",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "11f4ab1d-c8b0-4486-b40b-99028ccaa0f0",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"9964485e-2f89-452f-ab78-af7daaf68805",
+			"5217548b-1186-4da8-8fde-6e3c7cdcd0dc",
+			"5dc29acd-9174-4a11-9d29-10c4ca0270e2",
+			"5428c6c6-f5eb-41db-b3e9-aadf55cf49db",
+			"77d1915f-0a07-431e-844c-f5a2189286d1"
+		]
+	},
+	{
+		"title": "Eindterm 6",
+		"description": "De leerling gaat passend om met mensen en situaties tijdens het uitvoeren van praktijkgerichte opdrachten van en voor externe opdrachtgevers.",
+		"prefix": "6",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "2816024f-cf53-40f5-8874-5529f991abb9",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"c1dfbc2f-45e1-438b-a323-b1d1379061d3",
+			"b8776324-d03d-4dbc-997d-4b04f9263404",
+			"b26de921-d658-41dc-8998-b08fdf03391e",
+			"003d6da2-0a23-43fb-9dd1-9b25211abe25"
+		]
+	},
+	{
+		"title": "Eindterm 7",
+		"description": "De leerling werkt samen aan het realiseren van een gemeenschappelijk doel tijdens het uitvoeren van praktijkgerichte opdrachten van en voor externe opdrachtgevers.",
+		"prefix": "7",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "e25cfed3-fc38-444b-acc7-659ab46c1cbf",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"b3ca8aa8-6d4b-4753-8319-b0ddf6d9ddcd",
+			"62a1e7cc-48a2-408a-953c-bdc50ddaba61",
+			"8207de47-8ecb-4cdc-871f-863483cd74ed",
+			"02fcf854-dc14-432b-84a7-34d3f9432968"
+		]
+	},
+	{
+		"title": "Eindterm 8",
+		"description": "De leerling gebruikt doelgericht taalvaardigheden tijdens het uitvoeren van praktijkgerichte opdrachten van en voor externe opdrachtgevers.",
+		"prefix": "8",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "0d19c17e-911d-4764-910c-059b2323195b",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"65e402a1-b58c-4a95-9be5-f0156a40e563",
+			"274addd3-9534-49e1-a94b-2c30946dca36",
+			"8c8f930b-d410-4a51-9f3d-df804eb48add",
+			"6edde872-f1a2-4b08-9ee3-c3bb69c81f5e"
+		]
+	},
+	{
+		"title": "Eindterm 9",
+		"description": "De leerling verwerft, verwerkt en deelt informatie tijdens het uitvoeren van praktijkgerichte opdrachten van en voor externe opdrachtgevers.",
+		"prefix": "9",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "f4dc24ee-012c-473f-8bd7-c4091cb28dff",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"694f3b45-bdb7-4e20-b5e2-0ab6b46562d4",
+			"6d3c8bea-da3b-46a5-aa15-d6943e9bb0e8",
+			"28f47a57-18bb-477b-a888-e436ce663cf9",
+			"419b2782-ff2a-49c7-bc82-974eadefe6de",
+			"e382ae4d-827a-405e-a93c-2fd2370486ea"
+		]
+	},
+	{
+		"title": "Eindterm 10",
+		"description": "De leerling gebruikt doelgericht reken- en wiskundige vaardigheden tijdens het uitvoeren van praktijkgerichte opdrachten van en voor externe opdrachtgevers.",
+		"prefix": "10",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "9744a506-9de8-4103-bd6b-52aaee5b3d48",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"d3a5dda6-3851-4060-98ba-37a61c47a7f1",
+			"7d9a04d6-a88b-495b-8c71-e93b312ec5e6"
+		]
+	},
+	{
+		"title": "Eindterm 11",
+		"description": "De leerling gebruikt op een verantwoorde manier digitale technologie tijdens het uitvoeren van praktijkgerichte opdrachten van en voor externe opdrachtgevers.",
+		"prefix": "11",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "38e80d29-c12a-46c0-b7d2-e793ebe9f988",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"3eac1bbd-a10d-40cd-a6e5-31095663c9cf",
+			"ff8d3637-185a-4d37-a075-4628d02af2af",
+			"eacb41d2-c438-49a2-af49-b8768f6bdbe8"
+		]
+	},
+	{
+		"title": "Eindterm 12",
+		"description": "De leerling gebruikt analytische denkvaardigheden om tot een oplossing te komen tijdens het uitvoeren van praktijkgerichte opdrachten van en voor externe opdrachtgevers.",
+		"prefix": "12",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "47d6956a-9790-4cb2-ab1a-c70e9cc3d16c",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"b5c283a8-c6b9-4a14-ba44-255fc86b2f80",
+			"08dc51d4-4fad-43aa-8a38-b98f314e4988",
+			"55bbeaf8-225d-48ca-b23a-b00c0d602295",
+			"3db216ec-eeb5-4b52-aac5-72e0c74355aa",
+			"da4ed33c-537e-4a25-83d0-f5a9601a1744"
+		]
+	},
+	{
+		"title": "Eindterm 13",
+		"description": "De leerling gebruikt kritische denkvaardigheden om tot een besluit te komen tijdens het uitvoeren van praktijkgerichte opdrachten van en voor externe opdrachtgevers.",
+		"prefix": "13",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "97717519-440d-4a22-a6be-ffd640db7940",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"09158ea1-581b-43fc-a8e0-4a99b6522c94",
+			"8b4ab1c4-6b40-485e-8d34-c7b2c8901cdd",
+			"c85c14de-1f88-4b5e-ac08-e585700cd4e1"
+		]
+	},
+	{
+		"title": "Eindterm 14",
+		"description": "De leerling gebruikt creatieve denk- en maakstrategieën om tot nieuwe ideeën te komen tijdens het uitvoeren van praktijkgerichte opdrachten van en voor externe opdrachtgevers.",
+		"prefix": "14",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "2989286c-1020-41a4-b75f-b7b8cb4536bd",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"efeb8af1-0fbd-4634-b41c-f7d9d522c74d",
+			"064779d9-e1dd-4fdd-98da-25a21ef1daad",
+			"0cfdee14-939d-4bbe-83fe-569e05daaa82"
+		]
+	},
+	{
+		"title": "Eindterm 15",
+		"description": "De leerling oriënteert zich op verschillende werkvelden tijdens het uitvoeren van praktijkgerichte opdrachten van en voor externe opdrachtgevers.",
+		"prefix": "15",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "bf5962a0-7d72-4349-9d38-0eb5e125f776",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"282b3055-b1f5-4348-9142-fa667850550f",
+			"f17ab05f-ae06-40b8-b5af-7140779f4bec",
+			"818d9e99-bf23-4382-8990-dcdca12febb1",
+			"0bfad3c3-e2b6-4a7b-9e8b-475111a247d3",
+			"454a4ba8-441c-4bb0-ad2c-609bcdd1be75",
+			"316e4adf-7909-4856-b014-5312a9d0dda0",
+			"847ac157-6b26-435b-988d-d27ff5f72732",
+			"07b09eb7-71ee-4786-b81c-998277049352"
+		]
+	},
+	{
+		"title": "Eindterm 16",
+		"description": "De leerling onderzoekt relevante en actuele technologische vraagstukken van en voor externe opdrachtgevers.",
+		"prefix": "16",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "befc0f67-0616-40d2-adbe-70068b91cc80",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"17254fc3-7f09-4afd-a244-de76a4b0a49e",
+			"cbfd9af7-3096-4012-b3f9-01a8534f02fb",
+			"d0bb6bb8-2d4c-4f79-8ac5-6a0ebab7a32e",
+			"af1e486a-a198-4510-be00-d10e887f0834",
+			"c505ad34-804d-4d0c-8359-5497c492dd34"
+		]
+	},
+	{
+		"title": "Eindterm 17",
+		"description": "De leerling maakt een prototype.",
+		"prefix": "17",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "2e2ac642-7c80-4007-9451-1395c0c449be",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"864d6c49-390a-4563-bb35-10ea5c716a18",
+			"d0aac2e7-a5cf-47d4-ab4f-50c31bd4a950",
+			"e7a71c3b-0500-4430-8510-8795bec4beb3",
+			"2ae4e7d6-0446-4c94-acb3-5c4c34aeb8d7"
+		]
+	},
+	{
+		"title": "Eindterm 18",
+		"description": "De leerling onderzoekt implicaties bij het gebruik van een product.",
+		"prefix": "18",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "35b015e9-6f65-4c45-99e0-08392cc37634",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"e761383d-52a3-4783-9b3a-e3d97fac24e7",
+			"2aed767f-617c-48d3-9769-0826cfc074b1",
+			"05dcac76-a6f2-4511-b59a-8a50ba216a5a"
+		]
+	},
+	{
+		"title": "Eindterm 19",
+		"description": "De leerling bevraagt een expert bij het realiseren van praktijkgerichte opdrachten.",
+		"prefix": "19",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "43513e5d-cfb3-4999-a95a-53af455c78aa",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"43fa72c2-ae67-4ebb-9c41-0455f80245bf",
+			"85cdf174-49a4-42b3-9012-5e2153a6b270",
+			"21a89239-e830-46bd-843e-c709ba85d2df",
+			"5bc143f9-fedf-4471-aa72-638f2f4f29b9"
+		]
+	},
+	{
+		"title": "Eindterm 20",
+		"description": "De leerling ontwerpt een proces.",
+		"prefix": "20",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "a6645a80-7011-4e37-b9fd-862dc127b63f",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"526663c3-c721-4468-918f-ad1447604af7",
+			"b95208e4-5bc1-4349-9953-f07e1467fcb2",
+			"e6dfd9fb-a81f-4424-874a-31c1569760cc"
+		]
+	},
+	{
+		"title": "Eindterm 21",
+		"description": "De leerling maakt bewust gebruik van technologieën, technieken en materialen.",
+		"prefix": "21",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "49b7843f-e8ac-4241-8143-6cb3a4b86f20",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"df067d24-3bbe-46b6-92c4-8ff06485870f",
+			"b60dc07e-105a-4e92-bd47-aa8592bc27be",
+			"eebaea83-525b-4e65-bc4d-7865ce93de03",
+			"1eb9d2c3-e7cf-4700-9499-fb527934a39b"
+		]
+	},
+	{
+		"title": "Eindterm 22",
+		"description": "De leerling verwoordt waarden over duurzame ontwikkelingsdoelen voor zichzelf, de samenleving en de wereld.",
+		"prefix": "22",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "2f14e333-abb0-4c26-a548-0bb6e6196737",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"27baa81b-c61b-4e5f-bc19-6e078b4db68a",
+			"8f87ee40-6b24-41dc-aec8-83357bb8c840",
+			"bcc3bff9-9617-44ac-bde0-662db9d6e91f",
+			"42219642-80a0-438e-813f-3a7e53ab0af0",
+			"964e21dc-d25e-4db7-817a-ef1a6667e475",
+			"ad18f59f-8c90-4bed-bb08-138d6a8b083e",
+			"5139a48a-80c7-4472-bb96-76652cc771db",
+			"a530cf41-c685-41e8-a7c2-9c161dd44862",
+			"36abee74-6557-4c05-898e-75a5652b6366"
+		]
+	},
+	{
+		"title": "Eindterm 1",
+		"description": "De leerling werkt doelgericht aan praktijkgerichte opdrachten van en voor externe opdrachtgevers.",
+		"prefix": "1",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "7e1868a3-43b5-460d-8e58-22460427376f",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"dd9bed56-1d8d-4540-a710-10cc868967b1",
+			"aed1d87d-60ac-445c-af96-8239fa34698e",
+			"8f29b6f9-7c83-4be9-8c3a-f723f30b6074",
+			"fc7947f8-c24f-48af-a338-57fc952f8e15"
+		]
+	},
+	{
+		"title": "Eindterm 2",
+		"description": "De leerling communiceert met externe opdrachtgevers bij het uitvoeren van praktijkgerichte opdrachten.",
+		"prefix": "2",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "83130dd1-d573-4997-8bf5-77dd2695eaf5",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"46efccdc-a6f3-4ef3-aca3-b1de2afc8881",
+			"10a49e91-b956-4eea-bc83-4364234d12f4",
+			"d6910503-770e-44ad-8cf0-356496c2a62a"
+		]
+	},
+	{
+		"title": "Eindterm 3",
+		"description": "De leerling houdt rekening met de context van externe opdrachtgevers bij het werken aan praktijkgerichte opdrachten.",
+		"prefix": "3",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "06f8351f-224b-4d87-b3fe-39cacb18218d",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"7c5e34f6-56e3-4af0-afbb-a8ada5e4a88f",
+			"d673d907-b6f2-47f3-9e99-066d1a44a555",
+			"81fef761-7b88-44da-911b-c2cb5241963d"
+		]
+	},
+	{
+		"title": "Eindterm 4",
+		"description": "De leerling ontwikkelt eigen interesses door middel van ervaringen met externe opdrachtgevers.",
+		"prefix": "4",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "4289a0ec-2591-4aff-af8b-ebfe161093c1",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"e3b70de6-14c2-40f9-b4b6-908f11616796",
+			"afe03804-450a-4be4-8e3a-cc13b6f31df9",
+			"427b2165-897d-465d-94c4-c71d01ce4fbc",
+			"3cd3b8eb-82ba-4000-8b97-2bcb30dd775f",
+			"1003d2db-cbf7-4c2f-906a-6cda7c798332"
+		]
+	},
+	{
+		"title": "Eindterm 5",
+		"description": "De leerling ontwikkelt eigen kwaliteiten door het uitvoeren van praktijkgerichte opdrachten van en voor externe opdrachtgevers.",
+		"prefix": "5",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "d5230f80-3bd7-4f5f-ab67-c232f695af1f",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"6eb5d302-3b77-4718-876e-f263136cbef2",
+			"d90424a1-887c-4d8b-a422-148917d1d633",
+			"0ba83594-8586-40a5-a5e6-201f6b88498c",
+			"1f9b39e2-0e41-4780-b95e-5eb78bc5b487",
+			"d359e6b9-cf1b-4da7-b347-ba274631fe77"
+		]
+	},
+	{
+		"title": "Eindterm 6",
+		"description": "De leerling gaat passend om met mensen en situaties tijdens het uitvoeren van praktijkgerichte opdrachten van en voor externe opdrachtgevers.",
+		"prefix": "6",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "10f4c03e-956a-4f68-bc96-90ced26097dd",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"20f69be3-b597-444d-a9e3-067a70a24878",
+			"6f0df219-bd3f-4791-838f-37ba82bf1011",
+			"f61af93e-b21a-44ca-9a23-9bac40061d81",
+			"a3fe025e-7271-4237-ba86-016ad44bb333"
+		]
+	},
+	{
+		"title": "Eindterm 7",
+		"description": "De leerling werkt samen aan het realiseren van een gemeenschappelijk doel tijdens het uitvoeren van praktijkgerichte opdrachten van en voor externe opdrachtgevers.",
+		"prefix": "7",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "9e8f7ce9-f512-4cb0-8b12-d5198e055c76",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"54c0c63d-493d-47e1-b18b-18f43b8df1cc",
+			"7769e735-b0d1-4f85-8921-a4c788b3d93d",
+			"b3313732-d36b-4d94-bd9a-36d9b34d7bc3",
+			"206a4f53-f26a-4fdc-bb0c-6c8d80ce1e90"
+		]
+	},
+	{
+		"title": "Eindterm 8",
+		"description": "De leerling gebruikt doelgericht taalvaardigheden tijdens het uitvoeren van praktijkgerichte opdrachten van en voor externe opdrachtgevers.",
+		"prefix": "8",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "7ca41070-2a1a-49c2-999a-547ba6824380",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"cd56e7f1-8a9d-4d12-a98d-e7e5984967bb",
+			"eaf8f539-2315-453f-aaf3-1257e61dc81f",
+			"d82c65fc-900e-493c-8ac3-f7fa710fedbb",
+			"53481816-9184-4d34-a047-f4d8d4be5050"
+		]
+	},
+	{
+		"title": "Eindterm 9",
+		"description": "De leerling verwerft, verwerkt en deelt informatie tijdens het uitvoeren van praktijkgerichte opdrachten van en voor externe opdrachtgevers.",
+		"prefix": "9",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "d4712f6d-9541-4ac7-b446-69ee86ff7831",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"dceb30a6-3399-4dd1-9986-d7dbb21f9a6c",
+			"f2ac5263-d2e4-4f8a-8a7e-29dcfef763e3",
+			"9d8838b9-4289-43f2-bce8-388e9fc43cf5",
+			"ad2de1a2-2fd5-4b73-944d-fc996f4dc4ea",
+			"3d6334fd-c12b-4c39-bea5-33df4f8b3a2b"
+		]
+	},
+	{
+		"title": "Eindterm 10",
+		"description": "De leerling gebruikt doelgericht reken- en wiskundige vaardigheden tijdens het uitvoeren van praktijkgerichte opdrachten van en voor externe opdrachtgevers.",
+		"prefix": "10",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "fcb2452c-be6f-49dc-b786-ea676a10a611",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"7147c0fb-d1e1-43c9-b604-a9cb052337b3",
+			"c63f9daf-1c42-4998-856a-f9738eb791e7"
+		]
+	},
+	{
+		"title": "Eindterm 11",
+		"description": "De leerling gebruikt op een verantwoorde manier digitale technologie tijdens het uitvoeren van praktijkgerichte opdrachten van en voor externe opdrachtgevers.",
+		"prefix": "11",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "a4449930-270a-4599-b330-a3ce1d90b81b",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"45bc2714-fdd5-4854-b6f7-10287d6cce6c",
+			"c7c933c0-2f16-4dac-a191-68a6bcf56ab6",
+			"13358af2-fe33-44a4-a0ec-7121a9bdea8d"
+		]
+	},
+	{
+		"title": "Eindterm 12",
+		"description": "De leerling gebruikt analytische denkvaardigheden om tot een oplossing te komen tijdens het uitvoeren van praktijkgerichte opdrachten van en voor externe opdrachtgevers.",
+		"prefix": "12",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "b105eb2a-78f3-492d-96a7-59035a84677d",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"607adc72-134b-418a-88b6-fb5cdf92484e",
+			"0cd53ec7-83e1-4d4e-bf2d-33fd30407b31",
+			"1610b956-827b-4ba0-81bd-2fc6000f6cd4",
+			"71e87e5c-5991-4b32-8350-f784cedd4929",
+			"59dd7b6d-683f-4a38-9620-b514a61ae984"
+		]
+	},
+	{
+		"title": "Eindterm 13",
+		"description": "De leerling gebruikt kritische denkvaardigheden om tot een besluit te komen tijdens het uitvoeren van praktijkgerichte opdrachten van en voor externe opdrachtgevers.",
+		"prefix": "13",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "e78fa03d-81de-474f-a300-168b3ab34ced",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"20d29a42-195f-4f64-8a69-44220bd5bdb6",
+			"2aae2340-82f7-4f43-84bd-26b1121d82ee",
+			"0060058f-864d-4168-a677-830e356c86ec"
+		]
+	},
+	{
+		"title": "Eindterm 14",
+		"description": "De leerling gebruikt creatieve denk- en maakstrategieën om tot nieuwe ideeën te komen tijdens het uitvoeren van praktijkgerichte opdrachten van en voor externe opdrachtgevers.",
+		"prefix": "14",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "a0b1ae2a-f84c-42de-80a6-d34a35ddc201",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"0d33d006-3fd6-4f6b-a028-20c96209d960",
+			"678bf6e1-c04d-4637-a3ee-4a444a2218e0",
+			"f1a1f7dd-5ffb-43ee-aca6-c3f2658d98b4"
+		]
+	},
+	{
+		"title": "Eindterm 15",
+		"description": "De leerling oriënteert zich op verschillende werkvelden tijdens het uitvoeren van praktijkgerichte opdrachten van en voor externe opdrachtgevers.",
+		"prefix": "15",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "76aa3b03-a81c-4566-a0de-a4a5f397078b",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"3ccb71bb-bc89-4938-8f2c-943354bdefcb",
+			"2a2df0f4-0880-4488-b6c6-786b2ac64f61",
+			"5647bd0b-1fb9-41ff-be66-a2aa4d81f2c4",
+			"d2f20d32-1726-408c-b058-2288b02bb0a3",
+			"78a8349d-e749-42c9-8bbc-c9b198677c76",
+			"75cf743d-1e39-4900-9853-66ee2ca8b037",
+			"bc795a41-5cfb-40ee-9fe2-8ca623e87c56",
+			"937a8635-96f0-40f2-8dc3-e7810470bbe1"
+		]
+	},
+	{
+		"title": "Eindterm 16",
+		"description": "De leerling onderzoekt relevante en actuele technologische vraagstukken van en voor externe opdrachtgevers.",
+		"prefix": "16",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "901b7f03-528e-4b15-a691-176e505fbefc",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"b5c225a2-4f0a-4e07-8272-161298eced5e",
+			"8ade1b5b-ebfa-4c32-9573-b11847c6acb3",
+			"63f40aa7-c391-427b-8bf5-ebc516a11800",
+			"ba71cecc-4024-4c6a-8283-349983d065e4",
+			"5855169b-cc47-4f9d-8fa8-b3e85f9289bb"
+		]
+	},
+	{
+		"title": "Eindterm 17",
+		"description": "De leerling combineert kennis en vaardigheden uit de natuurwetenschap en de kunst om nieuwe technologische oplossingen te ontwikkelen.",
+		"prefix": "17",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "1d5fc19e-86df-4fef-998f-c7d0cbc333e3",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"97d58a7c-8690-4c6b-ab7e-f56fbc0d81ea",
+			"7318b7dd-4371-44cb-86c9-d70f28d05a27"
+		]
+	},
+	{
+		"title": "Eindterm 18",
+		"description": "De leerling maakt een prototype.",
+		"prefix": "18",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "9d74bb13-5348-483c-97e8-d686403ac19c",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"d7ce7d80-b78d-4fd2-ada5-d8d358d705dd",
+			"4efabe1d-c37b-4026-921c-e5e8b2734ee5",
+			"5200c3d6-3d8c-4703-ac1f-0c2020f3e420",
+			"14e088af-3f4b-41b2-a83d-ba10213e6767"
+		]
+	},
+	{
+		"title": "Eindterm 19",
+		"description": "De leerling onderzoekt implicaties bij het gebruik van een product.",
+		"prefix": "19",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "5920bb2e-5d95-44d5-8d0a-17eb8f23e4a3",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"eee1bcd8-37ce-4162-be06-a02a2247ef93",
+			"6f64b1fd-87cf-4bc5-8a72-fdcb51b5e02f",
+			"41523a47-cc7f-4687-be67-2a95b221d399"
+		]
+	},
+	{
+		"title": "Eindterm 20",
+		"description": "De leerling bevraagt een expert bij het realiseren van praktijkgerichte opdrachten.",
+		"prefix": "20",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "1371ece4-1904-435f-9596-ecce573e4609",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"62ee7070-2a66-45e7-8748-3d8f9bc6c126",
+			"348cafe3-f739-4b61-9df9-874786fa3f7f",
+			"81e888ee-fb79-4cf2-9d7c-819ea9b627c7",
+			"d177fc9d-5698-4e45-a9c8-c9f62a376817"
+		]
+	},
+	{
+		"title": "Eindterm 21",
+		"description": "De leerling ontwerpt een proces.",
+		"prefix": "21",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "48487830-1c6a-4664-90ea-0f2a086205c6",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"35d0965f-78b8-45da-bc71-c5afd49a77f8",
+			"e9cc2358-fbe8-465e-b859-a6cd8c4b9db8",
+			"91a4bd25-c4f1-4a71-8eec-045eb5452660"
+		]
+	},
+	{
+		"title": "Eindterm 22",
+		"description": "De leerling maakt bewust gebruik van technologieën, technieken en materialen.",
+		"prefix": "22",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "8c628913-3005-4e29-9bf4-f873dd55a36d",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"5272f0fb-6c97-49b7-a795-f79ee8620910",
+			"418f035f-7e77-47dc-9178-c67635902f67",
+			"c86652a6-fe57-433f-8e78-93d40a07e917",
+			"ba6401ea-d4f6-48af-9ebb-cc41352754b6"
+		]
+	},
+	{
+		"title": "Eindterm 23",
+		"description": "De leerling legt een verband tussen vorm, functie en werking van systemen.",
+		"prefix": "23",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "24d9c9b6-66f8-4638-9818-3fceb45dc6e5",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"e528220d-d703-479d-9e55-ff67b826f229",
+			"9342fce5-a3fb-4acd-bd53-c3cc04f41608",
+			"11ef9b95-7b71-4ac4-8b2d-73db9bab3dd9",
+			"fffe5192-0b35-4d68-ad9f-9fafd511fc6a",
+			"224c0dd4-04ed-4600-812b-cdec32c2815a"
+		]
+	},
+	{
+		"title": "Eindterm 24",
+		"description": "De leerling verwoordt waarden over duurzame ontwikkelingsdoelen voor zichzelf, de samenleving en de wereld.",
+		"prefix": "24",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "concept",
+		"id": "9bd1e56c-4d02-45ba-8302-42964d4f17db",
+		"unreleased": true,
+		"fo_uitwerking_id": [
+			"56bc3d45-f657-4669-b3a0-712da1194cd8",
+			"e26b9e21-6bfa-41b3-9f7d-15182fc4922e",
+			"9451dafc-0e0e-45cc-9d91-beb3cd8162c2",
+			"3e94e5cb-d70a-4a82-a39b-f0a5db545821",
+			"924ca780-31e9-4833-a8fb-e6e5e1b481ff",
+			"6c03fd2e-0348-4145-819f-0376111e589f",
+			"2f9a65d9-7920-49f8-9ad1-126aa0c4b4ed",
+			"efaea495-9e38-4e2c-bb71-ba1657c17ca0",
+			"9e54f2f2-4bf2-48dd-a109-ff57eb26f2fe"
 		]
 	}
 ]

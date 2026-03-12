@@ -265,12 +265,12 @@
 		"id": "9412cf7a-9d6e-44bf-9404-317fe02b3e0e",
 		"fo_doelzin_id": [
 			"d6e7b7c9-80a1-4bdc-aa42-400b22f9b831",
-			"da0a5691-edfb-4a41-97a7-de047554f8bf",
-			"da3a7282-ad04-4580-a30d-5ec73b9bc5a0"
+			"da0a5691-edfb-4a41-97a7-de047554f8bf"
 		],
 		"replaces": [
 			"42dd8eef-cc2e-446c-a4e7-d964f0ca80c4"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein A2 Productieve taalvaardigheid",
@@ -278,13 +278,15 @@
 		"prefix": "A2",
 		"id": "bd01a1c8-a736-450a-a727-095dacd975b0",
 		"fo_doelzin_id": [
+			"da3a7282-ad04-4580-a30d-5ec73b9bc5a0",
 			"0a3989f6-f01a-4a3d-9d86-e5d73332578a",
 			"936f5ce7-eefe-42e8-8ab5-ffc065b880a6",
 			"1af8992f-9117-4c1d-9b63-1231f99d0c15"
 		],
 		"replaces": [
 			"dcf6c486-baf7-4ed2-aef3-5dc497690bbb"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein A3 Interactie",
@@ -359,12 +361,12 @@
 		"id": "3998ccd9-8188-4269-9292-6e72026d90a4",
 		"fo_doelzin_id": [
 			"722f01cc-bbd7-48ef-aa08-ae1425c443d1",
-			"6614d321-2204-4527-9ed3-57b56abd1da8",
-			"d75414a7-a42c-485a-ad2a-2739ea4a37e1"
+			"6614d321-2204-4527-9ed3-57b56abd1da8"
 		],
 		"replaces": [
 			"49749559-e251-4b03-837e-f614e5aea8ba"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein A2 Productieve taalvaardigheid",
@@ -372,13 +374,15 @@
 		"prefix": "A2",
 		"id": "33c9ed61-a43f-4d7c-ac55-b70755862e90",
 		"fo_doelzin_id": [
+			"d75414a7-a42c-485a-ad2a-2739ea4a37e1",
 			"260ad1b1-d3c1-4de1-bbd0-1a092d867fa3",
 			"5076219f-5480-4219-974a-9a59c23a9109",
 			"e01f7b73-254b-46ff-8d72-07e4bd333889"
 		],
 		"replaces": [
 			"2c9325ea-83f3-4312-9ea2-b1f435a5c7ac"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein A3 Interactie",
@@ -453,12 +457,12 @@
 		"id": "db698881-6d86-4d7a-aeeb-a2a638ab36be",
 		"fo_doelzin_id": [
 			"cb4ad041-d973-411b-8640-8deb964bde89",
-			"5041b7bc-df3a-4dd2-8237-1c3701a11d79",
-			"eeb16e3d-1b83-4b44-b606-9498f02e8133"
+			"5041b7bc-df3a-4dd2-8237-1c3701a11d79"
 		],
 		"replaces": [
 			"5d6610ef-ecd7-4f05-b16a-9e08943c683b"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein A2 Productieve taalvaardigheid",
@@ -466,13 +470,15 @@
 		"prefix": "A2",
 		"id": "5b9f1aed-f2a2-4e96-a0a2-f8a455d494c1",
 		"fo_doelzin_id": [
+			"eeb16e3d-1b83-4b44-b606-9498f02e8133",
 			"779f6be6-26d9-4659-a46e-a72339d72070",
 			"6eae7c5d-67e3-4823-8918-95da1c986f02",
 			"433b6f6a-88b4-401c-b15a-f11637697f7f"
 		],
 		"replaces": [
 			"03ab2d65-671a-48f3-bb3f-bb3af334ed81"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein A3 Interactie",
@@ -547,12 +553,12 @@
 		"id": "2d637dc9-1fa3-4f41-ad19-5b99a9183a7d",
 		"fo_doelzin_id": [
 			"9a609d09-2651-463c-9efc-62a9ea7502c8",
-			"1e918c7f-9a8d-4c95-b146-c6d15a326de1",
-			"bfa22f41-e638-4b25-a698-2b6f5cf9859a"
+			"1e918c7f-9a8d-4c95-b146-c6d15a326de1"
 		],
 		"replaces": [
 			"10e63535-f180-43c9-8d45-06ca837523d3"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein A2 Productieve taalvaardigheid",
@@ -560,13 +566,15 @@
 		"prefix": "A2",
 		"id": "d279599c-3ee4-4516-af12-9287d032ae31",
 		"fo_doelzin_id": [
+			"bfa22f41-e638-4b25-a698-2b6f5cf9859a",
 			"1d09839f-ad6a-4e9d-bbc0-b4a255bfce19",
 			"aae00795-5595-4b2d-9a05-41b290601914",
 			"cd524a4b-561a-45d3-a2eb-1eb532e573fc"
 		],
 		"replaces": [
 			"b7d0e707-aee4-4144-aa51-38b0329e08cb"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein A3 Interactie",
@@ -643,12 +651,12 @@
 		"id": "e28b5614-a2df-4cac-9dba-cc0ffd1705ec",
 		"fo_doelzin_id": [
 			"40151b32-a9d1-476d-b927-577ca5d86b0f",
-			"eaeb720c-b4ab-44ab-a6d0-644e97dc09df",
-			"33372d3f-e40d-463c-92fd-90b6790eb4fe"
+			"eaeb720c-b4ab-44ab-a6d0-644e97dc09df"
 		],
 		"replaces": [
 			"d9943a7b-63a8-404a-a444-b3b8a8775d3f"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein A2 Productieve taalvaardigheid",
@@ -656,13 +664,15 @@
 		"prefix": "A2",
 		"id": "fe9a6079-681f-48f9-9c76-af2a08a0fa47",
 		"fo_doelzin_id": [
+			"33372d3f-e40d-463c-92fd-90b6790eb4fe",
 			"f1d7637a-fa91-40d3-91c8-71f69b38e99f",
 			"1ce5fe61-9428-4f76-9216-05374c74e7b7",
 			"c1020d7b-78f9-41a9-8967-0848d1ce9f81"
 		],
 		"replaces": [
 			"d44999b0-a962-428f-b8cc-4f73e0b3e2b8"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Subdomein A3 Interactie",

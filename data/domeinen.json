@@ -2081,7 +2081,7 @@
 	},
 	{
 		"title": "Domein B Taalbewustzijn",
-		"description": "",
+		"description": "Domein B Taalbewustzijn",
 		"prefix": "B",
 		"id": "6c430211-c7e4-49b1-8d85-022c2740b63f",
 		"fo_subdomein_id": [
@@ -2090,11 +2090,12 @@
 		],
 		"replaces": [
 			"28c6a6b9-b2d8-4ed5-b7c3-c16fb4cc1a31"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Domein C Cultuurbewustzijn",
-		"description": "",
+		"description": "Domein C Cultuurbewustzijn",
 		"prefix": "C",
 		"id": "6bf0b9cd-f74b-47ff-9564-7c4d25ea485a",
 		"fo_subdomein_id": [
@@ -2103,7 +2104,8 @@
 		],
 		"replaces": [
 			"36db0e3b-4cf9-4122-9471-2d82a673a53e"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Domein A  Communicatie",
@@ -2121,7 +2123,7 @@
 	},
 	{
 		"title": "Domein B Taalbewustzijn",
-		"description": "",
+		"description": "Domein B Taalbewustzijn",
 		"prefix": "B",
 		"id": "6529d007-360e-458e-93a1-f34160d11936",
 		"fo_subdomein_id": [
@@ -2130,11 +2132,12 @@
 		],
 		"replaces": [
 			"956507a9-d538-401f-8552-b61d7e53e3b6"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Domein C Cultuurbewustzijn",
-		"description": "",
+		"description": "Domein C Cultuurbewustzijn",
 		"prefix": "C",
 		"id": "fbd3faa8-0e49-4fb7-a233-15532d547e56",
 		"fo_subdomein_id": [
@@ -2143,7 +2146,8 @@
 		],
 		"replaces": [
 			"933e0163-5eb7-47a6-b20f-de414c35ef2d"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Domein A  Communicatie",
@@ -2161,7 +2165,7 @@
 	},
 	{
 		"title": "Domein B Taalbewustzijn",
-		"description": "",
+		"description": "Domein B Taalbewustzijn",
 		"prefix": "B",
 		"id": "f0147234-919d-4e1f-b270-4bd0befc94da",
 		"fo_subdomein_id": [
@@ -2170,11 +2174,12 @@
 		],
 		"replaces": [
 			"315847c8-c7ca-4b77-be27-4aca992613c2"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Domein C Cultuurbewustzijn",
-		"description": "",
+		"description": "Domein C Cultuurbewustzijn",
 		"prefix": "C",
 		"id": "7ce92c87-feb0-4290-aea5-ef55404a9d72",
 		"fo_subdomein_id": [
@@ -2183,7 +2188,8 @@
 		],
 		"replaces": [
 			"8af3579d-8627-409d-929b-67b6767bcfa6"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Domein A  Communicatie",
@@ -2201,7 +2207,7 @@
 	},
 	{
 		"title": "Domein B Taalbewustzijn",
-		"description": "",
+		"description": "Domein B Taalbewustzijn",
 		"prefix": "B",
 		"id": "16ed42a2-5d75-46e8-a962-fa77a31c4e24",
 		"fo_subdomein_id": [
@@ -2210,11 +2216,12 @@
 		],
 		"replaces": [
 			"44772888-6144-4da3-9f19-bd6ffc29e595"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Domein C Cultuurbewustzijn",
-		"description": "",
+		"description": "Domein C Cultuurbewustzijn",
 		"prefix": "C",
 		"id": "41a96f7d-7747-46fa-842d-6ac2b509249a",
 		"fo_subdomein_id": [
@@ -2223,7 +2230,8 @@
 		],
 		"replaces": [
 			"21f48bf0-31ea-4451-9672-a981e64cef25"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Domein A  Communicatie",
@@ -2241,7 +2249,7 @@
 	},
 	{
 		"title": "Domein B Taalbewustzijn",
-		"description": "",
+		"description": "Domein B Taalbewustzijn",
 		"prefix": "B",
 		"id": "a8c0d877-558d-4646-bfd3-dfe46cab517c",
 		"fo_subdomein_id": [
@@ -2250,11 +2258,12 @@
 		],
 		"replaces": [
 			"1e5334f6-4523-4f1e-8ce0-548315433747"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Domein C Cultuurbewustzijn",
-		"description": "",
+		"description": "Domein C Cultuurbewustzijn",
 		"prefix": "C",
 		"id": "9be8a825-c7e0-4568-b559-363fa3b4b71a",
 		"fo_subdomein_id": [
@@ -2263,7 +2272,8 @@
 		],
 		"replaces": [
 			"5374fa4b-3164-46aa-a28d-594e5fd64ea3"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Domein A  Communicatie",
@@ -3041,7 +3051,7 @@
 	},
 	{
 		"title": "Domein B Taalbewustzijn",
-		"description": "",
+		"description": "Domein B Taalbewustzijn",
 		"prefix": "B",
 		"id": "a746876e-f66b-45e1-baec-0240fc59a6b7",
 		"fo_subdomein_id": [
@@ -3050,11 +3060,12 @@
 		],
 		"replaces": [
 			"280103f3-ba7c-4c01-b3d9-7d2ea0406fea"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Domein C Cultuurbewustzijn",
-		"description": "",
+		"description": "Domein C Cultuurbewustzijn",
 		"prefix": "C",
 		"id": "4a01688e-aa7d-4e2f-8633-a200d505bef4",
 		"fo_subdomein_id": [
@@ -3063,7 +3074,8 @@
 		],
 		"replaces": [
 			"5ec7b89b-c22a-4930-9316-795c0bdcbee1"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Domein A  Communicatie",
@@ -3081,7 +3093,7 @@
 	},
 	{
 		"title": "Domein B Taalbewustzijn",
-		"description": "",
+		"description": "Domein B Taalbewustzijn",
 		"prefix": "B",
 		"id": "3a24cdd8-10af-4621-874a-d9011bb7091b",
 		"fo_subdomein_id": [
@@ -3090,11 +3102,12 @@
 		],
 		"replaces": [
 			"56721e16-d50d-481d-8250-6bbee211b607"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Domein C Cultuurbewustzijn",
-		"description": "",
+		"description": "Domein C Cultuurbewustzijn",
 		"prefix": "C",
 		"id": "e6a96459-b0d1-42ca-9ac5-c9f97357deac",
 		"fo_subdomein_id": [
@@ -3103,7 +3116,8 @@
 		],
 		"replaces": [
 			"43d647f2-ea33-4758-aaa5-9270a4ca965f"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Domein A  Communicatie",
@@ -3321,7 +3335,7 @@
 	},
 	{
 		"title": "Domein B Taalbewustzijn",
-		"description": "",
+		"description": "Domein B Taalbewustzijn",
 		"prefix": "B",
 		"id": "d05bcb5c-e4bb-4ec3-8f0f-52b058166e8c",
 		"fo_subdomein_id": [
@@ -3330,11 +3344,12 @@
 		],
 		"replaces": [
 			"c57d844e-8cb7-4c8c-9ae8-a44c6e8485c0"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Domein C Cultuurbewustzijn",
-		"description": "",
+		"description": "Domein C Cultuurbewustzijn",
 		"prefix": "C",
 		"id": "308df6ff-01ed-49f6-a26a-f9b241ed1607",
 		"fo_subdomein_id": [
@@ -3343,7 +3358,8 @@
 		],
 		"replaces": [
 			"3b8fabfd-8ef6-4de3-96f5-d0718b8a0084"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Domein A  Communicatie",
@@ -3361,7 +3377,7 @@
 	},
 	{
 		"title": "Domein B Taalbewustzijn",
-		"description": "",
+		"description": "Domein B Taalbewustzijn",
 		"prefix": "B",
 		"id": "05e16211-e551-47d8-8efc-6fb0064b39d3",
 		"fo_subdomein_id": [
@@ -3370,11 +3386,12 @@
 		],
 		"replaces": [
 			"3c238601-78e4-45a8-bc40-658f3dbf8d64"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Domein C Cultuurbewustzijn",
-		"description": "",
+		"description": "Domein C Cultuurbewustzijn",
 		"prefix": "C",
 		"id": "7d4e2efb-37e4-4eb5-8f9b-caa053ccbd04",
 		"fo_subdomein_id": [
@@ -3383,7 +3400,8 @@
 		],
 		"replaces": [
 			"f3ed12ff-1820-44c0-869c-edc01c6eb3c4"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Domein A  Communicatie",
@@ -3401,7 +3419,7 @@
 	},
 	{
 		"title": "Domein B Taalbewustzijn",
-		"description": "",
+		"description": "Domein B Taalbewustzijn",
 		"prefix": "B",
 		"id": "f2ed5342-0cbc-423a-a73c-f8a16c6455cd",
 		"fo_subdomein_id": [
@@ -3410,11 +3428,12 @@
 		],
 		"replaces": [
 			"1e52cf84-0f46-42f7-96a1-2b6465d27253"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Domein C Cultuurbewustzijn",
-		"description": "",
+		"description": "Domein C Cultuurbewustzijn",
 		"prefix": "C",
 		"id": "818ea17e-93f9-4586-a413-b2ffe86534e2",
 		"fo_subdomein_id": [
@@ -3423,7 +3442,8 @@
 		],
 		"replaces": [
 			"6681e097-8ca2-49de-93aa-aea0da9d9f30"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Domein A  Communicatie",
@@ -3441,7 +3461,7 @@
 	},
 	{
 		"title": "Domein B Taalbewustzijn",
-		"description": "",
+		"description": "Domein B Taalbewustzijn",
 		"prefix": "B",
 		"id": "273889eb-51a6-4530-8955-35e56cfebc1d",
 		"fo_subdomein_id": [
@@ -3450,11 +3470,12 @@
 		],
 		"replaces": [
 			"b910c1e4-e097-49a4-a259-6e29899d17c5"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Domein C Cultuurbewustzijn",
-		"description": "",
+		"description": "Domein C Cultuurbewustzijn",
 		"prefix": "C",
 		"id": "2478486f-e6bb-4b24-a064-4080c4b127d8",
 		"fo_subdomein_id": [
@@ -3463,7 +3484,8 @@
 		],
 		"replaces": [
 			"5c8c77c5-b37d-443a-9c77-9517fd62d462"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Domein A  Communicatie",
@@ -3481,7 +3503,7 @@
 	},
 	{
 		"title": "Domein B Taalbewustzijn",
-		"description": "",
+		"description": "Domein B Taalbewustzijn",
 		"prefix": "B",
 		"id": "4129754a-3a3b-47f4-9bcc-50cecd1be5d2",
 		"fo_subdomein_id": [
@@ -3490,11 +3512,12 @@
 		],
 		"replaces": [
 			"4b4d7f7c-b534-4cf4-b38a-1c15ec66e3e6"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Domein C Cultuurbewustzijn",
-		"description": "",
+		"description": "Domein C Cultuurbewustzijn",
 		"prefix": "C",
 		"id": "dad404c6-8f60-4a3f-96c0-bebef6e140f6",
 		"fo_subdomein_id": [
@@ -3503,7 +3526,8 @@
 		],
 		"replaces": [
 			"6399c636-c962-4264-b489-4f14b46accdc"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Domein A Vaardigheden",
@@ -4667,7 +4691,7 @@
 		]
 	},
 	{
-		"title": "praktische kennis & vaardigheden",
+		"title": "Praktische kennis & vaardigheden",
 		"description": "",
 		"id": "087b12f4-5116-477d-82af-e98cd5b92e3a",
 		"fo_kernzin_id": [
@@ -4677,7 +4701,7 @@
 		]
 	},
 	{
-		"title": "ontwerpen en maken",
+		"title": "Ontwerpen en maken",
 		"description": "",
 		"id": "fb716895-b04e-4c22-80a4-8d779b08cbca",
 		"fo_kernzin_id": [
@@ -4687,7 +4711,7 @@
 		]
 	},
 	{
-		"title": "de gedigitaliseerde wereld",
+		"title": "De gedigitaliseerde wereld",
 		"description": "",
 		"id": "74267558-8694-4f1b-ba91-625cabbe4516",
 		"fo_kernzin_id": [
@@ -4697,7 +4721,7 @@
 		]
 	},
 	{
-		"title": "Domein: mens en welvaart",
+		"title": "Mens en welvaart",
 		"description": "",
 		"id": "eb5c8393-f95b-4bdf-9d2a-b998fdf57671",
 		"fo_kernzin_id": [
@@ -4705,7 +4729,7 @@
 		]
 	},
 	{
-		"title": "Domein: scheikundige verschijnselen",
+		"title": "Scheikundige verschijnselen",
 		"description": "",
 		"id": "414d29ff-590a-4bfe-b7d7-d61c4d8d4a55",
 		"fo_kernzin_id": [
@@ -4713,7 +4737,7 @@
 		]
 	},
 	{
-		"title": "Domein: natuurwetenschappen en technologie",
+		"title": "Natuurwetenschappen en technologie",
 		"description": "",
 		"prefix": "",
 		"id": "2e95911f-8bd5-41f2-904c-86f348da8989",
@@ -4727,7 +4751,7 @@
 		]
 	},
 	{
-		"title": "Domein: natuurkundige en scheikundige verschijnselen en technische systemen",
+		"title": "Natuurkundige en scheikundige verschijnselen en technische systemen",
 		"description": "",
 		"prefix": "",
 		"id": "2f5dfd65-4188-4a6a-8a18-7d253125db85",
@@ -4741,7 +4765,7 @@
 		]
 	},
 	{
-		"title": "Domein: organismen en gezondheid",
+		"title": "Organismen en gezondheid",
 		"description": "",
 		"prefix": "",
 		"id": "8456e3cd-ccc7-4174-8796-e86b335409cf",
@@ -4755,7 +4779,7 @@
 		]
 	},
 	{
-		"title": "Domein: systeem aarde",
+		"title": "Systeem aarde",
 		"description": "",
 		"prefix": "",
 		"id": "7c8e6b84-912c-4bf9-a365-6595240e3242",
@@ -4769,7 +4793,7 @@
 		]
 	},
 	{
-		"title": "Domein: mens en ruimte",
+		"title": "Mens en ruimte",
 		"description": "",
 		"prefix": "",
 		"id": "86d1e6c8-a127-47c0-ac4e-5b14002a2762",
@@ -4783,7 +4807,7 @@
 		]
 	},
 	{
-		"title": "Domein: mens en tijd",
+		"title": "Mens en tijd",
 		"description": "",
 		"prefix": "",
 		"id": "5ab630ee-61da-4bb9-811d-aa2153d6404d",
@@ -4797,7 +4821,7 @@
 		]
 	},
 	{
-		"title": "Domein: mens en samenleving",
+		"title": "Mens en samenleving",
 		"description": "",
 		"prefix": "",
 		"id": "8586da57-d81d-4ec1-a450-a75e15c01a71",
@@ -4811,7 +4835,7 @@
 		]
 	},
 	{
-		"title": "Domein: communicatie",
+		"title": "Communicatie",
 		"description": "",
 		"prefix": "",
 		"id": "2804c90f-6f93-485c-9456-7bba7b14b949",
@@ -4826,7 +4850,7 @@
 		]
 	},
 	{
-		"title": "Domein: taal- en cultuurbewustzijn",
+		"title": "Taal- en cultuurbewustzijn",
 		"description": "Taal en cultuurbewustzijn Engels",
 		"prefix": "",
 		"id": "981eae97-0f55-4976-a579-d5fbfbf59af5",
@@ -4840,7 +4864,7 @@
 		]
 	},
 	{
-		"title": "Domein: taal- en cultuurbewustzijn",
+		"title": "Taal- en cultuurbewustzijn",
 		"description": "Taal- en cultuurbewustzijn",
 		"prefix": "",
 		"id": "5c19d82e-350a-4b70-848a-d822334b2b11",
@@ -4853,7 +4877,7 @@
 		]
 	},
 	{
-		"title": "Domein: artistiek creatief vermogen",
+		"title": "Artistiek creatief vermogen",
 		"description": "domein: artistiek creatief vermogen",
 		"prefix": "",
 		"id": "f70427be-1cab-40da-91b8-da4e834c73da",
@@ -4867,7 +4891,7 @@
 		]
 	},
 	{
-		"title": "Domein: maken en betekenis geven",
+		"title": "Maken en betekenis geven",
 		"description": "",
 		"prefix": "",
 		"id": "9743923c-5a1a-419c-9df8-64deff5d1f00",
@@ -4881,7 +4905,7 @@
 		]
 	},
 	{
-		"title": "Domein: meemaken en betekenis geven",
+		"title": "Meemaken en betekenis geven",
 		"description": "",
 		"prefix": "",
 		"id": "d7dbd08b-e05d-4396-a48f-bfbe19a73bee",
@@ -4895,7 +4919,7 @@
 		]
 	},
 	{
-		"title": "Domein: leren bewegen",
+		"title": "Leren bewegen",
 		"description": "",
 		"prefix": "",
 		"id": "f5e0ad38-79d0-45e1-865b-eebb340e71af",
@@ -4909,7 +4933,7 @@
 		]
 	},
 	{
-		"title": "Domein: samen bewegen",
+		"title": "Samen bewegen",
 		"description": "",
 		"prefix": "",
 		"id": "6bcb0d9d-d3a1-4f79-bfd0-6b6a98700c90",
@@ -4923,7 +4947,7 @@
 		]
 	},
 	{
-		"title": "Domein: betrokken bewegen",
+		"title": "Betrokken bewegen",
 		"description": "",
 		"prefix": "",
 		"id": "02c38a9a-58d8-445f-8000-76860246f950",
@@ -4937,7 +4961,7 @@
 		]
 	},
 	{
-		"title": "overkoepelend",
+		"title": "Overkoepelend",
 		"id": "7b79d631-9bb9-4428-86fb-070596c8aa97",
 		"fo_kernzin_id": [
 			"2ef35f17-def8-42e6-88e9-c8a0e3ddc195",
@@ -4948,7 +4972,7 @@
 		]
 	},
 	{
-		"title": "communicatie",
+		"title": "Communicatie",
 		"id": "57944b6b-9d91-4602-9c58-e2265dde665a",
 		"fo_kernzin_id": [
 			"1d3b2e3d-ce91-4353-9a24-b7b773a6addc",
@@ -4965,7 +4989,7 @@
 		]
 	},
 	{
-		"title": "taal",
+		"title": "Taal",
 		"id": "9157ac1b-7a61-446c-833f-ba263ff8b198",
 		"fo_kernzin_id": [
 			"d8684fa5-29d6-4142-88af-a13352f72caa",
@@ -4978,7 +5002,7 @@
 		]
 	},
 	{
-		"title": "visueel-manuele literatuur",
+		"title": "Visueel-manuele literatuur",
 		"id": "9efee021-67c3-411e-96d4-b04c96020f90",
 		"fo_kernzin_id": [
 			"5e00cc3c-4b1e-4510-a90c-c67901d11c51",
@@ -4989,7 +5013,7 @@
 		]
 	},
 	{
-		"title": "overkoepelend",
+		"title": "Overkoepelend",
 		"id": "8d3ca50d-aa61-4bc1-afa1-250d2f23bfa0",
 		"fo_kernzin_id": [
 			"1175cb41-c3cf-4004-9ed0-84f845ac135d",
@@ -5001,7 +5025,7 @@
 		]
 	},
 	{
-		"title": "communicatie",
+		"title": "Communicatie",
 		"id": "71cc9484-8eb6-488d-9738-4bb4d050f351",
 		"fo_kernzin_id": [
 			"36b1a97d-a79c-49f9-bbe8-c7354cce7812",
@@ -5022,7 +5046,7 @@
 		]
 	},
 	{
-		"title": "taal",
+		"title": "Taal",
 		"id": "dbf04ed7-b036-4f3f-b7bd-309606157064",
 		"fo_kernzin_id": [
 			"11adc90d-63de-43ae-a45a-fedb472c1a58",
@@ -5037,7 +5061,7 @@
 		]
 	},
 	{
-		"title": "literatuur",
+		"title": "Literatuur",
 		"id": "3cf2e128-abc8-4573-90df-6df19926254a",
 		"fo_kernzin_id": [
 			"a47a009c-fdd4-4245-b7d4-b496be12062a",
@@ -5049,7 +5073,7 @@
 		]
 	},
 	{
-		"title": "wiskundige concepten",
+		"title": "Wiskundige concepten",
 		"id": "02964bab-543c-48b5-9e87-0cd6c16c1673",
 		"fo_kernzin_id": [
 			"e23ed925-5532-4d07-a62f-855727844d5d",
@@ -5067,7 +5091,7 @@
 		]
 	},
 	{
-		"title": "wiskundige denk-werkwijzen",
+		"title": "Wiskundige denk-werkwijzen",
 		"id": "7f6f725f-29c9-4d73-88b9-73ce0273d04a",
 		"fo_kernzin_id": [
 			"ad113d88-d641-41b9-9f3b-51a06be17637",
@@ -5079,7 +5103,7 @@
 		]
 	},
 	{
-		"title": "wiskunde en de wereld",
+		"title": "Wiskunde en de wereld",
 		"id": "dd263c8b-772e-447f-a08d-2ac38c88aae1",
 		"fo_kernzin_id": [
 			"6c373754-31e6-4c29-aab3-040caa1f4c3c",
@@ -5094,7 +5118,7 @@
 		]
 	},
 	{
-		"title": "overkoepelend",
+		"title": "Overkoepelend",
 		"fo_doelzin_id": [],
 		"prefix": "",
 		"id": "ef399b1c-036f-4add-9086-700c8bf5426c",
@@ -5108,7 +5132,7 @@
 		]
 	},
 	{
-		"title": "wiskundige concepten",
+		"title": "Wiskundige concepten",
 		"fo_doelzin_id": [],
 		"prefix": "",
 		"id": "35eaca6c-e7f4-40c7-854a-4a2ddf5b3a43",
@@ -5129,7 +5153,7 @@
 		]
 	},
 	{
-		"title": "praktische kennis en vaardigheden",
+		"title": "Praktische kennis en vaardigheden",
 		"fo_doelzin_id": [],
 		"prefix": "",
 		"id": "1f603ad5-7a46-4805-b68a-6f40f43020b6",
@@ -5143,7 +5167,7 @@
 		]
 	},
 	{
-		"title": "ontwerpen en maken",
+		"title": "Ontwerpen en maken",
 		"fo_doelzin_id": [],
 		"prefix": "",
 		"id": "42c704c0-c063-4fa2-9dab-52b909071e27",
@@ -5157,7 +5181,7 @@
 		]
 	},
 	{
-		"title": "de gedigitaliseerde wereld",
+		"title": "De gedigitaliseerde wereld",
 		"fo_doelzin_id": [],
 		"prefix": "",
 		"id": "89ef68d2-dda6-4174-b539-172e41892b83",
@@ -5171,7 +5195,7 @@
 		]
 	},
 	{
-		"title": "democratische oefenplaats",
+		"title": "Democratische oefenplaats",
 		"fo_doelzin_id": [],
 		"prefix": "",
 		"id": "4f91718e-a8ae-4f1a-96dc-a265ebbfa450",
@@ -5185,7 +5209,7 @@
 		]
 	},
 	{
-		"title": "samenleven in een democratische rechtsstaat",
+		"title": "Samenleven in een democratische rechtsstaat",
 		"fo_doelzin_id": [],
 		"prefix": "",
 		"id": "b4577929-bda5-4ef1-a356-a636a9a3ec65",
@@ -5199,7 +5223,7 @@
 		]
 	},
 	{
-		"title": "vormgeven aan democratische en maatschappelijke betrokkenheid",
+		"title": "Vormgeven aan democratische en maatschappelijke betrokkenheid",
 		"fo_doelzin_id": [],
 		"prefix": "",
 		"id": "59013119-6fb0-4788-8e7e-b2fc1e53a3ab",
@@ -5213,7 +5237,7 @@
 		]
 	},
 	{
-		"title": "taal",
+		"title": "Taal",
 		"fo_doelzin_id": [],
 		"prefix": "",
 		"id": "8e1efc0d-b922-406f-926e-4f43f642a456",
@@ -5230,7 +5254,7 @@
 		]
 	},
 	{
-		"title": "wiskunde en de wereld",
+		"title": "Wiskunde en de wereld",
 		"fo_doelzin_id": [],
 		"prefix": "",
 		"id": "b4f6c87b-5f4d-48dd-8364-e86b2403d26b",
@@ -5247,7 +5271,7 @@
 		]
 	},
 	{
-		"title": "communicatie",
+		"title": "Communicatie",
 		"fo_doelzin_id": [],
 		"prefix": "",
 		"id": "858763c3-d9a6-4346-9c38-b2820a5415b2",
@@ -5268,7 +5292,7 @@
 		]
 	},
 	{
-		"title": "literatuur",
+		"title": "Literatuur",
 		"fo_doelzin_id": [],
 		"prefix": "",
 		"id": "ceb931ef-4613-4088-9700-ba3c4d95acdc",
@@ -5286,7 +5310,7 @@
 		]
 	},
 	{
-		"title": "wiskundige denk-werkwijzen",
+		"title": "Wiskundige denk-werkwijzen",
 		"fo_doelzin_id": [],
 		"prefix": "",
 		"id": "f0bbc33c-1771-4461-9496-247e686b11b7",
@@ -5303,7 +5327,7 @@
 		]
 	},
 	{
-		"title": "samenleven in een democratische rechtsstaat",
+		"title": "Samenleven in een democratische rechtsstaat",
 		"description": "",
 		"id": "60bf576d-c6f9-49fa-a0b6-acd6ff2c7a71",
 		"fo_kernzin_id": [
@@ -5316,7 +5340,7 @@
 		]
 	},
 	{
-		"title": "vormgeven aan democratische en maatschappelijke betrokkenheid",
+		"title": "Vormgeven aan democratische en maatschappelijke betrokkenheid",
 		"description": "",
 		"id": "7db915ba-30aa-4691-a7c1-36253eef0616",
 		"fo_kernzin_id": [
@@ -5329,7 +5353,7 @@
 		]
 	},
 	{
-		"title": "Domein: vraagstukken en perspectieven",
+		"title": "Vraagstukken en perspectieven",
 		"description": "",
 		"prefix": "",
 		"id": "aa5aecc8-196e-4ebc-add4-25621e65d055",
@@ -5344,7 +5368,7 @@
 		]
 	},
 	{
-		"title": "Domein: rijke leeromgeving",
+		"title": "Rijke leeromgeving",
 		"description": "",
 		"id": "a69d5e2d-bacd-4546-98e7-a3d125639b1e",
 		"fo_kernzin_id": [
@@ -5356,7 +5380,7 @@
 		]
 	},
 	{
-		"title": "Domein: taal leren en gebruiken",
+		"title": "Taal leren en gebruiken",
 		"description": "",
 		"id": "03713bc8-2e09-4a70-8c41-a8ee318c5fc2",
 		"fo_kernzin_id": [
@@ -5368,7 +5392,7 @@
 		]
 	},
 	{
-		"title": "Domein: taalbewustzijn",
+		"title": "Taalbewustzijn",
 		"description": "",
 		"id": "d9acd37d-ec0d-4062-b165-d989a1324bf0",
 		"fo_kernzin_id": [
@@ -5380,7 +5404,7 @@
 		]
 	},
 	{
-		"title": "Domein: taalexpressie",
+		"title": "Taalexpressie",
 		"description": "",
 		"id": "9939365c-866a-4a4d-b2d5-f8751b14d0c0",
 		"fo_kernzin_id": [
@@ -5392,7 +5416,7 @@
 		]
 	},
 	{
-		"title": "Domein: cultuurbewustzijn",
+		"title": "Cultuurbewustzijn",
 		"description": "",
 		"id": "9766b242-8cb5-4ca0-8f85-6d7431ee9992",
 		"fo_kernzin_id": [
@@ -6074,7 +6098,7 @@
 		]
 	},
 	{
-		"title": "Domein: communicatie",
+		"title": "Communicatie",
 		"description": "",
 		"prefix": "",
 		"id": "c21e9e11-8ea2-4647-be1c-98a8d5700a1d",
@@ -6089,7 +6113,7 @@
 		]
 	},
 	{
-		"title": "jezelf en de ander",
+		"title": "Jezelf en de ander",
 		"description": "",
 		"id": "43ea8556-d28b-40aa-8966-7fb5894c4b46",
 		"fo_kernzin_id": [
@@ -6100,6 +6124,243 @@
 		"replaces": [
 			"4e9e8eba-6487-40f4-bcfb-dd2b959d2771",
 			"06e5c5fc-794a-4406-ba03-2478768a6e4e"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Loopbaanontwikkeling in praktijkgerichte opdrachten",
+		"prefix": "A",
+		"id": "eebfd7f2-c592-4a7a-bef5-62b9c10bdf8d",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"b5d60436-2491-4816-af06-ef63c1c52d4f",
+			"dc772ed6-0a6d-4499-b243-6194a1dd7d53",
+			"24d266ab-6843-40b1-aea6-56001e3ebf5a",
+			"b8140204-73f8-4a1f-bfae-794312aeee0e",
+			"a430ed88-82c5-4994-b911-cfa688066020"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Programmaoverstijgende vaardigheden",
+		"prefix": "B",
+		"id": "527268c0-2e5c-4ad7-8051-17c135892abc",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"6aa3dc3a-4efe-4315-bcd0-ea26d2e89b99",
+			"ef899dfb-c28d-487b-abe2-d018aa44c829",
+			"9aa4d398-8ddc-4d26-a06c-f27689573c7b",
+			"0b036b74-2ffe-4f5c-be59-9e7f6d3a2514",
+			"631fb016-65df-4028-9dd2-581d184f73ab",
+			"9761c932-04d3-4199-a254-558dd6e44597",
+			"f1ab7053-4dd1-4676-ae9b-95199be02d14",
+			"797c8453-f8cb-4bd3-ab4c-ec3c6fe2292c",
+			"2cfd8f47-44fd-4304-a47f-580ea9b176be"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Werkvelden",
+		"prefix": "C",
+		"id": "68b17096-bec4-4061-9d75-9c33728aaebd",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"4e1cc882-180c-4cc8-8897-1b3d517b2155"
+		]
+	},
+	{
+		"title": "Domein D",
+		"description": "Programmaspecifieke kennis en vaardigheden",
+		"prefix": "D",
+		"id": "b0ebc85c-625a-4499-978b-8c413cbae5bf",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"f53c72bb-5cd6-462a-9819-084ecf5fc1ac",
+			"f1967b28-a875-4a2a-b053-86d62ae8a2d2",
+			"e2c3c32e-af0a-421a-aebc-4dbb2f43da1c",
+			"d1ff7640-7b19-436f-aa69-3eec44b0b4a1",
+			"51f75f65-b04b-4718-88fd-778662066147",
+			"ca1d4634-a8b2-47f8-be45-48c6b7562105",
+			"682ff907-f1b5-45e1-9531-a13288f8ff37",
+			"ff2e6a02-30ea-424e-88f3-13b4c9c40039"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Loopbaanontwikkeling in praktijkgerichte opdrachten",
+		"prefix": "A",
+		"id": "192f3587-f596-4750-a38c-52081910f290",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"60aad7dd-cbd2-4915-be16-7343c1bd1a4a",
+			"ed8eebe8-c65f-40f7-b4cd-09dd89c16232",
+			"53e30b99-786c-4e14-83dd-fe29ab2053c9",
+			"459e37f8-bd3f-4df5-8407-1a79d0257b0f",
+			"3daffded-4faa-4964-8724-1362c7522688"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Programmaoverstijgende vaardigheden",
+		"prefix": "B",
+		"id": "6c645242-4ee0-4a90-8877-3eacb1825c2c",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"c54aafcf-ef66-4904-b8a6-f0e3172590d3",
+			"4b737ab2-ac27-4470-af09-5e7175672e3d",
+			"826212c5-7864-4852-b125-688bf9d92f86",
+			"9c46fd78-21a4-4d88-827c-8b137595932f",
+			"a8d30efa-e473-4b13-b677-60388617195b",
+			"22ff0f3b-9c9c-4ed3-8c4c-89451a3c3654",
+			"8d724512-f436-4cc6-9612-85eb96e3f70d",
+			"26e9e916-88da-4a14-9276-c69a9ef6b3d4",
+			"f7ada538-5240-41e3-9a56-893663db787a"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Werkvelden",
+		"prefix": "C",
+		"id": "bd60eefc-089d-4f4c-93d1-01c40e3df1d4",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"7d4dfb8c-b97b-433d-bb17-6a74a9226f15"
+		]
+	},
+	{
+		"title": "Domein D",
+		"description": "Programmaspecifieke kennis en vaardigheden",
+		"prefix": "D",
+		"id": "96eb251b-c1b6-4b54-b95f-b24e29f52487",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"dede2f4a-0833-40ee-a959-9bc171ccbe66",
+			"8d7c53b0-119f-4c6b-9948-3d6bd1849282",
+			"9b60c99b-8b0b-4bb3-8c42-3f52ee5ff99c",
+			"5cc13084-afa7-4999-93c4-a89ceadbc152",
+			"04edf558-f429-4348-b0ad-44e2684eae17",
+			"19542b00-c8d6-4231-b886-aa11bef5a209",
+			"df8c8a9e-0741-40df-b606-9b8c137df991",
+			"5d35c7fb-927e-42ff-ad0b-9fab090643ba",
+			"af3e4a22-4cb5-48e5-a015-ddaa8c278cc2"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Loopbaanontwikkeling in praktijkgerichte opdrachten",
+		"prefix": "A",
+		"id": "900666e4-9745-40d4-817f-8a6ab126c1df",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"823128a9-1520-4524-968c-34cd66cbe8db",
+			"701cbedc-f934-4c46-9743-265b710e9597",
+			"207cc7b5-204a-43db-92b0-2f4373e4dbb2",
+			"dd28fc20-0b39-4d24-9f55-a0975595776d",
+			"11f4ab1d-c8b0-4486-b40b-99028ccaa0f0"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Programmaoverstijgende vaardigheden",
+		"prefix": "B",
+		"id": "79db750c-105a-41a9-809d-42a0d3cf6a18",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"2816024f-cf53-40f5-8874-5529f991abb9",
+			"e25cfed3-fc38-444b-acc7-659ab46c1cbf",
+			"0d19c17e-911d-4764-910c-059b2323195b",
+			"f4dc24ee-012c-473f-8bd7-c4091cb28dff",
+			"9744a506-9de8-4103-bd6b-52aaee5b3d48",
+			"38e80d29-c12a-46c0-b7d2-e793ebe9f988",
+			"47d6956a-9790-4cb2-ab1a-c70e9cc3d16c",
+			"97717519-440d-4a22-a6be-ffd640db7940",
+			"2989286c-1020-41a4-b75f-b7b8cb4536bd"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Werkvelden",
+		"prefix": "C",
+		"id": "c249257b-5874-41a4-bdc4-fd0e6cfa43e5",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"bf5962a0-7d72-4349-9d38-0eb5e125f776"
+		]
+	},
+	{
+		"title": "Domein D",
+		"description": "Programmaspecifieke kennis en vaardigheden",
+		"prefix": "D",
+		"id": "6aa95cf8-e140-441e-bb44-95552790df9a",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"befc0f67-0616-40d2-adbe-70068b91cc80",
+			"2e2ac642-7c80-4007-9451-1395c0c449be",
+			"35b015e9-6f65-4c45-99e0-08392cc37634",
+			"43513e5d-cfb3-4999-a95a-53af455c78aa",
+			"a6645a80-7011-4e37-b9fd-862dc127b63f",
+			"49b7843f-e8ac-4241-8143-6cb3a4b86f20",
+			"2f14e333-abb0-4c26-a548-0bb6e6196737"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Loopbaan ontwikkeling in praktijkgerichte opdrachten",
+		"prefix": "A",
+		"id": "1e3b67da-5981-4787-88de-0498ffea3580",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"7e1868a3-43b5-460d-8e58-22460427376f",
+			"83130dd1-d573-4997-8bf5-77dd2695eaf5",
+			"06f8351f-224b-4d87-b3fe-39cacb18218d",
+			"4289a0ec-2591-4aff-af8b-ebfe161093c1",
+			"d5230f80-3bd7-4f5f-ab67-c232f695af1f"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Programmaoverstijgende vaardigheden",
+		"prefix": "B",
+		"id": "ea8ec334-e1a5-4b98-84ad-6a9691451c9d",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"10f4c03e-956a-4f68-bc96-90ced26097dd",
+			"9e8f7ce9-f512-4cb0-8b12-d5198e055c76",
+			"7ca41070-2a1a-49c2-999a-547ba6824380",
+			"d4712f6d-9541-4ac7-b446-69ee86ff7831",
+			"fcb2452c-be6f-49dc-b786-ea676a10a611",
+			"a4449930-270a-4599-b330-a3ce1d90b81b",
+			"b105eb2a-78f3-492d-96a7-59035a84677d",
+			"e78fa03d-81de-474f-a300-168b3ab34ced",
+			"a0b1ae2a-f84c-42de-80a6-d34a35ddc201"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Werkvelden",
+		"prefix": "C",
+		"id": "6e8f72e8-91ad-45c5-86da-76c2c0c45036",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"76aa3b03-a81c-4566-a0de-a4a5f397078b"
+		]
+	},
+	{
+		"title": "Domein D",
+		"description": "Programmaspecifieke kennis en vaardigheden",
+		"prefix": "D",
+		"id": "148f33f4-7aa9-4349-9d9d-01b92fe884d0",
+		"unreleased": true,
+		"fo_doelzin_id": [
+			"901b7f03-528e-4b15-a691-176e505fbefc",
+			"1d5fc19e-86df-4fef-998f-c7d0cbc333e3",
+			"9d74bb13-5348-483c-97e8-d686403ac19c",
+			"5920bb2e-5d95-44d5-8d0a-17eb8f23e4a3",
+			"1371ece4-1904-435f-9596-ecce573e4609",
+			"48487830-1c6a-4664-90ea-0f2a086205c6",
+			"8c628913-3005-4e29-9bf4-f873dd55a36d",
+			"24d9c9b6-66f8-4638-9818-3fceb45dc6e5",
+			"9bd1e56c-4d02-45ba-8302-42964d4f17db"
 		]
 	}
 ]
