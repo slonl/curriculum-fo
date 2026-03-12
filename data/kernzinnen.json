@@ -101,17 +101,6 @@
 		]
 	},
 	{
-		"title": "Kerndoel 38",
-		"description": "De leerling ontwikkelt zich in het bewegen.",
-		"prefix": "38",
-		"id": "44a64ee5-b1a4-4782-9109-397d995df7a8",
-		"fo_doelzin_id": [
-			"fda5b51c-508f-4424-a05c-764d1df54982",
-			"68ed0633-b3f9-4a84-bb95-f73d004d89ff",
-			"f54834d8-19b9-4b2d-9b89-9444c7144afb"
-		]
-	},
-	{
 		"title": "Kerndoel 44",
 		"description": "De leerling beweegt samen met anderen.",
 		"prefix": "44",
@@ -1789,20 +1778,6 @@
 		]
 	},
 	{
-		"title": "Kerndoel 14",
-		"description": "De leerling gebruikt wiskundige denk-werkwijzen.",
-		"prefix": "14",
-		"id": "44fc83bc-f232-4489-816c-f2ddb1b5029d",
-		"fo_doelzin_id": [
-			"d963ad9f-c066-485b-9150-18960ab8ddaa",
-			"f10b611a-5ee0-400e-a70f-883ecd02f029",
-			"b5951438-ff09-46c8-95bf-1b9ddf44b5dc"
-		],
-		"replaces": [
-			"91b09b7e-c51e-4edf-b782-958e9618025c"
-		]
-	},
-	{
 		"title": "Kerndoel 16",
 		"description": "De leerling gebruikt wiskundetaal en wiskundig gereedschap.",
 		"prefix": "16",
@@ -1813,20 +1788,6 @@
 		],
 		"replaces": [
 			"b5418274-f8b8-4dec-b189-f5cea42e4691"
-		]
-	},
-	{
-		"title": "Kerndoel 15",
-		"description": "De leerling gebruikt wiksunde taal en wiskundig gereedschap.",
-		"prefix": "15",
-		"id": "440c6124-21f5-4d86-8fd7-81713dbdd755",
-		"fo_doelzin_id": [
-			"9f9b8f93-fc5e-4653-a3c9-9eb49142d620",
-			"a0764ed9-3b5e-48fc-96dc-d45a5b761009",
-			"57cdd39e-6c46-4fdd-9f39-32d5285479b1"
-		],
-		"replaces": [
-			"03d7766d-1da5-43c4-9b59-47181707f914"
 		]
 	},
 	{
@@ -1995,20 +1956,6 @@
 		]
 	},
 	{
-		"title": "Kerndoel 24",
-		"description": "De leerling onderzoekt vraagstukken over mens en samenleving",
-		"prefix": "24",
-		"id": "14ca2430-5381-4ad9-8443-149866e485c7",
-		"fo_doelzin_id": [
-			"bec92148-8ecf-4548-901a-18d65cb882a8",
-			"f7a99cfb-62d1-4c62-9365-a93a87daeafe",
-			"c14538c7-03db-4ebb-abd2-e9ae0de6d894"
-		],
-		"replaces": [
-			"d68634e7-1358-466d-91a1-d1a5b157bcee"
-		]
-	},
-	{
 		"title": "Kerndoel 1",
 		"description": "De school zorgt voor een rijke Friestalige taal- en leeromgeving",
 		"prefix": "1",
@@ -2103,6 +2050,65 @@
 		"replaces": [
 			"6f544178-75ba-486d-88d1-c96d3bed0de2",
 			"11809484-8510-45d3-bbb8-bd5830a82ad4"
+		]
+	},
+	{
+		"title": "Kerndoel 38",
+		"description": "De leerling ontwikkelt zich in het bewegen.",
+		"prefix": "38",
+		"id": "8db37b2c-95f0-4f00-9fa6-7b22705d74bc",
+		"fo_doelzin_id": [
+			"fda5b51c-508f-4424-a05c-764d1df54982",
+			"68ed0633-b3f9-4a84-bb95-f73d004d89ff",
+			"f54834d8-19b9-4b2d-9b89-9444c7144afb"
+		],
+		"replaces": [
+			"44a64ee5-b1a4-4782-9109-397d995df7a8"
+		]
+	},
+	{
+		"title": "Kerndoel 14",
+		"description": "De leerling gebruikt wiskundige denk-werkwijzen.",
+		"prefix": "14",
+		"id": "e3996a04-0f75-4650-8695-e82460aa7dbf",
+		"fo_doelzin_id": [
+			"d963ad9f-c066-485b-9150-18960ab8ddaa",
+			"f10b611a-5ee0-400e-a70f-883ecd02f029",
+			"b5951438-ff09-46c8-95bf-1b9ddf44b5dc",
+			"dbc3ca07-c03e-420d-a3d3-493dd8b02fe3"
+		],
+		"replaces": [
+			"91b09b7e-c51e-4edf-b782-958e9618025c",
+			"44fc83bc-f232-4489-816c-f2ddb1b5029d"
+		]
+	},
+	{
+		"title": "Kerndoel 15",
+		"description": "De leerling gebruikt wiksunde taal en wiskundig gereedschap.",
+		"prefix": "15",
+		"id": "d501d829-2eb9-4389-8c17-47a86b67f37e",
+		"fo_doelzin_id": [
+			"a0764ed9-3b5e-48fc-96dc-d45a5b761009",
+			"57cdd39e-6c46-4fdd-9f39-32d5285479b1"
+		],
+		"replaces": [
+			"03d7766d-1da5-43c4-9b59-47181707f914",
+			"440c6124-21f5-4d86-8fd7-81713dbdd755"
+		]
+	},
+	{
+		"title": "Kerndoel 24",
+		"description": "De leerling onderzoekt vraagstukken over mens en samenleving",
+		"prefix": "24",
+		"id": "257aea39-311d-4708-b78d-981ca751722c",
+		"fo_doelzin_id": [
+			"bec92148-8ecf-4548-901a-18d65cb882a8",
+			"f7a99cfb-62d1-4c62-9365-a93a87daeafe",
+			"c14538c7-03db-4ebb-abd2-e9ae0de6d894"
+		],
+		"replaces": [
+			"d68634e7-1358-466d-91a1-d1a5b157bcee",
+			"14ca2430-5381-4ad9-8443-149866e485c7"
 		]
 	}
 ]
