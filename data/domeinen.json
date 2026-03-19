@@ -2036,20 +2036,6 @@
 		]
 	},
 	{
-		"title": "Domein A  Communicatie",
-		"description": "Domein A Communicatie",
-		"prefix": "A",
-		"id": "9df4bd85-bfd7-47c7-844b-a3d73d3d37d1",
-		"fo_subdomein_id": [
-			"9b747cc9-fe45-41f1-a24e-647c04bbc62c",
-			"a59b6444-d985-4179-975d-c61f9f578336",
-			"0887d7be-0f69-485e-aa99-c6719cf99d9e"
-		],
-		"replaces": [
-			"ebbb666e-8773-48cf-938b-0128106d37ca"
-		]
-	},
-	{
 		"title": "Domein B Taalbewustzijn",
 		"description": "",
 		"prefix": "B",
@@ -2156,20 +2142,6 @@
 		]
 	},
 	{
-		"title": "Domein A  Communicatie",
-		"description": "Domein A Communicatie",
-		"prefix": "A",
-		"id": "84e96620-3251-4868-a471-0cdbd416c9a3",
-		"fo_subdomein_id": [
-			"71cd85fa-2404-4d7f-bdf0-afc1517cc9b8",
-			"d54890f3-cb9a-4811-b093-e26b539faab7",
-			"7556ade8-8e23-4db4-8230-6f5b3e3b683a"
-		],
-		"replaces": [
-			"593fe305-9789-49f9-aa98-e4889dc4cd3d"
-		]
-	},
-	{
 		"title": "Domein B Taalbewustzijn",
 		"description": "",
 		"prefix": "B",
@@ -2193,20 +2165,6 @@
 		],
 		"replaces": [
 			"2a43063b-0fbd-4f7e-a055-38fd674540ce"
-		]
-	},
-	{
-		"title": "Domein A  Communicatie",
-		"description": "Domein A Communicatie",
-		"prefix": "A",
-		"id": "26b2e65f-0a69-4811-99c1-cb1a42350c07",
-		"fo_subdomein_id": [
-			"a185dd0d-8486-4a71-ac44-7489f4578bc1",
-			"52096b3d-4906-4ca7-bcf8-5a23f83c1a01",
-			"be1a02c3-ae92-40f6-879f-b92cf0a9412d"
-		],
-		"replaces": [
-			"e17a425b-f6ef-4118-b117-d2ad563eaa39"
 		]
 	},
 	{
@@ -2236,20 +2194,6 @@
 		]
 	},
 	{
-		"title": "Domein A  Communicatie",
-		"description": "Domein A Communicatie",
-		"prefix": "A",
-		"id": "9d37c2bf-dc94-4f02-8120-e04bf922c745",
-		"fo_subdomein_id": [
-			"1cb89947-a6f5-48d3-bfa7-69d4d07209ed",
-			"bd313c29-defc-43f7-993e-ad89a0dea231",
-			"3f62cc7c-edb7-47df-8613-43c64197582f"
-		],
-		"replaces": [
-			"05528af3-c5d5-4cbb-a6a6-9d1b3c442330"
-		]
-	},
-	{
 		"title": "Domein B Taalbewustzijn",
 		"description": "",
 		"prefix": "B",
@@ -2273,20 +2217,6 @@
 		],
 		"replaces": [
 			"19c3627b-8615-4169-be84-1d80da271ed0"
-		]
-	},
-	{
-		"title": "Domein A  Communicatie",
-		"description": "Domein A Communicatie",
-		"prefix": "A",
-		"id": "4082d726-1640-4749-8e6c-24c4b2421e0a",
-		"fo_subdomein_id": [
-			"49de2479-42b3-4fc5-817f-36dcfce61a46",
-			"23c875c1-3f2f-4b59-ae7a-007c8f489828",
-			"5c166a74-371f-4e8f-84e5-cbb858517320"
-		],
-		"replaces": [
-			"e2388fe3-6330-47ef-93e3-18eead987196"
 		]
 	},
 	{
@@ -2316,20 +2246,6 @@
 		]
 	},
 	{
-		"title": "Domein A  Communicatie",
-		"description": "Domein A Communicatie",
-		"prefix": "A",
-		"id": "f82976bd-18ad-459d-a8b5-42dd97f1b432",
-		"fo_subdomein_id": [
-			"7c0d9d44-b233-49ea-8f30-89b6d573362e",
-			"275c4365-f94d-45ef-a467-3db53d2aed24",
-			"b4b4f1b8-7049-411c-9d36-1185ed12318f"
-		],
-		"replaces": [
-			"279e7896-3a4b-43c8-8768-8cc90c1897d6"
-		]
-	},
-	{
 		"title": "Domein B Taalbewustzijn",
 		"description": "",
 		"prefix": "B",
@@ -2353,20 +2269,6 @@
 		],
 		"replaces": [
 			"31ab0e7b-6bcf-4f46-b54a-12226a69bb29"
-		]
-	},
-	{
-		"title": "Domein A  Communicatie",
-		"description": "Domein A Communicatie",
-		"prefix": "A",
-		"id": "4a864ae6-e541-4b89-9a09-5d9156d4d1fb",
-		"fo_subdomein_id": [
-			"65b1c52d-f20e-4020-b3c1-1f3552492aa0",
-			"30e2b603-3de0-42af-a329-15227cf8360e",
-			"a117a152-6dd4-4a67-ae04-f1858f1c58bc"
-		],
-		"replaces": [
-			"b3ee7e4c-eeaf-4cda-af5e-5adf8a31f1a5"
 		]
 	},
 	{
@@ -2396,20 +2298,6 @@
 		]
 	},
 	{
-		"title": "Domein A  Communicatie",
-		"description": "Domein A Communicatie",
-		"prefix": "A",
-		"id": "7cbc4fbd-758f-4ea6-80e4-a7d54ddd77a2",
-		"fo_subdomein_id": [
-			"986969fb-cb12-4557-a8d4-6513783c9791",
-			"44d0ab43-1422-48c9-a969-05c492bad5d4",
-			"44657338-0be0-453e-81c1-de88011b1931"
-		],
-		"replaces": [
-			"7d51c819-33ba-467f-bf7e-fc8e58849405"
-		]
-	},
-	{
 		"title": "Domein B Taalbewustzijn",
 		"description": "",
 		"prefix": "B",
@@ -2433,20 +2321,6 @@
 		],
 		"replaces": [
 			"b082111c-9b1a-4e7b-b1d9-81560dfd5b62"
-		]
-	},
-	{
-		"title": "Domein A  Communicatie",
-		"description": "Domein A Communicatie",
-		"prefix": "A",
-		"id": "488b2cd4-70f8-4939-b45a-2b38db0ba07c",
-		"fo_subdomein_id": [
-			"ec5e41f2-1837-4ea0-82b4-41d60e7bb03b",
-			"51e1ac5c-16ea-4424-b765-5802ee4f591c",
-			"18b63f16-f8b3-400e-a581-c60221303bda"
-		],
-		"replaces": [
-			"d30e8f71-a01d-46fb-9e30-6cad0c9b48ba"
 		]
 	},
 	{
@@ -2556,20 +2430,6 @@
 		]
 	},
 	{
-		"title": "Domein A  Communicatie",
-		"description": "Domein A Communicatie",
-		"prefix": "A",
-		"id": "1c44672d-6d09-4d6b-bdea-3d6af126d6e8",
-		"fo_subdomein_id": [
-			"9d24faeb-f7d9-45e2-973d-61723c4799e6",
-			"7028894d-e91f-42e8-869f-f4ec0be7a8e5",
-			"a90798a8-ae7e-4973-bbfd-637bbde863c0"
-		],
-		"replaces": [
-			"b902ccb5-942f-414d-82a2-0fec5dced274"
-		]
-	},
-	{
 		"title": "Domein B Taalbewustzijn",
 		"description": "",
 		"prefix": "B",
@@ -2593,20 +2453,6 @@
 		],
 		"replaces": [
 			"0e39e784-4776-40da-b0a2-21fea4ae5c17"
-		]
-	},
-	{
-		"title": "Domein A  Communicatie",
-		"description": "Domein A Communicatie",
-		"prefix": "A",
-		"id": "0f5f984b-df6a-40fb-be8a-7dedf97ef82f",
-		"fo_subdomein_id": [
-			"aa137ca1-0d14-4248-a280-c9fec6a8d829",
-			"3e517d79-6f08-4ed5-b7cf-d8a0ca6534bd",
-			"0b375dde-7578-492f-96c7-998701966179"
-		],
-		"replaces": [
-			"f6345fe4-16c1-4ef2-9c62-d6c7ea1c79c5"
 		]
 	},
 	{
@@ -2636,20 +2482,6 @@
 		]
 	},
 	{
-		"title": "Domein A  Communicatie",
-		"description": "Domein A Communicatie",
-		"prefix": "A",
-		"id": "fdb0cca5-fa3b-45bb-b409-5518fbe70962",
-		"fo_subdomein_id": [
-			"f9578bb6-5caa-4fde-9cb4-221029c3b503",
-			"f69117ba-a708-4ebe-aaba-59fbea370e79",
-			"69995907-0632-4017-bc51-04a8fcb8da6b"
-		],
-		"replaces": [
-			"89334bda-7e67-4d13-b85f-2992de7a700e"
-		]
-	},
-	{
 		"title": "Domein B Taalbewustzijn",
 		"description": "",
 		"prefix": "B",
@@ -2676,20 +2508,6 @@
 		]
 	},
 	{
-		"title": "Domein A  Communicatie",
-		"description": "Domein A Communicatie",
-		"prefix": "A",
-		"id": "7dd6f5b1-ae01-4e6b-bfac-1be938dc4228",
-		"fo_subdomein_id": [
-			"f56a5eb7-b80b-4285-b503-7fa524832445",
-			"ff02901e-3e6a-4311-8a04-5ec78ba2cce8",
-			"df1c1b39-45a0-4c34-923d-22ee90d9989b"
-		],
-		"replaces": [
-			"27857fe5-3b78-44cc-bb04-f2d8f175f80c"
-		]
-	},
-	{
 		"title": "Domein B Taalbewustzijn",
 		"description": "",
 		"prefix": "B",
@@ -2713,20 +2531,6 @@
 		],
 		"replaces": [
 			"ffd49784-bd81-4729-b21c-87302be4da78"
-		]
-	},
-	{
-		"title": "Domein A  Communicatie",
-		"description": "Domein A Communicatie",
-		"prefix": "A",
-		"id": "0f36cfe2-2c83-4d9b-ba14-ce8afb4b51ad",
-		"fo_subdomein_id": [
-			"0aa22fe2-2031-4888-9a40-d776313f9948",
-			"89cfa6b0-0d73-4fee-a893-e413233d2f83",
-			"4a8abead-0e32-4192-b0a7-fe9d119311c2"
-		],
-		"replaces": [
-			"a9413cd4-625f-40f8-a896-a85c7ea6f6e7"
 		]
 	},
 	{
@@ -2836,20 +2640,6 @@
 		]
 	},
 	{
-		"title": "Domein A  Communicatie",
-		"description": "Domein A Communicatie",
-		"prefix": "A",
-		"id": "dda7cca6-5488-40a8-8086-e2aec6e501a6",
-		"fo_subdomein_id": [
-			"16cc27a5-ddca-4c56-99d5-0e12da148d49",
-			"c0e2a06a-2873-46f0-a549-6f366b734f7b",
-			"033df367-5465-46fd-b832-241a6ff731a1"
-		],
-		"replaces": [
-			"8aab5b92-e421-4b15-9cda-5373787f2272"
-		]
-	},
-	{
 		"title": "Domein B Taalbewustzijn",
 		"description": "",
 		"prefix": "B",
@@ -2876,20 +2666,6 @@
 		]
 	},
 	{
-		"title": "Domein A  Communicatie",
-		"description": "Domein A Communicatie",
-		"prefix": "A",
-		"id": "8e01a552-7fab-4607-b40d-8bf284308977",
-		"fo_subdomein_id": [
-			"f935a356-bf5b-46bd-b201-f2f6c6ddc294",
-			"e3310b4a-f863-4a69-8a85-786d26b95a1e",
-			"77b8291c-da46-497a-8d3e-b13ff7601760"
-		],
-		"replaces": [
-			"f4d679cf-85df-49e4-bb06-34c5b8a99fd4"
-		]
-	},
-	{
 		"title": "Domein B Taalbewustzijn",
 		"description": "",
 		"prefix": "B",
@@ -2913,20 +2689,6 @@
 		],
 		"replaces": [
 			"88f1cd01-35d3-4dd8-9c9d-55f75250bf22"
-		]
-	},
-	{
-		"title": "Domein A  Communicatie",
-		"description": "Domein A Communicatie",
-		"prefix": "A",
-		"id": "c0f5c8bf-090a-4285-ad05-a9ef2fa98f15",
-		"fo_subdomein_id": [
-			"94d73d00-5f04-4f5b-aa5e-60260dc4cb7a",
-			"95414526-f58d-45fd-8b3d-d06285b73230",
-			"81b49a91-538e-4757-a398-2973b865f509"
-		],
-		"replaces": [
-			"6804e6f4-b83a-4614-acd3-0a2f4d7d689e"
 		]
 	},
 	{
@@ -4425,18 +4187,6 @@
 		]
 	},
 	{
-		"title": "Overkoepelend",
-		"id": "8d3ca50d-aa61-4bc1-afa1-250d2f23bfa0",
-		"fo_kernzin_id": [
-			"1175cb41-c3cf-4004-9ed0-84f845ac135d",
-			"83232034-66b9-44c1-a1a2-cf2428349052",
-			"3c0dd201-bd9e-4051-b2cb-c293bfb51aec"
-		],
-		"replaces": [
-			"ff7c348e-33b9-4dbd-996d-99e524750e43"
-		]
-	},
-	{
 		"title": "Communicatie",
 		"id": "71cc9484-8eb6-488d-9738-4bb4d050f351",
 		"fo_kernzin_id": [
@@ -4541,27 +4291,6 @@
 		"replaces": [
 			"0d2e4fb8-cc61-427d-8ce7-ef6a2bf12e5e",
 			"307765cb-6ce7-4a4b-937d-94bced4cb274"
-		]
-	},
-	{
-		"title": "Wiskundige concepten",
-		"fo_doelzin_id": [],
-		"prefix": "",
-		"id": "35eaca6c-e7f4-40c7-854a-4a2ddf5b3a43",
-		"fo_kernzin_id": [
-			"38b7bf72-31e7-4f80-9b85-a3ceea825ff8",
-			"c8cf12dc-d3f5-4819-a1cd-21008a5dcbe8",
-			"2a377e8b-fc0f-41c4-8d82-93277698cb13",
-			"9860c2ca-8824-4399-aaeb-22c95f771dbd",
-			"cfcc92bf-54c9-4f5b-b283-d385d5bea06c",
-			"2cd591e7-2e6d-4f3e-837c-f97f953533aa",
-			"923369d7-1c98-4fd9-a4c6-9f3d7cd9b4df",
-			"3d75a697-d81c-4a66-9a81-63bd7bbf3c32",
-			"4341f8f3-6251-4921-9a81-a81aaaac4c9a"
-		],
-		"replaces": [
-			"f87d2b59-714b-4b94-9dfa-81e49632ad4e",
-			"a88f48a3-ef11-4d54-a830-2afc1cd08541"
 		]
 	},
 	{
@@ -4817,18 +4546,6 @@
 			"ee04dc24-126a-4491-8a95-0a38307300a3",
 			"899c0330-ce26-40be-801b-31700d73f498",
 			"1046b0a0-cd11-4002-88c4-80c0e81e0e43"
-		]
-	},
-	{
-		"title": "Domein D",
-		"description": "Kwantitatieve informatie en kansen (KIK)",
-		"prefix": "D",
-		"id": "d94a7904-e88f-4603-a513-f97f97eda99d",
-		"fo_subdomein_id": [
-			"588a38cb-e464-436f-9cc9-f70174993d2e",
-			"a4be5c05-26cb-4dd1-a44e-b333f214b8bd",
-			"5b906597-ee20-4486-abf7-8bddd505a59a",
-			"67413176-38d6-4263-9649-7c1f20e82dd8"
 		]
 	},
 	{
@@ -6365,6 +6082,311 @@
 		"replaces": [
 			"5875f785-7d50-434a-b0ff-68d09cdd26c9",
 			"3d6b2454-64a2-4fe5-a68a-bb84b3771ec7"
+		]
+	},
+	{
+		"title": "Overkoepelend",
+		"id": "cb83ccd5-08ce-4b30-9e7a-f60e2aa390c2",
+		"fo_kernzin_id": [
+			"1175cb41-c3cf-4004-9ed0-84f845ac135d",
+			"6f8603d5-cea4-48c0-86c4-861b7eee55ce",
+			"ca5ff42b-8470-45e5-9e54-b18307064139"
+		],
+		"replaces": [
+			"ff7c348e-33b9-4dbd-996d-99e524750e43",
+			"8d3ca50d-aa61-4bc1-afa1-250d2f23bfa0"
+		]
+	},
+	{
+		"title": "Wiskundige concepten",
+		"fo_doelzin_id": [],
+		"prefix": "",
+		"id": "1c658a59-99e2-41c7-92f9-925c0675bed8",
+		"fo_kernzin_id": [
+			"38b7bf72-31e7-4f80-9b85-a3ceea825ff8",
+			"c8cf12dc-d3f5-4819-a1cd-21008a5dcbe8",
+			"2a377e8b-fc0f-41c4-8d82-93277698cb13",
+			"9b27a23a-3d44-4a49-9bea-9adee0f5ab9f",
+			"f304f368-7c2b-4ab7-ba91-16eb9df32e5d",
+			"2cd591e7-2e6d-4f3e-837c-f97f953533aa",
+			"923369d7-1c98-4fd9-a4c6-9f3d7cd9b4df",
+			"3d75a697-d81c-4a66-9a81-63bd7bbf3c32",
+			"4341f8f3-6251-4921-9a81-a81aaaac4c9a"
+		],
+		"replaces": [
+			"f87d2b59-714b-4b94-9dfa-81e49632ad4e",
+			"a88f48a3-ef11-4d54-a830-2afc1cd08541",
+			"35eaca6c-e7f4-40c7-854a-4a2ddf5b3a43"
+		]
+	},
+	{
+		"title": "Domein A  Communicatie",
+		"description": "Domein A Communicatie",
+		"prefix": "A",
+		"id": "36b67dc4-670d-453e-bec8-799402cfafea",
+		"fo_subdomein_id": [
+			"9b747cc9-fe45-41f1-a24e-647c04bbc62c",
+			"90a89e1f-4137-463a-b5b8-260bd043be8c",
+			"0887d7be-0f69-485e-aa99-c6719cf99d9e"
+		],
+		"replaces": [
+			"ebbb666e-8773-48cf-938b-0128106d37ca",
+			"9df4bd85-bfd7-47c7-844b-a3d73d3d37d1"
+		]
+	},
+	{
+		"title": "Domein A  Communicatie",
+		"description": "Domein A Communicatie",
+		"prefix": "A",
+		"id": "d5d7bd6c-11ef-4c1c-8629-19e66d578475",
+		"fo_subdomein_id": [
+			"71cd85fa-2404-4d7f-bdf0-afc1517cc9b8",
+			"0cc40820-8ac3-4b44-9eeb-973c619ff6a3",
+			"7556ade8-8e23-4db4-8230-6f5b3e3b683a"
+		],
+		"replaces": [
+			"593fe305-9789-49f9-aa98-e4889dc4cd3d",
+			"84e96620-3251-4868-a471-0cdbd416c9a3"
+		]
+	},
+	{
+		"title": "Domein A  Communicatie",
+		"description": "Domein A Communicatie",
+		"prefix": "A",
+		"id": "d0a773e8-5738-4e04-9b56-a286e7f393e3",
+		"fo_subdomein_id": [
+			"a185dd0d-8486-4a71-ac44-7489f4578bc1",
+			"b916ba4a-3f68-458f-b1d0-964c767476e3",
+			"be1a02c3-ae92-40f6-879f-b92cf0a9412d"
+		],
+		"replaces": [
+			"e17a425b-f6ef-4118-b117-d2ad563eaa39",
+			"26b2e65f-0a69-4811-99c1-cb1a42350c07"
+		]
+	},
+	{
+		"title": "Domein A  Communicatie",
+		"description": "Domein A Communicatie",
+		"prefix": "A",
+		"id": "eb53ecea-26da-4825-9feb-f59a673e8d4b",
+		"fo_subdomein_id": [
+			"1cb89947-a6f5-48d3-bfa7-69d4d07209ed",
+			"3bba4e7a-9f42-4273-b090-3e86b8471f2a",
+			"3f62cc7c-edb7-47df-8613-43c64197582f"
+		],
+		"replaces": [
+			"05528af3-c5d5-4cbb-a6a6-9d1b3c442330",
+			"9d37c2bf-dc94-4f02-8120-e04bf922c745"
+		]
+	},
+	{
+		"title": "Domein A  Communicatie",
+		"description": "Domein A Communicatie",
+		"prefix": "A",
+		"id": "aa8c4b91-4d2a-4178-b6a7-7fd90bf5d39b",
+		"fo_subdomein_id": [
+			"49de2479-42b3-4fc5-817f-36dcfce61a46",
+			"1c4818a4-7745-4e95-8207-f8fb86101a8d",
+			"5c166a74-371f-4e8f-84e5-cbb858517320"
+		],
+		"replaces": [
+			"e2388fe3-6330-47ef-93e3-18eead987196",
+			"4082d726-1640-4749-8e6c-24c4b2421e0a"
+		]
+	},
+	{
+		"title": "Domein A  Communicatie",
+		"description": "Domein A Communicatie",
+		"prefix": "A",
+		"id": "c6f18b72-9011-47fb-b6e4-28615f3480c2",
+		"fo_subdomein_id": [
+			"7c0d9d44-b233-49ea-8f30-89b6d573362e",
+			"8078c120-ce81-4058-8e27-13914cea57e4",
+			"b4b4f1b8-7049-411c-9d36-1185ed12318f"
+		],
+		"replaces": [
+			"279e7896-3a4b-43c8-8768-8cc90c1897d6",
+			"f82976bd-18ad-459d-a8b5-42dd97f1b432"
+		]
+	},
+	{
+		"title": "Domein A  Communicatie",
+		"description": "Domein A Communicatie",
+		"prefix": "A",
+		"id": "2f755e49-eeb6-43c8-9b4d-8d0cef40a4a3",
+		"fo_subdomein_id": [
+			"65b1c52d-f20e-4020-b3c1-1f3552492aa0",
+			"118c7924-f67c-4581-9cdb-5693236a58f3",
+			"a117a152-6dd4-4a67-ae04-f1858f1c58bc"
+		],
+		"replaces": [
+			"b3ee7e4c-eeaf-4cda-af5e-5adf8a31f1a5",
+			"4a864ae6-e541-4b89-9a09-5d9156d4d1fb"
+		]
+	},
+	{
+		"title": "Domein A  Communicatie",
+		"description": "Domein A Communicatie",
+		"prefix": "A",
+		"id": "849968c1-8602-425b-82c9-c4e44aede4f1",
+		"fo_subdomein_id": [
+			"986969fb-cb12-4557-a8d4-6513783c9791",
+			"38847d4e-872a-46cd-a86b-0be0b0554f7d",
+			"44657338-0be0-453e-81c1-de88011b1931"
+		],
+		"replaces": [
+			"7d51c819-33ba-467f-bf7e-fc8e58849405",
+			"7cbc4fbd-758f-4ea6-80e4-a7d54ddd77a2"
+		]
+	},
+	{
+		"title": "Domein A  Communicatie",
+		"description": "Domein A Communicatie",
+		"prefix": "A",
+		"id": "33aec722-b966-4c8c-a188-a5710040f4b2",
+		"fo_subdomein_id": [
+			"ec5e41f2-1837-4ea0-82b4-41d60e7bb03b",
+			"e79a2207-6a31-44e2-8b0e-f96280850aa5",
+			"18b63f16-f8b3-400e-a581-c60221303bda"
+		],
+		"replaces": [
+			"d30e8f71-a01d-46fb-9e30-6cad0c9b48ba",
+			"488b2cd4-70f8-4939-b45a-2b38db0ba07c"
+		]
+	},
+	{
+		"title": "Domein A  Communicatie",
+		"description": "Domein A Communicatie",
+		"prefix": "A",
+		"id": "6e405342-e844-4037-8048-80e5bf003e51",
+		"fo_subdomein_id": [
+			"9d24faeb-f7d9-45e2-973d-61723c4799e6",
+			"cc65b032-6f38-4df5-818c-ddf03b603107",
+			"a90798a8-ae7e-4973-bbfd-637bbde863c0"
+		],
+		"replaces": [
+			"b902ccb5-942f-414d-82a2-0fec5dced274",
+			"1c44672d-6d09-4d6b-bdea-3d6af126d6e8"
+		]
+	},
+	{
+		"title": "Domein A  Communicatie",
+		"description": "Domein A Communicatie",
+		"prefix": "A",
+		"id": "e08661ec-b18d-4313-8a3f-03bdaf79e6e8",
+		"fo_subdomein_id": [
+			"aa137ca1-0d14-4248-a280-c9fec6a8d829",
+			"fcd45e66-80d6-4a18-8876-9dd0cc53c773",
+			"0b375dde-7578-492f-96c7-998701966179"
+		],
+		"replaces": [
+			"f6345fe4-16c1-4ef2-9c62-d6c7ea1c79c5",
+			"0f5f984b-df6a-40fb-be8a-7dedf97ef82f"
+		]
+	},
+	{
+		"title": "Domein A  Communicatie",
+		"description": "Domein A Communicatie",
+		"prefix": "A",
+		"id": "7727f81d-3e84-446b-a7c8-0c56623cd4ce",
+		"fo_subdomein_id": [
+			"f9578bb6-5caa-4fde-9cb4-221029c3b503",
+			"3b2f29be-5aea-4f45-a779-d0c177df2737",
+			"69995907-0632-4017-bc51-04a8fcb8da6b"
+		],
+		"replaces": [
+			"89334bda-7e67-4d13-b85f-2992de7a700e",
+			"fdb0cca5-fa3b-45bb-b409-5518fbe70962"
+		]
+	},
+	{
+		"title": "Domein A  Communicatie",
+		"description": "Domein A Communicatie",
+		"prefix": "A",
+		"id": "1245e0d2-bae0-4275-879f-41e8fd2429ed",
+		"fo_subdomein_id": [
+			"f56a5eb7-b80b-4285-b503-7fa524832445",
+			"bf2ed3c0-ad07-4c19-9b10-8fa516df8581",
+			"df1c1b39-45a0-4c34-923d-22ee90d9989b"
+		],
+		"replaces": [
+			"27857fe5-3b78-44cc-bb04-f2d8f175f80c",
+			"7dd6f5b1-ae01-4e6b-bfac-1be938dc4228"
+		]
+	},
+	{
+		"title": "Domein A  Communicatie",
+		"description": "Domein A Communicatie",
+		"prefix": "A",
+		"id": "f2655de1-84c0-4cdf-bce8-5c284ffc0cc3",
+		"fo_subdomein_id": [
+			"0aa22fe2-2031-4888-9a40-d776313f9948",
+			"db2eb576-52e2-449f-86ac-02375db50c40",
+			"4a8abead-0e32-4192-b0a7-fe9d119311c2"
+		],
+		"replaces": [
+			"a9413cd4-625f-40f8-a896-a85c7ea6f6e7",
+			"0f36cfe2-2c83-4d9b-ba14-ce8afb4b51ad"
+		]
+	},
+	{
+		"title": "Domein A  Communicatie",
+		"description": "Domein A Communicatie",
+		"prefix": "A",
+		"id": "b765c644-3ffa-43a7-932b-4e83c6063d20",
+		"fo_subdomein_id": [
+			"16cc27a5-ddca-4c56-99d5-0e12da148d49",
+			"4afdbcc5-74a2-4859-aa4f-d53179d06699",
+			"033df367-5465-46fd-b832-241a6ff731a1"
+		],
+		"replaces": [
+			"8aab5b92-e421-4b15-9cda-5373787f2272",
+			"dda7cca6-5488-40a8-8086-e2aec6e501a6"
+		]
+	},
+	{
+		"title": "Domein A  Communicatie",
+		"description": "Domein A Communicatie",
+		"prefix": "A",
+		"id": "ee10a3e3-d4db-404b-bd56-17a358476a90",
+		"fo_subdomein_id": [
+			"f935a356-bf5b-46bd-b201-f2f6c6ddc294",
+			"e1076c51-6189-42bd-a900-40b47c63a3a3",
+			"77b8291c-da46-497a-8d3e-b13ff7601760"
+		],
+		"replaces": [
+			"f4d679cf-85df-49e4-bb06-34c5b8a99fd4",
+			"8e01a552-7fab-4607-b40d-8bf284308977"
+		]
+	},
+	{
+		"title": "Domein A  Communicatie",
+		"description": "Domein A Communicatie",
+		"prefix": "A",
+		"id": "2f4bf37d-d4d8-49e9-8aee-5f02532de877",
+		"fo_subdomein_id": [
+			"94d73d00-5f04-4f5b-aa5e-60260dc4cb7a",
+			"dc0f4b74-6e05-4727-84c2-1077154980e0",
+			"81b49a91-538e-4757-a398-2973b865f509"
+		],
+		"replaces": [
+			"6804e6f4-b83a-4614-acd3-0a2f4d7d689e",
+			"c0f5c8bf-090a-4285-ad05-a9ef2fa98f15"
+		]
+	},
+	{
+		"title": "Domein D",
+		"description": "Kwantitatieve informatie en kansen (KIK)",
+		"prefix": "D",
+		"id": "e4b4b367-2325-437d-b18a-e141036c9da0",
+		"fo_subdomein_id": [
+			"64c3d1c4-1069-4052-b5d3-1b247f0825bb",
+			"eb0e668f-796d-4eb5-ae88-58076cedd69d",
+			"c7d3d75e-643b-438d-bf36-1043c73cf17c",
+			"cf809228-c65d-4ba7-9af2-168d1d59f149"
+		],
+		"replaces": [
+			"d94a7904-e88f-4603-a513-f97f97eda99d"
 		]
 	}
 ]

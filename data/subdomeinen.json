@@ -1240,20 +1240,6 @@
 		]
 	},
 	{
-		"title": "Subdomein A2 Receptie",
-		"description": "Subdomein A2 Receptie",
-		"prefix": "A2",
-		"id": "a59b6444-d985-4179-975d-c61f9f578336",
-		"fo_doelzin_id": [
-			"479495e5-984a-4241-b291-80f13f073b48",
-			"b90733b7-dd4f-4f3f-a90a-bfce6343b339",
-			"db836a5a-b080-4664-b606-98e301ab52e9"
-		],
-		"replaces": [
-			"e62fd081-e838-40ad-845a-1aa1f45ec260"
-		]
-	},
-	{
 		"title": "Subdomein A3 Productie en interactie",
 		"description": "Subdomein A3 Productie en interactie",
 		"prefix": "A3",
@@ -1520,20 +1506,6 @@
 		]
 	},
 	{
-		"title": "Subdomein A2 Receptie",
-		"description": "Subdomein A2 Receptie",
-		"prefix": "A2",
-		"id": "d54890f3-cb9a-4811-b093-e26b539faab7",
-		"fo_doelzin_id": [
-			"f98bdf5d-719c-47f9-87f7-7f7eff636944",
-			"2415f45f-cd04-4875-8c6d-7b8d08f7485c",
-			"cf4e5eef-e77d-4fff-8e64-aa82aa086f7e"
-		],
-		"replaces": [
-			"8a9626b1-4e7c-4e15-9feb-07f3bc786d1b"
-		]
-	},
-	{
 		"title": "Subdomein A3 Productie en interactie",
 		"description": "Subdomein A3 Productie en interactie",
 		"prefix": "A3",
@@ -1611,20 +1583,6 @@
 		],
 		"replaces": [
 			"c457d8a3-8e1f-426f-a1c3-46b7a0fbd85d"
-		]
-	},
-	{
-		"title": "Subdomein A2 Receptie",
-		"description": "Subdomein A2 Receptie",
-		"prefix": "A2",
-		"id": "52096b3d-4906-4ca7-bcf8-5a23f83c1a01",
-		"fo_doelzin_id": [
-			"6c9320df-9872-41ca-854e-2645ae9304e5",
-			"06175c88-842b-4da5-aaf6-dd60bc98907b",
-			"0ccbde70-bbd9-4b93-968d-b62f792b5db9"
-		],
-		"replaces": [
-			"907a829c-9aed-4e48-8997-18d797fa42e4"
 		]
 	},
 	{
@@ -1706,20 +1664,6 @@
 		],
 		"replaces": [
 			"00a739f9-cfbd-493f-aae0-4da8a01608da"
-		]
-	},
-	{
-		"title": "Subdomein A2 Receptie",
-		"description": "Subdomein A2 Receptie",
-		"prefix": "A2",
-		"id": "bd313c29-defc-43f7-993e-ad89a0dea231",
-		"fo_doelzin_id": [
-			"77ebac96-6b14-4867-8e23-852bc465cb26",
-			"e17d9c11-dd85-462d-a500-1d6a10862c43",
-			"b22663c9-8a17-47c6-ba15-c198ebdb70e4"
-		],
-		"replaces": [
-			"1f1c9cee-cd8d-41f3-a313-6347fea1107f"
 		]
 	},
 	{
@@ -1806,20 +1750,6 @@
 		]
 	},
 	{
-		"title": "Subdomein A2 Receptie",
-		"description": "Subdomein A2 Receptie",
-		"prefix": "A2",
-		"id": "23c875c1-3f2f-4b59-ae7a-007c8f489828",
-		"fo_doelzin_id": [
-			"ddc38c1a-6083-4742-8da0-e7e1c94490cc",
-			"b0d2711a-388f-4814-ab9b-86e75e2f1994",
-			"47e85e66-aabc-4592-afa6-ec74e251c2d9"
-		],
-		"replaces": [
-			"ca3725a1-1970-44fe-9841-96cf87f3bef9"
-		]
-	},
-	{
 		"title": "Subdomein A3 Productie en interactie",
 		"description": "Subdomein A3 Productie en interactie",
 		"prefix": "A3",
@@ -1896,20 +1826,6 @@
 		],
 		"replaces": [
 			"cf97dec5-ed89-4ab5-ad04-35f25f60af14"
-		]
-	},
-	{
-		"title": "Subdomein A2 Receptie",
-		"description": "Subdomein A2 Receptie",
-		"prefix": "A2",
-		"id": "275c4365-f94d-45ef-a467-3db53d2aed24",
-		"fo_doelzin_id": [
-			"786fb6e6-248e-4d45-aa24-c70beaba7ea0",
-			"2e454945-450f-4915-b3ae-3eaae4417f9d",
-			"3ebf04e0-d6b4-42ae-980e-d8d893d05ae1"
-		],
-		"replaces": [
-			"429c2180-708d-4326-8e79-5158e9fc6aaa"
 		]
 	},
 	{
@@ -1990,20 +1906,6 @@
 		],
 		"replaces": [
 			"4a335b07-0670-44f8-8b67-c52776094ecf"
-		]
-	},
-	{
-		"title": "Subdomein A2 Receptie",
-		"description": "Subdomein A2 Receptie",
-		"prefix": "A2",
-		"id": "30e2b603-3de0-42af-a329-15227cf8360e",
-		"fo_doelzin_id": [
-			"a6808066-61d9-4dc2-85b0-f59c3399a1fa",
-			"c8119732-64ae-4eed-81bf-a2a87eced083",
-			"60948bdd-cba8-40b3-aa51-a2e9e3d320da"
-		],
-		"replaces": [
-			"912a0af4-75d2-4aef-b3c7-a04e7ce6a034"
 		]
 	},
 	{
@@ -2088,20 +1990,6 @@
 		]
 	},
 	{
-		"title": "Subdomein A2 Receptie",
-		"description": "Subdomein A2 Receptie",
-		"prefix": "A2",
-		"id": "44d0ab43-1422-48c9-a969-05c492bad5d4",
-		"fo_doelzin_id": [
-			"5939a1ce-0e48-47f9-a269-05ffeb4de1d0",
-			"60fdc54d-df80-4763-913f-c646d6017767",
-			"e8c47959-831a-4deb-ac59-46250e631c1d"
-		],
-		"replaces": [
-			"046ee1df-5852-4ce6-a87a-33cf3ec4dbcd"
-		]
-	},
-	{
 		"title": "Subdomein A3 Productie en interactie",
 		"description": "Subdomein A3 Productie en interactie",
 		"prefix": "A3",
@@ -2182,20 +2070,6 @@
 		],
 		"replaces": [
 			"a383e5a1-768f-4125-89ea-ee26c9efd3bb"
-		]
-	},
-	{
-		"title": "Subdomein A2 Receptie",
-		"description": "Subdomein A2 Receptie",
-		"prefix": "A2",
-		"id": "51e1ac5c-16ea-4424-b765-5802ee4f591c",
-		"fo_doelzin_id": [
-			"e248e094-4d9a-4aaa-9a2e-3c5b9e2d5e15",
-			"22044195-fc8e-4550-bb45-2d8b599007d6",
-			"21843138-aea8-4ae5-bddd-445bd9dbd262"
-		],
-		"replaces": [
-			"3688e76d-7c9c-413c-a727-3a0cf1321218"
 		]
 	},
 	{
@@ -2466,20 +2340,6 @@
 		]
 	},
 	{
-		"title": "Subdomein A2 Receptie",
-		"description": "Subdomein A2 Receptie",
-		"prefix": "A2",
-		"id": "7028894d-e91f-42e8-869f-f4ec0be7a8e5",
-		"fo_doelzin_id": [
-			"d9d8e3c8-7ac0-41d2-b378-3a6fbc90e8a1",
-			"ade15301-f21f-4123-b99f-f30515a351a5",
-			"04c42f23-02e6-43b9-8da7-f462e78f8e55"
-		],
-		"replaces": [
-			"0132a380-2698-4d0f-8e53-7d4130a0732d"
-		]
-	},
-	{
 		"title": "Subdomein A3 Productie en interactie",
 		"description": "Subdomein A3 Productie en interactie",
 		"prefix": "A3",
@@ -2557,20 +2417,6 @@
 		],
 		"replaces": [
 			"106326e1-88ad-4a30-98a8-b18a4e9c2416"
-		]
-	},
-	{
-		"title": "Subdomein A2 Receptie",
-		"description": "Subdomein A2 Receptie",
-		"prefix": "A2",
-		"id": "3e517d79-6f08-4ed5-b7cf-d8a0ca6534bd",
-		"fo_doelzin_id": [
-			"dd0e17c3-3ba4-4bb6-bdc5-eee0d64e6934",
-			"829d2518-a540-4a4b-9930-d1cbffb4798e",
-			"2c9deeb8-1164-45cb-9e44-08d73f83d4bd"
-		],
-		"replaces": [
-			"5f55d965-8c84-410d-8955-98711e48e7b9"
 		]
 	},
 	{
@@ -2652,20 +2498,6 @@
 		],
 		"replaces": [
 			"5f67bbae-934f-4140-bac1-f78fd00273c3"
-		]
-	},
-	{
-		"title": "Subdomein A2 Receptie",
-		"description": "Subdomein A2 Receptie",
-		"prefix": "A2",
-		"id": "f69117ba-a708-4ebe-aaba-59fbea370e79",
-		"fo_doelzin_id": [
-			"ed9b6117-3561-4921-a91d-db6725dfe2a9",
-			"2e8c4028-fe0b-4778-8264-8f1546f6e864",
-			"0d4c1182-238c-4de6-89c9-6c955217a7b4"
-		],
-		"replaces": [
-			"25809755-c3f9-4b00-85bb-e01f237941a9"
 		]
 	},
 	{
@@ -2752,20 +2584,6 @@
 		]
 	},
 	{
-		"title": "Subdomein A2 Receptie",
-		"description": "Subdomein A2 Receptie",
-		"prefix": "A2",
-		"id": "ff02901e-3e6a-4311-8a04-5ec78ba2cce8",
-		"fo_doelzin_id": [
-			"bed6488f-46e8-4762-b51d-9434cc8d88d1",
-			"717f1295-5184-4676-ab48-ffe621fb902d",
-			"fa7046ec-29ef-4580-b1ed-af1480fc5611"
-		],
-		"replaces": [
-			"08dcf893-7919-40d0-9525-aba4e6e26adb"
-		]
-	},
-	{
 		"title": "Subdomein A3 Productie en interactie",
 		"description": "Subdomein A3 Productie en interactie",
 		"prefix": "A3",
@@ -2844,20 +2662,6 @@
 		],
 		"replaces": [
 			"60fa691a-d038-42b0-a14e-2417a97ae777"
-		]
-	},
-	{
-		"title": "Subdomein A2 Receptie",
-		"description": "Subdomein A2 Receptie",
-		"prefix": "A2",
-		"id": "89cfa6b0-0d73-4fee-a893-e413233d2f83",
-		"fo_doelzin_id": [
-			"7221ad56-bc1f-493b-b329-38cabab2d1de",
-			"605789dd-d1b8-4b4a-aa1f-c4b2fcc18b99",
-			"0fdfb7bc-c0af-4541-862c-5f367f1d2492"
-		],
-		"replaces": [
-			"024416fb-deb2-44a4-a86e-4cd03b6802b7"
 		]
 	},
 	{
@@ -3128,20 +2932,6 @@
 		]
 	},
 	{
-		"title": "Subdomein A2 Receptie",
-		"description": "Subdomein A2 Receptie",
-		"prefix": "A2",
-		"id": "c0e2a06a-2873-46f0-a549-6f366b734f7b",
-		"fo_doelzin_id": [
-			"fdda13ce-81d2-45f4-933c-ca8004e33376",
-			"80d9e512-28e8-46ed-bc95-0e15ee589f51",
-			"8e3a0588-e718-4d38-ade1-7ccc36e7fe4f"
-		],
-		"replaces": [
-			"6a70c457-099b-4e81-b007-6de943bea278"
-		]
-	},
-	{
 		"title": "Subdomein A3 Productie en interactie",
 		"description": "Subdomein A3 Productie en interactie",
 		"prefix": "A3",
@@ -3219,20 +3009,6 @@
 		],
 		"replaces": [
 			"507758ca-e0c4-49e6-a4e8-4d4512b78d2b"
-		]
-	},
-	{
-		"title": "Subdomein A2 Receptie",
-		"description": "Subdomein A2 Receptie",
-		"prefix": "A2",
-		"id": "e3310b4a-f863-4a69-8a85-786d26b95a1e",
-		"fo_doelzin_id": [
-			"c5b1e5d8-275a-496d-8a1a-bd4a47c9d3a1",
-			"89d87e36-2034-4eae-ae7f-96b291b3710e",
-			"8e9afbac-b25f-4216-adb4-dfc0bfed12ef"
-		],
-		"replaces": [
-			"cdefed8b-631b-4fd5-ab36-896e78bc7558"
 		]
 	},
 	{
@@ -3314,20 +3090,6 @@
 		],
 		"replaces": [
 			"51b7b8e5-fe96-44ae-b062-a922cd753b9f"
-		]
-	},
-	{
-		"title": "Subdomein A2 Receptie",
-		"description": "Subdomein A2 Receptie",
-		"prefix": "A2",
-		"id": "95414526-f58d-45fd-8b3d-d06285b73230",
-		"fo_doelzin_id": [
-			"c997b203-8abc-49c4-ad2a-d67c76c3c391",
-			"c9d0a472-6c0a-440e-b5ba-49d699afb0ba",
-			"0799aa51-4391-457f-896c-38d88a93af7f"
-		],
-		"replaces": [
-			"4e8e7290-4afc-4e3c-b6ac-817134a93a2f"
 		]
 	},
 	{
@@ -7739,45 +7501,6 @@
 		"title": "Subdomein D1",
 		"description": "Wiskundig probleemoplossen met kwantitatieve informatie en kansen",
 		"prefix": "D1",
-		"id": "588a38cb-e464-436f-9cc9-f70174993d2e",
-		"fo_doelzin_id": [
-			"02a7f1f3-3788-446b-bf29-cc3620571a65",
-			"57ad373c-93aa-4251-a11a-8cc0bf7d9af4"
-		]
-	},
-	{
-		"title": "Subdomein D2",
-		"description": "Rekenwiskundige handelingen met kwantitatieve informatie en kansen",
-		"prefix": "D2",
-		"id": "a4be5c05-26cb-4dd1-a44e-b333f214b8bd",
-		"fo_doelzin_id": [
-			"e0aa73ba-426b-4200-8dbd-031f316804f4"
-		]
-	},
-	{
-		"title": "Subdomein D3",
-		"description": "Representeren en vaktaal met kwantitatieve informatie en kansen",
-		"prefix": "D3",
-		"id": "5b906597-ee20-4486-abf7-8bddd505a59a",
-		"fo_doelzin_id": [
-			"2c4d7314-5f69-4625-9a63-b722d13864ee",
-			"0730856e-6736-435d-9e88-da67fca65b31"
-		]
-	},
-	{
-		"title": "Subdomein D4",
-		"description": "Abstraheren met kwantitatieve informatie en kansen",
-		"prefix": "D4",
-		"id": "67413176-38d6-4263-9649-7c1f20e82dd8",
-		"fo_doelzin_id": [
-			"3f6cccb4-8185-4266-8769-60e14eb0ceaf",
-			"dcaf9639-d213-43d4-aade-131707dbb810"
-		]
-	},
-	{
-		"title": "Subdomein D1",
-		"description": "Wiskundig probleemoplossen met kwantitatieve informatie en kansen",
-		"prefix": "D1",
 		"id": "fd37eef1-e7b2-4878-8887-ff552e55f284",
 		"fo_doelzin_id": [
 			"04f7a517-9983-46cd-a158-6737425ff673",
@@ -11361,6 +11084,312 @@
 		"replaces": [
 			"5e238e5e-9ce4-4a31-931e-8688868e8358",
 			"269fb69e-6991-494c-851f-f5e51e07d887"
+		]
+	},
+	{
+		"title": "Subdomein A2 Receptie",
+		"description": "Subdomein A2 Receptie",
+		"prefix": "A2",
+		"id": "90a89e1f-4137-463a-b5b8-260bd043be8c",
+		"fo_doelzin_id": [
+			"479495e5-984a-4241-b291-80f13f073b48",
+			"b90733b7-dd4f-4f3f-a90a-bfce6343b339",
+			"fb5f3b91-514e-46d4-a20a-76082d57a7cc"
+		],
+		"replaces": [
+			"e62fd081-e838-40ad-845a-1aa1f45ec260",
+			"a59b6444-d985-4179-975d-c61f9f578336"
+		]
+	},
+	{
+		"title": "Subdomein A2 Receptie",
+		"description": "Subdomein A2 Receptie",
+		"prefix": "A2",
+		"id": "0cc40820-8ac3-4b44-9eeb-973c619ff6a3",
+		"fo_doelzin_id": [
+			"f98bdf5d-719c-47f9-87f7-7f7eff636944",
+			"2415f45f-cd04-4875-8c6d-7b8d08f7485c",
+			"e5286614-c544-460e-b957-a4b2f282dc3d"
+		],
+		"replaces": [
+			"8a9626b1-4e7c-4e15-9feb-07f3bc786d1b",
+			"d54890f3-cb9a-4811-b093-e26b539faab7"
+		]
+	},
+	{
+		"title": "Subdomein A2 Receptie",
+		"description": "Subdomein A2 Receptie",
+		"prefix": "A2",
+		"id": "b916ba4a-3f68-458f-b1d0-964c767476e3",
+		"fo_doelzin_id": [
+			"6c9320df-9872-41ca-854e-2645ae9304e5",
+			"06175c88-842b-4da5-aaf6-dd60bc98907b",
+			"cc06acca-1c58-4db1-a4d2-4a8b86abb93c"
+		],
+		"replaces": [
+			"907a829c-9aed-4e48-8997-18d797fa42e4",
+			"52096b3d-4906-4ca7-bcf8-5a23f83c1a01"
+		]
+	},
+	{
+		"title": "Subdomein A2 Receptie",
+		"description": "Subdomein A2 Receptie",
+		"prefix": "A2",
+		"id": "3bba4e7a-9f42-4273-b090-3e86b8471f2a",
+		"fo_doelzin_id": [
+			"77ebac96-6b14-4867-8e23-852bc465cb26",
+			"e17d9c11-dd85-462d-a500-1d6a10862c43",
+			"2f2738dc-9d64-4dfa-ae36-b09cad18b9e7"
+		],
+		"replaces": [
+			"1f1c9cee-cd8d-41f3-a313-6347fea1107f",
+			"bd313c29-defc-43f7-993e-ad89a0dea231"
+		]
+	},
+	{
+		"title": "Subdomein A2 Receptie",
+		"description": "Subdomein A2 Receptie",
+		"prefix": "A2",
+		"id": "1c4818a4-7745-4e95-8207-f8fb86101a8d",
+		"fo_doelzin_id": [
+			"ddc38c1a-6083-4742-8da0-e7e1c94490cc",
+			"b0d2711a-388f-4814-ab9b-86e75e2f1994",
+			"b7b8129b-7b9d-497e-a1c9-77bc6bd27928"
+		],
+		"replaces": [
+			"ca3725a1-1970-44fe-9841-96cf87f3bef9",
+			"23c875c1-3f2f-4b59-ae7a-007c8f489828"
+		]
+	},
+	{
+		"title": "Subdomein A2 Receptie",
+		"description": "Subdomein A2 Receptie",
+		"prefix": "A2",
+		"id": "8078c120-ce81-4058-8e27-13914cea57e4",
+		"fo_doelzin_id": [
+			"786fb6e6-248e-4d45-aa24-c70beaba7ea0",
+			"2e454945-450f-4915-b3ae-3eaae4417f9d",
+			"42a06d89-9df0-445a-9690-0b0326c42082"
+		],
+		"replaces": [
+			"429c2180-708d-4326-8e79-5158e9fc6aaa",
+			"275c4365-f94d-45ef-a467-3db53d2aed24"
+		]
+	},
+	{
+		"title": "Subdomein A2 Receptie",
+		"description": "Subdomein A2 Receptie",
+		"prefix": "A2",
+		"id": "118c7924-f67c-4581-9cdb-5693236a58f3",
+		"fo_doelzin_id": [
+			"a6808066-61d9-4dc2-85b0-f59c3399a1fa",
+			"c8119732-64ae-4eed-81bf-a2a87eced083",
+			"2e0aa8dd-b96a-412c-ad94-4dbf5f0b716b"
+		],
+		"replaces": [
+			"912a0af4-75d2-4aef-b3c7-a04e7ce6a034",
+			"30e2b603-3de0-42af-a329-15227cf8360e"
+		]
+	},
+	{
+		"title": "Subdomein A2 Receptie",
+		"description": "Subdomein A2 Receptie",
+		"prefix": "A2",
+		"id": "38847d4e-872a-46cd-a86b-0be0b0554f7d",
+		"fo_doelzin_id": [
+			"5939a1ce-0e48-47f9-a269-05ffeb4de1d0",
+			"60fdc54d-df80-4763-913f-c646d6017767",
+			"3be7d8dc-3c76-4350-b96c-0b19c9dfd6a0"
+		],
+		"replaces": [
+			"046ee1df-5852-4ce6-a87a-33cf3ec4dbcd",
+			"44d0ab43-1422-48c9-a969-05c492bad5d4"
+		]
+	},
+	{
+		"title": "Subdomein A2 Receptie",
+		"description": "Subdomein A2 Receptie",
+		"prefix": "A2",
+		"id": "e79a2207-6a31-44e2-8b0e-f96280850aa5",
+		"fo_doelzin_id": [
+			"e248e094-4d9a-4aaa-9a2e-3c5b9e2d5e15",
+			"22044195-fc8e-4550-bb45-2d8b599007d6",
+			"052b3649-ef30-4222-8834-6341e6f5e2a5"
+		],
+		"replaces": [
+			"3688e76d-7c9c-413c-a727-3a0cf1321218",
+			"51e1ac5c-16ea-4424-b765-5802ee4f591c"
+		]
+	},
+	{
+		"title": "Subdomein A2 Receptie",
+		"description": "Subdomein A2 Receptie",
+		"prefix": "A2",
+		"id": "cc65b032-6f38-4df5-818c-ddf03b603107",
+		"fo_doelzin_id": [
+			"d9d8e3c8-7ac0-41d2-b378-3a6fbc90e8a1",
+			"ade15301-f21f-4123-b99f-f30515a351a5",
+			"4f9ce759-6bd2-4b0d-b9f1-6f8a1d8de072"
+		],
+		"replaces": [
+			"0132a380-2698-4d0f-8e53-7d4130a0732d",
+			"7028894d-e91f-42e8-869f-f4ec0be7a8e5"
+		]
+	},
+	{
+		"title": "Subdomein A2 Receptie",
+		"description": "Subdomein A2 Receptie",
+		"prefix": "A2",
+		"id": "fcd45e66-80d6-4a18-8876-9dd0cc53c773",
+		"fo_doelzin_id": [
+			"dd0e17c3-3ba4-4bb6-bdc5-eee0d64e6934",
+			"829d2518-a540-4a4b-9930-d1cbffb4798e",
+			"f1459619-a442-487a-ad53-a47a10ac16d2"
+		],
+		"replaces": [
+			"5f55d965-8c84-410d-8955-98711e48e7b9",
+			"3e517d79-6f08-4ed5-b7cf-d8a0ca6534bd"
+		]
+	},
+	{
+		"title": "Subdomein A2 Receptie",
+		"description": "Subdomein A2 Receptie",
+		"prefix": "A2",
+		"id": "3b2f29be-5aea-4f45-a779-d0c177df2737",
+		"fo_doelzin_id": [
+			"ed9b6117-3561-4921-a91d-db6725dfe2a9",
+			"2e8c4028-fe0b-4778-8264-8f1546f6e864",
+			"9f3817b2-edfa-4136-ab89-74a5204b74c7"
+		],
+		"replaces": [
+			"25809755-c3f9-4b00-85bb-e01f237941a9",
+			"f69117ba-a708-4ebe-aaba-59fbea370e79"
+		]
+	},
+	{
+		"title": "Subdomein A2 Receptie",
+		"description": "Subdomein A2 Receptie",
+		"prefix": "A2",
+		"id": "bf2ed3c0-ad07-4c19-9b10-8fa516df8581",
+		"fo_doelzin_id": [
+			"bed6488f-46e8-4762-b51d-9434cc8d88d1",
+			"717f1295-5184-4676-ab48-ffe621fb902d",
+			"3f67c364-52a3-43f5-8e4c-c7e2e2b23c64"
+		],
+		"replaces": [
+			"08dcf893-7919-40d0-9525-aba4e6e26adb",
+			"ff02901e-3e6a-4311-8a04-5ec78ba2cce8"
+		]
+	},
+	{
+		"title": "Subdomein A2 Receptie",
+		"description": "Subdomein A2 Receptie",
+		"prefix": "A2",
+		"id": "db2eb576-52e2-449f-86ac-02375db50c40",
+		"fo_doelzin_id": [
+			"7221ad56-bc1f-493b-b329-38cabab2d1de",
+			"605789dd-d1b8-4b4a-aa1f-c4b2fcc18b99",
+			"696aa68c-c51d-4855-9358-25a5c698a968"
+		],
+		"replaces": [
+			"024416fb-deb2-44a4-a86e-4cd03b6802b7",
+			"89cfa6b0-0d73-4fee-a893-e413233d2f83"
+		]
+	},
+	{
+		"title": "Subdomein A2 Receptie",
+		"description": "Subdomein A2 Receptie",
+		"prefix": "A2",
+		"id": "4afdbcc5-74a2-4859-aa4f-d53179d06699",
+		"fo_doelzin_id": [
+			"fdda13ce-81d2-45f4-933c-ca8004e33376",
+			"80d9e512-28e8-46ed-bc95-0e15ee589f51",
+			"7148182a-6eb0-42d8-a638-e1618b94dc65"
+		],
+		"replaces": [
+			"6a70c457-099b-4e81-b007-6de943bea278",
+			"c0e2a06a-2873-46f0-a549-6f366b734f7b"
+		]
+	},
+	{
+		"title": "Subdomein A2 Receptie",
+		"description": "Subdomein A2 Receptie",
+		"prefix": "A2",
+		"id": "e1076c51-6189-42bd-a900-40b47c63a3a3",
+		"fo_doelzin_id": [
+			"c5b1e5d8-275a-496d-8a1a-bd4a47c9d3a1",
+			"89d87e36-2034-4eae-ae7f-96b291b3710e",
+			"5ac9b400-4e7a-4f24-b18c-a40c3cd7d7f1"
+		],
+		"replaces": [
+			"cdefed8b-631b-4fd5-ab36-896e78bc7558",
+			"e3310b4a-f863-4a69-8a85-786d26b95a1e"
+		]
+	},
+	{
+		"title": "Subdomein A2 Receptie",
+		"description": "Subdomein A2 Receptie",
+		"prefix": "A2",
+		"id": "dc0f4b74-6e05-4727-84c2-1077154980e0",
+		"fo_doelzin_id": [
+			"c997b203-8abc-49c4-ad2a-d67c76c3c391",
+			"c9d0a472-6c0a-440e-b5ba-49d699afb0ba",
+			"bef68f7b-f650-492c-992a-985af78c86a4"
+		],
+		"replaces": [
+			"4e8e7290-4afc-4e3c-b6ac-817134a93a2f",
+			"95414526-f58d-45fd-8b3d-d06285b73230"
+		]
+	},
+	{
+		"title": "Subdomein D1",
+		"description": "Wiskundig probleemoplossen met kwantitatieve informatie en kansen",
+		"prefix": "D1",
+		"id": "64c3d1c4-1069-4052-b5d3-1b247f0825bb",
+		"fo_doelzin_id": [
+			"5f83c1bf-bf69-4ce0-8c8d-dde2ac9639f8",
+			"2e01ff48-c5fd-4eca-8cba-6cc0123de295"
+		],
+		"replaces": [
+			"588a38cb-e464-436f-9cc9-f70174993d2e"
+		]
+	},
+	{
+		"title": "Subdomein D2",
+		"description": "Rekenwiskundige handelingen met kwantitatieve informatie en kansen",
+		"prefix": "D2",
+		"id": "eb0e668f-796d-4eb5-ae88-58076cedd69d",
+		"fo_doelzin_id": [
+			"ac1b889a-0bb1-41da-9b64-d669222a481c"
+		],
+		"replaces": [
+			"a4be5c05-26cb-4dd1-a44e-b333f214b8bd"
+		]
+	},
+	{
+		"title": "Subdomein D3",
+		"description": "Representeren en vaktaal met kwantitatieve informatie en kansen",
+		"prefix": "D3",
+		"id": "c7d3d75e-643b-438d-bf36-1043c73cf17c",
+		"fo_doelzin_id": [
+			"8e2729a2-6acf-48ad-9e50-fc8a092398d1",
+			"bc6fcc25-1964-41e3-a4f7-897ebf86ff0d"
+		],
+		"replaces": [
+			"5b906597-ee20-4486-abf7-8bddd505a59a"
+		]
+	},
+	{
+		"title": "Subdomein D4",
+		"description": "Abstraheren met kwantitatieve informatie en kansen",
+		"prefix": "D4",
+		"id": "cf809228-c65d-4ba7-9af2-168d1d59f149",
+		"fo_doelzin_id": [
+			"6a82610a-097a-4cbf-b581-edaa2d5a97ba",
+			"77c24ea0-cbf7-421a-9ce3-8cd19aaef837"
+		],
+		"replaces": [
+			"67413176-38d6-4263-9649-7c1f20e82dd8"
 		]
 	}
 ]

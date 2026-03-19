@@ -53177,19 +53177,6 @@
 		]
 	},
 	{
-		"description": "gebruiken van digitale hulpmiddelen om informatie te begrijpen.",
-		"prefix": "u4",
-		"id": "0fedd164-b4bc-4191-8d31-1e5b8112e0ff",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept",
-		"replaces": [
-			"5f6fa4b6-ee72-42dc-94ba-9196a2496df4"
-		]
-	},
-	{
 		"description": "kort en in eenvoudige bewoordingen presenteren van concrete, alledaagse informatie over vertrouwde onderwerpen;",
 		"prefix": "u1",
 		"id": "7fad3255-5100-4f44-9486-e3a530c259ba",
@@ -54959,20 +54946,6 @@
 		]
 	},
 	{
-		"description": "gebruiken van digitale hulpmiddelen om informatie te begrijpen.",
-		"prefix": "u4",
-		"id": "99a09876-72ea-4c56-9eb9-6172de31cd72",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept",
-		"replaces": [
-			"c75f9648-f60a-4c0b-b6bf-940ac94967b1"
-		]
-	},
-	{
 		"description": "kort en in eenvoudige bewoordingen presenteren van concrete, alledaagse informatie over vertrouwde onderwerpen;",
 		"prefix": "u1",
 		"id": "462cb394-c861-4023-8b89-51dca4184934",
@@ -55667,19 +55640,6 @@
 		"status": "concept",
 		"replaces": [
 			"7784a12d-5527-4477-9348-fc4333f2e7de"
-		]
-	},
-	{
-		"description": "gebruiken van digitale hulpmiddelen om informatie te begrijpen.",
-		"prefix": "u5",
-		"id": "c77314b8-0620-4d2f-a17a-fadf2f494370",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept",
-		"replaces": [
-			"a4dd8236-49f2-4487-801a-848da0aee751"
 		]
 	},
 	{
@@ -56486,19 +56446,6 @@
 		"status": "concept",
 		"replaces": [
 			"83ff5410-e228-45c1-bd0c-1d3b5471c91c"
-		]
-	},
-	{
-		"description": "gebruiken van digitale hulpmiddelen om informatie te begrijpen.",
-		"prefix": "u5",
-		"id": "ca573d73-895b-4ec8-a57b-c96326450bbd",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept",
-		"replaces": [
-			"c25fa1b5-db49-41ad-b586-cbdc23cef000"
 		]
 	},
 	{
@@ -57373,19 +57320,6 @@
 		]
 	},
 	{
-		"description": "gebruiken van digitale hulpmiddelen om informatie te begrijpen.",
-		"prefix": "u4",
-		"id": "b0f7b5a6-a0aa-4453-bf57-dc2c7e4c893e",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept",
-		"replaces": [
-			"b21df00c-685a-4d27-a3f3-39b588a6421d"
-		]
-	},
-	{
 		"description": "kort en in eenvoudige bewoordingen beschrijven van concrete en eenvoudige, alledaagse zaken;",
 		"prefix": "u1",
 		"id": "9cd7affc-108f-48a1-9052-674239fad718",
@@ -57942,19 +57876,6 @@
 		"status": "concept",
 		"replaces": [
 			"049b2522-c909-42c9-8dc9-b4d292fe1863"
-		]
-	},
-	{
-		"description": "gebruiken van digitale hulpmiddelen om informatie te begrijpen.",
-		"prefix": "u4",
-		"id": "4e578fae-b630-4f24-ab04-0f92a3913c47",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept",
-		"replaces": [
-			"cdec7f93-e04c-400f-a3ea-10e474c8e796"
 		]
 	},
 	{
@@ -58622,20 +58543,6 @@
 		"status": "concept",
 		"replaces": [
 			"5f35a906-a963-4bd5-82c6-b965346b6f05"
-		]
-	},
-	{
-		"description": "gebruiken van digitale hulpmiddelen om informatie te begrijpen.",
-		"prefix": "u5",
-		"id": "c760ac72-76ba-4cbe-b542-5329da2a8ee8",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept",
-		"replaces": [
-			"29086d7f-4a49-4fcf-8e95-3e6a6cc664d7"
 		]
 	},
 	{
@@ -59388,19 +59295,6 @@
 		"status": "concept",
 		"replaces": [
 			"bdc11e16-7d87-4006-b040-10be701c185b"
-		]
-	},
-	{
-		"description": "gebruiken van digitale hulpmiddelen om informatie te begrijpen.",
-		"prefix": "u5",
-		"id": "5b445291-429f-49da-9c42-02c720b85baa",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept",
-		"replaces": [
-			"f8724a1b-9e7d-4240-bc32-2cd5921e1d46"
 		]
 	},
 	{
@@ -60324,19 +60218,6 @@
 		"status": "concept",
 		"replaces": [
 			"cb612c2e-1f80-4d83-ac95-6ef8903bc12e"
-		]
-	},
-	{
-		"description": "gebruiken van digitale hulpmiddelen om informatie te begrijpen.",
-		"prefix": "u5",
-		"id": "4eb52395-df82-46f3-b0b3-18453d87f642",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept",
-		"replaces": [
-			"17184881-323d-4040-af42-4e864c1c6e45"
 		]
 	},
 	{
@@ -62265,20 +62146,6 @@
 		]
 	},
 	{
-		"description": "gebruiken van digitale hulpmiddelen om informatie te begrijpen.",
-		"prefix": "u4",
-		"id": "03b425ed-ba57-407a-bc00-09ec2af75514",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept",
-		"replaces": [
-			"d6f461fb-0683-4b68-bfbd-1774c7657dd4"
-		]
-	},
-	{
 		"description": "kort en in eenvoudige bewoordingen presenteren van concrete, alledaagse informatie over vertrouwde onderwerpen;",
 		"prefix": "u1",
 		"id": "5b5360c9-72b2-4280-815f-66625da23946",
@@ -62973,19 +62840,6 @@
 		"status": "concept",
 		"replaces": [
 			"4b673375-4c63-4f5d-9cff-264c00b4533d"
-		]
-	},
-	{
-		"description": "gebruiken van digitale hulpmiddelen om informatie te begrijpen.",
-		"prefix": "u5",
-		"id": "c56ec04b-4ad5-4b94-8354-4efe397e3599",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept",
-		"replaces": [
-			"dccdf581-48e8-48fe-b12b-f8882d0d7caf"
 		]
 	},
 	{
@@ -63805,19 +63659,6 @@
 		"status": "concept",
 		"replaces": [
 			"27eb60cd-f9f7-4644-aa32-df96595d1281"
-		]
-	},
-	{
-		"description": "gebruiken van digitale hulpmiddelen om informatie te begrijpen.",
-		"prefix": "u5",
-		"id": "b8373c2b-5c59-4f93-aafa-2df822f62700",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept",
-		"replaces": [
-			"76971e2f-5e93-4733-8ff9-31f7bea911f0"
 		]
 	},
 	{
@@ -64757,19 +64598,6 @@
 		]
 	},
 	{
-		"description": "gebruiken van digitale hulpmiddelen om informatie te begrijpen.",
-		"prefix": "u5",
-		"id": "f9f42c26-4489-4fc7-b788-dd6c96d822a7",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept",
-		"replaces": [
-			"da0af094-1b9f-40e1-b856-2d6ea9fcaaef"
-		]
-	},
-	{
 		"description": "kort en in eenvoudige bewoordingen presenteren van concrete, alledaagse informatie over vertrouwde onderwerpen;",
 		"prefix": "u1",
 		"id": "1012b425-8e2d-4724-8460-a175311baefb",
@@ -65599,19 +65427,6 @@
 		"status": "concept",
 		"replaces": [
 			"954f6660-b9c8-4678-942d-4ac8e8f60ce1"
-		]
-	},
-	{
-		"description": "gebruiken van digitale hulpmiddelen om informatie te begrijpen.",
-		"prefix": "u5",
-		"id": "9e8f0805-c545-4329-b234-c65f5a1b876d",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept",
-		"replaces": [
-			"99a61c5f-8c44-40f6-aee9-1ef33a977184"
 		]
 	},
 	{
@@ -67579,20 +67394,6 @@
 		]
 	},
 	{
-		"description": "gebruiken van digitale hulpmiddelen om informatie te begrijpen.",
-		"prefix": "u4",
-		"id": "70e0878d-2420-49bd-a46c-3d2a1fcf67f1",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept",
-		"replaces": [
-			"4fb4db2e-90b7-4088-9810-d832329d0098"
-		]
-	},
-	{
 		"description": "kort en in eenvoudige bewoordingen presenteren van concrete, alledaagse informatie over vertrouwde onderwerpen;",
 		"prefix": "u1",
 		"id": "88254d3c-ef07-4662-840e-d64e8d31f693",
@@ -68287,19 +68088,6 @@
 		"status": "concept",
 		"replaces": [
 			"ab6647dc-27b9-4ccf-b220-fc8767b8e7e0"
-		]
-	},
-	{
-		"description": "gebruiken van digitale hulpmiddelen om informatie te begrijpen.",
-		"prefix": "u5",
-		"id": "c318ae18-30e7-4f2a-953a-e631cba9dc8a",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept",
-		"replaces": [
-			"525c5d21-c4cd-40a1-90e1-dc0f66f15836"
 		]
 	},
 	{
@@ -69106,19 +68894,6 @@
 		"status": "concept",
 		"replaces": [
 			"f58324dc-7639-4357-b725-8f3c7ac2401a"
-		]
-	},
-	{
-		"description": "gebruiken van digitale hulpmiddelen om informatie te begrijpen.",
-		"prefix": "u5",
-		"id": "453a8770-9ba9-42f8-ad91-4eefb1b6d998",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept",
-		"replaces": [
-			"a6ad8b9d-4b12-46de-a273-bf64b9675446"
 		]
 	},
 	{

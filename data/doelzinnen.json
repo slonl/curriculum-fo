@@ -7723,31 +7723,6 @@
 		]
 	},
 	{
-		"title": "Eindterm 5",
-		"description": "De leerling verwerft doelgericht informatie uit diverse bronnen in de Chinese taal. (B)",
-		"prefix": "5",
-		"soort": "eindterm",
-		"se": 1,
-		"id": "db836a5a-b080-4664-b606-98e301ab52e9",
-		"fo_uitwerking_id": [
-			"c1325e07-379f-46ed-96fb-bd57907a9f73",
-			"a857a5c1-ba0e-4a9f-a701-9759a7828bc5",
-			"cc9461d4-c1aa-4b65-9a67-4304f985992c"
-		],
-		"status": "concept",
-		"fo_illustratie_id": [
-			"eb6e14a7-51c4-4e88-83b2-3a0507537101",
-			"c023c841-7a7a-4af9-b24b-75e41bc9ee1c",
-			"e87d198b-4d62-4a89-9a6c-0b05e30566ec",
-			"c6253c6d-0845-4d7b-b32b-e74715c97073",
-			"bf939963-03ac-4a62-af8a-f1ecf619bd85"
-		],
-		"replaces": [
-			"0fe86641-2ab1-465e-b364-e7ef558ab3de"
-		],
-		"dirty": true
-	},
-	{
 		"title": "Eindterm 6",
 		"description": "De leerling spreekt in de Chinese taal, afgestemd op doel, publiek en context. (B)",
 		"prefix": "6",
@@ -8913,31 +8888,6 @@
 		]
 	},
 	{
-		"title": "Eindterm 5",
-		"description": "De leerling verwerft doelgericht informatie uit diverse bronnen in de Duitse taal. (B)",
-		"prefix": "5",
-		"soort": "eindterm",
-		"ce": 1,
-		"id": "cf4e5eef-e77d-4fff-8e64-aa82aa086f7e",
-		"fo_uitwerking_id": [
-			"d60c5b06-b080-45cb-8f7f-e7afdcdd8872",
-			"7d952c18-0142-4a88-844f-5f1e5ee6ca96",
-			"6d4c1b3a-e919-4ff0-a7df-ed142cbe2f56"
-		],
-		"status": "concept",
-		"fo_illustratie_id": [
-			"067fcdbb-d43d-4103-a859-4f55913696f6",
-			"dd2b16e3-6640-4ee3-835f-53a008c9005d",
-			"7b854b32-17fc-4779-beb2-9906c063fea2",
-			"da5b8d61-49b9-4a10-8eba-b53faa794148",
-			"2928239c-d9ff-49e4-a8a8-1e60ae0d6dfc"
-		],
-		"replaces": [
-			"2582ebc9-94b1-41ab-bb6d-295261bef55e"
-		],
-		"dirty": true
-	},
-	{
 		"title": "Eindterm 6",
 		"description": "De leerling spreekt in de Duitse taal, afgestemd op doel, publiek en context. (B)",
 		"prefix": "6",
@@ -9332,32 +9282,6 @@
 		"replaces": [
 			"ba286274-dafa-42ce-bbba-a6ac40a95c8f"
 		]
-	},
-	{
-		"title": "Eindterm 5",
-		"description": "De leerling verwerft doelgericht informatie uit diverse bronnen in de Duitse taal. (B)",
-		"prefix": "5",
-		"soort": "eindterm",
-		"ce": 1,
-		"id": "0ccbde70-bbd9-4b93-968d-b62f792b5db9",
-		"fo_uitwerking_id": [
-			"623f641d-3000-47e7-9548-6471895e9a27",
-			"074528ef-2b4a-4205-bc55-cc35979f07fa",
-			"bc04d33d-1d12-4c62-b2c5-c45997f3246a",
-			"ab7fb1d4-4fa5-4040-8311-55a3b3b4548e"
-		],
-		"status": "concept",
-		"fo_illustratie_id": [
-			"462540b8-7b1d-46ba-b6ae-cc50808a737a",
-			"b7281520-dd18-4512-9b3f-25f1d9e79e5d",
-			"6715315f-16d6-4f13-abac-ee9285d49414",
-			"65b6c816-e296-4573-a0f8-5b9e69faaa7b",
-			"3d43c40a-3a4e-4b90-b614-a382733d92e1"
-		],
-		"replaces": [
-			"2353a9ec-9202-49c5-b942-b2e65e3c2621"
-		],
-		"dirty": true
 	},
 	{
 		"title": "Eindterm 6",
@@ -9785,32 +9709,6 @@
 		"replaces": [
 			"84ce16fb-9382-47d9-ba9a-f7be97010c47"
 		]
-	},
-	{
-		"title": "Eindterm 5",
-		"description": "De leerling verwerft doelgericht informatie uit diverse bronnen in de Duitse taal. (B)",
-		"prefix": "5",
-		"soort": "eindterm",
-		"ce": 1,
-		"id": "b22663c9-8a17-47c6-ba15-c198ebdb70e4",
-		"fo_uitwerking_id": [
-			"2b265e2c-0802-46b3-90ae-83bd5b45a8ba",
-			"709407c4-6ec2-441a-b4b1-1937320cf5c5",
-			"d31db903-321f-4b6a-a816-dd4a68ee24db",
-			"7ce40f48-4ee8-4c9d-8acc-38638b9cfcad"
-		],
-		"status": "concept",
-		"fo_illustratie_id": [
-			"cbde70df-81ba-457f-a456-1985e37d56e2",
-			"f0d1407a-401d-4a1a-95c4-9050ef986d9e",
-			"224a5009-e493-48b4-99de-287a5e8f6c14",
-			"6baf41ea-81c3-48d7-ba7e-4d1872233688",
-			"69e3badd-bb23-49db-b3a1-611a4c5a00d2"
-		],
-		"replaces": [
-			"642e8d97-925c-4f2f-93ad-be4f6e2ed3d6"
-		],
-		"dirty": true
 	},
 	{
 		"title": "Eindterm 6",
@@ -10298,31 +10196,6 @@
 		]
 	},
 	{
-		"title": "Concept - Eindterm 5",
-		"description": "De leerling verwerft doelgericht informatie uit diverse bronnen in de Engelse taal. (B)",
-		"prefix": "5",
-		"soort": "eindterm",
-		"ce": 1,
-		"id": "47e85e66-aabc-4592-afa6-ec74e251c2d9",
-		"fo_uitwerking_id": [
-			"f689d1e2-d964-419f-a242-58497d067d07",
-			"e505c728-24a7-460a-97fb-e68b5b633edf",
-			"e879e9a9-ed0d-41b2-8a79-b4a0998fe08f"
-		],
-		"status": "concept",
-		"fo_illustratie_id": [
-			"680d0376-5f76-47cb-bbb7-6ec2d392bcf9",
-			"e84ebd5a-a28d-4685-a55a-80774cee2401",
-			"a11fe252-6b0b-4aaa-9dee-dac1f17aa8a9",
-			"5cf2bd7d-a8aa-40c9-870c-41a79a4c9e8a",
-			"92369f9e-d2ec-40d0-9753-825208626492"
-		],
-		"replaces": [
-			"85ce3d2f-916b-4f3c-b1ef-3f4ec2207e28"
-		],
-		"dirty": true
-	},
-	{
 		"title": "Concept - Eindterm 6",
 		"description": "De leerling spreekt in de Engelse taal, afgestemd op doel, publiek en context. (B)",
 		"prefix": "6",
@@ -10683,31 +10556,6 @@
 		"replaces": [
 			"6eda8f29-7484-4ec8-b3fb-4f6dc6355087"
 		]
-	},
-	{
-		"title": "Concept - Eindterm 5",
-		"description": "De leerling verwerft doelgericht informatie uit diverse bronnen in de Engelse taal. (B)",
-		"prefix": "5",
-		"soort": "eindterm",
-		"ce": 1,
-		"id": "3ebf04e0-d6b4-42ae-980e-d8d893d05ae1",
-		"fo_uitwerking_id": [
-			"c028ad25-5ff7-48ec-991d-45e7ee84ab93",
-			"3a1563cd-838f-4259-bdee-56c54b422e6c",
-			"81576cd6-f625-4d56-9dfa-c5426c3a09ce"
-		],
-		"status": "concept",
-		"fo_illustratie_id": [
-			"6db5d1e9-9288-44f2-bf54-bb8197214b70",
-			"61c0075a-5d89-41ab-ab19-8bb6e96d73e2",
-			"c876f299-84fd-4a6b-869e-27af3376a841",
-			"3fe04830-6fcd-41c5-9538-39809fecac21",
-			"8e35a3ac-3ded-4cd6-8ecd-ccda8db60bc3"
-		],
-		"replaces": [
-			"3ffb3632-e41c-4951-b6d3-91b782000352"
-		],
-		"dirty": true
 	},
 	{
 		"title": "Concept - Eindterm 6",
@@ -11099,32 +10947,6 @@
 		"replaces": [
 			"5e535333-7dca-4eff-bde6-17e2a08faf31"
 		]
-	},
-	{
-		"title": "Eindterm 5",
-		"description": "De leerling verwerft doelgericht informatie uit diverse bronnen in de Engelse taal. (B)",
-		"prefix": "5",
-		"soort": "eindterm",
-		"ce": 1,
-		"id": "60948bdd-cba8-40b3-aa51-a2e9e3d320da",
-		"fo_uitwerking_id": [
-			"cb58460e-1377-40ad-a221-c7451789266d",
-			"3f71ae01-90eb-48e8-bee7-418d715b31c6",
-			"e1452f8c-d9b7-4994-9747-c4d3dcdb8ba7",
-			"f2a6a193-04b9-47a9-9d86-2e1356b206ad"
-		],
-		"status": "concept",
-		"fo_illustratie_id": [
-			"8cc46d65-f5ed-43db-b31d-ab50116552e1",
-			"f9e82c40-4389-472d-836a-d4116e0ff18f",
-			"c18f9dd4-e0c1-4919-987c-62a96134b74d",
-			"2e27a57a-6d37-40dc-8f86-232c4bc81755",
-			"8896da80-dd8f-435a-9989-e5ce007cd0a9"
-		],
-		"replaces": [
-			"eeeafe13-cd77-47cc-ad9b-f67d68dbe2dc"
-		],
-		"dirty": true
 	},
 	{
 		"title": "Eindterm 6",
@@ -11549,32 +11371,6 @@
 		"replaces": [
 			"fafd362e-d143-4ed3-b198-0e8ead888922"
 		]
-	},
-	{
-		"title": "Eindterm 5",
-		"description": "De leerling verwerft doelgericht informatie uit diverse bronnen in de Engelse taal. (B)",
-		"prefix": "5",
-		"soort": "eindterm",
-		"ce": 1,
-		"id": "e8c47959-831a-4deb-ac59-46250e631c1d",
-		"fo_uitwerking_id": [
-			"bffe3e07-35bc-4430-80dc-7f25c885123b",
-			"7bbc4529-0d44-4a93-b7db-c50bbd04a039",
-			"eb0e2c03-989c-4a95-9759-acb7d08528c6",
-			"bee1bffd-aaff-464f-b626-b203f0c074e3"
-		],
-		"status": "concept",
-		"fo_illustratie_id": [
-			"c821b8c8-123d-48a7-9a15-ba17a5d715ac",
-			"3eac4c96-e21b-4d09-bc72-9d4bbbc0e615",
-			"70ae9e2c-e865-4a3c-8368-e703d901843d",
-			"5f5cf6e1-2b97-4f21-a0b5-51eccbdfb804",
-			"206b7ddf-4c7e-4c2c-a2df-60b135627d1a"
-		],
-		"replaces": [
-			"d420f0aa-591e-42e3-82d0-59b5ad5434dd"
-		],
-		"dirty": true
 	},
 	{
 		"title": "Eindterm 6",
@@ -12059,32 +11855,6 @@
 		"replaces": [
 			"138d1191-13b0-481f-a2ab-fc0bc8cfbd3f"
 		]
-	},
-	{
-		"title": "Eindterm 5",
-		"description": "De leerling verwerft doelgericht informatie uit diverse bronnen in de Engelse taal. (B)",
-		"prefix": "5",
-		"soort": "eindterm",
-		"ce": 1,
-		"id": "21843138-aea8-4ae5-bddd-445bd9dbd262",
-		"fo_uitwerking_id": [
-			"61a57831-6ee7-470f-8bd7-46e3ddf35fa1",
-			"0d49defb-458d-4219-af23-9a8cd804efb9",
-			"2b43cfae-98bc-4147-a10a-6276474d26d9",
-			"2e6b9f35-6490-4aa7-baab-f5f53ad04ae3"
-		],
-		"status": "concept",
-		"fo_illustratie_id": [
-			"1a368f4e-2b0b-41a1-a5e0-6e9da27b8ad5",
-			"2074789a-e36b-4e47-8668-44fd74bf6cc5",
-			"dedba118-6a74-4652-a2db-158d8e559351",
-			"b0d0f307-cffb-4e58-ac62-d1f66260f6c0",
-			"12f94223-dce2-4f17-947d-b62e5debc4aa"
-		],
-		"replaces": [
-			"0cf1f3e9-ab02-419d-a2bb-2d10dac6653b"
-		],
-		"dirty": true
 	},
 	{
 		"title": "Eindterm 6",
@@ -13296,31 +13066,6 @@
 		]
 	},
 	{
-		"title": "Eindterm 5",
-		"description": "De leerling verwerft doelgericht informatie uit diverse bronnen in de Franse taal. (B)",
-		"prefix": "5",
-		"soort": "eindterm",
-		"ce": 1,
-		"id": "04c42f23-02e6-43b9-8da7-f462e78f8e55",
-		"fo_uitwerking_id": [
-			"9df43765-ca3f-4ff2-9a05-699e3a19301d",
-			"47a28a46-1f1d-4803-8c08-a89ef13b9a43",
-			"50125c99-2f24-4aea-9758-eaac62d621f1"
-		],
-		"status": "concept",
-		"fo_illustratie_id": [
-			"396064d4-f8db-4198-a255-d87db56eff65",
-			"8b44d769-196b-49b4-acbc-6e4f324be436",
-			"984ed0ab-aabf-4e21-b903-ab7f0fbd7b24",
-			"cb63dd59-bf02-4764-84bf-6d0ded8cc5c7",
-			"f330c919-2d08-4da7-bf51-b5fdabc753d6"
-		],
-		"replaces": [
-			"398f0456-dff3-411e-b400-9522e7b878af"
-		],
-		"dirty": true
-	},
-	{
 		"title": "Eindterm 6",
 		"description": "De leerling spreekt in de Franse taal, afgestemd op doel, publiek en context. (B)",
 		"prefix": "6",
@@ -13715,32 +13460,6 @@
 		"replaces": [
 			"f390dd8d-d5c9-41f0-b9d0-596a8bbdc3a9"
 		]
-	},
-	{
-		"title": "Eindterm 5",
-		"description": "De leerling verwerft doelgericht informatie uit diverse bronnen in de Franse taal. (B)",
-		"prefix": "5",
-		"soort": "eindterm",
-		"ce": 1,
-		"id": "2c9deeb8-1164-45cb-9e44-08d73f83d4bd",
-		"fo_uitwerking_id": [
-			"0e14c92d-79dd-4d82-b3c1-d1550af6319f",
-			"b2d0808b-cf42-41df-b366-9dd4c56cba76",
-			"39a511e2-591c-47f5-a90a-3194c62f2aab",
-			"9d3af9bc-f806-4e20-8bbf-a355b554d836"
-		],
-		"status": "concept",
-		"fo_illustratie_id": [
-			"45db3cfd-ad73-4619-80aa-c54152c14a24",
-			"eb73d9d4-ecc5-4eae-ab4b-4394fe80e707",
-			"00fc5a15-1847-419a-971a-66e71133b3a4",
-			"c1c406cd-1ab4-4b51-8d6b-bfaedc78fc43",
-			"123f74f3-d366-4d58-a48f-507bf153f506"
-		],
-		"replaces": [
-			"70837182-9523-4276-a808-1db6b5a6789b"
-		],
-		"dirty": true
 	},
 	{
 		"title": "Eindterm 6",
@@ -14166,32 +13885,6 @@
 		"replaces": [
 			"365d63fe-e308-4397-8d83-2465045db662"
 		]
-	},
-	{
-		"title": "Eindterm 5",
-		"description": "De leerling verwerft doelgericht informatie uit diverse bronnen in de Franse taal. (B)",
-		"prefix": "5",
-		"soort": "eindterm",
-		"ce": 1,
-		"id": "0d4c1182-238c-4de6-89c9-6c955217a7b4",
-		"fo_uitwerking_id": [
-			"b1e96300-bc34-441c-b7cf-b588393a160c",
-			"8648618e-add2-45d7-9267-76bed41e2220",
-			"cc54c36f-3b10-4b6e-9a02-8d01969138bb",
-			"874d6777-48eb-41d3-bf62-bfc6629a9929"
-		],
-		"status": "concept",
-		"fo_illustratie_id": [
-			"a5649151-1eea-49fb-a993-432cac20b7be",
-			"b16124b8-487a-4d2c-934b-4b6c60fc5068",
-			"e26d7dc7-382e-4757-8d84-2484433bdc7a",
-			"f14b9e9d-dcf9-4952-97f7-633d76a49a0c",
-			"f9c9130e-b7fc-4921-8f58-987c552a9e05"
-		],
-		"replaces": [
-			"f9f611e8-d05e-49a4-8457-470f7900b4de"
-		],
-		"dirty": true
 	},
 	{
 		"title": "Eindterm 6",
@@ -14682,32 +14375,6 @@
 		]
 	},
 	{
-		"title": "Eindterm 5",
-		"description": "De leerling verwerft doelgericht informatie uit diverse bronnen in de Italiaanse taal. (B)",
-		"prefix": "5",
-		"soort": "eindterm",
-		"se": 1,
-		"id": "fa7046ec-29ef-4580-b1ed-af1480fc5611",
-		"fo_uitwerking_id": [
-			"bcb3f3a6-18fb-4dc1-805c-378a210ca154",
-			"a69b07e4-d839-40ba-8389-a3df07530a21",
-			"bdd6609c-9160-4082-80da-e40df8df991c",
-			"7ed58913-fcfa-4c67-8863-43df1588527f"
-		],
-		"status": "concept",
-		"fo_illustratie_id": [
-			"c1908953-b75e-4196-be01-5f888f3d0c31",
-			"f971a708-3797-4882-9246-ac806ee1be90",
-			"80f4b98b-6744-4c49-83d5-5a3352f93393",
-			"24df9af3-e450-44e2-92fe-0b94558ad8f1",
-			"8e647791-001f-4fd6-abf9-acf8050c137b"
-		],
-		"replaces": [
-			"697ecc3d-1894-4ebb-9a15-2bb21f7e79ce"
-		],
-		"dirty": true
-	},
-	{
 		"title": "Eindterm 6",
 		"description": "De leerling spreekt in de Italiaanse taal, afgestemd op doel, publiek en context. (B)",
 		"prefix": "6",
@@ -15126,32 +14793,6 @@
 		"replaces": [
 			"e3b9135a-fcc3-4469-ba72-c908f2ff76dd"
 		]
-	},
-	{
-		"title": "Eindterm 5",
-		"description": "De leerling verwerft doelgericht informatie uit diverse bronnen in de Italiaanse taal. (B)",
-		"prefix": "5",
-		"soort": "eindterm",
-		"se": 1,
-		"id": "0fdfb7bc-c0af-4541-862c-5f367f1d2492",
-		"fo_uitwerking_id": [
-			"cd8502f4-b3af-43a0-a4fc-8b45dd81440a",
-			"e8d59c4a-5c19-4ffc-bd59-1e8afcc0eec5",
-			"4707a1d1-5199-4205-b0b0-51a4ea4c34c9",
-			"444265ce-352b-43fb-bccf-71766c15f1de"
-		],
-		"status": "concept",
-		"fo_illustratie_id": [
-			"5c488540-6806-4b7b-a173-b5a6fb855be2",
-			"2bd8ce10-bbe6-4809-926c-6da473ec756f",
-			"8626d207-39ca-4c74-b19d-683fc39aa59f",
-			"931de7a1-118a-45cc-9471-d7e381dd665d",
-			"a9b5ca02-7bff-49df-bf2d-8051743b8c83"
-		],
-		"replaces": [
-			"1c84b973-b582-4a4a-ace4-d9a763f3bfca"
-		],
-		"dirty": true
 	},
 	{
 		"title": "Eindterm 6",
@@ -16354,31 +15995,6 @@
 		]
 	},
 	{
-		"title": "Eindterm 5",
-		"description": "De leerling verwerft doelgericht informatie uit diverse bronnen in de Spaanse taal. (B)",
-		"prefix": "5",
-		"soort": "eindterm",
-		"ce": 1,
-		"id": "8e3a0588-e718-4d38-ade1-7ccc36e7fe4f",
-		"fo_uitwerking_id": [
-			"515b7100-daf6-4f50-9fe1-2270211d4d94",
-			"f4692108-d6c5-4bce-9203-1e35e53257b3",
-			"6b18bdca-4525-4c97-975c-2ef83e16108d"
-		],
-		"status": "concept",
-		"fo_illustratie_id": [
-			"aebb655c-4797-43c4-9836-f2c580345ef7",
-			"3d4d37ff-9958-450c-a36e-f668660b8a4d",
-			"d0634208-1771-4001-9ca0-76e49100ca2f",
-			"3d57c277-2915-40fb-9712-c8c50f5e52fe",
-			"ede17923-167c-4506-bd8f-87ba81f17ba7"
-		],
-		"replaces": [
-			"fbb90324-31eb-4294-b7bc-e1dbebaaa29b"
-		],
-		"dirty": true
-	},
-	{
 		"title": "Eindterm 6",
 		"description": "De leerling spreekt in de Spaanse taal, afgestemd op doel, publiek en context. (B)",
 		"prefix": "6",
@@ -16773,32 +16389,6 @@
 		"replaces": [
 			"5be75ad0-189f-49e9-b060-b94bddd3dba8"
 		]
-	},
-	{
-		"title": "Eindterm 5",
-		"description": "De leerling verwerft doelgericht informatie uit diverse bronnen in de Spaanse taal. (B)",
-		"prefix": "5",
-		"soort": "eindterm",
-		"ce": 1,
-		"id": "8e9afbac-b25f-4216-adb4-dfc0bfed12ef",
-		"fo_uitwerking_id": [
-			"ebbf1a2a-c747-4cc9-9748-f6594f216eae",
-			"e75fbc63-76c7-4930-bb11-5a79941fa8be",
-			"78ce5f26-0eef-459e-846a-f94feed0a42f",
-			"4a9ac941-ea3b-430b-a8e6-7f8fbc11c440"
-		],
-		"status": "concept",
-		"fo_illustratie_id": [
-			"4eef35b6-84fd-4996-aa65-e727647719fe",
-			"e9c810d8-a9e5-4d51-ab99-f679741fd193",
-			"70a6e2f3-aaf8-4cb9-8ccb-86f9f73e6ec2",
-			"d8c736fb-8f77-49e7-bf40-a35de5f0c9a2",
-			"3e5f9634-55ac-4c02-a0ef-7de6769f0e27"
-		],
-		"replaces": [
-			"ea1db9c7-e49c-49af-b83d-23a259839f3f"
-		],
-		"dirty": true
 	},
 	{
 		"title": "Eindterm 6",
@@ -17224,32 +16814,6 @@
 		"replaces": [
 			"8627c69a-a3cf-4619-8f23-bc76e57a485e"
 		]
-	},
-	{
-		"title": "Eindterm 5",
-		"description": "De leerling verwerft doelgericht informatie uit diverse bronnen in de Spaanse taal. (B)",
-		"prefix": "5",
-		"soort": "eindterm",
-		"ce": 1,
-		"id": "0799aa51-4391-457f-896c-38d88a93af7f",
-		"fo_uitwerking_id": [
-			"580424d3-23f0-439d-9bee-7e7ba53b2138",
-			"7667fdf4-1731-47d6-bd8d-a583194c4c1e",
-			"3565a29c-e048-4699-9056-a1ab8fb6b62f",
-			"43949246-4efd-4333-a804-ce0cc89b60e4"
-		],
-		"status": "concept",
-		"fo_illustratie_id": [
-			"7139bd68-d18a-4775-a76b-9a4e38a58e91",
-			"2de9df1a-ff39-42f0-9a3a-f049d9894c28",
-			"d3ed562f-ba91-4303-bfc9-57ff39ce5012",
-			"4e8847f1-354c-4f28-b36c-5b3d6d03c4fd",
-			"1e751b32-ece7-4482-808f-16bccb0491ff"
-		],
-		"replaces": [
-			"2e48a1a4-5fb7-4576-a2e3-9f28180fce83"
-		],
-		"dirty": true
 	},
 	{
 		"title": "Eindterm 6",
@@ -45450,66 +45014,6 @@
 		]
 	},
 	{
-		"description": "De leerling interpreteert, representeert en analyseert data.",
-		"title": "Doelzin 11A",
-		"fo_uitwerking_id": [
-			"65ce6c0f-5979-4fb9-bbc0-efe3e88fc499",
-			"43086ec0-080d-46d2-9deb-8f3a35ee8863",
-			"f6f7d3d3-8045-449e-b70d-910b75653517",
-			"a0773bfc-3c36-44e9-baa5-67afb2274bec",
-			"10306552-74d0-4590-a4d6-d3e6d58b9456",
-			"e52fae7b-b4b4-40d8-b7f4-9d51e559b2ae",
-			"aaa0e080-be18-45d5-a9d9-5ad51bec4802",
-			"f7c47174-d5f4-4707-b3c1-e8572317c3b4",
-			"aaa6f79f-d775-4a93-b578-908bcc0c64f2",
-			"47cad67e-3e56-440e-bbe6-e611451644c2",
-			"52bae410-431e-442e-ab25-ba0eb21ce7c2"
-		],
-		"prefix": "A",
-		"id": "1de4ac3b-6a2e-45a7-9565-8f6574c235cb",
-		"soort": "kerndoel",
-		"ce": 0,
-		"se": 0,
-		"status": "definitief concept",
-		"fo_illustratie_id": [
-			"5ec94962-613c-4591-a4af-7da2d2199028",
-			"5c0bdf91-3bad-40b6-bff1-a78d30609211",
-			"d6b5a97e-385c-4da6-b0d1-582667dffd39",
-			"5d6f20ce-57a7-437d-b585-3714dec5370b",
-			"842b9979-7aa9-4718-858d-35bc7dfa1e5d",
-			"67212556-bb7f-441d-b343-38b763568a18"
-		],
-		"replaces": [
-			"9dbb4295-a30b-45fa-82da-a62ae1a09916",
-			"d1bcf5d4-d10b-4812-9bb2-a70ebe3bae70"
-		],
-		"dirty": true
-	},
-	{
-		"description": "De leerling redeneert en rekent met kansen.",
-		"title": "Doelzin 11B",
-		"fo_uitwerking_id": [
-			"aa9266a5-f5e3-47f1-be74-72921a9219dc",
-			"39da2763-0840-4995-9a1a-5e38050fe0da",
-			"b11dfa59-7dc5-4559-92cb-ec889ccf1227"
-		],
-		"prefix": "B",
-		"id": "8f782e78-f137-49c8-a377-057b684cc6bc",
-		"soort": "kerndoel",
-		"ce": 0,
-		"se": 0,
-		"status": "definitief concept",
-		"fo_illustratie_id": [
-			"26e1fc7e-738a-4a0e-a464-ee783888b8f2",
-			"d0abd67f-5b66-4a28-b58e-4b0665930c75"
-		],
-		"replaces": [
-			"33766238-41bd-46d5-8462-15075b1e330f",
-			"7bff986a-e0de-4588-afe3-32a7a4232448"
-		],
-		"dirty": true
-	},
-	{
 		"description": "De leerling analyseert en redeneert over patronen en verbanden.",
 		"title": "Doelzin 12A",
 		"fo_uitwerking_id": [
@@ -51928,119 +51432,6 @@
 		"fo_illustratie_id": [
 			"d6f9a483-0dc3-4969-8e5c-28e019853676"
 		]
-	},
-	{
-		"title": "Eindterm 15",
-		"description": "De leerling beoordeelt of specificeert in een betrekkelijk eenvoudige concrete situatie gegevens, op basis waarvan een eenvoudige onderzoeksvraag beantwoord wordt of kan worden.",
-		"prefix": "15",
-		"soort": "eindterm",
-		"se": 1,
-		"id": "02a7f1f3-3788-446b-bf29-cc3620571a65",
-		"fo_illustratie_id": [
-			"d4eb3175-2651-4f5a-a1f4-4663026abde2",
-			"d0bdc5a6-2109-4501-b7c5-d6a6061a7dc9",
-			"2d28d2e2-102a-498a-bc69-41807e8f4292"
-		],
-		"dirty": true,
-		"status": "definitief concept"
-	},
-	{
-		"title": "Eindterm 16",
-		"description": "De leerling lost in concrete situaties een betrekkelijk eenvoudig probleem op waarin grafische representaties van data of gemiddelden een rol spelen.",
-		"prefix": "16",
-		"soort": "eindterm",
-		"se": 1,
-		"id": "57ad373c-93aa-4251-a11a-8cc0bf7d9af4",
-		"fo_illustratie_id": [
-			"bcda45f3-ffb1-4db8-bd90-f20357417815",
-			"406560f7-1341-478a-b450-54a468329539"
-		],
-		"dirty": true,
-		"status": "definitief concept"
-	},
-	{
-		"title": "Eindterm 17",
-		"description": "De leerling voert rekenwiskundige handelingen uit met univariate data.",
-		"prefix": "17",
-		"soort": "eindterm",
-		"se": 1,
-		"id": "e0aa73ba-426b-4200-8dbd-031f316804f4",
-		"fo_uitwerking_id": [
-			"7adb42c1-42d6-4fb3-9955-517e8dbc799d",
-			"2c52af83-bc15-48a0-b773-6058fd2f90d6"
-		],
-		"dirty": true,
-		"status": "definitief concept"
-	},
-	{
-		"title": "Eindterm 18",
-		"description": "De leerling maakt in een concrete situatie keuzes hoe hij/zij univariate data met behulp van een softwarepakket grafisch zou weergeven,",
-		"prefix": "18",
-		"soort": "eindterm",
-		"ce": 1,
-		"id": "2c4d7314-5f69-4625-9a63-b722d13864ee",
-		"fo_uitwerking_id": [
-			"566e66ac-c589-4470-9549-4f93fe5719e5",
-			"dd284427-8bd6-47ac-80e7-100f90c65d1e",
-			"7e462db0-348b-4239-b230-8b83222066df",
-			"c6397573-d41b-4847-90f1-eb9513c66c78"
-		],
-		"dirty": true,
-		"status": "definitief concept"
-	},
-	{
-		"title": "Eindterm 19",
-		"description": "De leerling geeft in een concrete situatie een kans in taal en teken weer.",
-		"prefix": "19",
-		"soort": "eindterm",
-		"se": 1,
-		"id": "0730856e-6736-435d-9e88-da67fca65b31",
-		"fo_uitwerking_id": [
-			"12eca194-e34b-4387-8b29-0df9a7f67fde",
-			"f12813e8-2506-4373-b230-e3b5553bca07"
-		],
-		"fo_illustratie_id": [
-			"129c8626-d9fa-4e0e-b134-9c5de2d0abfa",
-			"d7968bcb-5735-4cb6-add3-5eb10cb7ed07"
-		],
-		"dirty": true,
-		"status": "definitief concept"
-	},
-	{
-		"title": "Eindterm 20",
-		"description": "De  leerling geeft in concrete situaties betekenis aan gemiddelden, spreiding en gangbare grafische representaties van data en trends.",
-		"prefix": "20",
-		"soort": "eindterm",
-		"se": 1,
-		"id": "3f6cccb4-8185-4266-8769-60e14eb0ceaf",
-		"fo_uitwerking_id": [
-			"4698ad4d-a1ef-4878-b6c9-f744d77bd514",
-			"0abe4bf1-7f89-4ce7-b379-6365ab86b890",
-			"25e906a5-861b-4f4b-9d54-e3b194236705"
-		],
-		"fo_illustratie_id": [
-			"cf552cc6-ed9a-4652-bda2-e4c637877266",
-			"02a229ab-dca2-4a93-ad4f-b923dcccfdc6"
-		],
-		"dirty": true,
-		"status": "definitief concept"
-	},
-	{
-		"title": "Eindterm 21",
-		"description": "De leerling geeft in een betrekkelijk eenvoudige concrete situatie betekenis aan kansen.",
-		"prefix": "21",
-		"soort": "eindterm",
-		"se": 1,
-		"id": "dcaf9639-d213-43d4-aade-131707dbb810",
-		"fo_uitwerking_id": [
-			"a32dba50-6ad6-4029-8427-6387995c5851",
-			"95545663-0913-4504-a78a-a343d235df03"
-		],
-		"fo_illustratie_id": [
-			"fe675493-edf2-43ee-97ff-5b0c82a724c5"
-		],
-		"dirty": true,
-		"status": "definitief concept"
 	},
 	{
 		"title": "Eindterm 15",
@@ -63025,7 +62416,6 @@
 		"soort": "kerndoel",
 		"status": "definitief concept",
 		"id": "004dec2b-7b85-4dc3-8070-f087281cfafd",
-		"unreleased": true,
 		"fo_uitwerking_id": [
 			"0f5a00b2-56b9-4676-b672-1bc7e1590e38",
 			"099d0089-0d06-4e62-b0e2-cae225af4c4e"
@@ -63034,6 +62424,629 @@
 			"ad670dcb-d78c-4359-ad0b-3da9abc2e9b0",
 			"88a88c23-274f-41b7-ba42-4058180b7d92",
 			"59b29839-a555-47b4-b6c6-be216824f513"
+		]
+	},
+	{
+		"title": "Eindterm 5",
+		"description": "De leerling verwerft doelgericht informatie uit diverse bronnen in de Chinese taal. (B)",
+		"prefix": "5",
+		"soort": "eindterm",
+		"se": 1,
+		"id": "fb5f3b91-514e-46d4-a20a-76082d57a7cc",
+		"fo_uitwerking_id": [
+			"c1325e07-379f-46ed-96fb-bd57907a9f73",
+			"a857a5c1-ba0e-4a9f-a701-9759a7828bc5",
+			"cc9461d4-c1aa-4b65-9a67-4304f985992c"
+		],
+		"status": "concept",
+		"fo_illustratie_id": [
+			"eb6e14a7-51c4-4e88-83b2-3a0507537101",
+			"c023c841-7a7a-4af9-b24b-75e41bc9ee1c",
+			"e87d198b-4d62-4a89-9a6c-0b05e30566ec",
+			"c6253c6d-0845-4d7b-b32b-e74715c97073",
+			"bf939963-03ac-4a62-af8a-f1ecf619bd85"
+		],
+		"replaces": [
+			"0fe86641-2ab1-465e-b364-e7ef558ab3de",
+			"db836a5a-b080-4664-b606-98e301ab52e9"
+		]
+	},
+	{
+		"title": "Eindterm 5",
+		"description": "De leerling verwerft doelgericht informatie uit diverse bronnen in de Duitse taal. (B)",
+		"prefix": "5",
+		"soort": "eindterm",
+		"ce": 1,
+		"id": "e5286614-c544-460e-b957-a4b2f282dc3d",
+		"fo_uitwerking_id": [
+			"d60c5b06-b080-45cb-8f7f-e7afdcdd8872",
+			"7d952c18-0142-4a88-844f-5f1e5ee6ca96",
+			"6d4c1b3a-e919-4ff0-a7df-ed142cbe2f56"
+		],
+		"status": "concept",
+		"fo_illustratie_id": [
+			"067fcdbb-d43d-4103-a859-4f55913696f6",
+			"dd2b16e3-6640-4ee3-835f-53a008c9005d",
+			"7b854b32-17fc-4779-beb2-9906c063fea2",
+			"da5b8d61-49b9-4a10-8eba-b53faa794148",
+			"2928239c-d9ff-49e4-a8a8-1e60ae0d6dfc"
+		],
+		"replaces": [
+			"2582ebc9-94b1-41ab-bb6d-295261bef55e",
+			"cf4e5eef-e77d-4fff-8e64-aa82aa086f7e"
+		]
+	},
+	{
+		"title": "Eindterm 5",
+		"description": "De leerling verwerft doelgericht informatie uit diverse bronnen in de Duitse taal. (B)",
+		"prefix": "5",
+		"soort": "eindterm",
+		"ce": 1,
+		"id": "cc06acca-1c58-4db1-a4d2-4a8b86abb93c",
+		"fo_uitwerking_id": [
+			"623f641d-3000-47e7-9548-6471895e9a27",
+			"074528ef-2b4a-4205-bc55-cc35979f07fa",
+			"bc04d33d-1d12-4c62-b2c5-c45997f3246a",
+			"ab7fb1d4-4fa5-4040-8311-55a3b3b4548e"
+		],
+		"status": "concept",
+		"fo_illustratie_id": [
+			"462540b8-7b1d-46ba-b6ae-cc50808a737a",
+			"b7281520-dd18-4512-9b3f-25f1d9e79e5d",
+			"6715315f-16d6-4f13-abac-ee9285d49414",
+			"65b6c816-e296-4573-a0f8-5b9e69faaa7b",
+			"3d43c40a-3a4e-4b90-b614-a382733d92e1"
+		],
+		"replaces": [
+			"2353a9ec-9202-49c5-b942-b2e65e3c2621",
+			"0ccbde70-bbd9-4b93-968d-b62f792b5db9"
+		]
+	},
+	{
+		"title": "Eindterm 5",
+		"description": "De leerling verwerft doelgericht informatie uit diverse bronnen in de Duitse taal. (B)",
+		"prefix": "5",
+		"soort": "eindterm",
+		"ce": 1,
+		"id": "2f2738dc-9d64-4dfa-ae36-b09cad18b9e7",
+		"fo_uitwerking_id": [
+			"2b265e2c-0802-46b3-90ae-83bd5b45a8ba",
+			"709407c4-6ec2-441a-b4b1-1937320cf5c5",
+			"d31db903-321f-4b6a-a816-dd4a68ee24db",
+			"7ce40f48-4ee8-4c9d-8acc-38638b9cfcad"
+		],
+		"status": "concept",
+		"fo_illustratie_id": [
+			"cbde70df-81ba-457f-a456-1985e37d56e2",
+			"f0d1407a-401d-4a1a-95c4-9050ef986d9e",
+			"224a5009-e493-48b4-99de-287a5e8f6c14",
+			"6baf41ea-81c3-48d7-ba7e-4d1872233688",
+			"69e3badd-bb23-49db-b3a1-611a4c5a00d2"
+		],
+		"replaces": [
+			"642e8d97-925c-4f2f-93ad-be4f6e2ed3d6",
+			"b22663c9-8a17-47c6-ba15-c198ebdb70e4"
+		]
+	},
+	{
+		"title": "Concept - Eindterm 5",
+		"description": "De leerling verwerft doelgericht informatie uit diverse bronnen in de Engelse taal. (B)",
+		"prefix": "5",
+		"soort": "eindterm",
+		"ce": 1,
+		"id": "b7b8129b-7b9d-497e-a1c9-77bc6bd27928",
+		"fo_uitwerking_id": [
+			"f689d1e2-d964-419f-a242-58497d067d07",
+			"e505c728-24a7-460a-97fb-e68b5b633edf",
+			"e879e9a9-ed0d-41b2-8a79-b4a0998fe08f"
+		],
+		"status": "concept",
+		"fo_illustratie_id": [
+			"680d0376-5f76-47cb-bbb7-6ec2d392bcf9",
+			"e84ebd5a-a28d-4685-a55a-80774cee2401",
+			"a11fe252-6b0b-4aaa-9dee-dac1f17aa8a9",
+			"5cf2bd7d-a8aa-40c9-870c-41a79a4c9e8a",
+			"92369f9e-d2ec-40d0-9753-825208626492"
+		],
+		"replaces": [
+			"85ce3d2f-916b-4f3c-b1ef-3f4ec2207e28",
+			"47e85e66-aabc-4592-afa6-ec74e251c2d9"
+		]
+	},
+	{
+		"title": "Concept - Eindterm 5",
+		"description": "De leerling verwerft doelgericht informatie uit diverse bronnen in de Engelse taal. (B)",
+		"prefix": "5",
+		"soort": "eindterm",
+		"ce": 1,
+		"id": "42a06d89-9df0-445a-9690-0b0326c42082",
+		"fo_uitwerking_id": [
+			"c028ad25-5ff7-48ec-991d-45e7ee84ab93",
+			"3a1563cd-838f-4259-bdee-56c54b422e6c",
+			"81576cd6-f625-4d56-9dfa-c5426c3a09ce"
+		],
+		"status": "concept",
+		"fo_illustratie_id": [
+			"6db5d1e9-9288-44f2-bf54-bb8197214b70",
+			"61c0075a-5d89-41ab-ab19-8bb6e96d73e2",
+			"c876f299-84fd-4a6b-869e-27af3376a841",
+			"3fe04830-6fcd-41c5-9538-39809fecac21",
+			"8e35a3ac-3ded-4cd6-8ecd-ccda8db60bc3"
+		],
+		"replaces": [
+			"3ffb3632-e41c-4951-b6d3-91b782000352",
+			"3ebf04e0-d6b4-42ae-980e-d8d893d05ae1"
+		]
+	},
+	{
+		"title": "Eindterm 5",
+		"description": "De leerling verwerft doelgericht informatie uit diverse bronnen in de Engelse taal. (B)",
+		"prefix": "5",
+		"soort": "eindterm",
+		"ce": 1,
+		"id": "2e0aa8dd-b96a-412c-ad94-4dbf5f0b716b",
+		"fo_uitwerking_id": [
+			"cb58460e-1377-40ad-a221-c7451789266d",
+			"3f71ae01-90eb-48e8-bee7-418d715b31c6",
+			"e1452f8c-d9b7-4994-9747-c4d3dcdb8ba7",
+			"f2a6a193-04b9-47a9-9d86-2e1356b206ad"
+		],
+		"status": "concept",
+		"fo_illustratie_id": [
+			"8cc46d65-f5ed-43db-b31d-ab50116552e1",
+			"f9e82c40-4389-472d-836a-d4116e0ff18f",
+			"c18f9dd4-e0c1-4919-987c-62a96134b74d",
+			"2e27a57a-6d37-40dc-8f86-232c4bc81755",
+			"8896da80-dd8f-435a-9989-e5ce007cd0a9"
+		],
+		"replaces": [
+			"eeeafe13-cd77-47cc-ad9b-f67d68dbe2dc",
+			"60948bdd-cba8-40b3-aa51-a2e9e3d320da"
+		]
+	},
+	{
+		"title": "Eindterm 5",
+		"description": "De leerling verwerft doelgericht informatie uit diverse bronnen in de Engelse taal. (B)",
+		"prefix": "5",
+		"soort": "eindterm",
+		"ce": 1,
+		"id": "3be7d8dc-3c76-4350-b96c-0b19c9dfd6a0",
+		"fo_uitwerking_id": [
+			"bffe3e07-35bc-4430-80dc-7f25c885123b",
+			"7bbc4529-0d44-4a93-b7db-c50bbd04a039",
+			"eb0e2c03-989c-4a95-9759-acb7d08528c6",
+			"bee1bffd-aaff-464f-b626-b203f0c074e3"
+		],
+		"status": "concept",
+		"fo_illustratie_id": [
+			"c821b8c8-123d-48a7-9a15-ba17a5d715ac",
+			"3eac4c96-e21b-4d09-bc72-9d4bbbc0e615",
+			"70ae9e2c-e865-4a3c-8368-e703d901843d",
+			"5f5cf6e1-2b97-4f21-a0b5-51eccbdfb804",
+			"206b7ddf-4c7e-4c2c-a2df-60b135627d1a"
+		],
+		"replaces": [
+			"d420f0aa-591e-42e3-82d0-59b5ad5434dd",
+			"e8c47959-831a-4deb-ac59-46250e631c1d"
+		]
+	},
+	{
+		"title": "Eindterm 5",
+		"description": "De leerling verwerft doelgericht informatie uit diverse bronnen in de Engelse taal. (B)",
+		"prefix": "5",
+		"soort": "eindterm",
+		"ce": 1,
+		"id": "052b3649-ef30-4222-8834-6341e6f5e2a5",
+		"fo_uitwerking_id": [
+			"61a57831-6ee7-470f-8bd7-46e3ddf35fa1",
+			"0d49defb-458d-4219-af23-9a8cd804efb9",
+			"2b43cfae-98bc-4147-a10a-6276474d26d9",
+			"2e6b9f35-6490-4aa7-baab-f5f53ad04ae3"
+		],
+		"status": "concept",
+		"fo_illustratie_id": [
+			"1a368f4e-2b0b-41a1-a5e0-6e9da27b8ad5",
+			"2074789a-e36b-4e47-8668-44fd74bf6cc5",
+			"dedba118-6a74-4652-a2db-158d8e559351",
+			"b0d0f307-cffb-4e58-ac62-d1f66260f6c0",
+			"12f94223-dce2-4f17-947d-b62e5debc4aa"
+		],
+		"replaces": [
+			"0cf1f3e9-ab02-419d-a2bb-2d10dac6653b",
+			"21843138-aea8-4ae5-bddd-445bd9dbd262"
+		]
+	},
+	{
+		"title": "Eindterm 5",
+		"description": "De leerling verwerft doelgericht informatie uit diverse bronnen in de Franse taal. (B)",
+		"prefix": "5",
+		"soort": "eindterm",
+		"ce": 1,
+		"id": "4f9ce759-6bd2-4b0d-b9f1-6f8a1d8de072",
+		"fo_uitwerking_id": [
+			"9df43765-ca3f-4ff2-9a05-699e3a19301d",
+			"47a28a46-1f1d-4803-8c08-a89ef13b9a43",
+			"50125c99-2f24-4aea-9758-eaac62d621f1"
+		],
+		"status": "concept",
+		"fo_illustratie_id": [
+			"396064d4-f8db-4198-a255-d87db56eff65",
+			"8b44d769-196b-49b4-acbc-6e4f324be436",
+			"984ed0ab-aabf-4e21-b903-ab7f0fbd7b24",
+			"cb63dd59-bf02-4764-84bf-6d0ded8cc5c7",
+			"f330c919-2d08-4da7-bf51-b5fdabc753d6"
+		],
+		"replaces": [
+			"398f0456-dff3-411e-b400-9522e7b878af",
+			"04c42f23-02e6-43b9-8da7-f462e78f8e55"
+		]
+	},
+	{
+		"title": "Eindterm 5",
+		"description": "De leerling verwerft doelgericht informatie uit diverse bronnen in de Franse taal. (B)",
+		"prefix": "5",
+		"soort": "eindterm",
+		"ce": 1,
+		"id": "f1459619-a442-487a-ad53-a47a10ac16d2",
+		"fo_uitwerking_id": [
+			"0e14c92d-79dd-4d82-b3c1-d1550af6319f",
+			"b2d0808b-cf42-41df-b366-9dd4c56cba76",
+			"39a511e2-591c-47f5-a90a-3194c62f2aab",
+			"9d3af9bc-f806-4e20-8bbf-a355b554d836"
+		],
+		"status": "concept",
+		"fo_illustratie_id": [
+			"45db3cfd-ad73-4619-80aa-c54152c14a24",
+			"eb73d9d4-ecc5-4eae-ab4b-4394fe80e707",
+			"00fc5a15-1847-419a-971a-66e71133b3a4",
+			"c1c406cd-1ab4-4b51-8d6b-bfaedc78fc43",
+			"123f74f3-d366-4d58-a48f-507bf153f506"
+		],
+		"replaces": [
+			"70837182-9523-4276-a808-1db6b5a6789b",
+			"2c9deeb8-1164-45cb-9e44-08d73f83d4bd"
+		]
+	},
+	{
+		"title": "Eindterm 5",
+		"description": "De leerling verwerft doelgericht informatie uit diverse bronnen in de Franse taal. (B)",
+		"prefix": "5",
+		"soort": "eindterm",
+		"ce": 1,
+		"id": "9f3817b2-edfa-4136-ab89-74a5204b74c7",
+		"fo_uitwerking_id": [
+			"b1e96300-bc34-441c-b7cf-b588393a160c",
+			"8648618e-add2-45d7-9267-76bed41e2220",
+			"cc54c36f-3b10-4b6e-9a02-8d01969138bb",
+			"874d6777-48eb-41d3-bf62-bfc6629a9929"
+		],
+		"status": "concept",
+		"fo_illustratie_id": [
+			"a5649151-1eea-49fb-a993-432cac20b7be",
+			"b16124b8-487a-4d2c-934b-4b6c60fc5068",
+			"e26d7dc7-382e-4757-8d84-2484433bdc7a",
+			"f14b9e9d-dcf9-4952-97f7-633d76a49a0c",
+			"f9c9130e-b7fc-4921-8f58-987c552a9e05"
+		],
+		"replaces": [
+			"f9f611e8-d05e-49a4-8457-470f7900b4de",
+			"0d4c1182-238c-4de6-89c9-6c955217a7b4"
+		]
+	},
+	{
+		"title": "Eindterm 5",
+		"description": "De leerling verwerft doelgericht informatie uit diverse bronnen in de Italiaanse taal. (B)",
+		"prefix": "5",
+		"soort": "eindterm",
+		"se": 1,
+		"id": "3f67c364-52a3-43f5-8e4c-c7e2e2b23c64",
+		"fo_uitwerking_id": [
+			"bcb3f3a6-18fb-4dc1-805c-378a210ca154",
+			"a69b07e4-d839-40ba-8389-a3df07530a21",
+			"bdd6609c-9160-4082-80da-e40df8df991c",
+			"7ed58913-fcfa-4c67-8863-43df1588527f"
+		],
+		"status": "concept",
+		"fo_illustratie_id": [
+			"c1908953-b75e-4196-be01-5f888f3d0c31",
+			"f971a708-3797-4882-9246-ac806ee1be90",
+			"80f4b98b-6744-4c49-83d5-5a3352f93393",
+			"24df9af3-e450-44e2-92fe-0b94558ad8f1",
+			"8e647791-001f-4fd6-abf9-acf8050c137b"
+		],
+		"replaces": [
+			"697ecc3d-1894-4ebb-9a15-2bb21f7e79ce",
+			"fa7046ec-29ef-4580-b1ed-af1480fc5611"
+		]
+	},
+	{
+		"title": "Eindterm 5",
+		"description": "De leerling verwerft doelgericht informatie uit diverse bronnen in de Italiaanse taal. (B)",
+		"prefix": "5",
+		"soort": "eindterm",
+		"se": 1,
+		"id": "696aa68c-c51d-4855-9358-25a5c698a968",
+		"fo_uitwerking_id": [
+			"cd8502f4-b3af-43a0-a4fc-8b45dd81440a",
+			"e8d59c4a-5c19-4ffc-bd59-1e8afcc0eec5",
+			"4707a1d1-5199-4205-b0b0-51a4ea4c34c9",
+			"444265ce-352b-43fb-bccf-71766c15f1de"
+		],
+		"status": "concept",
+		"fo_illustratie_id": [
+			"5c488540-6806-4b7b-a173-b5a6fb855be2",
+			"2bd8ce10-bbe6-4809-926c-6da473ec756f",
+			"8626d207-39ca-4c74-b19d-683fc39aa59f",
+			"931de7a1-118a-45cc-9471-d7e381dd665d",
+			"a9b5ca02-7bff-49df-bf2d-8051743b8c83"
+		],
+		"replaces": [
+			"1c84b973-b582-4a4a-ace4-d9a763f3bfca",
+			"0fdfb7bc-c0af-4541-862c-5f367f1d2492"
+		]
+	},
+	{
+		"title": "Eindterm 5",
+		"description": "De leerling verwerft doelgericht informatie uit diverse bronnen in de Spaanse taal. (B)",
+		"prefix": "5",
+		"soort": "eindterm",
+		"ce": 1,
+		"id": "7148182a-6eb0-42d8-a638-e1618b94dc65",
+		"fo_uitwerking_id": [
+			"515b7100-daf6-4f50-9fe1-2270211d4d94",
+			"f4692108-d6c5-4bce-9203-1e35e53257b3",
+			"6b18bdca-4525-4c97-975c-2ef83e16108d"
+		],
+		"status": "concept",
+		"fo_illustratie_id": [
+			"aebb655c-4797-43c4-9836-f2c580345ef7",
+			"3d4d37ff-9958-450c-a36e-f668660b8a4d",
+			"d0634208-1771-4001-9ca0-76e49100ca2f",
+			"3d57c277-2915-40fb-9712-c8c50f5e52fe",
+			"ede17923-167c-4506-bd8f-87ba81f17ba7"
+		],
+		"replaces": [
+			"fbb90324-31eb-4294-b7bc-e1dbebaaa29b",
+			"8e3a0588-e718-4d38-ade1-7ccc36e7fe4f"
+		]
+	},
+	{
+		"title": "Eindterm 5",
+		"description": "De leerling verwerft doelgericht informatie uit diverse bronnen in de Spaanse taal. (B)",
+		"prefix": "5",
+		"soort": "eindterm",
+		"ce": 1,
+		"id": "5ac9b400-4e7a-4f24-b18c-a40c3cd7d7f1",
+		"fo_uitwerking_id": [
+			"ebbf1a2a-c747-4cc9-9748-f6594f216eae",
+			"e75fbc63-76c7-4930-bb11-5a79941fa8be",
+			"78ce5f26-0eef-459e-846a-f94feed0a42f",
+			"4a9ac941-ea3b-430b-a8e6-7f8fbc11c440"
+		],
+		"status": "concept",
+		"fo_illustratie_id": [
+			"4eef35b6-84fd-4996-aa65-e727647719fe",
+			"e9c810d8-a9e5-4d51-ab99-f679741fd193",
+			"70a6e2f3-aaf8-4cb9-8ccb-86f9f73e6ec2",
+			"d8c736fb-8f77-49e7-bf40-a35de5f0c9a2",
+			"3e5f9634-55ac-4c02-a0ef-7de6769f0e27"
+		],
+		"replaces": [
+			"ea1db9c7-e49c-49af-b83d-23a259839f3f",
+			"8e9afbac-b25f-4216-adb4-dfc0bfed12ef"
+		]
+	},
+	{
+		"title": "Eindterm 5",
+		"description": "De leerling verwerft doelgericht informatie uit diverse bronnen in de Spaanse taal. (B)",
+		"prefix": "5",
+		"soort": "eindterm",
+		"ce": 1,
+		"id": "bef68f7b-f650-492c-992a-985af78c86a4",
+		"fo_uitwerking_id": [
+			"580424d3-23f0-439d-9bee-7e7ba53b2138",
+			"7667fdf4-1731-47d6-bd8d-a583194c4c1e",
+			"3565a29c-e048-4699-9056-a1ab8fb6b62f",
+			"43949246-4efd-4333-a804-ce0cc89b60e4"
+		],
+		"status": "concept",
+		"fo_illustratie_id": [
+			"7139bd68-d18a-4775-a76b-9a4e38a58e91",
+			"2de9df1a-ff39-42f0-9a3a-f049d9894c28",
+			"d3ed562f-ba91-4303-bfc9-57ff39ce5012",
+			"4e8847f1-354c-4f28-b36c-5b3d6d03c4fd",
+			"1e751b32-ece7-4482-808f-16bccb0491ff"
+		],
+		"replaces": [
+			"2e48a1a4-5fb7-4576-a2e3-9f28180fce83",
+			"0799aa51-4391-457f-896c-38d88a93af7f"
+		]
+	},
+	{
+		"description": "De leerling interpreteert, representeert en analyseert data.",
+		"title": "Doelzin 11A",
+		"fo_uitwerking_id": [
+			"65ce6c0f-5979-4fb9-bbc0-efe3e88fc499",
+			"43086ec0-080d-46d2-9deb-8f3a35ee8863",
+			"f6f7d3d3-8045-449e-b70d-910b75653517",
+			"a0773bfc-3c36-44e9-baa5-67afb2274bec",
+			"10306552-74d0-4590-a4d6-d3e6d58b9456",
+			"e52fae7b-b4b4-40d8-b7f4-9d51e559b2ae",
+			"aaa0e080-be18-45d5-a9d9-5ad51bec4802",
+			"f7c47174-d5f4-4707-b3c1-e8572317c3b4",
+			"aaa6f79f-d775-4a93-b578-908bcc0c64f2",
+			"47cad67e-3e56-440e-bbe6-e611451644c2",
+			"52bae410-431e-442e-ab25-ba0eb21ce7c2"
+		],
+		"prefix": "A",
+		"id": "bd1388b3-9ef3-4610-8b85-8e3103b7d73d",
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0,
+		"status": "definitief concept",
+		"fo_illustratie_id": [
+			"5ec94962-613c-4591-a4af-7da2d2199028",
+			"5c0bdf91-3bad-40b6-bff1-a78d30609211",
+			"d6b5a97e-385c-4da6-b0d1-582667dffd39",
+			"5d6f20ce-57a7-437d-b585-3714dec5370b",
+			"842b9979-7aa9-4718-858d-35bc7dfa1e5d",
+			"67212556-bb7f-441d-b343-38b763568a18"
+		],
+		"replaces": [
+			"9dbb4295-a30b-45fa-82da-a62ae1a09916",
+			"d1bcf5d4-d10b-4812-9bb2-a70ebe3bae70",
+			"1de4ac3b-6a2e-45a7-9565-8f6574c235cb"
+		]
+	},
+	{
+		"description": "De leerling redeneert en rekent met kansen.",
+		"title": "Doelzin 11B",
+		"fo_uitwerking_id": [
+			"aa9266a5-f5e3-47f1-be74-72921a9219dc",
+			"39da2763-0840-4995-9a1a-5e38050fe0da",
+			"b11dfa59-7dc5-4559-92cb-ec889ccf1227"
+		],
+		"prefix": "B",
+		"id": "183cbb0a-390d-4735-8d91-56eef8651da4",
+		"soort": "kerndoel",
+		"ce": 0,
+		"se": 0,
+		"status": "definitief concept",
+		"fo_illustratie_id": [
+			"26e1fc7e-738a-4a0e-a464-ee783888b8f2",
+			"d0abd67f-5b66-4a28-b58e-4b0665930c75"
+		],
+		"replaces": [
+			"33766238-41bd-46d5-8462-15075b1e330f",
+			"7bff986a-e0de-4588-afe3-32a7a4232448",
+			"8f782e78-f137-49c8-a377-057b684cc6bc"
+		]
+	},
+	{
+		"title": "Eindterm 15",
+		"description": "De leerling beoordeelt of specificeert in een betrekkelijk eenvoudige concrete situatie gegevens, op basis waarvan een eenvoudige onderzoeksvraag beantwoord wordt of kan worden.",
+		"prefix": "15",
+		"soort": "eindterm",
+		"se": 1,
+		"id": "5f83c1bf-bf69-4ce0-8c8d-dde2ac9639f8",
+		"fo_illustratie_id": [
+			"d4eb3175-2651-4f5a-a1f4-4663026abde2",
+			"d0bdc5a6-2109-4501-b7c5-d6a6061a7dc9",
+			"2d28d2e2-102a-498a-bc69-41807e8f4292"
+		],
+		"status": "definitief concept",
+		"replaces": [
+			"02a7f1f3-3788-446b-bf29-cc3620571a65"
+		]
+	},
+	{
+		"title": "Eindterm 16",
+		"description": "De leerling lost in concrete situaties een betrekkelijk eenvoudig probleem op waarin grafische representaties van data of gemiddelden een rol spelen.",
+		"prefix": "16",
+		"soort": "eindterm",
+		"se": 1,
+		"id": "2e01ff48-c5fd-4eca-8cba-6cc0123de295",
+		"fo_illustratie_id": [
+			"bcda45f3-ffb1-4db8-bd90-f20357417815",
+			"406560f7-1341-478a-b450-54a468329539"
+		],
+		"status": "definitief concept",
+		"replaces": [
+			"57ad373c-93aa-4251-a11a-8cc0bf7d9af4"
+		]
+	},
+	{
+		"title": "Eindterm 17",
+		"description": "De leerling voert rekenwiskundige handelingen uit met univariate data.",
+		"prefix": "17",
+		"soort": "eindterm",
+		"se": 1,
+		"id": "ac1b889a-0bb1-41da-9b64-d669222a481c",
+		"fo_uitwerking_id": [
+			"7adb42c1-42d6-4fb3-9955-517e8dbc799d",
+			"2c52af83-bc15-48a0-b773-6058fd2f90d6"
+		],
+		"status": "definitief concept",
+		"replaces": [
+			"e0aa73ba-426b-4200-8dbd-031f316804f4"
+		]
+	},
+	{
+		"title": "Eindterm 18",
+		"description": "De leerling maakt in een concrete situatie keuzes hoe hij/zij univariate data met behulp van een softwarepakket grafisch zou weergeven,",
+		"prefix": "18",
+		"soort": "eindterm",
+		"ce": 1,
+		"id": "8e2729a2-6acf-48ad-9e50-fc8a092398d1",
+		"fo_uitwerking_id": [
+			"566e66ac-c589-4470-9549-4f93fe5719e5",
+			"dd284427-8bd6-47ac-80e7-100f90c65d1e",
+			"7e462db0-348b-4239-b230-8b83222066df",
+			"c6397573-d41b-4847-90f1-eb9513c66c78"
+		],
+		"status": "definitief concept",
+		"replaces": [
+			"2c4d7314-5f69-4625-9a63-b722d13864ee"
+		]
+	},
+	{
+		"title": "Eindterm 19",
+		"description": "De leerling geeft in een concrete situatie een kans in taal en teken weer.",
+		"prefix": "19",
+		"soort": "eindterm",
+		"se": 1,
+		"id": "bc6fcc25-1964-41e3-a4f7-897ebf86ff0d",
+		"fo_uitwerking_id": [
+			"12eca194-e34b-4387-8b29-0df9a7f67fde",
+			"f12813e8-2506-4373-b230-e3b5553bca07"
+		],
+		"fo_illustratie_id": [
+			"129c8626-d9fa-4e0e-b134-9c5de2d0abfa",
+			"d7968bcb-5735-4cb6-add3-5eb10cb7ed07"
+		],
+		"status": "definitief concept",
+		"replaces": [
+			"0730856e-6736-435d-9e88-da67fca65b31"
+		]
+	},
+	{
+		"title": "Eindterm 20",
+		"description": "De  leerling geeft in concrete situaties betekenis aan gemiddelden, spreiding en gangbare grafische representaties van data en trends.",
+		"prefix": "20",
+		"soort": "eindterm",
+		"se": 1,
+		"id": "6a82610a-097a-4cbf-b581-edaa2d5a97ba",
+		"fo_uitwerking_id": [
+			"4698ad4d-a1ef-4878-b6c9-f744d77bd514",
+			"0abe4bf1-7f89-4ce7-b379-6365ab86b890",
+			"25e906a5-861b-4f4b-9d54-e3b194236705"
+		],
+		"fo_illustratie_id": [
+			"cf552cc6-ed9a-4652-bda2-e4c637877266",
+			"02a229ab-dca2-4a93-ad4f-b923dcccfdc6"
+		],
+		"status": "definitief concept",
+		"replaces": [
+			"3f6cccb4-8185-4266-8769-60e14eb0ceaf"
+		]
+	},
+	{
+		"title": "Eindterm 21",
+		"description": "De leerling geeft in een betrekkelijk eenvoudige concrete situatie betekenis aan kansen.",
+		"prefix": "21",
+		"soort": "eindterm",
+		"se": 1,
+		"id": "77c24ea0-cbf7-421a-9ce3-8cd19aaef837",
+		"fo_uitwerking_id": [
+			"a32dba50-6ad6-4029-8427-6387995c5851",
+			"95545663-0913-4504-a78a-a343d235df03"
+		],
+		"fo_illustratie_id": [
+			"fe675493-edf2-43ee-97ff-5b0c82a724c5"
+		],
+		"status": "definitief concept",
+		"replaces": [
+			"dcaf9639-d213-43d4-aade-131707dbb810"
 		]
 	}
 ]
