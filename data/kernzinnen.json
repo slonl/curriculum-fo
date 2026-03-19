@@ -466,7 +466,7 @@
 		]
 	},
 	{
-		"title": "Kerdoel 37",
+		"title": "Kerndoel 37",
 		"description": "De leerling gebruikt de […..] taal in rijke en betekenisvolle contexten.",
 		"prefix": "37",
 		"id": "56a737ce-592f-4b51-94bd-f8b7fb6c5647",
@@ -893,12 +893,12 @@
 		"id": "83232034-66b9-44c1-a1a2-cf2428349052",
 		"fo_doelzin_id": [
 			"de0fdae4-ead4-44c7-acab-b71996961f81",
-			"67bd7375-71c9-42e7-8a0f-093b9ffb1806",
-			"845a51c8-ea57-493b-b96c-cbe249864735"
+			"67bd7375-71c9-42e7-8a0f-093b9ffb1806"
 		],
 		"replaces": [
 			"c02f4a59-65ef-494c-bec2-81d586ebdff1"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Kerndoel 1",
@@ -906,11 +906,13 @@
 		"prefix": "1",
 		"id": "3c0dd201-bd9e-4051-b2cb-c293bfb51aec",
 		"fo_doelzin_id": [
-			"2c23d59a-c211-49c9-aa74-0643718b245d"
+			"2c23d59a-c211-49c9-aa74-0643718b245d",
+			"845a51c8-ea57-493b-b96c-cbe249864735"
 		],
 		"replaces": [
 			"22da3988-48a5-4b30-8428-aa8c1742fd4f"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Kerndoel 2",
@@ -1719,11 +1721,13 @@
 		"id": "cfcc92bf-54c9-4f5b-b283-d385d5bea06c",
 		"fo_doelzin_id": [
 			"1de4ac3b-6a2e-45a7-9565-8f6574c235cb",
-			"8f782e78-f137-49c8-a377-057b684cc6bc"
+			"8f782e78-f137-49c8-a377-057b684cc6bc",
+			"004dec2b-7b85-4dc3-8070-f087281cfafd"
 		],
 		"replaces": [
 			"336ae851-042f-4407-b5cf-7672591fc250"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Kerndoel 13",
@@ -1755,13 +1759,14 @@
 		"prefix": "10",
 		"id": "9860c2ca-8824-4399-aaeb-22c95f771dbd",
 		"fo_doelzin_id": [
-			"fb879a00-6fee-4392-b2ef-a992e3e6240d",
+			"a46beeca-0dc7-453b-8ca7-bacb12499850",
 			"572ce34c-1476-462a-96eb-7bdb5975fdfc",
-			"a46beeca-0dc7-453b-8ca7-bacb12499850"
+			"fb879a00-6fee-4392-b2ef-a992e3e6240d"
 		],
 		"replaces": [
 			"6d5c2bc1-bed3-4586-8e15-b53753003f1c"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"title": "Kerndoel 15",
@@ -2084,7 +2089,7 @@
 	},
 	{
 		"title": "Kerndoel 15",
-		"description": "De leerling gebruikt wiksunde taal en wiskundig gereedschap.",
+		"description": "De leerling gebruikt wiskunde taal en wiskundig gereedschap.",
 		"prefix": "15",
 		"id": "d501d829-2eb9-4389-8c17-47a86b67f37e",
 		"fo_doelzin_id": [

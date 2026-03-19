@@ -2356,7 +2356,7 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"description": "genereren van ideeë, rekening houdend met financiële en organisatorische haalbaarheid en duurzaamheid.",
+		"description": "genereren van ideeën, rekening houdend met financiële en organisatorische haalbaarheid en duurzaamheid.",
 		"status": "concept"
 	},
 	{
@@ -2656,7 +2656,7 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"description": "omzetten van ideeën naar oplossingen, rekening houdend met inrichting, beheer en beveliging van de omgeving.",
+		"description": "omzetten van ideeën naar oplossingen, rekening houdend met inrichting, beheer en beveiliging van de omgeving.",
 		"status": "concept"
 	},
 	{
@@ -3096,7 +3096,7 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"description": "vbeoordelen of ideeën passen bij het programma van eisen.",
+		"description": "beoordelen of ideeën passen bij het programma van eisen.",
 		"status": "concept"
 	},
 	{
@@ -23732,7 +23732,7 @@
 		"status": "concept"
 	},
 	{
-		"description": "beschrijhven van fasen, faseovergangen en uitzetting met een deeltjesmodel.",
+		"description": "beschrijven van fasen, faseovergangen en uitzetting met een deeltjesmodel.",
 		"prefix": "u2",
 		"id": "29cdddf9-34d6-4bd8-b2b6-9b904eef3aed",
 		"niveau_id": [
@@ -24872,7 +24872,7 @@
 		"status": "concept"
 	},
 	{
-		"description": "beschrijhven van fasen, faseovergangen, krimpen en uitzetting met een deeltjesmodel.",
+		"description": "beschrijven van fasen, faseovergangen, krimpen en uitzetting met een deeltjesmodel.",
 		"prefix": "u2",
 		"id": "5d3da256-6b9f-4542-8755-e2e192e9f92b",
 		"niveau_id": [
@@ -93534,7 +93534,7 @@
 	},
 	{
 		"title": "Het gaat hierbij om",
-		"description": "schrijven met een leesbaar handschrift of typshrift en/of verstaanbaar spreken.",
+		"description": "schrijven met een leesbaar handschrift of typschrift en/of verstaanbaar spreken.",
 		"prefix": "u4",
 		"id": "c07eb48d-44bd-4ecf-9734-2ef707a991b2",
 		"niveau_id": [
@@ -104366,7 +104366,8 @@
 		"id": "7adb42c1-42d6-4fb3-9955-517e8dbc799d",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+		],
+		"status": "definitief concept"
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -104375,7 +104376,8 @@
 		"id": "2c52af83-bc15-48a0-b773-6058fd2f90d6",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+		],
+		"status": "definitief concept"
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -104384,7 +104386,8 @@
 		"id": "566e66ac-c589-4470-9549-4f93fe5719e5",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+		],
+		"status": "definitief concept"
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -104393,7 +104396,8 @@
 		"id": "dd284427-8bd6-47ac-80e7-100f90c65d1e",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+		],
+		"status": "definitief concept"
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -104402,7 +104406,8 @@
 		"id": "7e462db0-348b-4239-b230-8b83222066df",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+		],
+		"status": "definitief concept"
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -104411,7 +104416,8 @@
 		"id": "c6397573-d41b-4847-90f1-eb9513c66c78",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+		],
+		"status": "definitief concept"
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -104420,7 +104426,8 @@
 		"id": "12eca194-e34b-4387-8b29-0df9a7f67fde",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+		],
+		"status": "definitief concept"
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -104429,7 +104436,8 @@
 		"id": "f12813e8-2506-4373-b230-e3b5553bca07",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+		],
+		"status": "definitief concept"
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -104438,7 +104446,8 @@
 		"id": "4698ad4d-a1ef-4878-b6c9-f744d77bd514",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+		],
+		"status": "definitief concept"
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -104447,7 +104456,8 @@
 		"id": "0abe4bf1-7f89-4ce7-b379-6365ab86b890",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+		],
+		"status": "definitief concept"
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -104456,7 +104466,8 @@
 		"id": "25e906a5-861b-4f4b-9d54-e3b194236705",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+		],
+		"status": "definitief concept"
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -104465,7 +104476,8 @@
 		"id": "a32dba50-6ad6-4029-8427-6387995c5851",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+		],
+		"status": "definitief concept"
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -104474,7 +104486,8 @@
 		"id": "95545663-0913-4504-a78a-a343d235df03",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+		],
+		"status": "definitief concept"
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -107091,7 +107104,7 @@
 		]
 	},
 	{
-		"description": "kennis van de volgende referentiematen- en aantallen:\r\r\neen gemiddeld wandeltempo en een gemiddeld fietstempo; \r\r\nde hoogte van een deur en een verdieping; \r\r\nhet aantal inwoners van Nederland;\r\r\nde lichaamstemperatuur van een gezond persoon.",
+		"description": "kennis van de volgende referentiematen- en aantallen:\r\r\r\neen gemiddeld wandeltempo en een gemiddeld fietstempo; \r\r\r\nde hoogte van een deur en een verdieping; \r\r\r\nhet aantal inwoners van Nederland;\r\r\r\nde lichaamstemperatuur van een gezond persoon.",
 		"prefix": "u1",
 		"id": "361b5465-163e-401e-849d-6888e87919a4",
 		"niveau_id": [
@@ -109319,7 +109332,7 @@
 		]
 	},
 	{
-		"description": "optellen, aftrekken, vermenigvuldigen, delen, machtsverheffen en worteltrekken van gehele en decimale getallen en met het getal ϖ;",
+		"description": "optellen, aftrekken, vermenigvuldigen, delen, machtsverheffen en worteltrekken van gehele en decimale getallen en met het getal π;",
 		"prefix": "u1",
 		"id": "f8e9a03e-398e-4284-91de-e6c3d44292c4",
 		"niveau_id": [
@@ -110177,7 +110190,7 @@
 		]
 	},
 	{
-		"description": "herkennen van lijnsymmetriherkennen en benoemen van meetkundige figuren, ook aan de hand van hun eigenschappen;",
+		"description": "herkennen en benoemen van meetkundige figuren, ook aan de hand van hun eigenschappen;",
 		"prefix": "u3",
 		"id": "e5e4aa03-2c99-476f-b682-177c1f111162",
 		"niveau_id": [
@@ -110307,7 +110320,7 @@
 		]
 	},
 	{
-		"description": "optellen, aftrekken, vermenigvuldigen, delen, machtsverheffen en worteltrekken van gehele en decimale getallen en met het  getal ϖ;",
+		"description": "optellen, aftrekken, vermenigvuldigen, delen, machtsverheffen en worteltrekken van gehele en decimale getallen en met het  getal π;",
 		"prefix": "u1",
 		"id": "4a2a269e-5b94-4862-b95a-0b2ad93c8e0a",
 		"niveau_id": [
