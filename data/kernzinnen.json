@@ -369,18 +369,6 @@
 		]
 	},
 	{
-		"title": "Kerndoel 2",
-		"description": "De leerling gebruikt de Friese taal",
-		"prefix": "2",
-		"id": "539f16c5-29e0-45e8-83e7-72efada2f385",
-		"fo_doelzin_id": [
-			"a34554f3-117b-4621-8fb7-949c8d55a2ad",
-			"876bfa30-a7a0-4138-b081-fb4b8f05ef1d",
-			"0682659a-53ca-4e5d-8ab9-25d9b3f9cb07",
-			"ecb43a4c-9ec6-41c8-bf94-2220fe3945ff"
-		]
-	},
-	{
 		"title": "Kerndoel 3",
 		"description": "De leerling ontwikkelt zich als bewuste gebruiker van het Fries.",
 		"prefix": "3",
@@ -1916,21 +1904,6 @@
 		]
 	},
 	{
-		"title": "Kerndoel 2",
-		"description": "De leerling gebruikt de Friese taal",
-		"prefix": "2",
-		"id": "98debdb3-0eb1-4e7d-9449-2b6bc8252bc1",
-		"fo_doelzin_id": [
-			"52ec073d-c910-401f-94b4-db1b6dc4685a",
-			"5338dc51-1aaf-4ff1-8282-a6e7dda3c67f",
-			"7ffb6635-82e9-4246-9781-71838db02909",
-			"7af0b3f4-2298-4fc5-82d6-f2742745d8e1"
-		],
-		"replaces": [
-			"fd4cc41e-c781-4cde-80e7-a6c11de8f5e4"
-		]
-	},
-	{
 		"title": "Kerndoel 3",
 		"description": "De leerling ontwikkelt zich als bewuste gebruiker van het Fries.",
 		"prefix": "3",
@@ -1955,19 +1928,6 @@
 		],
 		"replaces": [
 			"55af854a-12d7-459a-bec7-f7bde0b76667"
-		]
-	},
-	{
-		"title": "Kerndoel 5",
-		"description": "De leerling ontwikkelt zich als bewuste deelnemer aan de Friese cultuur.",
-		"prefix": "5",
-		"id": "ed9b7728-2bdd-44e3-a5d1-2d1b3e9e20f8",
-		"fo_doelzin_id": [
-			"bfee14ed-2f94-475d-b524-115a777d9017",
-			"8392bcc0-bc9a-4df1-9c31-61a815f88a63"
-		],
-		"replaces": [
-			"c42c5913-79ea-4382-95a7-57305e45b211"
 		]
 	},
 	{
@@ -2114,6 +2074,51 @@
 		"replaces": [
 			"6d5c2bc1-bed3-4586-8e15-b53753003f1c",
 			"9860c2ca-8824-4399-aaeb-22c95f771dbd"
+		]
+	},
+	{
+		"title": "Kerndoel 2",
+		"description": "De leerling gebruikt de Friese taal",
+		"prefix": "2",
+		"id": "64991d6c-b433-403e-8f97-83106f9aaa20",
+		"fo_doelzin_id": [
+			"bb254ab3-bce4-4847-b455-3ed868bb09c2",
+			"710560fc-3f07-4096-bfdb-244a7d6a52a1",
+			"0682659a-53ca-4e5d-8ab9-25d9b3f9cb07",
+			"ecb43a4c-9ec6-41c8-bf94-2220fe3945ff"
+		],
+		"replaces": [
+			"539f16c5-29e0-45e8-83e7-72efada2f385"
+		]
+	},
+	{
+		"title": "Kerndoel 2",
+		"description": "De leerling gebruikt de Friese taal",
+		"prefix": "2",
+		"id": "7988b985-e3a7-401a-b0b9-721715e10db1",
+		"fo_doelzin_id": [
+			"60d3eca6-f49a-4897-a6ef-9e7a9cb35cca",
+			"b5852854-a646-44b4-a463-d55d32ea59b2",
+			"7ffb6635-82e9-4246-9781-71838db02909",
+			"7af0b3f4-2298-4fc5-82d6-f2742745d8e1"
+		],
+		"replaces": [
+			"fd4cc41e-c781-4cde-80e7-a6c11de8f5e4",
+			"98debdb3-0eb1-4e7d-9449-2b6bc8252bc1"
+		]
+	},
+	{
+		"title": "Kerndoel 5",
+		"description": "De leerling ontwikkelt zich als bewuste deelnemer aan de Friese cultuur.",
+		"prefix": "5",
+		"id": "3a7fc8fa-1195-495d-bde7-2b7b5bab85ec",
+		"fo_doelzin_id": [
+			"bfee14ed-2f94-475d-b524-115a777d9017",
+			"86fe50e5-35de-4b90-b18a-d2a21a656687"
+		],
+		"replaces": [
+			"c42c5913-79ea-4382-95a7-57305e45b211",
+			"ed9b7728-2bdd-44e3-a5d1-2d1b3e9e20f8"
 		]
 	}
 ]

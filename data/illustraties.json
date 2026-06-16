@@ -16789,39 +16789,6 @@
 		"description": "een discussie voeren over de vraag of virussen wel of niet in de ordening van het leven passen."
 	},
 	{
-		"prefix": "t1",
-		"id": "aed7bb53-7128-4bcc-ba1f-cd6b9517e985",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "maken van een venndiagram waarin bladgroenkorrels en mitochondria worden vergeleken;",
-		"dirty": true
-	},
-	{
-		"prefix": "t2",
-		"id": "3bcfbc2e-872e-4658-8518-7b3a8829f19d",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "een grafiek aflezen waarin substraten of reactieproducten van stofwisselingsprocessen zijn ujitgezet tegen de tijd;",
-		"dirty": true
-	},
-	{
-		"prefix": "t3",
-		"id": "4c886abb-ea0e-4566-ad45-05007f8f466f",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "spelen van een aangepaste versie van het spel ‘Set’ op basis van reactieproducten van stofwisselingsprocessen",
-		"dirty": true
-	},
-	{
 		"prefix": "t4",
 		"id": "2b30057e-f5d2-4754-8eaf-b7e89b7636a0",
 		"niveau_id": [
@@ -16840,17 +16807,6 @@
 		"status": "concept",
 		"title": "Te denken valt aan",
 		"description": "een presentatie maken over een erfelijke afwijking waarbij een mutatie in het DNA zorgt voor een ander eiwit."
-	},
-	{
-		"prefix": "t2",
-		"id": "f8d38640-91be-4044-9e4d-a1ec1eeace42",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "met behulp van fysieke modellen de stappen van DNA tot eiwit nabootsen;",
-		"dirty": true
 	},
 	{
 		"prefix": "t3",
@@ -16961,17 +16917,6 @@
 		"status": "concept",
 		"title": "Te denken valt aan",
 		"description": "werken met een schema van betrokken organen, hormonen en terugkoppelingsmechanismen bij het verloop van vruchtbaarheid."
-	},
-	{
-		"prefix": "t2",
-		"id": "bfa3e480-f9da-4eab-a118-c77856cb2334",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "een stripverhaal maken over voortplanting vanuit het perspectief van een chromosoom in een voorlopercel van een zaadcel;",
-		"dirty": true
 	},
 	{
 		"prefix": "t3",
@@ -17225,50 +17170,6 @@
 	},
 	{
 		"prefix": "t1",
-		"id": "b57a4d37-d7c6-4c12-b4b4-3a3fe15ebcf6",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "bij het zien van een onbekend organisme in gesprek gaan over de mogelijke plaats in de ordening van het leven;",
-		"dirty": true
-	},
-	{
-		"prefix": "t2",
-		"id": "ba03d383-532d-45d9-9b84-6f282143e4f7",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "tjdens het doen van veldwerk patronen in het landschap beschrijven;",
-		"dirty": true
-	},
-	{
-		"prefix": "t3",
-		"id": "01d76a2c-8f50-42a1-9281-6725788dc33d",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "afbeelden en toelichten van de verandering in de concentratie van koolstofdioxide in lucht gedurende één jaar;",
-		"dirty": true
-	},
-	{
-		"prefix": "t4",
-		"id": "3c3c18b4-da28-432f-905a-f8f1ae6fee57",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "verschillende grafieken met predator-prooi-relaties vergelijken en bespreken wat oorzaken kunnen zijn van opmerkelijke verschillen.",
-		"dirty": true
-	},
-	{
-		"prefix": "t1",
 		"id": "37ae0e19-ac4a-4b77-b727-40ec3e0916b0",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
@@ -17308,182 +17209,6 @@
 		"description": "een tekst lezen over het verspreidingspatroon van een virus in de bevolking en hierin fragmenten onderstrepen die te maken hebben met typen oorzaken: kenmerken van het virus, bevolkingsdichtheid en verschil in besmettingskans tussen individuen."
 	},
 	{
-		"prefix": "t1",
-		"id": "1bf51fd5-6860-4cf2-9dbc-eafa141111a0",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "verschillende gebeurtenissen in de geschiedenis van het leven op aarde plaatsen op een tijdschaal;",
-		"dirty": true
-	},
-	{
-		"prefix": "t2",
-		"id": "a6cf0d2c-d4d7-484f-a6a2-b8e5fe08bf84",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "inschatten welke verdunningsreeks moet worden gemaakt om het aantal bacteriën in slootwater te onderzoeken;",
-		"dirty": true
-	},
-	{
-		"prefix": "t3",
-		"id": "791aba6e-c9f0-4980-ae33-ee32cfd9e460",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "een discussie voeren over de vraag vanaf welke grootte organismen zuurstof naar cellen vervoeren via een vatenstelsel in plaats van via opname door de huid;",
-		"dirty": true
-	},
-	{
-		"prefix": "t4",
-		"id": "dd0884dd-c57c-4879-a96a-bcb348b87ce7",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "strategieën koppelen van verschillende organismen om hun lichaamswarmte te reguleren aan hun inhoud/oppervlakte-ratio.",
-		"dirty": true
-	},
-	{
-		"prefix": "t1",
-		"id": "5f8c8a70-f708-44e4-af3d-2595e0d26a80",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "een gesloten aquatisch systeem bestuderen en de interacties tussen organismen en de kringloop van stoffen weergeven in een schematisch model;",
-		"dirty": true
-	},
-	{
-		"prefix": "t2",
-		"id": "64e567d5-a9d3-4664-99bd-04d08e80db56",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "een papieren model maken van een plantencel en daarin aangeven wat de cel in- en uitgaat gedurende fotosynthese en aerobe dissimilatie;",
-		"dirty": true
-	},
-	{
-		"prefix": "t3",
-		"id": "bf346c11-5eda-456c-9e35-697ab30ada86",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "kaartjes op volgorde leggen met beschrijvingen van gebeurtenissen op verschillende organisatieniveaus om te laten zien hoe een mutatie in het DNA kan leiden tot symptomen van een erfelijke ziekte;",
-		"dirty": true
-	},
-	{
-		"prefix": "t4",
-		"id": "2a7dae0a-bf8f-4bb4-b44f-4ef81bd25747",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "met een fysiek model van de glucosespiegel in het bloed beredeneren hoe hormonen een rol spelen bij homeostase tijdens verschillende dagelijkse activiteiten.",
-		"dirty": true
-	},
-	{
-		"prefix": "t1",
-		"id": "0dc46204-bae8-478d-894b-c4cf9763a469",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "een infographic maken van een ecosysteem met daarop alle energiestromen, materiestromen en omzettingen;",
-		"dirty": true
-	},
-	{
-		"prefix": "t2",
-		"id": "eb871c6c-04b6-4ff8-90ee-f44bca6ad119",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "de route van een koolstofatoom dat Julius Caesar uitademde tot in een spiercel van jezelf in een stripverhaal laten zien;",
-		"dirty": true
-	},
-	{
-		"prefix": "t3",
-		"id": "746e18d3-ad29-4a1c-b181-12375d5a35b4",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "een voorlichtingsfilmpje maken voor de website van een diëtistenpraktijk, waarin met biologische termen wordt uitgelegd dat een dieet om aan te komen of af te vallen altijd gebaseerd is op een afstemming van de hoeveelheid ingenomen calorieën op de energiebehoefte;",
-		"dirty": true
-	},
-	{
-		"prefix": "t4",
-		"id": "f68badba-4738-4bcc-a6c7-3fb25b050287",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "een grafische weergave maken van de hoeveelheid energie die in chemisch vorm een dier ingaat, wordt opgeslagen en verbruikt en het lichaam weer verlaat, om hiermee de efficiëntie van verschillende landbouwdieren te vergelijken;",
-		"dirty": true
-	},
-	{
-		"prefix": "t1",
-		"id": "84c65d1b-aea5-4f8e-b999-3f1d37ee833c",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "in het dierenrijk zoeken naar voorbeelden van oppervlaktevergroting om uitwisseling van stoffen te verbeteren;",
-		"dirty": true
-	},
-	{
-		"prefix": "t2",
-		"id": "7a43e305-e32f-4fa0-b2ba-ede6581bbffa",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "de bouw en werking van een nierdialyse-apparaat beschrijven met behulp van kennis over samenstelling van het bloed;",
-		"dirty": true
-	},
-	{
-		"prefix": "t3",
-		"id": "e8cd9d90-59d1-47ab-8c48-35d8cec9cbce",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "driedimensionale modellen maken om te laten zien hoe hormoon en receptor via een sleutel-slot-principe op elkaar ingrijpen;",
-		"dirty": true
-	},
-	{
-		"prefix": "t4",
-		"id": "2208c7e7-0b4c-4b27-98c1-9c818171df5d",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "vergelijken van plaatjes van de bloembouw van verschillende soorten en dit relateren aan de wijzen van bestuiving.",
-		"dirty": true
-	},
-	{
 		"prefix": "t5",
 		"id": "dbe63b68-2211-4876-99ab-f4714cbc4018",
 		"niveau_id": [
@@ -17492,50 +17217,6 @@
 		"status": "concept",
 		"title": "Te denken valt aan",
 		"description": "al de energiebronnen die je dagelijks gebruikt in een tabel zetten en met een conversiefactor je jaarlijkse CO2-voetafdruk berekenen."
-	},
-	{
-		"prefix": "t1",
-		"id": "ff5f88fa-1f5b-40a1-8ee3-6db807feb189",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "met behulp van een simulatie bekijken wat de effecten waren van de introductie van de nijlbaars in het Victoriameer;",
-		"dirty": true
-	},
-	{
-		"prefix": "t2",
-		"id": "8d6fc38d-4413-4986-9a61-8c24b5180871",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "in een grafiek laten zien hoe de bloedsuikerspiegel wordt beïnvloed door lichaamsbeweging en voedselinname;",
-		"dirty": true
-	},
-	{
-		"prefix": "t3",
-		"id": "2f53bed3-ef86-434e-85e6-fd7f87756d38",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "in een aangereikt model aangeven hoe verschillende organen betrokken zijn bij hormonale regulatie en hoe dit verstoord kan raken;",
-		"dirty": true
-	},
-	{
-		"prefix": "t4",
-		"id": "79b2438f-843b-4e95-bfad-5ee5a06317ab",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "een presentatie geven over hoe in een bos stofkringlopen plaatsvinden en hoe bosbeheer kan voorkomen dat die verstoord raken.",
-		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -17896,50 +17577,6 @@
 		"status": "concept",
 		"title": "Te denken valt aan",
 		"description": "het dilemma: wel of niet actievoeren tegen de aanleg van een zonnepark."
-	},
-	{
-		"prefix": "t1",
-		"id": "77a1cd42-53e8-438f-a5ed-f12322c5fbff",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "op meerdere plekken in een natuurgebied op een bepaalde afstand van een autoweg het aantal soorten planten en insecten in een kwadrant tellen.",
-		"dirty": true
-	},
-	{
-		"prefix": "t2",
-		"id": "55ee8045-ec20-443b-8eb2-26c4940e0abe",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "in een natuurgebied een minuut lang met de ogen dicht waarnemen wat je hoort, ruikt of voelt.",
-		"dirty": true
-	},
-	{
-		"prefix": "t3",
-		"id": "93d3286c-9b9c-4621-a98a-b32b3ca0dd1c",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "in de natuurlijke omgeving zoeken naar invasieve exoten, zoals de reuzenberenklauw en de Japanse duizendknoop, en bestuderen welke impact deze planten hebben op de biodiversiteit en op de bewoners in de buurt.",
-		"dirty": true
-	},
-	{
-		"prefix": "t4",
-		"id": "bce363bd-3860-4915-b439-c8ed9af6886b",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "metingen van biotische en abiotische factoren uitvoeren in de sloot en deze vergelijken met referentiewaardes.",
-		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -20493,17 +20130,6 @@
 	},
 	{
 		"prefix": "t1",
-		"id": "23e07b71-35b1-45f3-a3e8-f226f1a762b4",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "uitleggen waarom de benen van een nijptang veel langer zijn dan de bek.",
-		"dirty": true
-	},
-	{
-		"prefix": "t1",
 		"id": "5510ea00-35fa-4a5d-a4cd-2c2b7054c9a9",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
@@ -20831,28 +20457,6 @@
 		"status": "concept",
 		"title": "Te denken valt aan",
 		"description": "de stroomsterkte door een lamp berekenen met stroomsterkte = spanning/weerstand."
-	},
-	{
-		"prefix": "t2",
-		"id": "d0a493a3-15a7-4faa-abde-f0e0877b54bc",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "een verandering in een waarde beschrijven als percentuele toename of afname.",
-		"dirty": true
-	},
-	{
-		"prefix": "t3",
-		"id": "8c644e88-3321-4e89-b100-2ddb4c1854c2",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "het gedrag van een systeem voorspellen met verhoudingstabellen.",
-		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -23238,18 +22842,6 @@
 		"status": "concept",
 		"title": "Te denken valt aan",
 		"description": "de warmte bepalen uit een vermogen-tijddiagram."
-	},
-	{
-		"prefix": "t4",
-		"id": "9d06123d-4d82-415c-8ff6-f79af3d06615",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "de verplaatsing en afgelegde weg bepalen uit een (v,t) diagram.",
-		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -26605,18 +26197,6 @@
 		"description": "na afloop van een groepsopdracht ieder groepslid een tip en een top geven."
 	},
 	{
-		"prefix": "t1",
-		"id": "f4019110-228e-4a61-8d03-3c7b7b73b681",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "bij een presentatie aan een basisschoolklas uitleggen wat scheikundigen onderzoeken.",
-		"dirty": true
-	},
-	{
 		"prefix": "t2",
 		"id": "92260632-f69c-4646-a80c-4bb28a5e2494",
 		"niveau_id": [
@@ -26637,18 +26217,6 @@
 		"status": "concept",
 		"title": "Te denken valt aan",
 		"description": "de gewenste en ongewenste gevolgen van een industrieel proces afwegen bij een vraagstuk over duurzame energie."
-	},
-	{
-		"prefix": "t2",
-		"id": "2265315f-520a-4e58-97ab-c319760b6b55",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "opzoeken van een kwaliteitsnorm voor het veilig gebruik van bioplastics als verpakkingsmateriaal bij een vraagstuk over circulair produceren en consumeren.",
-		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -26693,18 +26261,6 @@
 		"status": "concept",
 		"title": "Te denken valt aan",
 		"description": "een mening vormen door het afwegen van maatschappelijke en economische belangen en risico’s over het eigen gebruik van sigaretten, koffie of alcohol, bij een vraagstuk over gezondheid."
-	},
-	{
-		"prefix": "t1",
-		"id": "efbbb37c-c0c1-4cf9-9f70-e4788dea0196",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "vaststellen welke groepen stoffen er in shampoo voorkomen, in een lessenserie over alledaagse chemie.",
-		"dirty": true
 	},
 	{
 		"prefix": "t2",
@@ -26807,18 +26363,6 @@
 	},
 	{
 		"prefix": "t1",
-		"id": "187183cb-50af-4948-aab2-525de7edc01a",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "aanvullen van de structuurformule van glucose bij een vraagstuk over voeding.",
-		"dirty": true
-	},
-	{
-		"prefix": "t1",
 		"id": "341fb44c-5cd8-468f-8472-87192f2efeed",
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303",
@@ -26860,18 +26404,6 @@
 		"status": "concept",
 		"title": "Te denken valt aan",
 		"description": "aanvullen van een gegeven reactievergelijking waarbij roest wordt verwijderd met cola ter voorbereiding van een experiment."
-	},
-	{
-		"prefix": "t2",
-		"id": "ded9cd12-b316-45ef-9312-8d7558c16bc7",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "een reactievergelijking opstellen voor het maken van een batterij met elektroden van zink en koper.",
-		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -27127,18 +26659,6 @@
 		"description": "een verband tussen de concentratie van ijzer-ionen en de kleur van de oplossing benoemen als lineair."
 	},
 	{
-		"prefix": "t4",
-		"id": "1fd79476-2bd4-4e92-90ef-797042d4a969",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "reacties ordenen aan de hand van de reactievergelijking, door te benoemen hoe protonen of elektronen zijn uitgewisseld.",
-		"dirty": true
-	},
-	{
 		"prefix": "t5",
 		"id": "a021126e-ec53-4f45-820e-419d4bdca8f8",
 		"niveau_id": [
@@ -27148,30 +26668,6 @@
 		"status": "concept",
 		"title": "Te denken valt aan",
 		"description": "op zoek gaan naar patronen in samenstellingen van verschillende zonnebrandcrèmes bij een vraagstuk over alledaagse chemie."
-	},
-	{
-		"prefix": "t2",
-		"id": "d4cf0380-f467-48b3-bd72-0e4b29728aab",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "inschatten of de hoeveelheid oplossing in de buret voldoende is voor één titratie, in een lessenserie over titratie.",
-		"dirty": true
-	},
-	{
-		"prefix": "t1",
-		"id": "5fc6a627-a4df-403b-82a3-62b46dc830e1",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "een zelfgemaakte waterzuiveringsinstallatie vergelijken met het proces op industriële schaal, bij een vraagstuk over schoon milieu.",
-		"dirty": true
 	},
 	{
 		"prefix": "t3",
@@ -27647,18 +27143,6 @@
 		"description": "zorgvuldig handelen met oplossingen met hoge concentraties H2O2, bij een lessenserie over reactiesnelheid."
 	},
 	{
-		"id": "c51598cd-5f7d-401e-b7ae-3418dac09e97",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "een presentatie geven over onderzoeksresultaten, bij een lessenserie over verf.",
-		"dirty": true,
-		"prefix": "t1"
-	},
-	{
 		"prefix": "t2",
 		"id": "17f87dcb-8332-4391-b626-9e585f5654fc",
 		"niveau_id": [
@@ -27668,18 +27152,6 @@
 		"status": "concept",
 		"title": "Te denken valt aan",
 		"description": "opzoeken hoe polystyreen wordt geproduceerd, bij een vraagstuk over circulair produceren en consumeren."
-	},
-	{
-		"prefix": "t3",
-		"id": "104b824b-652d-4270-b1b7-74d9e204498a",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "de betrouwbaarheid van een claim door een huidcrèmeproducent onderzoeken, bij een vraagstuk over alledaagse chemie.",
-		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -27946,18 +27418,6 @@
 		"description": "een debat houden over het wel of niet invoeren van de suikertaks."
 	},
 	{
-		"prefix": "t1",
-		"id": "c722d924-0229-40d8-b72b-81df918f696e",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "een excursie ondernemen naar een waterzuivering, bij een vraagstuk over schoon milieu.",
-		"dirty": true
-	},
-	{
 		"prefix": "t2",
 		"id": "3412b9d1-20e7-443c-84da-013c4087d73e",
 		"niveau_id": [
@@ -28033,18 +27493,6 @@
 		"status": "concept",
 		"title": "Te denken valt aan",
 		"description": "uitvoeren van een maak-bespreek-deelopdracht."
-	},
-	{
-		"prefix": "t5",
-		"id": "09b6effd-d315-44aa-8670-2880dde169ff",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"dirty": true,
-		"description": "na het maken van een bioplastic aangeven waar de leerling het meest trots op is."
 	},
 	{
 		"prefix": "t1",
@@ -28241,28 +27689,6 @@
 		"description": "tekenen van structuurformules van vijf aminozuren bij een les over biomoleculen."
 	},
 	{
-		"prefix": "t2",
-		"id": "0c4a2605-5a90-4364-a31a-28defc3df6a0",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "in een tekening de atoombouw weergeven van lood-ionen in een les over schoon milieu.",
-		"dirty": true
-	},
-	{
-		"prefix": "t3",
-		"id": "287ce0e9-b298-400e-88b1-588ff707bf72",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "de sterkte van de binding tussen een C- en F-atoom vaststellen aan de hand van het verschil in elektronegativiteit van beide atomen.",
-		"dirty": true
-	},
-	{
 		"prefix": "t1",
 		"id": "d84692fd-37c1-436c-b868-7cb80e3e6456",
 		"niveau_id": [
@@ -28361,17 +27787,6 @@
 		"status": "concept",
 		"title": "Te denken valt aan",
 		"description": "in een schema uitleggen waarom een boterhamzakje snel scheurt en dyneema niet, terwijl ze allebei alleen uit polyetheen bestaan."
-	},
-	{
-		"prefix": "t1",
-		"id": "1a923715-203d-4972-817c-958d72a48f07",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "bij een vraagstuk over gezondheid de structuurformule van cafeïne tekenen en daarbij de karakteristieke groepen omcirkelen.",
-		"dirty": true
 	},
 	{
 		"prefix": "t2",
@@ -28574,17 +27989,6 @@
 		"description": "het botsende-deeltjesmodel vergelijken met het lopen volgens een zo recht mogelijke lijn door een bomvolle aula."
 	},
 	{
-		"prefix": "t5",
-		"id": "3ad44f85-4c6e-4a74-81c2-d34d8e61ecab",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "het effect van de verdelingsgraad op de reactiesnelheid toelichten in een practicumverslag.",
-		"dirty": true
-	},
-	{
 		"prefix": "t1",
 		"id": "8be3a6fd-10c6-42d0-8c3a-aad55bd7137a",
 		"niveau_id": [
@@ -28716,28 +28120,6 @@
 	},
 	{
 		"prefix": "t1",
-		"id": "866e8eb2-9791-43a9-b791-4f9d6432ad73",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "in een poster aangeven welke structuren en interacties in de stof kevlar leiden tot de eigenschap dat het geschikt is als kogelwerend materiaal.",
-		"dirty": true
-	},
-	{
-		"prefix": "t2",
-		"id": "8361c8f6-c498-4223-86b4-ef2d741cc449",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "een reactor omschrijven als een systeem, in een vraagstuk over circulaire chemie.",
-		"dirty": true
-	},
-	{
-		"prefix": "t1",
 		"id": "96dce23c-3d4c-4a4b-afda-bf47b8010fa8",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
@@ -28815,17 +28197,6 @@
 		"status": "concept",
 		"title": "Te denken valt aan",
 		"description": "reacties ordenen aan de hand van de reactievergelijking, door onderscheid te maken in of er protonen of elektronen zijn uitgewisseld."
-	},
-	{
-		"prefix": "t5",
-		"id": "939a9c81-aed1-46a3-bbc4-ee9592b36a44",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "een verwachting over de werking van een zonnebrandcrème uitspreken op basis van patronen tussen samenstellingen en werking, bij een vraagstuk over alledaagse chemie.",
-		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -29368,17 +28739,6 @@
 		"description": "het vitamine C-gehalte bepalen in verschillende vruchtensappen."
 	},
 	{
-		"prefix": "t3",
-		"id": "e4bf23a3-784d-4e1d-9826-f12e19400b02",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "de betrouwbaarheid van een claim door een huidcrèmeproducent onderzoeken, bij een vraagstuk over gezondheid.",
-		"dirty": true
-	},
-	{
 		"prefix": "t2",
 		"id": "51264dcd-f60e-4b48-b687-090181fe4731",
 		"niveau_id": [
@@ -29457,17 +28817,6 @@
 		"status": "concept",
 		"title": "Te denken valt aan",
 		"description": "het deeltjesmodel gebruiken om het proces van verdampen te begrijpen."
-	},
-	{
-		"prefix": "t4",
-		"id": "c9bc98a5-05fa-43ce-b22f-af74a61b5065",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "in een lessenserie over reactiesnelheid als bevinding constateren dat het botsende-deeltjesmodel niet geschikt is om het effect van de katalysator te verklaren.",
-		"dirty": true
 	},
 	{
 		"prefix": "t1",
@@ -29630,17 +28979,6 @@
 		"description": "uitspreken of het beroep van chemisch technoloog past bij het eigen toekomstbeeld tijdens een lessenserie over duurzame energie."
 	},
 	{
-		"prefix": "t3",
-		"id": "77662e1d-b09b-4c1c-b635-acc197e3a0aa",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "een gastles volgen en samenvatten van een medewerker van een chemisch bedrijf.",
-		"dirty": true
-	},
-	{
 		"prefix": "t4",
 		"id": "83a337f6-92ec-43a7-9bc0-1677f138f8c9",
 		"niveau_id": [
@@ -29739,17 +29077,6 @@
 		"status": "concept",
 		"title": "Te denken valt aan",
 		"description": "na afloop van een groepsopdracht ieder groepslid een tip en een top geven."
-	},
-	{
-		"prefix": "t1",
-		"id": "80cac7df-5619-4c21-9a07-0fcc9ab363df",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "bij een profielwerkstukpresentatie voor een derde klas uitleggen wat scheikundigen onderzoeken.",
-		"dirty": true
 	},
 	{
 		"prefix": "t2",
@@ -29882,39 +29209,6 @@
 		"description": "de structuurformules tekenen van vijf aminozuren bij een les over biomoleculen."
 	},
 	{
-		"prefix": "t2",
-		"id": "91805cfb-9d66-487e-be26-4bdca88e6e41",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "in een tekening de atoombouw weergeven van lood-ionen in een les over schoon milieu.",
-		"dirty": true
-	},
-	{
-		"prefix": "t3",
-		"id": "9769f71e-6185-490f-9c80-2d54169d8109",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "de sterkte van de binding tussen een C- en F-atoom vaststellen aan de hand van het verschil in elektronegativiteit van beide atomen.",
-		"dirty": true
-	},
-	{
-		"prefix": "t4",
-		"id": "470551e9-30e2-47ac-8eb8-0dc0fc7746ee",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "bij een wijnsteenmolecuul aangeven welke en hoeveel stereoisomeren er mogelijk zijn.",
-		"dirty": true
-	},
-	{
 		"prefix": "t1",
 		"id": "0ac5eba3-610a-43a6-bb42-37bd5d79481f",
 		"niveau_id": [
@@ -30023,17 +29317,6 @@
 		"status": "concept",
 		"title": "Te denken valt aan",
 		"description": "met structuurformules weergeven hoe water wordt gebonden aan een stuk zetmeelmolecuul, bij een vraagstuk over voeding."
-	},
-	{
-		"prefix": "t3",
-		"id": "7c74bd7f-f09e-4919-84b7-89ccc1838914",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "een gesprek voeren over de hypothese dat een combinatie van H-bruggen en het waterafstotende karakter van T,U,A en C verantwoordelijk is voor de helixvorming.",
-		"dirty": true
 	},
 	{
 		"prefix": "t4",
@@ -30986,17 +30269,6 @@
 		"description": "met een presentatie kennis delen over hoe moleculair modelleren inzicht geeft in de eigenschappen van stoffen met conformatie, induced fit, liganden of sterische hindering."
 	},
 	{
-		"prefix": "t4",
-		"id": "fa3fbd30-de1d-4c29-b9c1-9a72315b4bfc",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "met posterpresentaties uitwisselen hoe stoffen op basis van Safe and Sustainable by Design kunnen worden geproduceerd door gebruik te maken van systeemdenken, causaliteit en levenscyclusanalyse.",
-		"dirty": true
-	},
-	{
 		"prefix": "t1",
 		"id": "10097908-68a0-4733-8b49-b2b5b8d8f731",
 		"niveau_id": [
@@ -31425,17 +30697,6 @@
 		"status": "concept",
 		"title": "Te denken valt aan",
 		"description": "de aanwezigheid van symmetrie in moleculen verklaren met snij- en spiegelvlakken."
-	},
-	{
-		"prefix": "t1",
-		"id": "e1d93f1a-c289-469b-bb3e-d340109cbfa2",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "aantonen dat een zelfgemaakte fijnstofmeter werkt omdat deze binnen een gewenste foutmarge hetzelfde meet als de fijnstofmeter die te koop is.",
-		"dirty": true
 	},
 	{
 		"prefix": "t2",
@@ -113723,7 +112984,6 @@
 		"description": "al de energiebronnen die je dagelijks gebruikt in een tabel zetten en met een conversiefactor je jaarlijkse CO2-voetafdruk berekenen.",
 		"prefix": "t5",
 		"id": "41d97202-6657-4a40-87df-78d32d1c40ad",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
@@ -113735,7 +112995,6 @@
 		"description": "van een advertentie de wetenschappelijke claim onderzoeken;",
 		"prefix": "t1",
 		"id": "7ebfb102-f02e-49f8-ba63-2980b25d59b2",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
@@ -113747,7 +113006,6 @@
 		"description": "bij het selecteren van afbeeldingen kijken welke Creative Commons-licentie ze hebben;",
 		"prefix": "t2",
 		"id": "2ffbf04f-5aac-4974-985c-3b43f3880f10",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
@@ -113759,7 +113017,6 @@
 		"description": "van plaatjes in een presentatie de bron vermeld;",
 		"prefix": "t3",
 		"id": "f055e744-3552-47c4-8c6e-598b3445f4e1",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
@@ -113771,7 +113028,6 @@
 		"description": "bij een gezondheidsclaim op een verplakking achterhalen waar deze op gebaseerd is.",
 		"prefix": "t4",
 		"id": "d89100c3-91c2-4ed6-823d-a1a5314c420e",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
@@ -113783,7 +113039,6 @@
 		"description": "tekenen van structuurformules van vijf aminozuren, bij een les over biomoleculen.",
 		"prefix": "t4",
 		"id": "29cab098-71cb-41c2-ba6a-0d3ac1df679e",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
@@ -113795,7 +113050,6 @@
 		"description": "een presentatie geven over onderzoeksresultaten bij een lessenserie over verf.",
 		"prefix": "t1",
 		"id": "81b99c89-9fca-478d-8485-b8f5ee68be52",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
@@ -113807,7 +113061,6 @@
 		"description": "aangeven op een toets of een gegeven structuurformule een koolhydraat of vet is.",
 		"prefix": "t2",
 		"id": "2d2707db-0db8-42d3-bf80-9d77bb6c66d9",
-		"unreleased": true,
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
@@ -113820,7 +113073,6 @@
 		"description": "benoemen van de functie van eiwitten bij een vraagstuk over gezondheid.",
 		"prefix": "t3",
 		"id": "de40828f-5795-4113-a500-e72dbb567409",
-		"unreleased": true,
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
@@ -113833,7 +113085,6 @@
 		"description": "in een tekening weergeven in welke verhouding natrium- en carbonaationen voorkomen in een oplossing.",
 		"prefix": "t3",
 		"id": "0b0b83a5-a42a-4365-90c0-e72e54503257",
-		"unreleased": true,
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
@@ -113846,7 +113097,6 @@
 		"description": "opstellen van een reactievergelijking van een gegeven zuurbasereactie, in een lessenserie over titratie.",
 		"prefix": "t3",
 		"id": "3f1f13fa-8620-482e-a677-47e90f6a315d",
-		"unreleased": true,
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
@@ -113859,7 +113109,6 @@
 		"description": "de fosforkringloop weergeven in een schema;",
 		"prefix": "t1",
 		"id": "a0219e7b-1db6-4d31-9531-c6ba6a8a911b",
-		"unreleased": true,
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
@@ -113872,7 +113121,6 @@
 		"description": "ontbrekende stofstromen aanvullen in het blokschema van de productie van ammoniak;",
 		"prefix": "t2",
 		"id": "9d4a6561-acb0-48f5-b082-6e1b4d19c527",
-		"unreleased": true,
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
@@ -113885,7 +113133,6 @@
 		"description": "op een poster presenteren hoe fosfor teruggewonnen wordt uit een afvalstroom.",
 		"prefix": "t3",
 		"id": "0871ddb7-d2f8-46dc-abdd-a80f2c56257f",
-		"unreleased": true,
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
@@ -113898,7 +113145,6 @@
 		"description": "de structuurformules tekenen van vijf aminozuren bij een les over biomoleculen.",
 		"prefix": "t5",
 		"id": "8bd5cf9f-e48d-4799-a472-7f1bd71ec25f",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
@@ -113910,7 +113156,6 @@
 		"description": "het verband bepalen tussen de H2O2-concentratie en de gasvorming met het rekenen aan reacties, bij een lessenserie over reactiesnelheid.",
 		"prefix": "t3",
 		"id": "05f7620c-141a-4012-a00b-338f68e0a7d7",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
@@ -113922,7 +113167,6 @@
 		"description": "in het blokschema van een industrieel proces weergeven waar energie wordt toe- en afgevoerd, bij een vraagstuk over duurzame energie.",
 		"prefix": "t4",
 		"id": "a6f263bc-cd98-4222-b746-ced721ea8129",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
@@ -113934,7 +113178,6 @@
 		"description": "schematiseren van de P-kringloop bij een vraagstuk over schoon milieu.",
 		"prefix": "t5",
 		"id": "839072af-f5d4-4781-a1aa-e08df38fb0a4",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
@@ -113947,7 +113190,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "0d0006de-876d-453b-ae8b-fceccb2fbd12",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -113958,7 +113200,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "f395eeaa-be4c-4595-a990-2987a921090b",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -113969,7 +113210,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "68b4c41d-116d-4b22-82b4-f17c12d68ee4",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -113980,7 +113220,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "bcbdf1d2-9c12-4dda-a951-80261767e187",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -113991,7 +113230,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "53646c03-76cb-4cdb-9e21-ed7902c55681",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -114002,7 +113240,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "06647088-0ef7-42e2-83b4-16dbc3cfe1fa",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -114013,7 +113250,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "5a0f6538-f469-4ea4-8a44-6cef34ada2c2",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -114024,7 +113260,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "890c1f94-f318-48ac-806d-746a0839ee5f",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -114035,7 +113270,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "8b741eeb-7ce1-438d-974b-aca0a3ec2939",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -114046,7 +113280,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "3629b3f4-0d78-4588-a568-4746b48e1291",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -114057,7 +113290,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "8d846721-e9cd-4cf2-bc3b-6c0d5204fffd",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -114068,7 +113300,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "97d3d935-5e0d-4426-9795-7ee6eeb2ace8",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -114079,7 +113310,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "d6feba6d-7b5d-4fe9-9a3d-685488ccaa91",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -114090,7 +113320,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "4ad18e5d-e927-4b43-8d88-4ba0628789a5",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -114101,7 +113330,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "6264f5d4-077a-4810-9fd1-4c2244a3d899",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -114112,7 +113340,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "3800dbc3-0523-4704-bf56-c0f97103331d",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -114123,7 +113350,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "7663f5e0-7e10-4739-b3ff-7142d2c1046c",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -114134,7 +113360,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "ee302b35-d87c-4be3-8ab4-4b9011252b65",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -114145,7 +113370,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "7cc54eb7-f48d-4a46-bcd5-198a6c31379f",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -114156,7 +113380,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "30a18385-e11d-414c-816e-015290c3eae5",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -114167,7 +113390,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "3f5403fd-9b69-4333-966a-6b60156a0f57",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -114178,7 +113400,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "b7526765-a5b1-4c93-9f5e-49727fb33587",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -114189,7 +113410,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "61f2026d-f87a-4c1b-be23-467fce47c640",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -114200,7 +113420,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "d00ece5a-1bcb-41c7-8d38-aa9c760cc09c",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -114211,7 +113430,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "f7f71cd9-a9be-4885-a91a-a370277e5f33",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -114222,7 +113440,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "bb29e6df-51d9-4a37-84a4-f03ca1be30b4",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -114233,7 +113450,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "0dc1feb3-b9e9-4bce-85b5-63f7ab51d768",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -114244,7 +113460,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "92bbe473-e5f7-4078-a344-eb6c7645b13c",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -114255,7 +113470,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "33edce59-c640-439f-b0e9-2df37c59ebab",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -114266,7 +113480,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "bcff2adf-2b90-4cd4-9729-02998c0123cd",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -114277,7 +113490,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "98d7a5f7-c80a-4016-8813-ea674f71e035",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -114288,7 +113500,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "2a9bff7c-e634-47ed-ad31-80c336cd8759",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -114299,7 +113510,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "713c6c17-9a52-494d-9af1-c30d1885c156",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -114310,7 +113520,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "3b4d0ca9-f312-4ff0-83c6-b5f1264e08af",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -114321,7 +113530,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "c2387574-6b2b-4ea8-8fe9-075aa60ef736",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -114332,7 +113540,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "43cddbb0-f37d-4b5b-86ff-4c150aee67bb",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -114343,7 +113550,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "fbcdf44d-2a79-49bc-824e-90fa19cc0938",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -114354,7 +113560,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "2c49ac95-66bb-46e5-ac32-eb4c1de61416",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -114365,7 +113570,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "7dc822f7-8817-4909-819c-9230d4c09ff3",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -114376,7 +113580,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "2bf49439-30ea-43ca-a8d9-19c4d6c019b3",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -114387,7 +113590,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "35389bd9-d7fb-41b6-804b-b0579caa67ce",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -114398,7 +113600,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "12d8f952-c9a5-4e04-add8-2dfd31704cff",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -114409,7 +113610,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "eea5bcd1-7956-4ccf-bf60-9fec8fb41f6b",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -114420,7 +113620,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "685a0083-fec3-4343-82ff-7040c6e040b1",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -114431,7 +113630,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "ba79bc45-1c26-4efd-81c6-194a76a9de0e",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -114442,7 +113640,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "7407551e-0e9c-405b-b7cf-f77a67cf2bbc",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -114453,7 +113650,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "4d7c835b-2ef6-4743-8635-7acf79f3c9c2",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -114464,7 +113660,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "65a082c9-1706-4a19-aca1-1468a6639bf4",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -114475,7 +113670,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "4819f48e-fd30-4199-a1fb-b32b502b65e2",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -114486,7 +113680,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "77dd14d0-73eb-4ca9-856d-68b50efe342e",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -114497,7 +113690,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "b689edae-552b-4d62-a099-1503d03d2155",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -114508,7 +113700,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "a6fc4c6c-a95f-4d2d-90ed-922e60947b06",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -114519,7 +113710,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "1079de08-1747-427c-baf6-e415900f9e68",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -114530,7 +113720,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "3be335a4-e1c5-41f9-9817-f6e40ce161f1",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -114541,7 +113730,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "14d68ff7-bf0d-400c-b740-c19ef9235c0c",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -114552,7 +113740,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "2ddeaacb-a187-4528-ac80-8699e5b0e107",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -114563,7 +113750,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "9c0ff1d2-5767-4518-947f-9b1a91d6e4f3",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -114574,7 +113760,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "ab2a17e5-a901-43f5-9f77-09862d1ab4ce",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -114585,7 +113770,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "54d39eca-99c1-4434-9cb3-d1e48f6fdafa",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -114596,7 +113780,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "8931dc8e-cb89-43da-8e0a-e59512910872",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -114607,7 +113790,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "69fdc1ab-c04c-46a6-83a5-59813fdab5f6",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -114618,7 +113800,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "bd7f4677-59d9-43a2-a76f-a61e451f050c",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -114629,7 +113810,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "fb86d2e4-1dcb-4a30-9a15-a726fa677603",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -114640,7 +113820,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "d0763ec2-52e6-4016-8e6f-a8c9dd835d1e",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -114651,7 +113830,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "d11fae7c-16ab-4201-85cc-2fae00e461c8",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -114662,7 +113840,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "3acfd729-09ab-4617-9d32-c405d7ee7454",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -114673,7 +113850,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "623e42f7-8122-4f0f-af4f-5b057d821d43",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -114684,7 +113860,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "710610a9-a7db-445c-a43e-2a74da80fa6a",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -114695,7 +113870,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "37f2f14d-0c40-4577-a9e3-455c5186fd27",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -114706,7 +113880,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "de76e5bf-594d-40f5-980e-4ffda9ece8f4",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -114717,7 +113890,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "2133a236-63c1-44ac-9505-5f9274bd2509",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -114728,7 +113900,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "cd5fd655-eb1b-40d9-9833-007d89e2faaa",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -114739,7 +113910,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "5e19a6a3-6296-4a0a-a2de-242d3ef3fed9",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -114750,7 +113920,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "b120b73b-3740-46e9-900d-eb42a740d2af",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -114761,7 +113930,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "d75f1852-d367-4434-8c93-f561a63de0cc",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -114772,7 +113940,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "01c76265-d530-4884-9fc0-26bc58c1b1bf",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -114783,7 +113950,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "f574cb10-1c2a-4878-9778-e51db2ec5e88",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -114794,7 +113960,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "b37d46ae-21f1-4815-a6b4-28b3230a19ca",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -114805,7 +113970,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "8848259d-d54f-452a-82c3-8542c59fa6cb",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -114816,7 +113980,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "94e05eca-c5ad-44e9-bf8f-e898bae211f0",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -114827,7 +113990,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "0be01048-6d7a-4d82-a54f-53a25eae984f",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -114838,7 +114000,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "b82544e9-4d6b-4a30-846b-3b12f801c5e4",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -114849,7 +114010,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "8a2d6dc7-626e-44ad-b1bb-585a149a7d61",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -114860,7 +114020,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "87dc4f65-26b8-486f-82ec-b10c0754dd95",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -114871,7 +114030,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "f4b1c171-1e7e-4d78-8418-6b150a56dffc",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -114882,7 +114040,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "342f2305-4b30-434e-8322-1c549b8739a7",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -114893,7 +114050,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "187262b1-3bee-4c3e-a6d8-b0a0e998112c",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -114904,7 +114060,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "7843fe16-4249-414f-95fc-da0124f20e09",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -114915,7 +114070,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "181feb51-43c9-4982-9ffe-dc1a93d84339",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -114926,7 +114080,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "0535a7be-4639-45d2-8c16-66352c41cc1f",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -114937,7 +114090,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "08838e04-6076-4de7-8caa-52b0ce17acc0",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -114948,7 +114100,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "2737e1e2-543d-4ca9-9dc8-41d286208e31",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -114959,7 +114110,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "43028cfa-2487-4047-aa99-385128ad2ff9",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -114970,7 +114120,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "85990cef-363f-4245-b31c-a50f25841765",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -114981,7 +114130,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "6681ca05-4016-4024-9178-5cbbfe67e2a7",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -114992,7 +114140,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "0c26a153-3ae7-4f32-b025-7baa2aa66ae2",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -115003,7 +114150,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "75817dfa-0ce0-4ad2-95bb-787a1fbea2d1",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -115014,7 +114160,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "3cad12b3-2255-4c0f-a4f9-05d2bc3dc3a3",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -115025,7 +114170,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "c6085dc5-7f4a-4459-9981-db1254674d80",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -115036,7 +114180,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "187c0fd3-a325-46fa-aacc-21c74e29f0e6",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -115047,7 +114190,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "cdca1751-86d9-4259-b7a9-06852a4d8c1d",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -115058,7 +114200,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "03036f57-800a-447d-b92c-d844874e522a",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -115069,7 +114210,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "afc6de39-e87c-44b9-bc3a-5000658fbc29",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -115080,7 +114220,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "c93297d1-fcf2-4171-a93d-104e14b13eb4",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -115091,7 +114230,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "a0311060-44ba-477c-bd94-2af990e4b0c9",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -115102,7 +114240,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "ddac57d8-bb7c-41e4-9ee2-17108c774fc6",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -115113,7 +114250,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "ef4bbd57-f089-4af2-b52b-1322e4352952",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -115124,7 +114260,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "cda03ce4-acf6-4a40-8189-afe9b716261b",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -115135,7 +114270,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "51f675ea-40a2-4ca7-992b-d7db0ff01be6",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -115146,7 +114280,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "cdbcc14f-845f-443b-adf4-b14b98bf34e9",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -115157,7 +114290,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "958170c5-1711-419e-87c2-1adfedca6674",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -115168,7 +114300,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "36b670ef-a4c7-43ef-901a-02a3c3dfc38f",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -115179,7 +114310,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "849e9024-edb7-4b1b-81e8-9d87653b3bff",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -115190,7 +114320,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "b71975d8-b984-4c12-b1c3-81bf8f51d8ed",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -115201,7 +114330,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "c732dbc8-547e-4170-9918-cd27338cceb6",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -115212,7 +114340,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "a9355718-1979-43e8-88c2-d4876c87bc14",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -115223,7 +114350,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "bf351652-8b97-4319-b632-b422d9011b6b",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -115234,7 +114360,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "ee0a0ed5-df9c-4688-99f3-a668611232c7",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -115245,7 +114370,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "cf7e1f6e-1f15-4097-a603-0a63e264958d",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -115256,7 +114380,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "44f68b46-01d8-4bea-9db3-048f5d38af99",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -115267,7 +114390,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "a454c7f2-2ba9-4e9f-9a37-d03c86fcfd18",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -115278,7 +114400,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "793d23f5-687d-4157-9319-32cf16cf7fec",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -115289,7 +114410,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "8d52707d-f769-4ece-ae1f-10b9cf196c09",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -115300,7 +114420,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "ea2a6406-e208-4bc8-8e82-a72bcfb41276",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -115311,7 +114430,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "bf2d1123-504d-4c8b-86c4-b891f4fb5f61",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -115322,7 +114440,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "8cc3a472-395b-40b5-b037-619aa86d176f",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -115333,7 +114450,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "d9570226-8b20-45fa-859e-906c52460e7f",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -115344,7 +114460,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "a10c9fc8-470e-4404-9857-d0427cfc7a26",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -115355,7 +114470,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "7952feb2-ae6b-43b5-8a10-82bca7cb9052",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -115366,7 +114480,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "c4e315d6-278f-4e73-b158-c33488aaffd5",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -115377,7 +114490,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "0bbe8076-5219-423b-ba9f-972417066738",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -115388,7 +114500,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "370e4726-914e-4564-a23d-40bc31d41640",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -115399,7 +114510,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "48c7ea0d-bad0-488f-a9c9-cbfecbcc6c8e",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -115410,7 +114520,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "d35ecc04-6a96-416e-9ff4-28e611d1938d",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -115421,7 +114530,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "117f17d2-ce90-4a85-85c4-5e3341528912",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -115432,7 +114540,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "45d5be63-add0-4d72-afe8-b5fd85671270",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -115443,7 +114550,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "0333be53-5266-49e5-b5cb-fa27d92fbbb9",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -115454,7 +114560,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "5590415e-2abc-467e-9720-1bb5a101fcd0",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -115465,7 +114570,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "519daac6-56a9-4fdb-8190-ef784b1d0c1d",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -115476,7 +114580,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "d637f20f-cdf9-4cb0-a5c4-2f38146ed833",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -115487,7 +114590,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "2e264307-c541-4321-b59d-0c0f4f8e3fa9",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -115498,7 +114600,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "554033f6-17cd-4040-a87f-b2ee7da89bc0",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -115509,7 +114610,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "a1a4105e-f323-4098-8974-f951f9e29e6b",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -115520,7 +114620,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "12cb3844-b766-42b8-b99d-ede08e336cb9",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -115531,7 +114630,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "48747751-d36b-4437-85d3-82f010518da1",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -115542,7 +114640,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "ef3e16c7-5332-4e6a-bcb7-489a51b6f3b5",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -115553,7 +114650,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "8973b0b2-7f6d-4aaf-9c5a-4c95aa3666cc",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -115564,7 +114660,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "d6f48213-cfbe-44d0-8ede-a49a692885cc",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -115575,7 +114670,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "21be2b40-f1a5-4821-bcdc-c825f8c89355",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -115586,7 +114680,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "446c0dbe-0648-47a5-8ea5-408c085ba199",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -115597,7 +114690,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "933c6d17-e77f-4dea-b815-6854380441a1",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -115608,7 +114700,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "cb271b91-d274-4d5d-8b52-6425a6cf54b6",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -115619,7 +114710,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "1ff34f64-c5c1-4e90-aed3-d92f1f04acfe",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -115630,7 +114720,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "18e983ea-28c7-4da4-8735-d9a414628b7d",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -115641,7 +114730,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "c458c2ad-e427-4caa-ae15-927de829d7dd",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -115652,7 +114740,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "18d35f79-ba94-40a3-b0ec-596e18980d8f",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -115663,7 +114750,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "d839596e-9623-4699-84c5-937fb43d8e44",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -115674,7 +114760,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "2642d17b-0a70-4bd5-b7b9-c5faca819ced",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -115685,7 +114770,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "437aaea0-540f-4984-ab9c-b9d3a6bcdb72",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -115696,7 +114780,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "cf6fc085-c91e-401d-8ffd-8cf21012380f",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -115707,7 +114790,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "a6977bac-fe1f-4a89-ba48-5ae9e700de44",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -115718,7 +114800,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "e0002e7f-ca36-4fcc-b390-a9465ea63839",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -115729,7 +114810,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "d0da6922-7daa-47b7-8bcc-0294ad29aac9",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -115740,7 +114820,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "19d3fdc8-9566-4333-a3c4-074d8884c38e",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -115751,7 +114830,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "0d16becc-5a7f-42fc-9434-4b1865368444",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -115762,7 +114840,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "e8c44627-1c45-4db6-b1bf-18d761b46614",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -115773,7 +114850,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "07cbd293-94ac-414a-8f5a-8aa15722a46a",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -115784,7 +114860,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "44df54e7-0925-475d-852e-dc4a96382a6e",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -115795,7 +114870,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "cb115406-8464-4aa5-8b38-ed1368ef53f5",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -115806,7 +114880,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "e90cc3cd-8691-4213-bd4e-2aa30b66d0bf",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -115817,7 +114890,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "d0dede1c-76c6-4835-808b-aa07ff309109",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -115828,7 +114900,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "70886bcf-0422-4adf-b835-af749828831e",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -115839,7 +114910,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "0ae8ccb9-d730-4439-b87e-ec005d203073",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -115850,7 +114920,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "ba0613da-d02c-4468-b247-38356e22df01",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -115861,7 +114930,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "986f12e9-773b-47e2-81e4-c70b8e2790c4",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -115872,7 +114940,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "a303fc6c-8806-4137-b36c-ffec256def38",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -115883,7 +114950,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "636b087c-b098-49af-af6e-833de9737700",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -115894,7 +114960,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "6f0ca0dc-afa5-4f4f-8dc3-fc4f04deb7fc",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -115905,7 +114970,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "b7e02262-b0b6-46bb-b634-1f6062b97ff1",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -115916,7 +114980,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "822a4071-4fc8-44b5-915c-6c4e57a91c5c",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -115927,7 +114990,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "4274bb37-dbfd-43c8-a9bb-3789e601826e",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -115938,7 +115000,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "62fe3230-5e73-42ce-843e-e8b54c96e96b",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -115949,7 +115010,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "30cb403a-2816-4eea-a282-3ea158b6d1d8",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -115960,7 +115020,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "104d6c17-c39e-45d4-b357-b10f2f343698",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -115971,7 +115030,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "21adc9f0-543e-49d2-bfbe-a884d3996340",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -115982,7 +115040,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "31378856-8251-45f6-b33c-8250783e8158",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -115993,7 +115050,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "73e040e1-97fb-4c51-a4f1-a07b48c40a89",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -116004,7 +115060,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "46a9f65b-67dc-439b-918b-964c0ed9f19a",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -116015,7 +115070,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "6ef1dcc9-705e-4441-9d0b-8098250154cb",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -116026,7 +115080,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "40e5bb6e-6ee4-42ca-93fc-ac0732b3a271",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -116037,7 +115090,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "375b4c6f-6976-4836-a86a-ac5643835241",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -116048,7 +115100,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "9de7a637-a715-450e-9ccf-07666a5b2371",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -116059,7 +115110,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "73046038-2039-4bd0-9ab4-dd1dad352c68",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -116070,7 +115120,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "0087da59-728a-4525-bda3-9380f88e1a37",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -116081,7 +115130,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "29410811-4e80-4e85-b558-425141fef328",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -116092,7 +115140,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "830931e2-33b0-442e-84c3-185af526030b",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -116103,7 +115150,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "8a2ca969-69f9-4322-bde4-31de205467f6",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -116114,7 +115160,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "52782309-849b-4e77-9931-faa5984d37c0",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -116125,7 +115170,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "f593aad1-fff4-4196-89ad-b1e571176497",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -116136,7 +115180,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "d277c850-086d-41fd-8cea-b41fbb86a6d0",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -116147,7 +115190,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "6253862b-dede-428f-85a3-c43ebd395c05",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -116158,7 +115200,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "4fc597c1-396f-4a9c-9908-f6e54e62e60c",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -116169,7 +115210,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "8359ef2e-972b-472d-93a5-36d6749e0913",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -116180,7 +115220,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "15a696e6-841d-4782-a427-762586b317dc",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -116191,7 +115230,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "af87bd76-950a-4d1c-bb11-fba29e382ba5",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -116202,7 +115240,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "d15b1d68-0b0a-48a7-b1c1-9efd29297771",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -116213,7 +115250,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "fea1922d-16bb-466e-9ab1-4f699a3c84b7",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -116224,7 +115260,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "c21d321c-c4de-42ec-8899-2e9efaab7944",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -116235,7 +115270,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "046cbe95-5086-420d-b44b-988cf1ee9031",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -116246,7 +115280,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "5367d3af-81e0-4381-9e38-fac5dd1b7096",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -116257,7 +115290,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "e6bf7e57-db79-4052-9c97-8b446f0c9ccc",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -116268,7 +115300,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "c6bb7ac8-dbef-4294-9b16-55ff0cfe901b",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -116279,7 +115310,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "9f87767d-163a-4e78-81dc-f905d3aaf250",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -116290,7 +115320,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "d203b247-28d0-415e-bc75-10fb0efdf202",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -116301,7 +115330,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "dd101217-5a4f-46d5-81d4-ee154a73d90d",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -116312,7 +115340,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "a5580884-b8b9-4879-ab54-65108a46094e",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -116323,7 +115350,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "a172ce7c-6a93-4e66-b4d7-5de6bc715e22",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -116334,7 +115360,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "42f08b2f-faac-4d74-a315-281dcf808086",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -116345,7 +115370,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "2f4eb9b2-2e3a-4412-82cc-dd82140f1cff",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -116356,7 +115380,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "9986f0a4-07cc-402b-b08e-c5db8baf6e43",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -116367,7 +115390,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "2f4ac410-4540-4f5f-a9f0-fde542bb9418",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -116378,7 +115400,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "eba85848-0470-4490-a9fc-a441b3b3ad5b",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -116389,7 +115410,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "a238749b-e9a0-43a8-9982-a96c246fa54e",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -116400,7 +115420,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "99b35aec-cf6a-42f3-86af-d6e840927f77",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -116411,7 +115430,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "574a4dde-e648-4fbc-a2fb-5c8759683306",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -116422,7 +115440,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "5df60558-b2c7-49de-9e08-04e6db3bb6fb",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -116433,7 +115450,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "bdc6f5bc-9dbc-4a21-bc7d-a0fdc3d7b5d5",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -116444,7 +115460,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "0447e463-f694-44ae-89ad-c32dee059a1a",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -116455,7 +115470,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "be030bb6-8f88-4f61-b6f9-3e58f5fa163f",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -116466,7 +115480,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "559a783c-ee3b-40f1-9411-146afdf85e36",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -116477,7 +115490,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "b4449db0-b440-446f-bd9c-6e141942a505",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -116488,7 +115500,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "441791fd-60c7-4f96-86ca-ac45b505a42c",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -116499,7 +115510,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "ccb2dbbf-311e-4d50-871f-ab03c76ec3c6",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -116510,7 +115520,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "7ee7526e-48b0-406f-a03d-5eebfeadd854",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -116521,7 +115530,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "8c181d20-efe1-4d4d-823a-8395ab58171e",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -116532,7 +115540,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "ce5361a3-f7c4-47ce-baf0-4babbca8aadb",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -116543,7 +115550,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "a8a67d59-bc8a-4dd9-8a68-e964bb3a7780",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -116554,7 +115560,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "583c5c70-b804-4355-8057-d0a496b6475f",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -116565,7 +115570,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "f53d0c94-6309-48ec-8867-6a535ec41264",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -116576,7 +115580,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "dd23ad49-9431-45f5-9e08-b5e443d60e0e",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -116587,7 +115590,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "6e24c8aa-b766-4450-8f53-8e6e492a75dd",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -116598,7 +115600,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "0239d8f7-223c-4423-830f-b15b5b06f18d",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -116609,7 +115610,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "5ceb194e-3007-4fb3-a199-e70d4e3d7945",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -116620,7 +115620,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "e0f8167e-f528-41b8-a780-c3889d2608a7",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -116631,7 +115630,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "b4cbcfb8-8d7a-49ef-b658-fd72502ca8e0",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -116642,7 +115640,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "07bb2d7e-864d-459f-87fb-99223f349dd7",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -116653,7 +115650,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "daa31238-cb3d-46d4-b7ef-71ae2ca7e0f3",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -116664,7 +115660,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "44cdb347-c0c5-4f87-82cf-5d35b3dabd54",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -116675,7 +115670,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "e7ed7509-462a-4f9b-a2ee-059120cdf006",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -116686,7 +115680,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "0a4bfcbf-e4d8-468c-936e-4e21a4548b59",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -116697,7 +115690,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "7cb6c888-3d91-412a-bb74-912337270c95",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -116708,7 +115700,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "ded78dfa-2087-44c4-94ac-f964d9badb74",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -116719,7 +115710,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "c1357f69-4747-45da-8a87-6eb8d3654dfc",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -116730,7 +115720,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "46ed3157-ac42-4a9b-846e-7b515fd2d1b8",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -116741,7 +115730,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "7360e1f1-a010-4c5b-bd4f-5b3ad086b126",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -116752,7 +115740,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "cabd5220-d161-4b7b-b024-95e1731d101c",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -116763,7 +115750,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "b761687c-95d6-45fb-bfa0-6bbb25c7f6a3",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -116774,7 +115760,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "a2828968-06b7-4606-af8b-5ee351aa34f4",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -116785,7 +115770,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "25560d6a-f87b-42c0-baa0-1dbbe4267f51",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -116796,7 +115780,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "2d923995-d219-4a60-8670-cb476662ddfd",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -116807,7 +115790,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "ab183c3e-6c5e-4f83-be6f-4380b68cc742",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -116818,7 +115800,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "d45d5eda-0397-4201-acad-28ff4309d4b2",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -116829,7 +115810,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "5595cc8f-4ca2-4e38-bbe7-c18e10326d9f",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -116840,7 +115820,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "412b629c-185b-46db-894d-194eada83297",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -116851,7 +115830,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "9f312d6c-c2c8-4576-923b-f136bc21dd57",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -116862,7 +115840,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "75a2a0ad-501c-4dda-abfa-606d061b7f1d",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -116873,7 +115850,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "f3e06475-3761-4b22-8c75-4209bdfbe25d",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -116884,7 +115860,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "f46b3222-3ace-4e0e-8683-fa7136a00349",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -116895,7 +115870,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "2dbc77ca-a965-493f-bd8a-4f28c0b2e58a",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -116906,7 +115880,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "aa703e7d-243b-4b34-bc95-3019817b672f",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -116917,7 +115890,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "4ee380de-0914-4c4f-aaff-abc16a114cde",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -116928,7 +115900,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "3c24b74c-5e12-4dc8-b926-8297ecc9df5e",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -116939,7 +115910,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "4c5b85a9-e47b-46ef-a0ec-5fb2a9dffcb6",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -116950,7 +115920,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "3bbce375-6ddb-471d-9843-ed73e8d80822",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -116961,7 +115930,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "286e1760-fb86-4877-b931-efd5ec489a42",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -116972,7 +115940,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "3e796ba6-d913-4636-9337-abdc9dc14fd3",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -116983,7 +115950,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "244edfb8-d89c-4c1d-b338-0b6c05a993c3",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -116994,7 +115960,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "fa04fec2-96f3-4573-a584-9ae146eec789",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -117005,7 +115970,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "f7ce2075-e2b7-45cd-a5ef-9e04aaf0f1dc",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -117016,7 +115980,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "5fb1d7ce-9d6d-48e9-a10b-649982c606e7",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -117027,7 +115990,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "7e91908c-f4bb-4dc9-b033-4dfffe2abdf8",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -117038,7 +116000,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "b44bec36-e0c6-45f5-b623-3d99d755e799",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -117049,7 +116010,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "a2e15230-ee90-4008-bd70-7ee73a729e3a",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -117060,7 +116020,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "ece89e7f-bcae-446c-88c4-68ce63db25e9",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -117071,7 +116030,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "fab00b69-8da0-4d92-9728-4d1cf2ad6ee8",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -117082,7 +116040,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "dba3ab45-3488-46fb-8071-c556fdce655f",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -117093,7 +116050,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "f23686a1-33e1-47ec-a512-e0b30d353e87",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -117104,7 +116060,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "ea68109b-72ea-4888-8085-3880da7e6722",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -117115,7 +116070,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "5f2dc8b2-b4cb-46f1-95d3-8e773d4fd485",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -117126,7 +116080,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "da98e722-54a3-474c-9467-cbd5929c25bf",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -117137,7 +116090,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "8a8c8a0a-8393-466e-b378-cb6b1497b8d1",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -117148,7 +116100,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "a874d185-32ae-43c9-b510-a148240bd2a9",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -117159,7 +116110,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "bf135109-03f4-46c0-8f25-029aa9040fb6",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -117170,7 +116120,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "3b2036c4-ed53-4139-89b4-b16eaef5c3bc",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -117181,7 +116130,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "dc9c8950-0a7b-4e7b-a4cb-ea800777c681",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -117192,7 +116140,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "b64a472e-113e-44e9-81ff-780fb2ec0a03",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -117203,7 +116150,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "c981fbd8-e109-40b5-be96-276b423a76b7",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -117214,7 +116160,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "6c0d702d-1212-4a81-bf1e-4903f143e61c",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -117225,7 +116170,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "ea3ae7d9-1cc1-4bcc-a4de-9d3b3ebb450a",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -117236,7 +116180,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "fa6778ca-2507-4022-97a9-5f861a0c6faf",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -117247,7 +116190,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "db588186-d1c5-455a-a389-5e2eae4603d0",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -117258,7 +116200,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "29d09c48-54f5-468b-9242-6b48b3835025",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -117269,7 +116210,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "6cc424a3-32be-40a0-9a26-929e7d9329e0",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -117280,7 +116220,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "69ff8bde-92eb-4df6-8752-0d77a8a52d76",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -117291,7 +116230,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "804bfef3-e813-4876-a157-8828f56a3e11",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -117302,7 +116240,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "e56292dc-1ba6-4821-871c-d651c531b4b7",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -117313,7 +116250,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "1c82150a-0113-46ec-af9f-f7161b5ddef7",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -117324,7 +116260,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "2896831c-5137-4f0f-9f35-01de4b1ce4df",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -117335,7 +116270,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "38604652-89bb-4594-884e-007f39bd8bf5",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -117346,7 +116280,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "82ce1c1f-649f-48f5-bc03-46f74db709b0",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -117357,7 +116290,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "5381b9ea-395e-4da5-9d4c-7b77fea60a09",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -117368,7 +116300,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "d190c6a6-808d-4203-84c3-6f4e78e7378d",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -117379,7 +116310,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "4fc9cf4d-3901-41dc-9a29-a17144a4d8fd",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -117390,7 +116320,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "46f2f7d5-99e5-4940-b2c1-d2caeda9670e",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -117401,7 +116330,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "8780dc6c-fac6-4239-8eac-3920395b2a61",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -117412,7 +116340,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "ddba4957-8498-4ac6-82cb-8fcfd7a36be9",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -117423,7 +116350,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "f5f86482-df4a-4ef2-8a0a-aa68d0c4c6ae",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -117434,7 +116360,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "26c3b647-f469-449d-9548-86097100dfb8",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -117445,7 +116370,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "43364dac-7aa3-44c3-a26a-2b05bd989000",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -117456,7 +116380,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "5b6c786f-beaf-4d16-99d0-ecde66df4085",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -117467,7 +116390,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "abffb11b-03e5-42f8-bd93-1dd3a361fbac",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -117478,7 +116400,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "9ff99feb-c70f-499b-a111-06359ed0550d",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -117489,7 +116410,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "c3448fa1-c8d3-490b-8b90-0836cd946fb1",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -117500,7 +116420,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "923710d2-bab1-4ab3-b61a-31c6a54ba950",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -117511,7 +116430,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "4a438d6e-8bb2-406f-ab88-551b8acfe014",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -117522,7 +116440,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "2c2d4f1d-594e-4b10-8e04-9c985b8e6879",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -117533,7 +116450,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "ce1479b2-4c96-432d-b61f-eedc20cf350f",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -117544,7 +116460,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "2ae04e1d-8af0-424a-b028-e62b0a9d39d7",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -117555,7 +116470,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "06d94af8-6bd7-40c6-8687-6cc7f998503a",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -117566,7 +116480,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "9f1e4424-36d1-4597-a124-9ffb739d6389",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -117577,7 +116490,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "c3603dcb-4954-49ab-9e7c-1fa2e4f9f6f4",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -117588,7 +116500,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "98711a39-0746-46bc-9d6b-7f13940b4bb9",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -117599,7 +116510,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "2950ab0d-552d-4130-b105-eeee1e785c79",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -117610,7 +116520,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "eb072e02-553c-4bd8-a80f-b66391ccf7a8",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -117621,7 +116530,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "0cac4bf0-d7c8-47a1-8e44-2e5a93286fa9",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -117632,7 +116540,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "71f156a1-7aa5-48ec-a1f3-c88228dcdeaf",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -117643,7 +116550,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "9681da6f-9d76-47db-a1d8-026c3b8bb156",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -117654,7 +116560,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "79f05e4a-ff15-4d3d-b314-bc50452740f7",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -117665,7 +116570,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "65bf15a5-bb26-4bf5-86af-221e8727e579",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -117676,7 +116580,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "f444474a-6923-41e8-bf27-e98b8b38f136",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -117687,7 +116590,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "2d1fc743-5fdb-491e-acfa-905ce51a080c",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -117698,7 +116600,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "c7ea22b0-d65a-48e8-8764-68686bf2d0b6",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -117709,7 +116610,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "31e6ff43-30e8-4566-acd4-1dbbf9ba21cb",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -117720,7 +116620,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "24de35b7-c840-4b94-952f-8cf1ff52e65e",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -117731,7 +116630,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "ed0cd0fc-e8e1-42a3-9bac-8694e836af68",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -117742,7 +116640,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "8bad0cb0-786f-4090-a40d-0b73bea19262",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -117753,7 +116650,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "35ad44b9-b3d3-4dd0-ba8f-b6cdaea67416",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -117764,7 +116660,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "fe8e62bd-6c05-4796-89d3-587a9a9b003c",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -117775,7 +116670,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "458fa991-2582-45db-8abf-f7104bbae714",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -117786,7 +116680,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "2f64bb16-5d0c-4671-94be-45669e81f576",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -117797,7 +116690,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "1b2e8a79-7933-4a41-b51c-79a3a92d0f2f",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -117808,7 +116700,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "a71c722a-839e-4989-b84a-c8ff3d6598f0",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -117819,7 +116710,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "22106074-a9ea-4fac-bd3b-34bf6f8e5c30",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -117830,7 +116720,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "c8218c61-6352-40e9-a0df-26745ded598e",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -117841,7 +116730,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "d223b5f3-3b70-4920-8b50-8f3a3910220e",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -117852,7 +116740,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "a389cdb2-b639-431e-8385-19f013a6f737",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -117863,7 +116750,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "602f9769-c6b3-475b-8457-14425e327bcc",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -117874,7 +116760,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "136fbfc0-2122-44eb-9a6b-52908ab4e2a5",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -117885,7 +116770,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "ab025b6c-4dbf-4e0a-a88b-d0232a275da5",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -117896,7 +116780,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "6bf5c47f-4c65-4879-8d62-364245b42ef3",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -117907,7 +116790,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "21b84860-5bf1-484b-89fb-b9c3de442fcd",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -117918,7 +116800,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "f49c2c3b-f3aa-4c5d-a6e3-f38c0d064a4b",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -117929,7 +116810,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "06c8ff2e-3939-42a6-ab2f-ce6a886900f7",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -117940,7 +116820,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "56e8b7b5-096f-441b-86a1-d74b9ce7da2e",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -117951,7 +116830,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "68ccf907-2018-44e7-ab86-c3a90cf758e0",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -117962,7 +116840,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "754c7197-963b-481b-ade3-a6bfe956cc64",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -117973,7 +116850,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "9c82d4e0-12a0-4ce5-bb24-062ea23f1d07",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -117984,7 +116860,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "e932ecbd-9fc3-4ecd-8eae-ca15ba632720",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -117995,7 +116870,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "0a7c27fa-5360-41ec-aa66-32c533512987",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -118006,7 +116880,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "245b6ee3-9ea6-444a-90c7-56e7db08daeb",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -118017,7 +116890,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "9a5b24c0-0416-4b12-9002-9ee3da992dd6",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -118028,7 +116900,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "e8a1f460-075f-413b-93b7-ab62c5c69b86",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -118039,7 +116910,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "cb76e937-4621-4b7a-a6b7-9bf1d0f981ba",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -118050,7 +116920,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "165c2c9a-e9a5-4931-bf73-cdb16217d5fe",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -118061,7 +116930,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "ef005640-fc47-4fce-b53a-b9db28f37608",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -118072,7 +116940,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "c8b12562-9f4c-4da7-9ebe-b87fe38db394",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -118083,7 +116950,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "337fabe3-30f7-429b-9290-3d940218c9fc",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -118094,7 +116960,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "66c827e6-e4c9-4539-a2fa-70374617a965",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -118105,7 +116970,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "ba77a195-6d92-406b-9b5e-37826f2bf279",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -118116,7 +116980,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "cca846c3-20ce-4767-bca0-ab859b8d8e35",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -118127,7 +116990,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "7868163a-acd1-4235-9909-26c875e2854a",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -118138,7 +117000,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "1654a1d6-6a39-4303-b9ff-2a2886190751",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -118149,7 +117010,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "439dffe1-1ef5-4982-8e1a-9c4e7e364f07",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -118160,7 +117020,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "2bc097e5-604e-418e-869d-980395a9834c",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -118171,7 +117030,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "b6ae522d-bda3-4f6e-81c1-fa7abbdbb5a2",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -118182,7 +117040,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "4da23390-490a-4b9b-bdb5-02bb8d27fd5f",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -118193,7 +117050,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "aeb85c91-294c-4f16-942a-97944f4061b5",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -118204,7 +117060,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "0254e8ab-9f6c-484e-bc79-97e19b077d02",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -118215,7 +117070,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "6c905645-3578-4017-85b8-23515a2a316c",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -118226,7 +117080,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "6d2d4f1f-a691-4d4f-b470-3a353f057164",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -118237,7 +117090,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "f214845a-b28a-4463-b1d0-db7f0c021b6e",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -118248,7 +117100,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "404009c2-25b0-4f03-b30a-f291fe7e5402",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -118259,7 +117110,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "4d25f35f-0902-4e9b-8625-1aeb73a07f26",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -118270,7 +117120,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "36fa136d-e0e6-46be-a247-8c33badcea0b",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -118281,7 +117130,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "6af7ac1f-6ac9-4363-a0d8-1c34e2152d9e",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -118292,7 +117140,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "59863758-9cb4-4b59-9c93-e835aa00c73f",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -118303,7 +117150,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "6084c360-322b-48e4-8034-d13b5e9ffe99",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -118314,7 +117160,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "0f3428f5-35be-4d7d-b663-cf38c04206f9",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -118325,7 +117170,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "a1a51e71-b980-413a-80f2-8dc60946380e",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -118336,7 +117180,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "ba78da5e-0c04-4c4e-a728-37f278679ee0",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -118347,7 +117190,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "c75ca3ab-1f20-4908-ac97-5c45c97f11f7",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -118358,7 +117200,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "b9971bdc-123b-4e57-94f8-7341b2d65443",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -118369,7 +117210,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "4b97d4a2-6ab5-40f3-9d87-c7f53a8c5303",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -118380,7 +117220,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "b64c311e-4633-47cc-b4a1-ec34cc6043d7",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -118391,7 +117230,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "6ac47a08-de4c-4c64-b715-16ab124190e8",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -118402,7 +117240,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "c1387a47-4cf9-4e0d-a658-8c5946394a05",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -118413,7 +117250,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "eaa75c41-72d8-49f1-a37e-c44fc436d473",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -118424,7 +117260,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "4b84e1db-23e3-40b4-bb15-d179d778a762",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -118435,7 +117270,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "5b5542ff-43fc-441a-a62d-cba44da0ffca",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -118446,7 +117280,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "d2cad5cb-cd1f-4492-a4de-054627ef56bf",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -118457,7 +117290,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "63420d9e-ba8f-44f8-b541-cb92f2f4d22b",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -118468,7 +117300,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "135b3432-1a2d-4bc5-a12b-42a7b7d003fa",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -118479,7 +117310,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "a2348473-874f-4aea-aef4-f1af7c7eea8d",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -118490,7 +117320,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "217f5387-088f-4d5c-a5ad-e26f893b7389",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -118501,7 +117330,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "399f43ac-20f5-4a90-9b94-c45c25d5b219",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -118512,7 +117340,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "086c562d-e12e-46b1-a501-c082185ea95c",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -118523,7 +117350,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "802546d1-3956-4bdb-a550-3f0162a7aa98",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -118534,7 +117360,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "3e61f3c0-c7b4-47b0-8466-6b9bbf6fc347",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -118545,7 +117370,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "b728d984-b58c-4a55-8496-c5f08e83c805",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -118556,7 +117380,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "21ec3b75-f8f9-4772-8520-5e3fd7fb19c3",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -118567,7 +117390,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "15f22685-3f54-4d2c-8f5b-5baf9341052f",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -118578,7 +117400,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "6f105d04-dd2c-4fb8-8746-41622b240040",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -118589,7 +117410,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "f486ee00-403c-4e48-8471-14290c6c4003",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -118600,7 +117420,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "353f7452-ce30-452a-80f5-264b09529c10",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -118611,7 +117430,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "0b204e1f-20e2-4826-839e-a2833095a11e",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -118622,7 +117440,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "f39ffc82-6d43-42f7-86a0-ea9566fa2c33",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -118633,7 +117450,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "089ae6d3-43e1-4b4f-be64-5780ee3f89fd",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -118644,7 +117460,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "2c92a4ab-961a-41ae-822b-3465acabe2c4",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -118655,7 +117470,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "3000160b-50ea-4710-ae2a-23b2a56e3c43",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -118666,7 +117480,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "8a736b52-3c29-4097-9095-02fcd79af2a6",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -118677,7 +117490,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "04899ea7-aaed-4fa9-86bb-84fe6d9f4e21",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -118688,7 +117500,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "790bcd41-bde5-4742-ae1d-405ca1a0cefb",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -118699,7 +117510,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "ade81fb0-35d2-4cb9-9816-74a7b6f2a88d",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -118710,7 +117520,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "2536bbe5-7824-41d8-ae57-668ac6445f64",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -118721,7 +117530,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "b2e33b35-acd4-4bf2-94be-7a8db7b5bc66",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -118732,7 +117540,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "8aac257b-c0a4-4ffb-817a-a191b3dbefdf",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -118743,7 +117550,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "d18002e3-ccbc-4163-9e88-92f6a8e3326b",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -118754,7 +117560,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "c7b9ceb1-77eb-4371-a742-41f5f27c3093",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -118765,7 +117570,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "04cb6638-e64a-4979-9b7a-ab0ad78b3e62",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -118776,7 +117580,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "74b99bdd-20f8-4977-b4fb-883b408c27d3",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -118787,7 +117590,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "14577ae6-3d69-4084-bcd9-e8f2f718eb77",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -118798,7 +117600,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "8cbf33fb-2d34-444e-b97e-186b4c16b6e6",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -118809,7 +117610,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "dba6b0cf-fa04-444c-b38e-608e45ac97a6",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -118820,7 +117620,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "cc30bb46-19c3-45d4-9220-0d60eb4a7c74",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -118831,7 +117630,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "53ad0f4c-c4c5-4cdf-a559-558722acbc8a",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -118842,7 +117640,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "30470e0c-b2a8-458b-b8d2-7bf194030842",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -118853,7 +117650,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "59c18a92-7eda-4757-8ccb-f24e90f76ecd",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -118864,7 +117660,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "f484549b-8824-483f-86a7-8015b1f4233b",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -118875,7 +117670,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "170fba55-20b5-463a-bf2a-7e203fa918e8",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -118886,7 +117680,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "b8574635-6afd-43c6-8c85-f62b063973be",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -118897,7 +117690,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "f8336755-8171-492e-a17d-a6b74ccfcdc1",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -118908,7 +117700,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "d1cd70a3-fae0-456c-a2a8-11d880979cff",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -118919,7 +117710,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "31e50417-5868-4564-82c9-98edf39c04c2",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -118930,7 +117720,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "4cf1637a-0be5-4497-822c-83c183bc78b1",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -118941,7 +117730,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "5e1e563a-ab02-4aa9-847d-d791b534bc34",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -118952,7 +117740,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "7e090378-ea8d-4bb6-a5a6-07d9b550af71",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -118963,7 +117750,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "32324f10-e8f8-4d44-a121-af1d78f55716",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -118974,7 +117760,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "74ccccc5-9f1a-4b64-b916-3ded759e4a5e",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -118985,7 +117770,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "ecd2107a-4783-4fe5-bf25-52dcc1352116",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -118996,7 +117780,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "2ead7277-272e-4ad8-a195-2170d3030bd1",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -119007,7 +117790,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "c5e67f91-ec06-4f50-8536-593c1bcf1392",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -119018,7 +117800,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "a60e3f15-ab32-457b-b67e-2ab026b96d35",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -119029,7 +117810,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "9fb50cf5-addd-4aad-8031-98149a5795d0",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -119040,7 +117820,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "01927df6-5b72-45ed-9769-4bc627f52d09",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -119051,7 +117830,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "e43e0c10-1729-439c-a2b1-f60d5a050ac7",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -119062,7 +117840,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "c1675cc7-8bf8-470c-836f-3d8e093a65b4",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -119073,7 +117850,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "312f8ac4-c9c0-4e72-8832-327f0660637f",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -119084,7 +117860,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "2f581489-436c-4243-8271-f70d2baeadd0",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -119095,7 +117870,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "debd15e7-48a5-4c8e-a4bb-a597e2c8eed4",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -119106,7 +117880,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "0c88cea8-2477-48de-8222-47860a82b914",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -119117,7 +117890,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "606eb40d-a6f5-478f-a6df-634c7f70ef59",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -119128,7 +117900,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "82499537-11b4-48ed-a1ba-9231f1d42687",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -119139,7 +117910,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "7af95aef-e41e-4cf2-acd0-d40cccb8fd36",
-		"unreleased": true,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -119150,7 +117920,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "a918c7c0-3542-47a0-8a46-f2775ecc823a",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -119161,7 +117930,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "3712f469-a47e-4e99-9bb2-d049be49a904",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -119172,7 +117940,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "6eeb496e-2123-4b4e-a7ca-1147429aacfd",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -119183,7 +117950,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "6c28d6a8-417a-4590-9069-6c3c5c68a55a",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -119194,7 +117960,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "63c2c545-f996-4a4b-8a00-bdf1f22dbbac",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -119205,7 +117970,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "b6aea880-72d7-49fe-80c8-7abdd73616a1",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -119216,7 +117980,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "f6f6c81d-64e6-4c9a-a9df-a6d4a77d5ec5",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -119227,7 +117990,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "1a8d5eaf-b2bb-48d1-8bb2-90c24efee581",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -119238,7 +118000,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "4b9e8fbc-e71d-45c6-bcff-8ac5f42fe7ad",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -119249,7 +118010,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "e16e7b07-16b7-4b21-8b67-880d26669126",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -119260,7 +118020,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "2062e2b5-71ce-4f82-99c1-6376b46cbf66",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -119271,7 +118030,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "a8338ea7-3b1c-4e85-86eb-f87b65424f69",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -119282,7 +118040,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "0c2ad461-442d-403f-8a6f-55f57dfebb08",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -119293,7 +118050,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "3aac181d-a02c-44a9-bf5e-73c203cd96c5",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -119304,7 +118060,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "a9caaecf-e90b-4ef9-9395-6934b7f939ce",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -119315,7 +118070,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "7d5a4e73-227e-400f-b70a-42d3fb2ada5b",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -119326,7 +118080,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "511f1a28-e781-4881-93ac-15fd2315c0ab",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -119337,7 +118090,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "5cffbd26-fad1-4b0a-83da-1a5a72475ab3",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -119348,7 +118100,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "55784ca5-62fa-4a50-b23f-101453099cd4",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -119359,7 +118110,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "036fb3bd-aad7-4266-8293-95b86a05ad96",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -119370,7 +118120,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "3e0eacb4-446c-481c-98dc-e651a1ea2dd2",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -119381,7 +118130,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "c3bb3d81-0bb7-4de1-a69d-5a9465a88346",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -119392,7 +118140,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "af55459a-f676-441c-9fb9-7c0ade3d9a10",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -119403,7 +118150,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "967f56dc-c4b3-401f-89bc-0cfbfa450f3c",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -119414,7 +118160,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "fd75f705-b656-49b1-baf6-f616849cba84",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -119425,7 +118170,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "dcbd16d5-9445-40b9-b137-1030191013e4",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -119436,7 +118180,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "da145906-75f3-4064-a156-83e0df914033",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -119447,7 +118190,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "16c1e027-a325-4ad3-931a-ca3535ff8a5a",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -119458,7 +118200,6 @@
 		"prefix": "t5",
 		"status": "concept",
 		"id": "45ff2e25-901e-4743-8390-1778bf9606ca",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -119469,7 +118210,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "412e3acc-3e5c-4cb2-a037-6893f60bbd35",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -119480,7 +118220,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "0add0892-8d37-47d5-baee-d3815cfc915d",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -119491,7 +118230,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "39337162-344d-4ca7-b138-37e45ced5a07",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -119502,7 +118240,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "78f8185e-fd01-4e46-91d1-95d7b1414b0a",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -119513,7 +118250,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "b1cfdad9-c111-4b6a-80a3-b216820199fe",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -119524,7 +118260,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "c5e68527-afdc-4d4e-8576-2601b3c7d1c7",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -119535,7 +118270,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "7bb6d7e7-29fc-4c40-a47f-c43b2e246b72",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -119546,7 +118280,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "eac0fa63-5146-4d99-aa29-9b25d9bd7e2c",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -119557,7 +118290,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "0f9b5cf4-370b-4a4e-8620-ef7d265c735e",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -119568,7 +118300,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "8d7888d6-8bbb-4d19-9762-4e8adba16bd4",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -119579,7 +118310,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "fe4a3e03-f96a-461d-bfc9-a7e1d0500a00",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -119590,7 +118320,6 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "a5bc502c-3758-4c5c-aab8-5d1725485807",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -119601,7 +118330,6 @@
 		"prefix": "t1",
 		"status": "concept",
 		"id": "46069e2f-4d43-4ae4-94ad-2431550efc18",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -119612,7 +118340,6 @@
 		"prefix": "t2",
 		"status": "concept",
 		"id": "63d6bb8c-4ec3-40ac-86aa-508b03e7d75f",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -119623,7 +118350,6 @@
 		"prefix": "t3",
 		"status": "concept",
 		"id": "5c434e0d-aadb-415d-9294-ff489816f11a",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -119634,9 +118360,879 @@
 		"prefix": "t4",
 		"status": "concept",
 		"id": "8abe61fd-5efb-43ab-a49a-69e59600f7d0",
-		"unreleased": true,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		]
+	},
+	{
+		"prefix": "t1",
+		"id": "99cbc9cb-b950-4f70-a256-adafebb99b40",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"title": "Te denken valt aan",
+		"description": "maken van een venndiagram waarin bladgroenkorrels en mitochondria worden vergeleken;",
+		"replaces": [
+			"aed7bb53-7128-4bcc-ba1f-cd6b9517e985"
+		]
+	},
+	{
+		"prefix": "t2",
+		"id": "ca1b1601-175b-4ff2-b7d2-e20c4b7ed41c",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"title": "Te denken valt aan",
+		"description": "een grafiek aflezen waarin substraten of reactieproducten van stofwisselingsprocessen zijn ujitgezet tegen de tijd;",
+		"replaces": [
+			"3bcfbc2e-872e-4658-8518-7b3a8829f19d"
+		]
+	},
+	{
+		"prefix": "t3",
+		"id": "9b312d2b-17d9-42f9-9b4e-1e815efab475",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"title": "Te denken valt aan",
+		"description": "spelen van een aangepaste versie van het spel ‘Set’ op basis van reactieproducten van stofwisselingsprocessen",
+		"replaces": [
+			"4c886abb-ea0e-4566-ad45-05007f8f466f"
+		]
+	},
+	{
+		"prefix": "t2",
+		"id": "7f2dd740-c640-4df0-a06f-c624dc79bc1c",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"title": "Te denken valt aan",
+		"description": "met behulp van fysieke modellen de stappen van DNA tot eiwit nabootsen;",
+		"replaces": [
+			"f8d38640-91be-4044-9e4d-a1ec1eeace42"
+		]
+	},
+	{
+		"prefix": "t2",
+		"id": "3a9c433f-c425-4fce-97dd-fecdac9475d2",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"title": "Te denken valt aan",
+		"description": "een stripverhaal maken over voortplanting vanuit het perspectief van een chromosoom in een voorlopercel van een zaadcel;",
+		"replaces": [
+			"bfa3e480-f9da-4eab-a118-c77856cb2334"
+		]
+	},
+	{
+		"prefix": "t1",
+		"id": "e71848b5-e0af-4ddb-a4e4-9e16f8ffe464",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"title": "Te denken valt aan",
+		"description": "bij het zien van een onbekend organisme in gesprek gaan over de mogelijke plaats in de ordening van het leven;",
+		"replaces": [
+			"b57a4d37-d7c6-4c12-b4b4-3a3fe15ebcf6"
+		]
+	},
+	{
+		"prefix": "t2",
+		"id": "9cdba02a-6c86-4754-9b7b-56b916f66385",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"title": "Te denken valt aan",
+		"description": "tjdens het doen van veldwerk patronen in het landschap beschrijven;",
+		"replaces": [
+			"ba03d383-532d-45d9-9b84-6f282143e4f7"
+		]
+	},
+	{
+		"prefix": "t3",
+		"id": "88330871-7779-4349-b054-81b006e4ca34",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"title": "Te denken valt aan",
+		"description": "afbeelden en toelichten van de verandering in de concentratie van koolstofdioxide in lucht gedurende één jaar;",
+		"replaces": [
+			"01d76a2c-8f50-42a1-9281-6725788dc33d"
+		]
+	},
+	{
+		"prefix": "t4",
+		"id": "4f71a6b5-0f2f-4aec-89c4-e87fe132cb9b",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"title": "Te denken valt aan",
+		"description": "verschillende grafieken met predator-prooi-relaties vergelijken en bespreken wat oorzaken kunnen zijn van opmerkelijke verschillen.",
+		"replaces": [
+			"3c3c18b4-da28-432f-905a-f8f1ae6fee57"
+		]
+	},
+	{
+		"prefix": "t1",
+		"id": "28d48ded-0850-4c88-b1eb-bf1aae5423ef",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"title": "Te denken valt aan",
+		"description": "verschillende gebeurtenissen in de geschiedenis van het leven op aarde plaatsen op een tijdschaal;",
+		"replaces": [
+			"1bf51fd5-6860-4cf2-9dbc-eafa141111a0"
+		]
+	},
+	{
+		"prefix": "t2",
+		"id": "1b4949fe-8810-439c-95b0-f870b09e8325",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"title": "Te denken valt aan",
+		"description": "inschatten welke verdunningsreeks moet worden gemaakt om het aantal bacteriën in slootwater te onderzoeken;",
+		"replaces": [
+			"a6cf0d2c-d4d7-484f-a6a2-b8e5fe08bf84"
+		]
+	},
+	{
+		"prefix": "t3",
+		"id": "e2402264-83e8-4f65-be91-721181dd0e1d",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"title": "Te denken valt aan",
+		"description": "een discussie voeren over de vraag vanaf welke grootte organismen zuurstof naar cellen vervoeren via een vatenstelsel in plaats van via opname door de huid;",
+		"replaces": [
+			"791aba6e-c9f0-4980-ae33-ee32cfd9e460"
+		]
+	},
+	{
+		"prefix": "t4",
+		"id": "e738b696-1781-4f19-8c0e-001b1625e19e",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"title": "Te denken valt aan",
+		"description": "strategieën koppelen van verschillende organismen om hun lichaamswarmte te reguleren aan hun inhoud/oppervlakte-ratio.",
+		"replaces": [
+			"dd0884dd-c57c-4879-a96a-bcb348b87ce7"
+		]
+	},
+	{
+		"prefix": "t1",
+		"id": "4ed08e86-dbc1-48e8-8b13-2a3f9da6ecba",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"title": "Te denken valt aan",
+		"description": "een gesloten aquatisch systeem bestuderen en de interacties tussen organismen en de kringloop van stoffen weergeven in een schematisch model;",
+		"replaces": [
+			"5f8c8a70-f708-44e4-af3d-2595e0d26a80"
+		]
+	},
+	{
+		"prefix": "t2",
+		"id": "a5eab1f6-e8c5-421d-8cb2-d0329488e19f",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"title": "Te denken valt aan",
+		"description": "een papieren model maken van een plantencel en daarin aangeven wat de cel in- en uitgaat gedurende fotosynthese en aerobe dissimilatie;",
+		"replaces": [
+			"64e567d5-a9d3-4664-99bd-04d08e80db56"
+		]
+	},
+	{
+		"prefix": "t3",
+		"id": "6c4f325c-4858-4d93-a195-55b702e4501f",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"title": "Te denken valt aan",
+		"description": "kaartjes op volgorde leggen met beschrijvingen van gebeurtenissen op verschillende organisatieniveaus om te laten zien hoe een mutatie in het DNA kan leiden tot symptomen van een erfelijke ziekte;",
+		"replaces": [
+			"bf346c11-5eda-456c-9e35-697ab30ada86"
+		]
+	},
+	{
+		"prefix": "t4",
+		"id": "271b0c88-0745-41a5-a64e-af039e88837a",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"title": "Te denken valt aan",
+		"description": "met een fysiek model van de glucosespiegel in het bloed beredeneren hoe hormonen een rol spelen bij homeostase tijdens verschillende dagelijkse activiteiten.",
+		"replaces": [
+			"2a7dae0a-bf8f-4bb4-b44f-4ef81bd25747"
+		]
+	},
+	{
+		"prefix": "t1",
+		"id": "13823568-2229-47b5-8d86-01dcf5966ddb",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"title": "Te denken valt aan",
+		"description": "een infographic maken van een ecosysteem met daarop alle energiestromen, materiestromen en omzettingen;",
+		"replaces": [
+			"0dc46204-bae8-478d-894b-c4cf9763a469"
+		]
+	},
+	{
+		"prefix": "t2",
+		"id": "8a20869d-c9aa-4dba-8b67-8a2ddcc4b7db",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"title": "Te denken valt aan",
+		"description": "de route van een koolstofatoom dat Julius Caesar uitademde tot in een spiercel van jezelf in een stripverhaal laten zien;",
+		"replaces": [
+			"eb871c6c-04b6-4ff8-90ee-f44bca6ad119"
+		]
+	},
+	{
+		"prefix": "t3",
+		"id": "47484894-6cd5-4246-876d-f324f25b432c",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"title": "Te denken valt aan",
+		"description": "een voorlichtingsfilmpje maken voor de website van een diëtistenpraktijk, waarin met biologische termen wordt uitgelegd dat een dieet om aan te komen of af te vallen altijd gebaseerd is op een afstemming van de hoeveelheid ingenomen calorieën op de energiebehoefte;",
+		"replaces": [
+			"746e18d3-ad29-4a1c-b181-12375d5a35b4"
+		]
+	},
+	{
+		"prefix": "t4",
+		"id": "3eb89d0c-256c-40df-8a23-95eca231acf6",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"title": "Te denken valt aan",
+		"description": "een grafische weergave maken van de hoeveelheid energie die in chemisch vorm een dier ingaat, wordt opgeslagen en verbruikt en het lichaam weer verlaat, om hiermee de efficiëntie van verschillende landbouwdieren te vergelijken;",
+		"replaces": [
+			"f68badba-4738-4bcc-a6c7-3fb25b050287"
+		]
+	},
+	{
+		"prefix": "t1",
+		"id": "e1211c4d-50c1-43b7-a8c4-ac6bf57218c3",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"title": "Te denken valt aan",
+		"description": "in het dierenrijk zoeken naar voorbeelden van oppervlaktevergroting om uitwisseling van stoffen te verbeteren;",
+		"replaces": [
+			"84c65d1b-aea5-4f8e-b999-3f1d37ee833c"
+		]
+	},
+	{
+		"prefix": "t2",
+		"id": "390a6108-1eda-46f3-b80b-86f1cf5cd94c",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"title": "Te denken valt aan",
+		"description": "de bouw en werking van een nierdialyse-apparaat beschrijven met behulp van kennis over samenstelling van het bloed;",
+		"replaces": [
+			"7a43e305-e32f-4fa0-b2ba-ede6581bbffa"
+		]
+	},
+	{
+		"prefix": "t3",
+		"id": "2188a534-6e6e-4768-a3ea-9cd282bedfbf",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"title": "Te denken valt aan",
+		"description": "driedimensionale modellen maken om te laten zien hoe hormoon en receptor via een sleutel-slot-principe op elkaar ingrijpen;",
+		"replaces": [
+			"e8cd9d90-59d1-47ab-8c48-35d8cec9cbce"
+		]
+	},
+	{
+		"prefix": "t4",
+		"id": "33c6746d-aa49-4a8f-96a8-0b908461f1e3",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"title": "Te denken valt aan",
+		"description": "vergelijken van plaatjes van de bloembouw van verschillende soorten en dit relateren aan de wijzen van bestuiving.",
+		"replaces": [
+			"2208c7e7-0b4c-4b27-98c1-9c818171df5d"
+		]
+	},
+	{
+		"prefix": "t1",
+		"id": "e53ab29e-47a5-4ae2-a4b5-1df94d8d150b",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"title": "Te denken valt aan",
+		"description": "met behulp van een simulatie bekijken wat de effecten waren van de introductie van de nijlbaars in het Victoriameer;",
+		"replaces": [
+			"ff5f88fa-1f5b-40a1-8ee3-6db807feb189"
+		]
+	},
+	{
+		"prefix": "t2",
+		"id": "1c9652fa-9953-4ba6-af9e-f888c2d7d109",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"title": "Te denken valt aan",
+		"description": "in een grafiek laten zien hoe de bloedsuikerspiegel wordt beïnvloed door lichaamsbeweging en voedselinname;",
+		"replaces": [
+			"8d6fc38d-4413-4986-9a61-8c24b5180871"
+		]
+	},
+	{
+		"prefix": "t3",
+		"id": "32472e01-accb-43b3-9eff-21a07f40589f",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"title": "Te denken valt aan",
+		"description": "in een aangereikt model aangeven hoe verschillende organen betrokken zijn bij hormonale regulatie en hoe dit verstoord kan raken;",
+		"replaces": [
+			"2f53bed3-ef86-434e-85e6-fd7f87756d38"
+		]
+	},
+	{
+		"prefix": "t4",
+		"id": "0a43766f-2a19-4bb8-80e4-9beb545abb4d",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"title": "Te denken valt aan",
+		"description": "een presentatie geven over hoe in een bos stofkringlopen plaatsvinden en hoe bosbeheer kan voorkomen dat die verstoord raken.",
+		"replaces": [
+			"79b2438f-843b-4e95-bfad-5ee5a06317ab"
+		]
+	},
+	{
+		"prefix": "t1",
+		"id": "d460b537-99bb-46e5-be17-580f078d9981",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"title": "Te denken valt aan",
+		"description": "op meerdere plekken in een natuurgebied op een bepaalde afstand van een autoweg het aantal soorten planten en insecten in een kwadrant tellen.",
+		"replaces": [
+			"77a1cd42-53e8-438f-a5ed-f12322c5fbff"
+		]
+	},
+	{
+		"prefix": "t2",
+		"id": "d3183485-79e5-4e71-891f-4728e314b8b4",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"title": "Te denken valt aan",
+		"description": "in een natuurgebied een minuut lang met de ogen dicht waarnemen wat je hoort, ruikt of voelt.",
+		"replaces": [
+			"55ee8045-ec20-443b-8eb2-26c4940e0abe"
+		]
+	},
+	{
+		"prefix": "t3",
+		"id": "14463a6f-4839-4076-95fe-a48bcd5d5e06",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"title": "Te denken valt aan",
+		"description": "in de natuurlijke omgeving zoeken naar invasieve exoten, zoals de reuzenberenklauw en de Japanse duizendknoop, en bestuderen welke impact deze planten hebben op de biodiversiteit en op de bewoners in de buurt.",
+		"replaces": [
+			"93d3286c-9b9c-4621-a98a-b32b3ca0dd1c"
+		]
+	},
+	{
+		"prefix": "t4",
+		"id": "ea9eb0b3-0025-497f-8715-683e7d6fbe85",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"title": "Te denken valt aan",
+		"description": "metingen van biotische en abiotische factoren uitvoeren in de sloot en deze vergelijken met referentiewaardes.",
+		"replaces": [
+			"bce363bd-3860-4915-b439-c8ed9af6886b"
+		]
+	},
+	{
+		"prefix": "t1",
+		"id": "c007c7b4-c8fb-4608-a98f-10c082390827",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"status": "concept",
+		"title": "Te denken valt aan",
+		"description": "uitleggen waarom de benen van een nijptang veel langer zijn dan de bek.",
+		"replaces": [
+			"23e07b71-35b1-45f3-a3e8-f226f1a762b4"
+		]
+	},
+	{
+		"prefix": "t2",
+		"id": "31502317-985a-4456-aff7-2eaf6960f490",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"status": "concept",
+		"title": "Te denken valt aan",
+		"description": "een verandering in een waarde beschrijven als percentuele toename of afname.",
+		"replaces": [
+			"d0a493a3-15a7-4faa-abde-f0e0877b54bc"
+		]
+	},
+	{
+		"prefix": "t3",
+		"id": "c36e8c91-1c64-40c9-9c2f-2139fb267525",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"status": "concept",
+		"title": "Te denken valt aan",
+		"description": "het gedrag van een systeem voorspellen met verhoudingstabellen.",
+		"replaces": [
+			"8c644e88-3321-4e89-b100-2ddb4c1854c2"
+		]
+	},
+	{
+		"prefix": "t4",
+		"id": "e32aacb3-420b-43f9-9821-6f96ff4a6adf",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"status": "concept",
+		"title": "Te denken valt aan",
+		"description": "de verplaatsing en afgelegde weg bepalen uit een (v,t) diagram.",
+		"replaces": [
+			"9d06123d-4d82-415c-8ff6-f79af3d06615"
+		]
+	},
+	{
+		"prefix": "t1",
+		"id": "0f8b72fa-d16e-40d3-84ad-12d0f9b3f196",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"status": "concept",
+		"title": "Te denken valt aan",
+		"description": "bij een presentatie aan een basisschoolklas uitleggen wat scheikundigen onderzoeken.",
+		"replaces": [
+			"f4019110-228e-4a61-8d03-3c7b7b73b681"
+		]
+	},
+	{
+		"prefix": "t2",
+		"id": "beb35193-7f8e-46ba-aaa5-0318f1b9e5a9",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"status": "concept",
+		"title": "Te denken valt aan",
+		"description": "opzoeken van een kwaliteitsnorm voor het veilig gebruik van bioplastics als verpakkingsmateriaal bij een vraagstuk over circulair produceren en consumeren.",
+		"replaces": [
+			"2265315f-520a-4e58-97ab-c319760b6b55"
+		]
+	},
+	{
+		"prefix": "t1",
+		"id": "d18ae02b-c0f1-4d66-a624-b03def572139",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"status": "concept",
+		"title": "Te denken valt aan",
+		"description": "vaststellen welke groepen stoffen er in shampoo voorkomen, in een lessenserie over alledaagse chemie.",
+		"replaces": [
+			"efbbb37c-c0c1-4cf9-9f70-e4788dea0196"
+		]
+	},
+	{
+		"prefix": "t1",
+		"id": "0724f574-ab85-4fff-bfbd-155f5073b8c5",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"status": "concept",
+		"title": "Te denken valt aan",
+		"description": "aanvullen van de structuurformule van glucose bij een vraagstuk over voeding.",
+		"replaces": [
+			"187183cb-50af-4948-aab2-525de7edc01a"
+		]
+	},
+	{
+		"prefix": "t2",
+		"id": "09f8e6ba-1647-4662-b379-6d4b39d8c61b",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"status": "concept",
+		"title": "Te denken valt aan",
+		"description": "een reactievergelijking opstellen voor het maken van een batterij met elektroden van zink en koper.",
+		"replaces": [
+			"ded9cd12-b316-45ef-9312-8d7558c16bc7"
+		]
+	},
+	{
+		"prefix": "t4",
+		"id": "cf5c9945-4efc-4b98-9f19-57a408a6e458",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"status": "concept",
+		"title": "Te denken valt aan",
+		"description": "reacties ordenen aan de hand van de reactievergelijking, door te benoemen hoe protonen of elektronen zijn uitgewisseld.",
+		"replaces": [
+			"1fd79476-2bd4-4e92-90ef-797042d4a969"
+		]
+	},
+	{
+		"prefix": "t2",
+		"id": "bf355419-27dd-4820-9aba-ba71ea628968",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"status": "concept",
+		"title": "Te denken valt aan",
+		"description": "inschatten of de hoeveelheid oplossing in de buret voldoende is voor één titratie, in een lessenserie over titratie.",
+		"replaces": [
+			"d4cf0380-f467-48b3-bd72-0e4b29728aab"
+		]
+	},
+	{
+		"prefix": "t1",
+		"id": "79faad06-ffaf-4306-b4a1-a01390cf3efc",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"status": "concept",
+		"title": "Te denken valt aan",
+		"description": "een zelfgemaakte waterzuiveringsinstallatie vergelijken met het proces op industriële schaal, bij een vraagstuk over schoon milieu.",
+		"replaces": [
+			"5fc6a627-a4df-403b-82a3-62b46dc830e1"
+		]
+	},
+	{
+		"id": "a88bbc27-5805-43e4-a360-5b98ef496e68",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"status": "concept",
+		"title": "Te denken valt aan",
+		"description": "een presentatie geven over onderzoeksresultaten, bij een lessenserie over verf.",
+		"prefix": "t1",
+		"replaces": [
+			"c51598cd-5f7d-401e-b7ae-3418dac09e97"
+		]
+	},
+	{
+		"prefix": "t3",
+		"id": "e0097c4d-a8f3-498b-9412-d5dc6e40810c",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"status": "concept",
+		"title": "Te denken valt aan",
+		"description": "de betrouwbaarheid van een claim door een huidcrèmeproducent onderzoeken, bij een vraagstuk over alledaagse chemie.",
+		"replaces": [
+			"104b824b-652d-4270-b1b7-74d9e204498a"
+		]
+	},
+	{
+		"prefix": "t1",
+		"id": "ec4f3ade-172c-42f7-b4a0-8e042d2231a0",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"status": "concept",
+		"title": "Te denken valt aan",
+		"description": "een excursie ondernemen naar een waterzuivering, bij een vraagstuk over schoon milieu.",
+		"replaces": [
+			"c722d924-0229-40d8-b72b-81df918f696e"
+		]
+	},
+	{
+		"prefix": "t5",
+		"id": "852fca9e-a007-4513-9380-d7b1ecd8f09f",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"status": "concept",
+		"title": "Te denken valt aan",
+		"description": "na het maken van een bioplastic aangeven waar de leerling het meest trots op is.",
+		"replaces": [
+			"09b6effd-d315-44aa-8670-2880dde169ff"
+		]
+	},
+	{
+		"prefix": "t2",
+		"id": "76b116fd-80cd-47ad-87dd-052e1cda0d92",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"title": "Te denken valt aan",
+		"description": "in een tekening de atoombouw weergeven van lood-ionen in een les over schoon milieu.",
+		"replaces": [
+			"0c4a2605-5a90-4364-a31a-28defc3df6a0"
+		]
+	},
+	{
+		"prefix": "t3",
+		"id": "e2a12a46-7506-438f-96f7-9252b51e18ba",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"title": "Te denken valt aan",
+		"description": "de sterkte van de binding tussen een C- en F-atoom vaststellen aan de hand van het verschil in elektronegativiteit van beide atomen.",
+		"replaces": [
+			"287ce0e9-b298-400e-88b1-588ff707bf72"
+		]
+	},
+	{
+		"prefix": "t1",
+		"id": "7d29bf8a-baac-4908-bb9f-6654f2980813",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"title": "Te denken valt aan",
+		"description": "bij een vraagstuk over gezondheid de structuurformule van cafeïne tekenen en daarbij de karakteristieke groepen omcirkelen.",
+		"replaces": [
+			"1a923715-203d-4972-817c-958d72a48f07"
+		]
+	},
+	{
+		"prefix": "t5",
+		"id": "bf930ca2-33e5-41fa-9e73-dfa50599e5eb",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"title": "Te denken valt aan",
+		"description": "het effect van de verdelingsgraad op de reactiesnelheid toelichten in een practicumverslag.",
+		"replaces": [
+			"3ad44f85-4c6e-4a74-81c2-d34d8e61ecab"
+		]
+	},
+	{
+		"prefix": "t1",
+		"id": "1684d2b2-708e-4b24-a449-4447618886a4",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"title": "Te denken valt aan",
+		"description": "in een poster aangeven welke structuren en interacties in de stof kevlar leiden tot de eigenschap dat het geschikt is als kogelwerend materiaal.",
+		"replaces": [
+			"866e8eb2-9791-43a9-b791-4f9d6432ad73"
+		]
+	},
+	{
+		"prefix": "t2",
+		"id": "8327a388-22ee-44e7-a076-f72a236aeac7",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"title": "Te denken valt aan",
+		"description": "een reactor omschrijven als een systeem, in een vraagstuk over circulaire chemie.",
+		"replaces": [
+			"8361c8f6-c498-4223-86b4-ef2d741cc449"
+		]
+	},
+	{
+		"prefix": "t5",
+		"id": "c28f5682-1e45-4ce2-9b77-50c8dca32f24",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"title": "Te denken valt aan",
+		"description": "een verwachting over de werking van een zonnebrandcrème uitspreken op basis van patronen tussen samenstellingen en werking, bij een vraagstuk over alledaagse chemie.",
+		"replaces": [
+			"939a9c81-aed1-46a3-bbc4-ee9592b36a44"
+		]
+	},
+	{
+		"prefix": "t3",
+		"id": "143d9599-5f9c-401c-9313-cdec5a6210b4",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"title": "Te denken valt aan",
+		"description": "de betrouwbaarheid van een claim door een huidcrèmeproducent onderzoeken, bij een vraagstuk over gezondheid.",
+		"replaces": [
+			"e4bf23a3-784d-4e1d-9826-f12e19400b02"
+		]
+	},
+	{
+		"prefix": "t4",
+		"id": "bf7ec7d2-d40f-4181-9559-933868a85f1c",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"title": "Te denken valt aan",
+		"description": "in een lessenserie over reactiesnelheid als bevinding constateren dat het botsende-deeltjesmodel niet geschikt is om het effect van de katalysator te verklaren.",
+		"replaces": [
+			"c9bc98a5-05fa-43ce-b22f-af74a61b5065"
+		]
+	},
+	{
+		"prefix": "t3",
+		"id": "5a47b479-53f5-4bfe-8d3e-e00825ca98f4",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"title": "Te denken valt aan",
+		"description": "een gastles volgen en samenvatten van een medewerker van een chemisch bedrijf.",
+		"replaces": [
+			"77662e1d-b09b-4c1c-b635-acc197e3a0aa"
+		]
+	},
+	{
+		"prefix": "t1",
+		"id": "07c6c1d6-75db-4913-9443-7540cdf2ed9a",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"status": "concept",
+		"title": "Te denken valt aan",
+		"description": "bij een profielwerkstukpresentatie voor een derde klas uitleggen wat scheikundigen onderzoeken.",
+		"replaces": [
+			"80cac7df-5619-4c21-9a07-0fcc9ab363df"
+		]
+	},
+	{
+		"prefix": "t2",
+		"id": "6cc481dd-f3e6-43d2-821a-241741bac40a",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"status": "concept",
+		"title": "Te denken valt aan",
+		"description": "in een tekening de atoombouw weergeven van lood-ionen in een les over schoon milieu.",
+		"replaces": [
+			"91805cfb-9d66-487e-be26-4bdca88e6e41"
+		]
+	},
+	{
+		"prefix": "t3",
+		"id": "6132c6d2-5ac7-4219-bd54-cd29ec9f68cb",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"status": "concept",
+		"title": "Te denken valt aan",
+		"description": "de sterkte van de binding tussen een C- en F-atoom vaststellen aan de hand van het verschil in elektronegativiteit van beide atomen.",
+		"replaces": [
+			"9769f71e-6185-490f-9c80-2d54169d8109"
+		]
+	},
+	{
+		"prefix": "t4",
+		"id": "6d55b941-6292-47d1-9921-32fc47db1dbb",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"status": "concept",
+		"title": "Te denken valt aan",
+		"description": "bij een wijnsteenmolecuul aangeven welke en hoeveel stereoisomeren er mogelijk zijn.",
+		"replaces": [
+			"470551e9-30e2-47ac-8eb8-0dc0fc7746ee"
+		]
+	},
+	{
+		"prefix": "t3",
+		"id": "0c471873-2365-48f1-adc3-6762069fc152",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"status": "concept",
+		"title": "Te denken valt aan",
+		"description": "een gesprek voeren over de hypothese dat een combinatie van H-bruggen en het waterafstotende karakter van T,U,A en C verantwoordelijk is voor de helixvorming.",
+		"replaces": [
+			"7c74bd7f-f09e-4919-84b7-89ccc1838914"
+		]
+	},
+	{
+		"prefix": "t4",
+		"id": "fbea3b01-8cd6-4d59-adce-6919aa6039ba",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"status": "concept",
+		"title": "Te denken valt aan",
+		"description": "met posterpresentaties uitwisselen hoe stoffen op basis van Safe and Sustainable by Design kunnen worden geproduceerd door gebruik te maken van systeemdenken, causaliteit en levenscyclusanalyse.",
+		"replaces": [
+			"fa3fbd30-de1d-4c29-b9c1-9a72315b4bfc"
+		]
+	},
+	{
+		"prefix": "t1",
+		"id": "0b63b3a1-98ba-45a3-85e4-01c8dd6ed596",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"status": "concept",
+		"title": "Te denken valt aan",
+		"description": "aantonen dat een zelfgemaakte fijnstofmeter werkt omdat deze binnen een gewenste foutmarge hetzelfde meet als de fijnstofmeter die te koop is.",
+		"replaces": [
+			"e1d93f1a-c289-469b-bb3e-d340109cbfa2"
 		]
 	}
 ]
