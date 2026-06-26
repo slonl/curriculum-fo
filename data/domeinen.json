@@ -5477,25 +5477,6 @@
 		]
 	},
 	{
-		"title": "Domein C",
-		"description": "Denkwijzen",
-		"prefix": "C",
-		"id": "e1ab4d74-2731-4011-a2a9-25392c209154",
-		"fo_doelzin_id": [
-			"6e221d21-f03c-4d01-afe4-6118cee8804e",
-			"026b852d-5203-40af-a3c0-3e2a72ca42ff",
-			"b8cac917-3aee-4f95-b07d-9e0d104b324c",
-			"c7f4b241-9c71-4a62-b4c9-7339f512f94a",
-			"b6eb0a56-90d0-4981-8c41-009a7684bf14",
-			"bf00ab3a-ec62-4f7f-8bf9-27490f8ad210",
-			"5f736070-989b-4ac7-827a-8cfc85fc3e77"
-		],
-		"replaces": [
-			"98b3f35d-03c5-48b4-a94a-74424452229f",
-			"935b1bb2-12d4-4857-858a-7c8625a4e756"
-		]
-	},
-	{
 		"title": "Domein F",
 		"description": "Zelfontwikkeling",
 		"prefix": "F",
@@ -5524,25 +5505,6 @@
 		"replaces": [
 			"566d9856-7648-4743-aab6-e83a8a2d4018",
 			"853226d6-c7e5-43a5-a248-b443e71f0aec"
-		]
-	},
-	{
-		"title": "Domein C",
-		"description": "Denkwijzen",
-		"prefix": "C",
-		"id": "9060ad04-0853-4880-bf85-917581895bf0",
-		"fo_doelzin_id": [
-			"d389647e-f085-494d-b4b1-3bc0d138a0e0",
-			"072aed68-30fb-40ea-ad79-885dfac26650",
-			"ae3fb141-ab6c-4a85-9855-c3b54e5369cb",
-			"8a9f35bb-279c-447d-b1eb-ff934955c446",
-			"e828c6c9-967a-4638-ba88-5583f5ba4521",
-			"92253ed3-8200-4428-9afa-f1c499078cce",
-			"aac2eb91-af25-43a1-a75d-e9aa2cd718a9"
-		],
-		"replaces": [
-			"8e8c0484-8141-4519-9fad-87cd129172ca",
-			"49f5aab5-96e2-4e2b-930d-789dbce0c5bb"
 		]
 	},
 	{
@@ -5577,25 +5539,6 @@
 		]
 	},
 	{
-		"title": "Domein C",
-		"description": "Denkwijzen",
-		"prefix": "C",
-		"id": "f39d6339-8850-4966-a054-c91801e938c3",
-		"fo_doelzin_id": [
-			"998ed4e0-373f-401a-87d6-ed9580b500a7",
-			"318c4f62-96e6-42f1-8844-bc84b8f69009",
-			"55b52985-f3cd-48e5-bd88-cf66ef976872",
-			"a5113c18-be6c-4b46-96e1-ccb69d0cd1c4",
-			"c3f9fc6c-772c-4503-9f4a-425b32153a45",
-			"70ab9801-f7c1-47ec-a7a1-9abf5d40e7f5",
-			"85857a92-5402-4e6d-8825-8a815053888e"
-		],
-		"replaces": [
-			"873ea5b1-f00f-4d70-b706-44f149ff5726",
-			"9bd48663-d790-4851-a544-505466eff798"
-		]
-	},
-	{
 		"title": "Domein F",
 		"description": "Zelfontwikkeling",
 		"prefix": "F",
@@ -5624,26 +5567,6 @@
 		"replaces": [
 			"23f18997-19a3-4043-8741-4d6ca5f3ac17",
 			"b29a9d0d-5334-47d1-8981-15fca8ccdce0"
-		]
-	},
-	{
-		"title": "Domein C",
-		"description": "Denkwijzen",
-		"prefix": "C",
-		"id": "2b903dd0-7d17-4711-b63a-c1adb37706a3",
-		"fo_doelzin_id": [
-			"3677f52d-23c4-4541-a9eb-1238ff5f29e9",
-			"22cf9722-9169-4ea4-828f-a06a2caaf9dc",
-			"e9c276ca-aa5d-43a6-bea5-023124ed76af",
-			"6f115a7d-17bb-455c-a026-029240d7eedc",
-			"0e26cb3d-7e52-4eda-8082-4a77288c3c77",
-			"3ebe7f7a-46b9-44e0-9e15-d8a829f68c07",
-			"9c75d8b9-1ce8-4189-9fc8-50895a0ca028",
-			"cfacc3c1-55a4-4432-813f-8439703ce341"
-		],
-		"replaces": [
-			"95970d32-5788-491d-ae95-8e4c6cd75aa5",
-			"ca24a037-ad97-4759-8af4-c1d5f4c2bb60"
 		]
 	},
 	{
@@ -5678,26 +5601,6 @@
 		]
 	},
 	{
-		"title": "Domein C",
-		"description": "Denkwijzen",
-		"prefix": "C",
-		"id": "c8d2ac35-b405-4303-8695-ad146454900e",
-		"fo_doelzin_id": [
-			"d31d421f-d649-4617-8d04-aaf01ec7f592",
-			"aa03b3b2-bf09-47bb-a407-183ee9b3badd",
-			"bf6547ed-a6cd-4dcb-8888-acea088684fa",
-			"3f8f72dc-9c49-490d-8e77-b5946d1d3495",
-			"3d10399f-3322-453b-b054-58c00e6306fe",
-			"39bdc93d-b20b-4501-ab51-60c52530d26f",
-			"0086b42b-e0ae-4f3d-935d-81d8ba59356c",
-			"51dae2f8-18b4-4ba1-af75-a5143ab0bccc"
-		],
-		"replaces": [
-			"75d40c1a-f500-43f5-9b69-a7550d5c2c7c",
-			"f0101014-884c-4cfc-af50-6b65fee98411"
-		]
-	},
-	{
 		"title": "Domein F",
 		"description": "Zelfontwikkeling",
 		"prefix": "F",
@@ -5726,24 +5629,6 @@
 		"replaces": [
 			"2748e73a-4e7a-4d10-b859-35a3e72db601",
 			"9bc70f17-27a6-4a8c-a5e2-4e849f0e693e"
-		]
-	},
-	{
-		"title": "Domein C",
-		"description": "Denkwijzen",
-		"prefix": "C",
-		"id": "a58941da-2c31-40f1-b682-45ee5cc8c140",
-		"fo_doelzin_id": [
-			"e00ed0db-6784-4c93-9f4f-8d14fe33bb54",
-			"219e3bbe-c02a-4c99-bd9f-6daf9f933870",
-			"e9d6e74d-ba11-4d47-9f03-28513a5a70ac",
-			"aa74653b-fd1c-4c10-b4d0-536b9a32155f",
-			"3efb2822-f166-4d43-ba0a-b3cc0e00a9ae",
-			"99162bce-0fda-4613-ae03-9ab504906e55"
-		],
-		"replaces": [
-			"5ec5f08d-35e3-4e41-b14e-792626ab120c",
-			"898c08d0-1bd6-447c-affe-f131556bcf8a"
 		]
 	},
 	{
@@ -5778,24 +5663,6 @@
 		]
 	},
 	{
-		"title": "Domein C",
-		"description": "Denkwijzen",
-		"prefix": "C",
-		"id": "fe788ae9-f39a-4c8c-b00d-373e2a3cee01",
-		"fo_doelzin_id": [
-			"af1f676a-b1a6-4f8d-a153-83ef761f05f5",
-			"b96e11a1-0bef-4993-8b12-9876c7b7b701",
-			"78209e03-ce29-465a-a740-97bdce51adf8",
-			"3094c895-b884-4f24-af4e-85ce7d4cb18d",
-			"1a309cc0-f549-436a-9dc2-72d126c45547",
-			"825705dc-c1f2-4b59-872b-3d77058976f3"
-		],
-		"replaces": [
-			"9d6e052d-a0a3-4c7f-aadc-bb94be6df03f",
-			"afcc1309-efb9-4fa8-b09c-dc96eab2bb98"
-		]
-	},
-	{
 		"title": "Domein F",
 		"description": "Zelfontwikkeling",
 		"prefix": "F",
@@ -5824,24 +5691,6 @@
 		"replaces": [
 			"9691cd91-a24b-453d-9ef5-37cd99df9e34",
 			"f94c7ca7-018d-46d1-a588-7cde84bf703e"
-		]
-	},
-	{
-		"title": "Domein C",
-		"description": "Denkwijzen",
-		"prefix": "C",
-		"id": "8a719428-efe2-4d79-b1ae-1788620af168",
-		"fo_doelzin_id": [
-			"8eff0832-bb73-4e8d-bca4-486966d2389d",
-			"df96c6a2-7cec-4139-aeba-f822a45e2fa9",
-			"ee024c40-3855-48f2-8cd5-002a5979e86e",
-			"f09b239f-53b3-4442-9f51-e59bcd498e66",
-			"0193a2af-a8d5-4ada-b2ae-b11d14b5be8b",
-			"31af95e5-dd68-429e-a984-5ff964f46bbf"
-		],
-		"replaces": [
-			"32523b56-dc86-4823-a5e1-896cef926eaa",
-			"4f9716d9-f644-43a6-93e3-8460d931832b"
 		]
 	},
 	{
@@ -5876,25 +5725,6 @@
 		]
 	},
 	{
-		"title": "Domein C",
-		"description": "Denkwijzen",
-		"prefix": "C",
-		"id": "c136cf82-d6df-41ce-ae57-314c94d5a230",
-		"fo_doelzin_id": [
-			"7c716baa-6d3b-4016-9e3f-1801c3241447",
-			"3ebd5f76-063d-496d-a5ca-52f751df65b1",
-			"1afefa8b-f19d-44fb-905a-fad82d66b69a",
-			"14685f89-11ce-4bd3-8a11-947b2dc526c8",
-			"557f13a6-c3ae-4197-9a48-06072747bd2f",
-			"fb98d86b-8ed0-44b7-9cdc-6b2e5031b5ca",
-			"17d86ac0-f77e-4702-9ca5-d7c43a19b2b2"
-		],
-		"replaces": [
-			"cf10a57c-c106-4d3e-8a7e-b6a0bb0ebf06",
-			"deb8094f-ee3a-4769-b1d2-7db1f82b76c4"
-		]
-	},
-	{
 		"title": "Domein F",
 		"description": "Zelfontwikkeling",
 		"prefix": "F",
@@ -5926,25 +5756,6 @@
 		]
 	},
 	{
-		"title": "Domein C",
-		"description": "Denkwijzen",
-		"prefix": "C",
-		"id": "09ae2ed3-3c8c-4314-a7ba-5d7b2f531b7c",
-		"fo_doelzin_id": [
-			"8b8a951a-d13d-49a9-bbdb-8810cf99c646",
-			"ed524dc7-34f9-470a-a75b-55175346235b",
-			"38e4bc17-0364-4e74-ba54-98a97a21bb84",
-			"919209af-05eb-4507-88dc-5f18cd773abb",
-			"8297a750-d4a5-445a-a460-8e1263f2b663",
-			"c057f091-da08-41cc-bd67-555a19c31208",
-			"bf0d0b8b-8727-457e-a43e-d2249d333d3f"
-		],
-		"replaces": [
-			"dc092a29-9d0e-4119-8c5d-7470929f2117",
-			"0ee78953-d9d6-425c-86eb-b068ef19f976"
-		]
-	},
-	{
 		"title": "Domein F",
 		"description": "Zelfontwikkeling",
 		"prefix": "F",
@@ -5957,38 +5768,6 @@
 		"replaces": [
 			"21d2b250-bf89-47d9-bd4f-6682978512c4",
 			"a8cd6d41-88f4-47c3-87f4-16abf66e6f90"
-		]
-	},
-	{
-		"title": "Domein A",
-		"description": "Aard van de natuurwetenschappen en technologie",
-		"prefix": "A",
-		"id": "1ad863af-1865-4d47-b849-38fb85bec7d9",
-		"fo_doelzin_id": [
-			"eb845c21-84e8-4abc-be5f-dc678f559ec7",
-			"5b4e3cd1-6716-4945-bfed-7d7a4b400146",
-			"c4925430-ec74-438e-910a-19dc017984d6",
-			"726ea6ee-fd67-4e6c-a475-ecd6798205aa"
-		],
-		"replaces": [
-			"fc46898c-ef25-4e67-9317-8bbbd23563ef",
-			"dec98ce0-2e2f-4db4-bdb8-4e4d535d8d22"
-		]
-	},
-	{
-		"title": "Domein C",
-		"description": "Denkwijzen",
-		"prefix": "C",
-		"id": "0151798b-f70a-468f-8f12-34a258144af6",
-		"fo_doelzin_id": [
-			"d91c5db4-ad7f-4ac3-a854-84db9b90bb9e",
-			"d8cbb425-1c0c-4152-af59-cc8045f1ec6a",
-			"6be68675-acdf-4156-9823-c5b406098a01",
-			"fd76f5c6-de48-4c29-ba96-b305012bb2bc"
-		],
-		"replaces": [
-			"40d064ce-6254-41c7-8e26-fd1b068dfb50",
-			"912d2c4c-7fb5-4070-8453-6c2501b32846"
 		]
 	},
 	{
@@ -6023,25 +5802,6 @@
 		]
 	},
 	{
-		"title": "Domein C",
-		"description": "Denkwijzen",
-		"prefix": "C",
-		"id": "8f8e0fbb-0548-4df2-a992-a2d4eda3df2a",
-		"fo_doelzin_id": [
-			"620db331-6d5d-40af-9c84-5aa3178d1dae",
-			"5edcd1d2-9b8a-4302-9a97-429b68c4d144",
-			"b40934c4-fb0d-46a4-b8d6-6ac3c64dd897",
-			"0e4fff77-fea3-4140-a100-6d18792c45fd",
-			"7c736f34-a644-45ca-bf43-4a4efff6f3be",
-			"e13c8472-a54a-4be8-a260-2d74e97c9261",
-			"927bd0c1-ad49-4bb0-98fc-2b78b4fa3f10"
-		],
-		"replaces": [
-			"f9bf73fb-d0e0-4985-a088-8dfb85e723ce",
-			"c11c67f6-8044-460f-aa01-c0e9abf45157"
-		]
-	},
-	{
 		"title": "Domein F",
 		"description": "Zelfontwikkeling",
 		"prefix": "F",
@@ -6073,25 +5833,6 @@
 		]
 	},
 	{
-		"title": "Domein C",
-		"description": "Denkwijzen",
-		"prefix": "C",
-		"id": "cc5059e1-e856-4818-b41e-9d31d9e16cc1",
-		"fo_doelzin_id": [
-			"cc5e9be0-5a47-4879-a86d-e9c6faa53ab0",
-			"fe8dac0e-d7c5-4f1f-9023-dc94176f239c",
-			"f0b8b057-2a29-41b9-a162-a59b5dc21dc2",
-			"d6a51d42-e971-4432-83f7-b2b173f4eb10",
-			"c80d69c4-e83f-449c-ae47-43b434149fc5",
-			"f09c39db-848b-4376-9b04-123a786cdfef",
-			"8bb73ccd-536e-4e09-a27b-5c074a9396c2"
-		],
-		"replaces": [
-			"623e2e31-1b66-4bcd-8c11-a5ea8e6dde93",
-			"30cb1c15-99b6-43c6-ae07-3d03ceac4caa"
-		]
-	},
-	{
 		"title": "Domein F",
 		"description": "Zelfontwikkeling",
 		"prefix": "F",
@@ -6104,25 +5845,6 @@
 		"replaces": [
 			"925b6dd8-9b21-4346-8126-17ff946cd6af",
 			"870fcd21-97bb-4479-94a0-71d0015b02de"
-		]
-	},
-	{
-		"title": "Domein B",
-		"description": "Concepten",
-		"prefix": "B",
-		"id": "83518b93-74f3-49a6-b20e-b2f9f2649a18",
-		"fo_subdomein_id": [
-			"142271e5-7201-4997-ad5f-1ecd89f37cc3",
-			"94c4be21-d216-4f91-ae60-63c063015110",
-			"aa944e53-97cb-42d3-bd67-b85079065483",
-			"7963e598-414b-4ea3-8c76-c2922b1ddf93",
-			"8595f255-fa74-46d0-b505-de92a638c99b",
-			"1ddfcbdd-e116-4891-a524-e27de7ce52ec",
-			"b8f6495a-4fac-4188-b256-084a32905531"
-		],
-		"replaces": [
-			"b2c7afc2-a589-469a-8b87-85f216862fb9",
-			"7444af44-cca9-47f3-8a7f-7822089eef6d"
 		]
 	},
 	{
@@ -6140,39 +5862,6 @@
 		]
 	},
 	{
-		"title": "Domein E",
-		"description": "Werkwijzen",
-		"prefix": "E",
-		"id": "11bb4602-0005-4b13-8e25-79772c679b9e",
-		"fo_subdomein_id": [
-			"4e459b42-90ef-4e69-9bf8-72d3a378b771",
-			"8cd96247-524a-4182-9dce-22839cb2b6cc"
-		],
-		"replaces": [
-			"fb03e4f3-88ac-45b8-9eac-c29e62205033",
-			"8eeb1bd3-5fe1-4b57-8f63-4c82e87ef0cf"
-		]
-	},
-	{
-		"title": "Domein B",
-		"description": "Concepten",
-		"prefix": "B",
-		"id": "84a0419a-593d-4e71-a1d7-4c72505a0449",
-		"fo_subdomein_id": [
-			"787da202-7cb7-4d92-80bc-0c88323e3c60",
-			"14c6475d-512a-4e8c-ab1f-fc68f70844c7",
-			"242255e9-5182-4128-89eb-d83f4afe453f",
-			"3508e2fd-4d09-4796-966b-ddbdf97c2510",
-			"7dc4dadf-733e-4157-9546-a6d3d8e0d7f6",
-			"bbfa0d97-b703-4f23-94a1-3b4513583881",
-			"917be900-2f1a-4b3b-a8c4-04409700a77e"
-		],
-		"replaces": [
-			"68793924-ec98-4854-86ab-a32e5917d4c5",
-			"c8a8bacf-c135-46c6-8f98-d84e4546c727"
-		]
-	},
-	{
 		"title": "Domein D",
 		"description": "Vraagstukken",
 		"prefix": "D",
@@ -6184,40 +5873,6 @@
 		"replaces": [
 			"c08852bf-959f-40bb-9a6b-20804b0db747",
 			"4dc9d0cc-0322-4ffd-a4ee-85586b1daefc"
-		]
-	},
-	{
-		"title": "Domein E",
-		"description": "Werkwijzen",
-		"prefix": "E",
-		"id": "d1503277-732b-4829-bebe-4c89523314a8",
-		"fo_subdomein_id": [
-			"78122124-a529-45f5-a1be-dda9fd3bc390",
-			"fb5a4761-2aa0-429b-ba91-d9687a3634f7"
-		],
-		"replaces": [
-			"02fce159-3d15-426a-bbd9-b4bbea3ebed1",
-			"9e98ea8d-9aab-404d-b385-8590adffc896"
-		]
-	},
-	{
-		"title": "Domein B",
-		"description": "Concepten",
-		"prefix": "B",
-		"id": "f89f1bc3-05ec-4aa1-a314-c2951ccce1ba",
-		"fo_subdomein_id": [
-			"df27cab4-db06-4ae1-ac66-4b729ac393b7",
-			"777310ee-21e9-48f6-a915-d72044289781",
-			"1232420a-ec29-4a0e-b659-13ce8f478e4f",
-			"dc89d28f-971f-41df-b838-fe1214d17b75",
-			"c670ad60-2294-4245-b99d-5bcb2c861aa3",
-			"e5f30d5c-5e1b-4403-ae6a-569852503034",
-			"aeeb7ad5-977d-4d53-80b6-cd82b6326be3",
-			"741bb32a-81b5-4732-bd40-e0ca225bfaf9"
-		],
-		"replaces": [
-			"7d1624cd-9b76-49e3-9fb8-dbacb8f8ac6c",
-			"a1ddc5be-172a-4d3b-b37b-7b4e441580a4"
 		]
 	},
 	{
@@ -6235,40 +5890,6 @@
 		]
 	},
 	{
-		"title": "Domein E",
-		"description": "Werkwijzen",
-		"prefix": "E",
-		"id": "2b3a597f-0f3c-4547-a9e9-2f7b252c617d",
-		"fo_subdomein_id": [
-			"c23572bc-c360-466b-b829-c4eb2e2711da",
-			"f6fe2dcf-62ab-4949-9561-0b760cc3754b"
-		],
-		"replaces": [
-			"e0d28831-56c3-482b-a42c-942c0952a0dc",
-			"0e3d622b-eec7-4186-9574-101689b218bd"
-		]
-	},
-	{
-		"title": "Domein B",
-		"description": "Concepten",
-		"prefix": "B",
-		"id": "3cf4bef8-8b48-40b3-b4c1-f0d430c5ab7d",
-		"fo_subdomein_id": [
-			"73571717-5310-4a87-b68b-d53240b44696",
-			"db3a1c49-0f2b-439d-9fcc-bdb16aaf4866",
-			"72d92538-b555-466a-83ca-c51cec27421e",
-			"9ce95d2d-27e9-423b-8cb3-a9d82d89a981",
-			"ad681e31-9bde-484a-bb10-a296fcefb080",
-			"318e367a-5ab2-421d-bfc5-baa3cf1419b5",
-			"1189c21c-0faa-460d-838b-7fd6e2d263e2",
-			"93855b2a-c60b-4d4d-8d28-7046126d154b"
-		],
-		"replaces": [
-			"7f65e08d-f412-493b-b176-d437355eb248",
-			"e1e50578-9516-4527-861f-ac4e8002e7da"
-		]
-	},
-	{
 		"title": "Domein D",
 		"description": "Vraagstukken",
 		"prefix": "D",
@@ -6280,41 +5901,6 @@
 		"replaces": [
 			"cba0ad81-248e-434e-9e45-7d7cd579f5f5",
 			"c263f624-e67b-4c3f-8768-1c8bd8d7a290"
-		]
-	},
-	{
-		"title": "Domein E",
-		"description": "Werkwijzen",
-		"prefix": "E",
-		"id": "8a4187c0-5432-46c5-84cd-886d1d0d407b",
-		"fo_subdomein_id": [
-			"3fddc32f-9725-4c23-86a5-71dc0dd452d2",
-			"430647df-b4b2-4b1f-a7f9-62d2a92be64f"
-		],
-		"replaces": [
-			"19cef084-207a-4a70-bf7d-2a32d6a63314",
-			"9c3db89e-61db-46c9-b14c-0a51b9dd5ad3"
-		]
-	},
-	{
-		"title": "Domein B",
-		"description": "Concepten",
-		"prefix": "B",
-		"id": "4d3ea516-e261-4e1d-8cca-5ec14dcfa3b1",
-		"fo_subdomein_id": [
-			"48721e70-09f9-47a0-b459-1b0b7a7cd82d",
-			"f9d8a105-4661-4fc9-be32-cf419e79c9a4",
-			"5f53cec5-f53d-470c-8350-2a2fa4918cf6",
-			"0c8c3f0f-8dd1-41d0-8691-886c92a516b7",
-			"be031e0e-eede-4410-a7ac-e287fd8bb81b",
-			"12111318-e9e3-4eb6-ada4-607d03e8741d",
-			"ba12f31a-aa44-4fef-bac9-4d603a7629e8",
-			"cab43ba3-b695-434c-a6c6-69d18cfcd762",
-			"80bb3c9e-29e0-4e6b-9301-63aeb555fe04"
-		],
-		"replaces": [
-			"6508925b-5efc-4349-9f5b-47a5484b9f73",
-			"c9407747-4e9c-485b-ad36-bad471b79eb6"
 		]
 	},
 	{
@@ -6332,39 +5918,6 @@
 		]
 	},
 	{
-		"title": "Domein E",
-		"description": "Werkwijzen",
-		"prefix": "E",
-		"id": "50c3a394-1555-4550-85d0-f26e16650d02",
-		"fo_subdomein_id": [
-			"2abdfbfd-50cf-434b-b187-39434f5bf9bf",
-			"fd48eeb5-0647-4291-a04e-f0296699fbc0"
-		],
-		"replaces": [
-			"439dcf58-78aa-4088-b07f-31e8ab1a7bde",
-			"f98e0cfd-c796-4720-a8b0-9f83fa54916f"
-		]
-	},
-	{
-		"title": "Domein B",
-		"description": "Concepten",
-		"prefix": "B",
-		"id": "df967fb2-ff3f-44f2-8375-1a7c882bc61f",
-		"fo_subdomein_id": [
-			"655bf589-2ab1-44ae-9c27-2a24f35be386",
-			"3f519393-0b2f-4529-bce2-9b09b79b496b",
-			"67290ba6-d3bb-4f4b-bad1-3f3ab3033476",
-			"ed585eb7-2978-4c4f-8b15-8df100bee86c",
-			"e01d0986-2398-40e6-940f-6cf882e8ef67",
-			"90a57587-800e-4197-99de-4ba16316d4d1",
-			"268a9fe0-bf04-4450-8b59-c82d2ba22115"
-		],
-		"replaces": [
-			"bc718a6f-abda-48af-8ba6-ccb025957760",
-			"aab1e6f5-69fd-44fe-be2e-9ac388c0c106"
-		]
-	},
-	{
 		"title": "Domein D",
 		"description": "Vraagstukken",
 		"prefix": "D",
@@ -6379,39 +5932,6 @@
 		]
 	},
 	{
-		"title": "Domein E",
-		"description": "Werkwijzen",
-		"prefix": "E",
-		"id": "70f3599b-8ab7-4f5d-8e1d-46330a276935",
-		"fo_subdomein_id": [
-			"fe93492c-2df2-406a-97aa-9662f4e87054",
-			"a56f5435-aeb2-4828-92b6-12f22e4d959d"
-		],
-		"replaces": [
-			"090da0fc-24ae-4ec7-a2cf-02b2e74b715e",
-			"f28c3407-e829-4a96-a3be-1573e5482b7f"
-		]
-	},
-	{
-		"title": "Domein B",
-		"description": "Concepten",
-		"prefix": "B",
-		"id": "25937db1-bec5-45ea-889c-1cb5e69271ec",
-		"fo_subdomein_id": [
-			"fed0f09f-e2f0-4f00-a5a4-a8b6a7780a28",
-			"290eaa92-f6ec-4939-a18b-49a5acd77edc",
-			"618950d5-75b2-4702-9c49-4032090e2f2a",
-			"8792d954-55c6-430e-98d2-64e42f787cc1",
-			"4789f626-2d79-4b2b-baa2-6e7e782146dd",
-			"4819bd54-9f31-417a-8a22-d44e70fb0a50",
-			"d94d2966-6378-4704-8494-e4b8833d01d0"
-		],
-		"replaces": [
-			"e6458316-a8b4-4148-8aff-a1295efe67bb",
-			"c561bad0-aa49-4996-be56-c390875eae33"
-		]
-	},
-	{
 		"title": "Domein D",
 		"description": "Vraagstukken",
 		"prefix": "D",
@@ -6423,20 +5943,6 @@
 		"replaces": [
 			"f788f6c3-298b-473b-bc54-fa9a75ee64b1",
 			"4211784b-5477-4c46-967c-3086ac318093"
-		]
-	},
-	{
-		"title": "Domein E",
-		"description": "Werkwijzen",
-		"prefix": "E",
-		"id": "482c0f6f-66af-4706-bc39-feab480779f5",
-		"fo_subdomein_id": [
-			"f0e7f710-f912-41f8-a11f-a18bc3b2000d",
-			"354dd47c-21d9-4536-a231-5bef3665cba8"
-		],
-		"replaces": [
-			"08f5dca9-0c4a-4871-a4cb-bf3fb70677a7",
-			"f2a0b609-aad7-49d7-a2d7-126cdcd1b8b6"
 		]
 	},
 	{
@@ -6474,20 +5980,6 @@
 		]
 	},
 	{
-		"title": "Domein E",
-		"description": "Werkwijzen",
-		"prefix": "E",
-		"id": "8062f4c9-9363-44ce-ae5f-353eef2e40f6",
-		"fo_subdomein_id": [
-			"b408b05c-c970-48f3-93b2-13e560d8db15",
-			"c315d5c6-3096-4570-b858-8ffe77ebf46c"
-		],
-		"replaces": [
-			"123edcbb-f4af-4abe-ac2b-78ba38fd7fc9",
-			"7633754f-b97c-4a96-ac33-71a93c2ef8c3"
-		]
-	},
-	{
 		"title": "Domein B",
 		"description": "Concepten",
 		"prefix": "B",
@@ -6520,37 +6012,6 @@
 		]
 	},
 	{
-		"title": "Domein E",
-		"description": "Werkwijzen",
-		"prefix": "E",
-		"id": "268d3e5c-66c3-4ffb-bec9-7e37e82b2d78",
-		"fo_subdomein_id": [
-			"dce7ed63-9098-437a-8e63-8eb34df5d062",
-			"a732a27d-d122-4197-a9ca-578507187f28"
-		],
-		"replaces": [
-			"cb7be1ad-35cf-406b-a783-099f48b44a87",
-			"9e614fdd-1099-4955-83b2-6277eb7d4566"
-		]
-	},
-	{
-		"title": "Domein B",
-		"description": "Concepten",
-		"prefix": "B",
-		"id": "8fe97339-472f-4c3a-af15-e4859448328b",
-		"fo_subdomein_id": [
-			"4601b87e-4d4c-4669-83d8-83ac1fd48938",
-			"f9dcb1da-36e4-412e-a9fe-9c1c902cf5d5",
-			"6e7015bf-efeb-4ecb-bb2f-7ef76d5198db",
-			"630736b2-6b79-4a9e-a7da-a2bb86eb30e1",
-			"f34e30fd-d8fa-44ba-9264-8ca6d69a0703"
-		],
-		"replaces": [
-			"4a1e1155-d825-44ec-987e-9c83e4be553a",
-			"07949b6a-3208-4b5d-8339-03ddd6a34dc7"
-		]
-	},
-	{
 		"title": "Domein D",
 		"description": "Vraagstukken",
 		"prefix": "D",
@@ -6562,162 +6023,6 @@
 		"replaces": [
 			"5b114735-df19-4191-97d6-d02e2b319581",
 			"8056d08a-e620-45ba-956a-efadc82faff4"
-		]
-	},
-	{
-		"title": "Domein E",
-		"description": "Werkwijzen",
-		"prefix": "E",
-		"id": "b5132043-0b4e-48b9-83c3-afcf0206e596",
-		"fo_subdomein_id": [
-			"12628029-a2ac-4801-9019-5e4e2e0171da",
-			"62ce2015-fb54-444c-a260-fbdaa4988b6f"
-		],
-		"replaces": [
-			"1aa020fc-9b73-4d88-b891-475b2eba243b",
-			"f9eb07eb-57ed-45ae-8d25-9023728df6d4"
-		]
-	},
-	{
-		"title": "Domein B",
-		"description": "Concepten",
-		"prefix": "B",
-		"id": "0495b2b2-af0e-4c1e-bf66-44fa1f23c8f8",
-		"fo_subdomein_id": [
-			"8f624984-abc6-40fa-8fbd-d14c66a8409a",
-			"90a3bc77-552b-43e1-b9fb-b9d0543111cf",
-			"a2ea0ab1-1203-4d6a-af98-61ba40e48545",
-			"749a45e2-9673-4ed6-821f-ba69c7b741dc",
-			"440f1373-092d-48b9-81de-28fcae8fb915"
-		],
-		"replaces": [
-			"1efeae88-4210-4149-a9e7-d269fbad54c1",
-			"4b52507e-db72-4dfa-b993-d436c38c0244"
-		]
-	},
-	{
-		"title": "Domein D",
-		"description": "Vraagstukken",
-		"prefix": "D",
-		"id": "e2aec1aa-10f3-4186-b424-6e54e8c07508",
-		"fo_subdomein_id": [
-			"e8c3dead-67c7-48be-b4a2-0e5fee362de5",
-			"32aa40cf-cecb-46aa-9800-d47ca13df66d",
-			"50424709-ae45-4eaa-addb-1b417074dc5c",
-			"9b06e6a5-6bd8-4b8c-8e4a-fa7aa87c5810"
-		],
-		"replaces": [
-			"2ff1a9a8-320e-413c-b398-f61a1f2927cb",
-			"6ccc38f4-4945-4418-a4ee-8334a7eab89d"
-		]
-	},
-	{
-		"title": "Domein E",
-		"description": "Werkwijzen",
-		"prefix": "E",
-		"id": "ff68de3d-b317-4f03-8561-f3e8d01e6ce7",
-		"fo_subdomein_id": [
-			"b7f4b38d-6a2d-469e-a390-61a4c01e1142",
-			"b28b6cb9-c673-4b5a-a3e8-a1ac2575d2d2"
-		],
-		"replaces": [
-			"c014bdd0-bbea-443b-830e-4347b4ecf653",
-			"c8c3a0ea-c6e7-4b40-8e8e-43e2902a7bba"
-		]
-	},
-	{
-		"title": "Domein B",
-		"description": "Concepten",
-		"prefix": "B",
-		"id": "bfccc294-4d35-41a0-9615-4f8d550d0159",
-		"fo_subdomein_id": [
-			"5f023896-2e38-4e5d-9d3d-943bd0bf5585",
-			"b4df506a-1239-403d-99fd-fe29edf7642b",
-			"23be39b6-5535-4d26-8941-ed5080ae6413",
-			"0210dba4-12a9-451a-a937-39d2f1fbe15e",
-			"42ab9575-3a01-486e-9c5f-8a6a872e3d75"
-		],
-		"replaces": [
-			"928b4913-0578-44b7-a9ad-cfc6b7bce085",
-			"78117bf8-d62d-465f-a32c-350979738275"
-		]
-	},
-	{
-		"title": "Domein D",
-		"description": "Vraagstukken",
-		"prefix": "D",
-		"id": "0dd392f4-07eb-42e2-a1a1-82a839a9eedc",
-		"fo_subdomein_id": [
-			"effe6f6a-4b67-4878-8df7-28fee5395467",
-			"16c8e852-89c9-48ee-9de2-e2370b432d51",
-			"8fa0d562-f9c6-49fe-97c4-96e25da72220",
-			"02707613-2779-447b-9c6f-e692a5255d6a"
-		],
-		"replaces": [
-			"a005b0e3-0eb9-412a-a72c-94e87ffc90ad",
-			"eca8455a-8759-4d8d-9cd8-6f743f8d7718"
-		]
-	},
-	{
-		"title": "Domein E",
-		"description": "Werkwijzen",
-		"prefix": "E",
-		"id": "89380434-eda4-419e-aac1-44837d39eb0a",
-		"fo_subdomein_id": [
-			"cbb434bf-b07d-4f37-96ea-75dd3cff5605",
-			"84618fd7-ef81-4d0b-9d05-3e04c315f8f8"
-		],
-		"replaces": [
-			"e0eaf5f9-266b-46ff-8363-cfec928e9978",
-			"75cce880-5de2-4872-a973-b3b6e05601cc"
-		]
-	},
-	{
-		"title": "Domein B",
-		"description": "Concepten",
-		"prefix": "B",
-		"id": "45639df7-bae4-4b06-a856-909c8f8d3f21",
-		"fo_subdomein_id": [
-			"26d96e8e-984a-4d66-bec9-1036e73f3d31",
-			"c69691d7-4f4e-4715-acb8-147c01740a31",
-			"da9beb20-1def-460b-9454-52c1dd45b90d",
-			"638ca872-b845-47bb-b8c7-d45bf757f8b2",
-			"c6b9def2-39d4-45dc-a22b-4864320853e9",
-			"4aff9a0a-bf3e-4f4d-ac2f-e679ee47c879",
-			"1792419d-32a1-4190-9308-34c778fadd0d"
-		],
-		"replaces": [
-			"779a4187-5225-431d-b733-214cd167fb43",
-			"d8f3907a-82d5-4abf-b147-d3fc26493eee"
-		]
-	},
-	{
-		"title": "Domein D",
-		"description": "Vraagstukken",
-		"prefix": "D",
-		"id": "cab6784c-a7c5-429f-9e06-0930a8fcb47d",
-		"fo_subdomein_id": [
-			"7d7c2824-e67f-414f-92c0-a600056ab472",
-			"f8592006-d9b1-4eba-9687-0e21bf8adfd2",
-			"f5d35abd-6153-4938-829b-8ba4ecb6f219"
-		],
-		"replaces": [
-			"75d128fd-569a-4db2-a035-3b9daabaf951",
-			"c3613002-a8ef-4ed6-bf25-b162ab095c55"
-		]
-	},
-	{
-		"title": "Domein E",
-		"description": "Werkwijzen",
-		"prefix": "E",
-		"id": "e3502167-358e-4d6c-8aaf-bde9dcd74ff4",
-		"fo_subdomein_id": [
-			"e0d2adcf-b4ae-4331-81b8-0f6d3d48751b",
-			"572bb0a9-d718-490c-9002-c638bebe85ab"
-		],
-		"replaces": [
-			"4ee5e1cf-cb9a-44e1-a419-9745f974ea25",
-			"c2c44103-2d5f-446e-ae07-2a91a5a34c3c"
 		]
 	},
 	{
@@ -6744,6 +6049,742 @@
 		"replaces": [
 			"4c9fc67e-23f3-44f4-938c-b6b7c3fe0b75",
 			"9766b242-8cb5-4ca0-8f85-6d7431ee9992"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Denkwijzen",
+		"prefix": "C",
+		"id": "a153c6b5-f060-4baf-a374-1c39e03f45ac",
+		"fo_doelzin_id": [
+			"eb5ab094-539a-4a55-a716-4e550e684569",
+			"026b852d-5203-40af-a3c0-3e2a72ca42ff",
+			"5ba8da16-eb87-4868-afb5-1e79c1c31c41",
+			"bec0a78f-9390-45e9-83e6-87979b73fc4e",
+			"41f25851-548d-4de6-b8bb-1231d441a2b1",
+			"518a7467-69aa-4a6a-b4c9-e7413a29b2c1",
+			"520b2639-3fad-4227-ab01-25a2245ecad5"
+		],
+		"replaces": [
+			"98b3f35d-03c5-48b4-a94a-74424452229f",
+			"935b1bb2-12d4-4857-858a-7c8625a4e756",
+			"e1ab4d74-2731-4011-a2a9-25392c209154"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Denkwijzen",
+		"prefix": "C",
+		"id": "40653204-84c4-435a-bf92-edffa31cfcd3",
+		"fo_doelzin_id": [
+			"0325ba85-1ab3-4286-8681-577baec9d88f",
+			"8439ca49-2ed5-4073-bf6d-6b30e7954dce",
+			"2d2ca748-200f-43fe-808a-07f21d887525",
+			"a7e36fa6-be12-4ef5-80a2-f9d0c8053c55",
+			"9251f383-c007-4672-9333-b204984dcb70",
+			"96d2fe5d-5413-4365-bcff-e424d8147bf7",
+			"534598c9-e1cf-4181-8764-06d84b110100"
+		],
+		"replaces": [
+			"8e8c0484-8141-4519-9fad-87cd129172ca",
+			"49f5aab5-96e2-4e2b-930d-789dbce0c5bb",
+			"9060ad04-0853-4880-bf85-917581895bf0"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Denkwijzen",
+		"prefix": "C",
+		"id": "3243e073-a9ca-4420-b5fc-70d368476102",
+		"fo_doelzin_id": [
+			"0c020564-efd1-4190-8fa9-3c0c4d2274d0",
+			"318c4f62-96e6-42f1-8844-bc84b8f69009",
+			"8c9c6d07-5235-4525-91e1-f20277ff177b",
+			"78329a82-338d-4724-8ce9-6b15b2969642",
+			"1a4e5e3a-4ec2-4f3b-9e35-ed83b4234fcd",
+			"92dd5558-8376-4317-a7c6-7045f48e5060",
+			"a7832cc5-a709-4e03-a85e-45d882a5a818"
+		],
+		"replaces": [
+			"873ea5b1-f00f-4d70-b706-44f149ff5726",
+			"9bd48663-d790-4851-a544-505466eff798",
+			"f39d6339-8850-4966-a054-c91801e938c3"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Denkwijzen",
+		"prefix": "C",
+		"id": "f49bd5a7-17ed-4bdc-8f36-536ea86a62bc",
+		"fo_doelzin_id": [
+			"4aed1577-8ac6-48b5-9af3-347a6f0ffda4",
+			"aa03b3b2-bf09-47bb-a407-183ee9b3badd",
+			"dddbb8ff-c9f8-4af1-92f3-4ed9f46f6fc4",
+			"074f96d1-2e4f-48b2-ae6d-05e847d7f347",
+			"f9426cd6-7419-4e42-a88b-2985b700c2e7",
+			"f737f11e-96c1-4e6d-8d09-0d614914e804",
+			"76a633ed-9fa2-4c7c-aa8a-68e0e0e5860e",
+			"51dae2f8-18b4-4ba1-af75-a5143ab0bccc"
+		],
+		"replaces": [
+			"75d40c1a-f500-43f5-9b69-a7550d5c2c7c",
+			"f0101014-884c-4cfc-af50-6b65fee98411",
+			"c8d2ac35-b405-4303-8695-ad146454900e"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Denkwijzen",
+		"prefix": "C",
+		"id": "9ac9576e-4549-4db1-897c-2ad686305454",
+		"fo_doelzin_id": [
+			"82ed874e-353d-46f2-858e-cd2e016fed75",
+			"3aeeb957-3fc5-4ca6-af4c-f81dc24ad60c",
+			"e9d6e74d-ba11-4d47-9f03-28513a5a70ac",
+			"9cf6490e-584b-4528-8420-cf2bcfd38d7d",
+			"8790530e-7d37-454d-b670-3486dfd4721d",
+			"80730d99-a736-435a-94ca-5b6c3546f512"
+		],
+		"replaces": [
+			"5ec5f08d-35e3-4e41-b14e-792626ab120c",
+			"898c08d0-1bd6-447c-affe-f131556bcf8a",
+			"a58941da-2c31-40f1-b682-45ee5cc8c140"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Denkwijzen",
+		"prefix": "C",
+		"id": "e238e40b-3c9b-4a45-b3d3-760c1cbd87cf",
+		"fo_doelzin_id": [
+			"601eddf6-4da4-4a54-8635-5d2c785658c1",
+			"a6b4002b-d0f5-4fde-92f7-25edcc1f50ee",
+			"78209e03-ce29-465a-a740-97bdce51adf8",
+			"171ff7da-2fa8-4c05-ad29-7f3336a63408",
+			"8ce5ffa8-ee19-444d-93ec-555ab5bc0caa",
+			"9163c50b-0a3c-4fac-b3f7-ef4d355ad564"
+		],
+		"replaces": [
+			"9d6e052d-a0a3-4c7f-aadc-bb94be6df03f",
+			"afcc1309-efb9-4fa8-b09c-dc96eab2bb98",
+			"fe788ae9-f39a-4c8c-b00d-373e2a3cee01"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Denkwijzen",
+		"prefix": "C",
+		"id": "39587e74-eafb-4ab6-a8f1-404e64a256f9",
+		"fo_doelzin_id": [
+			"d93d53d4-99ea-41b8-9134-116355b87ae5",
+			"d5c1fc58-9ed7-47d9-800d-7ba0da191c9d",
+			"ee024c40-3855-48f2-8cd5-002a5979e86e",
+			"525108da-183f-4496-8d20-e89a8c9e7f4d",
+			"70242396-8c7e-49c7-b972-eb53a8d9a559",
+			"88b16f58-efc1-4513-85a2-27edf8c0da87"
+		],
+		"replaces": [
+			"32523b56-dc86-4823-a5e1-896cef926eaa",
+			"4f9716d9-f644-43a6-93e3-8460d931832b",
+			"8a719428-efe2-4d79-b1ae-1788620af168"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Denkwijzen",
+		"prefix": "C",
+		"id": "075de58f-77fd-45d5-ad71-11a701fce4f6",
+		"fo_doelzin_id": [
+			"70220a72-3f6d-4d57-b58c-938f1247b367",
+			"3ebd5f76-063d-496d-a5ca-52f751df65b1",
+			"02207c81-a6de-4357-986a-15806842309c",
+			"8a4374b6-7a5e-4cd6-b147-6acbffa2a9e4",
+			"43613402-6997-4593-b470-b7fe10d037f0",
+			"ccdbbc55-28e7-495f-848e-07ebef36795b",
+			"17d86ac0-f77e-4702-9ca5-d7c43a19b2b2"
+		],
+		"replaces": [
+			"cf10a57c-c106-4d3e-8a7e-b6a0bb0ebf06",
+			"deb8094f-ee3a-4769-b1d2-7db1f82b76c4",
+			"c136cf82-d6df-41ce-ae57-314c94d5a230"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Denkwijzen",
+		"prefix": "C",
+		"id": "6571bb64-ae2e-48ee-8a32-c6a04c754b77",
+		"fo_doelzin_id": [
+			"c9c6ca16-0c78-4b0b-9cd5-a6885db75d57",
+			"ed524dc7-34f9-470a-a75b-55175346235b",
+			"4bbdcfa5-6f83-4b97-9d57-cadb5ea1cb3d",
+			"6aaa195a-638d-47d9-932a-8a5ca55b73fb",
+			"d96b627b-5252-4e4e-9e92-373a4407804f",
+			"96ad5b9c-82e2-4553-91cb-b96020b670d2",
+			"b1b49ba5-38ad-4335-a9c0-cf03b3fa323b"
+		],
+		"replaces": [
+			"dc092a29-9d0e-4119-8c5d-7470929f2117",
+			"0ee78953-d9d6-425c-86eb-b068ef19f976",
+			"09ae2ed3-3c8c-4314-a7ba-5d7b2f531b7c"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Denkwijzen",
+		"prefix": "C",
+		"id": "928e84b1-593e-4d7c-b425-2b4541b0bd29",
+		"fo_doelzin_id": [
+			"fd81e034-e028-4935-aaf5-b0cf1534ebc6",
+			"2850589b-ddba-4a50-9781-ea58407ab9cd",
+			"c81d272e-28e4-4c48-aca4-117f2c76ec93",
+			"50dc388a-ffd2-41dd-9b15-d1a296d1e265",
+			"b42a385b-255d-4518-a613-5e9025833d16",
+			"3bc4273d-92ba-46af-a71a-fd3915222875",
+			"9cab696f-7cc0-417e-ab98-1730aa425f5c"
+		],
+		"replaces": [
+			"f9bf73fb-d0e0-4985-a088-8dfb85e723ce",
+			"c11c67f6-8044-460f-aa01-c0e9abf45157",
+			"8f8e0fbb-0548-4df2-a992-a2d4eda3df2a"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Denkwijzen",
+		"prefix": "C",
+		"id": "d448cf78-8041-417a-8d63-ee3aee5336aa",
+		"fo_doelzin_id": [
+			"f282590e-eca0-42fe-b8f2-9aa368543f7f",
+			"4e6e388b-3ab3-49e7-88c4-af98b2d7f8ec",
+			"5c5fe941-7286-4a39-a59b-0b37569b426e",
+			"e2a66b32-0369-4704-b3ac-5428a5f911e5",
+			"ab722bac-a560-44c1-a3b6-83c3ba8df1dc",
+			"bb15b01c-125c-4dc5-9f1c-76c06c1dbfab",
+			"7eda5456-3a86-4d01-b403-48e4ff47b13d"
+		],
+		"replaces": [
+			"623e2e31-1b66-4bcd-8c11-a5ea8e6dde93",
+			"30cb1c15-99b6-43c6-ae07-3d03ceac4caa",
+			"cc5059e1-e856-4818-b41e-9d31d9e16cc1"
+		]
+	},
+	{
+		"title": "Domein E",
+		"description": "Werkwijzen",
+		"prefix": "E",
+		"id": "5ddf09b6-cbfb-48d4-bb43-2468baa5ec66",
+		"fo_subdomein_id": [
+			"35a44c86-bb53-4faf-89c9-1e51cc2692e6",
+			"f48f0154-154b-4d9c-81df-1e58b39def83"
+		],
+		"replaces": [
+			"fb03e4f3-88ac-45b8-9eac-c29e62205033",
+			"8eeb1bd3-5fe1-4b57-8f63-4c82e87ef0cf",
+			"11bb4602-0005-4b13-8e25-79772c679b9e"
+		]
+	},
+	{
+		"title": "Domein E",
+		"description": "Werkwijzen",
+		"prefix": "E",
+		"id": "e18854a8-e709-4601-b070-54a2c3626d58",
+		"fo_subdomein_id": [
+			"06377b65-ea38-419c-86f3-0fb4744feb92",
+			"e1bd9615-0310-48ce-934e-4fa72d423319"
+		],
+		"replaces": [
+			"02fce159-3d15-426a-bbd9-b4bbea3ebed1",
+			"9e98ea8d-9aab-404d-b385-8590adffc896",
+			"d1503277-732b-4829-bebe-4c89523314a8"
+		]
+	},
+	{
+		"title": "Domein E",
+		"description": "Werkwijzen",
+		"prefix": "E",
+		"id": "904638f6-31ce-48ba-a5a3-4830ec6df302",
+		"fo_subdomein_id": [
+			"c6f72be2-08ad-4517-b604-b588f579c0fd",
+			"57760710-4158-45ec-b430-83162e5bce7c"
+		],
+		"replaces": [
+			"e0d28831-56c3-482b-a42c-942c0952a0dc",
+			"0e3d622b-eec7-4186-9574-101689b218bd",
+			"2b3a597f-0f3c-4547-a9e9-2f7b252c617d"
+		]
+	},
+	{
+		"title": "Domein E",
+		"description": "Werkwijzen",
+		"prefix": "E",
+		"id": "6b3949be-a0f5-4c73-8c19-2c5346e780ee",
+		"fo_subdomein_id": [
+			"c4d8a523-c212-44e0-81f9-d88c50ea5f8a",
+			"2e868366-1303-48d7-88e2-126affa997f9"
+		],
+		"replaces": [
+			"439dcf58-78aa-4088-b07f-31e8ab1a7bde",
+			"f98e0cfd-c796-4720-a8b0-9f83fa54916f",
+			"50c3a394-1555-4550-85d0-f26e16650d02"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Denkwijzen",
+		"prefix": "C",
+		"id": "f0c3e0f7-cec3-4458-8a62-09890e08f9d6",
+		"fo_doelzin_id": [
+			"3677f52d-23c4-4541-a9eb-1238ff5f29e9",
+			"22cf9722-9169-4ea4-828f-a06a2caaf9dc",
+			"33a1e21c-970f-442a-a470-f1f7dac9e425",
+			"95f1b010-7f85-46e5-ad82-012b18786612",
+			"e7c76634-e175-48e4-b3fa-b79f9a9f6abf",
+			"3ebe7f7a-46b9-44e0-9e15-d8a829f68c07",
+			"2e134945-41d5-4136-ab37-78ccb4c2c6b6",
+			"cfacc3c1-55a4-4432-813f-8439703ce341"
+		],
+		"replaces": [
+			"95970d32-5788-491d-ae95-8e4c6cd75aa5",
+			"ca24a037-ad97-4759-8af4-c1d5f4c2bb60",
+			"2b903dd0-7d17-4711-b63a-c1adb37706a3"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Aard van de natuurwetenschappen en technologie",
+		"prefix": "A",
+		"id": "20e35eb6-9b94-4461-af50-49bbd74533b7",
+		"fo_doelzin_id": [
+			"eb845c21-84e8-4abc-be5f-dc678f559ec7",
+			"5b4e3cd1-6716-4945-bfed-7d7a4b400146",
+			"8577bf9d-4ac0-44cb-be49-3b625898a502",
+			"726ea6ee-fd67-4e6c-a475-ecd6798205aa"
+		],
+		"replaces": [
+			"fc46898c-ef25-4e67-9317-8bbbd23563ef",
+			"dec98ce0-2e2f-4db4-bdb8-4e4d535d8d22",
+			"1ad863af-1865-4d47-b849-38fb85bec7d9"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Denkwijzen",
+		"prefix": "C",
+		"id": "e26ffbcf-9149-454b-8bf1-4e7fedb84bd9",
+		"fo_doelzin_id": [
+			"d91c5db4-ad7f-4ac3-a854-84db9b90bb9e",
+			"33926c5e-0774-4bfa-811b-273c936970ce",
+			"6be68675-acdf-4156-9823-c5b406098a01",
+			"4c4982c9-610c-4ba2-88c7-c73ce0ea4d64"
+		],
+		"replaces": [
+			"40d064ce-6254-41c7-8e26-fd1b068dfb50",
+			"912d2c4c-7fb5-4070-8453-6c2501b32846",
+			"0151798b-f70a-468f-8f12-34a258144af6"
+		]
+	},
+	{
+		"title": "Domein E",
+		"description": "Werkwijzen",
+		"prefix": "E",
+		"id": "5ed0c60e-b3cc-483e-b633-b1e05a80b575",
+		"fo_subdomein_id": [
+			"26a06841-b60e-4468-b778-37078c79c50a",
+			"88bb8bd2-daee-4578-81db-695c781ac8ff"
+		],
+		"replaces": [
+			"19cef084-207a-4a70-bf7d-2a32d6a63314",
+			"9c3db89e-61db-46c9-b14c-0a51b9dd5ad3",
+			"8a4187c0-5432-46c5-84cd-886d1d0d407b"
+		]
+	},
+	{
+		"title": "Domein E",
+		"description": "Werkwijzen",
+		"prefix": "E",
+		"id": "48656e32-0c0d-4350-b31f-e577678fb560",
+		"fo_subdomein_id": [
+			"fe93492c-2df2-406a-97aa-9662f4e87054",
+			"57e25cf8-342d-4688-86e9-abf874c37b31"
+		],
+		"replaces": [
+			"090da0fc-24ae-4ec7-a2cf-02b2e74b715e",
+			"f28c3407-e829-4a96-a3be-1573e5482b7f",
+			"70f3599b-8ab7-4f5d-8e1d-46330a276935"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Concepten",
+		"prefix": "B",
+		"id": "3d75cc92-e3ab-40a6-8802-6caf56af9641",
+		"fo_subdomein_id": [
+			"fed0f09f-e2f0-4f00-a5a4-a8b6a7780a28",
+			"290eaa92-f6ec-4939-a18b-49a5acd77edc",
+			"d901fde7-037c-40d5-9fb7-9620b91958ae",
+			"333061dc-3acb-4026-9302-f5a6f87e9042",
+			"77ecfbfa-c619-42de-a67c-f648d76af098",
+			"4819bd54-9f31-417a-8a22-d44e70fb0a50",
+			"d94d2966-6378-4704-8494-e4b8833d01d0"
+		],
+		"replaces": [
+			"e6458316-a8b4-4148-8aff-a1295efe67bb",
+			"c561bad0-aa49-4996-be56-c390875eae33",
+			"25937db1-bec5-45ea-889c-1cb5e69271ec"
+		]
+	},
+	{
+		"title": "Domein E",
+		"description": "Werkwijzen",
+		"prefix": "E",
+		"id": "11f77244-6f0c-4111-8c36-fcaa4b11debd",
+		"fo_subdomein_id": [
+			"f0e7f710-f912-41f8-a11f-a18bc3b2000d",
+			"7419bc04-98cc-4c7e-8790-95dfd3544844"
+		],
+		"replaces": [
+			"08f5dca9-0c4a-4871-a4cb-bf3fb70677a7",
+			"f2a0b609-aad7-49d7-a2d7-126cdcd1b8b6",
+			"482c0f6f-66af-4706-bc39-feab480779f5"
+		]
+	},
+	{
+		"title": "Domein E",
+		"description": "Werkwijzen",
+		"prefix": "E",
+		"id": "fb49b2cc-8f8b-43d0-bc8d-878d7baccf0e",
+		"fo_subdomein_id": [
+			"2cb5413b-893a-4a32-9632-fd40bb175f11",
+			"9988b552-ab6d-4bf9-9c24-b3cd9df2c119"
+		],
+		"replaces": [
+			"123edcbb-f4af-4abe-ac2b-78ba38fd7fc9",
+			"7633754f-b97c-4a96-ac33-71a93c2ef8c3",
+			"8062f4c9-9363-44ce-ae5f-353eef2e40f6"
+		]
+	},
+	{
+		"title": "Domein E",
+		"description": "Werkwijzen",
+		"prefix": "E",
+		"id": "461c2d90-50e6-41de-aa69-8b853d3ad8bc",
+		"fo_subdomein_id": [
+			"57a597b4-5f2d-4990-a5ea-1239196bb304",
+			"b88091e9-2b05-4732-a2b2-683f6a410bdb"
+		],
+		"replaces": [
+			"cb7be1ad-35cf-406b-a783-099f48b44a87",
+			"9e614fdd-1099-4955-83b2-6277eb7d4566",
+			"268d3e5c-66c3-4ffb-bec9-7e37e82b2d78"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Concepten",
+		"prefix": "B",
+		"id": "ba2c7222-6b32-45b7-bc43-a20e38681a12",
+		"fo_subdomein_id": [
+			"4601b87e-4d4c-4669-83d8-83ac1fd48938",
+			"f9dcb1da-36e4-412e-a9fe-9c1c902cf5d5",
+			"e308089d-4015-446d-b0a7-2d360171f163",
+			"630736b2-6b79-4a9e-a7da-a2bb86eb30e1",
+			"f34e30fd-d8fa-44ba-9264-8ca6d69a0703"
+		],
+		"replaces": [
+			"4a1e1155-d825-44ec-987e-9c83e4be553a",
+			"07949b6a-3208-4b5d-8339-03ddd6a34dc7",
+			"8fe97339-472f-4c3a-af15-e4859448328b"
+		]
+	},
+	{
+		"title": "Domein E",
+		"description": "Werkwijzen",
+		"prefix": "E",
+		"id": "b873b217-a2b7-4e75-9f82-48b686dc5a17",
+		"fo_subdomein_id": [
+			"5f414564-9102-4ccf-9a96-23caa7110238",
+			"f88599f4-7f02-49bf-8988-b92e185be443"
+		],
+		"replaces": [
+			"1aa020fc-9b73-4d88-b891-475b2eba243b",
+			"f9eb07eb-57ed-45ae-8d25-9023728df6d4",
+			"b5132043-0b4e-48b9-83c3-afcf0206e596"
+		]
+	},
+	{
+		"title": "Domein E",
+		"description": "Werkwijzen",
+		"prefix": "E",
+		"id": "5ddd705a-8627-47b6-8dcd-d5159f741210",
+		"fo_subdomein_id": [
+			"64b8f17f-11d1-4b73-9f56-b3041f9a56a8",
+			"a1575a15-b8e8-4703-bba9-882e797d472e"
+		],
+		"replaces": [
+			"e0eaf5f9-266b-46ff-8363-cfec928e9978",
+			"75cce880-5de2-4872-a973-b3b6e05601cc",
+			"89380434-eda4-419e-aac1-44837d39eb0a"
+		]
+	},
+	{
+		"title": "Domein E",
+		"description": "Werkwijzen",
+		"prefix": "E",
+		"id": "c9301f10-fd27-4984-b14e-8b3efdf1fa23",
+		"fo_subdomein_id": [
+			"87f758c2-a33c-4332-b27d-e9eaa9ea8e16",
+			"31177618-6c81-42db-b371-36fd410bb964"
+		],
+		"replaces": [
+			"4ee5e1cf-cb9a-44e1-a419-9745f974ea25",
+			"c2c44103-2d5f-446e-ae07-2a91a5a34c3c",
+			"e3502167-358e-4d6c-8aaf-bde9dcd74ff4"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Concepten",
+		"prefix": "B",
+		"id": "a9853dde-bad4-400f-9aeb-4f62ee66cda3",
+		"fo_subdomein_id": [
+			"142271e5-7201-4997-ad5f-1ecd89f37cc3",
+			"94c4be21-d216-4f91-ae60-63c063015110",
+			"aa944e53-97cb-42d3-bd67-b85079065483",
+			"7963e598-414b-4ea3-8c76-c2922b1ddf93",
+			"9e1c6264-f398-4293-8b73-9fc3de5e2c51",
+			"1ddfcbdd-e116-4891-a524-e27de7ce52ec",
+			"b8f6495a-4fac-4188-b256-084a32905531"
+		],
+		"replaces": [
+			"b2c7afc2-a589-469a-8b87-85f216862fb9",
+			"7444af44-cca9-47f3-8a7f-7822089eef6d",
+			"83518b93-74f3-49a6-b20e-b2f9f2649a18"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Concepten",
+		"prefix": "B",
+		"id": "55763c94-ae94-45c0-a699-d476419430bd",
+		"fo_subdomein_id": [
+			"787da202-7cb7-4d92-80bc-0c88323e3c60",
+			"14c6475d-512a-4e8c-ab1f-fc68f70844c7",
+			"242255e9-5182-4128-89eb-d83f4afe453f",
+			"3508e2fd-4d09-4796-966b-ddbdf97c2510",
+			"241e8ee9-ac30-44a1-8367-c7594bddd702",
+			"bbfa0d97-b703-4f23-94a1-3b4513583881",
+			"917be900-2f1a-4b3b-a8c4-04409700a77e"
+		],
+		"replaces": [
+			"68793924-ec98-4854-86ab-a32e5917d4c5",
+			"c8a8bacf-c135-46c6-8f98-d84e4546c727",
+			"84a0419a-593d-4e71-a1d7-4c72505a0449"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Concepten",
+		"prefix": "B",
+		"id": "b113d041-7165-4e6c-9d25-3b49e3975dd1",
+		"fo_subdomein_id": [
+			"df27cab4-db06-4ae1-ac66-4b729ac393b7",
+			"777310ee-21e9-48f6-a915-d72044289781",
+			"1232420a-ec29-4a0e-b659-13ce8f478e4f",
+			"dc89d28f-971f-41df-b838-fe1214d17b75",
+			"9675f820-fd53-4e87-9cd1-c5decd08ac14",
+			"e5f30d5c-5e1b-4403-ae6a-569852503034",
+			"aeeb7ad5-977d-4d53-80b6-cd82b6326be3",
+			"741bb32a-81b5-4732-bd40-e0ca225bfaf9"
+		],
+		"replaces": [
+			"7d1624cd-9b76-49e3-9fb8-dbacb8f8ac6c",
+			"a1ddc5be-172a-4d3b-b37b-7b4e441580a4",
+			"f89f1bc3-05ec-4aa1-a314-c2951ccce1ba"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Concepten",
+		"prefix": "B",
+		"id": "2e9f5d2f-bffe-4a8e-89de-17b7660bc291",
+		"fo_subdomein_id": [
+			"73571717-5310-4a87-b68b-d53240b44696",
+			"db3a1c49-0f2b-439d-9fcc-bdb16aaf4866",
+			"72d92538-b555-466a-83ca-c51cec27421e",
+			"9ce95d2d-27e9-423b-8cb3-a9d82d89a981",
+			"ad681e31-9bde-484a-bb10-a296fcefb080",
+			"12966e50-ee38-4b0a-8f98-2ec69bb923d8",
+			"1189c21c-0faa-460d-838b-7fd6e2d263e2",
+			"93855b2a-c60b-4d4d-8d28-7046126d154b"
+		],
+		"replaces": [
+			"7f65e08d-f412-493b-b176-d437355eb248",
+			"e1e50578-9516-4527-861f-ac4e8002e7da",
+			"3cf4bef8-8b48-40b3-b4c1-f0d430c5ab7d"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Concepten",
+		"prefix": "B",
+		"id": "0d931950-54f6-4a6f-add7-700810a84898",
+		"fo_subdomein_id": [
+			"48721e70-09f9-47a0-b459-1b0b7a7cd82d",
+			"f9d8a105-4661-4fc9-be32-cf419e79c9a4",
+			"5f53cec5-f53d-470c-8350-2a2fa4918cf6",
+			"0c8c3f0f-8dd1-41d0-8691-886c92a516b7",
+			"be031e0e-eede-4410-a7ac-e287fd8bb81b",
+			"12111318-e9e3-4eb6-ada4-607d03e8741d",
+			"34001e73-4b11-4ccc-99e1-f6361887e212",
+			"cab43ba3-b695-434c-a6c6-69d18cfcd762",
+			"80bb3c9e-29e0-4e6b-9301-63aeb555fe04"
+		],
+		"replaces": [
+			"6508925b-5efc-4349-9f5b-47a5484b9f73",
+			"c9407747-4e9c-485b-ad36-bad471b79eb6",
+			"4d3ea516-e261-4e1d-8cca-5ec14dcfa3b1"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Concepten",
+		"prefix": "B",
+		"id": "d0f7c935-cdf2-4e04-87f6-de6d8834cf14",
+		"fo_subdomein_id": [
+			"b36ae156-ac84-436d-b625-df6a9eb0ce0a",
+			"3f519393-0b2f-4529-bce2-9b09b79b496b",
+			"67290ba6-d3bb-4f4b-bad1-3f3ab3033476",
+			"ed585eb7-2978-4c4f-8b15-8df100bee86c",
+			"e01d0986-2398-40e6-940f-6cf882e8ef67",
+			"90a57587-800e-4197-99de-4ba16316d4d1",
+			"268a9fe0-bf04-4450-8b59-c82d2ba22115"
+		],
+		"replaces": [
+			"bc718a6f-abda-48af-8ba6-ccb025957760",
+			"aab1e6f5-69fd-44fe-be2e-9ac388c0c106",
+			"df967fb2-ff3f-44f2-8375-1a7c882bc61f"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Concepten",
+		"prefix": "B",
+		"id": "b4b7a27c-440a-42b9-be7c-bbe4519e69fa",
+		"fo_subdomein_id": [
+			"315c1e9a-26cb-483a-9d1c-cb003e317d58",
+			"5667dcb9-271a-4a76-84a6-7dcccba03d3f",
+			"a2ea0ab1-1203-4d6a-af98-61ba40e48545",
+			"b761100e-8075-497f-844b-483c110016cc",
+			"440f1373-092d-48b9-81de-28fcae8fb915"
+		],
+		"replaces": [
+			"1efeae88-4210-4149-a9e7-d269fbad54c1",
+			"4b52507e-db72-4dfa-b993-d436c38c0244",
+			"0495b2b2-af0e-4c1e-bf66-44fa1f23c8f8"
+		]
+	},
+	{
+		"title": "Domein D",
+		"description": "Vraagstukken",
+		"prefix": "D",
+		"id": "a6543052-28a8-4a72-add1-c64d68cd0fb1",
+		"fo_subdomein_id": [
+			"e8c3dead-67c7-48be-b4a2-0e5fee362de5",
+			"32aa40cf-cecb-46aa-9800-d47ca13df66d",
+			"50424709-ae45-4eaa-addb-1b417074dc5c",
+			"2c145ce8-6856-4102-bb53-3493d10c6cd8"
+		],
+		"replaces": [
+			"2ff1a9a8-320e-413c-b398-f61a1f2927cb",
+			"6ccc38f4-4945-4418-a4ee-8334a7eab89d",
+			"e2aec1aa-10f3-4186-b424-6e54e8c07508"
+		]
+	},
+	{
+		"title": "Domein E",
+		"description": "Werkwijzen",
+		"prefix": "E",
+		"id": "ebe6b7be-21cd-4ec7-8ce0-f52071ba35d7",
+		"fo_subdomein_id": [
+			"b7f4b38d-6a2d-469e-a390-61a4c01e1142",
+			"6de445d1-c44f-4f2a-8f12-d9028a938a21"
+		],
+		"replaces": [
+			"c014bdd0-bbea-443b-830e-4347b4ecf653",
+			"c8c3a0ea-c6e7-4b40-8e8e-43e2902a7bba",
+			"ff68de3d-b317-4f03-8561-f3e8d01e6ce7"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Concepten",
+		"prefix": "B",
+		"id": "1d700883-11d6-4166-9b22-88194e7094eb",
+		"fo_subdomein_id": [
+			"d0394949-3bd4-4c94-be7c-8cbfedaf990d",
+			"96b9036a-2dd0-4530-9061-8014ad115e92",
+			"23be39b6-5535-4d26-8941-ed5080ae6413",
+			"62de3be2-c207-40f8-9f18-e4e6bdcba07b",
+			"42ab9575-3a01-486e-9c5f-8a6a872e3d75"
+		],
+		"replaces": [
+			"928b4913-0578-44b7-a9ad-cfc6b7bce085",
+			"78117bf8-d62d-465f-a32c-350979738275",
+			"bfccc294-4d35-41a0-9615-4f8d550d0159"
+		]
+	},
+	{
+		"title": "Domein D",
+		"description": "Vraagstukken",
+		"prefix": "D",
+		"id": "957c8ad5-6595-4902-8d8c-482fb1455621",
+		"fo_subdomein_id": [
+			"effe6f6a-4b67-4878-8df7-28fee5395467",
+			"16c8e852-89c9-48ee-9de2-e2370b432d51",
+			"8fa0d562-f9c6-49fe-97c4-96e25da72220",
+			"784abcae-fa79-4977-91ee-885bebba2591"
+		],
+		"replaces": [
+			"a005b0e3-0eb9-412a-a72c-94e87ffc90ad",
+			"eca8455a-8759-4d8d-9cd8-6f743f8d7718",
+			"0dd392f4-07eb-42e2-a1a1-82a839a9eedc"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Concepten",
+		"prefix": "B",
+		"id": "b374b0fd-239c-4a0e-8cbc-2370c0c05454",
+		"fo_subdomein_id": [
+			"40840cce-13cf-453d-9cb6-4e797e63f21e",
+			"247f54f3-8aa1-477a-81c3-5de4bc73267b",
+			"da9beb20-1def-460b-9454-52c1dd45b90d",
+			"3ee78973-cfef-4021-b728-7327d110f6f1",
+			"c6b9def2-39d4-45dc-a22b-4864320853e9",
+			"4f865350-6d26-4a0f-bde0-29efe5744408",
+			"1792419d-32a1-4190-9308-34c778fadd0d"
+		],
+		"replaces": [
+			"779a4187-5225-431d-b733-214cd167fb43",
+			"d8f3907a-82d5-4abf-b147-d3fc26493eee",
+			"45639df7-bae4-4b06-a856-909c8f8d3f21"
+		]
+	},
+	{
+		"title": "Domein D",
+		"description": "Vraagstukken",
+		"prefix": "D",
+		"id": "dbd66c1c-507c-4122-9146-9865cc463303",
+		"fo_subdomein_id": [
+			"7d7c2824-e67f-414f-92c0-a600056ab472",
+			"f8592006-d9b1-4eba-9687-0e21bf8adfd2",
+			"577c4ff0-238f-473d-8b4c-6d898d911c6e"
+		],
+		"replaces": [
+			"75d128fd-569a-4db2-a035-3b9daabaf951",
+			"c3613002-a8ef-4ed6-bf25-b162ab095c55",
+			"cab6784c-a7c5-429f-9e06-0930a8fcb47d"
 		]
 	}
 ]
