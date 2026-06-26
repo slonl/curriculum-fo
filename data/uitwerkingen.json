@@ -19520,16 +19520,6 @@
 		"status": "concept"
 	},
 	{
-		"description": "voorspellen hoe in een populatie kenmerken veranderen of verdwijnen wanneer de voortplantingskansen van individuen veranderen.",
-		"prefix": "u3",
-		"id": "e66c62b8-bbcb-4a56-9d17-37617bed12d2",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
 		"description": "beredeneren onder welke omstandigheden nieuwe soorten kunnen ontstaan.",
 		"prefix": "u4",
 		"id": "7ce3661c-4954-45cd-8dbd-00e6bc52d3dc",
@@ -19600,49 +19590,9 @@
 		"status": "concept"
 	},
 	{
-		"description": "redeneren over de interacties tussen de organisatieniveaus.",
-		"prefix": "u3",
-		"id": "f995a3d0-3730-4847-882b-0fc13856bb5e",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "redeneren over de interacties tussen de deelsystemen in een systeem.",
-		"prefix": "u4",
-		"id": "5d551cf5-daef-4ece-abc2-a51160f44115",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
 		"description": "beredeneren wat mogelijke oorzaken zijn van een gegeven gevolg en wat mogelijke gevolgen zijn van een gegeven oorzaak.",
 		"prefix": "u2",
 		"id": "2a9bed2d-6db9-4826-8534-fdc362d46317",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "analyseren van situaties met transport van materie en energie.",
-		"prefix": "u2",
-		"id": "c7171c47-6fce-4821-9253-2ee744caa708",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "verklaren van situaties met behulp van behoud van materie en energie.",
-		"prefix": "u3",
-		"id": "ce0fe3bb-d240-4d50-968e-f6da0d5364e8",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
@@ -19840,16 +19790,6 @@
 		"status": "concept"
 	},
 	{
-		"description": "formuleren van een mogelijke uitkomst.",
-		"prefix": "u4",
-		"id": "8a7b295a-31b3-4970-8b96-6859d5557675",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
 		"description": "uitvoeren van een plan van aanpak.",
 		"prefix": "u1",
 		"id": "4d355180-f7a9-407b-afd0-8066cb81ca77",
@@ -19923,56 +19863,6 @@
 		"description": "afwegen van verschillende argumenten.",
 		"prefix": "u4",
 		"id": "a44c1f0a-eb1f-45ac-87fa-d48877a684f4",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "maken van een bronvermelding.",
-		"prefix": "u5",
-		"id": "0a1875ce-8edf-4558-bcde-e0a4f7c8ac59",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "determineren van zelf verzamelde en waargenomen organismen.",
-		"prefix": "u1",
-		"id": "74fb3a5f-8922-4a3c-acb3-80c78d30b42e",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "beschrijven van interacties tussen organismen onderling en abiotische factoren.",
-		"prefix": "u2",
-		"id": "f218ec43-a6b9-4fe6-bf1c-04aa01cfe494",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "gebruiken van passende veldwerktechnieken.",
-		"prefix": "u3",
-		"id": "af9c7fc6-2fd4-475d-bbc8-3233270be17d",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "betekenis geven aan de natuurlijke omgeving voor jezelf en voor anderen.",
-		"prefix": "u4",
-		"id": "31ce3e02-1da3-40a0-bd74-f18f0126df90",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
@@ -20690,16 +20580,6 @@
 		"status": "concept"
 	},
 	{
-		"description": "voorspellen hoe in een populatie kenmerken veranderen of verdwijnen wanneer de voortplantingskansen van individuen veranderen.",
-		"prefix": "u3",
-		"id": "bfd6dc92-ee1a-40be-a090-38fd3248c968",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
 		"description": "beredeneren welke factoren de totstandkoming van gedrag beïnvloeden.",
 		"prefix": "u1",
 		"id": "57c8d6d8-0c25-4f8b-82bf-cc93ae1e00dc",
@@ -20823,16 +20703,6 @@
 		"description": "beredeneren hoe een dynamisch evenwicht verstoord kan raken.",
 		"prefix": "u3",
 		"id": "6018a825-fe9d-4671-ae16-02e030bc2d28",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "de vorm en structuur van moleculen in relaties tot functies en eigenschappen.",
-		"prefix": "u2",
-		"id": "10dcc7c0-f0be-4e5c-8d9e-65897f94a168",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
@@ -23537,17 +23407,6 @@
 		"status": "concept"
 	},
 	{
-		"description": "een bedrijf bezoeken waar wordt gewerkt aan (alternatieve) opwekking van energie.",
-		"prefix": "u5",
-		"id": "c0e85482-e49e-4ba3-b01a-0dfeecbedbdd",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
 		"description": "testen of een regelsysteem aan gestelde eisen voldoet.",
 		"prefix": "u2",
 		"id": "801b852a-8f1b-465a-af56-444a51b1de41",
@@ -24566,56 +24425,6 @@
 		"description": "verklaren van resonantie met behulp van eigenfrequenties.",
 		"prefix": "u4",
 		"id": "90540fbb-84dc-48da-8332-3aa64c56534a",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "beschrijven van elektrische velden als het gevolg van lading, met veldlijnen.",
-		"prefix": "u1",
-		"id": "8b548a2a-5a7d-41ea-907c-d82622f22f7f",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "analyseren van het gedrag van een geladen deeltje in een homogeen of radiaal elektrisch veld aan de hand van kracht, potentiaal en energiebehoud.",
-		"prefix": "u2",
-		"id": "4b6ac3da-bfe8-484e-8096-499f93be9d28",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "beschrijven van een magnetisch veld als het gevolg van een permanente magneet of bewegende lading, met veldlijnen.",
-		"prefix": "u3",
-		"id": "0a04ed95-4fb6-45f0-bef9-9ef1cc546b39",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "analyseren van de beweging van lading in een magnetisch veld onder invloed van de Lorentzkracht.",
-		"prefix": "u4",
-		"id": "e1b3ff38-d93c-49a5-b09d-c85c44c25541",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "analyseren van inductieverschijnselen met behulp van magnetische flux, ten minste in de context van generator en transformator.",
-		"prefix": "u5",
-		"id": "ba297675-2c90-40dd-8a37-270a72c45ee2",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
@@ -26702,17 +26511,6 @@
 		"status": "concept"
 	},
 	{
-		"description": "verklaren van de betrouwbaarheid van wetenschappelijke kennis vanuit zijn totstandkoming.",
-		"prefix": "u4",
-		"id": "ad2044b8-9736-47d2-8d30-4e7d6dd1347e",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
 		"description": "beschrijven hoe maatschappelijke belangen invloed hebben.",
 		"prefix": "u1",
 		"id": "50aebd93-ff89-443b-aa02-2fde779812e4",
@@ -26735,163 +26533,9 @@
 		"status": "concept"
 	},
 	{
-		"description": "ordenen van stoffen in zuivere stoffen en mengsels.",
-		"prefix": "u2",
-		"id": "cac2d92f-c0c5-4893-9713-73d6bd3e9dd2",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "weergeven van koolwaterstoffen in structuurformules.",
-		"prefix": "u5",
-		"id": "570bccd2-7767-41fa-a44a-bb7ea8f049da",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "benoemen van de lading van de ionen van de elementen uit de groepen 1, 2, 16 en 17 van het periodiek systeem.",
-		"prefix": "u2",
-		"id": "c285449a-8893-41e7-9461-7c755e95847a",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "benoemen van de covalentie van waterstof, koolstof, stikstof, zuurstof en halogenen.",
-		"prefix": "u3",
-		"id": "d918e9a1-bee3-452d-8b9c-ba31d4564f13",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
 		"description": "beschrijven van stoffen aan de hand van fysische en chemische eigenschappen.",
 		"prefix": "u1",
 		"id": "0e7016cb-03d1-42ef-89b1-8303902270b7",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "verband leggen tussen eigenschappen van atoomsoorten en hun plek in het periodiek systeem bij de edelgassen, halogenen, alkali- en aardalkalimetalen.",
-		"prefix": "u2",
-		"id": "68e04d6d-10c0-4bad-bab9-eb0a95fc1551",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "benoemen van de faseovergangen, toestanden en toestandsaanduidingen.",
-		"prefix": "u3",
-		"id": "1e293540-7dcb-4f75-a213-63b6139264a9",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "beschrijven van fasen met het deeltjesmodel: vast, vloeibaar, gas.",
-		"prefix": "u4",
-		"id": "5b6dd1c8-4442-4a59-9deb-58a08e0c1b93",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "schematiseren van een gegeven kringloop: koolstof, stikstof en fosfor.",
-		"prefix": "u1",
-		"id": "07972d2f-aadb-4256-8de3-b6eba2cb749f",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "beschrijven van het verschil tussen een verzadigd en een onverzadigd vet aan de hand van de structuurformule.",
-		"prefix": "u4",
-		"id": "0742c452-a882-4c88-b821-d5e59e087f13",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "beschrijven van de functie van water, koolstofdioxide en zuurstof voor het organisme.",
-		"prefix": "u5",
-		"id": "a322a541-5f74-4689-94df-35ebeaf22980",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "benoemen van het type proces aan de hand van een gegeven vergelijking.",
-		"prefix": "u3",
-		"id": "42114281-cd77-4aa0-a039-2e50a5f94abb",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "beschrijven van verschillen en overeenkomsten in processen op labschaal en industriële schaal.",
-		"prefix": "u2",
-		"id": "c74aee1e-7dce-4e10-88dd-4105524c34cb",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "interpreteren of een beschreven proces een lineair of een circulair proces is.",
-		"prefix": "u4",
-		"id": "d4e0f6fb-3ece-4fc4-ac9c-aabdb1395dee",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "beredeneren welke scheidingsmethode het meest geschikt is voor het scheiden van een gegeven mengsel.",
-		"prefix": "u1",
-		"id": "ab5010f1-73fa-4b43-863c-3e17f63e68fb",
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
@@ -26944,31 +26588,9 @@
 		"status": "concept"
 	},
 	{
-		"description": "ordenen van gegevens op basis van eigenschappen.",
-		"prefix": "u2",
-		"id": "3f2ffece-f427-4b6f-8801-800cb3ef782c",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
 		"description": "redeneren met verhoudingen tussen gerelateerde grootheden.",
 		"prefix": "u3",
 		"id": "a33f7280-fc06-475c-8035-cd776c42f823",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "verklaren van situaties met behulp van behoud van massa, lading en energie.",
-		"prefix": "u3",
-		"id": "aa81fd41-1019-4f52-a9cd-cfd56395b548",
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
@@ -27796,26 +27418,6 @@
 		"status": "concept"
 	},
 	{
-		"description": "beschrijven van veranderingen van elektrostatische interacties tijdens processen.",
-		"prefix": "u3",
-		"id": "f1ea338a-5ff4-4756-af58-72de4ba80575",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "verband leggen tussen eigenschappen van elementen en hun positie in het periodiek systeem.",
-		"prefix": "u1",
-		"id": "37918401-c9f1-4169-8503-1aefc1ced847",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
 		"description": "beschrijven van karakteristieke moleculaire structuren van stoffen in organismen.",
 		"prefix": "u1",
 		"id": "e94611ae-34e8-41f9-84b0-e4e6e8f121d6",
@@ -27836,39 +27438,9 @@
 		"status": "concept"
 	},
 	{
-		"description": "analyseren of een proces lineair of circulair is.",
-		"prefix": "u5",
-		"id": "03407259-45e3-49c5-b5da-67eacbe80c5d",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "verband leggen tussen de waarnemingen over energie-effect en de representatie ervan in een energiediagram.",
-		"prefix": "u1",
-		"id": "0ca1d700-a1fe-4e34-9f6e-1b2c719b3183",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
 		"description": "verklaren van het ontstaan van een evenwichtssituatie door het benoemen van de twee even snelle maar tegengestelde processen.",
 		"prefix": "u1",
 		"id": "4a0672a0-bf77-4ac0-bb46-2e6d9ce4bc0f",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "beredeneren welke scheidingsmethode het meest geschikt is voor het scheiden van een gegeven mengsel.",
-		"prefix": "u1",
-		"id": "2ed165b8-21be-4e2e-ad0e-251a6cfde895",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
@@ -27916,46 +27488,6 @@
 		"status": "concept"
 	},
 	{
-		"description": "redeneren over de interacties tussen een systeem en de omgeving.",
-		"prefix": "u2",
-		"id": "a0620663-06c0-4e8f-81fd-3140fd7c6758",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "redeneren over de interacties tussen de deelsystemen in een systeem.",
-		"prefix": "u3",
-		"id": "22986bad-7b01-40b2-af51-bf6baa413cfd",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "beschrijven van gedrag van een systeem in de tijd.",
-		"prefix": "u4",
-		"id": "447c0c7d-409e-49bc-819b-cfac35177c48",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "redeneren over systeemveranderingen in termen van oorzaak-gevolg.",
-		"prefix": "u5",
-		"id": "6db8dc19-230e-41fb-86f6-de96c60f1a72",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
 		"description": "beschrijven van een oorzaak-gevolgrelatie met behulp van een onderliggend mechanisme.",
 		"prefix": "u3",
 		"id": "b20d44e4-8d02-4d49-af20-91cf1ff58be1",
@@ -27976,39 +27508,9 @@
 		"status": "concept"
 	},
 	{
-		"description": "ordenen van gegevens op basis van eigenschappen.",
-		"prefix": "u2",
-		"id": "5e3eda44-5dc3-416f-8325-caf041a04262",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
 		"description": "redeneren met verhoudingen tussen gerelateerde grootheden.",
 		"prefix": "u3",
 		"id": "c0751d46-9fd3-492b-b9fa-97b6fdca6b8b",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "toepassen van de behoudswetten van massa, lading en energie bij chemische processen.",
-		"prefix": "u1",
-		"id": "15bdf8d0-0f66-4199-b27c-caf2820c7e27",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "beschrijven van methodes om energie op te slaan en om te zetten.",
-		"prefix": "u2",
-		"id": "e98c43d8-a60d-4d59-9eb8-4c50cf5860de",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
@@ -28486,16 +27988,6 @@
 		"status": "concept"
 	},
 	{
-		"description": "aflezen van waardes uit diagrammen en tabellen.",
-		"prefix": "u5",
-		"id": "d455d14d-ede4-4a09-8bae-05d3c2f23b4c",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
 		"description": "weergeven van waardes van grootheden in decimale en wetenschappelijke notatie, in bijpassende eenheden en passend afgerond.",
 		"prefix": "u1",
 		"id": "1d214f62-d598-4adc-9179-580230ebea96",
@@ -28876,26 +28368,6 @@
 		"status": "concept"
 	},
 	{
-		"description": "beschrijven van veranderingen van elektrostatische interacties tijdens processen.",
-		"prefix": "u3",
-		"id": "28498518-dbf2-4d1e-9d76-52589d67d28c",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "verband leggen tussen eigenschappen van elementen en hun positie in het periodiek systeem.",
-		"prefix": "u1",
-		"id": "bf57ac7d-7d35-4940-8700-c80f0d2928e2",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
 		"description": "beschrijven van karakteristieke moleculaire structuren van stoffen in organismen.",
 		"prefix": "u1",
 		"id": "464b1d5c-4021-4b19-9372-8f571a6eb931",
@@ -28919,36 +28391,6 @@
 		"description": "opstellen van een halfreactie van een onbekende reductor of oxidator.",
 		"prefix": "u3",
 		"id": "ec5a20b7-3346-466f-b752-6face43724b8",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "uitleggen welke deeltjes met elkaar reageren, rekening houdend met de sterkte van zuren en basen, reductoren en oxidatoren.",
-		"prefix": "u4",
-		"id": "f474ce1c-678f-4b35-ac20-f93f30b9472e",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "uitleggen van de keuze voor een type reactor om een gewenst praktisch rendement en een gewenste doorvoer te verkrijgen.",
-		"prefix": "u2",
-		"id": "2a4f3004-58d0-48cf-b444-ae6baf8d8191",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "analyseren of een proces lineair of circulair is.",
-		"prefix": "u5",
-		"id": "8dac6c23-67df-4bf0-88ce-86b1fdd9e0fc",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
@@ -28989,16 +28431,6 @@
 		"description": "verklaren van het ontstaan van een evenwichtssituatie door het benoemen van de twee even snelle maar tegengestelde processen.",
 		"prefix": "u1",
 		"id": "020fb873-1eb8-40d9-b09c-777fefe0455d",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "het verdelingsevenwicht van de vorming van ammoniak uit de elementen opschrijven.",
-		"prefix": "u3",
-		"id": "e81307bf-11af-478d-b907-f8c645c6274a",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
@@ -29126,36 +28558,6 @@
 		"status": "concept"
 	},
 	{
-		"description": "redeneren over de interacties tussen een systeem en de omgeving.",
-		"prefix": "u2",
-		"id": "2cdb9b9d-7293-404b-9327-de36b9154a4e",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "beschrijven van gedrag van een systeem in de tijd.",
-		"prefix": "u4",
-		"id": "15d97739-4b4c-46ab-ba20-d01550be3de9",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "redeneren over systeemveranderingen in termen van oorzaakgevolg.",
-		"prefix": "u5",
-		"id": "dd574a27-a81f-4dbd-84a0-f27899b84e28",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
 		"description": "beschrijven van een oorzaak-gevolgrelatie met behulp van een onderliggend mechanisme.",
 		"prefix": "u3",
 		"id": "0a2d6e12-eff7-4422-ae44-d198a9a370bb",
@@ -29189,16 +28591,6 @@
 		"description": "redeneren met verhoudingen tussen gerelateerde grootheden.",
 		"prefix": "u3",
 		"id": "c5fec768-b511-43f5-974e-507e11283627",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept"
-	},
-	{
-		"description": "toepassen van de behoudswetten van massa, lading en energie bij chemische processen.",
-		"prefix": "u1",
-		"id": "f037da04-b397-4fb6-8290-0fb9daeda593",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
@@ -80552,7 +79944,7 @@
 		]
 	},
 	{
-		"description": "uitleggen dat Nederland en de Overzeese gebieden samen het Koninkrijk der Nederlanden vormen en deel uitmaken van de Europese Unie;",
+		"description": "uitleggen dat Nederland deel uitmaakt van de Europese Unie en dat Nederland inclusief Caribisch Nederland, samen met Aruba, Curaçao en Sint-Maarten het Koninkrijk der Nederlanden vormen.",
 		"prefix": "u2",
 		"id": "9242c205-2828-409a-a8ed-731db1aedf18",
 		"niveau_id": [
@@ -119615,984 +119007,6 @@
 	},
 	{
 		"title": "Het gaat hierbij om",
-		"description": "beschrijven van de relatie tussen immuniteit en de instandhouding van het organisme.",
-		"prefix": "u3",
-		"id": "f1e79e94-9527-401a-9996-51a5e002bedd",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "redeneren met verhoudingen tussen grootheden.",
-		"prefix": "u3",
-		"id": "db2c7a9a-b68f-4851-9011-3642aee8521a",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "redeneren over situaties met een systeem.",
-		"prefix": "u4",
-		"id": "dc8811ed-ebf0-4125-9f86-e0626c12a3cf",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "verklaren van situaties met behulp van transport van materie en energie door een systeem;",
-		"prefix": "u4",
-		"id": "654c5cde-64db-44fb-8feb-0b850463dc60",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "verklaren van situaties met behulp van kringlopen van materie.",
-		"prefix": "u5",
-		"id": "fde3a20f-4638-4625-bac3-717b38c1b7e6",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "toepassen van het concept terugkoppeling binnen cellen, organismen en ecosystemen;",
-		"prefix": "u2",
-		"id": "26ff310e-1e7c-4fd3-b02e-0ef8232efc8c",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "beredeneren hoe een dynamisch eenwicht verstoord kan raken.",
-		"prefix": "u3",
-		"id": "27061a51-2796-4f03-9a2c-1152a8457d18",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "beschrijven welke digitale en analoge instrumenten, gereedschappen, stoffen en materialen moeten worden ingezet;",
-		"prefix": "u3",
-		"id": "faefd905-43e0-47cc-b8de-61f6b1afd234",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "redeneren over wetenschappelijke resultaten en resultaten uit eigen onderzoek;",
-		"prefix": "u2",
-		"id": "de2be91e-7cba-49bf-9756-a02ff8289c68",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "doelgericht zoeken en selecteren;",
-		"prefix": "u1",
-		"id": "ea0cf161-7012-47a0-b36d-bb256815961e",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "beoordelen van de betrouwbaarheid van bronnen en de relevantie van informatie;",
-		"prefix": "u2",
-		"id": "565cbf96-abfe-4e0e-8927-d63ef4948ab8",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "doelgericht gebruiken van verschillende communicatievormen;",
-		"prefix": "u3",
-		"id": "3f044296-cdd1-4dc1-a8c1-61df85478d6d",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "toepassen van auteursrecht;",
-		"prefix": "u4",
-		"id": "a3f317ab-1c59-45fc-af6e-a30eaccc6cef",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "maken van een bronvermelding.",
-		"prefix": "u5",
-		"id": "44a247f4-483a-4ac2-a0ca-2ba7ad066bc1",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "beschrijven hoe impulsen worden verwerkt in een bewuste en onbewuste reactie;",
-		"prefix": "u3",
-		"id": "8c2e6c75-3f9c-4164-bb87-3c4fe4a4e6e1",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "redeneren over situaties met een systeem.",
-		"prefix": "u4",
-		"id": "9d3d2cb8-b4d0-4175-a395-837be16b460e",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "verklaren van situaties met behulp van behoud van materie en energie in systemen;",
-		"prefix": "u3",
-		"id": "1ced1ee1-d28a-4c7b-98c4-aed4dbbb854f",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "verklaren van situaties met behulp van transport van materie en energie door een systeem;",
-		"prefix": "u4",
-		"id": "339b7b35-2d1c-46c5-b961-ea1609811ec7",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "verklaren van situaties met behulp van kringlopen van materie.",
-		"prefix": "u5",
-		"id": "0f2b556c-2bca-419e-8f7a-7d873aa64c25",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "redeneren over wetenschappelijke resultaten en resultaten uit eigen onderzoek;",
-		"prefix": "u2",
-		"id": "6c96ed42-7f4f-4842-a00e-58b18a0e2927",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "beschrijven hoe impulsen worden verwerkt in een bewuste en onbewuste reactie;",
-		"prefix": "u3",
-		"id": "19f8bfa4-521f-4a62-b150-5c4659adcc9a",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "toepassen van het gegeven dat materie behouden blijft;",
-		"prefix": "u1",
-		"id": "fad49bfe-e73d-411a-9ccf-591d68d06af9",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "verklaren van situaties met behulp van kringlopen van materie.",
-		"prefix": "u5",
-		"id": "ab6391df-9640-4ed5-a027-bc64baa0d732",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "redeneren over wetenschappelijke resultaten en resultaten uit eigen onderzoek;",
-		"prefix": "u2",
-		"id": "cb6af6e0-2ce2-454e-9ecc-7c6831aa40c5",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "analyseren van de relatie tussen immuniteit en de instandhouding van het organisme.",
-		"prefix": "u3",
-		"id": "c781b21b-b818-4be1-bb0e-fa1bb821d0b2",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "toepassen van het gegeven dat materie behouden blijft;",
-		"prefix": "u1",
-		"id": "c08416f2-39d1-4e2d-bfdb-a4dd6a73d0b2",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "verklaren van situaties met behulp van kringlopen van materie.",
-		"prefix": "u4",
-		"id": "378d5c98-e29c-42e9-9df0-465067b6a809",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "redeneren over wetenchappelijke resultaten en resultaten uit eigen onderzoek;",
-		"prefix": "u2",
-		"id": "02c1af83-eb4c-4131-a697-94c2c90cfe52",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "beschrijven hoe impulsen worden verwerkt in een bewuste en onbewuste reactie;",
-		"prefix": "u3",
-		"id": "ff5c2e83-f5bd-409c-8c69-2d2f9d7e1aa1",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "redeneren over situatis met een systeem.",
-		"prefix": "u4",
-		"id": "0d70bf49-a617-4840-9e4c-053661ba4544",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "verklaren van situaties met behulp van behoud van materie en energie in systemen;",
-		"prefix": "u3",
-		"id": "80686629-f007-4d63-9118-55d9c2b61314",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "verklaren van situaties met behulp van transport van materie en energie door een systeem;",
-		"prefix": "u4",
-		"id": "7bad7377-9048-46f3-88de-ae300e5c599d",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "verklaren van situaties met behulp van kringlopen van materie.",
-		"prefix": "u5",
-		"id": "637db42f-4147-4e78-a04f-973ae662f329",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "redeneren over wetenschappelijke resultaten en resultaten uit eigen onderzoek;",
-		"prefix": "u2",
-		"id": "ce3e4435-09fe-4325-b6bc-3a6535715097",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "redeneren over keuzes bij de constructie van een ontwerp aan de hand van de functie van dat ontwerp.",
-		"prefix": "u3",
-		"id": "ebaf6c39-cd35-4c79-8f70-f4b3fbae03a9",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "redeneren over wetenchappelijke resultaten en resultaten uit eigen onderzoek;",
-		"prefix": "u2",
-		"id": "1594cc00-8847-43fa-82dd-8666339345b2",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "toepassen van vectorkenmerken van een kracht: grootte, richting, rekenkundig samenstellen van gelijkgerichte krachten;",
-		"prefix": "u2",
-		"id": "202f9cfc-f983-421c-b899-c588a7789581",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "de relatie tussen de eigenschappen van een structuur en de functie van die structuur;",
-		"prefix": "u2",
-		"id": "50c2fdcf-527b-4ad5-8ffc-fc7f4012af6c",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "redeneren over keuzes bij de constructie van een ontwerp aan de hand van de functie van dat ontwerp.",
-		"prefix": "u3",
-		"id": "cd4ed91c-859c-480e-97be-56dc375ff4cc",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "beschrijven van verbanden tussen grootheden aan de hand van diagrammen.",
-		"prefix": "u3",
-		"id": "3d688b8f-e6e1-467d-80e3-144d1c4de652",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "redeneren over wetenschappelijke resultaten en resultaten uit eigen onderzoek;",
-		"prefix": "u2",
-		"id": "c1910a1e-aa5b-4d75-a574-da88ef6a84fc",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "de relatie tussen de eigenschappen van een structuur en de functie van die structuur;",
-		"prefix": "u2",
-		"id": "cc055af9-7097-4e52-9ae9-6175211cc322",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "redeneren over keuzes bij de constructie van een ontwerp aan de hand van de functie van dat ontwerp.",
-		"prefix": "u3",
-		"id": "3651b02e-121f-4b34-936a-6b3600c546ab",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "de relatie tussen de eigenschappen van een structuur en de functie van die structuur;",
-		"prefix": "u2",
-		"id": "cc5aa61c-b6cc-4494-b430-d1b2d76c0f99",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "redeneren over keuzes bij de constructie van een ontwerp aan de hand van de functie van dat ontwerp.",
-		"prefix": "u3",
-		"id": "f2a222c6-40ce-4715-8ea7-0c40a3d2c0fc",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "beschrijven van verbanden tussen grootheden aan de hand van formules, diagrammen en tabellen.",
-		"prefix": "u4",
-		"id": "cf2a37eb-3d19-4c18-bbee-0067cd857b8d",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "redeneren over wetenschappelijke resultaten en resultaten uit eigen onderzoek;",
-		"prefix": "u2",
-		"id": "055af2e7-7dfa-4a6d-a54f-2469c361b5e5",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "redeneren over een gegeven kringloop vanuit een behoudswet.",
-		"prefix": "u5",
-		"id": "7f131594-17c1-435d-89ad-064bcdaeeee2",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "beredeneren welke scheidingsmethode geschikt is voor het scheiden van een gegeven mengsel.",
-		"prefix": "u3",
-		"id": "e7405acf-a327-4076-9d3c-6f57b47c9421",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "analyseren van een gegeven systeem met input, output, interacties en terugkoppeling.",
-		"prefix": "u2",
-		"id": "74e43a78-cc83-42fe-94a6-4c77d45bba23",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "redeneren over dynamiek en emergente eigenschappen van een gegeven systeem.",
-		"prefix": "u3",
-		"id": "12037ce0-4dfa-4ef3-b903-59de8768da3f",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "toepassen van het gegeven dat verschillende vormen van energie in elkaar kunnen worden omgezet.",
-		"prefix": "u1",
-		"id": "7f358394-8532-424e-acbd-206f657d1224",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "redeneren over transportverschijnselen in situaties.",
-		"prefix": "u3",
-		"id": "6077b0d4-ea08-4a37-9b77-a6d4bbfc3381",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "redeneren over reactiviteit van stoffen.",
-		"prefix": "u4",
-		"id": "312575f5-0bd8-4127-b573-877ea3d82e5d",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "wendbaar toepassen van concepten, denkwijzen en werkwijzen in beschreven situaties waarin scheikunde relevant is.",
-		"prefix": "u1",
-		"id": "d7aa5624-1a8d-40bd-a7e9-8592f2928e80",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "data verwerken in diagrammen en tabellen met behulp van digitale en niet-digitale middelen.",
-		"prefix": "u2",
-		"id": "3107075b-0e9f-4953-b6c1-a07811c80654",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "redeneren over wetenschappelijke resultaten en resultaten uit eigen onderzoek.",
-		"prefix": "u2",
-		"id": "19400cfd-0973-4d7f-b1b1-1d94d7d24ac3",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "beschrijven hoe eerlijk, onafhankelijk, transparant, verantwoordelijk en zorgvuldig werken door wetenschappers leidt tot verhoging van de betrouwbaarheid van wetenschappelijke kennis.",
-		"prefix": "u4",
-		"id": "a00c8321-dbca-4279-a458-eb5232931b38",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "benoemen van karakteristieke groepen in de structuurformules van moleculaire stoffen.",
-		"prefix": "u4",
-		"id": "e86cc060-1ade-4c13-9ce7-5a3cff1001d3",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "opstellen van structuurformules bij een gegeven systematische naam en omgekeerd.",
-		"prefix": "u5",
-		"id": "8c94817d-f96b-4e95-9c08-12667343b96d",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "verband leggen tussen eigenschappen van atoomsoorten en de positie van deze atoomsoorten in het periodiek systeem.",
-		"prefix": "u2",
-		"id": "98252df1-e28a-4146-b72f-2fdc8c85983d",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "beschrijven van fasen en faseovergangen met het deeltjes-model.",
-		"prefix": "u2",
-		"id": "bf0e9741-5f77-4034-9ac7-d2ced26f156d",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "opstellen van een vergelijking van een proces waarbij alleen de beginstof bekend is: volledige verbranding, additiepolymerisatie, ontleding, oplossen, indampen, faseovergangen",
-		"prefix": "u3",
-		"id": "261c96ec-a6a4-4373-86f1-4069a7d9fb6d",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "beschrijven van de afbraak en vorming van koolhydraten, vetten en eiwitten.",
-		"prefix": "u5",
-		"id": "1b68eb70-6908-4e02-9deb-876147021450",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "beschrijven welke deeltjes betrokken zijn bij zuurbasereacties en redoxreacties.",
-		"prefix": "u1",
-		"id": "4343f82f-1f64-4a73-8e83-567df87fa15d",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "redeneren over een gegeven productieproces.",
-		"prefix": "u2",
-		"id": "5edd442f-304c-4164-86ea-264f20f82153",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "redeneren over een gegeven kringloop vanuit een behoudswet.",
-		"prefix": "u4",
-		"id": "13300faa-5d7d-46a1-a281-1d15741849d2",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "beredeneren welke scheidingsmethode geschikt is voor het scheiden van een gegeven mengsel.",
-		"prefix": "u3",
-		"id": "2def2b27-38bd-4a0a-bd7b-d1668c46d07a",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "beschrijven van een oorzaak-gevolgrelatie met behulp van een onderliggend mechanisme.",
-		"prefix": "u3",
-		"id": "880dcab0-c961-4073-a290-c5adb644f5ee",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "redeneren over transportverschijnselen in situaties.",
-		"prefix": "u3",
-		"id": "7bc8b5ec-e717-4f3e-979f-e34688d7b3c5",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "wendbaar toepassen van concepten, denkwijzen en werkwijzen in beschreven situaties waarin scheikunde relevant is.",
-		"prefix": "u1",
-		"id": "88bd1f6f-3fc3-4546-ba69-1a2ac7e1f00f",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "data verwerken in diagrammen en tabellen met behulp van digitale en niet-digitale middelen.",
-		"prefix": "u2",
-		"id": "43ac97e5-b0e7-47c4-8778-0be5966b835e",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "beschrijven welke deeltjes betrokken zijn bij zuurbasereacties, redoxreacties en ladingtransport.",
-		"prefix": "u1",
-		"id": "a68ce50c-26f3-4448-9723-a6656331abef",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "beschrijven van verschillen tussen soorten productieprocessen.",
-		"prefix": "u2",
-		"id": "34de0f38-a7c1-442e-9239-bbd46d482eba",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "redeneren over een gegeven kringloop vanuit een behoudswet.",
-		"prefix": "u5",
-		"id": "b0838e23-5db8-4d29-9126-6967a721cc54",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "beredeneren of energie vrijkomt of nodig is bij processen aan de hand van waarnemingen en gegevens.",
-		"prefix": "u1",
-		"id": "7875105c-f113-440e-8caa-3f3fdc18b67e",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "beschrijven van de verschuiving van de ligging van het evenwicht door veranderingen in concentratie van betrokken deeltjes, temperatuur en druk.",
-		"prefix": "u3",
-		"id": "12dd3daf-c81f-4d22-940f-1db1c52f4031",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "beredeneren welke scheidingsmethode geschikt is voor het scheiden van een gegeven mengsel.",
-		"prefix": "u3",
-		"id": "05d0aebb-8a23-4d73-8e48-16c364a8b598",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "analyseren van een gegeven systeem met input, output, interacties en terugkoppeling.",
-		"prefix": "u2",
-		"id": "d006aaef-4e99-4e48-8927-28928a3e7c6a",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "redeneren over transportverschijnselen in situaties.",
-		"prefix": "u3",
-		"id": "4dbe2f07-74bb-4965-a17f-f90bf64f0291",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "redeneren over reactiviteit van stoffen.",
-		"prefix": "u4",
-		"id": "26660e74-1699-437f-b00c-fa8f6d76b6e6",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "wendbaar toepassen van concepten, denkwijzen en werkwijzen in beschreven situaties waarin scheikunde relevant is.",
-		"prefix": "u1",
-		"id": "87b38825-6d29-45d1-ba73-e38a10d526b1",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "toepassen van auteursrecht.",
-		"prefix": "u4",
-		"id": "cbb3474f-ffee-4936-9b8b-08a7697b8f76",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "redeneren over wetenschappelijke resultaten en resultaten uit eigen onderzoek.",
-		"prefix": "u2",
-		"id": "75c268d3-3feb-4341-aca7-365e96f66bfb",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "de relatie tussen de eigenschappen van een structuur en de functie van die structuur;",
-		"prefix": "u2",
-		"id": "e010b54d-7297-43c5-840a-230371568e6b",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "redeneren over keuzes bij de constructie van een ontwerp aan de hand van de functie van dat ontwerp.",
-		"prefix": "u3",
-		"id": "5b8df4df-8488-4e96-a6d3-41508f44d8b7",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "redeneren over wetenschappelijke resultaten en resultaten uit eigen onderzoek;",
-		"prefix": "u2",
-		"id": "02677428-7f9b-4b45-b1de-c7a7a994bd69",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Het gaat hierbij om",
 		"description": "lezen van en kijken en luisteren naar informatieve en amuserende bronnen in verschillende vormen over diverse thema’s;",
 		"prefix": "u1",
 		"status": "concept",
@@ -132431,6 +130845,1158 @@
 		"status": "concept",
 		"replaces": [
 			"61e82366-5bb8-4434-bcef-2b7789b1a9cf"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "beschrijven van de relatie tussen immuniteit en de instandhouding van het organisme.",
+		"prefix": "u3",
+		"id": "3094b830-9376-469b-8367-76677d9e5ebc",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"replaces": [
+			"f1e79e94-9527-401a-9996-51a5e002bedd"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "redeneren met verhoudingen tussen grootheden.",
+		"prefix": "u3",
+		"id": "f7ea8308-5b48-4f2a-a915-3d9105701b43",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"replaces": [
+			"db2c7a9a-b68f-4851-9011-3642aee8521a"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "redeneren over situaties met een systeem.",
+		"prefix": "u4",
+		"id": "47a84d4e-be7f-4b10-bb63-ca0c70d15038",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"replaces": [
+			"dc8811ed-ebf0-4125-9f86-e0626c12a3cf"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "verklaren van situaties met behulp van transport van materie en energie door een systeem;",
+		"prefix": "u4",
+		"id": "ed5add22-8567-418d-93e9-91fb9ec21013",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"replaces": [
+			"654c5cde-64db-44fb-8feb-0b850463dc60"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "verklaren van situaties met behulp van kringlopen van materie.",
+		"prefix": "u5",
+		"id": "7ee30c58-f075-4c22-8f97-253ef6ec999e",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"replaces": [
+			"fde3a20f-4638-4625-bac3-717b38c1b7e6"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "toepassen van het concept terugkoppeling binnen cellen, organismen en ecosystemen;",
+		"prefix": "u2",
+		"id": "3e12de30-7e19-4888-8485-7bfcff197026",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"replaces": [
+			"26ff310e-1e7c-4fd3-b02e-0ef8232efc8c"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "beredeneren hoe een dynamisch eenwicht verstoord kan raken.",
+		"prefix": "u3",
+		"id": "aef93b28-551a-401a-b27d-4a890cab967a",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"replaces": [
+			"27061a51-2796-4f03-9a2c-1152a8457d18"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "beschrijven welke digitale en analoge instrumenten, gereedschappen, stoffen en materialen moeten worden ingezet;",
+		"prefix": "u3",
+		"id": "254fcf21-3601-46ed-b10f-706cf52a0a77",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"replaces": [
+			"faefd905-43e0-47cc-b8de-61f6b1afd234"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "redeneren over wetenschappelijke resultaten en resultaten uit eigen onderzoek;",
+		"prefix": "u2",
+		"id": "6c5b2f69-9402-44fd-9294-7a3055a39350",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"replaces": [
+			"de2be91e-7cba-49bf-9756-a02ff8289c68"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "doelgericht zoeken en selecteren;",
+		"prefix": "u1",
+		"id": "f5f353c1-0318-43ba-998a-ff7d0368a54c",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"replaces": [
+			"ea0cf161-7012-47a0-b36d-bb256815961e"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "beoordelen van de betrouwbaarheid van bronnen en de relevantie van informatie;",
+		"prefix": "u2",
+		"id": "d62d1136-0920-4388-aaa1-2b967c810d12",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"replaces": [
+			"565cbf96-abfe-4e0e-8927-d63ef4948ab8"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "doelgericht gebruiken van verschillende communicatievormen;",
+		"prefix": "u3",
+		"id": "b33d2f0c-9bf8-4a9c-bf71-90c519a2b509",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"replaces": [
+			"3f044296-cdd1-4dc1-a8c1-61df85478d6d"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "toepassen van auteursrecht;",
+		"prefix": "u4",
+		"id": "38557dce-627e-405f-a22b-fddd4c644a9a",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"replaces": [
+			"a3f317ab-1c59-45fc-af6e-a30eaccc6cef"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "maken van een bronvermelding.",
+		"prefix": "u5",
+		"id": "a3aaf7f8-6d2a-4444-9360-8861b5ee6272",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"replaces": [
+			"44a247f4-483a-4ac2-a0ca-2ba7ad066bc1"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "beschrijven hoe impulsen worden verwerkt in een bewuste en onbewuste reactie;",
+		"prefix": "u3",
+		"id": "467a4826-8a69-47e9-a19b-92048d18a5e1",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"status": "concept",
+		"replaces": [
+			"8c2e6c75-3f9c-4164-bb87-3c4fe4a4e6e1"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "redeneren over situaties met een systeem.",
+		"prefix": "u4",
+		"id": "26edc094-0a83-4c8f-b612-8239f633837b",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"status": "concept",
+		"replaces": [
+			"9d3d2cb8-b4d0-4175-a395-837be16b460e"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "verklaren van situaties met behulp van behoud van materie en energie in systemen;",
+		"prefix": "u3",
+		"id": "ef1663c6-59d0-491d-a0f2-9f3597ada7bd",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"status": "concept",
+		"replaces": [
+			"1ced1ee1-d28a-4c7b-98c4-aed4dbbb854f"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "verklaren van situaties met behulp van transport van materie en energie door een systeem;",
+		"prefix": "u4",
+		"id": "f9969e89-c084-463f-9458-5ac0203a19d0",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"status": "concept",
+		"replaces": [
+			"339b7b35-2d1c-46c5-b961-ea1609811ec7"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "verklaren van situaties met behulp van kringlopen van materie.",
+		"prefix": "u5",
+		"id": "caaace86-cfc3-4b3f-bbc8-324ce5b9af1a",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"status": "concept",
+		"replaces": [
+			"0f2b556c-2bca-419e-8f7a-7d873aa64c25"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "redeneren over wetenschappelijke resultaten en resultaten uit eigen onderzoek;",
+		"prefix": "u2",
+		"id": "e12a9875-5c5a-4b8c-8d21-e9c77eb50b9a",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"status": "concept",
+		"replaces": [
+			"6c96ed42-7f4f-4842-a00e-58b18a0e2927"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "beschrijven hoe impulsen worden verwerkt in een bewuste en onbewuste reactie;",
+		"prefix": "u3",
+		"id": "fae644e8-7210-4bbd-88fb-d75abe6c38c0",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"status": "concept",
+		"replaces": [
+			"19f8bfa4-521f-4a62-b150-5c4659adcc9a"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "toepassen van het gegeven dat materie behouden blijft;",
+		"prefix": "u1",
+		"id": "32390d2a-4baa-40aa-83ff-e75561e6e116",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"status": "concept",
+		"replaces": [
+			"fad49bfe-e73d-411a-9ccf-591d68d06af9"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "verklaren van situaties met behulp van kringlopen van materie.",
+		"prefix": "u5",
+		"id": "4c0175ea-d2f4-4bbe-8198-1c861bbb69d3",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"status": "concept",
+		"replaces": [
+			"ab6391df-9640-4ed5-a027-bc64baa0d732"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "redeneren over wetenschappelijke resultaten en resultaten uit eigen onderzoek;",
+		"prefix": "u2",
+		"id": "a9950ffe-f93a-40c6-9f4e-53651a9ff0da",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"status": "concept",
+		"replaces": [
+			"cb6af6e0-2ce2-454e-9ecc-7c6831aa40c5"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "analyseren van de relatie tussen immuniteit en de instandhouding van het organisme.",
+		"prefix": "u3",
+		"id": "e663f5a2-06b5-418e-a8eb-8894c02c0953",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"status": "concept",
+		"replaces": [
+			"c781b21b-b818-4be1-bb0e-fa1bb821d0b2"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "toepassen van het gegeven dat materie behouden blijft;",
+		"prefix": "u1",
+		"id": "036cdc30-2787-496a-acf3-f4ef54b68bed",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"status": "concept",
+		"replaces": [
+			"c08416f2-39d1-4e2d-bfdb-a4dd6a73d0b2"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "verklaren van situaties met behulp van kringlopen van materie.",
+		"prefix": "u4",
+		"id": "bea122f5-0d56-4d8c-84e6-090e9a5a62ca",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"status": "concept",
+		"replaces": [
+			"378d5c98-e29c-42e9-9df0-465067b6a809"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "redeneren over wetenchappelijke resultaten en resultaten uit eigen onderzoek;",
+		"prefix": "u2",
+		"id": "66b3f439-7781-430b-be2e-6deafa59d226",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"status": "concept",
+		"replaces": [
+			"02c1af83-eb4c-4131-a697-94c2c90cfe52"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "beschrijven hoe impulsen worden verwerkt in een bewuste en onbewuste reactie;",
+		"prefix": "u3",
+		"id": "27b9e498-bf28-4f51-828a-402fec37609e",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"status": "concept",
+		"replaces": [
+			"ff5c2e83-f5bd-409c-8c69-2d2f9d7e1aa1"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "redeneren over situatis met een systeem.",
+		"prefix": "u4",
+		"id": "d5d140bd-a2d8-4988-bd17-f156bcef7aa8",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"status": "concept",
+		"replaces": [
+			"0d70bf49-a617-4840-9e4c-053661ba4544"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "verklaren van situaties met behulp van behoud van materie en energie in systemen;",
+		"prefix": "u3",
+		"id": "4c69f06b-235b-4e01-b7a5-2ac4f65eb8d4",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"status": "concept",
+		"replaces": [
+			"80686629-f007-4d63-9118-55d9c2b61314"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "verklaren van situaties met behulp van transport van materie en energie door een systeem;",
+		"prefix": "u4",
+		"id": "71840378-76ed-48a2-a7e3-21195d18c715",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"status": "concept",
+		"replaces": [
+			"7bad7377-9048-46f3-88de-ae300e5c599d"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "verklaren van situaties met behulp van kringlopen van materie.",
+		"prefix": "u5",
+		"id": "c34cd23f-e689-4d38-aac9-32677c8681c9",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"status": "concept",
+		"replaces": [
+			"637db42f-4147-4e78-a04f-973ae662f329"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "redeneren over wetenschappelijke resultaten en resultaten uit eigen onderzoek;",
+		"prefix": "u2",
+		"id": "6ec07329-d064-406d-8cd9-4d98f72379ab",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"status": "concept",
+		"replaces": [
+			"ce3e4435-09fe-4325-b6bc-3a6535715097"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "redeneren over keuzes bij de constructie van een ontwerp aan de hand van de functie van dat ontwerp.",
+		"prefix": "u3",
+		"id": "eb40c9ac-438b-45f8-b699-c40204367bd9",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"status": "concept",
+		"replaces": [
+			"ebaf6c39-cd35-4c79-8f70-f4b3fbae03a9"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "redeneren over wetenchappelijke resultaten en resultaten uit eigen onderzoek;",
+		"prefix": "u2",
+		"id": "eec891f7-0f36-4583-b4d0-93a830a3ab97",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"status": "concept",
+		"replaces": [
+			"1594cc00-8847-43fa-82dd-8666339345b2"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "toepassen van vectorkenmerken van een kracht: grootte, richting, rekenkundig samenstellen van gelijkgerichte krachten;",
+		"prefix": "u2",
+		"id": "e1604b14-9f91-40c8-b484-04bc1abbf92f",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"status": "concept",
+		"replaces": [
+			"202f9cfc-f983-421c-b899-c588a7789581"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "de relatie tussen de eigenschappen van een structuur en de functie van die structuur;",
+		"prefix": "u2",
+		"id": "22372b5b-8ef6-4da2-8066-ce4bf214e10d",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"status": "concept",
+		"replaces": [
+			"50c2fdcf-527b-4ad5-8ffc-fc7f4012af6c"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "redeneren over keuzes bij de constructie van een ontwerp aan de hand van de functie van dat ontwerp.",
+		"prefix": "u3",
+		"id": "b428d0c4-b833-45c0-811e-88b0bf2c255c",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"status": "concept",
+		"replaces": [
+			"cd4ed91c-859c-480e-97be-56dc375ff4cc"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "beschrijven van verbanden tussen grootheden aan de hand van diagrammen.",
+		"prefix": "u3",
+		"id": "395217a5-dfa6-45c5-9cb6-def15f7bdf62",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"status": "concept",
+		"replaces": [
+			"3d688b8f-e6e1-467d-80e3-144d1c4de652"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "redeneren over wetenschappelijke resultaten en resultaten uit eigen onderzoek;",
+		"prefix": "u2",
+		"id": "0cd90ceb-926d-422d-912f-419d22d53912",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"status": "concept",
+		"replaces": [
+			"c1910a1e-aa5b-4d75-a574-da88ef6a84fc"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "de relatie tussen de eigenschappen van een structuur en de functie van die structuur;",
+		"prefix": "u2",
+		"id": "e24dc7cd-a5d8-44dd-9473-c45e2959e886",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"status": "concept",
+		"replaces": [
+			"cc055af9-7097-4e52-9ae9-6175211cc322"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "redeneren over keuzes bij de constructie van een ontwerp aan de hand van de functie van dat ontwerp.",
+		"prefix": "u3",
+		"id": "ee907d44-48e0-4f35-b1ce-f19b97396690",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"status": "concept",
+		"replaces": [
+			"3651b02e-121f-4b34-936a-6b3600c546ab"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "de relatie tussen de eigenschappen van een structuur en de functie van die structuur;",
+		"prefix": "u2",
+		"id": "f98f7808-c8c5-4314-b3bc-fbb43bbde869",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"status": "concept",
+		"replaces": [
+			"cc5aa61c-b6cc-4494-b430-d1b2d76c0f99"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "redeneren over keuzes bij de constructie van een ontwerp aan de hand van de functie van dat ontwerp.",
+		"prefix": "u3",
+		"id": "239195ee-ed3f-4ad9-8b83-5d4c38b219ec",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"status": "concept",
+		"replaces": [
+			"f2a222c6-40ce-4715-8ea7-0c40a3d2c0fc"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "beschrijven van verbanden tussen grootheden aan de hand van formules, diagrammen en tabellen.",
+		"prefix": "u4",
+		"id": "26ad77bc-9a7a-42fd-965f-1654bb9526e7",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"status": "concept",
+		"replaces": [
+			"cf2a37eb-3d19-4c18-bbee-0067cd857b8d"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "redeneren over wetenschappelijke resultaten en resultaten uit eigen onderzoek;",
+		"prefix": "u2",
+		"id": "41899a63-7f09-4571-a982-b2cf150b8e07",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"status": "concept",
+		"replaces": [
+			"055af2e7-7dfa-4a6d-a54f-2469c361b5e5"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "redeneren over een gegeven kringloop vanuit een behoudswet.",
+		"prefix": "u5",
+		"id": "d9a2e690-41b9-4331-ac24-0bb99f02861b",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"replaces": [
+			"7f131594-17c1-435d-89ad-064bcdaeeee2"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "beredeneren welke scheidingsmethode geschikt is voor het scheiden van een gegeven mengsel.",
+		"prefix": "u3",
+		"id": "a2bdfae4-5433-480b-b210-30af202fa86f",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"replaces": [
+			"e7405acf-a327-4076-9d3c-6f57b47c9421"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "analyseren van een gegeven systeem met input, output, interacties en terugkoppeling.",
+		"prefix": "u2",
+		"id": "a28212d0-3922-444b-9023-3cf421bae00d",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"replaces": [
+			"74e43a78-cc83-42fe-94a6-4c77d45bba23"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "redeneren over dynamiek en emergente eigenschappen van een gegeven systeem.",
+		"prefix": "u3",
+		"id": "43559ae5-29de-45e4-848d-cbd10a2a0b1d",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"replaces": [
+			"12037ce0-4dfa-4ef3-b903-59de8768da3f"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "toepassen van het gegeven dat verschillende vormen van energie in elkaar kunnen worden omgezet.",
+		"prefix": "u1",
+		"id": "a1a9cc71-15e8-480d-91f8-263f75cd0394",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"replaces": [
+			"7f358394-8532-424e-acbd-206f657d1224"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "redeneren over transportverschijnselen in situaties.",
+		"prefix": "u3",
+		"id": "f6f25e9a-c7c4-4400-9b54-2a955bf03fdf",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"replaces": [
+			"6077b0d4-ea08-4a37-9b77-a6d4bbfc3381"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "redeneren over reactiviteit van stoffen.",
+		"prefix": "u4",
+		"id": "4837470b-cf39-4efe-85b8-0d51ef189055",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"replaces": [
+			"312575f5-0bd8-4127-b573-877ea3d82e5d"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "wendbaar toepassen van concepten, denkwijzen en werkwijzen in beschreven situaties waarin scheikunde relevant is.",
+		"prefix": "u1",
+		"id": "97bd65ee-d337-4cf4-b8d2-2ef513b7f342",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"replaces": [
+			"d7aa5624-1a8d-40bd-a7e9-8592f2928e80"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "data verwerken in diagrammen en tabellen met behulp van digitale en niet-digitale middelen.",
+		"prefix": "u2",
+		"id": "4dc8f01f-215d-4038-bed8-6b064a4786c0",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"replaces": [
+			"3107075b-0e9f-4953-b6c1-a07811c80654"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "redeneren over wetenschappelijke resultaten en resultaten uit eigen onderzoek.",
+		"prefix": "u2",
+		"id": "d4c0a3f3-dfe3-49b7-97f1-686cfcd8730e",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"replaces": [
+			"19400cfd-0973-4d7f-b1b1-1d94d7d24ac3"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "beschrijven hoe eerlijk, onafhankelijk, transparant, verantwoordelijk en zorgvuldig werken door wetenschappers leidt tot verhoging van de betrouwbaarheid van wetenschappelijke kennis.",
+		"prefix": "u4",
+		"id": "98a97c24-60e0-4c0a-b3fe-69f6f2067032",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"status": "concept",
+		"replaces": [
+			"a00c8321-dbca-4279-a458-eb5232931b38"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "benoemen van karakteristieke groepen in de structuurformules van moleculaire stoffen.",
+		"prefix": "u4",
+		"id": "173721af-1125-4dde-bb11-50a27d5bf38c",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"status": "concept",
+		"replaces": [
+			"e86cc060-1ade-4c13-9ce7-5a3cff1001d3"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "opstellen van structuurformules bij een gegeven systematische naam en omgekeerd.",
+		"prefix": "u5",
+		"id": "a7615272-76eb-48fa-9387-ffb2b9777c50",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"status": "concept",
+		"replaces": [
+			"8c94817d-f96b-4e95-9c08-12667343b96d"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "verband leggen tussen eigenschappen van atoomsoorten en de positie van deze atoomsoorten in het periodiek systeem.",
+		"prefix": "u2",
+		"id": "28d0117a-de53-4611-a429-623a7d5b3355",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"status": "concept",
+		"replaces": [
+			"98252df1-e28a-4146-b72f-2fdc8c85983d"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "beschrijven van fasen en faseovergangen met het deeltjes-model.",
+		"prefix": "u2",
+		"id": "84fe61ec-5bc6-480a-b620-b315ef2c20a3",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"status": "concept",
+		"replaces": [
+			"bf0e9741-5f77-4034-9ac7-d2ced26f156d"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "opstellen van een vergelijking van een proces waarbij alleen de beginstof bekend is: volledige verbranding, additiepolymerisatie, ontleding, oplossen, indampen, faseovergangen",
+		"prefix": "u3",
+		"id": "5e95af89-8e4c-4bf9-8837-a8c6687e91d7",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"status": "concept",
+		"replaces": [
+			"261c96ec-a6a4-4373-86f1-4069a7d9fb6d"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "beschrijven van de afbraak en vorming van koolhydraten, vetten en eiwitten.",
+		"prefix": "u5",
+		"id": "f261119f-ce58-47f6-8626-f9686d4cbb0f",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"status": "concept",
+		"replaces": [
+			"1b68eb70-6908-4e02-9deb-876147021450"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "beschrijven welke deeltjes betrokken zijn bij zuurbasereacties en redoxreacties.",
+		"prefix": "u1",
+		"id": "022c6138-d90e-4449-bcaa-7c3cdb5a0f98",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"status": "concept",
+		"replaces": [
+			"4343f82f-1f64-4a73-8e83-567df87fa15d"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "redeneren over een gegeven productieproces.",
+		"prefix": "u2",
+		"id": "e3d94e41-c824-4f02-a35c-62e8fff8f6e2",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"status": "concept",
+		"replaces": [
+			"5edd442f-304c-4164-86ea-264f20f82153"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "redeneren over een gegeven kringloop vanuit een behoudswet.",
+		"prefix": "u4",
+		"id": "8e39a24f-655a-4366-a131-08315c9965cb",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"status": "concept",
+		"replaces": [
+			"13300faa-5d7d-46a1-a281-1d15741849d2"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "beredeneren welke scheidingsmethode geschikt is voor het scheiden van een gegeven mengsel.",
+		"prefix": "u3",
+		"id": "975efbd4-d7c1-40a9-a903-2b6bf60edf9b",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"status": "concept",
+		"replaces": [
+			"2def2b27-38bd-4a0a-bd7b-d1668c46d07a"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "beschrijven van een oorzaak-gevolgrelatie met behulp van een onderliggend mechanisme.",
+		"prefix": "u3",
+		"id": "452157d8-7e14-498e-81ed-07aa308e2baf",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"status": "concept",
+		"replaces": [
+			"880dcab0-c961-4073-a290-c5adb644f5ee"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "redeneren over transportverschijnselen in situaties.",
+		"prefix": "u3",
+		"id": "b06aa6b8-29de-4d9b-b24f-0b378c1dce10",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"status": "concept",
+		"replaces": [
+			"7bc8b5ec-e717-4f3e-979f-e34688d7b3c5"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "wendbaar toepassen van concepten, denkwijzen en werkwijzen in beschreven situaties waarin scheikunde relevant is.",
+		"prefix": "u1",
+		"id": "27a9c19b-d3c3-4cd6-a423-aa2f2b882ce0",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"status": "concept",
+		"replaces": [
+			"88bd1f6f-3fc3-4546-ba69-1a2ac7e1f00f"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "data verwerken in diagrammen en tabellen met behulp van digitale en niet-digitale middelen.",
+		"prefix": "u2",
+		"id": "0c0bc6c3-9abc-4662-9575-326d494bf3a9",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"status": "concept",
+		"replaces": [
+			"43ac97e5-b0e7-47c4-8778-0be5966b835e"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "beschrijven welke deeltjes betrokken zijn bij zuurbasereacties, redoxreacties en ladingtransport.",
+		"prefix": "u1",
+		"id": "99824480-b7e0-4a1e-af09-2b9c0ec2f8b7",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"status": "concept",
+		"replaces": [
+			"a68ce50c-26f3-4448-9723-a6656331abef"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "beschrijven van verschillen tussen soorten productieprocessen.",
+		"prefix": "u2",
+		"id": "ff3f66b6-7b95-4384-9bd3-7af82b8a5db0",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"status": "concept",
+		"replaces": [
+			"34de0f38-a7c1-442e-9239-bbd46d482eba"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "redeneren over een gegeven kringloop vanuit een behoudswet.",
+		"prefix": "u5",
+		"id": "56b311f9-b8cc-410b-b8de-81f6c07421d9",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"status": "concept",
+		"replaces": [
+			"b0838e23-5db8-4d29-9126-6967a721cc54"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "beredeneren of energie vrijkomt of nodig is bij processen aan de hand van waarnemingen en gegevens.",
+		"prefix": "u1",
+		"id": "b2e1096a-2d62-47ff-a097-6ed27b84bfe6",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"status": "concept",
+		"replaces": [
+			"7875105c-f113-440e-8caa-3f3fdc18b67e"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "beschrijven van de verschuiving van de ligging van het evenwicht door veranderingen in concentratie van betrokken deeltjes, temperatuur en druk.",
+		"prefix": "u3",
+		"id": "78b59caa-707a-4c7f-a9b6-84c895a93ed7",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"status": "concept",
+		"replaces": [
+			"12dd3daf-c81f-4d22-940f-1db1c52f4031"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "beredeneren welke scheidingsmethode geschikt is voor het scheiden van een gegeven mengsel.",
+		"prefix": "u3",
+		"id": "0ab12096-df6e-4b64-a2b3-d546d49cbb57",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"status": "concept",
+		"replaces": [
+			"05d0aebb-8a23-4d73-8e48-16c364a8b598"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "analyseren van een gegeven systeem met input, output, interacties en terugkoppeling.",
+		"prefix": "u2",
+		"id": "bff945c2-b5a9-48d9-96df-0c97a8cdefeb",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"status": "concept",
+		"replaces": [
+			"d006aaef-4e99-4e48-8927-28928a3e7c6a"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "redeneren over transportverschijnselen in situaties.",
+		"prefix": "u3",
+		"id": "90541d63-2651-4666-ade4-31819dde79e7",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"status": "concept",
+		"replaces": [
+			"4dbe2f07-74bb-4965-a17f-f90bf64f0291"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "redeneren over reactiviteit van stoffen.",
+		"prefix": "u4",
+		"id": "061887ac-ed62-484a-a741-24d75db22125",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"status": "concept",
+		"replaces": [
+			"26660e74-1699-437f-b00c-fa8f6d76b6e6"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "wendbaar toepassen van concepten, denkwijzen en werkwijzen in beschreven situaties waarin scheikunde relevant is.",
+		"prefix": "u1",
+		"id": "ac6f5875-8b7e-4ef2-86a6-b899c9a39d37",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"status": "concept",
+		"replaces": [
+			"87b38825-6d29-45d1-ba73-e38a10d526b1"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "toepassen van auteursrecht.",
+		"prefix": "u4",
+		"id": "a8519035-2896-418c-9012-7beb16fcc64e",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"status": "concept",
+		"replaces": [
+			"cbb3474f-ffee-4936-9b8b-08a7697b8f76"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "redeneren over wetenschappelijke resultaten en resultaten uit eigen onderzoek.",
+		"prefix": "u2",
+		"id": "c65e030e-c065-401b-a358-646bcefeab33",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"status": "concept",
+		"replaces": [
+			"75c268d3-3feb-4341-aca7-365e96f66bfb"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "de relatie tussen de eigenschappen van een structuur en de functie van die structuur;",
+		"prefix": "u2",
+		"id": "f96e8192-8627-4037-b337-ad20d467cce3",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"replaces": [
+			"e010b54d-7297-43c5-840a-230371568e6b"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "redeneren over keuzes bij de constructie van een ontwerp aan de hand van de functie van dat ontwerp.",
+		"prefix": "u3",
+		"id": "20561beb-9ba6-4da7-b396-850049acc063",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"replaces": [
+			"5b8df4df-8488-4e96-a6d3-41508f44d8b7"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "redeneren over wetenschappelijke resultaten en resultaten uit eigen onderzoek;",
+		"prefix": "u2",
+		"id": "af496fec-0ff8-416c-8f72-08b12eaa1a18",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"replaces": [
+			"02677428-7f9b-4b45-b1de-c7a7a994bd69"
 		]
 	}
 ]

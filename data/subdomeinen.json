@@ -9826,19 +9826,6 @@
 		]
 	},
 	{
-		"title": "Subdomein B5",
-		"description": "Reageren op veranderingen",
-		"prefix": "B5",
-		"id": "8595f255-fa74-46d0-b505-de92a638c99b",
-		"fo_doelzin_id": [
-			"48c0a513-2f77-4db6-9f2e-b7eca394b34e"
-		],
-		"replaces": [
-			"aa1b23a2-2a24-47c7-931a-69b3de91d5dd",
-			"7344c5d3-a840-46a8-8335-ebe7ebe2e5bd"
-		]
-	},
-	{
 		"title": "Subdomein B6",
 		"description": "Keuze groen",
 		"prefix": "B6",
@@ -9892,41 +9879,6 @@
 		"replaces": [
 			"8cd905c2-e50c-4d0b-b221-1decebf4179a",
 			"303a1ca2-9fea-44f0-be90-1d21c095ec02"
-		]
-	},
-	{
-		"title": "Subdomein E1",
-		"description": "Werkwijzen - SE",
-		"prefix": "E1",
-		"id": "4e459b42-90ef-4e69-9bf8-72d3a378b771",
-		"fo_doelzin_id": [
-			"252f30b0-5d1e-4ed5-8f38-28421a9c33b7",
-			"0a27a595-2964-449e-a1b3-9720747bb986",
-			"12f8209a-d027-4a79-a18f-ab7cd7b457b4",
-			"9fec7fb9-2dfd-4b72-8207-a39a2b0a8fde",
-			"98a99eb0-c3b0-4f31-afc0-380c3c90c1f9"
-		],
-		"replaces": [
-			"795334f9-ebf0-461f-aea2-58e1302c7e57",
-			"50ba9e65-cf7a-426a-ad96-51b1596b1b0e"
-		]
-	},
-	{
-		"title": "Subdomein E2",
-		"description": "Werkwijzen - SE-CE",
-		"prefix": "E2",
-		"id": "8cd96247-524a-4182-9dce-22839cb2b6cc",
-		"fo_doelzin_id": [
-			"f12a1600-8cf7-4b5d-a201-4ed5b908424e",
-			"e3275cb9-e842-4978-bc68-79c1315e294f",
-			"0983ac64-188d-4adc-87bd-6c794fdee0ca",
-			"23ad3e3b-bcf0-4458-862d-b061aab534e8",
-			"3db60ffd-8ef7-4d8f-a91e-68e41b827adc",
-			"698fed55-24a9-45bc-b251-ff7bc4916cb5"
-		],
-		"replaces": [
-			"0e57f7f0-ddf8-47cd-bf5b-e6159bd2a0e2",
-			"5e66838d-5eab-4a67-97fa-848be9b86761"
 		]
 	},
 	{
@@ -9987,19 +9939,6 @@
 		]
 	},
 	{
-		"title": "Subdomein B5",
-		"description": "Reageren op veranderingen",
-		"prefix": "B5",
-		"id": "7dc4dadf-733e-4157-9546-a6d3d8e0d7f6",
-		"fo_doelzin_id": [
-			"7935e927-8259-40f6-9762-cf9d05c61fcf"
-		],
-		"replaces": [
-			"2056ca8a-90fb-45cb-ad97-d0fa1ea251a1",
-			"3d2ce685-0d20-4415-97f1-a6014a4b4497"
-		]
-	},
-	{
 		"title": "Subdomein B6",
 		"description": "Keuze groen",
 		"prefix": "B6",
@@ -10053,41 +9992,6 @@
 		"replaces": [
 			"9a1b7a2d-f00f-4e3e-a89b-992e6636bb07",
 			"c55a617c-71d0-438c-9b62-134ca75914e0"
-		]
-	},
-	{
-		"title": "Subdomein E1",
-		"description": "Werkwijzen - SE",
-		"prefix": "E1",
-		"id": "78122124-a529-45f5-a1be-dda9fd3bc390",
-		"fo_doelzin_id": [
-			"0c8b0aae-1094-4dfb-9115-9882694905a7",
-			"eff773e8-fdc9-4c2e-b776-3db35c683e20",
-			"04436892-a4f4-45f3-8b15-af39f42ed570",
-			"7b0c7b7c-f5f5-4175-8b87-fc9c911253fd",
-			"b59bf551-5dd9-4830-81ec-1d095f0917c7"
-		],
-		"replaces": [
-			"0a957186-6536-4a3c-9f9f-e6284a84e9a0",
-			"62a6084d-e0c4-4658-93fb-e2487fa4ad48"
-		]
-	},
-	{
-		"title": "Subdomein E2",
-		"description": "Werkwijzen - SE-CE",
-		"prefix": "E2",
-		"id": "fb5a4761-2aa0-429b-ba91-d9687a3634f7",
-		"fo_doelzin_id": [
-			"0d816937-b6d1-474f-9040-336087d1237e",
-			"d954baa3-8b10-4bc1-a369-ac97fb5a5b48",
-			"ac0a8fc5-451c-4e64-a2ef-63b740ec8cb3",
-			"65dfd282-faf0-425b-9933-c9de10dbdc8c",
-			"7fc13c25-da13-4f58-a3f9-d9038e8ee6a5",
-			"8af5e123-3ae0-4e6b-980f-0ba6e6e0cb9f"
-		],
-		"replaces": [
-			"a9ff0135-2a89-47d5-b9dc-0992a85dc3e2",
-			"6297048d-a549-4989-a2c6-1a72cf008a32"
 		]
 	},
 	{
@@ -10147,20 +10051,6 @@
 		"replaces": [
 			"805ae3b9-91ad-43a2-8590-d38226ddc4fc",
 			"e0065141-120d-4399-81e2-1714d23759ad"
-		]
-	},
-	{
-		"title": "Subdomein B5",
-		"description": "Reageren op veranderingen",
-		"prefix": "B5",
-		"id": "c670ad60-2294-4245-b99d-5bcb2c861aa3",
-		"fo_doelzin_id": [
-			"d8c04123-1b20-4047-9aa7-d958271301bb",
-			"04635555-f7d7-48b8-a72c-17d37d1f63fc"
-		],
-		"replaces": [
-			"05c6e7cb-bca7-4221-8147-66dbddc326d3",
-			"2e28b0f5-0f01-4cb3-baa9-1222e43eaede"
 		]
 	},
 	{
@@ -10228,41 +10118,6 @@
 		"replaces": [
 			"27fb7f2f-6f4d-4302-8f70-04cefa387189",
 			"b7033cf9-a9f1-4113-8880-6bd9c527562b"
-		]
-	},
-	{
-		"title": "Subdomein E1",
-		"description": "Werkwijzen - SE",
-		"prefix": "E1",
-		"id": "c23572bc-c360-466b-b829-c4eb2e2711da",
-		"fo_doelzin_id": [
-			"94beff4b-4df2-4da0-ab68-a2f7938495ce",
-			"7f7ce1c2-903a-4b83-aaf7-32d956cb4239",
-			"cf3ebb48-f47c-47ea-bc41-993436d98297",
-			"bec85e84-39b3-427e-9c3c-9d025d3a9da3",
-			"18297df3-4af9-46a8-901e-b42fb83d9cdf"
-		],
-		"replaces": [
-			"6a5430a3-b99e-4204-be4b-98033204be2e",
-			"fb98f7d0-616a-44c4-8c07-f507f43b4337"
-		]
-	},
-	{
-		"title": "Subdomein E2",
-		"description": "Werkwijzen - SE-CE",
-		"prefix": "E2",
-		"id": "f6fe2dcf-62ab-4949-9561-0b760cc3754b",
-		"fo_doelzin_id": [
-			"cfd82639-6030-4cab-a044-92cb3752a6f7",
-			"5a7ecf0e-eedc-4992-8a59-ff6b59506c72",
-			"2fa4f02e-47ba-4703-bb63-98f8770d0461",
-			"895ec92a-35ab-4a4f-9ff9-d8c5a6088fb5",
-			"37338484-01a1-44f4-a597-e5bed8d8a6da",
-			"2d4f973a-d942-4c80-a797-925fa72a75d6"
-		],
-		"replaces": [
-			"3fdc987d-4691-4e6b-80ff-9eb7fd73ba3c",
-			"1b95190d-4c32-457f-8fe8-c5d8ca5f0fc6"
 		]
 	},
 	{
@@ -10337,19 +10192,6 @@
 		]
 	},
 	{
-		"title": "Subdomein B6",
-		"description": "Reageren op veranderingen - SE-CE",
-		"prefix": "B6",
-		"id": "318e367a-5ab2-421d-bfc5-baa3cf1419b5",
-		"fo_doelzin_id": [
-			"d45b8849-b178-421a-9501-3f5b6b7e3bfa"
-		],
-		"replaces": [
-			"50af247f-44ba-4c7f-9a0b-fc48f377edfa",
-			"20a12731-36ec-4e19-b9f7-b2c37ad32289"
-		]
-	},
-	{
 		"title": "Subdomein B7",
 		"description": "Reageren op veranderingen - SE",
 		"prefix": "B7",
@@ -10402,41 +10244,6 @@
 		"replaces": [
 			"b20958a8-c92d-4a84-b7fe-2b921dfbaef3",
 			"704fc4cb-276e-40ce-89a9-86c3abe360e5"
-		]
-	},
-	{
-		"title": "Subdomein E1",
-		"description": "Werkwijzen - SE",
-		"prefix": "E1",
-		"id": "3fddc32f-9725-4c23-86a5-71dc0dd452d2",
-		"fo_doelzin_id": [
-			"1feb3c25-2507-436f-a400-018f3f29d238",
-			"0337dc88-3fdb-4ca3-9125-433a07b5f5f8",
-			"4d4e7f45-06ee-4f6b-9a2c-5efb9bf72196",
-			"966217ba-1258-4d40-85c8-b8499957e36b",
-			"745b4b35-9f0e-46b6-930e-eb3989fce99d"
-		],
-		"replaces": [
-			"2e17c1e8-1993-40da-bd6b-53fb76872ab0",
-			"d8c1030b-89c1-4170-9621-b90758ca150a"
-		]
-	},
-	{
-		"title": "Subdomein E2",
-		"description": "Werkwijzen - SE-CE",
-		"prefix": "E2",
-		"id": "430647df-b4b2-4b1f-a7f9-62d2a92be64f",
-		"fo_doelzin_id": [
-			"dc25b2fb-e059-40bc-99a6-226d20c8a427",
-			"0c53f84f-00e0-48eb-b483-1fe705b7e169",
-			"6c5ff484-4b50-4ac4-8eda-17ba3e65ebdb",
-			"6af698d1-a81e-4f7d-99b9-4b85b6923e25",
-			"18eb49ed-d567-4106-b6b0-5da0974d3ab2",
-			"2e4a40aa-7edd-4272-9630-23e39dc9b036"
-		],
-		"replaces": [
-			"7f229d50-498d-4cf3-aa0e-62d75b2298bc",
-			"7a6124b7-0c4e-4be8-9aa5-ce069dcc22e0"
 		]
 	},
 	{
@@ -10523,19 +10330,6 @@
 		]
 	},
 	{
-		"title": "Subdomein B7",
-		"description": "Reageren op veranderingen - SE-CE",
-		"prefix": "B7",
-		"id": "ba12f31a-aa44-4fef-bac9-4d603a7629e8",
-		"fo_doelzin_id": [
-			"a7f112ce-eb49-480d-ac5b-78d295890a48"
-		],
-		"replaces": [
-			"1a1f35e8-fd9e-4499-8fb7-da1611bb4d8f",
-			"f1dc2532-1c32-4275-a8fb-8032c6d489c3"
-		]
-	},
-	{
 		"title": "Subdomein B8",
 		"description": "Reageren op veranderingen - SE",
 		"prefix": "B8",
@@ -10588,54 +10382,6 @@
 		"replaces": [
 			"d452a1d8-b14a-4279-ab60-897f35b5e153",
 			"23f9b5d0-4904-4649-baa6-35ad831b9737"
-		]
-	},
-	{
-		"title": "Subdomein E1",
-		"description": "Werkwijzen - SE",
-		"prefix": "E1",
-		"id": "2abdfbfd-50cf-434b-b187-39434f5bf9bf",
-		"fo_doelzin_id": [
-			"e20fc198-b4d0-487a-aa20-e74d494755b9",
-			"64cfa351-7c40-4cbd-a559-3c1d3ab24ca1",
-			"1b8275d6-4d44-42ce-8a0c-585ec9fb7752",
-			"f8901206-d41e-43d7-8880-e743b0ab4d49",
-			"511c1fb5-9328-4b3e-9f89-5a45d1bdd283",
-			"0a40694e-deaa-4743-8ece-2f60fd8215dd"
-		],
-		"replaces": [
-			"673e5769-e8b6-4fbd-a0cb-66a5caba15a0",
-			"1d823842-ca29-495b-bf05-bf13123a210f"
-		]
-	},
-	{
-		"title": "Subdomein E2",
-		"description": "Werkwijzen - SE-CE",
-		"prefix": "E2",
-		"id": "fd48eeb5-0647-4291-a04e-f0296699fbc0",
-		"fo_doelzin_id": [
-			"acefdec1-0a85-4313-b3c9-89130e24a38d",
-			"c42241fe-9ccc-4555-a1e3-61bc547b1493",
-			"19da25cc-669b-44dc-96c5-7f7960f06d8b",
-			"db4837d2-6e72-42c5-b8b3-e65f64799f27",
-			"5fe18254-ae35-4b8d-b355-5ccd74aacb83"
-		],
-		"replaces": [
-			"19fa1792-1c36-43b4-9f66-accef9ff90a6",
-			"954d95b7-19eb-47df-948f-8ff4a456e5c4"
-		]
-	},
-	{
-		"title": "Subdomein B1",
-		"description": "Mechanica - evenwichten",
-		"prefix": "B1",
-		"id": "655bf589-2ab1-44ae-9c27-2a24f35be386",
-		"fo_doelzin_id": [
-			"93ab36e7-ba8e-44f6-9c1e-49301edb3edf"
-		],
-		"replaces": [
-			"9c04e3a0-6e47-4146-9fb3-052534fe79d1",
-			"56a0eb8b-0eed-42e0-bd6d-a758221fe05b"
 		]
 	},
 	{
@@ -10762,25 +10508,6 @@
 		]
 	},
 	{
-		"title": "Subdomein E2",
-		"description": "Werkwijzen 2",
-		"prefix": "E2",
-		"id": "a56f5435-aeb2-4828-92b6-12f22e4d959d",
-		"fo_doelzin_id": [
-			"e7b85318-94a1-4552-8646-37155ca37ab6",
-			"62436fc6-ea9b-452b-b9ff-cb86664b4e88",
-			"fdee1ac1-96ec-4b3e-8c89-1d4a6637d089",
-			"b50c6393-a020-4c1e-b4d5-3093c6ce8fec",
-			"31406c2c-4b6b-45e4-9f45-1493dee4978a",
-			"76a2e9b1-7d03-4840-98af-31586b297f55",
-			"eb7f7fc7-6a6e-4622-aa74-16dc0645a15f"
-		],
-		"replaces": [
-			"50058bec-fb9b-45cd-a0da-cb16f381b57d",
-			"dcf5e81f-3407-4d2c-b483-87fe05b58480"
-		]
-	},
-	{
 		"title": "Subdomein B1",
 		"description": "Mechanica - evenwichten",
 		"prefix": "B1",
@@ -10804,45 +10531,6 @@
 		"replaces": [
 			"e07f8140-0d76-4e31-975a-78dff50ff863",
 			"68df8d3c-1052-4874-81d8-5537cf23b3e9"
-		]
-	},
-	{
-		"title": "Subdomein B3",
-		"description": "Stoffen en materialen",
-		"prefix": "B3",
-		"id": "618950d5-75b2-4702-9c49-4032090e2f2a",
-		"fo_doelzin_id": [
-			"d447328d-ba55-4c64-8e67-d70094f221d1"
-		],
-		"replaces": [
-			"5fc5d995-6b47-444b-a363-0bf8d1d79542",
-			"016502df-ab5e-44d1-b9d4-d4c4000d1298"
-		]
-	},
-	{
-		"title": "Subdomein B4",
-		"description": "Materie en straling",
-		"prefix": "B4",
-		"id": "8792d954-55c6-430e-98d2-64e42f787cc1",
-		"fo_doelzin_id": [
-			"65a9d85d-b995-4ad9-b18c-58a7100503da"
-		],
-		"replaces": [
-			"c5796b15-a9d3-43bc-aff6-6824cfad8782",
-			"258eb9ff-aabd-4ad8-ac35-ead53c2690a7"
-		]
-	},
-	{
-		"title": "Subdomein B5",
-		"description": "Energievoorziening",
-		"prefix": "B5",
-		"id": "4789f626-2d79-4b2b-baa2-6e7e782146dd",
-		"fo_doelzin_id": [
-			"ce2d8abc-9812-4485-afa9-56b09d06387a"
-		],
-		"replaces": [
-			"852f6526-bbb6-4497-96a1-fb02b7efce5a",
-			"10716489-a342-490a-9c15-0317cab244b4"
 		]
 	},
 	{
@@ -10914,25 +10602,6 @@
 		"replaces": [
 			"b5d8fb9b-d36f-4f9f-b1b4-6b3bc39a52c4",
 			"e499fc7c-e388-43f5-8541-176323372977"
-		]
-	},
-	{
-		"title": "Subdomein E2",
-		"description": "Werkwijzen 2",
-		"prefix": "E2",
-		"id": "354dd47c-21d9-4536-a231-5bef3665cba8",
-		"fo_doelzin_id": [
-			"af939dc4-1bb4-4c31-9531-21bb5cc5698a",
-			"ca3f3a27-b44c-4e50-8f2b-573078bfa8b4",
-			"930144ab-4bae-4674-8f2c-3dbe7ed899dd",
-			"f84feb77-691d-46c7-af91-3520123c5ca3",
-			"0a8127ec-8a97-4d61-8fec-fd3898b10899",
-			"cb870bfc-2e5f-403c-a401-fc61d097b76a",
-			"ef01eefe-fa55-4445-abc5-d458bd6cdafc"
-		],
-		"replaces": [
-			"a4d78bb6-899f-4cd7-81f7-daa4f2bc8c4d",
-			"b8b75fb5-1474-44f5-a608-4706e53a5bb5"
 		]
 	},
 	{
@@ -11069,41 +10738,6 @@
 		]
 	},
 	{
-		"title": "Subdomein E1",
-		"description": "Werkwijzen 1",
-		"prefix": "E1",
-		"id": "b408b05c-c970-48f3-93b2-13e560d8db15",
-		"fo_doelzin_id": [
-			"3f82a3a7-46f9-4b72-9de2-434629b138e7",
-			"5974ad6e-9f2f-442d-ba92-d340db04b6f7",
-			"6a0214d6-5d56-4867-87f3-6fb4ff6fa5bf",
-			"177706f4-2b90-417f-a83b-ca89cd0e6db3"
-		],
-		"replaces": [
-			"07ee0cdb-f57e-4fba-b0c7-6d2c7a4fa96f",
-			"e3fe0ce4-07ec-42ec-a7a2-998d2018be11"
-		]
-	},
-	{
-		"title": "Subdomein E2",
-		"description": "Werkwijzen 2",
-		"prefix": "E2",
-		"id": "c315d5c6-3096-4570-b858-8ffe77ebf46c",
-		"fo_doelzin_id": [
-			"701b0f50-7806-4e69-a860-39de53be3b1f",
-			"72aeed4e-ed2d-48cb-9309-ae7b9a03ab31",
-			"f6ec5e68-662a-430a-ac70-96a7cd5cbc3b",
-			"0119adca-6749-4975-933e-12335f76e62c",
-			"91cd79e8-a45a-4150-9001-0460768708b6",
-			"3f724221-f315-45e5-9150-8829f0729177",
-			"5c1f82c8-d2e8-4a6e-933f-7f8e64044e5f"
-		],
-		"replaces": [
-			"eb7edd07-a8eb-42ca-84ea-60003a15da52",
-			"04c90c75-cb7b-44eb-b460-460cdc9cd7a0"
-		]
-	},
-	{
 		"title": "Subdomein B1",
 		"description": "Mechanica - evenwichten",
 		"prefix": "B1",
@@ -11203,42 +10837,6 @@
 		]
 	},
 	{
-		"title": "Subdomein E1",
-		"description": "Werkwijzen 1",
-		"prefix": "E1",
-		"id": "dce7ed63-9098-437a-8e63-8eb34df5d062",
-		"fo_doelzin_id": [
-			"38845451-485b-44b8-acc2-a56327cdcd20",
-			"edb1e94d-a3d8-4a3d-9a0a-339833a9605a",
-			"e0f8c13e-78a7-4fe7-af17-c9ba96ff03e1",
-			"4adb5d8a-fa48-4314-9a51-0d6d8991438a",
-			"0af54c5f-334e-4b93-a52e-0ed773fcfa2a"
-		],
-		"replaces": [
-			"29dfc114-63fd-4f5a-bec1-440f048ff42d",
-			"1e428157-ae7f-48fd-89f5-618ebf9ec6b2"
-		]
-	},
-	{
-		"title": "Subdomein E2",
-		"description": "Werkwijzen 2",
-		"prefix": "E2",
-		"id": "a732a27d-d122-4197-a9ca-578507187f28",
-		"fo_doelzin_id": [
-			"0b885e74-3946-4be0-8210-e99ac29ad24d",
-			"a9d68077-0cc0-4f27-920e-d0d58a3e0998",
-			"89716aee-556f-45e9-b58f-fd6b3aecd037",
-			"2938e237-4085-4f14-9af5-98e891fe8993",
-			"2246b868-9135-452e-be39-9f2edd44a205",
-			"03753ec8-b3f0-4344-8904-f1a41b6b7e1b",
-			"9ba6e7ec-92b5-4f28-afa4-0260fc626d48"
-		],
-		"replaces": [
-			"7eb080cf-5219-46df-aec1-5be21c1e0939",
-			"6224a385-af09-461a-b59c-a1853d4e5774"
-		]
-	},
-	{
 		"title": "Subdomein B1",
 		"description": "Mechanica - beweging",
 		"prefix": "B1",
@@ -11266,21 +10864,6 @@
 		"replaces": [
 			"46e3d022-d351-4bd2-bc6b-651808ccd2ed",
 			"133aaa66-8656-4368-910f-385e5f6cb87c"
-		]
-	},
-	{
-		"title": "Subdomein B3",
-		"description": "Materie en straling",
-		"prefix": "B3",
-		"id": "6e7015bf-efeb-4ecb-bb2f-7ef76d5198db",
-		"fo_doelzin_id": [
-			"36df8e92-969c-4e03-9996-cb05186d2e1a",
-			"740e3dd5-edb7-43e3-99c5-554e16bcfc28",
-			"a2520a03-3f50-4f07-8244-a64fda3fd289"
-		],
-		"replaces": [
-			"763b8aea-fe9e-4830-b55a-95131c427f27",
-			"33d03764-5596-4cc1-a991-0452544ddcf7"
 		]
 	},
 	{
@@ -11327,74 +10910,6 @@
 		]
 	},
 	{
-		"title": "Subdomein E1",
-		"description": "Werkwijzen 1",
-		"prefix": "E1",
-		"id": "12628029-a2ac-4801-9019-5e4e2e0171da",
-		"fo_doelzin_id": [
-			"82d9953d-b483-4148-8a0d-8ce866a211c9",
-			"e63cb2e0-013c-499c-a964-f27d3033f87b",
-			"d8f21bcd-c125-44fa-840d-aa304500cf1a",
-			"fcba025a-03df-464d-9ef2-b27e82259aa1",
-			"a4c35126-86d2-4649-84ca-a85303f0297c",
-			"de1f32c7-3aaa-4965-9cc6-2bdfa4bf5880"
-		],
-		"replaces": [
-			"23a41c32-59ca-4976-9bde-96a472076354",
-			"3af2ab6b-7287-4b22-b91e-960de6b4bd36"
-		]
-	},
-	{
-		"title": "Subdomein E2",
-		"description": "Werkwijzen 2",
-		"prefix": "E2",
-		"id": "62ce2015-fb54-444c-a260-fbdaa4988b6f",
-		"fo_doelzin_id": [
-			"970138c0-054d-4afe-a5b4-80a082370428",
-			"6846fd6f-8035-46a0-8cc9-ab987a08e5ad",
-			"c10f4389-de16-409f-af5c-c7cbcb7a476b",
-			"5d37b528-02b5-4b9d-a16f-47e6f8ebeffb",
-			"93548c04-f93f-4d3d-8000-e65e6bb32890",
-			"fda393d7-5a9e-4855-8609-13b03d35d0f8",
-			"3cc7af4b-d4c0-4315-a632-c5a87a7409de"
-		],
-		"replaces": [
-			"8c2241e3-fad3-4b9f-9dd7-d2686ff05d7b",
-			"712ae3a3-2bed-4dcc-8262-c82f7d8d264e"
-		]
-	},
-	{
-		"title": "Subdomein B1",
-		"description": "Materie",
-		"prefix": "B1",
-		"id": "8f624984-abc6-40fa-8fbd-d14c66a8409a",
-		"fo_doelzin_id": [
-			"dc04de22-e357-4e8d-bf5d-2cf1b589d421",
-			"19fdb6e3-c0e7-4ca5-bace-565505ef3647",
-			"d68be6f9-9ea9-41aa-958c-ae7eafce1568",
-			"15d09adf-1450-4c42-a450-2bc2bd4e61be"
-		],
-		"replaces": [
-			"196df7f1-7079-41fb-ae78-76397dbed04f",
-			"e6008151-b088-4fdb-9e3f-1243e3849078"
-		]
-	},
-	{
-		"title": "Subdomein B2",
-		"description": "Reacties en processen",
-		"prefix": "B2",
-		"id": "90a3bc77-552b-43e1-b9fb-b9d0543111cf",
-		"fo_doelzin_id": [
-			"a2c67c58-502c-4d3e-bf15-441a0a74d8d2",
-			"378376a4-62df-4ddf-9d67-fc510d2b94e5",
-			"010871b1-682c-4f8c-bcf3-0af97ef41a4d"
-		],
-		"replaces": [
-			"87b8518c-6e7b-425d-986c-58385ec3ac97",
-			"3ba682ad-d240-4168-b879-06d6df1be225"
-		]
-	},
-	{
 		"title": "Subdomein B3",
 		"description": "Energie en reactiesnelheid",
 		"prefix": "B3",
@@ -11406,19 +10921,6 @@
 		"replaces": [
 			"6d5355ec-5af6-466e-9ae6-3c61083ac481",
 			"4bd0cab9-9c67-4185-9785-6001505f6879"
-		]
-	},
-	{
-		"title": "Subdomein B4",
-		"description": "Scheidingsmethoden",
-		"prefix": "B4",
-		"id": "749a45e2-9673-4ed6-821f-ba69c7b741dc",
-		"fo_doelzin_id": [
-			"983d4ccd-7dd5-42b2-a622-09f588f042f5"
-		],
-		"replaces": [
-			"e1d5093d-acf9-4171-aba2-ffa3b2901ddd",
-			"84669a31-ef3e-446f-855e-1b412763ed13"
 		]
 	},
 	{
@@ -11478,19 +10980,6 @@
 		]
 	},
 	{
-		"title": "Subdomein D4",
-		"description": "Contexten",
-		"prefix": "D3",
-		"id": "9b06e6a5-6bd8-4b8c-8e4a-fa7aa87c5810",
-		"fo_doelzin_id": [
-			"2c638c00-b41d-4f1d-9462-ccafc3fbdff8"
-		],
-		"replaces": [
-			"4355631e-d790-4943-9287-7b672ed35151",
-			"3de682b5-0646-4aff-ba09-a0bcc2de7323"
-		]
-	},
-	{
 		"title": "Subdomein E1",
 		"description": "Werkwijzen 1",
 		"prefix": "E1",
@@ -11502,57 +10991,6 @@
 		"replaces": [
 			"7f06e81f-e8f2-441c-af84-19a76b7c49c0",
 			"dc7d3cdb-5651-4a14-aaed-26ddf2d983fc"
-		]
-	},
-	{
-		"title": "Subdomein E2",
-		"description": "Werkwijzen 2",
-		"prefix": "E2",
-		"id": "b28b6cb9-c673-4b5a-a3e8-a1ac2575d2d2",
-		"fo_doelzin_id": [
-			"d7336627-7f09-4130-aeb5-3c03425ffd65",
-			"0a72fd00-15b8-45c8-b82e-c80e162c92c9",
-			"a1eb29a2-c5f1-4141-bfef-31c30a677708",
-			"68a1b87f-c643-4666-b796-3bfbff79bf63",
-			"ba6e1817-3d4f-45a1-a77b-6c4e6dadb8b3",
-			"94e11ee2-4aad-4f2e-a5ab-b50cdd2108cd",
-			"f91c2725-b19f-451b-9bc5-2b03877c597b"
-		],
-		"replaces": [
-			"3f84400f-52a4-4b8f-94b4-f6e4be99a8b7",
-			"7baf1622-157e-477f-8f40-e75e5d871f8b"
-		]
-	},
-	{
-		"title": "Subdomein B1",
-		"description": "Materie",
-		"prefix": "B1",
-		"id": "5f023896-2e38-4e5d-9d3d-943bd0bf5585",
-		"fo_doelzin_id": [
-			"9ed83a71-d5b2-4996-bb17-300b14e86985",
-			"9700fceb-8d91-407d-ba44-cfc8391cb309",
-			"a29267c0-7144-49e2-acbb-030a360a98ac",
-			"0bd18b42-99f4-4de2-8876-c1d623b6f33d",
-			"f964a099-3885-4ad7-8210-74564f857c69"
-		],
-		"replaces": [
-			"dd78fdb9-e6cf-483c-883b-e0e449752712",
-			"6120f011-a0d3-4652-9886-963adce39ead"
-		]
-	},
-	{
-		"title": "Subdomein B2",
-		"description": "Reacties en processen",
-		"prefix": "B2",
-		"id": "b4df506a-1239-403d-99fd-fe29edf7642b",
-		"fo_doelzin_id": [
-			"506a9672-ea6e-4049-8269-eb9277069b65",
-			"bae08f72-6deb-4b3f-9155-86c0d52c504c",
-			"b8faa826-ab9f-4236-b9fb-e3ee41deee34"
-		],
-		"replaces": [
-			"84e4838f-315b-4829-8785-98b652c8ff46",
-			"64f58b8c-4a72-4507-aba2-9118be9f7d9f"
 		]
 	},
 	{
@@ -11598,85 +11036,6 @@
 		]
 	},
 	{
-		"title": "Subdomein D4",
-		"description": "Contexten",
-		"prefix": "D4",
-		"id": "02707613-2779-447b-9c6f-e692a5255d6a",
-		"fo_doelzin_id": [
-			"7738e6b8-c8c7-4639-aa25-ab9ca4d1a1bc"
-		],
-		"replaces": [
-			"24b8e65b-f9a9-4e5a-83dd-9368a3a60b45",
-			"16b82f59-5b60-4bb3-896a-9c9e24752f6a"
-		]
-	},
-	{
-		"title": "Subdomein E1",
-		"description": "E1 Werkwijzen 1",
-		"prefix": "E1",
-		"id": "cbb434bf-b07d-4f37-96ea-75dd3cff5605",
-		"fo_doelzin_id": [
-			"d001be91-bda3-4582-9736-704e53d5052b",
-			"04b83873-9b2b-4b27-a412-555ddab698ab",
-			"a1acb9e3-4b8f-4ce1-a08b-e62737f60c78",
-			"f5005f95-b5c1-404f-9a35-57eb1ca054bf"
-		],
-		"replaces": [
-			"e754634b-a795-43e8-9dd2-295d4428c8cc",
-			"a6e76389-a2da-43bd-9fe9-6ab0408813b2"
-		]
-	},
-	{
-		"title": "Subdomein E2",
-		"description": "Werkwijzen 2",
-		"prefix": "E2",
-		"id": "84618fd7-ef81-4d0b-9d05-3e04c315f8f8",
-		"fo_doelzin_id": [
-			"e512b358-afc3-4a6e-868f-206d20586e7a",
-			"e55acc75-5bd4-439f-97fb-5b28fdf32895",
-			"1d74753e-83a2-4cbb-a21f-2bde4a22fe3f",
-			"b65a20f8-c1cf-4a1f-8a52-0d1a14d07a87",
-			"61e17998-ea4d-41b3-bf64-17e326eac27a",
-			"1eeeef59-c1f7-4ab7-b017-5f65afaa3a83"
-		],
-		"replaces": [
-			"a96bb39e-9a23-4c84-8147-073138525144",
-			"0a64f660-f0c0-4793-a80c-0b3133641b1d"
-		]
-	},
-	{
-		"title": "Subdomein B1",
-		"description": "Materie",
-		"prefix": "B1",
-		"id": "26d96e8e-984a-4d66-bec9-1036e73f3d31",
-		"fo_doelzin_id": [
-			"6d33e138-f788-4bdf-a696-e8d58f19b34e",
-			"1d647374-76ee-4da9-96e8-591b498e46b2",
-			"95cdbeac-c983-4e0d-8646-d75030d9dde4",
-			"4e9dbee3-a958-4bcf-8896-f59b45dd0deb",
-			"defd5090-0af8-4d4e-81f6-d3b765140bfb"
-		],
-		"replaces": [
-			"ee605391-ac75-48be-b20e-7d6e49380b32",
-			"73b3e413-b607-49c6-a358-ffe7d2ff0c18"
-		]
-	},
-	{
-		"title": "Subdomein B2",
-		"description": "Reacties en processen",
-		"prefix": "B2",
-		"id": "c69691d7-4f4e-4715-acb8-147c01740a31",
-		"fo_doelzin_id": [
-			"873eae42-b6a3-4cdb-946b-0da6405971bc",
-			"eebcf0bb-1352-414e-8fb2-8aff7981a6d3",
-			"6fcd96ce-b69c-433e-bde4-74842a4b12db"
-		],
-		"replaces": [
-			"68deb63e-390f-4389-bbb6-09fbd7c8e3f6",
-			"4b8b287e-d9cf-4460-8502-70c964f20cfd"
-		]
-	},
-	{
 		"title": "Subdomein B3",
 		"description": "Reactiemechanismen",
 		"prefix": "B3",
@@ -11690,21 +11049,6 @@
 		]
 	},
 	{
-		"title": "Subdomein B4",
-		"description": "Energie, reactiesnelheid en evenwicht",
-		"prefix": "B4",
-		"id": "638ca872-b845-47bb-b8c7-d45bf757f8b2",
-		"fo_doelzin_id": [
-			"12084ef9-18c1-469d-a044-6a17bb858414",
-			"95f25932-e49f-4c87-991c-9001a1a27999",
-			"09641557-7613-41fa-b6eb-a45da38da0cb"
-		],
-		"replaces": [
-			"2653a41d-7787-420d-8c0a-9d66b9180fac",
-			"e01acbff-d3f4-4398-bc1e-6c651c565002"
-		]
-	},
-	{
 		"title": "Subdomein B5",
 		"description": "Evenwicht en entropie",
 		"prefix": "B5",
@@ -11715,19 +11059,6 @@
 		"replaces": [
 			"bee53ab5-4c6d-4240-b47e-34aa34be8820",
 			"1d0481b3-91d1-487a-824c-29252492c728"
-		]
-	},
-	{
-		"title": "Subdomein B6",
-		"description": "Scheidingsmethoden",
-		"prefix": "B6",
-		"id": "4aff9a0a-bf3e-4f4d-ac2f-e679ee47c879",
-		"fo_doelzin_id": [
-			"c86384bd-ea29-4156-b9b1-0d4d1522c4e3"
-		],
-		"replaces": [
-			"c9d6f231-b1eb-42b6-953f-ca3c29a3c332",
-			"0e1ebbcb-ea8d-4e28-a2b6-4b9fc2fdbaae"
 		]
 	},
 	{
@@ -11778,53 +11109,6 @@
 		]
 	},
 	{
-		"title": "Subdomein D3",
-		"description": "Contexten",
-		"prefix": "D3",
-		"id": "f5d35abd-6153-4938-829b-8ba4ecb6f219",
-		"fo_doelzin_id": [
-			"a36891a0-1200-4123-a70d-b5ef61a537dd"
-		],
-		"replaces": [
-			"b3c6404c-a282-4a54-b6c7-13134127df2f",
-			"ef91b5bc-9800-4ee0-82ff-4214a0bd6754"
-		]
-	},
-	{
-		"title": "Subdomein E1",
-		"description": "Werkwijzen 1",
-		"prefix": "E1",
-		"id": "e0d2adcf-b4ae-4331-81b8-0f6d3d48751b",
-		"fo_doelzin_id": [
-			"5b6f19dd-0869-47e9-8999-e9b8d90b7d02",
-			"9e264759-2263-40e1-bc12-b3550e49d3f0",
-			"a1f8792e-3a5d-4696-81ab-8cc4d04b1d23",
-			"d2e48ccc-c572-4369-a81f-d69adeb116c9"
-		],
-		"replaces": [
-			"411da4b3-3cd8-43c1-af90-6a4a1448e431",
-			"5c13e795-497c-438e-80f9-e45d101f09ac"
-		]
-	},
-	{
-		"title": "Subdomein E2",
-		"description": "Werkwijzen 2",
-		"prefix": "E2",
-		"id": "572bb0a9-d718-490c-9002-c638bebe85ab",
-		"fo_doelzin_id": [
-			"fe4b0701-c24a-42d9-ac9a-230d93883bfc",
-			"f8168b81-409f-4dba-9a8e-7295aac21bdb",
-			"1fa6eb4f-cec1-4e62-8395-413aade4e83b",
-			"29c8760a-430e-4747-9003-87fb17809c37",
-			"0cf9c957-d2a3-4441-8f8d-e32630fd720c",
-			"0056cb4b-a27d-4e3e-9753-408d4e4ff323"
-		],
-		"replaces": [
-			"c07cf74a-0bc4-4034-aef1-9e2ce01b0673",
-			"d37bc944-c773-4779-81a0-8a0ec7d095a6"
-		]
-	},
-	{
 		"title": "Subdomein B3 Energie, reactiesnelheid en evenwicht",
 		"description": "Subdomein B3 Energie, reactiesnelheid en evenwicht",
 		"prefix": "B3",
@@ -11840,19 +11124,6 @@
 		]
 	},
 	{
-		"title": "Subdomein B4 Scheidingsmethoden",
-		"description": "Subdomein B4 Scheidingsmethoden",
-		"prefix": "B4",
-		"id": "0210dba4-12a9-451a-a937-39d2f1fbe15e",
-		"fo_doelzin_id": [
-			"0b44645b-3148-4d37-84b1-56fb331c8492"
-		],
-		"replaces": [
-			"a1960311-5a26-4730-adfd-41369f8ad39a",
-			"b1911461-d595-414a-81ff-d0dc8d3d8800"
-		]
-	},
-	{
 		"title": "Subdomein B5 Scheiden en analyse",
 		"description": "Subdomein B5 Scheiden en analyse",
 		"prefix": "B5",
@@ -11864,6 +11135,781 @@
 		"replaces": [
 			"2004e03e-b8f9-4133-bc0a-085d47e7184f",
 			"1844cd30-b057-462e-8cc9-5bb3e1b23216"
+		]
+	},
+	{
+		"title": "Subdomein E1",
+		"description": "Werkwijzen - SE",
+		"prefix": "E1",
+		"id": "35a44c86-bb53-4faf-89c9-1e51cc2692e6",
+		"fo_doelzin_id": [
+			"252f30b0-5d1e-4ed5-8f38-28421a9c33b7",
+			"0a27a595-2964-449e-a1b3-9720747bb986",
+			"12f8209a-d027-4a79-a18f-ab7cd7b457b4",
+			"5e66e58a-b10d-495f-800f-39d01387f780"
+		],
+		"replaces": [
+			"795334f9-ebf0-461f-aea2-58e1302c7e57",
+			"50ba9e65-cf7a-426a-ad96-51b1596b1b0e",
+			"4e459b42-90ef-4e69-9bf8-72d3a378b771"
+		]
+	},
+	{
+		"title": "Subdomein E2",
+		"description": "Werkwijzen - SE-CE",
+		"prefix": "E2",
+		"id": "f48f0154-154b-4d9c-81df-1e58b39def83",
+		"fo_doelzin_id": [
+			"fef7e7d2-d385-4fd3-b246-dc30d1e3b58e",
+			"92b161ef-24d8-4689-ba47-e536ba41007b",
+			"667fe02e-4fda-449f-8034-758cdcb1509b",
+			"cd477925-2eec-4846-9a9a-67200cbfcfc5",
+			"9127df2f-1393-4b49-ac82-079ca31643e2",
+			"9bf56350-b987-4ed6-9f36-4536d64930fe",
+			"53f7f801-135a-47b8-a1f2-1f57bc9f89da"
+		],
+		"replaces": [
+			"0e57f7f0-ddf8-47cd-bf5b-e6159bd2a0e2",
+			"5e66838d-5eab-4a67-97fa-848be9b86761",
+			"8cd96247-524a-4182-9dce-22839cb2b6cc"
+		]
+	},
+	{
+		"title": "Subdomein E1",
+		"description": "Werkwijzen - SE",
+		"prefix": "E1",
+		"id": "06377b65-ea38-419c-86f3-0fb4744feb92",
+		"fo_doelzin_id": [
+			"0c8b0aae-1094-4dfb-9115-9882694905a7",
+			"eff773e8-fdc9-4c2e-b776-3db35c683e20",
+			"04436892-a4f4-45f3-8b15-af39f42ed570",
+			"0eef39f2-a26e-41b1-85b9-8d064381e3f3"
+		],
+		"replaces": [
+			"0a957186-6536-4a3c-9f9f-e6284a84e9a0",
+			"62a6084d-e0c4-4658-93fb-e2487fa4ad48",
+			"78122124-a529-45f5-a1be-dda9fd3bc390"
+		]
+	},
+	{
+		"title": "Subdomein E2",
+		"description": "Werkwijzen - SE-CE",
+		"prefix": "E2",
+		"id": "e1bd9615-0310-48ce-934e-4fa72d423319",
+		"fo_doelzin_id": [
+			"9119c92c-a4b2-4d16-b28d-edbe82d68791",
+			"c9549a00-8bf8-4bd9-af44-7c65d41ce540",
+			"8ab2f865-a6c9-4661-b48d-941fc0e4a2a2",
+			"8bc5aea3-6c8e-498d-bd2e-e3f29cf235df",
+			"7f45f880-a51e-401c-9fc1-22952eaac5c0",
+			"1cd67ab5-a722-4c66-a43d-b50028780672",
+			"0d1cc2f6-76a4-45ab-b2f1-0a2923b89eef"
+		],
+		"replaces": [
+			"a9ff0135-2a89-47d5-b9dc-0992a85dc3e2",
+			"6297048d-a549-4989-a2c6-1a72cf008a32",
+			"fb5a4761-2aa0-429b-ba91-d9687a3634f7"
+		]
+	},
+	{
+		"title": "Subdomein E1",
+		"description": "Werkwijzen - SE",
+		"prefix": "E1",
+		"id": "c6f72be2-08ad-4517-b604-b588f579c0fd",
+		"fo_doelzin_id": [
+			"94beff4b-4df2-4da0-ab68-a2f7938495ce",
+			"7f7ce1c2-903a-4b83-aaf7-32d956cb4239",
+			"cf3ebb48-f47c-47ea-bc41-993436d98297",
+			"7d090f48-d2a1-4122-a94b-2c8f86e407dd"
+		],
+		"replaces": [
+			"6a5430a3-b99e-4204-be4b-98033204be2e",
+			"fb98f7d0-616a-44c4-8c07-f507f43b4337",
+			"c23572bc-c360-466b-b829-c4eb2e2711da"
+		]
+	},
+	{
+		"title": "Subdomein E2",
+		"description": "Werkwijzen - SE-CE",
+		"prefix": "E2",
+		"id": "57760710-4158-45ec-b430-83162e5bce7c",
+		"fo_doelzin_id": [
+			"5cfc3d88-6bf3-4875-a6bd-fd3d50ca50fe",
+			"d097bd9d-890b-468a-b552-115ee982356d",
+			"99281f39-0277-4aea-91db-10474959716c",
+			"b20c1e52-fbd6-4483-80ec-ba7f25ab4bd5",
+			"2b742eea-0705-4859-a80b-60e390002534",
+			"831a35ed-986c-4114-b6c6-d6faec6f49a1",
+			"e435d319-7b67-46e9-bedc-487fb3d58fbc"
+		],
+		"replaces": [
+			"3fdc987d-4691-4e6b-80ff-9eb7fd73ba3c",
+			"1b95190d-4c32-457f-8fe8-c5d8ca5f0fc6",
+			"f6fe2dcf-62ab-4949-9561-0b760cc3754b"
+		]
+	},
+	{
+		"title": "Subdomein E1",
+		"description": "Werkwijzen - SE",
+		"prefix": "E1",
+		"id": "c4d8a523-c212-44e0-81f9-d88c50ea5f8a",
+		"fo_doelzin_id": [
+			"e20fc198-b4d0-487a-aa20-e74d494755b9",
+			"64cfa351-7c40-4cbd-a559-3c1d3ab24ca1",
+			"1b8275d6-4d44-42ce-8a0c-585ec9fb7752",
+			"f8901206-d41e-43d7-8880-e743b0ab4d49",
+			"d2017b95-5ae5-477f-b7bc-f4230d375b0b"
+		],
+		"replaces": [
+			"673e5769-e8b6-4fbd-a0cb-66a5caba15a0",
+			"1d823842-ca29-495b-bf05-bf13123a210f",
+			"2abdfbfd-50cf-434b-b187-39434f5bf9bf"
+		]
+	},
+	{
+		"title": "Subdomein E2",
+		"description": "Werkwijzen - SE-CE",
+		"prefix": "E2",
+		"id": "2e868366-1303-48d7-88e2-126affa997f9",
+		"fo_doelzin_id": [
+			"509512cb-f2c8-424d-b6e6-c15fb53e7376",
+			"fa223dae-ce2b-4c39-a47b-d2b86e4b5111",
+			"eb3d3695-97b7-4d06-8269-844f21339a1a",
+			"9e3ee27d-5344-414d-973d-21643ac04f45",
+			"324ba810-883c-432d-b884-1c2dcd9bd5a3",
+			"84d9ec62-c789-48d0-88f3-f4886a13c9b2"
+		],
+		"replaces": [
+			"19fa1792-1c36-43b4-9f66-accef9ff90a6",
+			"954d95b7-19eb-47df-948f-8ff4a456e5c4",
+			"fd48eeb5-0647-4291-a04e-f0296699fbc0"
+		]
+	},
+	{
+		"title": "Subdomein E2",
+		"description": "Werkwijzen - SE-CE",
+		"prefix": "E2",
+		"id": "88bb8bd2-daee-4578-81db-695c781ac8ff",
+		"fo_doelzin_id": [
+			"dc25b2fb-e059-40bc-99a6-226d20c8a427",
+			"0c53f84f-00e0-48eb-b483-1fe705b7e169",
+			"6c5ff484-4b50-4ac4-8eda-17ba3e65ebdb",
+			"6af698d1-a81e-4f7d-99b9-4b85b6923e25",
+			"2a0652a0-7908-4b06-a130-bb2ab7d013fd",
+			"ae1bcc82-943e-4434-b47a-d2af80ba216e"
+		],
+		"replaces": [
+			"7f229d50-498d-4cf3-aa0e-62d75b2298bc",
+			"7a6124b7-0c4e-4be8-9aa5-ce069dcc22e0",
+			"430647df-b4b2-4b1f-a7f9-62d2a92be64f"
+		]
+	},
+	{
+		"title": "Subdomein E2",
+		"description": "Werkwijzen 2",
+		"prefix": "E2",
+		"id": "57e25cf8-342d-4688-86e9-abf874c37b31",
+		"fo_doelzin_id": [
+			"a9d03deb-c7f1-43f5-b010-9401c62a91f5",
+			"205fe267-2301-4fbb-97a6-947c77b9ad6f",
+			"752dd29e-579b-4bad-bada-12a01ad55203",
+			"d7ea2519-50c3-4146-af4f-671f713931a0",
+			"c4b3a7f4-7811-438d-a582-39724850f2b6",
+			"dae94240-c7ec-4b4e-ab72-aaecb0e06a2a",
+			"ceff1cbb-3a6c-40a7-84ae-39827e35eb9d"
+		],
+		"replaces": [
+			"50058bec-fb9b-45cd-a0da-cb16f381b57d",
+			"dcf5e81f-3407-4d2c-b483-87fe05b58480",
+			"a56f5435-aeb2-4828-92b6-12f22e4d959d"
+		]
+	},
+	{
+		"title": "Subdomein B3",
+		"description": "Stoffen en materialen",
+		"prefix": "B3",
+		"id": "d901fde7-037c-40d5-9fb7-9620b91958ae",
+		"fo_doelzin_id": [
+			"8d8f6f43-cf75-467c-bebd-12526181bed1"
+		],
+		"replaces": [
+			"5fc5d995-6b47-444b-a363-0bf8d1d79542",
+			"016502df-ab5e-44d1-b9d4-d4c4000d1298",
+			"618950d5-75b2-4702-9c49-4032090e2f2a"
+		]
+	},
+	{
+		"title": "Subdomein B4",
+		"description": "Materie en straling",
+		"prefix": "B4",
+		"id": "333061dc-3acb-4026-9302-f5a6f87e9042",
+		"fo_doelzin_id": [
+			"9d7d9067-ad7d-4fe1-b583-3cad7c5828dc"
+		],
+		"replaces": [
+			"c5796b15-a9d3-43bc-aff6-6824cfad8782",
+			"258eb9ff-aabd-4ad8-ac35-ead53c2690a7",
+			"8792d954-55c6-430e-98d2-64e42f787cc1"
+		]
+	},
+	{
+		"title": "Subdomein B5",
+		"description": "Energievoorziening",
+		"prefix": "B5",
+		"id": "77ecfbfa-c619-42de-a67c-f648d76af098",
+		"fo_doelzin_id": [
+			"1e365720-3bba-4946-83be-fef83977f9a6"
+		],
+		"replaces": [
+			"852f6526-bbb6-4497-96a1-fb02b7efce5a",
+			"10716489-a342-490a-9c15-0317cab244b4",
+			"4789f626-2d79-4b2b-baa2-6e7e782146dd"
+		]
+	},
+	{
+		"title": "Subdomein E2",
+		"description": "Werkwijzen 2",
+		"prefix": "E2",
+		"id": "7419bc04-98cc-4c7e-8790-95dfd3544844",
+		"fo_doelzin_id": [
+			"0e6eb025-d93c-4a70-9b3c-d2fbbead63c3",
+			"be295be6-0f25-4d85-a59d-18f11cffff6a",
+			"8f633669-406e-42dc-9e93-dc908f7a35f2",
+			"6ff7ec63-1ee5-45a4-ab86-8b8f81774130",
+			"133961d8-a725-41eb-b465-98cff70d9733",
+			"3ea8a2a3-e9c6-4e8d-8494-ef16c83c4930",
+			"bd36ede9-d337-47e0-a9ca-2cb663760061"
+		],
+		"replaces": [
+			"a4d78bb6-899f-4cd7-81f7-daa4f2bc8c4d",
+			"b8b75fb5-1474-44f5-a608-4706e53a5bb5",
+			"354dd47c-21d9-4536-a231-5bef3665cba8"
+		]
+	},
+	{
+		"title": "Subdomein E1",
+		"description": "Werkwijzen 1",
+		"prefix": "E1",
+		"id": "2cb5413b-893a-4a32-9632-fd40bb175f11",
+		"fo_doelzin_id": [
+			"3f82a3a7-46f9-4b72-9de2-434629b138e7",
+			"5974ad6e-9f2f-442d-ba92-d340db04b6f7",
+			"6a0214d6-5d56-4867-87f3-6fb4ff6fa5bf",
+			"2c5ac39c-3451-4a51-ab7a-f9ca523286a9"
+		],
+		"replaces": [
+			"07ee0cdb-f57e-4fba-b0c7-6d2c7a4fa96f",
+			"e3fe0ce4-07ec-42ec-a7a2-998d2018be11",
+			"b408b05c-c970-48f3-93b2-13e560d8db15"
+		]
+	},
+	{
+		"title": "Subdomein E2",
+		"description": "Werkwijzen 2",
+		"prefix": "E2",
+		"id": "9988b552-ab6d-4bf9-9c24-b3cd9df2c119",
+		"fo_doelzin_id": [
+			"701b0f50-7806-4e69-a860-39de53be3b1f",
+			"72aeed4e-ed2d-48cb-9309-ae7b9a03ab31",
+			"f6ec5e68-662a-430a-ac70-96a7cd5cbc3b",
+			"0119adca-6749-4975-933e-12335f76e62c",
+			"91cd79e8-a45a-4150-9001-0460768708b6",
+			"3f724221-f315-45e5-9150-8829f0729177",
+			"3258faa4-a8a4-40c1-9400-3b5c7d31085c"
+		],
+		"replaces": [
+			"eb7edd07-a8eb-42ca-84ea-60003a15da52",
+			"04c90c75-cb7b-44eb-b460-460cdc9cd7a0",
+			"c315d5c6-3096-4570-b858-8ffe77ebf46c"
+		]
+	},
+	{
+		"title": "Subdomein E1",
+		"description": "Werkwijzen 1",
+		"prefix": "E1",
+		"id": "57a597b4-5f2d-4990-a5ea-1239196bb304",
+		"fo_doelzin_id": [
+			"38845451-485b-44b8-acc2-a56327cdcd20",
+			"edb1e94d-a3d8-4a3d-9a0a-339833a9605a",
+			"e0f8c13e-78a7-4fe7-af17-c9ba96ff03e1",
+			"6c90a5c6-996e-41ed-a129-9e51bb6534df",
+			"0af54c5f-334e-4b93-a52e-0ed773fcfa2a"
+		],
+		"replaces": [
+			"29dfc114-63fd-4f5a-bec1-440f048ff42d",
+			"1e428157-ae7f-48fd-89f5-618ebf9ec6b2",
+			"dce7ed63-9098-437a-8e63-8eb34df5d062"
+		]
+	},
+	{
+		"title": "Subdomein E2",
+		"description": "Werkwijzen 2",
+		"prefix": "E2",
+		"id": "b88091e9-2b05-4732-a2b2-683f6a410bdb",
+		"fo_doelzin_id": [
+			"e1fcb112-e960-49ed-a8b8-f7b089b8b574",
+			"1d8ef51d-0ba0-4910-aba2-fa89d4833f94",
+			"126fbb5a-29f4-4954-a267-54e982ec4dc1",
+			"1e0b29c7-5ecb-456b-a3fa-dcb08d5b1b07",
+			"8da1e743-cfcc-41ed-b1a5-d4ce20b61c79",
+			"b3aa9674-2f72-4545-91e3-cf0cdfa0f2c3",
+			"82151a9d-2300-4291-ad7b-93a4c3c97804"
+		],
+		"replaces": [
+			"7eb080cf-5219-46df-aec1-5be21c1e0939",
+			"6224a385-af09-461a-b59c-a1853d4e5774",
+			"a732a27d-d122-4197-a9ca-578507187f28"
+		]
+	},
+	{
+		"title": "Subdomein B3",
+		"description": "Materie en straling",
+		"prefix": "B3",
+		"id": "e308089d-4015-446d-b0a7-2d360171f163",
+		"fo_doelzin_id": [
+			"6022d0a4-69a6-4e62-896a-b25a808e6967",
+			"2147b027-f7db-4b48-85de-e38a765aa967",
+			"69c02355-af05-4773-b599-58072044a00e"
+		],
+		"replaces": [
+			"763b8aea-fe9e-4830-b55a-95131c427f27",
+			"33d03764-5596-4cc1-a991-0452544ddcf7",
+			"6e7015bf-efeb-4ecb-bb2f-7ef76d5198db"
+		]
+	},
+	{
+		"title": "Subdomein E1",
+		"description": "Werkwijzen 1",
+		"prefix": "E1",
+		"id": "5f414564-9102-4ccf-9a96-23caa7110238",
+		"fo_doelzin_id": [
+			"82d9953d-b483-4148-8a0d-8ce866a211c9",
+			"e63cb2e0-013c-499c-a964-f27d3033f87b",
+			"d8f21bcd-c125-44fa-840d-aa304500cf1a",
+			"bfd9cf21-4790-4346-8bcb-2d70a216567b",
+			"a9e6df97-93b2-4bfc-b230-05469067a1c8",
+			"877270ef-dc37-4509-b882-84130eccdc2a"
+		],
+		"replaces": [
+			"23a41c32-59ca-4976-9bde-96a472076354",
+			"3af2ab6b-7287-4b22-b91e-960de6b4bd36",
+			"12628029-a2ac-4801-9019-5e4e2e0171da"
+		]
+	},
+	{
+		"title": "Subdomein E2",
+		"description": "Werkwijzen 2",
+		"prefix": "E2",
+		"id": "f88599f4-7f02-49bf-8988-b92e185be443",
+		"fo_doelzin_id": [
+			"89ec9ab3-f252-423a-9e58-9ac59655e071",
+			"c9a7de90-48b3-4bc3-addc-5082d5eb5997",
+			"cb16201b-bce8-4975-ae31-5068855515e6",
+			"62cdead8-4795-408a-b24d-92e971991176",
+			"2402d0b9-49a7-4752-b48b-fc8d3be5ef67",
+			"a69542b8-1692-4cc9-9ccc-98ba53f35236",
+			"6b3a8907-7edf-4345-b972-164fa49737e3"
+		],
+		"replaces": [
+			"8c2241e3-fad3-4b9f-9dd7-d2686ff05d7b",
+			"712ae3a3-2bed-4dcc-8262-c82f7d8d264e",
+			"62ce2015-fb54-444c-a260-fbdaa4988b6f"
+		]
+	},
+	{
+		"title": "Subdomein E1",
+		"description": "E1 Werkwijzen 1",
+		"prefix": "E1",
+		"id": "64b8f17f-11d1-4b73-9f56-b3041f9a56a8",
+		"fo_doelzin_id": [
+			"d001be91-bda3-4582-9736-704e53d5052b",
+			"401d32a4-33e8-4126-8a01-f841f4ad2ad4",
+			"fdc8070b-8b6c-42ee-91d1-2826f20ecb2c",
+			"b148cbe7-db36-4fb2-94bb-0d8b6f66c92b"
+		],
+		"replaces": [
+			"e754634b-a795-43e8-9dd2-295d4428c8cc",
+			"a6e76389-a2da-43bd-9fe9-6ab0408813b2",
+			"cbb434bf-b07d-4f37-96ea-75dd3cff5605"
+		]
+	},
+	{
+		"title": "Subdomein E2",
+		"description": "Werkwijzen 2",
+		"prefix": "E2",
+		"id": "a1575a15-b8e8-4703-bba9-882e797d472e",
+		"fo_doelzin_id": [
+			"bde0795f-d901-46f6-a6b2-d283faeb78f4",
+			"3c2d643f-4922-4f34-ae5e-83265a08bf7b",
+			"49990720-5e06-4305-9b18-705e38c62624",
+			"8d777773-46b9-49a5-8251-2589e90a9e2d",
+			"6857dc95-ea9d-4f91-a34e-3f06d95fc5ea",
+			"ceda5169-9a6c-4ce6-8619-bcc5a8444ebe"
+		],
+		"replaces": [
+			"a96bb39e-9a23-4c84-8147-073138525144",
+			"0a64f660-f0c0-4793-a80c-0b3133641b1d",
+			"84618fd7-ef81-4d0b-9d05-3e04c315f8f8"
+		]
+	},
+	{
+		"title": "Subdomein E1",
+		"description": "Werkwijzen 1",
+		"prefix": "E1",
+		"id": "87f758c2-a33c-4332-b27d-e9eaa9ea8e16",
+		"fo_doelzin_id": [
+			"5b6f19dd-0869-47e9-8999-e9b8d90b7d02",
+			"82966b8a-06b8-4871-b996-fb5696922334",
+			"2f3dfeef-6f05-4657-b7b3-22871b5f2b32",
+			"c34426cf-7567-4e2c-9289-8fdc1e8be21e"
+		],
+		"replaces": [
+			"411da4b3-3cd8-43c1-af90-6a4a1448e431",
+			"5c13e795-497c-438e-80f9-e45d101f09ac",
+			"e0d2adcf-b4ae-4331-81b8-0f6d3d48751b"
+		]
+	},
+	{
+		"title": "Subdomein E2",
+		"description": "Werkwijzen 2",
+		"prefix": "E2",
+		"id": "31177618-6c81-42db-b371-36fd410bb964",
+		"fo_doelzin_id": [
+			"a52fc7d5-d12a-4b16-bd36-f0060ef31905",
+			"29c912bd-6795-4713-9a87-ec5c19b0c01f",
+			"f9a780f0-9b4a-4adb-afbb-40f9dad71741",
+			"6378e82c-d9bf-4992-906b-b4442a3bf78c",
+			"eece10ee-84ee-4e5a-a78b-3326ff38a7ce",
+			"3378b1cc-076b-4ae8-9b76-1d5400a10e41"
+		],
+		"replaces": [
+			"c07cf74a-0bc4-4034-aef1-9e2ce01b0673",
+			"d37bc944-c773-4779-81a0-8a0ec7d095a6",
+			"572bb0a9-d718-490c-9002-c638bebe85ab"
+		]
+	},
+	{
+		"title": "Subdomein B5",
+		"description": "Reageren op veranderingen",
+		"prefix": "B5",
+		"id": "9e1c6264-f398-4293-8b73-9fc3de5e2c51",
+		"fo_doelzin_id": [
+			"d2bd95d1-2af8-4d52-b924-0157046742ca"
+		],
+		"replaces": [
+			"aa1b23a2-2a24-47c7-931a-69b3de91d5dd",
+			"7344c5d3-a840-46a8-8335-ebe7ebe2e5bd",
+			"8595f255-fa74-46d0-b505-de92a638c99b"
+		]
+	},
+	{
+		"title": "Subdomein B5",
+		"description": "Reageren op veranderingen",
+		"prefix": "B5",
+		"id": "241e8ee9-ac30-44a1-8367-c7594bddd702",
+		"fo_doelzin_id": [
+			"8c6a2470-1132-4388-891c-f8e17265da65"
+		],
+		"replaces": [
+			"2056ca8a-90fb-45cb-ad97-d0fa1ea251a1",
+			"3d2ce685-0d20-4415-97f1-a6014a4b4497",
+			"7dc4dadf-733e-4157-9546-a6d3d8e0d7f6"
+		]
+	},
+	{
+		"title": "Subdomein B5",
+		"description": "Reageren op veranderingen",
+		"prefix": "B5",
+		"id": "9675f820-fd53-4e87-9cd1-c5decd08ac14",
+		"fo_doelzin_id": [
+			"d8c04123-1b20-4047-9aa7-d958271301bb",
+			"4d2a5059-676d-475e-97db-81cbc410c034"
+		],
+		"replaces": [
+			"05c6e7cb-bca7-4221-8147-66dbddc326d3",
+			"2e28b0f5-0f01-4cb3-baa9-1222e43eaede",
+			"c670ad60-2294-4245-b99d-5bcb2c861aa3"
+		]
+	},
+	{
+		"title": "Subdomein B6",
+		"description": "Reageren op veranderingen - SE-CE",
+		"prefix": "B6",
+		"id": "12966e50-ee38-4b0a-8f98-2ec69bb923d8",
+		"fo_doelzin_id": [
+			"d99b876d-14f0-4f9b-a8b4-97ce4cbdcdc1"
+		],
+		"replaces": [
+			"50af247f-44ba-4c7f-9a0b-fc48f377edfa",
+			"20a12731-36ec-4e19-b9f7-b2c37ad32289",
+			"318e367a-5ab2-421d-bfc5-baa3cf1419b5"
+		]
+	},
+	{
+		"title": "Subdomein E1",
+		"description": "Werkwijzen - SE",
+		"prefix": "E1",
+		"id": "26a06841-b60e-4468-b778-37078c79c50a",
+		"fo_doelzin_id": [
+			"1feb3c25-2507-436f-a400-018f3f29d238",
+			"72659499-92a8-4325-985a-27f5110d9e28",
+			"4d4e7f45-06ee-4f6b-9a2c-5efb9bf72196",
+			"966217ba-1258-4d40-85c8-b8499957e36b",
+			"745b4b35-9f0e-46b6-930e-eb3989fce99d"
+		],
+		"replaces": [
+			"2e17c1e8-1993-40da-bd6b-53fb76872ab0",
+			"d8c1030b-89c1-4170-9621-b90758ca150a",
+			"3fddc32f-9725-4c23-86a5-71dc0dd452d2"
+		]
+	},
+	{
+		"title": "Subdomein B7",
+		"description": "Reageren op veranderingen - SE-CE",
+		"prefix": "B7",
+		"id": "34001e73-4b11-4ccc-99e1-f6361887e212",
+		"fo_doelzin_id": [
+			"5c924f34-f731-4a5f-9e37-396160d554bf"
+		],
+		"replaces": [
+			"1a1f35e8-fd9e-4499-8fb7-da1611bb4d8f",
+			"f1dc2532-1c32-4275-a8fb-8032c6d489c3",
+			"ba12f31a-aa44-4fef-bac9-4d603a7629e8"
+		]
+	},
+	{
+		"title": "Subdomein B1",
+		"description": "Mechanica - evenwichten",
+		"prefix": "B1",
+		"id": "b36ae156-ac84-436d-b625-df6a9eb0ce0a",
+		"fo_doelzin_id": [
+			"bdfb248c-e782-4ca7-95c9-482df4f7e6b3"
+		],
+		"replaces": [
+			"9c04e3a0-6e47-4146-9fb3-052534fe79d1",
+			"56a0eb8b-0eed-42e0-bd6d-a758221fe05b",
+			"655bf589-2ab1-44ae-9c27-2a24f35be386"
+		]
+	},
+	{
+		"title": "Subdomein B1",
+		"description": "Materie",
+		"prefix": "B1",
+		"id": "315c1e9a-26cb-483a-9d1c-cb003e317d58",
+		"fo_doelzin_id": [
+			"da4ea90c-3d8e-47a2-81ab-846b5916aacf",
+			"27ba0b97-eff9-4ce7-b102-0a992660b34e",
+			"d68be6f9-9ea9-41aa-958c-ae7eafce1568",
+			"169e4851-d90e-4d60-90da-1daae75a4f26"
+		],
+		"replaces": [
+			"196df7f1-7079-41fb-ae78-76397dbed04f",
+			"e6008151-b088-4fdb-9e3f-1243e3849078",
+			"8f624984-abc6-40fa-8fbd-d14c66a8409a"
+		]
+	},
+	{
+		"title": "Subdomein B2",
+		"description": "Reacties en processen",
+		"prefix": "B2",
+		"id": "5667dcb9-271a-4a76-84a6-7dcccba03d3f",
+		"fo_doelzin_id": [
+			"ef48c7fd-5a55-4db5-8d9d-e0bcde57755f",
+			"9009b6bc-84da-482b-b3fa-9c711b4868e2",
+			"8d2acbf0-a307-4271-88ec-f778e781cf2c"
+		],
+		"replaces": [
+			"87b8518c-6e7b-425d-986c-58385ec3ac97",
+			"3ba682ad-d240-4168-b879-06d6df1be225",
+			"90a3bc77-552b-43e1-b9fb-b9d0543111cf"
+		]
+	},
+	{
+		"title": "Subdomein B4",
+		"description": "Scheidingsmethoden",
+		"prefix": "B4",
+		"id": "b761100e-8075-497f-844b-483c110016cc",
+		"fo_doelzin_id": [
+			"6d8e0f18-02e9-491c-a35a-fb8ebd4aba59"
+		],
+		"replaces": [
+			"e1d5093d-acf9-4171-aba2-ffa3b2901ddd",
+			"84669a31-ef3e-446f-855e-1b412763ed13",
+			"749a45e2-9673-4ed6-821f-ba69c7b741dc"
+		]
+	},
+	{
+		"title": "Subdomein D4",
+		"description": "Contexten",
+		"prefix": "D3",
+		"id": "2c145ce8-6856-4102-bb53-3493d10c6cd8",
+		"fo_doelzin_id": [
+			"5c66f8ed-392c-49b1-8db0-1ec816c4796d"
+		],
+		"replaces": [
+			"4355631e-d790-4943-9287-7b672ed35151",
+			"3de682b5-0646-4aff-ba09-a0bcc2de7323",
+			"9b06e6a5-6bd8-4b8c-8e4a-fa7aa87c5810"
+		]
+	},
+	{
+		"title": "Subdomein E2",
+		"description": "Werkwijzen 2",
+		"prefix": "E2",
+		"id": "6de445d1-c44f-4f2a-8f12-d9028a938a21",
+		"fo_doelzin_id": [
+			"d7336627-7f09-4130-aeb5-3c03425ffd65",
+			"0a72fd00-15b8-45c8-b82e-c80e162c92c9",
+			"3bfec258-0c0f-4df0-ad90-e55ba31f321b",
+			"68a1b87f-c643-4666-b796-3bfbff79bf63",
+			"ba6e1817-3d4f-45a1-a77b-6c4e6dadb8b3",
+			"94e11ee2-4aad-4f2e-a5ab-b50cdd2108cd",
+			"f91c2725-b19f-451b-9bc5-2b03877c597b"
+		],
+		"replaces": [
+			"3f84400f-52a4-4b8f-94b4-f6e4be99a8b7",
+			"7baf1622-157e-477f-8f40-e75e5d871f8b",
+			"b28b6cb9-c673-4b5a-a3e8-a1ac2575d2d2"
+		]
+	},
+	{
+		"title": "Subdomein B1",
+		"description": "Materie",
+		"prefix": "B1",
+		"id": "d0394949-3bd4-4c94-be7c-8cbfedaf990d",
+		"fo_doelzin_id": [
+			"9ed83a71-d5b2-4996-bb17-300b14e86985",
+			"9700fceb-8d91-407d-ba44-cfc8391cb309",
+			"a29267c0-7144-49e2-acbb-030a360a98ac",
+			"0bd18b42-99f4-4de2-8876-c1d623b6f33d",
+			"0933e228-d140-414e-ae9b-e742ef610037"
+		],
+		"replaces": [
+			"dd78fdb9-e6cf-483c-883b-e0e449752712",
+			"6120f011-a0d3-4652-9886-963adce39ead",
+			"5f023896-2e38-4e5d-9d3d-943bd0bf5585"
+		]
+	},
+	{
+		"title": "Subdomein B2",
+		"description": "Reacties en processen",
+		"prefix": "B2",
+		"id": "96b9036a-2dd0-4530-9061-8014ad115e92",
+		"fo_doelzin_id": [
+			"506a9672-ea6e-4049-8269-eb9277069b65",
+			"bae08f72-6deb-4b3f-9155-86c0d52c504c",
+			"2ecff71b-fc1d-4faa-acf7-c63e2ef8ff6c"
+		],
+		"replaces": [
+			"84e4838f-315b-4829-8785-98b652c8ff46",
+			"64f58b8c-4a72-4507-aba2-9118be9f7d9f",
+			"b4df506a-1239-403d-99fd-fe29edf7642b"
+		]
+	},
+	{
+		"title": "Subdomein D4",
+		"description": "Contexten",
+		"prefix": "D4",
+		"id": "784abcae-fa79-4977-91ee-885bebba2591",
+		"fo_doelzin_id": [
+			"20893fff-70b0-455e-b98a-f78ca3882d73"
+		],
+		"replaces": [
+			"24b8e65b-f9a9-4e5a-83dd-9368a3a60b45",
+			"16b82f59-5b60-4bb3-896a-9c9e24752f6a",
+			"02707613-2779-447b-9c6f-e692a5255d6a"
+		]
+	},
+	{
+		"title": "Subdomein B1",
+		"description": "Materie",
+		"prefix": "B1",
+		"id": "40840cce-13cf-453d-9cb6-4e797e63f21e",
+		"fo_doelzin_id": [
+			"6d33e138-f788-4bdf-a696-e8d58f19b34e",
+			"1d647374-76ee-4da9-96e8-591b498e46b2",
+			"95cdbeac-c983-4e0d-8646-d75030d9dde4",
+			"4e9dbee3-a958-4bcf-8896-f59b45dd0deb",
+			"9ff524f2-2e00-41a4-a3e5-06ba869245d7"
+		],
+		"replaces": [
+			"ee605391-ac75-48be-b20e-7d6e49380b32",
+			"73b3e413-b607-49c6-a358-ffe7d2ff0c18",
+			"26d96e8e-984a-4d66-bec9-1036e73f3d31"
+		]
+	},
+	{
+		"title": "Subdomein B2",
+		"description": "Reacties en processen",
+		"prefix": "B2",
+		"id": "247f54f3-8aa1-477a-81c3-5de4bc73267b",
+		"fo_doelzin_id": [
+			"873eae42-b6a3-4cdb-946b-0da6405971bc",
+			"c40c88d7-25fd-4bd8-9046-964ad0185847",
+			"13bd09a3-4875-4b75-9cd9-f2f370b55e53"
+		],
+		"replaces": [
+			"68deb63e-390f-4389-bbb6-09fbd7c8e3f6",
+			"4b8b287e-d9cf-4460-8502-70c964f20cfd",
+			"c69691d7-4f4e-4715-acb8-147c01740a31"
+		]
+	},
+	{
+		"title": "Subdomein B4",
+		"description": "Energie, reactiesnelheid en evenwicht",
+		"prefix": "B4",
+		"id": "3ee78973-cfef-4021-b728-7327d110f6f1",
+		"fo_doelzin_id": [
+			"80832645-ab46-43c6-af79-09ac45065893",
+			"95f25932-e49f-4c87-991c-9001a1a27999",
+			"33bfda95-a4b6-4139-a0bc-dc288cb1a14c"
+		],
+		"replaces": [
+			"2653a41d-7787-420d-8c0a-9d66b9180fac",
+			"e01acbff-d3f4-4398-bc1e-6c651c565002",
+			"638ca872-b845-47bb-b8c7-d45bf757f8b2"
+		]
+	},
+	{
+		"title": "Subdomein B6",
+		"description": "Scheidingsmethoden",
+		"prefix": "B6",
+		"id": "4f865350-6d26-4a0f-bde0-29efe5744408",
+		"fo_doelzin_id": [
+			"b8edad2a-2713-4d52-aeae-bb14fd0cc506"
+		],
+		"replaces": [
+			"c9d6f231-b1eb-42b6-953f-ca3c29a3c332",
+			"0e1ebbcb-ea8d-4e28-a2b6-4b9fc2fdbaae",
+			"4aff9a0a-bf3e-4f4d-ac2f-e679ee47c879"
+		]
+	},
+	{
+		"title": "Subdomein D3",
+		"description": "Contexten",
+		"prefix": "D3",
+		"id": "577c4ff0-238f-473d-8b4c-6d898d911c6e",
+		"fo_doelzin_id": [
+			"ea7c727c-b30d-4ef3-944a-a8583a803004"
+		],
+		"replaces": [
+			"b3c6404c-a282-4a54-b6c7-13134127df2f",
+			"ef91b5bc-9800-4ee0-82ff-4214a0bd6754",
+			"f5d35abd-6153-4938-829b-8ba4ecb6f219"
+		]
+	},
+	{
+		"title": "Subdomein B4 Scheidingsmethoden",
+		"description": "Subdomein B4 Scheidingsmethoden",
+		"prefix": "B4",
+		"id": "62de3be2-c207-40f8-9f18-e4e6bdcba07b",
+		"fo_doelzin_id": [
+			"b6a2989e-57a0-4a8f-be8b-102f1f334938"
+		],
+		"replaces": [
+			"a1960311-5a26-4730-adfd-41369f8ad39a",
+			"b1911461-d595-414a-81ff-d0dc8d3d8800",
+			"0210dba4-12a9-451a-a937-39d2f1fbe15e"
 		]
 	}
 ]

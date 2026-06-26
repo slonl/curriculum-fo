@@ -17209,16 +17209,6 @@
 		"description": "een tekst lezen over het verspreidingspatroon van een virus in de bevolking en hierin fragmenten onderstrepen die te maken hebben met typen oorzaken: kenmerken van het virus, bevolkingsdichtheid en verschil in besmettingskans tussen individuen."
 	},
 	{
-		"prefix": "t5",
-		"id": "dbe63b68-2211-4876-99ab-f4714cbc4018",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "al de energiebronnen die je dagelijks gebruikt in een tabel zetten en met een conversiefactor je jaarlijkse CO2-voetafdruk berekenen."
-	},
-	{
 		"prefix": "t1",
 		"id": "e9bea7a6-fb56-4f23-bba3-044677bc2a62",
 		"niveau_id": [
@@ -17577,46 +17567,6 @@
 		"status": "concept",
 		"title": "Te denken valt aan",
 		"description": "het dilemma: wel of niet actievoeren tegen de aanleg van een zonnepark."
-	},
-	{
-		"prefix": "t1",
-		"id": "6b136e99-2ab3-4406-a6da-192512851424",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "op meerdere plekken in een natuurgebied op een bepaalde afstand van een autoweg het aantal soorten planten en insecten in een kwadrant tellen."
-	},
-	{
-		"prefix": "t2",
-		"id": "ccdb6fe7-981d-42d8-9f6a-f53c78173ea5",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "in een natuurgebied een minuut lang met de ogen dicht waarnemen wat je hoort, ruikt of voelt."
-	},
-	{
-		"prefix": "t3",
-		"id": "69a2b93b-a806-4521-b5e4-8c53571710ad",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "in de natuurlijke omgeving zoeken naar invasieve exoten, zoals de reuzenberenklauw en de Japanse duizendknoop, en bestuderen welke impact deze planten hebben op de biodiversiteit en op de bewoners in de buurt."
-	},
-	{
-		"prefix": "t4",
-		"id": "d7788572-ec4d-4ca1-a065-94da2ce43466",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "metingen van biotische en abiotische factoren uitvoeren in de sloot en deze vergelijken met referentiewaardes."
 	},
 	{
 		"prefix": "t1",
@@ -23488,56 +23438,6 @@
 	},
 	{
 		"prefix": "t1",
-		"id": "ecc2d726-61e2-469d-8049-a048048a3e4f",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "een numeriek model maken voor de versnelling van lading in een deeltjesversneller."
-	},
-	{
-		"prefix": "t2",
-		"id": "68d5602d-8e63-4d21-8137-fa0ff7288e63",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "experimenteren met een vallende magneet en de fluxverandering die hierbij hoort."
-	},
-	{
-		"prefix": "t3",
-		"id": "d1ebc005-e5dd-4593-8805-3796e5aadd12",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "het elektrisch veld voorspellen bij een bepaalde ladingsverdeling en dit testen in een applet."
-	},
-	{
-		"prefix": "t4",
-		"id": "9b4bc55e-1896-45cc-8f5d-a3dc68b9ac10",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "film bekijken over de rol van het elektrisch veld bij het bestuiven van bloemen door bijen."
-	},
-	{
-		"prefix": "t5",
-		"id": "e076c712-a1bb-46e9-946c-0039a42f22dd",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "de relatie tussen de top- en effectieve spanning afleiden."
-	},
-	{
-		"prefix": "t1",
 		"id": "9443dec5-3f3d-4ae4-9af2-5e78c5c8e686",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
@@ -26296,28 +26196,6 @@
 		"description": "een tekening maken van het chlooratoom met protonen, neutronen en elektronen."
 	},
 	{
-		"prefix": "t2",
-		"id": "80a9dcbf-3fd8-4a89-b0ea-0da2b6e5d523",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "structuurformules van vijf aminozuren compleet maken bij een les over biomoleculen."
-	},
-	{
-		"prefix": "t3",
-		"id": "1ca898dd-fd50-4826-ac3c-4d8bd1b214ab",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "in een tekening weergeven in welke verhouding natrium- en carbonaationen voorkomen in een oplossing."
-	},
-	{
 		"prefix": "t1",
 		"id": "30b54a00-7708-47ec-957d-397e9fed5e7f",
 		"niveau_id": [
@@ -26352,17 +26230,6 @@
 	},
 	{
 		"prefix": "t1",
-		"id": "42f72ce5-440f-4af2-998f-f615481ae0ae",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "de fosforkringloop weergeven in een schema."
-	},
-	{
-		"prefix": "t1",
 		"id": "341fb44c-5cd8-468f-8472-87192f2efeed",
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303",
@@ -26384,17 +26251,6 @@
 		"description": "in een structuurformule een stukje polyetheen van drie etheeneenheden weergeven."
 	},
 	{
-		"prefix": "t3",
-		"id": "5389ad55-e5ed-46a0-9a4b-84aa7b9b208f",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "opstellen van een reactievergelijking van een gegeven zuurbasereactie, in een lessenserie over titratie."
-	},
-	{
 		"prefix": "t1",
 		"id": "31f930b4-3e67-4c9f-97ad-629f2781ab8c",
 		"niveau_id": [
@@ -26404,28 +26260,6 @@
 		"status": "concept",
 		"title": "Te denken valt aan",
 		"description": "aanvullen van een gegeven reactievergelijking waarbij roest wordt verwijderd met cola ter voorbereiding van een experiment."
-	},
-	{
-		"prefix": "t1",
-		"id": "adc2cd95-20d1-41e9-9ee2-297894de27b2",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "de productie van ammoniak weergeven in een blokschema."
-	},
-	{
-		"prefix": "t2",
-		"id": "8a44fcf8-1b9d-4c7f-a4ab-ce78cf2c3f0e",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "op een poster het verschil aangeven tussen het pasteurisatieproces in de thuissituatie en bij een zuivelbedrijf."
 	},
 	{
 		"prefix": "t1",
@@ -27679,16 +27513,6 @@
 		"description": "de atoommodellen van Bohr en Rutherford vergelijken met elkaar."
 	},
 	{
-		"prefix": "t2",
-		"id": "3512119f-2845-4f7f-81cd-c5567a0e32fe",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "tekenen van structuurformules van vijf aminozuren bij een les over biomoleculen."
-	},
-	{
 		"prefix": "t1",
 		"id": "d84692fd-37c1-436c-b868-7cb80e3e6456",
 		"niveau_id": [
@@ -27727,16 +27551,6 @@
 		"status": "concept",
 		"title": "Te denken valt aan",
 		"description": "in een opdracht over alledaagse chemie verklaren welke bindingen er verbroken worden tijdens het strijken van een overhemd."
-	},
-	{
-		"prefix": "t5",
-		"id": "9f348246-b279-470a-b650-26e9307ff925",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "in een DNA-molecuul aangeven welke bindingen H-bruggen zijn en covalent."
 	},
 	{
 		"prefix": "t1",
@@ -28729,16 +28543,6 @@
 		"description": "zorgvuldig handelen met oplossingen met hoge concentraties H2O2 bij een lessenserie over reactiesnelheid."
 	},
 	{
-		"prefix": "t4",
-		"id": "2a3f3431-5a4f-4efb-ac7d-51b7758949be",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "het vitamine C-gehalte bepalen in verschillende vruchtensappen."
-	},
-	{
 		"prefix": "t2",
 		"id": "51264dcd-f60e-4b48-b687-090181fe4731",
 		"niveau_id": [
@@ -28747,16 +28551,6 @@
 		"status": "concept",
 		"title": "Te denken valt aan",
 		"description": "opzoeken hoe polystyreen wordt geproduceerd, bij een vraagstuk over circulair produceren en consumeren."
-	},
-	{
-		"prefix": "t3",
-		"id": "234a73d4-db4f-4f63-ad5b-a72a9e28e740",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "informatie opzoeken over de aantasting van waterflora door zonnebrandcrème, bij een vraagstuk over schoon milieu."
 	},
 	{
 		"prefix": "t1",
@@ -29197,16 +28991,6 @@
 		"status": "concept",
 		"title": "Te denken valt aan",
 		"description": "de positie van de elektronen vergelijken in de modellen van Bohr en Rutherford en in het VSEPR-model."
-	},
-	{
-		"prefix": "t2",
-		"id": "b4c79b49-51f2-496a-bd3d-00e8d89f6ce3",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "de structuurformules tekenen van vijf aminozuren bij een les over biomoleculen."
 	},
 	{
 		"prefix": "t1",
@@ -29897,36 +29681,6 @@
 		"status": "concept",
 		"title": "Te denken valt aan",
 		"description": "in een blokschema aangeven hoe bioplastics kunnen worden verwerkt en hergebruikt, bij een vraagstuk over circulair produceren en consumeren."
-	},
-	{
-		"prefix": "t3",
-		"id": "05a34e15-a047-4102-92c1-891869235b60",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "het verband bepalen tussen de H2O2-concentratie en de gasvorming met het rekenen aan reacties, bij een lessenserie over reactiesnelheid."
-	},
-	{
-		"prefix": "t4",
-		"id": "9baf6568-aabe-41ae-b177-f73b31cd592c",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "in het blokschema van een industrieel proces weergeven waar energie wordt toe- en afgevoerd, bij een vraagstuk over duurzame energie."
-	},
-	{
-		"prefix": "t5",
-		"id": "b89a4b9b-dcbb-404d-9515-bc685d8bf760",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"status": "concept",
-		"title": "Te denken valt aan",
-		"description": "schematiseren van de P-kringloop bij een vraagstuk over schoon milieu."
 	},
 	{
 		"prefix": "t1",
@@ -112981,211 +112735,6 @@
 	},
 	{
 		"title": "Te denken valt aan",
-		"description": "al de energiebronnen die je dagelijks gebruikt in een tabel zetten en met een conversiefactor je jaarlijkse CO2-voetafdruk berekenen.",
-		"prefix": "t5",
-		"id": "41d97202-6657-4a40-87df-78d32d1c40ad",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Te denken valt aan",
-		"description": "van een advertentie de wetenschappelijke claim onderzoeken;",
-		"prefix": "t1",
-		"id": "7ebfb102-f02e-49f8-ba63-2980b25d59b2",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Te denken valt aan",
-		"description": "bij het selecteren van afbeeldingen kijken welke Creative Commons-licentie ze hebben;",
-		"prefix": "t2",
-		"id": "2ffbf04f-5aac-4974-985c-3b43f3880f10",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Te denken valt aan",
-		"description": "van plaatjes in een presentatie de bron vermeld;",
-		"prefix": "t3",
-		"id": "f055e744-3552-47c4-8c6e-598b3445f4e1",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Te denken valt aan",
-		"description": "bij een gezondheidsclaim op een verplakking achterhalen waar deze op gebaseerd is.",
-		"prefix": "t4",
-		"id": "d89100c3-91c2-4ed6-823d-a1a5314c420e",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Te denken valt aan",
-		"description": "tekenen van structuurformules van vijf aminozuren, bij een les over biomoleculen.",
-		"prefix": "t4",
-		"id": "29cab098-71cb-41c2-ba6a-0d3ac1df679e",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Te denken valt aan",
-		"description": "een presentatie geven over onderzoeksresultaten bij een lessenserie over verf.",
-		"prefix": "t1",
-		"id": "81b99c89-9fca-478d-8485-b8f5ee68be52",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Te denken valt aan",
-		"description": "aangeven op een toets of een gegeven structuurformule een koolhydraat of vet is.",
-		"prefix": "t2",
-		"id": "2d2707db-0db8-42d3-bf80-9d77bb6c66d9",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Te denken valt aan",
-		"description": "benoemen van de functie van eiwitten bij een vraagstuk over gezondheid.",
-		"prefix": "t3",
-		"id": "de40828f-5795-4113-a500-e72dbb567409",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Te denken valt aan",
-		"description": "in een tekening weergeven in welke verhouding natrium- en carbonaationen voorkomen in een oplossing.",
-		"prefix": "t3",
-		"id": "0b0b83a5-a42a-4365-90c0-e72e54503257",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Te denken valt aan",
-		"description": "opstellen van een reactievergelijking van een gegeven zuurbasereactie, in een lessenserie over titratie.",
-		"prefix": "t3",
-		"id": "3f1f13fa-8620-482e-a677-47e90f6a315d",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Te denken valt aan",
-		"description": "de fosforkringloop weergeven in een schema;",
-		"prefix": "t1",
-		"id": "a0219e7b-1db6-4d31-9531-c6ba6a8a911b",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Te denken valt aan",
-		"description": "ontbrekende stofstromen aanvullen in het blokschema van de productie van ammoniak;",
-		"prefix": "t2",
-		"id": "9d4a6561-acb0-48f5-b082-6e1b4d19c527",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Te denken valt aan",
-		"description": "op een poster presenteren hoe fosfor teruggewonnen wordt uit een afvalstroom.",
-		"prefix": "t3",
-		"id": "0871ddb7-d2f8-46dc-abdd-a80f2c56257f",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Te denken valt aan",
-		"description": "de structuurformules tekenen van vijf aminozuren bij een les over biomoleculen.",
-		"prefix": "t5",
-		"id": "8bd5cf9f-e48d-4799-a472-7f1bd71ec25f",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Te denken valt aan",
-		"description": "het verband bepalen tussen de H2O2-concentratie en de gasvorming met het rekenen aan reacties, bij een lessenserie over reactiesnelheid.",
-		"prefix": "t3",
-		"id": "05f7620c-141a-4012-a00b-338f68e0a7d7",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Te denken valt aan",
-		"description": "in het blokschema van een industrieel proces weergeven waar energie wordt toe- en afgevoerd, bij een vraagstuk over duurzame energie.",
-		"prefix": "t4",
-		"id": "a6f263bc-cd98-4222-b746-ced721ea8129",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Te denken valt aan",
-		"description": "schematiseren van de P-kringloop bij een vraagstuk over schoon milieu.",
-		"prefix": "t5",
-		"id": "839072af-f5d4-4781-a1aa-e08df38fb0a4",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"dirty": true,
-		"status": "concept"
-	},
-	{
-		"title": "Te denken valt aan",
 		"description": "letters in de Arabische kalligrafie herkennen in eenvoudige woorden en korte teksten;",
 		"prefix": "t1",
 		"status": "concept",
@@ -119233,6 +118782,247 @@
 		"description": "aantonen dat een zelfgemaakte fijnstofmeter werkt omdat deze binnen een gewenste foutmarge hetzelfde meet als de fijnstofmeter die te koop is.",
 		"replaces": [
 			"e1d93f1a-c289-469b-bb3e-d340109cbfa2"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "al de energiebronnen die je dagelijks gebruikt in een tabel zetten en met een conversiefactor je jaarlijkse CO2-voetafdruk berekenen.",
+		"prefix": "t5",
+		"id": "93e255ae-f6af-49b9-bde2-2985e7816256",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"replaces": [
+			"41d97202-6657-4a40-87df-78d32d1c40ad"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "van een advertentie de wetenschappelijke claim onderzoeken;",
+		"prefix": "t1",
+		"id": "69218082-5820-470b-90b6-bf7dd6fe877e",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"replaces": [
+			"7ebfb102-f02e-49f8-ba63-2980b25d59b2"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "bij het selecteren van afbeeldingen kijken welke Creative Commons-licentie ze hebben;",
+		"prefix": "t2",
+		"id": "feda3767-03bb-4486-8d03-98edc2100222",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"replaces": [
+			"2ffbf04f-5aac-4974-985c-3b43f3880f10"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "van plaatjes in een presentatie de bron vermeld;",
+		"prefix": "t3",
+		"id": "811503e9-2ee4-4feb-ac55-b2d68bddef2f",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"replaces": [
+			"f055e744-3552-47c4-8c6e-598b3445f4e1"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "bij een gezondheidsclaim op een verplakking achterhalen waar deze op gebaseerd is.",
+		"prefix": "t4",
+		"id": "36f31eea-7ffc-4063-aade-7d16ddbeb43f",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"replaces": [
+			"d89100c3-91c2-4ed6-823d-a1a5314c420e"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "tekenen van structuurformules van vijf aminozuren, bij een les over biomoleculen.",
+		"prefix": "t4",
+		"id": "65e49b9e-d061-4d4a-9489-1f0b021310bf",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"replaces": [
+			"29cab098-71cb-41c2-ba6a-0d3ac1df679e"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "een presentatie geven over onderzoeksresultaten bij een lessenserie over verf.",
+		"prefix": "t1",
+		"id": "10c8ab29-c473-45d4-813d-d9cb75461c76",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"status": "concept",
+		"replaces": [
+			"81b99c89-9fca-478d-8485-b8f5ee68be52"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "aangeven op een toets of een gegeven structuurformule een koolhydraat of vet is.",
+		"prefix": "t2",
+		"id": "0a96ab37-ab2f-42b7-8a51-c74b2de8b071",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"status": "concept",
+		"replaces": [
+			"2d2707db-0db8-42d3-bf80-9d77bb6c66d9"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "benoemen van de functie van eiwitten bij een vraagstuk over gezondheid.",
+		"prefix": "t3",
+		"id": "72b0f6bb-2c6f-41af-9e6d-f00c49dd3a76",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"status": "concept",
+		"replaces": [
+			"de40828f-5795-4113-a500-e72dbb567409"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "in een tekening weergeven in welke verhouding natrium- en carbonaationen voorkomen in een oplossing.",
+		"prefix": "t3",
+		"id": "9139c72a-f708-4e86-b518-e0bd2584abd0",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"status": "concept",
+		"replaces": [
+			"0b0b83a5-a42a-4365-90c0-e72e54503257"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "opstellen van een reactievergelijking van een gegeven zuurbasereactie, in een lessenserie over titratie.",
+		"prefix": "t3",
+		"id": "fdc29951-e9f3-4259-82cc-cff1e94c3460",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"status": "concept",
+		"replaces": [
+			"3f1f13fa-8620-482e-a677-47e90f6a315d"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "de fosforkringloop weergeven in een schema;",
+		"prefix": "t1",
+		"id": "a9986791-dba9-4710-ae67-100517c1e10b",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"status": "concept",
+		"replaces": [
+			"a0219e7b-1db6-4d31-9531-c6ba6a8a911b"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "ontbrekende stofstromen aanvullen in het blokschema van de productie van ammoniak;",
+		"prefix": "t2",
+		"id": "899fa7d4-9752-4532-a927-35a576effe63",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"status": "concept",
+		"replaces": [
+			"9d4a6561-acb0-48f5-b082-6e1b4d19c527"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "op een poster presenteren hoe fosfor teruggewonnen wordt uit een afvalstroom.",
+		"prefix": "t3",
+		"id": "1bda3ce7-94b2-4226-bf65-58cd222a2306",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"status": "concept",
+		"replaces": [
+			"0871ddb7-d2f8-46dc-abdd-a80f2c56257f"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "de structuurformules tekenen van vijf aminozuren bij een les over biomoleculen.",
+		"prefix": "t5",
+		"id": "f1905069-38f6-4faa-8103-ac65d39cdf19",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"status": "concept",
+		"replaces": [
+			"8bd5cf9f-e48d-4799-a472-7f1bd71ec25f"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "het verband bepalen tussen de H2O2-concentratie en de gasvorming met het rekenen aan reacties, bij een lessenserie over reactiesnelheid.",
+		"prefix": "t3",
+		"id": "f4b7048f-f091-4ce6-be90-b8d0cea9da15",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"status": "concept",
+		"replaces": [
+			"05f7620c-141a-4012-a00b-338f68e0a7d7"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "in het blokschema van een industrieel proces weergeven waar energie wordt toe- en afgevoerd, bij een vraagstuk over duurzame energie.",
+		"prefix": "t4",
+		"id": "57a03495-f219-44ad-b628-8d2169ac4a23",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"status": "concept",
+		"replaces": [
+			"a6f263bc-cd98-4222-b746-ced721ea8129"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "schematiseren van de P-kringloop bij een vraagstuk over schoon milieu.",
+		"prefix": "t5",
+		"id": "250d1746-601e-4cfb-814f-1cd52aa8d944",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"status": "concept",
+		"replaces": [
+			"839072af-f5d4-4781-a1aa-e08df38fb0a4"
 		]
 	}
 ]
