@@ -17216,7 +17216,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "al de energiebronnen die je dagelijks gebruikt in een tabel zetten en met een conversiefactor je jaarlijkse CO2-voetafdruk berekenen."
+		"description": "al de energiebronnen die je dagelijks gebruikt in een tabel zetten en met een conversiefactor je jaarlijkse CO2-voetafdruk berekenen.",
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -17586,7 +17587,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "op meerdere plekken in een natuurgebied op een bepaalde afstand van een autoweg het aantal soorten planten en insecten in een kwadrant tellen."
+		"description": "op meerdere plekken in een natuurgebied op een bepaalde afstand van een autoweg het aantal soorten planten en insecten in een kwadrant tellen.",
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -17596,7 +17598,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "in een natuurgebied een minuut lang met de ogen dicht waarnemen wat je hoort, ruikt of voelt."
+		"description": "in een natuurgebied een minuut lang met de ogen dicht waarnemen wat je hoort, ruikt of voelt.",
+		"deleted": true
 	},
 	{
 		"prefix": "t3",
@@ -17606,7 +17609,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "in de natuurlijke omgeving zoeken naar invasieve exoten, zoals de reuzenberenklauw en de Japanse duizendknoop, en bestuderen welke impact deze planten hebben op de biodiversiteit en op de bewoners in de buurt."
+		"description": "in de natuurlijke omgeving zoeken naar invasieve exoten, zoals de reuzenberenklauw en de Japanse duizendknoop, en bestuderen welke impact deze planten hebben op de biodiversiteit en op de bewoners in de buurt.",
+		"deleted": true
 	},
 	{
 		"prefix": "t4",
@@ -17616,7 +17620,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "metingen van biotische en abiotische factoren uitvoeren in de sloot en deze vergelijken met referentiewaardes."
+		"description": "metingen van biotische en abiotische factoren uitvoeren in de sloot en deze vergelijken met referentiewaardes.",
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -23494,7 +23499,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "een numeriek model maken voor de versnelling van lading in een deeltjesversneller."
+		"description": "een numeriek model maken voor de versnelling van lading in een deeltjesversneller.",
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -23504,7 +23510,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "experimenteren met een vallende magneet en de fluxverandering die hierbij hoort."
+		"description": "experimenteren met een vallende magneet en de fluxverandering die hierbij hoort.",
+		"deleted": true
 	},
 	{
 		"prefix": "t3",
@@ -23514,7 +23521,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "het elektrisch veld voorspellen bij een bepaalde ladingsverdeling en dit testen in een applet."
+		"description": "het elektrisch veld voorspellen bij een bepaalde ladingsverdeling en dit testen in een applet.",
+		"deleted": true
 	},
 	{
 		"prefix": "t4",
@@ -23524,7 +23532,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "film bekijken over de rol van het elektrisch veld bij het bestuiven van bloemen door bijen."
+		"description": "film bekijken over de rol van het elektrisch veld bij het bestuiven van bloemen door bijen.",
+		"deleted": true
 	},
 	{
 		"prefix": "t5",
@@ -23534,7 +23543,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "de relatie tussen de top- en effectieve spanning afleiden."
+		"description": "de relatie tussen de top- en effectieve spanning afleiden.",
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -26304,7 +26314,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "structuurformules van vijf aminozuren compleet maken bij een les over biomoleculen."
+		"description": "structuurformules van vijf aminozuren compleet maken bij een les over biomoleculen.",
+		"deleted": true
 	},
 	{
 		"prefix": "t3",
@@ -26315,7 +26326,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "in een tekening weergeven in welke verhouding natrium- en carbonaationen voorkomen in een oplossing."
+		"description": "in een tekening weergeven in welke verhouding natrium- en carbonaationen voorkomen in een oplossing.",
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -26359,7 +26371,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "de fosforkringloop weergeven in een schema."
+		"description": "de fosforkringloop weergeven in een schema.",
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -26392,7 +26405,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "opstellen van een reactievergelijking van een gegeven zuurbasereactie, in een lessenserie over titratie."
+		"description": "opstellen van een reactievergelijking van een gegeven zuurbasereactie, in een lessenserie over titratie.",
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -26414,7 +26428,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "de productie van ammoniak weergeven in een blokschema."
+		"description": "de productie van ammoniak weergeven in een blokschema.",
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -26425,7 +26440,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "op een poster het verschil aangeven tussen het pasteurisatieproces in de thuissituatie en bij een zuivelbedrijf."
+		"description": "op een poster het verschil aangeven tussen het pasteurisatieproces in de thuissituatie en bij een zuivelbedrijf.",
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -27686,7 +27702,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "tekenen van structuurformules van vijf aminozuren bij een les over biomoleculen."
+		"description": "tekenen van structuurformules van vijf aminozuren bij een les over biomoleculen.",
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -27736,7 +27753,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "in een DNA-molecuul aangeven welke bindingen H-bruggen zijn en covalent."
+		"description": "in een DNA-molecuul aangeven welke bindingen H-bruggen zijn en covalent.",
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -28736,7 +28754,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "het vitamine C-gehalte bepalen in verschillende vruchtensappen."
+		"description": "het vitamine C-gehalte bepalen in verschillende vruchtensappen.",
+		"deleted": true
 	},
 	{
 		"prefix": "t2",
@@ -28756,7 +28775,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "informatie opzoeken over de aantasting van waterflora door zonnebrandcrème, bij een vraagstuk over schoon milieu."
+		"description": "informatie opzoeken over de aantasting van waterflora door zonnebrandcrème, bij een vraagstuk over schoon milieu.",
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -29206,7 +29226,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "de structuurformules tekenen van vijf aminozuren bij een les over biomoleculen."
+		"description": "de structuurformules tekenen van vijf aminozuren bij een les over biomoleculen.",
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
@@ -29906,7 +29927,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "het verband bepalen tussen de H2O2-concentratie en de gasvorming met het rekenen aan reacties, bij een lessenserie over reactiesnelheid."
+		"description": "het verband bepalen tussen de H2O2-concentratie en de gasvorming met het rekenen aan reacties, bij een lessenserie over reactiesnelheid.",
+		"deleted": true
 	},
 	{
 		"prefix": "t4",
@@ -29916,7 +29938,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "in het blokschema van een industrieel proces weergeven waar energie wordt toe- en afgevoerd, bij een vraagstuk over duurzame energie."
+		"description": "in het blokschema van een industrieel proces weergeven waar energie wordt toe- en afgevoerd, bij een vraagstuk over duurzame energie.",
+		"deleted": true
 	},
 	{
 		"prefix": "t5",
@@ -29926,7 +29949,8 @@
 		],
 		"status": "concept",
 		"title": "Te denken valt aan",
-		"description": "schematiseren van de P-kringloop bij een vraagstuk over schoon milieu."
+		"description": "schematiseren van de P-kringloop bij een vraagstuk over schoon milieu.",
+		"deleted": true
 	},
 	{
 		"prefix": "t1",
