@@ -119024,5 +119024,1565 @@
 		"replaces": [
 			"839072af-f5d4-4781-a1aa-e08df38fb0a4"
 		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "de kunst- en erfgoedsector, media en entertainment, designers en reclamebureaus, muziek, dans en theater;",
+		"prefix": "t1",
+		"status": "definitief",
+		"id": "c4020470-aec6-4a47-8a0c-ef34ce8025d4",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "werken met informatiesystemen, telecommunicatie, programmeren en computers;",
+		"prefix": "t2",
+		"status": "definitief",
+		"id": "c7812009-2e70-4d48-8ce3-523d81c163a0",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "machinebouw, metaalproducten, transportmiddelen, elektronica, kunststofverwerking en textiel;",
+		"prefix": "t3",
+		"status": "definitief",
+		"id": "39a2dba3-843e-4fad-aff2-6e76dabb4abb",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "ondernemen, marketing of management;",
+		"prefix": "t4",
+		"status": "definitief",
+		"id": "6646c6a4-b4c2-44ee-8d4f-a5e4d6ebc57d",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "sensortechnologie, zorgtechnologie;",
+		"prefix": "t5",
+		"status": "definitief",
+		"id": "66c349e6-e950-45c0-86ee-0622c8cd3b3d",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "alle transport via wegen, water en lucht;",
+		"prefix": "t6",
+		"status": "definitief",
+		"id": "9e7f388c-50ed-4fe8-ab2b-f38f489a8c6b",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "productie, samenstelling, kwaliteit, opslag, bewaring en veiligheid van levensmiddelen;",
+		"prefix": "t7",
+		"status": "definitief",
+		"id": "0ca70128-f47f-4bd3-b3a5-80d83c8689a6",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "smart-wonen, -werken en -leven, domotica, GPS-technologie, robotica.",
+		"prefix": "t8",
+		"status": "definitief",
+		"id": "eb016479-25bc-475b-985b-df749dc55a27",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "desk- en veldonderzoek;",
+		"prefix": "t1",
+		"status": "definitief",
+		"id": "3a20f714-5872-45f5-9f55-2f509b3e8dcf",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "interviews en observaties;",
+		"prefix": "t2",
+		"status": "definitief",
+		"id": "0e8e20e8-83bd-4f47-a014-dda202a1d40c",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "analyseren van technologische vraagstukken uit de praktijk.",
+		"prefix": "t3",
+		"status": "definitief",
+		"id": "a6ab608e-277c-4cd5-a73d-765e3952362f",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "watervalmethode, cyclisch ontwerp, design thinking;",
+		"prefix": "t1",
+		"status": "definitief",
+		"id": "0992c490-273f-449a-8cc1-72f4dab56725",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "een 2D-, 3D- of digitaal product maken;",
+		"prefix": "t2",
+		"status": "definitief",
+		"id": "eb1025bf-4e8d-4b9a-a2fc-45fa7dd12c6d",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "reduce, rethink, re-use, repair, refurbish, repurpose, recycle, recover;",
+		"prefix": "t3",
+		"status": "definitief",
+		"id": "fe218b77-6dd9-4c82-9655-b918ea96a5d4",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "een adviesrapport of presentatie maken voor een opdrachtgever.",
+		"prefix": "t4",
+		"status": "definitief",
+		"id": "a451a48d-86a9-4e97-8baa-2465bb9961f2",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "reduce, rethink, re-use, repair, refurbish, repurpose, recycle, recover;",
+		"prefix": "t1",
+		"status": "definitief",
+		"id": "5de5e1d0-d415-4b92-8a40-4a8e6d54f8ee",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "de gebruikszekerheid van gerecyclede producten.",
+		"prefix": "t2",
+		"status": "definitief",
+		"id": "d0cd0d0f-a96d-4247-9b90-1ba7ed22aa84",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "vakspecialisten, medewerkers en hbostudenten en -docenten;",
+		"prefix": "t1",
+		"status": "definitief",
+		"id": "70808b8f-e3c3-41eb-becd-1d328866a296",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "de volledigheid en betrouwbaarheid van de informatie beoordelen;",
+		"prefix": "t2",
+		"status": "definitief",
+		"id": "949f2b5a-2871-4479-a179-e4630d52df3c",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "conceptversies toetsen aan expertise.",
+		"prefix": "t3",
+		"status": "definitief",
+		"id": "9cc8f4b3-a2de-412f-83a8-55f144813499",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "logistieke processen, protocollen;",
+		"prefix": "t1",
+		"status": "definitief",
+		"id": "83b1afc5-5c81-42cb-9d00-e90e227c4e0b",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "het in beeld brengen van het proces van het maken van een product in de vorm van een werkinstructie;",
+		"prefix": "t2",
+		"status": "definitief",
+		"id": "0ede00ca-4de5-4931-9fa2-39031840968d",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "in samenspraak met de opdrachtgever een tijdpad maken om een werkbaar plan te maken voor de opdracht.",
+		"prefix": "t3",
+		"status": "definitief",
+		"id": "c0b0e42b-994b-4ab1-ab06-eabd21b57c4d",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "(3D-)tekenprogramma’s, programmeersoftware, tekstverwerkingsprogramma’s;",
+		"prefix": "t1",
+		"status": "definitief",
+		"id": "5f11c1e8-c13d-4949-996e-3f229810a32e",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "gereedschappen, computers, machineonderdelen;",
+		"prefix": "t2",
+		"status": "definitief",
+		"id": "d82a1127-e059-4c02-ae23-c377ee652702",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "hout, metaal, kunststof, papier, textiel;",
+		"prefix": "t3",
+		"status": "definitief",
+		"id": "77ea8e1b-d4d3-4ab0-8e4a-c2ab335b822d",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "voor- en nadelen benoemen van materialen;",
+		"prefix": "t4",
+		"status": "definitief",
+		"id": "2cd8b30d-cd89-45c3-abe0-d25fe8969abd",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "milieutechnische, duurzame, arbotechnische invalshoeken.",
+		"prefix": "t5",
+		"status": "definitief",
+		"id": "0f6b735e-f560-42b4-bd5d-396900fb5a9e",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "Hoe maak je je leefomgeving groener?",
+		"prefix": "t1",
+		"status": "definitief",
+		"id": "3e16e996-1f72-4e62-8e33-13e3c60243d6",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "Hoe verklein je de ecologische voetafdruk?",
+		"prefix": "t2",
+		"status": "definitief",
+		"id": "ade93532-d1a2-444c-9c94-ecd3cb7fc959",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "Hoe kun je CO2-neutraal wonen?",
+		"prefix": "t3",
+		"status": "definitief",
+		"id": "a92cab6c-8de9-4084-8a65-c316bcafe666",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "Hoe gebruik je groentereststromen bij het ontwikkelen van producten?",
+		"prefix": "t4",
+		"status": "definitief",
+		"id": "9928c663-dfb0-425d-82df-288649d67adb",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "economie, met werkvelden als bedrijfskunde, accountancy, ondernemen, management en marketing;",
+		"prefix": "t1",
+		"status": "definitief",
+		"id": "34a607c0-1ca1-4f8e-91f3-df0242400219",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "gedrag en maatschappij, met werkvelden als sociaal werk, psychologie, pedagogische opleidingen, maatschappelijke hulp en dienstverlening;",
+		"prefix": "t2",
+		"status": "definitief",
+		"id": "38a74918-2d52-4f2d-bee8-76480f6b7c9f",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "gezondheidszorg, met werkvelden als verpleegkunde, paramedische beroepen (waaronder ergotherapeut, mondhygiënist, diëtist);",
+		"prefix": "t3",
+		"status": "definitief",
+		"id": "01c45d4b-c6c0-420c-ae5b-5e6757313000",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "recht, met werkvelden als publiekrecht, privaatrecht;",
+		"prefix": "t4",
+		"status": "definitief",
+		"id": "f71806cb-490b-4ecf-9a38-4791eefc3649",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "taal en cultuur, met werkvelden als religie, journalistiek, communicatie en media;",
+		"prefix": "t5",
+		"status": "definitief",
+		"id": "74c7044c-7356-41c7-9214-84a11f945977",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "onderwijs, met werkvelden als lerarenopleidingen, onderwijsondersteuning, educatie.",
+		"prefix": "t6",
+		"status": "definitief",
+		"id": "c42f2567-2016-4a75-9bbf-1bede51a5138",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "voorlichting geven;",
+		"prefix": "t1",
+		"status": "definitief",
+		"id": "715e4f88-b184-41f8-8721-68912a646446",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "activiteiten begeleiden met kinderen, volwassenen;",
+		"prefix": "t2",
+		"status": "definitief",
+		"id": "f98c03bf-953f-4097-a840-6e6eba6cc49e",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "een leskist samenstellen en aanbieden;",
+		"prefix": "t3",
+		"status": "definitief",
+		"id": "451698e4-e55f-4153-a1df-d3e46751a765",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "duurzame diensten in de detailhandel ontwikkelen;",
+		"prefix": "t4",
+		"status": "definitief",
+		"id": "65b63121-d352-456b-9078-0b235f986ed1",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "ontwerpen van een product met gebruik van een ontwerpmethodiek;",
+		"prefix": "t1",
+		"status": "definitief",
+		"id": "2dce2017-94f8-4931-811c-e6d9b1fc08f1",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "circulaire ontwerpstrategieën toepassen, denk aan reduce, rethink, re-use, repair, refurbish, repurpose, recycle, recover;",
+		"prefix": "t2",
+		"status": "definitief",
+		"id": "28cef93d-7f59-4819-96e8-140f6023ad4f",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "door herbestemming van materialen nieuwe producten maken, bijvoorbeeld ergonomisch verantwoorde meubels, speelgoed, kleding of accessoires;",
+		"prefix": "t3",
+		"status": "definitief",
+		"id": "2bb2b99d-85e7-4f9a-929f-a557f30ce628",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "ontwerpen van producten met een maatschappelijke doel: een weggeefkast, leskist, speeltuin en park.",
+		"prefix": "t4",
+		"status": "definitief",
+		"id": "2a2ad627-cb59-4c3c-97f2-a1cb83bd42f3",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "logistieke processen verbeteren;",
+		"prefix": "t1",
+		"status": "definitief",
+		"id": "83415b9d-7a35-4eee-b48c-216d0e740741",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "een werkinstructie van een bouwpakket verbeteren;",
+		"prefix": "t2",
+		"status": "definitief",
+		"id": "a288c949-bbce-4502-997c-82052c1adbae",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "een stappenplan voor het organiseren van een evenement maken;",
+		"prefix": "t3",
+		"status": "definitief",
+		"id": "9faa1540-f0e4-4bda-a800-1009fe83e72e",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "gebruiksaanwijzing schrijven;",
+		"prefix": "t4",
+		"status": "definitief",
+		"id": "6e27bec6-75ac-492d-a677-c121247dbe8e",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "crowd management, een plan maken voor looproutes in drukke gebieden.",
+		"prefix": "t5",
+		"status": "definitief",
+		"id": "0b90575a-7ba0-4acf-9b35-9399cf490fd7",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "vragenlijsten maken, richtvragen bedenken voor een interview, kijkpunten opstellen voor een observatie;",
+		"prefix": "t1",
+		"status": "definitief",
+		"id": "c8b3d6aa-e572-4969-bf67-97e3dfe58dd9",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "grafieken, tabellen, diagrammen, infographic, podcast, video, animatie.",
+		"prefix": "t2",
+		"status": "definitief",
+		"id": "d8d2d837-7685-4b0d-adea-c81a7e012189",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "vakspecialisten, medewerkers en hbo-studenten en -docenten bevragen;",
+		"prefix": "t1",
+		"status": "definitief",
+		"id": "698035b5-1327-4942-83c4-761f2d587615",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "de volledigheid en betrouwbaarheid van de informatie beoordelen;",
+		"prefix": "t2",
+		"status": "definitief",
+		"id": "22454860-68dc-4654-9ace-3028ca1b5876",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "conceptversies bespreken met de expert;",
+		"prefix": "t3",
+		"status": "definitief",
+		"id": "f7f60818-ee69-48dd-9124-c70a183417b3",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "feedback vragen van de expert.",
+		"prefix": "t4",
+		"status": "definitief",
+		"id": "a146fe6b-9979-4059-96f8-e7b469f70c67",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "zich vooraf verplaatsen in de ander: welke reacties is te verwachten;",
+		"prefix": "t1",
+		"status": "definitief",
+		"id": "0956152e-bd41-4b54-b2f7-6e58392fa1ce",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "in gesprek gaan of samenwerken met groepen en individuen met andere achtergronden, mogelijkheden en ervaringen;",
+		"prefix": "t2",
+		"status": "definitief",
+		"id": "5443a29e-7cc8-45af-9d07-6e97d9281b3e",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "vergelijken van opvattingen en reflecteren op eigen opvattingen.",
+		"prefix": "t3",
+		"status": "definitief",
+		"id": "62f51139-a3a6-4eaf-b628-ea8e0ab60e57",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "sectorspecifieke regelgeving zoals in de medische sector, gemeentelijke verordeningen zoals over afvalstoffen of parkeren, landelijke wetten;",
+		"prefix": "t1",
+		"status": "definitief",
+		"id": "a56aaf77-5129-482d-b434-8ee106b55eb0",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "veiligheidsnormen, milieuregels, administratieve verplichtingen verwerken in opdrachten.",
+		"prefix": "t2",
+		"status": "definitief",
+		"id": "068bebcb-a60e-43d6-a0e9-4a82e2822ceb",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "Hoe vergroot je de weerbaarheid van kwetsbaren?",
+		"prefix": "t1",
+		"status": "definitief",
+		"id": "9de9744b-1ae0-4ddc-b9e6-3edf35f0c85b",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "Wat te doen met het voedseloverschot van evenementen, congressen, feesten?",
+		"prefix": "t2",
+		"status": "definitief",
+		"id": "f57edc45-1e38-4b96-8574-4fd78e7be51a",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "Hoe kunnen nieuwkomers zich welkom en veilig voelen?",
+		"prefix": "t3",
+		"status": "definitief",
+		"id": "802170e6-3811-405a-bc28-c46133f01ec3",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "Hoe bevorder je inclusie?",
+		"prefix": "t4",
+		"status": "definitief",
+		"id": "86c68d92-97da-4458-9a81-d14466be3f78",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "Hoe stimuleer je lokaal toerisme?",
+		"prefix": "t5",
+		"status": "definitief",
+		"id": "49aaa823-38c9-4176-95fc-f60b04e5a01f",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "Hoe bevorder je fietsgebruik voor het woon- werkverkeer?",
+		"prefix": "t6",
+		"status": "definitief",
+		"id": "06dcaff0-ed5e-4cf9-8e4b-6082a1a431e4",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "Hoe ziet een duurzaam transportsysteem eruit?",
+		"prefix": "t7",
+		"status": "definitief",
+		"id": "df835af8-b815-40dd-8ac8-829abf431b44",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "Wat is zelfvoorzienend leven?",
+		"prefix": "t8",
+		"status": "definitief",
+		"id": "1f84c12e-f7d4-4d7d-a455-08f38d829564",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "economie, met werkvelden als bedrijfskunde, accountancy, ondernemen, management en marketing;",
+		"prefix": "t1",
+		"status": "definitief",
+		"id": "17440307-425f-451a-998e-a90508389150",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "gedrag en maatschappij, met werkvelden als sociaal werk, psychologie, pedagogische opleidingen, maatschappelijke hulp en dienstverlening;",
+		"prefix": "t2",
+		"status": "definitief",
+		"id": "6ac3d0e3-34ea-421a-9c61-cabcb4102181",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "gezondheidszorg, met werkvelden als verpleegkunde, paramedische beroepen (waaronder ergotherapeut, mondhygiënist, diëtist);",
+		"prefix": "t3",
+		"status": "definitief",
+		"id": "e60b56eb-7016-46bd-be92-577bfef999e9",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "recht, met werkvelden als publiekrecht, privaatrecht;",
+		"prefix": "t4",
+		"status": "definitief",
+		"id": "e85f4a20-7fc5-4e84-98f5-6be1fd62ecc7",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "taal en cultuur, met werkvelden als religie, journalistiek, communicatie en media;",
+		"prefix": "t5",
+		"status": "definitief",
+		"id": "0bd48838-4a82-4746-9239-9422d74fa1b5",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "onderwijs, met werkvelden als lerarenopleidingen, onderwijsondersteuning, educatie.",
+		"prefix": "t6",
+		"status": "definitief",
+		"id": "09a2b316-299f-4793-82a7-3ca384fea390",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "voorlichting geven;",
+		"prefix": "t1",
+		"status": "definitief",
+		"id": "0a4b348d-7378-4258-93fc-73fa2636f2d1",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "activiteiten begeleiden met kinderen, volwassenen;",
+		"prefix": "t2",
+		"status": "definitief",
+		"id": "09fa697b-95f0-43f1-9d80-71684e959aa1",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "een leskist samenstellen en aanbieden;",
+		"prefix": "t3",
+		"status": "definitief",
+		"id": "1b5122d8-7b44-49d9-9b31-eabdebbf3f0f",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "duurzame diensten in de detailhandel ontwikkelen.",
+		"prefix": "t4",
+		"status": "definitief",
+		"id": "247587ea-db7c-43fe-a40e-fa3157ad5c12",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "ontwerpen van een product met gebruik van een ontwerpmethodiek;",
+		"prefix": "t1",
+		"status": "definitief",
+		"id": "43bcbf82-69f2-428c-ab14-5d355d2bf3d8",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "circulaire ontwerpstrategieën toepassen, denk aan reduce, rethink, re-use, repair, refurbish, repurpose, recycle, recover;",
+		"prefix": "t2",
+		"status": "definitief",
+		"id": "a503990e-2f89-445e-80d9-ec7fe5a14016",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "door herbestemming van materialen nieuwe producten maken, bijvoorbeeld ergonomisch verantwoorde meubels, speelgoed, kleding of accessoires;",
+		"prefix": "t3",
+		"status": "definitief",
+		"id": "f1a81534-dcbc-4a2f-89e5-d38f160fe425",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "ontwerpen van producten met een maatschappelijke doel: een weggeefkast, leskist, speeltuin en park.",
+		"prefix": "t4",
+		"status": "definitief",
+		"id": "bdd40e0e-5fb4-43ec-aea9-c3b15ddad045",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "logistieke processen verbeteren;",
+		"prefix": "t1",
+		"status": "definitief",
+		"id": "96f49915-9aba-4103-98e6-bf7e58eec24f",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "een werkinstructie van een bouwpakket verbeteren;",
+		"prefix": "t2",
+		"status": "definitief",
+		"id": "7b9b7dc2-cf72-450f-946f-16560896a869",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "een stappenplan voor het organiseren van een evenement maken;",
+		"prefix": "t3",
+		"status": "definitief",
+		"id": "1261caf8-2aa5-492b-b17a-84f50322eee8",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "gebruiksaanwijzing schrijven;",
+		"prefix": "t4",
+		"status": "definitief",
+		"id": "76647903-f808-4a04-bb5e-2c1f13e623d2",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "crowd management, een plan maken voor looproutes in drukke gebieden.",
+		"prefix": "t5",
+		"status": "definitief",
+		"id": "ee2fc456-8123-4490-84ae-bc94ad24b242",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "een probleemstelling over een van de duurzame ontwikkelingsdoelen;",
+		"prefix": "t1",
+		"status": "definitief",
+		"id": "d7c9f3f6-e5d2-4d3f-9d27-08f2531b2692",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "een kwalitatief of kwantitatief gebruikersonderzoek;",
+		"prefix": "t2",
+		"status": "definitief",
+		"id": "ca2800f6-7180-4717-a3f1-0d2048ee5e17",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "demografische doelgroepen, professionele doelgroepen, consumentendoelgroepen, specifieke onderzoeksgroepen;",
+		"prefix": "t3",
+		"status": "definitief",
+		"id": "14dcdb1a-922b-4f2c-902a-adea80104f9b",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "een vragenlijst, interview, observatie, analyse van documenten;",
+		"prefix": "t4",
+		"status": "definitief",
+		"id": "5a9452d9-3c27-42de-9943-5c15be7fcc5a",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "bronnen vermelden volgens APA-richtlijnen in een onderzoek.",
+		"prefix": "t5",
+		"status": "definitief",
+		"id": "eb87607e-61f8-4ef0-a258-bb027fdf68c4",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "vragenlijst maken, richtvragen bedenken voor een interview, kijkpunten opstellen voor een observatie;",
+		"prefix": "t1",
+		"status": "definitief",
+		"id": "4951a84b-f4b0-4cb2-979f-bd04164fa15f",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "grafieken, tabellen, diagrammen, infographic, podcast, video, animatie.",
+		"prefix": "t2",
+		"status": "definitief",
+		"id": "f0580a3e-121a-4a55-8ce9-52e3d1d4ca91",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "vakspecialisten, medewerkers en hbo-studenten en -docenten bevragen;",
+		"prefix": "t1",
+		"status": "definitief",
+		"id": "5302338e-7561-4e38-8ebd-ac350d25c5d8",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "de volledigheid en betrouwbaarheid van de informatie beoordelen;",
+		"prefix": "t2",
+		"status": "definitief",
+		"id": "09ad9da6-786f-46c7-81cd-227faa4db9a1",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "conceptversies bespreken met de expert;",
+		"prefix": "t3",
+		"status": "definitief",
+		"id": "94b30ae5-a5c4-4807-b481-32104b3a87b4",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "feedback vragen van de expert.",
+		"prefix": "t4",
+		"status": "definitief",
+		"id": "820d7ce1-23b7-4123-977c-f721e216de64",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "zich vooraf verplaatsen in de ander: welke reacties is te verwachten;",
+		"prefix": "t1",
+		"status": "definitief",
+		"id": "66b8a64e-99a2-40c6-aab9-3cc6ba41c9ea",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "in gesprek gaan of samenwerken met groepen en individuen met andere achtergronden, mogelijkheden en ervaringen;",
+		"prefix": "t2",
+		"status": "definitief",
+		"id": "ff2cbbb3-94f5-46fc-9234-e774bb22d76e",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "vergelijken van opvattingen en reflecteren op eigen opvattingen.",
+		"prefix": "t3",
+		"status": "definitief",
+		"id": "7b817a6d-c4a9-4534-a466-9a6db0bc4ba7",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "sectorspecifieke regelgeving zoals in de medische sector, gemeentelijke verordeningen zoals over afvalstoffen of parkeren, landelijke wetten;",
+		"prefix": "t1",
+		"status": "definitief",
+		"id": "0e42eb00-d86f-40e9-8fa8-dbd92769f4e9",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "veiligheidsnormen, milieuregels, administratieve verplichtingen verwerken in opdrachten.",
+		"prefix": "t2",
+		"status": "definitief",
+		"id": "c0669637-99e7-4080-a5ff-51009635142a",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "Hoe vergroot je de weerbaarheid van kwetsbaren?",
+		"prefix": "t1",
+		"status": "definitief",
+		"id": "e765b477-b0a9-47d9-8fc2-87fc7b9eed33",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "Wat te doen met het voedseloverschot van evenementen, congressen, feesten?",
+		"prefix": "t2",
+		"status": "definitief",
+		"id": "29fafec5-993c-49ab-818a-3e84ec737df6",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "Hoe kunnen nieuwkomers zich welkom en veilig voelen?",
+		"prefix": "t3",
+		"status": "definitief",
+		"id": "17879a92-040b-4fa6-ad9e-3661cd7643f1",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "Hoe bevorder je inclusie?",
+		"prefix": "t4",
+		"status": "definitief",
+		"id": "0a05d823-e15f-43a3-af0b-c0cff0617be0",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "Hoe stimuleer je lokaal toerisme?",
+		"prefix": "t5",
+		"status": "definitief",
+		"id": "f8cd1238-16f6-493b-8fa0-fdfa98a66581",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "Hoe bevorder je fietsgebruik voor het woon- werkverkeer?",
+		"prefix": "t6",
+		"status": "definitief",
+		"id": "6164654b-aa1a-4177-8a80-52b45251c362",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "Hoe ziet een duurzaam transportsysteem eruit?",
+		"prefix": "t7",
+		"status": "definitief",
+		"id": "61d35759-a780-4f50-9733-87423536401e",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "Wat is zelfvoorzienend leven?",
+		"prefix": "t8",
+		"status": "definitief",
+		"id": "efe72e98-7d75-48de-880d-aa29682ee150",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "de kunst- en erfgoedsector, media en entertainment, designers en reclamebureaus, muziek, dans en theater;",
+		"prefix": "t1",
+		"status": "definitief",
+		"id": "d68bf62a-fb3c-40f3-ad13-3789743634de",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "werken met informatiesystemen, telecommunicatie, programmeren en computers;",
+		"prefix": "t2",
+		"status": "definitief",
+		"id": "0960cbb8-2fa5-4c33-aae0-e5157c19086b",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "machinebouw, metaalproducten, transportmiddelen, elektronica, kunststofverwerking en textiel;",
+		"prefix": "t3",
+		"status": "definitief",
+		"id": "2261c32e-53ad-4635-b534-96fc15bfb390",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "ondernemen, marketing of management;",
+		"prefix": "t4",
+		"status": "definitief",
+		"id": "9dc65d1b-4392-4b64-b5ed-63b51d6e4bb1",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "sensortechnologie, zorgtechnologie;",
+		"prefix": "t5",
+		"status": "definitief",
+		"id": "fc2889e3-d2fc-4a77-bd51-a659e483107f",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "alle transport via wegen, water en lucht;",
+		"prefix": "t6",
+		"status": "definitief",
+		"id": "61a0ecab-b12e-421d-8050-e5c5e1a58045",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "productie, samenstelling, kwaliteit, opslag, bewaring en veiligheid van levensmiddelen;",
+		"prefix": "t7",
+		"status": "definitief",
+		"id": "8e156d3a-ed4b-4753-bdad-011a07f1883b",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "smart-wonen, -werken en -leven, domotica, GPS-technologie, robotica.",
+		"prefix": "t8",
+		"status": "definitief",
+		"id": "d625489e-619d-45f1-8374-1c71f3e11d62",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "formuleren van een onderzoeksvraag;",
+		"prefix": "t1",
+		"status": "definitief",
+		"id": "16c9a39b-d05f-4a99-9807-bff6b28fa1bb",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "opstellen van een onderzoeksplan;",
+		"prefix": "t2",
+		"status": "definitief",
+		"id": "bb370e1e-2f2e-4b52-8cc1-bca32fc11588",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "verzamelen van informatie;",
+		"prefix": "t3",
+		"status": "definitief",
+		"id": "320d3e88-16b8-4fbe-964c-bfe2db17dd66",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "beoordelen van patronen in de verzamelde informatie;",
+		"prefix": "t4",
+		"status": "definitief",
+		"id": "13336874-c47d-4fd8-b311-8fd71f6d9338",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "beantwoorden van een onderzoeksvraag.",
+		"prefix": "t5",
+		"status": "definitief",
+		"id": "56f4bfe0-2291-4007-a47a-8d2cdd1a530a",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "visualisaties maken naar aanleiding van bijvoorbeeld data over het weer, ziekten, licht en temperatuur, vervuiling, bewegingen van golven, groei van organismen;",
+		"prefix": "t1",
+		"status": "definitief",
+		"id": "b9066201-a42a-4f46-a7d6-6af5fdb47ad3",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "interactieve 3D-werkelijkheden ontwikkelen (VR en AR);",
+		"prefix": "t2",
+		"status": "definitief",
+		"id": "4a3cb3dc-2683-4515-9b81-bf8a1200476f",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "3D-uitwerkingen maken.",
+		"prefix": "t3",
+		"status": "definitief",
+		"id": "98b94334-5a78-40c0-9c5a-af04daa4678a",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "watervalmethode, cyclisch ontwerp, design thinking;",
+		"prefix": "t1",
+		"status": "definitief",
+		"id": "48b3bfa5-36a7-4ef3-a6b7-459969de3b25",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "een 2D-, 3D- of digitaal product maken;",
+		"prefix": "t2",
+		"status": "definitief",
+		"id": "0b860603-193d-4660-b396-7f9fdd59a106",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "reduce, rethink, re-use, repair, refurbish, repurpose, recycle, recover;",
+		"prefix": "t3",
+		"status": "definitief",
+		"id": "b6224370-78bc-4722-b7e8-1e43c639d53a",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "een adviesrapport of presentatie maken voor een opdrachtgever.",
+		"prefix": "t4",
+		"status": "definitief",
+		"id": "8859ad2c-1633-4f1b-b841-16980dc543dc",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "duurzaamheid;",
+		"prefix": "t1",
+		"status": "definitief",
+		"id": "ef909b38-1ce1-42f8-824c-d22f9f780f6d",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "veiligheid;",
+		"prefix": "t2",
+		"status": "definitief",
+		"id": "19a3629f-d7e9-4681-bcf1-75bd59590e8b",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "gebruikszekerheid.",
+		"prefix": "t3",
+		"status": "definitief",
+		"id": "be10e578-80dc-4481-b015-b14bd1c2469e",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "vakspecialisten, medewerkers en hbo-studenten en -docenten;",
+		"prefix": "t1",
+		"status": "definitief",
+		"id": "2685c10b-7dbc-4bfa-b28d-d55f6196c01c",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "de volledigheid en betrouwbaarheid van de informatie beoordelen;",
+		"prefix": "t2",
+		"status": "definitief",
+		"id": "3eb56f2c-0bb7-4c6b-bd6e-5008bfa77576",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "conceptversies toetsen aan expertise.",
+		"prefix": "t3",
+		"status": "definitief",
+		"id": "7440b92f-401b-4066-a17e-3115a2ee1bd6",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "logistieke processen, protocollen;",
+		"prefix": "t1",
+		"status": "definitief",
+		"id": "b8f1bbaf-4024-4cfc-93c5-03183d5d5f00",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "het in beeld brengen van het proces van het maken van een product in de vorm van een werkinstructie;",
+		"prefix": "t2",
+		"status": "definitief",
+		"id": "9de686d7-8c72-4c83-b8bf-76def9a7a0e2",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "in samenspraak met de opdrachtgever een tijdpad maken om een werkbaar plan te maken voor de opdracht.",
+		"prefix": "t3",
+		"status": "definitief",
+		"id": "7892d9bc-8a62-44c7-81bd-24953044d1e2",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "(3D-)tekenprogramma’s, programmeersoftware, tekstverwerkingsprogramma’s;",
+		"prefix": "t1",
+		"status": "definitief",
+		"id": "b9a2d787-9fa0-41d9-be00-e29a3c13a972",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "gereedschappen, computers, machineonderdelen;",
+		"prefix": "t2",
+		"status": "definitief",
+		"id": "a250db6e-b27e-466d-ba65-e8f70eb40983",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "hout, metaal, kunststof, papier, textiel;",
+		"prefix": "t3",
+		"status": "definitief",
+		"id": "411e772b-21d5-4175-a872-7083457b0701",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "voor- en nadelen benoemen van materialen;",
+		"prefix": "t4",
+		"status": "definitief",
+		"id": "646f292b-51d9-404f-9340-3f9868b2f619",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "economische, milieutechnische, duurzame, arbotechnische invalshoeken.",
+		"prefix": "t5",
+		"status": "definitief",
+		"id": "4cd5d488-b497-4c1a-ac33-5f1681a6c084",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "brandstof die in een auto omgezet wordt in beweging;",
+		"prefix": "t1",
+		"status": "definitief",
+		"id": "9ba0b041-2bb2-4bbf-8958-bc4822379ce1",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "het zelf ontwikkelen van een energiesysteem;",
+		"prefix": "t2",
+		"status": "definitief",
+		"id": "7a31c810-25a2-4af6-9f30-25910968d1e1",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "een bestaand systeem analyseren en optimaliseren;",
+		"prefix": "t3",
+		"status": "definitief",
+		"id": "e3ab557b-0be4-4605-a6eb-406d430b06e2",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "aan de hand van bijvoorbeeld een model, schema, schets, blokschema of technische tekening uitleg geven van een systeem;",
+		"prefix": "t4",
+		"status": "definitief",
+		"id": "e2a72803-df5d-4668-8657-400418cafe4c",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "winst van energie, tijdswinst of milieueffect.",
+		"prefix": "t5",
+		"status": "definitief",
+		"id": "39bb0d78-df40-4d7a-a1ce-4dea7a7e91f1",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "Hoe maak je je leefomgeving groener?",
+		"prefix": "t1",
+		"status": "definitief",
+		"id": "745733d7-4384-45fe-8d67-32322ee8f24a",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "Hoe verklein je de ecologische voetafdruk?",
+		"prefix": "t2",
+		"status": "definitief",
+		"id": "9b713fec-67e2-410b-a8cf-68853e0a3d40",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "Hoe kun je CO2-neutraal wonen?",
+		"prefix": "t3",
+		"status": "definitief",
+		"id": "be883600-d542-46f0-b1a0-1e149e34f194",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "Hoe gebruik je groente-reststromen bij het ontwikkelen van producten?",
+		"prefix": "t4",
+		"status": "definitief",
+		"id": "bb4567e1-293c-461d-8b18-f7e888a61365",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
 	}
 ]

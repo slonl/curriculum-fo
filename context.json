@@ -132,7 +132,8 @@
 						"soort": { "type": "string",   "enum": ["kerndoel", "eindterm"]	},
 						"ce" : { "type" : "integer", "minimum": 0, "maximum": 1 },
 						"se" : { "type" : "integer", "minimum": 0, "maximum": 1 },
-						"status": { "type": "string", "enum": [ "concept", "definitief concept", "definitief" ] }
+						"status": { "type": "string", "enum": [ "concept", "definitief concept", "definitief" ] },
+						"doeltype": { "type": "string", "enum": [ "aanbodsdoel", "ervaringsdoel", "beheersingsdoel", "hybride doel" ] }
 					},
 					"required": ["id", "title", "status", "soort"]
 				}
