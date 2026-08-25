@@ -2742,19 +2742,6 @@
 		]
 	},
 	{
-		"title": "Subdomein D2",
-		"description": "Contexten",
-		"prefix": "D2",
-		"id": "d055a79e-753f-4466-ac24-96883fc2f7f4",
-		"fo_doelzin_id": [
-			"d17430ed-3c88-4f30-a020-a368943a3de1",
-			"04ae7d19-9a42-4296-a35e-1aea626be0a7"
-		],
-		"replaces": [
-			"8fb2ae95-1b27-440c-b49f-ef28d0bf5157"
-		]
-	},
-	{
 		"title": "Subdomein B1",
 		"description": "Biodiversiteit en verbondenheid van leven - CE",
 		"prefix": "B1",
@@ -3883,19 +3870,6 @@
 		]
 	},
 	{
-		"title": "Subdomein D1",
-		"description": "Vraagstukken",
-		"prefix": "D1",
-		"id": "05a16d39-d1cd-4b05-81fa-09ab4932b9a7",
-		"fo_doelzin_id": [
-			"e5281fc6-6970-484d-b7ca-90d449801a6f"
-		],
-		"replaces": [
-			"ad7c6861-dbb1-455f-9731-9da58ca5f882",
-			"9f190ee5-1949-46c6-8f22-68a1e7d70e9f"
-		]
-	},
-	{
 		"title": "Subdomein B3",
 		"description": "Energie en reactiesnelheid",
 		"prefix": "B3",
@@ -4503,78 +4477,6 @@
 		]
 	},
 	{
-		"title": "Subdomein E1",
-		"description": "E1 Werkwijzen 1",
-		"prefix": "E1",
-		"id": "64b8f17f-11d1-4b73-9f56-b3041f9a56a8",
-		"fo_doelzin_id": [
-			"d001be91-bda3-4582-9736-704e53d5052b",
-			"401d32a4-33e8-4126-8a01-f841f4ad2ad4",
-			"fdc8070b-8b6c-42ee-91d1-2826f20ecb2c",
-			"b148cbe7-db36-4fb2-94bb-0d8b6f66c92b"
-		],
-		"replaces": [
-			"e754634b-a795-43e8-9dd2-295d4428c8cc",
-			"a6e76389-a2da-43bd-9fe9-6ab0408813b2",
-			"cbb434bf-b07d-4f37-96ea-75dd3cff5605"
-		]
-	},
-	{
-		"title": "Subdomein E2",
-		"description": "Werkwijzen 2",
-		"prefix": "E2",
-		"id": "a1575a15-b8e8-4703-bba9-882e797d472e",
-		"fo_doelzin_id": [
-			"bde0795f-d901-46f6-a6b2-d283faeb78f4",
-			"3c2d643f-4922-4f34-ae5e-83265a08bf7b",
-			"49990720-5e06-4305-9b18-705e38c62624",
-			"8d777773-46b9-49a5-8251-2589e90a9e2d",
-			"6857dc95-ea9d-4f91-a34e-3f06d95fc5ea",
-			"ceda5169-9a6c-4ce6-8619-bcc5a8444ebe"
-		],
-		"replaces": [
-			"a96bb39e-9a23-4c84-8147-073138525144",
-			"0a64f660-f0c0-4793-a80c-0b3133641b1d",
-			"84618fd7-ef81-4d0b-9d05-3e04c315f8f8"
-		]
-	},
-	{
-		"title": "Subdomein E1",
-		"description": "Werkwijzen 1",
-		"prefix": "E1",
-		"id": "87f758c2-a33c-4332-b27d-e9eaa9ea8e16",
-		"fo_doelzin_id": [
-			"5b6f19dd-0869-47e9-8999-e9b8d90b7d02",
-			"82966b8a-06b8-4871-b996-fb5696922334",
-			"2f3dfeef-6f05-4657-b7b3-22871b5f2b32",
-			"c34426cf-7567-4e2c-9289-8fdc1e8be21e"
-		],
-		"replaces": [
-			"411da4b3-3cd8-43c1-af90-6a4a1448e431",
-			"5c13e795-497c-438e-80f9-e45d101f09ac",
-			"e0d2adcf-b4ae-4331-81b8-0f6d3d48751b"
-		]
-	},
-	{
-		"title": "Subdomein E2",
-		"description": "Werkwijzen 2",
-		"prefix": "E2",
-		"id": "31177618-6c81-42db-b371-36fd410bb964",
-		"fo_doelzin_id": [
-			"a52fc7d5-d12a-4b16-bd36-f0060ef31905",
-			"29c912bd-6795-4713-9a87-ec5c19b0c01f",
-			"f9a780f0-9b4a-4adb-afbb-40f9dad71741",
-			"6378e82c-d9bf-4992-906b-b4442a3bf78c",
-			"eece10ee-84ee-4e5a-a78b-3326ff38a7ce",
-			"3378b1cc-076b-4ae8-9b76-1d5400a10e41"
-		],
-		"replaces": [
-			"c07cf74a-0bc4-4034-aef1-9e2ce01b0673",
-			"d37bc944-c773-4779-81a0-8a0ec7d095a6",
-			"572bb0a9-d718-490c-9002-c638bebe85ab"
-		]
-	},
-	{
 		"title": "Subdomein B5",
 		"description": "Reageren op veranderingen",
 		"prefix": "B5",
@@ -4916,7 +4818,7 @@
 	},
 	{
 		"title": "Subdomein D2",
-		"description": "Werkwijzen keuze",
+		"description": "Werkwijzen keuze - bevoegd gezag kiest één van de eindtermen naar keuze (15-17).",
 		"prefix": "D2",
 		"id": "93f8bff4-f30f-41cc-a475-68ad1f4803e7",
 		"fo_doelzin_id": [
@@ -4939,17 +4841,6 @@
 			"f029e6cc-e9a9-486a-93ad-d7f976cdb976",
 			"889bbfb8-a6c4-44ba-8132-73f347dc094c",
 			"7cab48d7-a8c9-4767-9415-ecba697ddbaf"
-		]
-	},
-	{
-		"title": "Subdomein D2",
-		"description": "Werkwijzen keuze",
-		"prefix": "D2",
-		"id": "e4d6890f-8206-416b-99cc-21119bfea14c",
-		"fo_doelzin_id": [
-			"7bf59d0e-5f7c-456f-9be8-0ef9f3d34b90",
-			"6ce20f0b-6d27-43b3-b30e-85d019229938",
-			"6368adb9-0ff4-42e4-914f-a46be709ab23"
 		]
 	},
 	{
@@ -5463,19 +5354,6 @@
 		]
 	},
 	{
-		"title": "Subdomein C1",
-		"description": "Literatuur als systeem",
-		"prefix": "C1",
-		"id": "325efae7-4302-41ca-92e0-470907ea9267",
-		"fo_doelzin_id": [
-			"3f660f2c-2487-474a-aacd-f6da0d058161"
-		],
-		"replaces": [
-			"b98e2b6d-77da-4d33-bc8a-2175543808ea",
-			"f3a4370b-5352-41f4-bdf4-c76e71d5291c"
-		]
-	},
-	{
 		"title": "Subdomein C2",
 		"description": "Literatuur in beweging",
 		"prefix": "C2",
@@ -5573,20 +5451,6 @@
 		]
 	},
 	{
-		"title": "Subdomein B1",
-		"description": "Taal als systeem",
-		"prefix": "B1",
-		"id": "5a75323f-2be7-4112-9d0c-b46995011b7c",
-		"fo_doelzin_id": [
-			"593aba35-6014-4c64-b1a3-466b8d241aad",
-			"955c7ea4-8e66-4eab-bd8f-142170b96ee4"
-		],
-		"replaces": [
-			"b86f8d11-504b-4c34-bfea-f45f64593048",
-			"2a0401e3-2b7e-4ff0-92f3-488f2b6c4466"
-		]
-	},
-	{
 		"title": "Subdomein B2",
 		"description": "Taal in beweging",
 		"prefix": "B2",
@@ -5598,33 +5462,6 @@
 		"replaces": [
 			"bb056b93-19fd-4768-9942-c900e15f4749",
 			"10f5c0d0-a49d-4061-b675-8668d0cf1468"
-		]
-	},
-	{
-		"title": "Subdomein C1",
-		"description": "Literatuur als systeem",
-		"prefix": "C1",
-		"id": "c1029452-b4c6-4a1e-a56d-46b172786034",
-		"fo_doelzin_id": [
-			"37188365-2459-4ea1-afcd-5c53093cdbd2"
-		],
-		"replaces": [
-			"8b3d07cb-b26d-4776-ba52-26ca59f141fa",
-			"904ca6f4-dde2-483f-a498-f597d7e875c3"
-		]
-	},
-	{
-		"title": "Subdomein C2",
-		"description": "Literatuur in beweging",
-		"prefix": "C2",
-		"id": "270264a8-413e-4749-a291-e8b91e14d3de",
-		"fo_doelzin_id": [
-			"8bf06c37-f57e-458c-a823-4f5444befd9a",
-			"d0d7c3e0-1468-4078-be20-b1505ba02718"
-		],
-		"replaces": [
-			"d9e24826-e7c3-4abd-9e55-670e99ba221d",
-			"9f8eaf7c-a524-4259-aa1c-7f31297f089e"
 		]
 	},
 	{
@@ -6243,22 +6080,6 @@
 		"replaces": [
 			"b7a26058-5ad3-45f5-8d4e-0cfd59e639ca",
 			"e2064db3-6989-4533-915c-9782df4ee62e"
-		]
-	},
-	{
-		"title": "Subdomein A2",
-		"description": "Tekstinterpretatie",
-		"prefix": "A2",
-		"id": "b5516326-1c54-4848-a8b3-5e681fa658a8",
-		"fo_doelzin_id": [
-			"d4b24dce-16cc-41fc-a3a2-aeaee581430f",
-			"2b4c9b68-52b2-47d1-b853-4606d5e9c79d",
-			"3ddf7800-ffb3-41a7-805a-5b120f27e674",
-			"c1fcafc2-3c8b-4dde-b4a0-08fe1dc78e64"
-		],
-		"replaces": [
-			"94449126-4180-4fef-ad49-936d572cec79",
-			"4022bcbb-1e7f-4527-8c78-a3f64c618461"
 		]
 	},
 	{
@@ -9592,7 +9413,7 @@
 	},
 	{
 		"title": "Subdomein E2",
-		"description": "Denkwijzen keuze",
+		"description": "Denkwijzen keuze - bevoegd gezag kiest één van de eindtermen naar keuze (21-24)",
 		"prefix": "E2",
 		"id": "7b72cda3-d966-4e93-bcb5-f6c0a2eee562",
 		"fo_doelzin_id": [
@@ -9624,7 +9445,7 @@
 	},
 	{
 		"title": "Subdomein E2",
-		"description": "Denkwijzen keuze",
+		"description": "Denkwijzen keuze - bevoegd gezag kiest één van de eindtermen naar keuze (22-24)",
 		"prefix": "E2",
 		"id": "9d25fbc1-3759-4896-bc08-3f3361346d1c",
 		"fo_doelzin_id": [
@@ -9743,7 +9564,7 @@
 	},
 	{
 		"title": "Subdomein C1",
-		"description": "Formleren en communiceren",
+		"description": "Formuleren en communiceren",
 		"prefix": "C1",
 		"id": "8990bd7d-ae81-4d84-857f-914fd88f7937",
 		"fo_doelzin_id": [
@@ -9900,22 +9721,6 @@
 		"replaces": [
 			"407b0d12-cb73-4145-8fe8-929e609aaa34",
 			"9899065e-9c50-4c4a-9c71-f006f5593765"
-		]
-	},
-	{
-		"title": "Subdomein A2",
-		"description": "Getallen en variabelen",
-		"prefix": "A2",
-		"id": "2a3eb323-cdc2-4813-af58-bea9208893c0",
-		"fo_doelzin_id": [
-			"5b7162c2-3fb8-492c-a7b6-596f3d38a613",
-			"dcb95449-5d84-4171-a7b1-ecccd4722ae8",
-			"d8bc97a3-5321-44a7-8384-bb4569f7d1bf",
-			"f2715433-2511-42ad-aa51-b3fedb621df9"
-		],
-		"replaces": [
-			"0da96421-3979-42b9-b94a-9e1b401bcda3",
-			"c38202c3-75bb-4ae2-ab3c-f63fe9a61606"
 		]
 	},
 	{
@@ -10432,20 +10237,6 @@
 		]
 	},
 	{
-		"title": "Subdomein B1",
-		"description": "Wiskundig probleemaanpakken",
-		"prefix": "B1",
-		"id": "7dba77f7-3508-4a05-a814-80df6a6cdba1",
-		"fo_doelzin_id": [
-			"7d6e2406-7839-438a-abe4-9c4b331f664f",
-			"a450b182-9386-4229-825d-4a4e2e8230de"
-		],
-		"replaces": [
-			"d31da700-a718-4c2f-9f0b-baaf8da58ce3",
-			"f0c84578-3ebc-4a22-842f-8fdef06e6945"
-		]
-	},
-	{
 		"title": "Subdomein A1",
 		"description": "Wiskundige denk- en werkwijzen",
 		"prefix": "A1",
@@ -10554,21 +10345,6 @@
 		]
 	},
 	{
-		"title": "Subdomein A1",
-		"description": "Receptieve taalvaardigheid",
-		"prefix": "A1",
-		"id": "fe5ff58f-dc05-455d-b670-10fda2b9fbac",
-		"fo_doelzin_id": [
-			"a5104a01-c1af-4979-9639-786d18a9656e",
-			"56bf986f-e92a-4de3-8f94-d8a836d05705"
-		],
-		"replaces": [
-			"42dd8eef-cc2e-446c-a4e7-d964f0ca80c4",
-			"9412cf7a-9d6e-44bf-9404-317fe02b3e0e",
-			"9baeb82f-ceb3-4652-acb2-63e4ea2374d2"
-		]
-	},
-	{
 		"title": "Subdomein A2",
 		"description": "Productieve taalvaardigheid",
 		"prefix": "A2",
@@ -10584,21 +10360,6 @@
 			"dcf6c486-baf7-4ed2-aef3-5dc497690bbb",
 			"bd01a1c8-a736-450a-a727-095dacd975b0",
 			"2b1ef045-4ed8-4d74-8ed0-107396685048"
-		]
-	},
-	{
-		"title": "Subdomein A1",
-		"description": "Receptieve taalvaardigheid",
-		"prefix": "A1",
-		"id": "29c0f26f-cdb5-4a75-a2a9-4776276c6382",
-		"fo_doelzin_id": [
-			"e0b81307-e287-4182-b64f-b162d38b64a0",
-			"b7cf9ffb-1461-4d9a-8e0a-db8098d397d0"
-		],
-		"replaces": [
-			"49749559-e251-4b03-837e-f614e5aea8ba",
-			"3998ccd9-8188-4269-9292-6e72026d90a4",
-			"7f6da74e-554a-4f84-8872-d7cb08539a44"
 		]
 	},
 	{
@@ -10665,24 +10426,6 @@
 			"10e63535-f180-43c9-8d45-06ca837523d3",
 			"2d637dc9-1fa3-4f41-ad19-5b99a9183a7d",
 			"5d320977-4225-4346-ba5f-d0d3b20977ae"
-		]
-	},
-	{
-		"title": "Subdomein A2",
-		"description": "Productieve taalvaardigheid",
-		"prefix": "A2",
-		"id": "8ab5c87a-d99a-4712-ba1c-8aae0df330d3",
-		"fo_doelzin_id": [
-			"1a7b594d-ce6b-4558-8eb3-5a4638ed28d4",
-			"15d44086-8e20-4a9e-b587-be6c776fbb2c",
-			"92714da6-d13c-4bdd-b9c7-2f17591cf5f8",
-			"b9c12f4f-61a7-406b-b9fd-930b2d5d109d",
-			"7dbbdbad-013f-44e2-a22a-55293929406e"
-		],
-		"replaces": [
-			"b7d0e707-aee4-4144-aa51-38b0329e08cb",
-			"d279599c-3ee4-4516-af12-9287d032ae31",
-			"2882cb4a-2926-42f3-b3b2-d4c7485ac3e1"
 		]
 	},
 	{
@@ -10988,6 +10731,282 @@
 			"4e8e7290-4afc-4e3c-b6ac-817134a93a2f",
 			"95414526-f58d-45fd-8b3d-d06285b73230",
 			"dc0f4b74-6e05-4727-84c2-1077154980e0"
+		]
+	},
+	{
+		"title": "Subdomein D2",
+		"description": "Contexten",
+		"prefix": "D2",
+		"id": "7fd610f1-7b31-4842-8165-cdb4c4f97bb8",
+		"fo_doelzin_id": [
+			"04ae7d19-9a42-4296-a35e-1aea626be0a7"
+		],
+		"replaces": [
+			"8fb2ae95-1b27-440c-b49f-ef28d0bf5157",
+			"d055a79e-753f-4466-ac24-96883fc2f7f4"
+		]
+	},
+	{
+		"title": "Subdomein D1",
+		"description": "Vraagstukken",
+		"prefix": "D1",
+		"id": "ad0f60e6-5fb1-4c47-be74-689da705ed93",
+		"fo_doelzin_id": [
+			"e5281fc6-6970-484d-b7ca-90d449801a6f",
+			"d17430ed-3c88-4f30-a020-a368943a3de1"
+		],
+		"replaces": [
+			"ad7c6861-dbb1-455f-9731-9da58ca5f882",
+			"9f190ee5-1949-46c6-8f22-68a1e7d70e9f",
+			"05a16d39-d1cd-4b05-81fa-09ab4932b9a7"
+		]
+	},
+	{
+		"title": "Subdomein E1",
+		"description": "E1 Werkwijzen 1",
+		"prefix": "E1",
+		"id": "0cc70fa5-2d1f-4e29-b675-6fe2ce91432f",
+		"fo_doelzin_id": [
+			"d001be91-bda3-4582-9736-704e53d5052b",
+			"401d32a4-33e8-4126-8a01-f841f4ad2ad4",
+			"fdc8070b-8b6c-42ee-91d1-2826f20ecb2c"
+		],
+		"replaces": [
+			"e754634b-a795-43e8-9dd2-295d4428c8cc",
+			"a6e76389-a2da-43bd-9fe9-6ab0408813b2",
+			"cbb434bf-b07d-4f37-96ea-75dd3cff5605",
+			"64b8f17f-11d1-4b73-9f56-b3041f9a56a8"
+		]
+	},
+	{
+		"title": "Subdomein E2",
+		"description": "Werkwijzen 2",
+		"prefix": "E2",
+		"id": "ae2ae25e-dc7f-4862-bc74-dbdd131b491a",
+		"fo_doelzin_id": [
+			"b148cbe7-db36-4fb2-94bb-0d8b6f66c92b",
+			"bde0795f-d901-46f6-a6b2-d283faeb78f4",
+			"3c2d643f-4922-4f34-ae5e-83265a08bf7b",
+			"49990720-5e06-4305-9b18-705e38c62624",
+			"8d777773-46b9-49a5-8251-2589e90a9e2d",
+			"6857dc95-ea9d-4f91-a34e-3f06d95fc5ea",
+			"ceda5169-9a6c-4ce6-8619-bcc5a8444ebe"
+		],
+		"replaces": [
+			"a96bb39e-9a23-4c84-8147-073138525144",
+			"0a64f660-f0c0-4793-a80c-0b3133641b1d",
+			"84618fd7-ef81-4d0b-9d05-3e04c315f8f8",
+			"a1575a15-b8e8-4703-bba9-882e797d472e"
+		]
+	},
+	{
+		"title": "Subdomein E1",
+		"description": "Werkwijzen 1",
+		"prefix": "E1",
+		"id": "5fe8aa5b-dbb5-4f82-9887-8abd8c697ee6",
+		"fo_doelzin_id": [
+			"5b6f19dd-0869-47e9-8999-e9b8d90b7d02",
+			"82966b8a-06b8-4871-b996-fb5696922334",
+			"2f3dfeef-6f05-4657-b7b3-22871b5f2b32"
+		],
+		"replaces": [
+			"411da4b3-3cd8-43c1-af90-6a4a1448e431",
+			"5c13e795-497c-438e-80f9-e45d101f09ac",
+			"e0d2adcf-b4ae-4331-81b8-0f6d3d48751b",
+			"87f758c2-a33c-4332-b27d-e9eaa9ea8e16"
+		]
+	},
+	{
+		"title": "Subdomein E2",
+		"description": "Werkwijzen 2",
+		"prefix": "E2",
+		"id": "04fcb84f-0530-403b-9ef1-9f5eb41af9b5",
+		"fo_doelzin_id": [
+			"c34426cf-7567-4e2c-9289-8fdc1e8be21e",
+			"a52fc7d5-d12a-4b16-bd36-f0060ef31905",
+			"29c912bd-6795-4713-9a87-ec5c19b0c01f",
+			"f9a780f0-9b4a-4adb-afbb-40f9dad71741",
+			"6378e82c-d9bf-4992-906b-b4442a3bf78c",
+			"eece10ee-84ee-4e5a-a78b-3326ff38a7ce",
+			"3378b1cc-076b-4ae8-9b76-1d5400a10e41"
+		],
+		"replaces": [
+			"c07cf74a-0bc4-4034-aef1-9e2ce01b0673",
+			"d37bc944-c773-4779-81a0-8a0ec7d095a6",
+			"572bb0a9-d718-490c-9002-c638bebe85ab",
+			"31177618-6c81-42db-b371-36fd410bb964"
+		]
+	},
+	{
+		"title": "Subdomein A2",
+		"description": "Getallen en variabelen",
+		"prefix": "A2",
+		"id": "d6ec8c02-9679-4eb6-86a7-8a279efa2f71",
+		"fo_doelzin_id": [
+			"5b7162c2-3fb8-492c-a7b6-596f3d38a613",
+			"dcb95449-5d84-4171-a7b1-ecccd4722ae8",
+			"0dc1ebce-cc67-4e4b-8e32-c9e2fd2b22e7",
+			"f2715433-2511-42ad-aa51-b3fedb621df9"
+		],
+		"replaces": [
+			"0da96421-3979-42b9-b94a-9e1b401bcda3",
+			"c38202c3-75bb-4ae2-ab3c-f63fe9a61606",
+			"2a3eb323-cdc2-4813-af58-bea9208893c0"
+		]
+	},
+	{
+		"title": "Subdomein D2",
+		"description": "Werkwijzen keuze - bevoegd gezag kiest één van de eindtermen naar keuze (15-17)",
+		"prefix": "D2",
+		"id": "02c2e09e-7193-4a73-b6f2-21b1eb776d02",
+		"fo_doelzin_id": [
+			"af1c8d8d-95b6-4e46-af2b-f8ea5b3472d5",
+			"6ce20f0b-6d27-43b3-b30e-85d019229938",
+			"6368adb9-0ff4-42e4-914f-a46be709ab23"
+		],
+		"replaces": [
+			"e4d6890f-8206-416b-99cc-21119bfea14c"
+		]
+	},
+	{
+		"title": "Subdomein C1",
+		"description": "Literatuur als systeem",
+		"prefix": "C1",
+		"id": "3aafaf1e-b3d5-4233-b77b-1531ec21f4b4",
+		"fo_doelzin_id": [
+			"2904bc6c-5109-46a7-af46-c6cf2b702fb4"
+		],
+		"replaces": [
+			"b98e2b6d-77da-4d33-bc8a-2175543808ea",
+			"f3a4370b-5352-41f4-bdf4-c76e71d5291c",
+			"325efae7-4302-41ca-92e0-470907ea9267"
+		]
+	},
+	{
+		"title": "Subdomein B1",
+		"description": "Taal als systeem",
+		"prefix": "B1",
+		"id": "c0498512-4a19-45f7-8e6f-c5a95ce6f507",
+		"fo_doelzin_id": [
+			"593aba35-6014-4c64-b1a3-466b8d241aad",
+			"cd1b64fe-7039-48de-8c01-e5857be4c72e"
+		],
+		"replaces": [
+			"b86f8d11-504b-4c34-bfea-f45f64593048",
+			"2a0401e3-2b7e-4ff0-92f3-488f2b6c4466",
+			"5a75323f-2be7-4112-9d0c-b46995011b7c"
+		]
+	},
+	{
+		"title": "Subdomein C1",
+		"description": "Literatuur als systeem",
+		"prefix": "C1",
+		"id": "175e28a1-cf92-464d-9c52-592d1b2f0c8e",
+		"fo_doelzin_id": [
+			"db29742e-1e4b-4a8c-a8f9-ee706a777242"
+		],
+		"replaces": [
+			"8b3d07cb-b26d-4776-ba52-26ca59f141fa",
+			"904ca6f4-dde2-483f-a498-f597d7e875c3",
+			"c1029452-b4c6-4a1e-a56d-46b172786034"
+		]
+	},
+	{
+		"title": "Subdomein C2",
+		"description": "Literatuur in beweging",
+		"prefix": "C2",
+		"id": "80856087-ade7-47a7-982b-1ae5cab1f96b",
+		"fo_doelzin_id": [
+			"8bf06c37-f57e-458c-a823-4f5444befd9a",
+			"86d061fb-58ad-46bf-aed7-d9220a246a12"
+		],
+		"replaces": [
+			"d9e24826-e7c3-4abd-9e55-670e99ba221d",
+			"9f8eaf7c-a524-4259-aa1c-7f31297f089e",
+			"270264a8-413e-4749-a291-e8b91e14d3de"
+		]
+	},
+	{
+		"title": "Subdomein A2",
+		"description": "Tekstinterpretatie",
+		"prefix": "A2",
+		"id": "c7761005-145a-4f46-8653-f7e55f67b1e0",
+		"fo_doelzin_id": [
+			"dae4ccc7-46e1-454f-b117-7dd634375b8e",
+			"2b4c9b68-52b2-47d1-b853-4606d5e9c79d",
+			"3ddf7800-ffb3-41a7-805a-5b120f27e674",
+			"c1fcafc2-3c8b-4dde-b4a0-08fe1dc78e64"
+		],
+		"replaces": [
+			"94449126-4180-4fef-ad49-936d572cec79",
+			"4022bcbb-1e7f-4527-8c78-a3f64c618461",
+			"b5516326-1c54-4848-a8b3-5e681fa658a8"
+		]
+	},
+	{
+		"title": "Subdomein B1",
+		"description": "Wiskundig probleemaanpakken",
+		"prefix": "B1",
+		"id": "da123402-8cde-4494-af21-12507221011d",
+		"fo_doelzin_id": [
+			"7d6e2406-7839-438a-abe4-9c4b331f664f",
+			"2d03fd3d-ea60-45c1-b1ad-332e7c62b1c0"
+		],
+		"replaces": [
+			"d31da700-a718-4c2f-9f0b-baaf8da58ce3",
+			"f0c84578-3ebc-4a22-842f-8fdef06e6945",
+			"7dba77f7-3508-4a05-a814-80df6a6cdba1"
+		]
+	},
+	{
+		"title": "Subdomein A1",
+		"description": "Receptieve taalvaardigheid",
+		"prefix": "A1",
+		"id": "079291fb-07dc-4e57-9e17-ff2a9aa80b61",
+		"fo_doelzin_id": [
+			"0a5a0b8c-dcbc-4919-addb-a0210206b4bc",
+			"56bf986f-e92a-4de3-8f94-d8a836d05705"
+		],
+		"replaces": [
+			"42dd8eef-cc2e-446c-a4e7-d964f0ca80c4",
+			"9412cf7a-9d6e-44bf-9404-317fe02b3e0e",
+			"9baeb82f-ceb3-4652-acb2-63e4ea2374d2",
+			"fe5ff58f-dc05-455d-b670-10fda2b9fbac"
+		]
+	},
+	{
+		"title": "Subdomein A1",
+		"description": "Receptieve taalvaardigheid",
+		"prefix": "A1",
+		"id": "f0b6d47a-46f8-40a9-8c3e-c5f1e4599e2f",
+		"fo_doelzin_id": [
+			"b2804360-0dfc-4050-a14b-89e1a77eabfc",
+			"b7cf9ffb-1461-4d9a-8e0a-db8098d397d0"
+		],
+		"replaces": [
+			"49749559-e251-4b03-837e-f614e5aea8ba",
+			"3998ccd9-8188-4269-9292-6e72026d90a4",
+			"7f6da74e-554a-4f84-8872-d7cb08539a44",
+			"29c0f26f-cdb5-4a75-a2a9-4776276c6382"
+		]
+	},
+	{
+		"title": "Subdomein A2",
+		"description": "Productieve taalvaardigheid",
+		"prefix": "A2",
+		"id": "c5c31f4c-5cf6-458a-91af-4e8ae916ae34",
+		"fo_doelzin_id": [
+			"1a7b594d-ce6b-4558-8eb3-5a4638ed28d4",
+			"accf631b-a15d-4ee8-bf67-32c4360b7ecb",
+			"92714da6-d13c-4bdd-b9c7-2f17591cf5f8",
+			"b9c12f4f-61a7-406b-b9fd-930b2d5d109d",
+			"7dbbdbad-013f-44e2-a22a-55293929406e"
+		],
+		"replaces": [
+			"b7d0e707-aee4-4144-aa51-38b0329e08cb",
+			"d279599c-3ee4-4516-af12-9287d032ae31",
+			"2882cb4a-2926-42f3-b3b2-d4c7485ac3e1",
+			"8ab5c87a-d99a-4712-ba1c-8aae0df330d3"
 		]
 	}
 ]

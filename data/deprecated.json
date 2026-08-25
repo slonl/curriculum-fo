@@ -618504,5 +618504,3510 @@
 		"types": [
 			"fo_domein"
 		]
+	},
+	{
+		"description": "opstellen van de inverse functie;",
+		"prefix": "u3",
+		"id": "799650e9-622e-4a67-bbda-e82684757a0e",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"title": "Het gaat hierbij om",
+		"status": "concept",
+		"replaces": [
+			"c686ca96-f75f-486a-800c-c5cf72055dca"
+		],
+		"replacedBy": [],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"title": "Subdomein D2",
+		"description": "Contexten",
+		"prefix": "D2",
+		"id": "d055a79e-753f-4466-ac24-96883fc2f7f4",
+		"fo_doelzin_id": [
+			"d17430ed-3c88-4f30-a020-a368943a3de1",
+			"04ae7d19-9a42-4296-a35e-1aea626be0a7"
+		],
+		"replaces": [
+			"8fb2ae95-1b27-440c-b49f-ef28d0bf5157"
+		],
+		"replacedBy": [
+			"7fd610f1-7b31-4842-8165-cdb4c4f97bb8"
+		],
+		"types": [
+			"fo_subdomein"
+		]
+	},
+	{
+		"title": "Subdomein D1",
+		"description": "Vraagstukken",
+		"prefix": "D1",
+		"id": "05a16d39-d1cd-4b05-81fa-09ab4932b9a7",
+		"fo_doelzin_id": [
+			"e5281fc6-6970-484d-b7ca-90d449801a6f"
+		],
+		"replaces": [
+			"ad7c6861-dbb1-455f-9731-9da58ca5f882",
+			"9f190ee5-1949-46c6-8f22-68a1e7d70e9f"
+		],
+		"replacedBy": [
+			"ad0f60e6-5fb1-4c47-be74-689da705ed93"
+		],
+		"types": [
+			"fo_subdomein"
+		]
+	},
+	{
+		"title": "Subdomein E1",
+		"description": "E1 Werkwijzen 1",
+		"prefix": "E1",
+		"id": "64b8f17f-11d1-4b73-9f56-b3041f9a56a8",
+		"fo_doelzin_id": [
+			"d001be91-bda3-4582-9736-704e53d5052b",
+			"401d32a4-33e8-4126-8a01-f841f4ad2ad4",
+			"fdc8070b-8b6c-42ee-91d1-2826f20ecb2c",
+			"b148cbe7-db36-4fb2-94bb-0d8b6f66c92b"
+		],
+		"replaces": [
+			"e754634b-a795-43e8-9dd2-295d4428c8cc",
+			"a6e76389-a2da-43bd-9fe9-6ab0408813b2",
+			"cbb434bf-b07d-4f37-96ea-75dd3cff5605"
+		],
+		"replacedBy": [
+			"0cc70fa5-2d1f-4e29-b675-6fe2ce91432f"
+		],
+		"types": [
+			"fo_subdomein"
+		]
+	},
+	{
+		"title": "Subdomein E2",
+		"description": "Werkwijzen 2",
+		"prefix": "E2",
+		"id": "a1575a15-b8e8-4703-bba9-882e797d472e",
+		"fo_doelzin_id": [
+			"bde0795f-d901-46f6-a6b2-d283faeb78f4",
+			"3c2d643f-4922-4f34-ae5e-83265a08bf7b",
+			"49990720-5e06-4305-9b18-705e38c62624",
+			"8d777773-46b9-49a5-8251-2589e90a9e2d",
+			"6857dc95-ea9d-4f91-a34e-3f06d95fc5ea",
+			"ceda5169-9a6c-4ce6-8619-bcc5a8444ebe"
+		],
+		"replaces": [
+			"a96bb39e-9a23-4c84-8147-073138525144",
+			"0a64f660-f0c0-4793-a80c-0b3133641b1d",
+			"84618fd7-ef81-4d0b-9d05-3e04c315f8f8"
+		],
+		"replacedBy": [
+			"ae2ae25e-dc7f-4862-bc74-dbdd131b491a"
+		],
+		"types": [
+			"fo_subdomein"
+		]
+	},
+	{
+		"title": "Subdomein E1",
+		"description": "Werkwijzen 1",
+		"prefix": "E1",
+		"id": "87f758c2-a33c-4332-b27d-e9eaa9ea8e16",
+		"fo_doelzin_id": [
+			"5b6f19dd-0869-47e9-8999-e9b8d90b7d02",
+			"82966b8a-06b8-4871-b996-fb5696922334",
+			"2f3dfeef-6f05-4657-b7b3-22871b5f2b32",
+			"c34426cf-7567-4e2c-9289-8fdc1e8be21e"
+		],
+		"replaces": [
+			"411da4b3-3cd8-43c1-af90-6a4a1448e431",
+			"5c13e795-497c-438e-80f9-e45d101f09ac",
+			"e0d2adcf-b4ae-4331-81b8-0f6d3d48751b"
+		],
+		"replacedBy": [
+			"5fe8aa5b-dbb5-4f82-9887-8abd8c697ee6"
+		],
+		"types": [
+			"fo_subdomein"
+		]
+	},
+	{
+		"title": "Subdomein E2",
+		"description": "Werkwijzen 2",
+		"prefix": "E2",
+		"id": "31177618-6c81-42db-b371-36fd410bb964",
+		"fo_doelzin_id": [
+			"a52fc7d5-d12a-4b16-bd36-f0060ef31905",
+			"29c912bd-6795-4713-9a87-ec5c19b0c01f",
+			"f9a780f0-9b4a-4adb-afbb-40f9dad71741",
+			"6378e82c-d9bf-4992-906b-b4442a3bf78c",
+			"eece10ee-84ee-4e5a-a78b-3326ff38a7ce",
+			"3378b1cc-076b-4ae8-9b76-1d5400a10e41"
+		],
+		"replaces": [
+			"c07cf74a-0bc4-4034-aef1-9e2ce01b0673",
+			"d37bc944-c773-4779-81a0-8a0ec7d095a6",
+			"572bb0a9-d718-490c-9002-c638bebe85ab"
+		],
+		"replacedBy": [
+			"04fcb84f-0530-403b-9ef1-9f5eb41af9b5"
+		],
+		"types": [
+			"fo_subdomein"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Eindterm 11",
+		"description": "De leerling modelleert.",
+		"prefix": "11",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "definitief concept",
+		"doeltype": "beheersingsdoel",
+		"id": "b613a56c-4dff-4121-aee8-d85cc4e5880d",
+		"fo_uitwerking_id": [
+			"d793e0ea-f608-44a7-8e51-c1c622d1e4e0",
+			"5fd59e3e-d59c-4097-8f39-e01043d83697",
+			"99209796-8e5c-4796-87d2-c988aaecf3f2",
+			"2ffdfd71-5b47-4daa-a760-d56e662d22f9",
+			"0954969d-6a69-461c-b4ce-31a459e58d94"
+		],
+		"fo_illustratie_id": [
+			"c67ad611-59e6-4248-a8de-0269a891baa9",
+			"18409a64-40bc-40db-8dd8-1a3ff05c4179",
+			"7495fb8e-0bb6-49d4-8e55-16bee5c1a9ee",
+			"6cea8484-f106-41ef-b34b-db6ecebb29d0"
+		],
+		"replacedBy": [
+			"acca43cd-2a1e-4612-910e-bdabf1b0298f"
+		],
+		"types": [
+			"fo_doelzin"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Eindterm 16",
+		"description": "De leerling formuleert onderbouwde conclusies.",
+		"prefix": "16",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "definitief concept",
+		"doeltype": "beheersingsdoel",
+		"id": "3e079bae-fcf8-47c1-b6da-220b43b8262e",
+		"fo_uitwerking_id": [
+			"d553da76-1818-48e1-836a-183641756c19",
+			"4ba2bcf9-ab12-459d-ab22-2a8065fba78f",
+			"d3df7fe8-5c04-4063-8f5b-fe0a6cae2f00",
+			"d87d51fe-7814-422f-a819-91033ec0938a"
+		],
+		"fo_illustratie_id": [
+			"821f289b-f917-4dc1-a770-d9fe13a6342b",
+			"bf04dd99-d13e-4eca-8474-e3b98e604687",
+			"6cfd7410-9a1a-40dd-a3d9-254bde01a377",
+			"21400cba-5568-4483-9108-77859c783a5a"
+		],
+		"replacedBy": [
+			"0e545f4a-2315-4ad5-8f25-44e9db009970"
+		],
+		"types": [
+			"fo_doelzin"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Eindterm 4",
+		"description": "De leerling reflecteert op ervaringen met zelfregulatie in leersituaties.",
+		"prefix": "4",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "definitief concept",
+		"doeltype": "ervaringsdoel",
+		"id": "23c4b50c-1591-4359-b966-e9469805933b",
+		"fo_uitwerking_id": [
+			"a63a36b4-dd32-4503-8cd0-7fff0a13cee6",
+			"0da89627-f04a-47cb-ae73-fbaf6c4e3a3a",
+			"47acfb4c-ee17-4021-9926-48bec3111543",
+			"75bf06f7-d028-45f1-b9b4-ee9b662b8594",
+			"e1151713-55a9-406c-84e3-29106213f660"
+		],
+		"fo_illustratie_id": [
+			"c55a84a9-a179-4d64-819d-80fee80f8c37",
+			"3ad2a51e-439b-4443-9a8d-16bc6031aa6d",
+			"fdd6e650-0cd4-448e-8589-875e6270142c",
+			"3d064ce3-2582-4a8b-80fe-9cc417a9a702",
+			"903c632b-7376-47b2-996e-44ceb256135b"
+		],
+		"replacedBy": [
+			"1bd30a09-0041-4f4c-ae25-be25821ed5c3"
+		],
+		"types": [
+			"fo_doelzin"
+		]
+	},
+	{
+		"title": "Eindterm 4",
+		"description": "De leerling is algebraïsch vaardig.",
+		"prefix": "4",
+		"soort": "eindterm",
+		"ce": 1,
+		"id": "d8bc97a3-5321-44a7-8384-bb4569f7d1bf",
+		"fo_uitwerking_id": [
+			"72206590-2a2d-426d-acb4-3eb9bedc32ea",
+			"f1cc1af1-86a4-4929-a1d0-5a6b9e9d90bf",
+			"799650e9-622e-4a67-bbda-e82684757a0e",
+			"24fc6ca4-f19f-46b5-be9d-33a39b088b1f",
+			"6da212bf-d229-4681-bbaf-a31e86ee5ec8"
+		],
+		"status": "definitief concept",
+		"fo_illustratie_id": [
+			"084d7712-b196-4593-a141-c489143c6214",
+			"a58cd7bc-aad2-4984-8582-5ea8c59633b2"
+		],
+		"replaces": [
+			"564db663-e63d-4862-8935-92583d86c5ec",
+			"0431129e-663a-48e3-bf3d-5f28d89d1c69"
+		],
+		"doeltype": "beheersingsdoel",
+		"replacedBy": [
+			"0dc1ebce-cc67-4e4b-8e32-c9e2fd2b22e7"
+		],
+		"types": [
+			"fo_doelzin"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Het gaat hierbij om",
+		"description": "verkennen hoe digitale technologie de communicatie in het dagelijks leven en de maatschappij beïnvloedt;",
+		"prefix": "u1",
+		"status": "definitief concept",
+		"id": "4d1b88c3-f068-46ab-8780-657166b1b1bd",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replacedBy": [
+			"004681ff-3225-4830-b714-2c87b881d97a"
+		],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Het gaat hierbij om",
+		"description": "verkennen hoe makers van digitale media de aandacht van gebruikers trekken en vasthouden, en reacties uitlokken;",
+		"prefix": "u2",
+		"status": "definitief concept",
+		"id": "6ced839f-897d-46d1-b02a-3aff8ff4291b",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replacedBy": [
+			"be439cdd-008d-43a9-8e1e-a7df8b4c30ca"
+		],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Het gaat hierbij om",
+		"description": "reflecteren op de mogelijkheden, beperkingen en geschiktheid van digitale middelen bij het verwerken en produceren van teksten.",
+		"prefix": "u3",
+		"status": "definitief concept",
+		"id": "36a2ccbd-7d02-40e0-a799-5f3cc1ae3cb9",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replacedBy": [
+			"fa764fa6-bb67-424c-8ada-2dcf69c6d388"
+		],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "beschrijven hoe keuzes van een auteur of spreker voor literaire middelen, stijl en vorm bijdragen aan de interpretatie van een tekst",
+		"prefix": "u3",
+		"status": "definitief concept",
+		"id": "4b0e7fd8-0717-427c-9c5e-298798876e5b",
+		"replacedBy": [
+			"a2675b12-4691-40c7-ade4-b5998f3617c5"
+		],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "verwoorden van inhouden en betekenis van de tekst.",
+		"prefix": "u5",
+		"status": "definitief concept",
+		"id": "ad93aceb-384a-4116-85d0-e4c045f348c7",
+		"replacedBy": [
+			"01d60ee2-e21b-4284-abd2-7f39cf0c3738"
+		],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "beschrijven hoe keuzes van een auteur of spreker voor literaire middelen, stijl en vorm bijdragen aan de interpretatie van een tekst.",
+		"prefix": "u3",
+		"status": "definitief concept",
+		"id": "cd4f5757-1050-4bf9-a27f-15840b2ad780",
+		"replacedBy": [
+			"e91b6a37-fd6b-4012-9e75-8cc18e5a75aa"
+		],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "verwoorden van inhouden en betekenis van de tekst.",
+		"prefix": "u5",
+		"status": "definitief concept",
+		"id": "4a536098-5aeb-43bb-ad90-068de729948a",
+		"replacedBy": [
+			"9c138046-0ea0-4222-a189-f8993deb8d9d"
+		],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Het gaat hierbij om",
+		"description": "reflecteren op wat wel of niet bijdraagt aan het succesvol afronden van een taak.",
+		"prefix": "u4",
+		"status": "definitief concept",
+		"id": "5bc3e707-433c-4ca3-9a71-63e786fa3c45",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replacedBy": [
+			"3f6872fe-c712-47a5-ae05-78862fd0862a"
+		],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Het gaat hierbij om",
+		"description": "deelnemen aan activiteiten die bijdragen aan het verkennen van interesses, kwaliteiten en mogelijkheden;",
+		"prefix": "u3",
+		"status": "definitief concept",
+		"id": "4f5e119d-6473-49d1-a713-cb03b5c195df",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replacedBy": [
+			"1b2db93a-a2b1-4de5-8e67-681eaa5a7554"
+		],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Het gaat hierbij om",
+		"description": "reflecteren op opgedane ervaringen, indien relevant voor de eigen oriëntatie op studie en beroep.",
+		"prefix": "u4",
+		"status": "definitief concept",
+		"id": "57f89e38-553e-434c-9efe-999c23e791eb",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replacedBy": [
+			"3ea9bce3-2073-47e4-ab0b-a54bb64e73e7"
+		],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Het gaat hierbij om",
+		"description": "ontwerpen van een model om verschijnselen inzichtelijk te maken;",
+		"prefix": "u4",
+		"status": "definitief concept",
+		"id": "c533a497-4f0b-486b-b9ac-7802a403e05a",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replacedBy": [
+			"4db99586-e004-40aa-8f09-4da23d9f8eba"
+		],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Het gaat hierbij om",
+		"description": "evalueren of de uitkomsten vanuit een model aannemelijk zijn.",
+		"prefix": "u5",
+		"status": "definitief concept",
+		"id": "58482636-2c3c-4d7e-9861-26e00be9ad6b",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replacedBy": [
+			"869a3215-87a8-4f12-a6bf-4bd0c9bba8f1"
+		],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Het gaat hierbij om",
+		"description": "registreren van metingen en waarnemingen.",
+		"prefix": "u3",
+		"status": "definitief concept",
+		"id": "60be42a9-638e-493f-92d4-ff6ff1f7673f",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replacedBy": [
+			"d2792b34-5697-4df9-bb49-2f5890ec5322"
+		],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Het gaat hierbij om",
+		"description": "formuleren van mogelijke verklaringen, technologische oplossingen en onderdelen daarvan, met gebruik van vaktaal;",
+		"prefix": "u1",
+		"status": "definitief concept",
+		"id": "82d5dded-6d90-45fe-8f23-95f9134238d3",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replacedBy": [
+			"c45fa533-3fb1-4c15-9aea-93b2c7132818"
+		],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Het gaat hierbij om",
+		"description": "kiezen van één aannemelijke verklaring;",
+		"prefix": "u2",
+		"status": "definitief concept",
+		"id": "09f2fc4a-d6c2-49a8-8c89-594119aeb382",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replacedBy": [
+			"58dd970f-ffe4-4dc7-93aa-e34dc9e54639"
+		],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Het gaat hierbij om",
+		"description": "kiezen van één passende oplossing;",
+		"prefix": "u3",
+		"status": "definitief concept",
+		"id": "fb49084c-d6a2-490a-ab6d-6cb410724186",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replacedBy": [
+			"b74a04d0-4f07-4531-b864-09ff5fb1d6c0"
+		],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Het gaat hierbij om",
+		"description": "onderbouwen van de keuze.",
+		"prefix": "u4",
+		"status": "definitief concept",
+		"id": "d87ab2fc-53be-47a2-a6d6-95d188c2503d",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replacedBy": [
+			"6861ff47-1a34-4ca7-9438-b95dec93a203"
+		],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Het gaat hierbij om",
+		"description": "identificeren van natuurwetenschappelijke en technologische feiten, principiële overwegingen en maatschappelijke en persoonlijke belangen;",
+		"prefix": "u1",
+		"status": "definitief concept",
+		"id": "97cdacd5-d21a-4fac-95d2-187eeecfcb37",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replacedBy": [
+			"3faab946-d9ae-4540-9ea4-37d5597ad9db"
+		],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Het gaat hierbij om",
+		"description": "beoordelen van argumenten op correctheid en relevantie;",
+		"prefix": "u2",
+		"status": "definitief concept",
+		"id": "cfe71cf4-ed7f-4caa-ab95-1941f95ee57b",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replacedBy": [
+			"2248e9ab-4b61-450e-9876-98c55ceca0d9"
+		],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Het gaat hierbij om",
+		"description": "afwegen van verschillende argumenten;",
+		"prefix": "u3",
+		"status": "definitief concept",
+		"id": "c09e98ba-ccb5-49d4-9445-4535df6f07c4",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replacedBy": [
+			"cfb93364-9838-4bb0-853b-4da84ae5bc8b"
+		],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Het gaat hierbij om",
+		"description": "onderbouwen van een standpunt.",
+		"prefix": "u4",
+		"status": "definitief concept",
+		"id": "5a1ee192-0559-4d6a-ac8b-a8e7bcd2abf7",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replacedBy": [
+			"6c3da4d3-9cce-4ef3-9799-0cdf6a97776a"
+		],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Het gaat hierbij om",
+		"description": "analyseren van patronen in waarnemingen en gegevens;",
+		"prefix": "u1",
+		"status": "definitief concept",
+		"id": "7d4443ad-3355-43c4-8956-dbfaa044d7ef",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replacedBy": [
+			"c3c0253a-ceb0-48c6-8f2a-5e0715d33679"
+		],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Het gaat hierbij om",
+		"description": "formuleren van verwachtingen op basis van patronen.",
+		"prefix": "u2",
+		"status": "definitief concept",
+		"id": "aeaf7019-5a7b-45af-aa47-54eedcdf59b6",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replacedBy": [
+			"eba84bce-9d1d-49b3-9a25-ce0c6dd52087"
+		],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Het gaat hierbij om",
+		"description": "analyseren van oorzaak en gevolg en de onderliggende mechanismes bij een gebeurtenis en een proces;",
+		"prefix": "u1",
+		"status": "definitief concept",
+		"id": "37d63099-0072-48a1-a341-c5451beed06c",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replacedBy": [
+			"310093dc-4ab0-47e0-b9d5-302c153cdeab"
+		],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Het gaat hierbij om",
+		"description": "beschrijven dat niet onder iedere correlatie een oorzaak-gevolgrelatie ligt.",
+		"prefix": "u2",
+		"status": "definitief concept",
+		"id": "2892b345-dc9a-4455-944c-19830630c1f7",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replacedBy": [
+			"1f457626-9382-44be-80e9-d327a75b590f"
+		],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Het gaat hierbij om",
+		"description": "beschrijven van een gegeven situatie als een systeem met systeemgrenzen en deelsystemen;",
+		"prefix": "u1",
+		"status": "definitief concept",
+		"id": "8559654a-d2c9-4089-b4da-10f26544a37b",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replacedBy": [
+			"7d64c639-83c6-481e-a69c-6b5f8bdda78b"
+		],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Het gaat hierbij om",
+		"description": "beschrijven van een gegeven systeem met invoer, uitvoer, interacties en terugkoppeling;",
+		"prefix": "u2",
+		"status": "definitief concept",
+		"id": "524f9ae2-3dfa-4e66-9260-807bdc0c41be",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replacedBy": [
+			"b3537d24-225c-439b-98bf-db2661a4d362"
+		],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Het gaat hierbij om",
+		"description": "redeneren over een systeem met een model.",
+		"prefix": "u3",
+		"status": "definitief concept",
+		"id": "9b6c378c-cf45-4e08-9537-e6596800ab87",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replacedBy": [
+			"0dae5208-bf9a-474d-9036-ff950fd0b152"
+		],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Het gaat hierbij om",
+		"description": "één vraagstuk uit cluster A - Klimaat en biodiversiteit:\r\r\nSDG 13 Klimaatactie\r\r\nSDG 14 Leven in het water\r\r\nSDG 15 Leven op het land;",
+		"prefix": "u1",
+		"status": "definitief concept",
+		"id": "eb8b58c9-e4f6-4b44-b1ba-777dfe764850",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replacedBy": [
+			"7ae28e13-7c94-40f4-822f-120407569afd"
+		],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Het gaat hierbij om",
+		"description": "één vraagstuk uit cluster B – Duurzaam en gezond leven: \r\r\nSDG 2 Geen honger\r\r\nSDG 3 Goede gezondheid en welzijn\r\r\nSDG 6 Schoon water en sanitair\r\r\nSDG 12 Verantwoorde consumptie en productie;",
+		"prefix": "u2",
+		"status": "definitief concept",
+		"id": "8430ca78-9659-4b59-8697-f833e5227441",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replacedBy": [
+			"9081647d-73d8-4e1e-b303-ddc1f14bc442"
+		],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Het gaat hierbij om",
+		"description": "één vraagstuk uit cluster C – Energie, innovatie en infrastructuur: \r\r\nSDG 7 Betaalbare en duurzame energie\r\r\nSDG 9 Industrie, innovatie en infrastructuur\r\r\nSDG 11 Duurzame steden en gemeenschappen;",
+		"prefix": "u3",
+		"status": "definitief concept",
+		"id": "9c90d2b8-36ae-4462-93c1-405f85eaa32f",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replacedBy": [
+			"f9674c3f-9da8-4c8f-a9bf-7e11d6f31428"
+		],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Het gaat hierbij om",
+		"description": "één vraagstuk uit cluster D – Fundamenteel: \r\r\nfundamenten van natuurwetenschap en technologie.",
+		"prefix": "u4",
+		"status": "definitief concept",
+		"id": "6f8a54dc-f035-46ec-8541-3b078aaed148",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replacedBy": [
+			"29258749-386c-4c08-b54f-3af8fdae964e"
+		],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Het gaat hierbij om",
+		"description": "werken aan een gezamenlijke oplossing met een herkenbare eigen inbreng;",
+		"prefix": "u1",
+		"status": "definitief concept",
+		"id": "630e5c84-06dc-4b53-a363-bda9a9be5118",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replacedBy": [
+			"a8487202-58fb-4cb8-b3d4-89cd8f991908"
+		],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Het gaat hierbij om",
+		"description": "afstemmen over taken;",
+		"prefix": "u2",
+		"status": "definitief concept",
+		"id": "a165b28a-b612-4c9f-b194-ef06e97aeb8e",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replacedBy": [
+			"ef35df06-ffd6-4a36-aeb1-6b7c63a03908"
+		],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Het gaat hierbij om",
+		"description": "zorg dragen voor het afronden van de eigen deeltaak;",
+		"prefix": "u3",
+		"status": "definitief concept",
+		"id": "bc3a135f-d03a-44c5-9ee5-c2342a95d8df",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replacedBy": [
+			"0022f37e-c91f-40f4-9cde-ef69cb8d84f1"
+		],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Het gaat hierbij om",
+		"description": "formuleren van feedback op het samenwerken.",
+		"prefix": "u4",
+		"status": "definitief concept",
+		"id": "5a6093a0-79d4-4817-ae2a-984e0937fb4e",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replacedBy": [
+			"1430fc7b-7019-401e-b82e-2847690d4a19"
+		],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Het gaat hierbij om",
+		"description": "werken aan het behalen van zelf opgestelde leerdoelen;",
+		"prefix": "u1",
+		"status": "definitief concept",
+		"id": "a63a36b4-dd32-4503-8cd0-7fff0a13cee6",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replacedBy": [
+			"17c77ede-b1e3-4634-97a3-1a4c98bc7dd6"
+		],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Het gaat hierbij om",
+		"description": "ervaringen opdoen met hoe de eigen motivatie, focus, interesse en regulatie van gevoelens invloed hebben op de voorbereiding, uitvoering en afronding van een taak;",
+		"prefix": "u2",
+		"status": "definitief concept",
+		"id": "0da89627-f04a-47cb-ae73-fbaf6c4e3a3a",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replacedBy": [
+			"c4956126-d0bf-467f-8cbf-89f9287ea847"
+		],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Het gaat hierbij om",
+		"description": "ervaringen opdoen met hoe het bijstellen van een gepland proces bijdraagt aan de voorbereiding, uitvoering en afronding van een taak;",
+		"prefix": "u3",
+		"status": "definitief concept",
+		"id": "47acfb4c-ee17-4021-9926-48bec3111543",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replacedBy": [
+			"9d1e47aa-9375-46be-b9a3-b8d40a743d32"
+		],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Het gaat hierbij om",
+		"description": "afwegen van het eigen handelen tijdens het doorlopen van de drie fases van een taak: voorbereiding, uitvoering en reflectie;",
+		"prefix": "u4",
+		"status": "definitief concept",
+		"id": "75bf06f7-d028-45f1-b9b4-ee9b662b8594",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replacedBy": [
+			"e7360110-2cff-4e28-b250-25f921eb047b"
+		],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Het gaat hierbij om",
+		"description": "reflecteren op wat wel of niet bijdraagt aan het succesvol afronden van een taak.",
+		"prefix": "u5",
+		"status": "definitief concept",
+		"id": "e1151713-55a9-406c-84e3-29106213f660",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replacedBy": [
+			"5e96b3c6-dc52-41a5-8a92-d3875381468c"
+		],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Het gaat hierbij om",
+		"description": "ontwerpen van een model om verschijnselen inzichtelijk te maken;",
+		"prefix": "u4",
+		"status": "definitief concept",
+		"id": "98bc76f6-07aa-4297-b2f3-976d34a360a5",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replacedBy": [
+			"a12085ab-222b-42a8-ac47-03ccca58d7be"
+		],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "werken volgens fasen van een onderzoekscyclus;",
+		"prefix": "u3",
+		"status": "definitief concept",
+		"id": "53d6e6a1-8f3a-4583-886b-175f992ac956",
+		"replacedBy": [
+			"4bb6de39-821a-400c-93f0-3bffea0fafad"
+		],
+		"types": [
+			"fo_uitwerking"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Te denken valt aan",
+		"description": "onderzoek doen naar de kansen en risico’s van het gebruik van digitale communicatiemiddelen bij het maken van teksten;",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "6ed9e3de-d4e3-4717-9d14-f64c11f6b037",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replacedBy": [
+			"f7640af2-b5e1-41ac-9cec-22f6c257c031"
+		],
+		"types": [
+			"fo_illustratie"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Te denken valt aan",
+		"description": "een krantenbericht en een online bericht over hetzelfde onderwerp vergelijken voor wat betreft het vasthouden van aandacht;",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "28aab4fa-71be-44c7-ac97-f51127583f9e",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replacedBy": [
+			"92a86697-cba5-42f0-bd8a-2cb44328d9b8"
+		],
+		"types": [
+			"fo_illustratie"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Te denken valt aan",
+		"description": "verkennen van toekomstscenario’s voor de ontwikkeling van digitale communicatie;",
+		"prefix": "t3",
+		"status": "definitief concept",
+		"id": "0b628836-339e-45f3-900d-019b4ac8d869",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replacedBy": [
+			"5074cda2-31f3-4721-bf0f-32d9df29e7a5"
+		],
+		"types": [
+			"fo_illustratie"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Te denken valt aan",
+		"description": "generatieve artificiële intelligentie (GenAI) gebruiken om gerichte feedback te vragen op zelfgeschreven teksten.",
+		"prefix": "t4",
+		"status": "definitief concept",
+		"id": "d19e1ccf-c58e-42ca-9122-e0f6c47271a2",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replacedBy": [
+			"49e447da-4fd6-4ee4-941a-69a33ccbabad"
+		],
+		"types": [
+			"fo_illustratie"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Te denken valt aan",
+		"description": "uitleggen hoe manipulatietechnieken zijn gebruikt in een voorbeeld van nepnieuws.",
+		"prefix": "t4",
+		"status": "definitief concept",
+		"id": "b20f0596-fec2-4c1d-a00f-262e845d26fb",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"replacedBy": [
+			"5d1dc27e-efa2-4e96-9812-3a99b165f57d"
+		],
+		"types": [
+			"fo_illustratie"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Te denken valt aan",
+		"description": "verkennen hoe schrijvers in verhalen aandacht vragen voor onderwerpen die belangrijk zijn in de samenleving.",
+		"prefix": "t4",
+		"status": "definitief concept",
+		"id": "96ba443c-5ad5-443e-a6c5-39104ff4d019",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"replacedBy": [
+			"2fc56e7c-7ff8-4c25-8194-4c17856b1ff8"
+		],
+		"types": [
+			"fo_illustratie"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "maken van een parafrase, samenvatting of schets van een situatie die in de tekst wordt beschreven;",
+		"prefix": "t3",
+		"status": "definitief concept",
+		"id": "f95809fd-46c0-4c31-8bea-f720c9ce5b4c",
+		"replacedBy": [
+			"e0648b0d-0970-4138-942c-12b37f599680"
+		],
+		"types": [
+			"fo_illustratie"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "beargumenteren of Latijnse terminologie in de biologie past bij functies of vormen van biologische onderdelen;",
+		"prefix": "t3",
+		"status": "definitief concept",
+		"id": "463daba7-8663-4b81-969d-8352d1712ca8",
+		"replacedBy": [
+			"c287216b-7f60-47f3-8703-856b848b9df8"
+		],
+		"types": [
+			"fo_illustratie"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Te denken valt aan",
+		"description": "van een beroep dat in de module voorkomt, reflecteren of dit past bij de eigen interesses en kwaliteiten.",
+		"prefix": "t4",
+		"status": "definitief concept",
+		"id": "701b5f22-f09f-439a-b8c6-643910db11b5",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replacedBy": [
+			"4df69c55-0ffe-4524-b0ce-3d2de61ec5f7"
+		],
+		"types": [
+			"fo_illustratie"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Te denken valt aan",
+		"description": "het nabootsen van de vertering van koolhydraatmoleculen in darmen met legoblokjes.",
+		"prefix": "t4",
+		"status": "definitief concept",
+		"id": "dad3dd87-8758-44e7-a6ac-ef0368cabd72",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replacedBy": [
+			"36a28982-5a79-46f1-9627-64dea529873f"
+		],
+		"types": [
+			"fo_illustratie"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Te denken valt aan",
+		"description": "uitleggen waarom bepaalde veiligheidsregels nodig zijn bij het zelf maken van een toestel van Hofmann;",
+		"prefix": "t4",
+		"status": "definitief concept",
+		"id": "69d29f7a-9258-40a6-b3a9-d0f1be5520fb",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replacedBy": [
+			"e14a9eaa-3c94-4730-aec7-43d14aea0bbd"
+		],
+		"types": [
+			"fo_illustratie"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Te denken valt aan",
+		"description": "sensoren gebruiken om zuurstofsaturatie digitaal te meten",
+		"prefix": "t5",
+		"status": "definitief concept",
+		"id": "89b93106-2e2f-47ee-99ee-f7af37b9208d",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replacedBy": [
+			"b453a627-e6c6-4162-8a20-c0b4f2eea77d"
+		],
+		"types": [
+			"fo_illustratie"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Te denken valt aan",
+		"description": "een conclusie trekken over de bereikte hoogte van een waterraket gebaseerd op metingen met verschillende technologieën;",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "07445806-273b-47ae-ab91-b868d44f6a81",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replacedBy": [
+			"31f8051c-ef6e-4000-8cb6-64812bf79d69"
+		],
+		"types": [
+			"fo_illustratie"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Te denken valt aan",
+		"description": "conclusies trekken uit de eigen metingen van fijnstof, gecombineerd met de metingen van een citizen science-project;",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "bff20462-367f-42b6-be0b-ce2e6fa303a0",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replacedBy": [
+			"a06604e0-593a-4e4c-a5ea-93da154c9150"
+		],
+		"types": [
+			"fo_illustratie"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Te denken valt aan",
+		"description": "verklaringen voor de gevonden waardes van metingen van waterkwaliteit formuleren;",
+		"prefix": "t3",
+		"status": "definitief concept",
+		"id": "3d195ca7-dfcd-4b6b-bc04-7f84b073498f",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replacedBy": [
+			"907949f8-b01f-4827-9a03-976975198922"
+		],
+		"types": [
+			"fo_illustratie"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Te denken valt aan",
+		"description": "kiezen van de beste lijm voor het bouwen van een houten modelbrug.",
+		"prefix": "t4",
+		"status": "definitief concept",
+		"id": "fea0107d-0492-403b-97b4-1482e8993e8f",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replacedBy": [
+			"e335cc08-8bfb-4c31-a7f5-e7c27beb30d7"
+		],
+		"types": [
+			"fo_illustratie"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Te denken valt aan",
+		"description": "een partijprogramma voor de waterschapsverkiezingen meenemen in een project over de kwaliteit van oppervlaktewater;",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "6d654d2a-8dfb-4d5e-9a6e-90498d5a13f6",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replacedBy": [
+			"2d9c2ffc-df81-4fea-8efc-2eb548e45906"
+		],
+		"types": [
+			"fo_illustratie"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Te denken valt aan",
+		"description": "het ordenen van de verschillende perspectieven op waterbeheer;",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "9bfb10e3-2d29-43e0-971e-2a4ad35765fe",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replacedBy": [
+			"bbe9ccf1-3de9-4ccd-a8c0-9bb9e5e012f4"
+		],
+		"types": [
+			"fo_illustratie"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Te denken valt aan",
+		"description": "een maatschappelijke discussie organiseren met externe partijen;",
+		"prefix": "t3",
+		"status": "definitief concept",
+		"id": "9818309c-0443-4129-bcb9-d5886db199c0",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replacedBy": [
+			"544330fc-a0fe-4106-8190-cab59bdb901f"
+		],
+		"types": [
+			"fo_illustratie"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Te denken valt aan",
+		"description": "de voor- en nadelen van de aanleg van een stuwmeer beschrijven voor natuur en drinkwater;",
+		"prefix": "t4",
+		"status": "definitief concept",
+		"id": "ccef1568-e707-406c-afb2-924861b2c937",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replacedBy": [
+			"292cee6e-4b13-485a-8885-e6744cdb2b63"
+		],
+		"types": [
+			"fo_illustratie"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Te denken valt aan",
+		"description": "een debat voeren over hoe hart- en vaatziekten voorkomen kunnen worden.",
+		"prefix": "t5",
+		"status": "definitief concept",
+		"id": "ef52aa68-141e-4a23-aa05-0274b8d82802",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replacedBy": [
+			"17c0d7fa-0639-469a-b8c7-1855c68171d3"
+		],
+		"types": [
+			"fo_illustratie"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Te denken valt aan",
+		"description": "in een dataset van stoffen in afvalwater patronen herkennen van periodieke fluctuaties;",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "d5ceb785-b5a9-4b79-8c7e-ee48cef6dcb0",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replacedBy": [
+			"9ad87d3d-c4b5-4fd8-b92f-7a398d44d1de"
+		],
+		"types": [
+			"fo_illustratie"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Te denken valt aan",
+		"description": "analyseren van data door technieken te gebruiken uit de machine learning;",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "34771482-2b5c-49c5-b9cf-c3aa8f6d9ee4",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replacedBy": [
+			"b047d433-d3ef-46f6-a431-dd039094c5a0"
+		],
+		"types": [
+			"fo_illustratie"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Te denken valt aan",
+		"description": "uit ruwe data van slaaponderzoek uitspraken doen over de kwaliteit van de slaap;",
+		"prefix": "t3",
+		"status": "definitief concept",
+		"id": "6de87db1-78e2-43a0-9423-23ef6901e1ad",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replacedBy": [
+			"6ce6450c-5355-45e6-815f-956ac7624bf9"
+		],
+		"types": [
+			"fo_illustratie"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Te denken valt aan",
+		"description": "voorspellen of het aantal ongelukken met fatbikes zal toenemen, afnemen of gelijk blijven.",
+		"prefix": "t4",
+		"status": "definitief concept",
+		"id": "338c95af-cd18-4bef-a884-4933774982ee",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replacedBy": [
+			"af232db4-076e-4d10-a739-6f9147989a8a"
+		],
+		"types": [
+			"fo_illustratie"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Te denken valt aan",
+		"description": "een onderzoek doen naar de relatie tussen het toepassen van meststoffen en het bodemleven;",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "2c133b1b-153a-4cc2-9b91-6636ab462ec1",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replacedBy": [
+			"2b9e6389-977f-4f94-becd-3924bf3b0e3c"
+		],
+		"types": [
+			"fo_illustratie"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Te denken valt aan",
+		"description": "het effect van verschillende nutriëntdeficiënties bij planten identificeren;",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "d5af47fd-7aa1-4a3a-af21-75832899b93a",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replacedBy": [
+			"6bb4ebcd-c025-4fb8-aea5-c7462b3190de"
+		],
+		"types": [
+			"fo_illustratie"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Te denken valt aan",
+		"description": "klassikaal bespreken of er een oorzakelijk verband ligt onder het aantal gevallen van wespensteken en het aantal verkochte ijsjes.",
+		"prefix": "t3",
+		"status": "definitief concept",
+		"id": "ba7f69df-6d5c-43bd-a041-181ea62d1ed8",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replacedBy": [
+			"3605b9c0-26d3-4ebe-926c-e6a7b2388d2b"
+		],
+		"types": [
+			"fo_illustratie"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Te denken valt aan",
+		"description": "een schema van het hart maken en aangeven hoe aandoeningen de invoer en uitvoer van bloed beïnvloeden;",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "a29a6aeb-d55f-4add-99f1-ff234152b0a0",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replacedBy": [
+			"d33d4a61-0154-41d7-85b6-f873bbd92328"
+		],
+		"types": [
+			"fo_illustratie"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Te denken valt aan",
+		"description": "adviseren over de beste hoogte van het grondwater voor het watersysteem in een polder;",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "3bea3d40-8656-4b8f-bbcb-b046d4a2a997",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replacedBy": [
+			"70eaacce-d66c-44f6-bdb6-fe18c9217999"
+		],
+		"types": [
+			"fo_illustratie"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Te denken valt aan",
+		"description": "schematisch kunnen aangeven wat in een digitaal systeem de input, verwerking en output zijn.",
+		"prefix": "t3",
+		"status": "definitief concept",
+		"id": "ae44b5f5-96c4-4e11-83b2-14eff3f6b1b3",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replacedBy": [
+			"d33fbbc3-e7bc-4702-9b7f-0fcdc76b0c3a"
+		],
+		"types": [
+			"fo_illustratie"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Te denken valt aan",
+		"description": "voor cluster A een module over het verzwaren van de Nederlandse rivierdijken;",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "8af11a26-7d1a-4051-b0e6-0618b6aefea9",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replacedBy": [
+			"02719ec7-7d6a-441f-bacd-b5a25aa68107"
+		],
+		"types": [
+			"fo_illustratie"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Te denken valt aan",
+		"description": "voor cluster B een module over waterzuivering;",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "c867e9a8-8cb5-4795-b2d0-a8d0f9e02952",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replacedBy": [
+			"401398df-2c23-4d85-9cb6-084902d7b620"
+		],
+		"types": [
+			"fo_illustratie"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Te denken valt aan",
+		"description": "voor cluster C een module over de rol van waterstof in de energietransitie.",
+		"prefix": "t3",
+		"status": "definitief concept",
+		"id": "1b6cf72e-9945-4240-8778-0f545609769c",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replacedBy": [
+			"d5bb0b1f-3020-4d79-9f85-b78edd15b986"
+		],
+		"types": [
+			"fo_illustratie"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Te denken valt aan",
+		"description": "voor cluster D een module over meten aan kosmische straling en melkwegstelsels.",
+		"prefix": "t4",
+		"status": "definitief concept",
+		"id": "12b9fe5f-c450-4e37-a23d-c9a10bc98289",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replacedBy": [
+			"03b7a0b7-039f-4d1e-a2ee-62952763c8aa"
+		],
+		"types": [
+			"fo_illustratie"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Te denken valt aan",
+		"description": "bij de start van de les aan de teamleden aangeven hoe ver de opdracht is gevorderd;",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "9c2e2263-15bc-4384-8eff-e1cec43a59b0",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replacedBy": [
+			"25dcb201-7ea7-46e2-8c65-4062f2013a69"
+		],
+		"types": [
+			"fo_illustratie"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Te denken valt aan",
+		"description": "bij het opstellen van het adviesrapport de kwaliteiten van elk teamlid bespreken en hiervan gebruikmaken;",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "f6c92069-19b8-40fd-97a7-4a5429147b28",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replacedBy": [
+			"da22c7c4-4058-4fe0-8bf7-2dc22c15ec95"
+		],
+		"types": [
+			"fo_illustratie"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Te denken valt aan",
+		"description": "na het afronden van een groepsopdracht elk teamlid een tip en top geven.",
+		"prefix": "t3",
+		"status": "definitief concept",
+		"id": "b084276e-0c85-48de-a2d8-60dc0d9b9453",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replacedBy": [
+			"7b3707ee-be6e-47df-beae-d03e1f445563"
+		],
+		"types": [
+			"fo_illustratie"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Te denken valt aan",
+		"description": "toepassen van concepten uit drie verschillende disciplines bij de eindpresentatie over een oplossing van het vraagstuk.",
+		"prefix": "t4",
+		"status": "definitief concept",
+		"id": "0a5aec71-ebc1-43f6-bd58-9cb46d917c64",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replacedBy": [
+			"de3b8c85-d6d9-42a8-81d3-b6a7dddb4585"
+		],
+		"types": [
+			"fo_illustratie"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Te denken valt aan",
+		"description": "inrichten van de leeromgeving om het leerproces te bevorderen;",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "c55a84a9-a179-4d64-819d-80fee80f8c37",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replacedBy": [
+			"d8c5ec35-04e7-4cfb-8af4-f04123493cfc"
+		],
+		"types": [
+			"fo_illustratie"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Te denken valt aan",
+		"description": "opstellen en indien nodig aanpassen van een projectplanning tijdens het uitvoeren van het project;",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "3ad2a51e-439b-4443-9a8d-16bc6031aa6d",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replacedBy": [
+			"0186fd96-56fd-4fe9-8d51-c41afcd5623b"
+		],
+		"types": [
+			"fo_illustratie"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Te denken valt aan",
+		"description": "na afloop van het gesprek met de expert of opdrachtgever vaststellen of de voorbereiding op het project voldoende was;",
+		"prefix": "t3",
+		"status": "definitief concept",
+		"id": "fdd6e650-0cd4-448e-8589-875e6270142c",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replacedBy": [
+			"c6ff8eb0-ce6a-4ddd-82df-1258602cc64f"
+		],
+		"types": [
+			"fo_illustratie"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Te denken valt aan",
+		"description": "bespreken van feedback met medeleerlingen en de leraar op basis van een competentiemonitor om vast te stellen wat wel en niet bijdraagt aan het succesvol afronden van projecten;",
+		"prefix": "t4",
+		"status": "definitief concept",
+		"id": "3d064ce3-2582-4a8b-80fe-9cc417a9a702",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replacedBy": [
+			"b177bc0f-487f-4c7b-a6a3-f164fafb57b2"
+		],
+		"types": [
+			"fo_illustratie"
+		]
+	},
+	{
+		"dirty": true,
+		"title": "Te denken valt aan",
+		"description": "het maken en bijhouden van een persoonlijk ontwikkelingsplan en dit aanpassen na een tussentijdse afweging en eindreflectie.",
+		"prefix": "t5",
+		"status": "definitief concept",
+		"id": "903c632b-7376-47b2-996e-44ceb256135b",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replacedBy": [
+			"ce3f3228-457e-441f-9ef8-eed866563219"
+		],
+		"types": [
+			"fo_illustratie"
+		]
+	},
+	{
+		"title": "Domein D",
+		"description": "Vraagstukken",
+		"prefix": "D",
+		"id": "8a83aad7-a69a-4ce0-80ae-7a83763ab711",
+		"fo_subdomein_id": [
+			"05a16d39-d1cd-4b05-81fa-09ab4932b9a7",
+			"d055a79e-753f-4466-ac24-96883fc2f7f4"
+		],
+		"replaces": [
+			"5b114735-df19-4191-97d6-d02e2b319581",
+			"8056d08a-e620-45ba-956a-efadc82faff4"
+		],
+		"replacedBy": [
+			"f4ac2c1f-f5ac-4617-8b9a-3cfe09f90075"
+		],
+		"types": [
+			"fo_domein"
+		]
+	},
+	{
+		"title": "Domein E",
+		"description": "Werkwijzen",
+		"prefix": "E",
+		"id": "5ddd705a-8627-47b6-8dcd-d5159f741210",
+		"fo_subdomein_id": [
+			"64b8f17f-11d1-4b73-9f56-b3041f9a56a8",
+			"a1575a15-b8e8-4703-bba9-882e797d472e"
+		],
+		"replaces": [
+			"e0eaf5f9-266b-46ff-8363-cfec928e9978",
+			"75cce880-5de2-4872-a973-b3b6e05601cc",
+			"89380434-eda4-419e-aac1-44837d39eb0a"
+		],
+		"replacedBy": [
+			"314eea07-b85f-40b1-a6b6-5b528fc085ed"
+		],
+		"types": [
+			"fo_domein"
+		]
+	},
+	{
+		"title": "Domein E",
+		"description": "Werkwijzen",
+		"prefix": "E",
+		"id": "c9301f10-fd27-4984-b14e-8b3efdf1fa23",
+		"fo_subdomein_id": [
+			"87f758c2-a33c-4332-b27d-e9eaa9ea8e16",
+			"31177618-6c81-42db-b371-36fd410bb964"
+		],
+		"replaces": [
+			"4ee5e1cf-cb9a-44e1-a419-9745f974ea25",
+			"c2c44103-2d5f-446e-ae07-2a91a5a34c3c",
+			"e3502167-358e-4d6c-8aaf-bde9dcd74ff4"
+		],
+		"replacedBy": [
+			"cfb5d119-e03d-476c-95d0-cace2bafb379"
+		],
+		"types": [
+			"fo_domein"
+		]
+	},
+	{
+		"title": "Domein D",
+		"description": "Werkwijzen",
+		"prefix": "D",
+		"id": "4eefe2d4-bf4e-4571-af01-078c2b22e942",
+		"fo_doelzin_id": [
+			"7a4f75d5-96b1-466d-80ae-077b5bba915b",
+			"093bbf71-b8f4-43f0-b10a-ab12d26dd0f4",
+			"9de73724-5484-44d1-bcad-9925dd1bd60a",
+			"b613a56c-4dff-4121-aee8-d85cc4e5880d",
+			"81bc5eb4-b335-4073-9def-134433586f0e",
+			"1f3de474-6eb2-470e-bc2c-185c408cd9dd",
+			"f7737ab0-e916-4ecb-a732-18ad92cc2546",
+			"440f100a-03c6-4613-b153-1b5527e655a5",
+			"3e079bae-fcf8-47c1-b6da-220b43b8262e",
+			"8a7560e9-5d86-4837-9a83-fa0e946d99ef",
+			"35ac1716-b6f9-4dbe-ab50-f2d478031beb"
+		],
+		"replaces": [
+			"091e3cc1-dfe3-46a1-8433-c26c7bc09f00",
+			"86a256c9-29e3-4495-bbd8-87260aa83cb7"
+		],
+		"replacedBy": [
+			"c15a6855-a9a5-4166-bb63-5ccb4e8aca71"
+		],
+		"types": [
+			"fo_domein"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Zelfontwikkeling",
+		"prefix": "C",
+		"id": "073a862b-287c-4e58-9c8f-7d3d59d35612",
+		"fo_doelzin_id": [
+			"23c4b50c-1591-4359-b966-e9469805933b",
+			"667b060e-457b-4589-b926-660c08083e87",
+			"0c223cd1-9bf3-476d-aa56-f78cc8b157d0"
+		],
+		"replaces": [
+			"c1559269-e15d-4e42-9dbe-6e00ebb57813",
+			"9fd150b5-e027-4b09-90b0-784d2ce5fea8"
+		],
+		"replacedBy": [
+			"c4053721-d5c5-48cb-b0b5-675e336c51c6"
+		],
+		"types": [
+			"fo_domein"
+		]
+	},
+	{
+		"title": "Subdomein A2",
+		"description": "Getallen en variabelen",
+		"prefix": "A2",
+		"id": "2a3eb323-cdc2-4813-af58-bea9208893c0",
+		"fo_doelzin_id": [
+			"5b7162c2-3fb8-492c-a7b6-596f3d38a613",
+			"dcb95449-5d84-4171-a7b1-ecccd4722ae8",
+			"d8bc97a3-5321-44a7-8384-bb4569f7d1bf",
+			"f2715433-2511-42ad-aa51-b3fedb621df9"
+		],
+		"replaces": [
+			"0da96421-3979-42b9-b94a-9e1b401bcda3",
+			"c38202c3-75bb-4ae2-ab3c-f63fe9a61606"
+		],
+		"replacedBy": [
+			"d6ec8c02-9679-4eb6-86a7-8a279efa2f71"
+		],
+		"types": [
+			"fo_subdomein"
+		]
+	},
+	{
+		"title": "Eindterm 4",
+		"description": "De leerling reflecteert op de mogelijkheden en beperkingen van digitale communicatiemiddelen.",
+		"prefix": "4",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "definitief concept",
+		"doeltype": "ervaringsdoel",
+		"id": "15d44086-8e20-4a9e-b587-be6c776fbb2c",
+		"fo_uitwerking_id": [
+			"4d1b88c3-f068-46ab-8780-657166b1b1bd",
+			"6ced839f-897d-46d1-b02a-3aff8ff4291b",
+			"36a2ccbd-7d02-40e0-a799-5f3cc1ae3cb9"
+		],
+		"fo_illustratie_id": [
+			"6ed9e3de-d4e3-4717-9d14-f64c11f6b037",
+			"28aab4fa-71be-44c7-ac97-f51127583f9e",
+			"0b628836-339e-45f3-900d-019b4ac8d869",
+			"d19e1ccf-c58e-42ca-9122-e0f6c47271a2"
+		],
+		"replacedBy": [
+			"accf631b-a15d-4ee8-bf67-32c4360b7ecb"
+		],
+		"types": [
+			"fo_doelzin"
+		]
+	},
+	{
+		"title": "Eindterm 16",
+		"description": "De leerling formuleert onderbouwde conclusies.",
+		"prefix": "16",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "definitief concept",
+		"doeltype": "beheersingsdoel",
+		"id": "d9b50ffc-3abc-4e84-9436-457c42467853",
+		"fo_uitwerking_id": [
+			"82d5dded-6d90-45fe-8f23-95f9134238d3",
+			"09f2fc4a-d6c2-49a8-8c89-594119aeb382",
+			"fb49084c-d6a2-490a-ab6d-6cb410724186",
+			"d87ab2fc-53be-47a2-a6d6-95d188c2503d"
+		],
+		"fo_illustratie_id": [
+			"07445806-273b-47ae-ab91-b868d44f6a81",
+			"bff20462-367f-42b6-be0b-ce2e6fa303a0",
+			"3d195ca7-dfcd-4b6b-bc04-7f84b073498f",
+			"fea0107d-0492-403b-97b4-1482e8993e8f"
+		],
+		"replacedBy": [
+			"ac6b496b-0634-4e24-b990-329810412dc8"
+		],
+		"types": [
+			"fo_doelzin"
+		]
+	},
+	{
+		"title": "Eindterm 17",
+		"description": "De leerling formuleert onderbouwde standpunten.",
+		"prefix": "17",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "definitief concept",
+		"doeltype": "beheersingsdoel",
+		"id": "dba0ea7b-1373-441e-acdd-8daaff7c29d3",
+		"fo_uitwerking_id": [
+			"97cdacd5-d21a-4fac-95d2-187eeecfcb37",
+			"cfe71cf4-ed7f-4caa-ab95-1941f95ee57b",
+			"c09e98ba-ccb5-49d4-9445-4535df6f07c4",
+			"5a1ee192-0559-4d6a-ac8b-a8e7bcd2abf7"
+		],
+		"fo_illustratie_id": [
+			"6d654d2a-8dfb-4d5e-9a6e-90498d5a13f6",
+			"9bfb10e3-2d29-43e0-971e-2a4ad35765fe",
+			"9818309c-0443-4129-bcb9-d5886db199c0",
+			"ccef1568-e707-406c-afb2-924861b2c937",
+			"ef52aa68-141e-4a23-aa05-0274b8d82802"
+		],
+		"replacedBy": [
+			"255dfc4c-2687-43a1-ab05-883ddde7cb8f"
+		],
+		"types": [
+			"fo_doelzin"
+		]
+	},
+	{
+		"title": "Eindterm 19",
+		"description": "De leerling redeneert met patronen.",
+		"prefix": "19",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "definitief concept",
+		"doeltype": "beheersingsdoel",
+		"id": "9b387c91-b14e-4c2d-9355-76746d65e0fa",
+		"fo_uitwerking_id": [
+			"7d4443ad-3355-43c4-8956-dbfaa044d7ef",
+			"aeaf7019-5a7b-45af-aa47-54eedcdf59b6"
+		],
+		"fo_illustratie_id": [
+			"d5ceb785-b5a9-4b79-8c7e-ee48cef6dcb0",
+			"34771482-2b5c-49c5-b9cf-c3aa8f6d9ee4",
+			"6de87db1-78e2-43a0-9423-23ef6901e1ad",
+			"338c95af-cd18-4bef-a884-4933774982ee"
+		],
+		"replacedBy": [
+			"56b4a987-47cf-4646-a8df-5239f7e6830a"
+		],
+		"types": [
+			"fo_doelzin"
+		]
+	},
+	{
+		"title": "Eindterm 20",
+		"description": "De leerling redeneert met oorzaak en gevolg en relaties daartussen.",
+		"prefix": "20",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "definitief concept",
+		"doeltype": "beheersingsdoel",
+		"id": "db1f2b5c-293e-47c3-8faa-13345f0cf4fa",
+		"fo_uitwerking_id": [
+			"37d63099-0072-48a1-a341-c5451beed06c",
+			"2892b345-dc9a-4455-944c-19830630c1f7"
+		],
+		"fo_illustratie_id": [
+			"2c133b1b-153a-4cc2-9b91-6636ab462ec1",
+			"d5af47fd-7aa1-4a3a-af21-75832899b93a",
+			"ba7f69df-6d5c-43bd-a041-181ea62d1ed8"
+		],
+		"replacedBy": [
+			"386a5fbb-1d1d-4402-bc9c-5bd827039776"
+		],
+		"types": [
+			"fo_doelzin"
+		]
+	},
+	{
+		"title": "Eindterm 22",
+		"description": "De leerling redeneert met systemen.",
+		"prefix": "22",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "definitief concept",
+		"doeltype": "beheersingsdoel",
+		"id": "7f1de1da-1524-4346-bee2-bcb69c70df07",
+		"fo_uitwerking_id": [
+			"8559654a-d2c9-4089-b4da-10f26544a37b",
+			"524f9ae2-3dfa-4e66-9260-807bdc0c41be",
+			"9b6c378c-cf45-4e08-9537-e6596800ab87"
+		],
+		"fo_illustratie_id": [
+			"a29a6aeb-d55f-4add-99f1-ff234152b0a0",
+			"3bea3d40-8656-4b8f-bbcb-b046d4a2a997",
+			"ae44b5f5-96c4-4e11-83b2-14eff3f6b1b3"
+		],
+		"replacedBy": [
+			"cdc09917-839e-4f9d-bc19-8f1f44ea5d72"
+		],
+		"types": [
+			"fo_doelzin"
+		]
+	},
+	{
+		"title": "Eindterm 4",
+		"description": "De leerling werkt aan ten minste één vraagstuk uit elk cluster.",
+		"prefix": "4",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "definitief concept",
+		"doeltype": "beheersingsdoel",
+		"id": "2b53a03f-d844-4ef7-8e50-44c75c022cc2",
+		"fo_uitwerking_id": [
+			"eb8b58c9-e4f6-4b44-b1ba-777dfe764850",
+			"8430ca78-9659-4b59-8697-f833e5227441",
+			"9c90d2b8-36ae-4462-93c1-405f85eaa32f",
+			"6f8a54dc-f035-46ec-8541-3b078aaed148"
+		],
+		"fo_illustratie_id": [
+			"8af11a26-7d1a-4051-b0e6-0618b6aefea9",
+			"c867e9a8-8cb5-4795-b2d0-a8d0f9e02952",
+			"1b6cf72e-9945-4240-8778-0f545609769c",
+			"12b9fe5f-c450-4e37-a23d-c9a10bc98289"
+		],
+		"replacedBy": [
+			"8dc5615a-6cbb-48a5-83de-955e30a4826c"
+		],
+		"types": [
+			"fo_doelzin"
+		]
+	},
+	{
+		"title": "Eindterm 9",
+		"description": "De leerling werkt samen aan vraagstukken.",
+		"prefix": "9",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "definitief concept",
+		"doeltype": "beheersingsdoel",
+		"id": "093bbf71-b8f4-43f0-b10a-ab12d26dd0f4",
+		"fo_uitwerking_id": [
+			"630e5c84-06dc-4b53-a363-bda9a9be5118",
+			"a165b28a-b612-4c9f-b194-ef06e97aeb8e",
+			"bc3a135f-d03a-44c5-9ee5-c2342a95d8df",
+			"5a6093a0-79d4-4817-ae2a-984e0937fb4e"
+		],
+		"fo_illustratie_id": [
+			"9c2e2263-15bc-4384-8eff-e1cec43a59b0",
+			"f6c92069-19b8-40fd-97a7-4a5429147b28",
+			"b084276e-0c85-48de-a2d8-60dc0d9b9453"
+		],
+		"replacedBy": [
+			"b499dfe5-c4cf-4048-acbd-e8c4e3165f48"
+		],
+		"types": [
+			"fo_doelzin"
+		]
+	},
+	{
+		"title": "Eindterm 26",
+		"description": "De leerling verkent en gebruikt relevante concepten.",
+		"prefix": "26",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "definitief concept",
+		"doeltype": "hybride doel",
+		"id": "2a62fc6c-7736-40fd-8158-36b60927af5f",
+		"fo_uitwerking_id": [
+			"e9950909-9070-4d01-8464-8578a174e9ff",
+			"cf800f89-9a1f-4995-9de1-464c5fac5b2c"
+		],
+		"fo_illustratie_id": [
+			"3d9eb9e8-edb4-4a20-b32a-39cf7417a126",
+			"ef3efa8f-2cf5-4b36-b4ad-35ee99783366",
+			"f239401d-ae47-4142-a6aa-93ee2ddb83f0",
+			"0a5aec71-ebc1-43f6-bd58-9cb46d917c64"
+		],
+		"replacedBy": [
+			"289dff11-4b98-460b-85cf-ee16d3327157"
+		],
+		"types": [
+			"fo_doelzin"
+		]
+	},
+	{
+		"title": "Eindterm 15",
+		"description": "De leerling modelleert.",
+		"prefix": "15",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "definitief concept",
+		"doeltype": "beheersingsdoel",
+		"id": "7bf59d0e-5f7c-456f-9be8-0ef9f3d34b90",
+		"fo_uitwerking_id": [
+			"45fabb3e-345c-432e-9831-68fc30d3a9ba",
+			"171b5de2-128b-4127-a201-1eec60d7be54",
+			"d1b3fe69-6514-42ee-8d00-345c4f37e73c",
+			"98bc76f6-07aa-4297-b2f3-976d34a360a5",
+			"ab05b435-2aae-41f4-ac93-a4756fd7cd4b"
+		],
+		"fo_illustratie_id": [
+			"93986c26-ac80-4038-ba65-b6e59428c1cb",
+			"81dc058d-0afc-4400-ac38-6bc45a543435",
+			"c85b6f22-db33-44b4-a57a-6c8a2991b8c1",
+			"e5ed799e-75f1-4c5b-b6c9-e55702496107",
+			"ff072e77-728b-4c3e-89df-77957b21c17b"
+		],
+		"replacedBy": [
+			"af1c8d8d-95b6-4e46-af2b-f8ea5b3472d5"
+		],
+		"types": [
+			"fo_doelzin"
+		]
+	},
+	{
+		"title": "Eindterm 1",
+		"description": "De leerling toont begrip van zakelijke en literaire teksten, passend bij het lees-, kijk- of luisterdoel.",
+		"prefix": "1",
+		"soort": "eindterm",
+		"ce": 1,
+		"id": "a5104a01-c1af-4979-9639-786d18a9656e",
+		"fo_uitwerking_id": [
+			"1637b50e-48c3-4726-80d3-aad33558aac7",
+			"5fcf1268-6207-4b0f-bfa0-03e58e0387ef",
+			"7125b1f3-125b-4e5e-a95b-09eb4b779d15",
+			"f9fa583f-a600-4086-8b97-a991ae15e0a1",
+			"ad93aceb-384a-4116-85d0-e4c045f348c7"
+		],
+		"status": "definitief concept",
+		"fo_illustratie_id": [
+			"6c14ebc3-9a5b-4e31-9c63-f2969bd968ca",
+			"150b886d-8756-424e-91e6-4190f58570f0",
+			"ece9d7b7-c7a5-4ec6-8e34-b3985d956a98",
+			"acf42395-e68d-4ebf-a3c8-8b013dfd2002"
+		],
+		"replaces": [
+			"b65d9051-7217-4aa9-9cc9-9eeeb3c4f657",
+			"d6e7b7c9-80a1-4bdc-aa42-400b22f9b831"
+		],
+		"se": 1,
+		"doeltype": "beheersingsdoel",
+		"replacedBy": [
+			"0a5a0b8c-dcbc-4919-addb-a0210206b4bc"
+		],
+		"types": [
+			"fo_doelzin"
+		]
+	},
+	{
+		"title": "Eindterm 14",
+		"description": "De leerling legt verbanden tussen het interpreteren van een tekst en de gebruikte literaire middelen, stijl en vorm.",
+		"prefix": "14",
+		"soort": "eindterm",
+		"ce": 1,
+		"se": 1,
+		"id": "3f660f2c-2487-474a-aacd-f6da0d058161",
+		"fo_uitwerking_id": [
+			"8230da35-7db1-449d-be0f-13920c8d1ce5",
+			"39106f2e-7575-4c17-a60b-77e67d9ed23b",
+			"cd4f5757-1050-4bf9-a27f-15840b2ad780"
+		],
+		"status": "definitief concept",
+		"fo_illustratie_id": [
+			"92551a5e-75be-4e51-8a8d-a2e9f6f2ef11",
+			"b6a99b72-fac0-4f9d-824a-a4ced721c989",
+			"a50ba001-0026-4c3f-98ec-c553a9631e86",
+			"63ab5354-b534-467b-8f81-8e6e0b6f2ada"
+		],
+		"replaces": [
+			"de5ca4f6-39f1-40fa-b9f9-c28c964f269b",
+			"d084953c-4963-4d88-b76a-01916be8643d"
+		],
+		"doeltype": "beheersingsdoel",
+		"replacedBy": [
+			"2904bc6c-5109-46a7-af46-c6cf2b702fb4"
+		],
+		"types": [
+			"fo_doelzin"
+		]
+	},
+	{
+		"title": "Eindterm 1",
+		"description": "De leerling toont begrip van zakelijke en literaire teksten, passend bij het lees-, kijk- of luisterdoel.",
+		"prefix": "1",
+		"soort": "eindterm",
+		"ce": 1,
+		"id": "e0b81307-e287-4182-b64f-b162d38b64a0",
+		"fo_uitwerking_id": [
+			"53174ea6-fdef-4b87-871a-bdd08874ba52",
+			"afc52668-2396-4864-9363-3951bb28ec4a",
+			"f3a34a93-a349-4c0a-9de4-aa1934186c08",
+			"c637e610-0d76-43bd-b8dc-264fa6cdb602",
+			"4a536098-5aeb-43bb-ad90-068de729948a"
+		],
+		"status": "definitief concept",
+		"fo_illustratie_id": [
+			"a0b3cafb-1604-4f99-b8ad-608879b974a2",
+			"31e66c32-eac2-4770-b1c5-43f161becbe9",
+			"581d8b13-3f6b-4390-a835-528fbffe55d7",
+			"2a20c3aa-700d-445d-acf3-f008075829e7"
+		],
+		"replaces": [
+			"4e76339c-fadf-4c4a-8783-f306d3b10791",
+			"722f01cc-bbd7-48ef-aa08-ae1425c443d1"
+		],
+		"se": 1,
+		"doeltype": "beheersingsdoel",
+		"replacedBy": [
+			"b2804360-0dfc-4050-a14b-89e1a77eabfc"
+		],
+		"types": [
+			"fo_doelzin"
+		]
+	},
+	{
+		"title": "Eindterm 11",
+		"description": "De leerling beoordeelt de overtuigingskracht van een tekst en de auteur of spreker.",
+		"prefix": "11",
+		"soort": "eindterm",
+		"ce": 1,
+		"se": 1,
+		"id": "955c7ea4-8e66-4eab-bd8f-142170b96ee4",
+		"fo_uitwerking_id": [
+			"2659e5be-9dd6-4500-a367-823b59a267bd",
+			"bdf421f5-902d-46cb-b5e6-1c81eb8c4a67",
+			"405fc8c0-d073-4436-8654-e2f035b3cd15"
+		],
+		"status": "definitief concept",
+		"fo_illustratie_id": [
+			"e0a67660-0fda-4c52-84d9-51d78ae96086",
+			"5e33c03f-1189-49a8-ad58-37de8a889405",
+			"45f5201b-a7e2-4469-85bf-b3cdfe56747d",
+			"b20f0596-fec2-4c1d-a00f-262e845d26fb"
+		],
+		"replaces": [
+			"9b61fb80-be60-4f7e-8d16-bbe2e769c638",
+			"7e60c1ac-fd48-44e3-b1ec-281f72bfdd36"
+		],
+		"doeltype": "beheersingsdoel",
+		"replacedBy": [
+			"cd1b64fe-7039-48de-8c01-e5857be4c72e"
+		],
+		"types": [
+			"fo_doelzin"
+		]
+	},
+	{
+		"title": "Eindterm 14",
+		"description": "De leerling legt verbanden tussen het interpreteren van een tekst en de gebruikte literaire middelen, stijl en vorm.",
+		"prefix": "14",
+		"soort": "eindterm",
+		"ce": 1,
+		"se": 1,
+		"id": "37188365-2459-4ea1-afcd-5c53093cdbd2",
+		"fo_uitwerking_id": [
+			"aaae70e2-d025-4ca6-a227-eb4029d2bec4",
+			"4f656a9f-f01f-47f4-aa1b-0e7cf02488e9",
+			"4b0e7fd8-0717-427c-9c5e-298798876e5b"
+		],
+		"status": "definitief concept",
+		"fo_illustratie_id": [
+			"2c2dd70d-25b4-4c93-92ba-12c184dc3beb",
+			"fa444970-8ce3-4cd8-9b1e-b5f114b82246",
+			"f4ba428a-22eb-44f5-a2c4-eaab84c927cb",
+			"52183edf-07b0-459c-99d6-4ace190f174b"
+		],
+		"replaces": [
+			"df6790ef-725d-4572-b3bf-a39c790c6c56",
+			"86f3ee09-c56c-49fe-bc0c-f226d5467ac0"
+		],
+		"doeltype": "beheersingsdoel",
+		"replacedBy": [
+			"db29742e-1e4b-4a8c-a8f9-ee706a777242"
+		],
+		"types": [
+			"fo_doelzin"
+		]
+	},
+	{
+		"title": "Eindterm 16",
+		"description": "De leerling legt verbanden tussen literatuur en maatschappij.",
+		"prefix": "16",
+		"soort": "eindterm",
+		"se": 1,
+		"id": "d0d7c3e0-1468-4078-be20-b1505ba02718",
+		"fo_uitwerking_id": [
+			"050bcc2b-6ed3-4ae5-ba6e-7e8454b68535",
+			"8d09f0bb-d31e-41bc-8794-caa7b7a47fea"
+		],
+		"status": "definitief concept",
+		"fo_illustratie_id": [
+			"c5a79227-d466-4888-8e49-999fdc0e0736",
+			"fd395cc3-6953-44c4-9053-b8ad056d9ec5",
+			"70782e0d-79fc-46fb-99b7-228d005e1e47",
+			"96ba443c-5ad5-443e-a6c5-39104ff4d019"
+		],
+		"replaces": [
+			"f195ea02-947e-49ea-bc5e-0fe415a206e7",
+			"fb5d99b6-ca64-474d-8c0f-ad8c1e7007f7"
+		],
+		"doeltype": "ervaringsdoel",
+		"replacedBy": [
+			"86d061fb-58ad-46bf-aed7-d9220a246a12"
+		],
+		"types": [
+			"fo_doelzin"
+		]
+	},
+	{
+		"title": "Eindterm 3",
+		"description": "De leerling toont inzicht in de impliciete tekstinhoud.",
+		"prefix": "3",
+		"soort": "eindterm",
+		"ce": 1,
+		"se": 1,
+		"id": "d4b24dce-16cc-41fc-a3a2-aeaee581430f",
+		"fo_uitwerking_id": [
+			"0a7701df-0c3d-4c40-b78d-84591c50d943",
+			"1b309f5a-a6ad-4b2f-9eeb-a8302aace39e",
+			"a7a465d2-da88-4b76-9d14-f8bcfb10ee47",
+			"42bb7506-f055-4bf2-b4ea-0d0a1b9376da",
+			"7da77033-353c-4f08-9f41-06ce60330dd5"
+		],
+		"status": "definitief concept",
+		"fo_illustratie_id": [
+			"d5427fdb-394d-4f3d-9b37-02e2813a1d8f",
+			"17a64738-5413-4076-b4fb-19380a01a1d7",
+			"f95809fd-46c0-4c31-8bea-f720c9ce5b4c",
+			"c41beade-db89-4bcd-8518-7cd934159853",
+			"c4ddbe11-5753-43b0-b3cc-26ef8d5b9492"
+		],
+		"replaces": [
+			"35f4ea93-27f3-4815-99b2-b8f80f23061c",
+			"c676181b-3fef-4aa6-9ef8-91febcf89856"
+		],
+		"doeltype": "beheersingsdoel",
+		"replacedBy": [
+			"dae4ccc7-46e1-454f-b117-7dd634375b8e"
+		],
+		"types": [
+			"fo_doelzin"
+		]
+	},
+	{
+		"title": "Eindterm 27",
+		"description": "De leerling beargumenteert een interpretatie van een talig fenomeen in het Latijn.",
+		"prefix": "27",
+		"soort": "eindterm",
+		"se": 1,
+		"id": "3b00783b-6bed-4159-897f-f6d45e069854",
+		"fo_uitwerking_id": [
+			"5fc3e4fb-290a-4dfc-a001-dbd018b52ea1",
+			"c404a931-ff42-4226-9dcd-a2f41a2a27d2"
+		],
+		"status": "definitief concept",
+		"fo_illustratie_id": [
+			"cb095297-4fb8-4bda-b8c3-692b836e5678",
+			"292a7b3a-9a25-4c0f-8cfe-91ee7bd7048f",
+			"463daba7-8663-4b81-969d-8352d1712ca8",
+			"f4508281-3ba4-47cc-a2f7-d9914eda529b",
+			"ddd25270-144f-4ebd-ba15-ffa64917ed66"
+		],
+		"replaces": [
+			"e1bd6120-866f-46d8-9f81-110d80d1180d",
+			"60888753-cf81-4e5d-9d40-36e05b419359"
+		],
+		"doeltype": "beheersingsdoel",
+		"replacedBy": [
+			"66bb814c-cb18-4828-a3bb-08b09cd61ec5"
+		],
+		"types": [
+			"fo_doelzin"
+		]
+	},
+	{
+		"title": "Eindterm 5",
+		"description": "De leerling reflecteert op ervaringen met zelfregulatie in leersituaties.",
+		"prefix": "5",
+		"soort": "eindterm",
+		"se": 1,
+		"id": "ce078b5d-a264-4ee1-8e83-d063c78cd529",
+		"fo_uitwerking_id": [
+			"42df9afa-87dd-4d89-b350-97bd44dbe076",
+			"78ef8d68-e030-468f-95e3-62db7692f494",
+			"e3deb91e-ba1b-4cbc-81f2-c292719ceec6",
+			"5bc3e707-433c-4ca3-9a71-63e786fa3c45"
+		],
+		"status": "definitief concept",
+		"fo_illustratie_id": [
+			"de741c30-6cec-402d-8dc2-f2a488e2a9bd",
+			"1dfd65e4-c6d6-48f4-8898-40c31f134bdb",
+			"4822a8e7-7162-4303-9861-1cca8ebfb934"
+		],
+		"replaces": [
+			"1152bb7e-c7dc-4540-9101-272a9dac34c8",
+			"fb090b2f-8df1-4351-aaf0-a50039828b8c"
+		],
+		"doeltype": "ervaringsdoel",
+		"replacedBy": [
+			"70fbafee-1f13-4e85-8fba-960df2993604"
+		],
+		"types": [
+			"fo_doelzin"
+		]
+	},
+	{
+		"title": "Eindterm 7",
+		"description": "De leerling gebruikt ervaringen, interesses en kwaliteiten bij de eigen loopbaanontwikkeling.",
+		"prefix": "7",
+		"soort": "eindterm",
+		"se": 1,
+		"id": "cc61486b-deaa-4d58-9433-bb32b2b9b136",
+		"fo_uitwerking_id": [
+			"3981ef17-a2bd-4614-b7c6-84e32aa5684d",
+			"3c742391-e4ad-4d26-ab6c-6fa2f4a365bd",
+			"4f5e119d-6473-49d1-a713-cb03b5c195df",
+			"57f89e38-553e-434c-9efe-999c23e791eb"
+		],
+		"status": "definitief concept",
+		"fo_illustratie_id": [
+			"50796e77-5835-468f-92a6-3d59a4b8fae6",
+			"a13a51e3-9227-41a5-90d2-a9a8c3562298",
+			"a0f2cd26-16ac-4729-83fa-c4bbd4047bb1",
+			"701b5f22-f09f-439a-b8c6-643910db11b5"
+		],
+		"replaces": [
+			"12575901-7f58-43e2-96df-71328409e6ce",
+			"7c5d105d-25a1-40da-a2c7-f4c4475022b6"
+		],
+		"doeltype": "ervaringsdoel",
+		"replacedBy": [
+			"eb1f268f-b6a4-4713-aa7d-d028207e9f06"
+		],
+		"types": [
+			"fo_doelzin"
+		]
+	},
+	{
+		"title": "Eindterm 11",
+		"description": "De leerling modelleert.",
+		"prefix": "11",
+		"soort": "eindterm",
+		"se": 1,
+		"id": "fb896b5c-932e-4f16-bd75-76cb90370cda",
+		"fo_uitwerking_id": [
+			"13062c62-0e9e-404f-9b95-ffeb3cea1c7a",
+			"0000e3fa-e06d-4929-9618-b10553120ccb",
+			"a6afb0aa-16a9-405e-9c28-a29dfae10ef2",
+			"c533a497-4f0b-486b-b9ac-7802a403e05a",
+			"58482636-2c3c-4d7e-9861-26e00be9ad6b"
+		],
+		"status": "definitief concept",
+		"fo_illustratie_id": [
+			"3bdb44f4-0d2d-4b75-a752-1eb81ef6f0fb",
+			"259e9c05-8d34-4f5d-9fcd-6e7c4313616b",
+			"3b5b775c-8c7b-42b5-bdc4-2fb12af15cd8",
+			"dad3dd87-8758-44e7-a6ac-ef0368cabd72"
+		],
+		"replaces": [
+			"d98e367c-85c9-42f2-97bb-ae22af222732",
+			"a2ea5b8c-8c45-412a-86a8-2d086046f2d2"
+		],
+		"doeltype": "beheersingsdoel",
+		"replacedBy": [
+			"7643ea71-7148-46c3-bd84-7f0b0588f80a"
+		],
+		"types": [
+			"fo_doelzin"
+		]
+	},
+	{
+		"title": "Eindterm 13",
+		"description": "De leerling voert een praktische activiteit uit.",
+		"prefix": "13",
+		"soort": "eindterm",
+		"se": 1,
+		"id": "c46738c5-adda-4893-984e-9f4031ff4bfb",
+		"fo_uitwerking_id": [
+			"565f2031-3c2e-4f0e-8c8d-6088c1235c21",
+			"93acd3d8-ed01-434b-a355-c3d282f8f80b",
+			"60be42a9-638e-493f-92d4-ff6ff1f7673f"
+		],
+		"status": "definitief concept",
+		"fo_illustratie_id": [
+			"31fdb6ee-38a6-4af5-8893-a2ce405aa0e5",
+			"0f5181f4-ffe2-42df-8ced-328525e8fe02",
+			"11e6f1a5-6bd7-4dd4-8505-b98079f1dd70",
+			"69d29f7a-9258-40a6-b3a9-d0f1be5520fb",
+			"89b93106-2e2f-47ee-99ee-f7af37b9208d"
+		],
+		"replaces": [
+			"c8355014-4e3d-4269-b630-d9fa20b1b87c",
+			"81f4030d-d981-4f38-b09b-54cb927048d4"
+		],
+		"doeltype": "beheersingsdoel",
+		"replacedBy": [
+			"293b773c-7b5e-43ee-ae56-7b3c60a00a26"
+		],
+		"types": [
+			"fo_doelzin"
+		]
+	},
+	{
+		"title": "Eindterm 19",
+		"description": "De leerling doet systematisch onderzoek met behulp van wiskunde in een probleemsituatie.",
+		"prefix": "19",
+		"soort": "eindterm",
+		"se": 1,
+		"id": "a450b182-9386-4229-825d-4a4e2e8230de",
+		"fo_uitwerking_id": [
+			"8e6c445c-adc2-4423-8f9d-2a8b7dec2e3b",
+			"735852b5-6c8f-40c1-a9a9-c474cd88bad1",
+			"8ebebccd-ec3d-4eca-9abd-cca075acb2ef",
+			"53d6e6a1-8f3a-4583-886b-175f992ac956",
+			"c482094f-c285-43ec-9de2-bd6dc4bfffae"
+		],
+		"status": "definitief concept",
+		"fo_illustratie_id": [
+			"c46cde28-5e0b-4318-93a1-10a11ad68d1d",
+			"0a1667c0-f805-417e-b076-ea83477ff7cc",
+			"cc21f483-1f87-4113-9759-770562db4090",
+			"6cd9bd2d-0607-4a92-ac5e-4d482ced0c54",
+			"381d9edf-33c3-48f0-943d-4e5868f426db"
+		],
+		"replaces": [
+			"09405173-3bd3-4761-9568-81906ee3ef5b",
+			"b3fe508f-ca7a-4e45-89c4-31e8aeeb2028"
+		],
+		"doeltype": "beheersingsdoel",
+		"replacedBy": [
+			"2d03fd3d-ea60-45c1-b1ad-332e7c62b1c0"
+		],
+		"types": [
+			"fo_doelzin"
+		]
+	},
+	{
+		"title": "Conceptexamenprogramma natuurkunde vwo",
+		"description": "Conceptexamenprogramma Natuurkunde vwo (versie 2)",
+		"karakteristiek": "Kenmerken van natuurwetenschappen en technologie\r\r\nNatuurkunde is – net als biologie en scheikunde – een natuurwetenschappelijk schoolvak. Als zodanig is het nauw verweven met technologie en met de schoolvakken natuur, leven en technologie (nlt) en Onderzoek en Ontwerpen (O&O). De natuurwetenschappen bestuderen de natuurlijke werkelijkheid, technologie verandert haar. Natuurwetenschappen onderzoeken de natuurlijke wereld om ons heen, zowel levend als niet-levend. Dat doen ze op alle schalen met behulp van theorie- en modelvorming, toetsbare voorspelling en\r\r\nwaarneming. Technologie hanteert kennis en vaardigheden voor het ontwerpen, bouwen en gebruiken van voorwerpen en systemen om problemen op te lossen en behoeften te vervullen. Bij het onderzoeken en ontwerpen maken natuurwetenschappen en technologie gebruik van vergelijkbare en specifieke denk- en werkwijzen. De resultaten van de natuurwetenschappen en van technologie – evenals de ontwikkeling van hun methodes – zijn het product van menselijk handelen. Ze maken al eeuwen deel uit van de menselijke cultuur.\r\r\nNatuurwetenschappelijke en technologische ontwikkeling versterken elkaar. Hiermee krijgen mensen steeds weer nieuwe manieren om hun leef- en werkomgeving te begrijpen en beïnvloeden. Dat laatste biedt kansen, maar ook uitdagingen voor de maatschappij en planeet aarde.",
+		"id": "dcc81d03-0499-45c6-b397-a29a065c1e43",
+		"vakleergebied_id": [
+			"e14b7d76-d5f5-4788-a9e1-bf35269a72d8"
+		],
+		"fo_domein_id": [
+			"59d4580e-4a6e-4458-acf6-9683e7861057",
+			"ba2c7222-6b32-45b7-bc43-a20e38681a12",
+			"6571bb64-ae2e-48ee-8a32-c6a04c754b77",
+			"8a83aad7-a69a-4ce0-80ae-7a83763ab711",
+			"b873b217-a2b7-4e75-9f82-48b686dc5a17",
+			"37044f38-1fc1-4670-94f0-63de7b302908"
+		],
+		"status": "concept",
+		"replaces": [
+			"2d6f59c1-ebbe-4bb3-babc-ed26e49ab2c1",
+			"e04e56dd-593e-45ce-a64a-233c42c72d24",
+			"5184b2f0-eb99-43cf-85c0-1e2ad3256e7e"
+		],
+		"settype": "examenprogramma",
+		"karakteristiek2": "Natuurwetenschappen en technologie in de schoolvakken\r\r\nIn de onderbouw wordt via de kerndoelen mens en natuur de basis gelegd voor natuurwetenschappelijke en technologische concepten, denkwijzen en werkwijzen. In de bovenbouw worden deze verder uitgediept in de disciplinaire vakken biologie, natuurkunde en scheikunde, en op havo en vwo de interdisciplinaire vakken nlt en O&O. Het zijn profiel(keuze)vakken met een algemeen vormend karakter. Van onderbouw naar bovenbouw verschuift de nadruk. In de onderbouw gaat het vooral om inhouden die leerlingen nodig\r\r\nhebben in hun persoonlijk leven en als burger in de samenleving. In de bovenbouw zijn de inhouden meer relevant voor vervolgopleidingen en toekomstige werkvelden en beroepen. De natuurwetenschappelijke en technologische denk- en werkwijzen dragen bij\r\r\naan de ontwikkeling van een onderzoekende houding en het probleemoplossend vermogen van leerlingen. Samenwerken en reflectie op eigen bijdragen en interesses ondersteunen hun persoonlijke ontwikkeling. De vakken besteden aandacht aan hoe natuurwetenschappelijke kennis en technologische producten tot stand komen. Dit stelt leerlingen in staat de waarde en betrouwbaarheid van uitspraken over natuurwetenschappen en technologie te beoordelen. Daarmee – in combinatie met relevante conceptuele kennis – kunnen leerlingen in het dagelijks leven een eigen mening vormen en beredeneerd beslissingen nemen over maatschappelijke en persoonlijke vragen waarin natuurwetenschappelijke kennis of technologie een rol speelt.\r\r\nDe natuurwetenschappelijke vakken staan niet los van de andere vakken. Veel natuurwetenschappelijke en technologische vraagstukken brengen maatschappelijke of morele aspecten met zich mee die zich lenen voor het onderzoeken van burgerschapsvraagstukken. Wiskunde speelt een onmisbare rol in de natuurwetenschappen, met name statistiek, wiskundig modelleren en het gebruik van wiskundige technieken. Digitale geletterdheid wordt binnen de vakken aangesproken en versterkt. Dat gebeurt bij het verzamelen,\r\r\ncategoriseren en presenteren van data en bij het gebruiken, aanpassen en maken van computermodellen. Verder zijn een goede algemene taalbeheersing en beheersing van de vaktaal noodzakelijk, zowel voor begripsontwikkeling als bij het formuleren van precieze en gestructureerde redeneringen. Op het vmbo bieden de vakken ondersteuning bij de beroepsgerichte vakken en praktijkgerichte programma’s, doordat leerlingen concepten, denk- en werkwijzen aanleren die hiervoor relevant zijn.",
+		"karakteristiek3": "Kenmerken van het vak natuurkunde\r\r\nNatuurkunde is de fundamentele wetenschap die materie bestudeert: haar gedrag in ruimte en tijd, haar fundamentele bouwstenen en concepten, zoals energie, straling en kracht, die nodig zijn voor deze bestudering. Ze doet dit op elke schaal: van subatomair tot kosmisch. In de natuurkunde spelen modellen een centrale rol. Natuurkundigen gebruiken deze modellen om te beschrijven, te verklaren en voorspellingen te doen. Deze modellen en voorspellingen vormen de basis voor de ontwikkeling en validatie van natuurkundige theorieën. Natuurkundige modellen kenmerken zich vaak door wiskundige formuleringen, abstractie en denkwijzen, zoals behoudswetten en het denken in ordes van grootte en verhoudingen.\r\r\nNatuurkunde wordt in heel uiteenlopende toepassingsgebieden gebruikt, onder andere in techniek, landbouw, chemie en zorg. Het vormt de basis voor veel technologische ontwikkelingen. De kennis en inzichten van natuurkunde spelen een belangrijke rol bij veel maatschappelijke vraagstukken, zoals energievoorziening en automatisering.",
+		"karakteristiek4": "Natuurkunde als schoolvak\r\r\nOp vmbo is natuurkunde een verplicht vak in de technische profielen. Daarnaast is het op vmbo-bb, -kb en -gl een profielkeuzevak in de profielen Groen en Dienstverlening & Producten. Op vmbo-tl is het een profielkeuzevak in het profiel Groen. Op havo en vwo is natuurkunde een verplicht vak in het profiel Natuur & Techniek en een profielkeuzevak in het profiel Natuur & Gezondheid.\r\r\nNatuurkunde kan in alle schoolsoorten en leerwegen ook in het vrije deel worden aangeboden. Natuurkunde wordt in alle schoolsoorten en leerwegen afgesloten met een schoolexamen en een centraal examen. Het vak brengt leerlingen in aanraking met verschillende deelgebieden van de natuurkunde en met een wiskundige manier van werken, en is daarmee relevant voor een brede waaier van mogelijke vervolgopleidingen. Daarnaast scherpt het vak het analytisch denken van leerlingen, wat nog veel breder van toegevoegde\r\r\nwaarde is.\r\r\nNatuurkunde in de schoolsoorten\r\r\nOp alle schoolsoorten en leerwegen is domein B Concepten het startpunt voor het examenprogramma.\r\r\nVmbo\r\r\nOp het vmbo is natuurkunde gericht op het herkennen en toepassen van natuurkundige inhouden in dagelijkse en beroepscontexten. Leerlingen leren natuurkundige modellen te gebruiken om situaties te beschrijven, onderdelen van een onderzoek uit te voeren en wiskunde te gebruiken voor praktisch relevante berekeningen. Leerlingen maken kennis met hedendaagse technieken en kijken hoe die toepasbaar zijn in praktische situaties. Dit alles bereidt hen voor op het mbo, vooral de technische opleidingen.\r\r\nVmbo-bb\r\r\nOp vmbo-bb is de inhoud vooral afgestemd op praktijksituaties en op de profielen waarin natuurkunde een plek heeft. Leerlingen leren woordformules te gebruiken in standaardsituaties en oefenen praktische vaardigheden.\r\r\nVmbo-kb\r\r\nOp vmbo-kb komen, naast de natuurkunde die bij past de profielen en praktijksituaties, meer algemeen vormende aspecten van natuurkunde aan bod. Leerlingen leren symboolformules te gebruiken en passen deze vaker toe dan op vmbo-bb. Ook oefenen ze met praktijkgerichte onderzoeksvaardigheden.\r\r\nVmbo-gl/tl\r\r\nOp vmbo-gl/tl is er, naast een brede algemeen vormende natuurkunde, ook plaats voor inhoud die is afgestemd op de profielen. Leerlingen worden voorbereid op de doorstroom naar het mbo of het havo. Ze leren formules om te schrijven en oefenen met praktijkgerichte onderzoeks- en ontwerpvaardigheden.\r\r\nHavo\r\r\nOp het havo is natuurkunde gericht op het toepassen van natuurwetten en natuurkundige technieken. Hierbij wordt geoefend met onderzoeken en ontwerpen. Leerlingen leren modellen aan te passen, de ontwerpcyclus te doorlopen en technologie te begrijpen en verklaren met behulp van natuurkundige kennis. Ze gebruiken wiskunde als veelzijdig instrument. Leerlingen maken kennis met het innoveren binnen de grenzen van bestaande natuurkundige kennis. Dit bereidt ze voor op een brede waaier van technische en medische opleidingen op het hbo.\r\r\nVwo\r\r\nOp het vwo is natuurkunde gericht op het inzicht krijgen in natuurwetten, materie en natuurkundige technieken. Daarom ligt er veel nadruk op fundamentele natuurkundige kennis en denkwijzen. Leerlingen leren modellen te ontwerpen voor bekende situaties, eigen onderzoeksvragen te formuleren en beantwoorden, en technieken en technologieën te analyseren en verbeteren. Ze leren wiskunde te gebruiken als taal binnen de natuurkunde. Leerlingen leren de grenzen van bestaande natuurkundige kennis te verkennen en te innoveren met nieuwe kennis. Dit bereidt ze voor op een brede waaier van wetenschappelijke vervolgopleidingen in de natuurwetenschappelijke, technische en medische sector.",
+		"replacedBy": [
+			"e8031e4b-d055-43bf-ac08-2701dafa2445"
+		],
+		"types": [
+			"fo_set"
+		]
+	},
+	{
+		"title": "Conceptexamenprogramma scheikunde havo",
+		"description": "Conceptexamenprogramma scheikunde havo (versie 2)",
+		"karakteristiek": "Kenmerken van de natuurwetenschappen en technologie\r\r\nScheikunde is – net als biologie en natuurkunde – een natuurwetenschappelijk schoolvak. Als zodanig is het nauw verweven met technologie en met de schoolvakken natuur, leven en technologie (nlt) en Onderzoek en Ontwerpen (O&O).\r\r\nDe natuurwetenschappen bestuderen de natuurlijke werkelijkheid, technologie verandert haar. Natuurwetenschappen onderzoeken de natuurlijke wereld om ons heen, zowel levend als niet-levend. Dat doen ze op alle schalen met behulp van theorie- en modelvorming, toetsbare voorspelling en waarneming. Technologie hanteert kennis en vaardigheden voor het ontwerpen, bouwen en gebruiken van voorwerpen en systemen om problemen op te lossen en behoeften te vervullen. Bij het onderzoeken en ontwerpen maken natuurwetenschappen en technologie gebruik van vergelijkbare en specifieke denk- en werkwijzen. De resultaten van de natuurwetenschappen en van technologie – evenals de ontwikkeling van hun methodes – zijn het product van menselijk handelen. Ze maken al eeuwen deel uit van de menselijke cultuur.\r\r\nNatuurwetenschappelijke en technologische ontwikkeling versterken elkaar. Hiermee krijgen mensen steeds weer nieuwe manieren om hun leef- en werkomgeving te begrijpen en beïnvloeden. Dat laatste biedt kansen, maar ook uitdagingen voor de maatschappij en planeet aarde.",
+		"id": "d47b5df7-3f86-4546-b309-b7e3fcbd9729",
+		"vakleergebied_id": [
+			"364c2519-7d9e-47d8-b3bd-371cee8583df"
+		],
+		"fo_domein_id": [
+			"b7ebc144-b2e5-49c8-9c7d-9d1c577908e4",
+			"1d700883-11d6-4166-9b22-88194e7094eb",
+			"928e84b1-593e-4d7c-b425-2b4541b0bd29",
+			"957c8ad5-6595-4902-8d8c-482fb1455621",
+			"5ddd705a-8627-47b6-8dcd-d5159f741210",
+			"70df5259-0756-43d8-be0e-eab535e84d8d"
+		],
+		"status": "concept",
+		"replaces": [
+			"d6f6ee9f-fc9a-4740-9b57-9c7e5051bcd3",
+			"4eb54ccc-7c8c-41ce-9ca0-06c2b107e3b5",
+			"850a96dc-6dc8-403c-873b-2b7273eaffc1"
+		],
+		"settype": "examenprogramma",
+		"karakteristiek2": "Natuurwetenschappen en technologie in de schoolvakken\r\r\nIn de onderbouw wordt via de kerndoelen mens en natuur de basis gelegd voor natuurwetenschappelijke en technologische concepten, denkwijzen en werkwijzen. In de bovenbouw worden deze verder uitgediept in de disciplinaire vakken biologie, natuurkunde en scheikunde, en op havo en vwo de interdisciplinaire vakken nlt en O&O. Het zijn profiel(keuze)vakken met een algemeen vormend karakter. Van onderbouw naar bovenbouw verschuift de nadruk. In de onderbouw gaat het vooral om inhouden die leerlingen nodig hebben in hun persoonlijk leven en als burger in de samenleving. In de bovenbouw zijn de inhouden meer relevant voor vervolgopleidingen en toekomstige werkvelden en beroepen.\r\r\nDe natuurwetenschappelijke en technologische denk- en werkwijzen dragen bij aan de ontwikkeling van een onderzoekende houding en het probleemoplossend vermogen van leerlingen. Samenwerken en reflectie op eigen bijdragen en interesses ondersteunen hun persoonlijke ontwikkeling. De vakken besteden aandacht aan hoe natuurwetenschappelijke kennis en technologische producten tot stand komen. Dit stelt leerlingen in staat de waarde en betrouwbaarheid van uitspraken over natuurwetenschappen en technologie te beoordelen. Daarmee – in combinatie met relevante conceptuele kennis – kunnen leerlingen in het dagelijks leven een eigen mening vormen en beredeneerd beslissingen nemen over maatschappelijke en persoonlijke vragen waarin natuurwetenschappelijke kennis of technologie een rol speelt.\r\r\nDe natuurwetenschappelijke vakken staan niet los van de andere vakken. Veel natuurwetenschappelijke en technologische vraagstukken brengen maatschappelijke of morele aspecten met zich mee die zich lenen voor het onderzoeken van burgerschapsvraagstukken. Wiskunde speelt een onmisbare rol in de natuurwetenschappen, met name statistiek, wiskundig modelleren en het gebruik van wiskundige technieken. Digitale geletterdheid wordt binnen de vakken aangesproken en versterkt. Dat gebeurt bij het verzamelen, categoriseren en presenteren van data en bij het gebruiken, aanpassen en maken van computermodellen. Verder zijn een goede algemene taalbeheersing en beheersing van de vaktaal noodzakelijk, zowel voor begripsontwikkeling als bij het formuleren van precieze en gestructureerde redeneringen. Op het vmbo bieden de vakken ondersteuning bij de beroepsgerichte vakken en praktijkgerichte programma’s, doordat leerlingen concepten, denk- en werkwijzen aanleren die hiervoor relevant zijn.",
+		"karakteristiek3": "Kenmerken van de discipline chemie\r\r\nBij scheikunde worden inhouden geleerd uit de sector en discipline chemie. Chemici gebruiken en bestuderen de eigenschappen van stoffen, hun samenstelling, bouw en interactie. Op basis van de verkregen kennis maken ze verantwoorde keuzes over de toepassing van stoffen, of maken nieuwe materialen. Chemici zetten hun kennis en vaardigheden in om processen op moleculaire en productieschaal te sturen en te controleren, in de chemische industrie, voedingsmiddelenindustrie, farmaceutische industrie/farmacie en in medische werksituaties. Dit betekent dat experimenten, analyses van samenstellingen, ontwerpen van installaties en modellen van reacties en mechanismen tot chemische fabrieken deel uit maken van het werkterrein van chemici. \r\r\nBij het oplossen van fundamentele en toepassingsgerichte chemische vraagstukken spelen planmatig en creatief denken een belangrijke rol naast de natuurwetenschappelijke denkwijzen, zoals denken in systemen en systeemmodellen, stabiliteit en verandering, structuur-eigenschappen, orde van grootte en verhoudingen en redeneren over behoudswetten en kringlopen.  \r\r\nDe door chemici ontwikkelde kennis en technologie dragen bij aan oplossingen voor lokale, nationale of wereldwijde vraagstukken: energiegebruik en -opslag, milieu, gezondheid, voedsel, grondstoffengebruik en circulaire productie.",
+		"karakteristiek4": "Scheikunde als schoolvak\r\r\nOp vmbo-gl/tl is scheikunde een keuzevak voor alle profielen. Op het havo en vwo is scheikunde een verplicht vak voor de profielen Natuur & Gezondheid en Natuur & Techniek. In alle andere profielen kan scheikunde ook in het vrije deel worden aangeboden. Scheikunde wordt in alle schoolsoorten afgesloten met een schoolexamen (SE) en een centraal examen (CE). \r\r\nHet schoolvak scheikunde ondersteunt leerlingen bij het maken van geïnformeerde keuzes over de genoemde vraagstukken, en het handelen ernaar. Hiervoor reflecteren leerlingen op de verbanden tussen de werkelijkheid om ons heen en de deeltjes waaruit die is opgebouwd. Leerlingen leren deze verbanden te beschrijven in scheikundige concepten, formule- en beeldtaal. Ze worden zich ervan bewust dat keuzes impact kunnen hebben op de directe omgeving, maatschappij en aarde. In alle schoolsoorten leren de leerlingen scheikundige experimenten op te zetten en uit te voeren, en leren ze de daarvoor relevante praktische vaardigheden. \r\r\n\r\r\nScheikunde in de schoolsoorten\r\r\nOp vmbo-gl/tl geldt dat het domein Vraagstukken het startpunt is voor zowel het CE-deel als het SE-deel. Op havo en vwo geldt dat voor het CE-deel van het programma het domein Concepten het startpunt is en voor het SE-deel het domein Vraagstukken.\r\r\nVmbo\r\r\nOp vmbo-gl/tl leren leerlingen scheikundige inhouden die relevant zijn voor hun leefwereld. Daarnaast dient het vak als basis voor de toekomstige beroepspraktijk en de doorstroom naar het mbo en havo. Leerlingen komen in aanraking met beroepsbeelden waarin de focus ligt op het uitvoeren en ondersteunen van onderzoek in de gezondheidszorg en voedingsindustrie, het besturen en beheersen van productieprocessen en kwaliteitsbewaking in de genoemde sectoren.\r\r\nHavo\r\r\nOp het havo leren leerlingen scheikundige inhouden die relevant zijn voor hun leefwereld, de toekomstige beroepspraktijk en de doorstroom naar het hbo en vwo. Ze leren een onderzoek uitvoeren of een ontwerp maken, gebruikmakend van bestaande theorieën, modellen en methoden, waarmee ze zich voorbereiden op het hbo. Op havo staan praktijkonderzoek, ontwikkel- en optimalisatievraagstukken centraal.\r\r\nVwo\r\r\nOp het vwo leren leerlingen chemische inhouden die relevant zijn voor hun leefwereld en voor de doorstroom naar de toekomstige beroepspraktijk of een academische vervolgstudie. Daarom ligt het accent op fundamentele kennis, en op het formuleren, beantwoorden en oplossen van eigen onderzoeks- of ontwerpvragen. Door keuzeonderwerpen aan te bieden worden de grenzen opgezocht van wetenschappelijke en technologische kennis. Dit bereidt leerlingen voor op wetenschappelijke vervolgopleidingen.",
+		"replacedBy": [
+			"d9e4ac6a-b646-46b8-894a-87f474f87192"
+		],
+		"types": [
+			"fo_set"
+		]
+	},
+	{
+		"title": "Conceptexamenprogramma scheikunde vwo",
+		"description": "Conceptexamenprogramma scheikunde vwo (versie 2)",
+		"karakteristiek": "Kenmerken van de natuurwetenschappen en technologie\r\r\nScheikunde is – net als biologie en natuurkunde – een natuurwetenschappelijk schoolvak. Als zodanig is het nauw verweven met technologie en met de schoolvakken natuur, leven en technologie (nlt) en Onderzoek en Ontwerpen (O&O).\r\r\nDe natuurwetenschappen bestuderen de natuurlijke werkelijkheid, technologie verandert haar. Natuurwetenschappen onderzoeken de natuurlijke wereld om ons heen, zowel levend als niet-levend. Dat doen ze op alle schalen met behulp van theorie- en modelvorming, toetsbare voorspelling en waarneming. Technologie hanteert kennis en vaardigheden voor het ontwerpen, bouwen en gebruiken van voorwerpen en systemen om problemen op te lossen en behoeften te vervullen. Bij het onderzoeken en ontwerpen maken natuurwetenschappen en technologie gebruik van vergelijkbare en specifieke denk- en werkwijzen. De resultaten van de natuurwetenschappen en van technologie – evenals de ontwikkeling van hun methodes – zijn het product van menselijk handelen. Ze maken al eeuwen deel uit van de menselijke cultuur.\r\r\nNatuurwetenschappelijke en technologische ontwikkeling versterken elkaar. Hiermee krijgen mensen steeds weer nieuwe manieren om hun leef- en werkomgeving te begrijpen en beïnvloeden. Dat laatste biedt kansen, maar ook uitdagingen voor de maatschappij en planeet aarde.",
+		"id": "d2ef5cd4-3ce5-451c-88bf-1aded54a588d",
+		"vakleergebied_id": [
+			"364c2519-7d9e-47d8-b3bd-371cee8583df"
+		],
+		"fo_domein_id": [
+			"62543e2f-fbd6-4f85-b3ac-42419d7d6608",
+			"b374b0fd-239c-4a0e-8cbc-2370c0c05454",
+			"d448cf78-8041-417a-8d63-ee3aee5336aa",
+			"dbd66c1c-507c-4122-9146-9865cc463303",
+			"c9301f10-fd27-4984-b14e-8b3efdf1fa23",
+			"8e5283a9-4be2-4140-9452-9f32cda35d0e"
+		],
+		"status": "concept",
+		"replaces": [
+			"8575c68e-d0bc-4325-8094-6b785e1780bc",
+			"66c9522d-de81-482d-a85f-c30e3c01482e",
+			"25b1e70c-f10d-4094-9236-1528726aaefc"
+		],
+		"settype": "examenprogramma",
+		"karakteristiek2": "Natuurwetenschappen en technologie in de schoolvakken\r\r\nIn de onderbouw wordt via de kerndoelen mens en natuur de basis gelegd voor natuurwetenschappelijke en technologische concepten, denkwijzen en werkwijzen. In de bovenbouw worden deze verder uitgediept in de disciplinaire vakken biologie, natuurkunde en scheikunde, en op havo en vwo de interdisciplinaire vakken nlt en O&O. Het zijn profiel(keuze)vakken met een algemeen vormend karakter. Van onderbouw naar bovenbouw verschuift de nadruk. In de onderbouw gaat het vooral om inhouden die leerlingen nodig hebben in hun persoonlijk leven en als burger in de samenleving. In de bovenbouw zijn de inhouden meer relevant voor vervolgopleidingen en toekomstige werkvelden en beroepen.\r\r\nDe natuurwetenschappelijke en technologische denk- en werkwijzen dragen bij aan de ontwikkeling van een onderzoekende houding en het probleemoplossend vermogen van leerlingen. Samenwerken en reflectie op eigen bijdragen en interesses ondersteunen hun persoonlijke ontwikkeling. De vakken besteden aandacht aan hoe natuurwetenschappelijke kennis en technologische producten tot stand komen. Dit stelt leerlingen in staat de waarde en betrouwbaarheid van uitspraken over natuurwetenschappen en technologie te beoordelen. Daarmee – in combinatie met relevante conceptuele kennis – kunnen leerlingen in het dagelijks leven een eigen mening vormen en beredeneerd beslissingen nemen over maatschappelijke en persoonlijke vragen waarin natuurwetenschappelijke kennis of technologie een rol speelt.\r\r\nDe natuurwetenschappelijke vakken staan niet los van de andere vakken. Veel natuurwetenschappelijke en technologische vraagstukken brengen maatschappelijke of morele aspecten met zich mee die zich lenen voor het onderzoeken van burgerschapsvraagstukken. Wiskunde speelt een onmisbare rol in de natuurwetenschappen, met name statistiek, wiskundig modelleren en het gebruik van wiskundige technieken. Digitale geletterdheid wordt binnen de vakken aangesproken en versterkt. Dat gebeurt bij het verzamelen, categoriseren en presenteren van data en bij het gebruiken, aanpassen en maken van computermodellen. Verder zijn een goede algemene taalbeheersing en beheersing van de vaktaal noodzakelijk zowel voor begripsontwikkeling als bij het formuleren van precieze en gestructureerde redeneringen. Op het vmbo bieden de vakken ondersteuning bij de beroepsgerichte vakken en praktijkgerichte programma’s, doordat leerlingen concepten, denk- en werkwijzen aanleren die hiervoor relevant zijn.",
+		"karakteristiek3": "Kenmerken van de discipline chemie\r\r\nBij scheikunde worden inhouden geleerd uit de sector en discipline chemie. Chemici gebruiken en bestuderen de eigenschappen van stoffen, hun samenstelling, bouw en interactie. Op basis van de verkregen kennis maken ze verantwoorde keuzes over de toepassing van stoffen, of maken nieuwe materialen. Chemici zetten hun kennis en vaardigheden in om processen op moleculaire en productieschaal te sturen en te controleren, in de chemische industrie, voedingsmiddelenindustrie, farmaceutische industrie/farmacie en in medische werksituaties. Dit betekent dat experimenten, analyses van samenstellingen, ontwerpen van installaties en modellen van reacties en mechanismen tot chemische fabrieken deel uit maken van het werkterrein van chemici. \r\r\nBij het oplossen van fundamentele en toepassingsgerichte chemische vraagstukken spelen planmatig en creatief denken een belangrijke rol naast de natuurwetenschappelijke denkwijzen, zoals denken in systemen en systeemmodellen, stabiliteit en verandering, structuur-eigenschappen, orde van grootte en verhoudingen en redeneren over behoudswetten en kringlopen.\r\r\nDe door chemici ontwikkelde kennis en technologie dragen bij aan oplossingen voor lokale, nationale of wereldwijde vraagstukken: energiegebruik en -opslag, milieu, gezondheid, voedsel, grondstoffengebruik en circulaire productie.",
+		"karakteristiek4": "Scheikunde als schoolvak\r\r\nOp het vmbo-gl/tl is scheikunde een keuzevak voor alle profielen. Op het havo en vwo is scheikunde een verplicht vak voor de profielen Natuur & Gezondheid en Natuur & Techniek. In alle andere profielen kan scheikunde ook in het vrije deel worden aangeboden. Scheikunde wordt in alle schoolsoorten afgesloten met een schoolexamen (SE) en een centraal examen (CE).\r\r\nHet schoolvak scheikunde ondersteunt leerlingen bij het maken van geïnformeerde keuzes over de genoemde vraagstukken, en het handelen ernaar. Hiervoor reflecteren leerlingen op de verbanden tussen de werkelijkheid om ons heen en de deeltjes waaruit die is opgebouwd. Leerlingen leren deze verbanden te beschrijven in scheikundige concepten, formule- en beeldtaal. Ze worden zich ervan bewust dat keuzes impact kunnen hebben op de directe omgeving, maatschappij en aarde. In alle schoolsoorten leren de leerlingen scheikundige experimenten op te zetten en uit te voeren, en leren ze de daarvoor relevante praktische vaardigheden.\r\r\n\r\r\nScheikunde in de schoolsoorten\r\r\nOp vmbo-gl/tl geldt dat het domein Vraagstukken startpunt is voor zowel het CE-deel als het SE-deel. Op havo en vwo geldt dat voor het CE-deel van het programma het domein Concepten het startpunt is en voor het SE-deel het domein Vraagstukken.\r\r\nVmbo\r\r\nOp vmbo-gl/tl leren leerlingen scheikundige inhouden die relevant zijn voor hun leefwereld. Daarnaast dient het als basis voor de toekomstige beroepspraktijk en de doorstroom naar het mbo en havo. Leerlingen komen in aanraking met beroepsbeelden waarin de focus ligt op het uitvoeren en ondersteunen van onderzoek in de gezondheidszorg en voedingsindustrie, het besturen en beheersen van productieprocessen en kwaliteitsbewaking in de genoemde sectoren.\r\r\nHavo\r\r\nOp het havo leren leerlingen scheikundige inhouden die relevant zijn voor hun leefwereld, de toekomstige beroepspraktijk en de doorstroom naar het hbo en vwo. Ze leren een onderzoek uitvoeren of een ontwerp maken, gebruikmakend van bestaande theorieën, modellen en methoden, waarmee ze zich voorbereiden op het hbo. Op havo staan praktijkonderzoek, ontwikkel- en optimalisatievraagstukken centraal.\r\r\nVwo\r\r\nOp het vwo leren leerlingen chemische inhouden die relevant zijn voor hun leefwereld en voor de doorstroom naar de toekomstige beroepspraktijk of een academische vervolgstudie. Daarom ligt het accent op fundamentele kennis, en op het formuleren, beantwoorden en oplossen van eigen onderzoeks- of ontwerpvragen. Door keuzeonderwerpen aan te bieden worden de grenzen opgezocht van wetenschappelijke en technologische kennis. Dit bereidt leerlingen voor op wetenschappelijke vervolgopleidingen.",
+		"replacedBy": [
+			"c43c53bb-2a1e-4bd9-9081-21e5fcaba521"
+		],
+		"types": [
+			"fo_set"
+		]
+	},
+	{
+		"title": "Examenprogramma natuur, leven en technologie vwo",
+		"description": "Definitief conceptexamenprogramma natuur, leven en technologie vwo",
+		"karakteristiek": "Kenmerken van de natuurwetenschappen en technologie\r\r\nHet schoolvak Natuur, Leven en Technologie (NLT) heeft een basis vanuit de natuurwetenschappen en technologie en is daarmee nauw verweven met de schoolvakken biologie, natuurkunde, scheikunde en Onderzoek en Ontwerpen. \r\r\nDe natuurwetenschappen bestuderen de natuurlijke werkelijkheid, technologie verandert haar. Natuurwetenschappen onderzoeken de natuurlijke wereld om ons heen, zowel levend als niet-levend. Dat doen ze op alle schalen met behulp van theorie- en modelvorming, toetsbare voorspelling en waarneming. Technologie hanteert kennis en vaardigheden voor het ontwerpen, bouwen en gebruiken van voorwerpen en systemen om problemen op te lossen en behoeften te vervullen. Bij het onderzoeken en ontwerpen maken natuurwetenschappen en technologie gebruik van vergelijkbare en specifieke denk- en werkwijzen. De resultaten van de natuurwetenschappen en van technologie – evenals de ontwikkeling van hun methodes – zijn het product van menselijk handelen. Ze maken al eeuwen deel uit van de menselijke cultuur.\r\r\nNatuurwetenschappelijke en technologische ontwikkelingen versterken elkaar. Hierdoor krijgen mensen steeds weer nieuwe manieren om hun leef- en werkomgeving te begrijpen en beïnvloeden. Dat laatste biedt kansen, maar ook uitdagingen voor de maatschappij en de planeet aarde.",
+		"id": "d6893c06-cf68-4c29-afbe-832109d3666b",
+		"vakleergebied_id": [
+			"956d0d86-90f3-443b-a418-52fd9b912661"
+		],
+		"fo_domein_id": [
+			"e749c0be-a017-4a14-92a7-e340af56fcf9",
+			"356827f1-350a-4c8e-9d4b-0b44e1ad715f",
+			"685b67a7-4167-4a8e-9dfe-7f92b6e34cc4",
+			"4eefe2d4-bf4e-4571-af01-078c2b22e942",
+			"b708d39e-204f-4f64-b4d1-1789c094b3bc",
+			"71167f9a-b9ea-48d0-9862-5eeb65562f59"
+		],
+		"status": "definitief concept",
+		"replaces": [
+			"aa3f2f1d-dd40-4191-beab-36366d8a3cf2",
+			"cc01ce9f-326f-4fcc-8157-cee2f445195b"
+		],
+		"settype": "examenprogramma",
+		"karakteristiek2": "Natuurwetenschappen en technologie in de schoolvakken\r\r\nIn de onderbouw leggen de kerndoelen mens en natuur een basis voor natuurwetenschappelijke en technologische denkwijzen, werkwijzen en concepten. Daarnaast komen leerlingen in aanraking met vraagstukken en de aard van natuurwetenschappen en technologie. Het gaat in de kerndoelen vooral om inhouden die leerlingen nodig hebben in hun persoonlijk leven en als burger in de samenleving. In de bovenbouw diepen de natuurwetenschappelijke vakken dit verder uit. De nadruk ligt dan op inhouden die relevant zijn voor vervolgopleidingen, toekomstige werkvelden en beroepen. Het grootste verschil tussen de onderbouw en de bovenbouw ligt in de complexiteit en de vereiste diepgang van kennis, en in de mate van zelfstandigheid van de leerlingen.\r\r\nDe natuurwetenschappelijke en technologische denk- en werkwijzen dragen bij aan de ontwikkeling van een onderzoekende houding en het probleemoplossend vermogen van leerlingen. Samenwerken en reflectie op de eigen bijdragen en interesses ondersteunen hun persoonlijke ontwikkeling. De schoolvakken besteden aandacht aan hoe natuurwetenschappelijke kennis en technologische producten tot stand komen. Op die manier zijn leerlingen in staat om de waarde en betrouwbaarheid van uitspraken over natuurwetenschappen en technologie te beoordelen. Daarmee – in combinatie met relevante conceptuele kennis – kunnen leerlingen in het dagelijks leven een eigen mening vormen en beredeneerd beslissingen nemen over maatschappelijke en persoonlijke vragen waarin natuurwetenschappelijke kennis of technologie een rol speelt. \r\r\nDe natuurwetenschappelijke vakken staan niet los van de andere vakken. Veel natuurwetenschappelijke en technologische vraagstukken bieden contexten waarin burgerschap betekenis krijgt. Wiskunde speelt een onmisbare rol in de natuurwetenschappen, met name statistiek en het gebruik van wiskundige vaardigheden. Digitale geletterdheid wordt binnen de vakken aangesproken en versterkt. Dit gebeurt bij het verwerken van data en bij het gebruiken, aanpassen en maken van modellen. Verder zijn geletterdheid, een goede algemene taalbeheersing en beheersing van de vaktaal noodzakelijk voor zowel begripsontwikkeling als voor het formuleren van precieze en gestructureerde redeneringen.",
+		"karakteristiek3": "Kenmerken van het vak NLT\r\r\nBij NLT leren leerlingen werken aan wetenschappelijke en maatschappelijke vraagstukken die een interdisciplinaire aanpak vereisen. Een aantal van de vraagstukken is gebaseerd op de Sustainable Development Goals. Elk vraagstuk wordt vanuit verschillende disciplines en perspectieven benaderd. Leerlingen komen hierdoor in aanraking met voor het vraagstuk relevante concepten uit de aardrijkskunde, biologie, informatica, natuurkunde, scheikunde en wiskunde. Ze ontdekken de rol van de natuurwetenschappen en technologie om tot inzichten en oplossingen van het vraagstuk te komen. Daarnaast leren ze zich te verhouden tot de oplossingen voor deze vraagstukken.  \r\r\nHet toepassen en verwerven van natuurwetenschappelijke kennis en vaardigheden gebeurt door een combinatie van theorie en praktisch handelen. Het gaat hierbij om samenwerken, onderzoeken, ontwerpen en ervaringen opdoen buiten de school. Bij het vak NLT ligt er grote nadruk op het ontdekken van het brede spectrum aan vervolgopleidingen en beroepen die aansluiten bij de natuurprofielen. Zo halen leerlingen cognitieve doelen en doen ze een breed scala aan ervaringen op.\r\r\nNLT als schoolvak\r\r\nHet vak NLT is een profielkeuzevak in de profielen Natuur & Gezondheid en Natuur & Techniek van het havo en het vwo. Het vak kan in de andere profielen in het vrije deel aangeboden worden. NLT bouwt voort op de onderbouw en op kennis en vaardigheden uit de schoolvakken aardrijkskunde, biologie, informatica, natuurkunde, scheikunde en wiskunde. NLT wordt afgesloten met een schoolexamen.",
+		"karakteristiek4": "NLT in de schoolsoorten\r\r\nOp zowel havo als vwo is het domein Vraagstukken de kern van het examenprogramma. Op beide schoolsoorten werken de leerlingen aan vraagstukken, waarin leerlingen inhouden uit verschillende natuurwetenschappen integreren.\r\r\nHavo\r\r\nOp het havo werkt een leerling vanuit minimaal twee natuurwetenschappelijke of technologische disciplines aan een vraagstuk. Daarbij gaat het om het toepassen van natuurwetenschappelijke en technologische kennis en vaardigheden, en om het adviseren over de voor- en nadelen van mogelijke oplossingen. Leerlingen doen ervaringen op met samenwerken en zelfregulatie in leersituaties.\r\r\nVwo\r\r\nOp het vwo werkt een leerling vanuit minimaal drie natuurwetenschappelijke of technologische disciplines aan een vraagstuk. Daarbij gaat het om het toepassen van natuurwetenschappelijke en technologische kennis en vaardigheden, en om het onderbouwen van mogelijke oplossingen met theorieën en modellen. Kenmerkend voor het vwo is dat leerlingen niet alleen werken aan maatschappelijk vraagstukken, maar ook aan fundamentele wetenschappelijke vraagstukken. Ze reflecteren op hun ervaringen met samenwerken en zelfregulatie in leersituaties.",
+		"replacedBy": [
+			"73970427-ccbf-4e21-b7c4-35dfd5c326bd"
+		],
+		"types": [
+			"fo_set"
+		]
+	},
+	{
+		"title": "Examenprogramma onderzoek en ontwerpen vwo",
+		"description": "Definitief conceptexamenprogramma Onderzoek en Ontwepen vwo",
+		"karakteristiek": "Kenmerken van de natuurwetenschappen en technologie\r\r\nHet schoolvak Onderzoek en Ontwerpen (O&O) heeft een basis vanuit de natuurwetenschappen en technologie en is daarmee nauw verweven met de schoolvakken biologie, natuurkunde, scheikunde en Natuur, Leven en Technologie. \r\r\nDe natuurwetenschappen bestuderen de natuurlijke werkelijkheid, technologie verandert haar. Natuurwetenschappen onderzoeken de natuurlijke wereld om ons heen, zowel levend als niet-levend. Dat doen ze op alle schalen met behulp van theorie- en modelvorming, toetsbare voorspelling en waarneming. Technologie hanteert kennis en vaardigheden voor het ontwerpen, bouwen en gebruiken van voorwerpen en systemen om problemen op te lossen en behoeften te vervullen. Bij het onderzoeken en ontwerpen maken natuurwetenschappen en technologie gebruik van vergelijkbare en specifieke denk- en werkwijzen. De resultaten van de natuurwetenschappen en van technologie – evenals de ontwikkeling van hun methodes – zijn het product van menselijk handelen. Ze maken al eeuwen deel uit van de menselijke cultuur.\r\r\nNatuurwetenschappelijke en technologische ontwikkelingen versterken elkaar. Hierdoor krijgen mensen steeds weer nieuwe manieren om hun leef- en werkomgeving te begrijpen en beïnvloeden. Dat laatste biedt kansen, maar ook uitdagingen voor de maatschappij en de planeet aarde.",
+		"id": "c6b9add8-dc33-4dd3-b4ae-30ede5c1cae9",
+		"vakleergebied_id": [
+			"18a4aa0c-3bd2-445e-a19e-c142f0cd3de4"
+		],
+		"fo_domein_id": [
+			"853b4500-1df3-4cc4-b223-bfb743cd5a52",
+			"75565068-bca3-491c-b49a-6af2d2e112ca",
+			"073a862b-287c-4e58-9c8f-7d3d59d35612",
+			"a7ccbf43-1d70-4d1f-9756-1f7c69b4e3a7",
+			"dd8c8697-f64c-44f9-8157-ca2da4cae3cd",
+			"cdc32130-c37f-46c5-bc58-6e918689defd"
+		],
+		"status": "definitief concept",
+		"replaces": [
+			"ff016c74-92e2-4215-a1d8-cd379f7a8ea5",
+			"6b223829-2742-4a2b-b6bf-5fe32e2a2e60"
+		],
+		"settype": "examenprogramma",
+		"karakteristiek2": "Natuurwetenschappen en technologie in de schoolvakken\r\r\nIn de onderbouw leggen de kerndoelen mens en natuur een basis voor natuurwetenschappelijke en technologische denkwijzen, werkwijzen en concepten. Daarnaast komen leerlingen in aanraking met vraagstukken en de aard van natuurwetenschappen en technologie. Het gaat in de kerndoelen vooral om inhouden die leerlingen nodig hebben in hun persoonlijk leven en als burger in de samenleving. In de bovenbouw diepen de natuurwetenschappelijke vakken dit verder uit. De nadruk ligt dan op inhouden die relevant zijn voor vervolgopleidingen, toekomstige werkvelden en beroepen. Het grootste verschil tussen de onderbouw en de bovenbouw ligt in de complexiteit en de vereiste diepgang van kennis en in de mate van zelfstandigheid van de leerlingen.\r\r\nDe natuurwetenschappelijke en technologische denk- en werkwijzen dragen bij aan de ontwikkeling van een onderzoekende houding en het probleemoplossend vermogen van leerlingen. Samenwerken en reflectie op de eigen bijdragen en interesses ondersteunen hun persoonlijke ontwikkeling. De schoolvakken besteden aandacht aan hoe natuurwetenschappelijke kennis en technologische producten tot stand komen. Op die manier zijn leerlingen in staat om de waarde en betrouwbaarheid van uitspraken over natuurwetenschappen en technologie te beoordelen. Daarmee – in combinatie met relevante conceptuele kennis – kunnen leerlingen in het dagelijks leven een eigen mening vormen en beredeneerd beslissingen nemen over maatschappelijke en persoonlijke vragen waarin natuurwetenschappelijke kennis of technologie een rol speelt. \r\r\nDe natuurwetenschappelijke vakken staan niet los van de andere vakken. Veel natuurwetenschappelijke en technologische vraagstukken bieden contexten waarin burgerschap betekenis krijgt. Wiskunde speelt een onmisbare rol in de natuurwetenschappen, met name statistiek en het gebruik van wiskundige vaardigheden. Digitale geletterdheid wordt binnen de vakken aangesproken en versterkt. Dit gebeurt bij het verwerken van data en bij het gebruiken, aanpassen en maken van modellen. Verder zijn geletterdheid, een goede algemene taalbeheersing en beheersing van de vaktaal noodzakelijk voor zowel begripsontwikkeling als voor het formuleren van precieze en gestructureerde redeneringen.",
+		"karakteristiek3": "Kenmerken van het vak Onderzoek en Ontwerpen\r\r\nHet vak O&O biedt leerlingen de kans om zowel onderzoeks- als ontwerpvaardigheden te ontwikkelen, waarbij ze tegelijkertijd werken aan hun persoonlijke ontwikkeling. Bij O&O werken leerlingen in teamverband aan levensechte projecten afkomstig van externe opdrachtgevers. Hierbij leren ze op een systematische manier nieuwe kennis te vergaren en oplossingen te ontwikkelen. Ze worden vertrouwd met planmatig werken en verschillende ontwerp- en onderzoeksmethodieken. Leerlingen leren hoe ze onderzoeks- en ontwerpvragen kunnen formuleren. Door middel van praktisch werk komen ze tot verklaringen en oplossingen, die uiteindelijk worden gepresenteerd aan de betrokken partijen. Deze projecten zijn vaak interdisciplinair van aard en vereisen een natuurwetenschappelijke en technologische aanpak. Leerlingen leren verbanden te leggen tussen het project en bredere maatschappelijke, technologische en wetenschappelijke vraagstukken, waarbij soms ook sociale en kunstzinnige concepten nodig zijn.\r\r\nDaarnaast ontwikkelen leerlingen andere belangrijke vaardigheden. Ze leren met een proactieve houding samen te werken, initiatief te nemen en te communiceren binnen een groep en met externe partijen. Het werken aan levensechte projecten en de daaropvolgende reflectie helpt hen bij hun voorbereiding op vervolgopleidingen in de natuurwetenschappen of technologie. Ze komen in contact met verschillende beroepen door samen te werken met experts, bedrijven en instellingen. Reflectie op deze ervaringen draagt bij aan de ontwikkeling van hun handelen, kwaliteiten en motieven. Deze vaardigheden bereiden hen voor op toekomstige situaties, zowel op het gebied van verdere studie als in hun latere carrière.",
+		"karakteristiek4": "Onderzoek en Ontwerpen als schoolvak\r\r\nHet vak O&O wordt aangeboden op zowel het havo als het vwo. Het is een profielkeuzevak binnen de profielen Natuur & Gezondheid en Natuur & Techniek. Het vak kan ook in het vrije deel van het curriculum aangeboden worden. O&O kent uitsluitend een schoolexamen.\r\r\nOnderzoek en Ontwerpen in de schoolsoorten\r\r\nOp zowel havo als vwo is het domein Werkwijzen het startpunt voor het examenprogramma. Op beide schoolsoorten staat het werken aan levensechte projecten door middel van onderzoek en ontwerpen centraal. Wel zijn er verschillen tussen de examenprogramma’s van het havo en het vwo. Deze zijn zichtbaar in de samenwerking met de opdrachtgever en de complexiteit van de projecten in combinatie met de keuze in denk- en werkwijzen.\r\r\nHavo\r\r\nLeerlingen voeren praktijkgericht onderzoek uit, waarbij ze natuurwetenschappelijke en technologische kennis toepassen. Ze worden ondersteund in het gebruik van onderzoeks- en ontwerpmethodieken, waardoor ze goed voorbereid worden op een hbo-opleiding. De rollen waar leerlingen zich in projecten mee bezig houden, sluiten aan bij de rollen van op het hbo opgeleide professionals.\r\r\nVwo\r\r\nLeerlingen voeren praktijkgericht onderzoek uit en doen daardoor voor hen nieuwe kennis op. Ze leren wetenschappelijke en technologische kennis te integreren en gebruiken diverse onderzoek- en ontwerpmethodieken. Er wordt verwacht dat leerlingen iteratief kunnen werken aan hun project. Ook is redeneren met systemen vereist. De abstractie en complexiteit van de vraagstukken zijn hoger dan op het havo, zodat leerlingen goed worden voorbereid op wetenschappelijke vervolgopleidingen. De rollen waar leerlingen zich in projecten mee bezighouden, sluiten aan bij de rollen van wetenschappelijk opgeleide professionals.",
+		"replacedBy": [
+			"8f1315f5-f8ff-45f1-80da-cccf76717b16"
+		],
+		"types": [
+			"fo_set"
+		]
+	},
+	{
+		"title": "Keuzedomein H",
+		"description": "Taalbeschouwing",
+		"prefix": "H",
+		"id": "bee51e26-5d8f-4332-bef2-d8c33a61c999",
+		"fo_doelzin_id": [
+			"a1e4b855-eed7-4e69-84f1-27f9a4ce53ee",
+			"3b00783b-6bed-4159-897f-f6d45e069854",
+			"f8640692-aa39-4e08-b16b-326f766d9791"
+		],
+		"replaces": [
+			"d35e7b39-f968-4520-9f89-7f8d3bafff4b",
+			"2bc8f863-a91a-426b-b13e-741df573f9b8"
+		],
+		"replacedBy": [
+			"42104520-3dd3-4e13-91a0-43c4e3ed00d5"
+		],
+		"types": [
+			"fo_domein"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Zelfontwikkeling",
+		"prefix": "C",
+		"id": "7b1ed2f6-9b41-41dd-8242-da5c82fc7e7c",
+		"fo_doelzin_id": [
+			"ce078b5d-a264-4ee1-8e83-d063c78cd529",
+			"e5fee155-cd30-4ba8-810c-3009408bd68a",
+			"cc61486b-deaa-4d58-9433-bb32b2b9b136"
+		],
+		"replaces": [
+			"565c3342-8e57-4ac3-b930-8c0685e231a0",
+			"86ed28e8-62c5-4678-8461-db4d6df97f4a"
+		],
+		"replacedBy": [
+			"80ad11ff-9913-4de9-84bf-eca38a86a4dd"
+		],
+		"types": [
+			"fo_domein"
+		]
+	},
+	{
+		"title": "Domein D",
+		"description": "Werkwijzen",
+		"prefix": "D",
+		"id": "d70c6808-25eb-4fbb-b7aa-7a4f467b69aa",
+		"fo_doelzin_id": [
+			"a12310c5-177f-4c9a-8cc4-f9552a4a8642",
+			"c7ab1018-d770-43a4-8222-a30493e3b63d",
+			"a075417e-4243-4d75-bde5-130d50b7813a",
+			"fb896b5c-932e-4f16-bd75-76cb90370cda",
+			"4b9dec4b-628f-47c6-b395-4b242979a160",
+			"c46738c5-adda-4893-984e-9f4031ff4bfb",
+			"5d9d9826-d0d1-4014-907a-caac3358c357",
+			"c97d8ad6-2faa-4a5a-ba4e-7dff2a7fb89b",
+			"d9b50ffc-3abc-4e84-9436-457c42467853",
+			"dba0ea7b-1373-441e-acdd-8daaff7c29d3"
+		],
+		"replaces": [
+			"8eeead3e-0707-484f-9b9c-c95799e74129",
+			"043ac89c-f3f7-4748-b5f2-9c358c9f00f7"
+		],
+		"replacedBy": [
+			"496ae9c8-589e-4887-88b5-72b954329a86"
+		],
+		"types": [
+			"fo_domein"
+		]
+	},
+	{
+		"title": "Domein E",
+		"description": "Denkwijzen",
+		"prefix": "E",
+		"id": "ae640316-5c79-4a67-9060-4d3b8c9e8efd",
+		"fo_doelzin_id": [
+			"c080d559-ec0c-48dc-9609-1c303d56fbf7",
+			"9b387c91-b14e-4c2d-9355-76746d65e0fa",
+			"db1f2b5c-293e-47c3-8faa-13345f0cf4fa",
+			"76aee89c-bc6e-4ec3-82a8-f7a0dc039129",
+			"7f1de1da-1524-4346-bee2-bcb69c70df07",
+			"d00e375d-153f-44cf-964a-918f252f5515",
+			"8559ce21-92b9-40f8-8ed5-386e5ae6e429",
+			"926c869d-6ec8-42a4-b7e2-5a2a1544f256"
+		],
+		"replaces": [
+			"7d40096a-0e3f-4377-8c88-662950bdc313",
+			"b3cb232e-3830-45f0-82e5-c83b45289a86"
+		],
+		"replacedBy": [
+			"f7c07729-2ffa-4815-ab11-b47a9c721bb8"
+		],
+		"types": [
+			"fo_domein"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Vraagstukken",
+		"prefix": "B",
+		"id": "356827f1-350a-4c8e-9d4b-0b44e1ad715f",
+		"fo_doelzin_id": [
+			"8fcfe3d5-46b4-43ea-b19a-72928d799706",
+			"2b53a03f-d844-4ef7-8e50-44c75c022cc2"
+		],
+		"replaces": [
+			"9100d41b-bde2-47d6-80f2-e2fb69496562",
+			"bf919711-4387-4138-8b8a-f1a45b759728"
+		],
+		"replacedBy": [
+			"864965a6-aafa-446f-81be-8a39d8a5ba5a"
+		],
+		"types": [
+			"fo_domein"
+		]
+	},
+	{
+		"title": "Domein F",
+		"description": "Concepten",
+		"prefix": "F",
+		"id": "71167f9a-b9ea-48d0-9862-5eeb65562f59",
+		"fo_doelzin_id": [
+			"2a62fc6c-7736-40fd-8158-36b60927af5f"
+		],
+		"replaces": [
+			"45f8a265-152c-4b32-a6cc-f66835ed602d",
+			"41b4a5c6-bf64-49cc-bace-b3cd40e136be"
+		],
+		"replacedBy": [
+			"7143cfc3-a89e-46d3-ab34-ba597233cea7"
+		],
+		"types": [
+			"fo_domein"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Wiskundige concepten",
+		"prefix": "A",
+		"id": "ea46783e-b4f6-40fb-9a2c-b1cfa237fa8c",
+		"fo_subdomein_id": [
+			"0bc01328-734d-438b-88d7-239b0603c8a8",
+			"2a3eb323-cdc2-4813-af58-bea9208893c0",
+			"7142f99b-76c4-4307-9d42-66018e60b933",
+			"0af5c4e3-6f89-483a-b09c-742e7b5750b3",
+			"cb69f345-03c8-4f6a-93eb-ca8b3d1419d2"
+		],
+		"replaces": [
+			"2cefcceb-436f-4ba7-8d94-7c3d1734fb9f",
+			"b30d9cea-995b-46a5-998b-1d3388ae1e20"
+		],
+		"replacedBy": [
+			"1d010ea1-7f49-4a4d-bbbc-58fc5da0608e"
+		],
+		"types": [
+			"fo_domein"
+		]
+	},
+	{
+		"title": "Subdomein D2",
+		"description": "Werkwijzen keuze",
+		"prefix": "D2",
+		"id": "e4d6890f-8206-416b-99cc-21119bfea14c",
+		"fo_doelzin_id": [
+			"7bf59d0e-5f7c-456f-9be8-0ef9f3d34b90",
+			"6ce20f0b-6d27-43b3-b30e-85d019229938",
+			"6368adb9-0ff4-42e4-914f-a46be709ab23"
+		],
+		"replacedBy": [
+			"02c2e09e-7193-4a73-b6f2-21b1eb776d02"
+		],
+		"types": [
+			"fo_subdomein"
+		]
+	},
+	{
+		"title": "Subdomein C1",
+		"description": "Literatuur als systeem",
+		"prefix": "C1",
+		"id": "325efae7-4302-41ca-92e0-470907ea9267",
+		"fo_doelzin_id": [
+			"3f660f2c-2487-474a-aacd-f6da0d058161"
+		],
+		"replaces": [
+			"b98e2b6d-77da-4d33-bc8a-2175543808ea",
+			"f3a4370b-5352-41f4-bdf4-c76e71d5291c"
+		],
+		"replacedBy": [
+			"3aafaf1e-b3d5-4233-b77b-1531ec21f4b4"
+		],
+		"types": [
+			"fo_subdomein"
+		]
+	},
+	{
+		"title": "Subdomein B1",
+		"description": "Taal als systeem",
+		"prefix": "B1",
+		"id": "5a75323f-2be7-4112-9d0c-b46995011b7c",
+		"fo_doelzin_id": [
+			"593aba35-6014-4c64-b1a3-466b8d241aad",
+			"955c7ea4-8e66-4eab-bd8f-142170b96ee4"
+		],
+		"replaces": [
+			"b86f8d11-504b-4c34-bfea-f45f64593048",
+			"2a0401e3-2b7e-4ff0-92f3-488f2b6c4466"
+		],
+		"replacedBy": [
+			"c0498512-4a19-45f7-8e6f-c5a95ce6f507"
+		],
+		"types": [
+			"fo_subdomein"
+		]
+	},
+	{
+		"title": "Subdomein C1",
+		"description": "Literatuur als systeem",
+		"prefix": "C1",
+		"id": "c1029452-b4c6-4a1e-a56d-46b172786034",
+		"fo_doelzin_id": [
+			"37188365-2459-4ea1-afcd-5c53093cdbd2"
+		],
+		"replaces": [
+			"8b3d07cb-b26d-4776-ba52-26ca59f141fa",
+			"904ca6f4-dde2-483f-a498-f597d7e875c3"
+		],
+		"replacedBy": [
+			"175e28a1-cf92-464d-9c52-592d1b2f0c8e"
+		],
+		"types": [
+			"fo_subdomein"
+		]
+	},
+	{
+		"title": "Subdomein C2",
+		"description": "Literatuur in beweging",
+		"prefix": "C2",
+		"id": "270264a8-413e-4749-a291-e8b91e14d3de",
+		"fo_doelzin_id": [
+			"8bf06c37-f57e-458c-a823-4f5444befd9a",
+			"d0d7c3e0-1468-4078-be20-b1505ba02718"
+		],
+		"replaces": [
+			"d9e24826-e7c3-4abd-9e55-670e99ba221d",
+			"9f8eaf7c-a524-4259-aa1c-7f31297f089e"
+		],
+		"replacedBy": [
+			"80856087-ade7-47a7-982b-1ae5cab1f96b"
+		],
+		"types": [
+			"fo_subdomein"
+		]
+	},
+	{
+		"title": "Subdomein A2",
+		"description": "Tekstinterpretatie",
+		"prefix": "A2",
+		"id": "b5516326-1c54-4848-a8b3-5e681fa658a8",
+		"fo_doelzin_id": [
+			"d4b24dce-16cc-41fc-a3a2-aeaee581430f",
+			"2b4c9b68-52b2-47d1-b853-4606d5e9c79d",
+			"3ddf7800-ffb3-41a7-805a-5b120f27e674",
+			"c1fcafc2-3c8b-4dde-b4a0-08fe1dc78e64"
+		],
+		"replaces": [
+			"94449126-4180-4fef-ad49-936d572cec79",
+			"4022bcbb-1e7f-4527-8c78-a3f64c618461"
+		],
+		"replacedBy": [
+			"c7761005-145a-4f46-8653-f7e55f67b1e0"
+		],
+		"types": [
+			"fo_subdomein"
+		]
+	},
+	{
+		"title": "Subdomein B1",
+		"description": "Wiskundig probleemaanpakken",
+		"prefix": "B1",
+		"id": "7dba77f7-3508-4a05-a814-80df6a6cdba1",
+		"fo_doelzin_id": [
+			"7d6e2406-7839-438a-abe4-9c4b331f664f",
+			"a450b182-9386-4229-825d-4a4e2e8230de"
+		],
+		"replaces": [
+			"d31da700-a718-4c2f-9f0b-baaf8da58ce3",
+			"f0c84578-3ebc-4a22-842f-8fdef06e6945"
+		],
+		"replacedBy": [
+			"da123402-8cde-4494-af21-12507221011d"
+		],
+		"types": [
+			"fo_subdomein"
+		]
+	},
+	{
+		"title": "Subdomein A1",
+		"description": "Receptieve taalvaardigheid",
+		"prefix": "A1",
+		"id": "fe5ff58f-dc05-455d-b670-10fda2b9fbac",
+		"fo_doelzin_id": [
+			"a5104a01-c1af-4979-9639-786d18a9656e",
+			"56bf986f-e92a-4de3-8f94-d8a836d05705"
+		],
+		"replaces": [
+			"42dd8eef-cc2e-446c-a4e7-d964f0ca80c4",
+			"9412cf7a-9d6e-44bf-9404-317fe02b3e0e",
+			"9baeb82f-ceb3-4652-acb2-63e4ea2374d2"
+		],
+		"replacedBy": [
+			"079291fb-07dc-4e57-9e17-ff2a9aa80b61"
+		],
+		"types": [
+			"fo_subdomein"
+		]
+	},
+	{
+		"title": "Subdomein A1",
+		"description": "Receptieve taalvaardigheid",
+		"prefix": "A1",
+		"id": "29c0f26f-cdb5-4a75-a2a9-4776276c6382",
+		"fo_doelzin_id": [
+			"e0b81307-e287-4182-b64f-b162d38b64a0",
+			"b7cf9ffb-1461-4d9a-8e0a-db8098d397d0"
+		],
+		"replaces": [
+			"49749559-e251-4b03-837e-f614e5aea8ba",
+			"3998ccd9-8188-4269-9292-6e72026d90a4",
+			"7f6da74e-554a-4f84-8872-d7cb08539a44"
+		],
+		"replacedBy": [
+			"f0b6d47a-46f8-40a9-8c3e-c5f1e4599e2f"
+		],
+		"types": [
+			"fo_subdomein"
+		]
+	},
+	{
+		"title": "Subdomein A2",
+		"description": "Productieve taalvaardigheid",
+		"prefix": "A2",
+		"id": "8ab5c87a-d99a-4712-ba1c-8aae0df330d3",
+		"fo_doelzin_id": [
+			"1a7b594d-ce6b-4558-8eb3-5a4638ed28d4",
+			"15d44086-8e20-4a9e-b587-be6c776fbb2c",
+			"92714da6-d13c-4bdd-b9c7-2f17591cf5f8",
+			"b9c12f4f-61a7-406b-b9fd-930b2d5d109d",
+			"7dbbdbad-013f-44e2-a22a-55293929406e"
+		],
+		"replaces": [
+			"b7d0e707-aee4-4144-aa51-38b0329e08cb",
+			"d279599c-3ee4-4516-af12-9287d032ae31",
+			"2882cb4a-2926-42f3-b3b2-d4c7485ac3e1"
+		],
+		"replacedBy": [
+			"c5c31f4c-5cf6-458a-91af-4e8ae916ae34"
+		],
+		"types": [
+			"fo_subdomein"
+		]
+	},
+	{
+		"title": "Examenprogramma Latijnse taal en cultuur vwo",
+		"description": "Definitief conceptexamenprogramma Latijnse taal en cultuur vwo",
+		"karakteristiek": "Kenmerken van het vak Latijnse taal en cultuur \r\nOnderwijs in het vak Latijnse taal en cultuur draagt bij aan de persoonlijke vorming van leerlingen en rust hen toe om als betrokken en kritisch denkende burgers deel te nemen aan een pluriforme samenleving. Om dit te bereiken staat binnen Latijnse taal en cultuur de bestudering van Latijnse teksten centraal, zowel in de oorspronkelijke taal als in vertaling. In deze teksten komen taal, cultuur en literatuur in samenhang aan de orde. Leerlingen leren verschillende perspectieven te herkennen en vergelijken en te reflecteren op culturele waarden en normen. Zo ondersteunt het vak hun ontwikkeling tot reflectieve, kritische en zelfstandige mensen die zich bewust verhouden tot hun eigen culturele omgeving, en ontwikkelen leerlingen hun intercultureel bewustzijn.",
+		"id": "34aa3689-8a3c-4417-91ca-850ea55a70e2",
+		"vakleergebied_id": [
+			"0f1daeda-c83f-41bf-ab2b-ca148761e66a"
+		],
+		"fo_domein_id": [
+			"4abc4a8d-97c1-4ebd-a15d-056966968c2b",
+			"5dcf3182-a21d-4cf0-80f0-e20cd02aa091",
+			"67c4afb7-4e12-4f81-b13d-34f0d7592cbe",
+			"1240b8dd-1cd3-43a0-8398-43d00e6e8a30",
+			"25751b47-4022-4aa7-9683-963c4867a898",
+			"41b0ffd9-9e13-494c-90c4-3bdd6e9d8657",
+			"43f32db2-10bc-40e6-94ba-19328b1cd13a",
+			"bee51e26-5d8f-4332-bef2-d8c33a61c999",
+			"10d2598a-235c-4cdd-92ca-65598c46937f"
+		],
+		"status": "definitief concept",
+		"replaces": [
+			"71b63918-45e0-41a4-9e0c-9b7114f916cc",
+			"ddd15739-c66e-4456-ad27-84e4901d72c1"
+		],
+		"settype": "examenprogramma",
+		"karakteristiek2": "Taalbewust\r\nHet vak Latijnse taal en cultuur draagt bij aan de ontwikkeling van taalbewustzijn door aandacht voor de taal en vormgeving van teksten. Leerlingen leren begrippen op grammaticaal, stilistisch, argumentatief en narratologisch gebied toe te passen en tekststructuur te doorzien. Dit maakt het gesprek over taal als systeem en als communicatiemiddel mogelijk.\r\nDaarnaast verwerven leerlingen inzicht in de manieren waarop met taal en teksten betekenis wordt gecreëerd, gespeeld en geëxperimenteerd. Ze doen ook inzichten op over hoe je taal kunt inzetten om een ander te beïnvloeden. Leerlingen leren informatie uit uiteenlopende bronnen kritisch te analyseren en te interpreteren. Deze analytische en interpretatieve vaardigheden zijn juist in onze gedigitaliseerde wereld van belang om verschillende bronnen op hun bruikbaarheid, betrouwbaarheid en relevantie te kunnen beoordelen.\r\n\r\nCultuur- en literatuurbewust\r\nDoor na te denken over inhoud en vorm van Latijnse teksten ontwikkelen leerlingen inzicht in de wijze waarop literatuur betekenis geeft aan de wereld en menselijke ervaringen verbeeldt. In samenhang met andere cultuuruitingen uit de oudheid leren leerlingen teksten ook te begrijpen als producten van een specifieke culturele en literaire context. \r\nHoewel teksten de kern van het vak vormen, beperkt het onderwijs in Latijnse taal en cultuur zich niet tot het bestuderen van teksten. Kenmerkend voor Latijnse taal en cultuur is het multidisciplinaire karakter van het vak waarbinnen bijvoorbeeld inzichten uit de archeologie, oude geschiedenis en filosofie een belangrijke rol spelen. Deze inzichten uit verwante disciplines verrijken het begrip van de antieke wereld en ondersteunen een bredere interpretatie van de teksten.",
+		"karakteristiek3": "Intercultureel bewust\r\nDe inhoud van de teksten nodigt leerlingen uit zich kritisch te verhouden tot de waarden, normen, overtuigingen en perspectieven van de Romeinse cultuur en vervolgens te reflecteren op die van henzelf en van hun eigen culturele context. Zo ondersteunt Griekse taal en cultuur de ontwikkeling van burgerschapscompetenties en de vorming van een persoonlijke identiteit.\r\nOm intercultureel bewustzijn te ontwikkelen richt het examenprogramma zich op drie inhoudelijke pijlers.\r\nI. De tekst binnen het perspectief van de oudheid\r\nLeerlingen bestuderen de teksten zowel intensief als extensief. Ze denken na over de inhoud, vorm en betekenis van deze teksten binnen hun oorspronkelijke cultuurhistorische context. Zo vormen de leerlingen een genuanceerd beeld van het verwoorde gedachtegoed en van de plaats die deze teksten innemen binnen de wereld van de oudheid. Om dit te bereiken maken leerlingen gebruik van hun kennis van taal en tekst, evenals van hun inzicht in de literaire en cultuurhistorische context waarin deze teksten zijn ontstaan.\r\nII. De tekst vanuit een later perspectief\r\nLeerlingen verdiepen en verbreden hun tekstbegrip door ook latere perspectieven bij hun interpretatie te betrekken. Sinds de oudheid hebben kunstenaars, schrijvers en denkers zich immers laten inspireren door Griekse en Romeinse teksten. Ook zijn thema’s, discussies en dilemma’s uit de oudheid nog steeds actueel. Deze latere bronnen bieden aanvullende invalshoeken voor de interpretatie van Latijnse teksten en maken bovendien de blijvende relevantie van de oudheid duidelijk.\r\nIII. Het perspectief van de tekst, de leerling en anderen\r\nOp basis van Latijnse teksten leren leerlingen zich te verplaatsen in anderen, in onbekende situaties en in culturele contexten die verschillen van hun eigen leefwereld. De perspectieven die in teksten worden verwoord, stimuleren daarmee reflectie op de eigen standplaatsgebondenheid en dragen bij aan een beter begrip van zichzelf en anderen.",
+		"karakteristiek4": "Latijnse taal en cultuur als schoolvak\r\nDe schoolvakken Griekse en Latijnse taal en cultuur zijn identiteitsbepalend en profilerend voor de gymnasiumopleiding. Leerlingen volgen in de onderbouw beide vakken en doen in een van beide vakken examen om een gymnasiumdiploma te verkrijgen. Voor gymnasiumleerlingen vervangt Latijnse taal en cultuur een moderne taal in het gemeenschappelijk deel van de bovenbouw van het vwo. Leerlingen kunnen Latijnse taal en cultuur ook als profielkeuzevak opnemen bij Cultuur en Maatschappij (C&M) en als een keuzevak in het vrije deel bij alle profielen.\r\nDe centrale positie van teksten maakt het mogelijk om in zowel de onder- als bovenbouw taalonderwijs te integreren met cultuur uit de oudheid, met kunst en maatschappelijk debat uit later tijd en met de leefwereld van de individuele leerling. In de onderbouw speelt taalverwerving een belangrijke rol en lezen leerlingen (ver)eenvoudig(d)e teksten. In de bovenbouw verdiepen en consolideren leerlingen hun kennis, vaardigheden en houdingen aan de hand van teksten in de brontaal, vertalingen of tweetalige teksten.\r\nDoor de aandacht voor taal-, literatuur- en (inter)cultureel bewustzijn biedt Latijnse taal en cultuur tal van afstemmingsmogelijkheden met Nederlands, moderne vreemde talen, kunstvakken en mens- en maatschappijvakken. Ook verbindingen met de bètavakken zijn goed mogelijk. \r\nGeletterdheid, een goede algemene taalbeheersing en beheersing van vaktaal, zijn noodzakelijk voor zowel begripsontwikkeling als voor analyseren, interpreteren en reflecteren. Daarnaast wordt digitale geletterdheid bij Latijnse taal en cultuur ontwikkeld en versterkt door het doelgericht gebruik van digitale informatie, bronnen en hulpmiddelen, en door deze kritisch te evalueren.\r\nDe vaardigheden die leerlingen opdoen bereiden voor op een wetenschappelijke denk- en werkwijze, waarin zorgvuldige analyse en kritische reflectie centraal staan. Daarmee levert het vak een waardevolle bijdrage aan de voorbereiding op vervolgstudies en uiteenlopende beroepscontexten.",
+		"replacedBy": [
+			"975ca863-de63-4815-9ca6-b28ffef34b1f"
+		],
+		"types": [
+			"fo_set"
+		]
+	},
+	{
+		"title": "Examenprogramma natuur, leven en technologie havo",
+		"description": "Definitief conceptexamenprogramma natuur, leven en technologie havo",
+		"karakteristiek": "Kenmerken van de natuurwetenschappen en technologie\r\r\nHet schoolvak Natuur, Leven en Technologie (NLT) heeft een basis vanuit de natuurwetenschappen en technologie en is daarmee nauw verweven met de schoolvakken biologie, natuurkunde, scheikunde en Onderzoek en Ontwerpen.\r\r\nDe natuurwetenschappen bestuderen de natuurlijke werkelijkheid, technologie verandert haar. Natuurwetenschappen onderzoeken de natuurlijke wereld om ons heen, zowel levend als niet-levend. Dat doen ze op alle schalen met behulp van theorie- en modelvorming, toetsbare voorspelling en waarneming. Technologie hanteert kennis en vaardigheden voor het ontwerpen, bouwen en gebruiken van voorwerpen en systemen om problemen op te lossen en behoeften te vervullen. Bij het onderzoeken en ontwerpen maken natuurwetenschappen en technologie gebruik van vergelijkbare en specifieke denk- en werkwijzen. De resultaten van de natuurwetenschappen en van technologie – evenals de ontwikkeling van hun methodes – zijn het product van menselijk handelen. Ze maken al eeuwen deel uit van de menselijke cultuur.\r\r\nNatuurwetenschappelijke en technologische ontwikkelingen versterken elkaar. Hierdoor krijgen mensen steeds weer nieuwe manieren om hun leef- en werkomgeving te begrijpen en beïnvloeden. Dat laatste biedt kansen, maar ook uitdagingen voor de maatschappij en de planeet aarde.",
+		"id": "ba375471-13d0-4cdf-b6c4-18dbeb012f58",
+		"vakleergebied_id": [
+			"956d0d86-90f3-443b-a418-52fd9b912661"
+		],
+		"fo_domein_id": [
+			"e5f057ea-d670-43b1-809d-ab0689a8b140",
+			"63e580c8-ea9d-4a21-9555-2e515d455ff7",
+			"7b1ed2f6-9b41-41dd-8242-da5c82fc7e7c",
+			"d70c6808-25eb-4fbb-b7aa-7a4f467b69aa",
+			"ae640316-5c79-4a67-9060-4d3b8c9e8efd",
+			"424633c6-c500-4c9c-b897-ac4d93ee10d5"
+		],
+		"status": "definitief concept",
+		"replaces": [
+			"727abcc3-98d2-4c2f-a8d8-826f81c0c923",
+			"9e3a13c8-b672-49cb-91c5-908e74fd36f7"
+		],
+		"settype": "examenprogramma",
+		"karakteristiek2": "Natuurwetenschappen en technologie in de schoolvakken\r\r\nIn de onderbouw leggen de kerndoelen mens en natuur een basis voor natuurwetenschappelijke en technologische denkwijzen, werkwijzen en concepten. Daarnaast komen leerlingen in aanraking met vraagstukken en de aard van natuurwetenschappen en technologie. Het gaat in de kerndoelen vooral om inhouden die leerlingen nodig hebben in hun persoonlijk leven en als burger in de samenleving. In de bovenbouw diepen de natuurwetenschappelijke vakken dit verder uit. De nadruk ligt dan op inhouden die relevant zijn voor vervolgopleidingen, toekomstige werkvelden en beroepen. Het grootste verschil tussen de onderbouw en de bovenbouw ligt in de complexiteit en de vereiste diepgang van kennis, en in de mate van zelfstandigheid van de leerlingen.\r\r\nDe natuurwetenschappelijke en technologische denk- en werkwijzen dragen bij aan de ontwikkeling van een onderzoekende houding en het probleemoplossend vermogen van leerlingen. Samenwerken en reflectie op de eigen bijdragen en interesses ondersteunen hun persoonlijke ontwikkeling. De schoolvakken besteden aandacht aan hoe natuurwetenschappelijke kennis en technologische producten tot stand komen. Op die manier zijn leerlingen in staat om de waarde en betrouwbaarheid van uitspraken over natuurwetenschappen en technologie te beoordelen. Daarmee – in combinatie met relevante conceptuele kennis – kunnen leerlingen in het dagelijks leven een eigen mening vormen en beredeneerd beslissingen nemen over maatschappelijke en persoonlijke vragen waarin natuurwetenschappelijke kennis of technologie een rol speelt. \r\r\nDe natuurwetenschappelijke vakken staan niet los van de andere vakken. Veel natuurwetenschappelijke en technologische vraagstukken bieden contexten waarin burgerschap betekenis krijgt. Wiskunde speelt een onmisbare rol in de natuurwetenschappen, met name statistiek en het gebruik van wiskundige vaardigheden. Digitale geletterdheid wordt binnen de vakken aangesproken en versterkt. Dit gebeurt bij het verwerken van data en bij het gebruiken, aanpassen en maken van modellen. Verder zijn geletterdheid, een goede algemene taalbeheersing en beheersing van de vaktaal noodzakelijk voor zowel begripsontwikkeling als voor het formuleren van precieze en gestructureerde redeneringen.",
+		"karakteristiek3": "Kenmerken van het vak NLT\r\r\nBij NLT leren leerlingen werken aan wetenschappelijke en maatschappelijke vraagstukken die een interdisciplinaire aanpak vereisen. Een aantal van de vraagstukken is gebaseerd op de Sustainable Development Goals. Elk vraagstuk wordt vanuit verschillende disciplines en perspectieven benaderd. Leerlingen komen hierdoor in aanraking met voor het vraagstuk relevante concepten uit de aardrijkskunde, biologie, informatica, natuurkunde, scheikunde en wiskunde. Ze ontdekken de rol van de natuurwetenschappen en technologie om tot inzichten en oplossingen van het vraagstuk te komen. Daarnaast leren ze zich te verhouden tot de oplossingen voor deze vraagstukken.  \r\r\nHet toepassen en verwerven van natuurwetenschappelijke kennis en vaardigheden gebeurt door een combinatie van theorie en praktisch handelen. Het gaat hierbij om samenwerken, onderzoeken, ontwerpen en ervaringen opdoen buiten de school. Bij het vak NLT ligt er grote nadruk op het ontdekken van het brede spectrum aan vervolgopleidingen en beroepen die aansluiten bij de natuurprofielen. Zo halen leerlingen cognitieve doelen en doen ze een breed scala aan ervaringen op.\r\r\n\r\r\nNLT als schoolvak\r\r\nHet vak NLT is een profielkeuzevak in de profielen Natuur & Gezondheid en Natuur &echniek van het havo en het vwo. Het vak kan in de andere profielen in het vrije deel aangeboden worden. NLT bouwt voort op de onderbouw en op kennis en vaardigheden uit de schoolvakken aardrijkskunde, biologie, informatica, natuurkunde, scheikunde en wiskunde. NLT wordt afgesloten met een schoolexamen.",
+		"karakteristiek4": "NLT in de schoolsoorten\r\r\nOp zowel havo als vwo is het domein Vraagstukken de kern van het examenprogramma. Op beide schoolsoorten werken de leerlingen aan vraagstukken, waarin leerlingen inhouden uit verschillende natuurwetenschappen integreren.\r\r\nHavo\r\r\nOp het havo werkt een leerling vanuit minimaal twee natuurwetenschappelijke of technologische disciplines aan een vraagstuk. Daarbij gaat het om het toepassen van natuurwetenschappelijke en technologische kennis en vaardigheden, en om het adviseren over de voor- en nadelen van mogelijke oplossingen. Leerlingen doen ervaringen op met samenwerken en zelfregulatie in leersituaties.\r\r\nVwo\r\r\nOp het vwo werkt een leerling vanuit minimaal drie natuurwetenschappelijke of technologische disciplines aan een vraagstuk. Daarbij gaat het om het toepassen van natuurwetenschappelijke en technologische kennis en vaardigheden, en om het onderbouwen van mogelijke oplossingen met theorieën en modellen. Kenmerkend voor het vwo is dat leerlingen niet alleen werken aan maatschappelijk vraagstukken, maar ook aan fundamentele wetenschappelijke vraagstukken. Ze reflecteren op hun ervaringen met samenwerken en zelfregulatie in leersituaties.",
+		"replacedBy": [
+			"20fa15fc-529a-4549-98b6-d5641202e0f6"
+		],
+		"types": [
+			"fo_set"
+		]
+	},
+	{
+		"title": "Examenprogramma wiskunde natuur havo",
+		"description": "Definitief conceptexamenprogramma wiskunde natuur  havo",
+		"karakteristiek": "Kenmerken van wiskunde\r\r\nWiskunde wordt gebruikt om de wereld te beschrijven, te structureren, te organiseren en te begrijpen. Maatschappelijke en wetenschappelijke vraagstukken geven aanleiding tot wiskundige activiteiten. Denk aan werken met wiskundige modellen, probleemaanpakken en nauwkeurig redeneren. Bij deze activiteiten worden wiskundige concepten gebruikt, aangescherpt en ontwikkeld, en worden een kenmerkende methodiek en vaktaal gebruikt. Denkwijzen zoals abstraheren, classificeren, formaliseren en generaliseren, karakteriseren de wiskunde en dragen bij aan de gecijferdheid en het analytisch vermogen van leerlingen.\r\r\n\r\r\nWiskundige kennis staat aan de basis van wetenschappelijke en technologische ontwikkelingen en is daarmee onderdeel van cultuur en samenleving. Zo zou de ontwikkeling van de kwantummechanica onmogelijk zijn geweest zonder differentiaalvergelijkingen en kansrekening. Mede daarom maken veel disciplines gebruik van wiskunde. Voorbeelden daarvan zijn economische, demografische en natuurwetenschappelijke modellen.",
+		"id": "a3abc788-ac74-435a-904e-80708f48d57f",
+		"vakleergebied_id": [
+			"332955fc-9af2-4b0d-986f-b20d60b6ed38"
+		],
+		"fo_domein_id": [
+			"ea46783e-b4f6-40fb-9a2c-b1cfa237fa8c",
+			"b399a0a5-7d09-4951-9784-c21c34d0feca",
+			"1f301cb9-2b95-4471-89d8-1f83ef806dad"
+		],
+		"status": "definitief concept",
+		"replaces": [
+			"a15d68c0-528a-4d18-9b2f-89a1c147d910",
+			"fc0cf40e-b04f-454d-85ed-1df8ac379381"
+		],
+		"settype": "examenprogramma",
+		"karakteristiek2": "Wiskunde natuur en wiskunde techniek als schoolvakken \r\r\nIn de schoolvakken wiskunde ontwikkelt de leerling wiskundige inzichten in relatie tot de werkelijkheid en aan de hand van zuiver wiskundige vraagstukken. Het aanpakken van vraagstukken gebeurt vanuit een wiskundig oriëntatie, met een nieuwsgierige houding en met oog voor de schoonheid van de wiskunde. Wiskunde natuur en wiskunde techniek ondersteunen het praktisch functioneren van leerlingen in het onderwijs en later bij de beroepsbeoefening en helpt hen bij het vinden van een weg in de samenleving.\r\r\n\r\r\nDe schoolvakken wiskunde natuur en wiskunde techniek laten leerlingen kennismaken met wiskundige concepten, wiskundige activiteiten en denkwijzen. Een belangrijk onderdeel is het functioneel gebruik van wiskunde bij abstracte en realistische probleemsituaties. Ter ondersteuning hiervan is er aandacht voor basisvaardigheden en voor procedures die vlot en routinematig uitgevoerd worden, met en zonder gebruik van technologie. Denk hierbij aan algebraïsch herleiden, meetkundig rekenen en het maken van statistische representaties.\r\r\n\r\r\nWiskunde in de bovenbouw bouwt voort op wiskunde in de onderbouw. Analyses worden complexer, met een verdieping van wiskundige concepten en een verbreding naar andere onderwerpen. Wiskundig denken en werken vraagt in de bovenbouw meer zelfstandigheid, inventiviteit, initiatief en reflectie van leerlingen.\r\r\n\r\r\nWiskunde natuur en wiskunde techniek bestuderen probleemsituaties en modellen uit de natuur, gezondheid en techniek. Leerlingen krijgen te maken met complexe, samenhangende stapelingen van wiskundige concepten en procedures en het formaliseren hiervan. Ook leren ze wiskundige concepten en denk- en werkwijzen te gebruiken om in andere disciplines en aan maatschappelijke thema's en kwesties te werken.\r\r\n\r\r\nLeerlingen leren vragen te stellen, beweringen te onderbouwen met argumenten en wiskundige uitwerkingen kritisch te analyseren. Hierbij versterken ze hun geletterdheid, ontwikkelen ze een actieve beheersing van de wiskundige vaktaal en leren ze een aanpak te formuleren in alledaagse taal. Leerlingen vergroten hun zelfvertrouwen bij het oplossen van problemen met gebruik van wiskunde, werken met modellen en redeneren met formules. Zo leren ze, vanuit het perspectief van de expert en de buitenstaander, zichzelf te positioneren in situaties waarin wiskunde van belang is.\r\r\n\r\r\nWiskunde natuur heeft een groot gemeenschappelijk deel met wiskunde techniek. Het is een basis voor vervolgopleidingen waarin wiskunde een belangrijke plaats heeft, zoals medische en gezondheidsstudies. Het vak biedt een basis in statistiek en kansrekening, en een verdieping in differentiaal- en integraalrekening. Via differentiaalvergelijkingen kan een brug worden geslagen naar het vak natuurkunde.\r\r\n\r\r\nWiskunde techniek besteedt een extra deel aan meetkunde met daarin de extra wiskunde die nodig is voor natuurwetenschappelijke en technische vervolgopleidingen.\r\r\n\r\r\nWiskunde natuur en wiskunde techniek leggen verbindingen met andere schoolvakken, zoals natuurkunde, scheikunde en biologie. Zo draagt wiskunde bij aan de verdieping en verbreding van inzichten. Leerlingen gebruiken wiskunde bij ontwerpen en onderzoeken en bij het verwerken van informatie. Ze ontwikkelen een actieve beheersing van een breed repertoire van wiskundige technieken, met en zonder gebruik van technologie. Door het gebruik van digitaal wiskundig gereedschap versterken ze hun digitale geletterdheid. Ze kunnen wiskunde inzetten bij vakoverstijgende opdrachten, projecten en profielwerkstukken.",
+		"karakteristiek3": "Wiskunde natuur en wiskunde techniek in de schoolsoorten\r\r\n\r\r\nHavo\r\r\nOmdat het havo voorbereidt op het hoger beroepsonderwijs is er ruim aandacht voor beroepsgerichte contexten en het oplossen van praktische problemen. Het functioneel gebruik van wiskunde staat centraal, met inzicht in wiskundige concepten, activiteiten en denkwijzen, en de samenhang daartussen. Leerlingen leren onderzoek uit te voeren in praktische, complexe probleemsituaties. Ze gebruiken wiskundige redeneringen met helder geformuleerde aannames en beperkingen, en rapporteren mondeling en schriftelijk over hun aanpak en bevindingen.\r\r\n\r\r\nVwo\r\r\nHet vwo bereidt voor op wetenschappelijke opleidingen en is daarom gericht op wetenschappelijke contexten. Leerlingen werken en redeneren met meer concepten dan in het havo, die ze breder en dieper leren. Voor de aansluiting met het vervolgonderwijs is de onderbouwing van die concepten formeler en abstracter. Inzicht in de achtergrond en de samenhang van wiskundige onderwerpen is belangrijk. Leerlingen leren onderzoek doen, een probleemaanpak formuleren en een probleem oplossen in complexe, omvangrijke en minder afgebakende probleemsituaties.",
+		"replacedBy": [
+			"9f400937-c607-4924-bdcb-54c2e92b9031"
+		],
+		"types": [
+			"fo_set"
+		]
+	},
+	{
+		"title": "Domein D",
+		"description": "Werkwijzen",
+		"prefix": "D",
+		"id": "a7ccbf43-1d70-4d1f-9756-1f7c69b4e3a7",
+		"fo_doelzin_id": [],
+		"replaces": [
+			"8058de33-ba03-45ba-8eba-dd389908c9c4",
+			"bb837880-8680-4092-b805-b20a1204431e"
+		],
+		"fo_subdomein_id": [
+			"0c71e9b3-ebf1-41ab-a9f6-849a0b8bceed",
+			"e4d6890f-8206-416b-99cc-21119bfea14c"
+		],
+		"replacedBy": [
+			"61f30733-6c27-4237-8816-905c9d3b2eb5"
+		],
+		"types": [
+			"fo_domein"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Literatuur",
+		"prefix": "C",
+		"id": "f6cd4894-d644-4941-a8f1-7eb58b57820b",
+		"fo_subdomein_id": [
+			"325efae7-4302-41ca-92e0-470907ea9267",
+			"5b6c8bb3-0db1-40ce-8078-cc08a86ad119"
+		],
+		"replaces": [
+			"2c60d808-e2aa-4074-ab64-0fd24989e96a",
+			"02b914f6-170c-474a-9f15-d52e22bb0c19"
+		],
+		"replacedBy": [
+			"ee53328d-719b-46fe-adde-3e4c43145aee"
+		],
+		"types": [
+			"fo_domein"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Taal",
+		"prefix": "B",
+		"id": "b99d4bcb-edac-4053-9e2b-83020fdcbf13",
+		"fo_subdomein_id": [
+			"5a75323f-2be7-4112-9d0c-b46995011b7c",
+			"1d67b7af-1bde-4419-99c6-e790f05e542c"
+		],
+		"replaces": [
+			"c7588132-6908-4d74-aaa7-34327e0f3c1e",
+			"30e98c87-b1e1-4960-ad92-70e998e729ed"
+		],
+		"replacedBy": [
+			"4def93cf-7d9e-4314-ab6d-45e085301c1b"
+		],
+		"types": [
+			"fo_domein"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Literatuur",
+		"prefix": "C",
+		"id": "1d7427fa-2f43-4ea5-8c8e-17d0c8e35077",
+		"fo_subdomein_id": [
+			"c1029452-b4c6-4a1e-a56d-46b172786034",
+			"270264a8-413e-4749-a291-e8b91e14d3de"
+		],
+		"replaces": [
+			"361b28d4-c418-4e0a-bcb3-4ee6940dac48",
+			"1d4fa890-e7e2-49e9-a5f8-f63ad902d7b4"
+		],
+		"replacedBy": [
+			"051efba8-2481-4aec-bb55-d947d443e1b9"
+		],
+		"types": [
+			"fo_domein"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Tekstontsluiting",
+		"prefix": "A",
+		"id": "4abc4a8d-97c1-4ebd-a15d-056966968c2b",
+		"fo_subdomein_id": [
+			"48ad64dd-7a42-44ac-aa50-51dd19c9b10c",
+			"b5516326-1c54-4848-a8b3-5e681fa658a8"
+		],
+		"replaces": [
+			"8f48eb4d-55e5-4162-8d48-ce2b23c4ffd9",
+			"f61fd7b6-19b5-4c53-a9c5-5190b88e98d6"
+		],
+		"replacedBy": [
+			"1d2a58e7-42df-42db-9962-c338d30a1e6b"
+		],
+		"types": [
+			"fo_domein"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Wiskundige activiteiten",
+		"prefix": "B",
+		"id": "6937efe3-551e-44b0-8ef1-c84211aa8a3b",
+		"fo_subdomein_id": [
+			"7dba77f7-3508-4a05-a814-80df6a6cdba1",
+			"4777e805-b79a-40e7-bc8f-f1636e239798",
+			"35b8c532-90af-4b1c-8bbd-b0b1de40350d",
+			"532c73ab-39c9-4019-9a4d-de3aa49180b3"
+		],
+		"replaces": [
+			"bbd107b5-3d0f-494c-8bb5-cb380c247908",
+			"480fc490-9b03-43a1-b1db-46a0c1d9ae99"
+		],
+		"replacedBy": [
+			"59fd24bc-d9ac-4d88-a439-b3b6f132b3b1"
+		],
+		"types": [
+			"fo_domein"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Communicatie",
+		"prefix": "A",
+		"id": "f25348e9-7b10-4052-ac71-bc0822ae4a99",
+		"fo_subdomein_id": [
+			"fe5ff58f-dc05-455d-b670-10fda2b9fbac",
+			"ba5f00b0-4701-48d9-a97a-e171cc907b00",
+			"34767bf9-ac7a-4f47-b0ae-316bd5d96279"
+		],
+		"replaces": [
+			"68181a93-c328-43ff-b172-d9a4486ac459",
+			"ac00187d-87e5-4d9b-bf8f-0fcd84f652ee",
+			"66819c4c-448f-40d5-8f10-7096fed5b005"
+		],
+		"replacedBy": [
+			"4260bbf0-ce05-49cb-b0c7-5cb4bb0f5cef"
+		],
+		"types": [
+			"fo_domein"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Communicatie",
+		"prefix": "A",
+		"id": "ae9642d1-4566-4e4d-86f5-620963fa8cef",
+		"fo_subdomein_id": [
+			"29c0f26f-cdb5-4a75-a2a9-4776276c6382",
+			"490626dd-0917-45c7-bf30-70349dd211c4",
+			"365ef839-3e96-43f2-a014-b9cc2932951f"
+		],
+		"replaces": [
+			"77f335c7-354f-4373-962e-28596529ff83",
+			"e2283de4-577d-4d2f-871d-43403edda09e",
+			"f6ff99cb-a3ca-404c-a0e0-5023e6d9b4c6"
+		],
+		"replacedBy": [
+			"a7f6562c-11b6-4519-9ba3-6057037eff0a"
+		],
+		"types": [
+			"fo_domein"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Communicatie",
+		"prefix": "A",
+		"id": "89b554bd-ad53-485f-b46e-8a8adeb0ce34",
+		"fo_subdomein_id": [
+			"36892538-f19b-458e-8a18-93d14e214c38",
+			"8ab5c87a-d99a-4712-ba1c-8aae0df330d3",
+			"36f326cc-eb07-4bf4-9a54-2782466d0252"
+		],
+		"replaces": [
+			"caa16005-cd7c-4bdd-8af1-c7de2d1bd69d",
+			"610f33b2-aee5-4aba-ad33-4a0a06d91ea7",
+			"4dc42746-1f24-4396-b031-a52409afb4ca"
+		],
+		"replacedBy": [
+			"ac130d1e-efb1-4faa-80d6-644fd8a052c5"
+		],
+		"types": [
+			"fo_domein"
+		]
+	},
+	{
+		"title": "Examenprogramma wiskunde maatschappij vwo",
+		"description": "Defintief conceptexamenprogramma wiskunde maatschappij vwo",
+		"karakteristiek": "Kenmerken van wiskunde\r\nWiskunde wordt gebruikt om de wereld te beschrijven, te structureren, te organiseren en te begrijpen. Maatschappelijke en wetenschappelijke vraagstukken geven aanleiding tot wiskundige activiteiten. Denk aan werken met wiskundige modellen, probleemaanpakken en nauwkeurig redeneren. Bij deze activiteiten worden wiskundige concepten gebruikt, aangescherpt en ontwikkeld, en worden een kenmerkende methodiek en vaktaal gebruikt. Denkwijzen zoals abstraheren, classificeren, formaliseren en generaliseren, karakteriseren de wiskunde en dragen bij aan de gecijferdheid en het analytisch vermogen en van leerlingen.\r\n\r\nWiskundige kennis staat aan de basis van wetenschappelijke en technologische ontwikkelingen en is daarmee onderdeel van cultuur en samenleving. Zo zou de ontwikkeling van de moderne risicoanalyse onmogelijk zijn geweest zonder statistiek en kansrekening. Mede daarom maken veel disciplines gebruik van wiskunde. Voorbeelden daarvan zijn economische, demografische en natuurwetenschappelijke modellen.",
+		"id": "2a951f89-b457-4340-bcd3-bdb7b3a1e27b",
+		"vakleergebied_id": [
+			"28ed9ea0-9504-44d1-8953-0bf4679d29e8"
+		],
+		"fo_domein_id": [
+			"c0a6d423-79d9-433a-a5da-a57540a94aff",
+			"6937efe3-551e-44b0-8ef1-c84211aa8a3b",
+			"2bb1c96b-bdce-4e26-871f-e9c7d68b7a11"
+		],
+		"status": "definitief concept",
+		"replaces": [
+			"cd998fcc-e72f-4f5c-989c-3f64e4b66d8b",
+			"2bf5abce-9f35-4422-a7a7-b5aab8a43663"
+		],
+		"settype": "examenprogramma",
+		"karakteristiek2": "Gecijferdheid en wiskunde maatschappij als schoolvakken \r\nIn de schoolvakken wiskunde ontwikkelt de leerling wiskundige inzichten in relatie tot de werkelijkheid en aan de hand van wiskundige vraagstukken. Het aanpakken van vraagstukken gebeurt vanuit een wiskundig oriëntatie, met een nieuwsgierige houding en met oog voor de schoonheid van de wiskunde. De vakken ondersteunen het praktisch functioneren van leerlingen in het onderwijs en later bij de beroepsbeoefening en helpen hen bij het vinden van een weg in de samenleving.\r\n\r\nDe schoolvakken gecijferdheid en wiskunde maatschappij laten leerlingen kennismaken met wiskundige concepten, wiskundige activiteiten en denkwijzen. Een belangrijk onderdeel is het functioneel gebruik van wiskunde bij beperkt abstracte en realistische probleemsituaties. Ter ondersteuning hiervan is er aandacht voor basisvaardigheden en voor procedures die vlot en routinematig uitgevoerd worden, met en zonder gebruik van technologie. Denk hierbij aan algebraïsch herleiden en het maken van statistische representaties. \r\n\r\nWiskunde in de bovenbouw bouwt voort op wiskunde in de onderbouw. Analyses worden complexer, met een verdieping van wiskundige concepten en een verbreding naar andere onderwerpen. Wiskundig denken en werken vraagt in de bovenbouw meer zelfstandigheid, inventiviteit, initiatief en reflectie van leerlingen.\r\n\r\nGecijferdheid en wiskunde maatschappij gebruiken contexten vanuit actuele en sociaaleconomische thema’s. Leerlingen werken met data en modellen en kijken kritisch naar het gebruik hiervan in de wereld. Er is aandacht voor het kritisch lezen van kwantitatieve uitspraken en het werken met getallen en grafieken in maatschappij en beroep. Ook leren ze wiskundige concepten en denk- en werkwijzen te gebruiken om in andere disciplines en aan maatschappelijke thema's en kwesties te werken.\r\n\r\nLeerlingen leren vragen te stellen, argumenten te formuleren en wiskundige uitwerkingen kritisch te analyseren. Hierdoor versterken ze hun geletterdheid, leren ze wiskundige vaktaal te interpreteren en een aanpak te formuleren in alledaagse taal. Leerlingen redeneren met verbanden en vergroten hun zelfvertrouwen bij het oplossen van problemen met gebruik van wiskunde. Zo leren ze, vanuit het perspectief van de expert en de buitenstaander, zichzelf te positioneren in situaties waarin wiskunde van belang is. \r\n\r\nGecijferdheid heeft een gemeenschappelijk deel met wiskunde maatschappij. Het is een basis voor vervolgopleidingen die minder wiskundevoorkennis vereisen, zoals geschiedenis, rechten en talen, maar waar een zekere mate van professionele gecijferdheid heel belangrijk is. Bij gecijferdheid gaat het om maatschappelijke redzaamheid, statistiek en wiskundig denken en redeneren, altijd verbonden aan profielspecifieke contexten.\r\n\r\nWiskunde maatschappij bereidt voor op economische en sociaalwetenschappelijke vervolgopleidingen. Het richt zich onder meer op redeneren en werken met verbanden en data. Het vak geeft een verdieping in de statistiek en een basis in differentiaalrekening. Leerlingen verwerven een breed repertoire aan wiskundige technieken. \r\n\r\nGecijferdheid en wiskunde maatschappij leggen verbindingen met andere schoolvakken, zoals aardrijkskunde, economie en de kunstvakken. Door het gebruik van digitaal wiskundig gereedschap versterken leerlingen hun digitale geletterdheid. Zo draagt wiskunde bij aan de verdieping en verbreding van inzichten, in zowel de wiskunde als in deze andere vakken. Leerlingen gebruiken wiskunde bij ontwerpen, onderzoeken en informatieverwerking. Ze kunnen wiskunde inzetten bij vakoverstijgende opdrachten, projecten en werkstukken.",
+		"karakteristiek3": "Gecijferdheid en wiskunde maatschappij in de schoolsoorten\r\n\r\nHavo\r\nOmdat het havo voorbereidt op het hoger beroepsonderwijs is er ruim aandacht voor beroepsgerichte contexten en het oplossen van praktische problemen. Bij gecijferdheid ligt de nadruk op het begrip van hoe wiskunde wordt gebruikt in dagelijkse en beroepsmatige situaties. Bij wiskunde maatschappij staat het functionele gebruik van wiskunde centraal, met inzicht in wiskundige concepten, activiteiten en denkwijzen, en de samenhang daartussen. Leerlingen leren onderzoek uit te voeren in realistische en complexe probleemsituaties. Ze gebruiken wiskundige redeneringen met helder geformuleerde aannames en beperkingen, en rapporteren mondeling en schriftelijk over hun aanpak en bevindingen.\r\n\r\nVwo\r\nHet vwo bereidt voor op wetenschappelijke opleidingen en is daarom gericht op wetenschappelijke contexten. Leerlingen werken en redeneren met meer concepten dan in het havo, die ze breder en dieper leren. Bij gecijferdheid ligt de nadruk op het begrip van en de communicatie over wiskundige toepassingen. Voor de aansluiting met het vervolgonderwijs is bij wiskunde maatschappij de onderbouwing van die concepten formeler en abstracter. Inzicht in de achtergrond en de samenhang van wiskundige onderwerpen is belangrijk. Leerlingen leren onderzoek doen, een probleemaanpak formuleren en een probleem oplossen in complexe, omvangrijke en minder afgebakende probleemsituaties.",
+		"replacedBy": [
+			"93b1ff50-0555-4b91-bff5-1e5e05838a50"
+		],
+		"types": [
+			"fo_set"
+		]
+	},
+	{
+		"title": "Examenprogramma Nederlandse taal en literatuur vmbo bb",
+		"description": "Definitief conceptexamenprogramma Nederlandse taal en literatuur  vmbo-bb",
+		"karakteristiek": "Kenmerken van het vak Nederlandse taal en literatuur\r\nHet vak Nederlandse taal en literatuur (vanaf nu: Nederlands) leidt leerlingen op tot taalvaardige, taalbewuste en cultuurbewuste burgers, die kunnen deelnemen aan een geletterde, meertalige en pluriforme samenleving. Het vak bevordert zo gelijke kansen om persoonlijke en maatschappelijke doelen te bereiken vanuit ieders eigen potentie, interesse, ambitie of achtergrond. Leerlingen leren doelgericht te communiceren, hun gedachten en gevoelens te uiten en om te gaan met de continue stroom aan informatie. Daarnaast ontwikkelen ze inzicht in talige verschijnselen en communiceren ze over literaire teksten uit heden en verleden. Zo ontwikkelen ze hun eigen talige en culturele identiteit. \r\nHet Standaardnederlands is in grote delen van het Koninkrijk der Nederlanden de taal die een belangrijke functie heeft in onderwijs, maatschappelijke participatie en persoonlijke ontwikkeling. Veel leerlingen hebben een andere thuistaal dan het Nederlands. Door aandacht te besteden aan de rijkdom en dynamiek van de Nederlandse taal en de verscheidenheid aan taalvariëteiten en teksten, krijgen leerlingen meer zicht op zichzelf en de ander. Ook krijgen zij meer zicht op de maatschappij en hun plek daarin. Het vak Nederlands levert met al deze inhouden en vaardigheden zodoende ook een belangrijke bijdrage aan de breder gestelde burgerschapsdoelen.",
+		"id": "94ba0b9f-7a85-444e-8550-fe41b6e0729f",
+		"vakleergebied_id": [
+			"e41b8c50-d002-4a9f-be8b-9b5da0008656"
+		],
+		"fo_domein_id": [
+			"f25348e9-7b10-4052-ac71-bc0822ae4a99",
+			"19045250-9cb5-43fd-ab89-fd2f07443244",
+			"f6cd4894-d644-4941-a8f1-7eb58b57820b"
+		],
+		"status": "definitief concept",
+		"replaces": [
+			"08818442-ce9d-4b1f-9d80-982c3b4ec83e",
+			"38409fae-f8e6-49ad-b753-1d73171683bf",
+			"f79b908e-a6a9-4864-a940-4bce1b18d92b"
+		],
+		"settype": "examenprogramma",
+		"karakteristiek2": "Nederlandse taal en literatuur als schoolvak\r\nNederlands is een verplicht kernvak in de bovenbouw van het voortgezet onderwijs en behoort tot het gemeenschappelijk deel voor alle schoolsoorten en leerwegen. Het bouwt voort op de kennis en vaardigheden die leerlingen in de onderbouw hebben verworven. Om een doorlopende leerlijn vanuit primair onderwijs en onderbouw vo te waarborgen, is voortgebouwd op de kerndoelen Nederlands. Dit is qua ordening van inhouden goed te zien. Het vak krijgt in een doorlopende leerlijn vorm vanuit drie invalshoeken: communicatie, taal en literatuur. \r\n\r\nCommunicatie\r\nLeerlingen leren hun communicatie af te stemmen op doel, publiek en context. De taalvaardigheden ontwikkelen zich in samenhang met elkaar. Bij lezen, schrijven, kijken, luisteren, spreken en gesprekken voeren, spelen dezelfde processen een rol. Leerlingen passen daarbij kennis toe over taal, teksten en communicatie. Hiermee versterken leerlingen hun taalvaardigheid en verbreden en verdiepen ze hun kennis. Meer dan in de onderbouw zijn communicatieve situaties georiënteerd op beroepscontexten en maatschappelijk functioneren. Leerlingen leren bewust, kritisch en efficiënt om te gaan met informatie uit teksten en multimediale bronnen. Ze leren die te beoordelen op bruikbaarheid en kwaliteit. In een steeds verder gedigitaliseerde samenleving ontwikkelen leerlingen daarnaast inzicht in de mogelijkheden, beperkingen en het gebruik van digitale communicatiemiddelen. \r\n\r\nTaal\r\nLeerlingen verwerven kennis, vaardigheden en houdingen over taal en taalgebruik. Ze ontwikkelen hun taalbewustzijn door talige verschijnselen en uitingen te analyseren, te bespreken en daarop te reflecteren. Ze doen kennis op over taaluitingen vanuit verschillende perspectieven en reflecteren daarop vanuit een onderzoekende houding. Inzien hoe talen veranderen en hoe taal werkt, stimuleert begrip en waardering voor talige diversiteit. \r\n\r\nLiteratuur\r\nLeerlingen lezen, beluisteren, schrijven en bespreken een verscheidenheid aan literaire teksten. Ze leren deze te analyseren en interpreteren met behulp van kennis van literaire begrippen en genres. Ze kennen betekenis en waarde toe aan literatuur vanuit een persoonlijk perspectief en vanuit de sociaal-culturele en historische context. Zo werken ze aan cultuurbewustzijn en hun literaire competentie. Leerlingen worden zich bewust van de rol van literaire teksten in de samenleving en verschillende culturele perspectieven.\r\n\r\nSamenhang\r\nDe kennis, vaardigheden en houdingen die leerlingen bij Nederlands opdoen, ondersteunen het leren en de taalontwikkeling in andere taalvakken en zaakvakken. Bij andere vakken vergroten leerlingen hun talige kennis en vaardigheden en gebruiken ze het Nederlands als middel om te leren. Leerlingen lezen, bekijken, beluisteren en bespreken vakinhouden, en schrijven en presenteren om hun ideeën onder woorden te brengen. Samenhang tussen Nederlands en andere schoolse contexten biedt dus kansen voor duurzame kennis- en taalontwikkeling. De inhouden zijn sterk verwant aan Friese taal en cultuur en aan de moderne vreemde talen, met name aan Engelse taal en cultuur.",
+		"karakteristiek3": "Nederlandse taal en literatuur in de schoolsoorten\r\nBij Nederlands ontwikkelen alle leerlingen kennis, vaardigheden en houdingen op het gebied van communicatie, taal en literatuur. Hiermee worden ze voorbereid op hun vervolgopleiding en hun plek in de samenleving. In de verschillende schoolsoorten en leerwegen worden specifieke accenten gelegd voor het beheersen van kennis, vaardigheden en houdingen, en het opdoen van ervaringen.\r\n\r\nVmbo\r\nEen goede beheersing van het Nederlands speelt een belangrijke rol om leerlingen voor te bereiden op het mbo en de beroepspraktijk. Leerlingen leren zich op het vmbo in allerlei communicatieve situaties goed uitdrukken. Ze kunnen teksten lezen en produceren over praktische, concrete en actuele onderwerpen. In alle leerwegen van het vmbo doen leerlingen kennis op over taal, vanuit maatschappelijk en cultureel perspectief. Ook is er aandacht voor het lezen en bespreken van een diversiteit aan literaire teksten.\r\nVoor wat betreft lezen, schrijven, spreken en gesprekken voeren, is er onderscheid in de aard en complexiteit van de communicatieve context. \r\nBinnen de basisberoepsgerichte leerweg (vmbo-bb) zijn de onderwerpen en communicatieve situaties concreet en toepasbaar in de directe leefomgeving en beroepscontexten. Ook is er aandacht voor het onderhouden van de onderliggende technische taalvaardigheden voor mondeling en schriftelijk taalgebruik. \r\nBinnen de kaderberoepsgerichte leerweg (vmbo-kb) is er eveneens oog voor maatschappelijke en beroepsgerichte contexten. Hier neemt de complexiteit van taken en teksten toe. \r\nIn de gemengde en theoretische leerweg (vmbo-gl/tl) zijn taken, teksten en contexten abstracter en complexer dan in de andere vmbo-leerwegen. Naast aandacht voor beroepsgerichte contexten met het oog op doorstroom naar het mbo, bereidt vmbo-gl/tl leerlingen voor op doorstroom naar het havo. \r\n\r\nHavo\r\nHet havo bereidt leerlingen voor op het hbo en op doorstroom naar het vwo. Leerlingen voeren authentieke en samenhangende taaltaken uit met een brede variatie aan teksten. Deze teksten zijn niet alleen relevant voor persoonlijke ontwikkeling en maatschappelijke deelname, maar laten hen ook kennismaken met beroepsgerelateerde vormen van communicatie, kennis over taal en taalgebruik, en literatuur.\r\n\r\nVwo\r\nOmdat het vwo de leerlingen voorbereidt op wetenschappelijk vervolgonderwijs, is er aandacht voor (pre)academische taalvaardigheden in theoretische en abstracte contexten. Leerlingen voeren complexere taaltaken uit die een beroep doen op kritisch denken en onderzoeksvaardigheden. Ze verdiepen zich in kennis over taal en taalgebruik en in de sociaal-culturele en historische context van teksten en literatuur.",
+		"replacedBy": [
+			"9e771933-9f54-4837-80d9-629f8b433d27"
+		],
+		"types": [
+			"fo_set"
+		]
+	},
+	{
+		"title": "Examenprogramma Nederlandse taal en literatuur vmbo kb",
+		"description": "Definitief conceptexamenprogramma Nederlandse taal en literatuur  vmbo-kb",
+		"karakteristiek": "Kenmerken van het vak Nederlandse taal en literatuur\r\nHet vak Nederlandse taal en literatuur (vanaf nu: Nederlands) leidt leerlingen op tot taalvaardige, taalbewuste en cultuurbewuste burgers, die kunnen deelnemen aan een geletterde, meertalige en pluriforme samenleving. Het vak bevordert zo gelijke kansen om persoonlijke en maatschappelijke doelen te bereiken vanuit ieders eigen potentie, interesse, ambitie of achtergrond. Leerlingen leren doelgericht te communiceren, hun gedachten en gevoelens te uiten en om te gaan met de continue stroom aan informatie. Daarnaast ontwikkelen ze inzicht in talige verschijnselen en communiceren ze over literaire teksten uit heden en verleden. Zo ontwikkelen ze hun eigen talige en culturele identiteit. \r\nHet Standaardnederlands is in grote delen van het Koninkrijk der Nederlanden de taal die een belangrijke functie heeft in onderwijs, maatschappelijke participatie en persoonlijke ontwikkeling. Veel leerlingen hebben een andere thuistaal dan het Nederlands. Door aandacht te besteden aan de rijkdom en dynamiek van de Nederlandse taal en de verscheidenheid aan taalvariëteiten en teksten, krijgen leerlingen meer zicht op zichzelf en de ander. Ook krijgen zij meer zicht op de maatschappij en hun plek daarin. Het vak Nederlands levert met al deze inhouden en vaardigheden zodoende ook een belangrijke bijdrage aan de breder gestelde burgerschapsdoelen.",
+		"id": "86a36b31-899f-479b-8953-3fa6c3a71786",
+		"vakleergebied_id": [
+			"e41b8c50-d002-4a9f-be8b-9b5da0008656"
+		],
+		"fo_domein_id": [
+			"ae9642d1-4566-4e4d-86f5-620963fa8cef",
+			"84822dc1-2236-48f5-bd94-274b38f3b210",
+			"900d4862-1448-4d02-90c9-f1bfddc387e6"
+		],
+		"status": "definitief concept",
+		"replaces": [
+			"47240215-87a5-4d90-ad17-d21c741c8053",
+			"3f026e33-8f0c-49d2-b797-7de430dc24c4",
+			"46dc780d-c444-4a65-90ba-575b981d734c"
+		],
+		"settype": "examenprogramma",
+		"karakteristiek2": "Nederlandse taal en literatuur als schoolvak\r\nNederlands is een verplicht kernvak in de bovenbouw van het voortgezet onderwijs en behoort tot het gemeenschappelijk deel voor alle schoolsoorten en leerwegen. Het bouwt voort op de kennis en vaardigheden die leerlingen in de onderbouw hebben verworven. Om een doorlopende leerlijn vanuit primair onderwijs en onderbouw vo te waarborgen, is voortgebouwd op de kerndoelen Nederlands. Dit is qua ordening van inhouden goed te zien. Het vak krijgt in een doorlopende leerlijn vorm vanuit drie invalshoeken: communicatie, taal en literatuur. \r\n\r\nCommunicatie\r\nLeerlingen leren hun communicatie af te stemmen op doel, publiek en context. De taalvaardigheden ontwikkelen zich in samenhang met elkaar. Bij lezen, schrijven, kijken, luisteren, spreken en gesprekken voeren, spelen dezelfde processen een rol. Leerlingen passen daarbij kennis toe over taal, teksten en communicatie. Hiermee versterken leerlingen hun taalvaardigheid en verbreden en verdiepen ze hun kennis. Meer dan in de onderbouw zijn communicatieve situaties georiënteerd op beroepscontexten en maatschappelijk functioneren. Leerlingen leren bewust, kritisch en efficiënt om te gaan met informatie uit teksten en multimediale bronnen. Ze leren die te beoordelen op bruikbaarheid en kwaliteit. In een steeds verder gedigitaliseerde samenleving ontwikkelen leerlingen daarnaast inzicht in de mogelijkheden, beperkingen en het gebruik van digitale communicatiemiddelen. \r\n\r\nTaal\r\nLeerlingen verwerven kennis, vaardigheden en houdingen over taal en taalgebruik. Ze ontwikkelen hun taalbewustzijn door talige verschijnselen en uitingen te analyseren, te bespreken en daarop te reflecteren. Ze doen kennis op over taaluitingen vanuit verschillende perspectieven en reflecteren daarop vanuit een onderzoekende houding. Inzien hoe talen veranderen en hoe taal werkt, stimuleert begrip en waardering voor talige diversiteit. \r\n\r\nLiteratuur\r\nLeerlingen lezen, beluisteren, schrijven en bespreken een verscheidenheid aan literaire teksten. Ze leren deze te analyseren en interpreteren met behulp van kennis van literaire begrippen en genres. Ze kennen betekenis en waarde toe aan literatuur vanuit een persoonlijk perspectief en vanuit de sociaal-culturele en historische context. Zo werken ze aan cultuurbewustzijn en hun literaire competentie. Leerlingen worden zich bewust van de rol van literaire teksten in de samenleving en verschillende culturele perspectieven.\r\n\r\nSamenhang\r\nDe kennis, vaardigheden en houdingen die leerlingen bij Nederlands opdoen, ondersteunen het leren en de taalontwikkeling in andere taalvakken en zaakvakken. Bij andere vakken vergroten leerlingen hun talige kennis en vaardigheden en gebruiken ze het Nederlands als middel om te leren. Leerlingen lezen, bekijken, beluisteren en bespreken vakinhouden, en schrijven en presenteren om hun ideeën onder woorden te brengen. Samenhang tussen Nederlands en andere schoolse contexten biedt dus kansen voor duurzame kennis- en taalontwikkeling. De inhouden zijn sterk verwant aan Friese taal en cultuur en aan de moderne vreemde talen, met name aan Engelse taal en cultuur.",
+		"karakteristiek3": "Nederlandse taal en literatuur in de schoolsoorten\r\nBij Nederlands ontwikkelen alle leerlingen kennis, vaardigheden en houdingen op het gebied van communicatie, taal en literatuur. Hiermee worden ze voorbereid op hun vervolgopleiding en hun plek in de samenleving. In de verschillende schoolsoorten en leerwegen worden specifieke accenten gelegd voor het beheersen van kennis, vaardigheden en houdingen, en het opdoen van ervaringen.\r\n\r\nVmbo\r\nEen goede beheersing van het Nederlands speelt een belangrijke rol om leerlingen voor te bereiden op het mbo en de beroepspraktijk. Leerlingen leren zich op het vmbo in allerlei communicatieve situaties goed uitdrukken. Ze kunnen teksten lezen en produceren over praktische, concrete en actuele onderwerpen. In alle leerwegen van het vmbo doen leerlingen kennis op over taal, vanuit maatschappelijk en cultureel perspectief. Ook is er aandacht voor het lezen en bespreken van een diversiteit aan literaire teksten.\r\nVoor wat betreft lezen, schrijven, spreken en gesprekken voeren, is er onderscheid in de aard en complexiteit van de communicatieve context. \r\nBinnen de basisberoepsgerichte leerweg (vmbo-bb) zijn de onderwerpen en communicatieve situaties concreet en toepasbaar in de directe leefomgeving en beroepscontexten. Ook is er aandacht voor het onderhouden van de onderliggende technische taalvaardigheden voor mondeling en schriftelijk taalgebruik. \r\nBinnen de kaderberoepsgerichte leerweg (vmbo-kb) is er eveneens oog voor maatschappelijke en beroepsgerichte contexten. Hier neemt de complexiteit van taken en teksten toe. \r\nIn de gemengde en theoretische leerweg (vmbo-gl/tl) zijn taken, teksten en contexten abstracter en complexer dan in de andere vmbo-leerwegen. Naast aandacht voor beroepsgerichte contexten met het oog op doorstroom naar het mbo, bereidt vmbo-gl/tl leerlingen voor op doorstroom naar het havo. \r\n\r\nHavo\r\nHet havo bereidt leerlingen voor op het hbo en op doorstroom naar het vwo. Leerlingen voeren authentieke en samenhangende taaltaken uit met een brede variatie aan teksten. Deze teksten zijn niet alleen relevant voor persoonlijke ontwikkeling en maatschappelijke deelname, maar laten hen ook kennismaken met beroepsgerelateerde vormen van communicatie, kennis over taal en taalgebruik, en literatuur.\r\n\r\nVwo\r\nOmdat het vwo de leerlingen voorbereidt op wetenschappelijk vervolgonderwijs, is er aandacht voor (pre)academische taalvaardigheden in theoretische en abstracte contexten. Leerlingen voeren complexere taaltaken uit die een beroep doen op kritisch denken en onderzoeksvaardigheden. Ze verdiepen zich in kennis over taal en taalgebruik en in de sociaal-culturele en historische context van teksten en literatuur.",
+		"replacedBy": [
+			"fb4a756c-f550-4e91-a9ee-955b3b35e4ea"
+		],
+		"types": [
+			"fo_set"
+		]
+	},
+	{
+		"title": "Examenprogramma Nederlandse taal en literatuur vmbo-gl/tl",
+		"description": "Definitief conceptexamenprogramma Nederlandse taal en literatuur vmbo-gl/tl",
+		"karakteristiek": "Kenmerken van het vak Nederlandse taal en literatuur\r\r\nHet vak Nederlandse taal en literatuur (vanaf nu: Nederlands) leidt leerlingen op tot taalvaardige, taalbewuste en cultuurbewuste burgers, die kunnen deelnemen aan een geletterde, meertalige en pluriforme samenleving. Het vak bevordert zo gelijke kansen om persoonlijke en maatschappelijke doelen te bereiken vanuit ieders eigen potentie, interesse, ambitie of achtergrond. Leerlingen leren doelgericht te communiceren, hun gedachten en gevoelens te uiten en om te gaan met de continue stroom aan informatie. Daarnaast ontwikkelen ze inzicht in talige verschijnselen en communiceren ze over literaire teksten uit heden en verleden. Zo ontwikkelen ze hun eigen talige en culturele identiteit. \r\r\nHet Standaardnederlands is in grote delen van het Koninkrijk der Nederlanden de taal die een belangrijke functie heeft in onderwijs, maatschappelijke participatie en persoonlijke ontwikkeling. Veel leerlingen hebben een andere thuistaal dan het Nederlands. Door aandacht te besteden aan de rijkdom en dynamiek van de Nederlandse taal en de verscheidenheid aan taalvariëteiten en teksten, krijgen leerlingen meer zicht op zichzelf en de ander. Ook krijgen zij meer zicht op de maatschappij en hun plek daarin. Het vak Nederlands levert met al deze inhouden en vaardigheden zodoende ook een belangrijke bijdrage aan de breder gestelde burgerschapsdoelen.",
+		"id": "5ba9986d-c790-4253-9461-84d8f798d536",
+		"vakleergebied_id": [
+			"e41b8c50-d002-4a9f-be8b-9b5da0008656"
+		],
+		"fo_domein_id": [
+			"3caecd31-0d55-4174-b91c-3a5efb6479d9",
+			"b99d4bcb-edac-4053-9e2b-83020fdcbf13",
+			"1d7427fa-2f43-4ea5-8c8e-17d0c8e35077"
+		],
+		"status": "definitief concept",
+		"replaces": [
+			"dcb2a3d1-d5a1-4ae0-a014-d836c4f8d384",
+			"1f1951df-8f97-448f-a3eb-fc7e33f33ba0",
+			"184931bd-6566-4e0b-b005-6bbde2ecfa8b"
+		],
+		"settype": "examenprogramma",
+		"karakteristiek2": "Nederlandse taal en literatuur als schoolvak\r\r\nNederlands is een verplicht kernvak in de bovenbouw van het voortgezet onderwijs en behoort tot het gemeenschappelijk deel voor alle schoolsoorten en leerwegen. Het bouwt voort op de kennis en vaardigheden die leerlingen in de onderbouw hebben verworven. Om een doorlopende leerlijn vanuit primair onderwijs en onderbouw vo te waarborgen, is voortgebouwd op de kerndoelen Nederlands. Dit is qua ordening van inhouden goed te zien. Het vak krijgt in een doorlopende leerlijn vorm vanuit drie invalshoeken: communicatie, taal en literatuur. \r\r\n\r\r\nCommunicatie\r\r\nLeerlingen leren hun communicatie af te stemmen op doel, publiek en context. De taalvaardigheden ontwikkelen zich in samenhang met elkaar. Bij lezen, schrijven, kijken, luisteren, spreken en gesprekken voeren, spelen dezelfde processen een rol. Leerlingen passen daarbij kennis toe over taal, teksten en communicatie. Hiermee versterken leerlingen hun taalvaardigheid en verbreden en verdiepen ze hun kennis. Meer dan in de onderbouw zijn communicatieve situaties georiënteerd op beroepscontexten en maatschappelijk functioneren. Leerlingen leren bewust, kritisch en efficiënt om te gaan met informatie uit teksten en multimediale bronnen. Ze leren die te beoordelen op bruikbaarheid en kwaliteit. In een steeds verder gedigitaliseerde samenleving ontwikkelen leerlingen daarnaast inzicht in de mogelijkheden, beperkingen en het gebruik van digitale communicatiemiddelen. \r\r\n\r\r\nTaal\r\r\nLeerlingen verwerven kennis, vaardigheden en houdingen over taal en taalgebruik. Ze ontwikkelen hun taalbewustzijn door talige verschijnselen en uitingen te analyseren, te bespreken en daarop te reflecteren. Ze doen kennis op over taaluitingen vanuit verschillende perspectieven en reflecteren daarop vanuit een onderzoekende houding. Inzien hoe talen veranderen en hoe taal werkt, stimuleert begrip en waardering voor talige diversiteit. \r\r\n\r\r\nLiteratuur\r\r\nLeerlingen lezen, beluisteren, schrijven en bespreken een verscheidenheid aan literaire teksten. Ze leren deze te analyseren en interpreteren met behulp van kennis van literaire begrippen en genres. Ze kennen betekenis en waarde toe aan literatuur vanuit een persoonlijk perspectief en vanuit de sociaal-culturele en historische context. Zo werken ze aan cultuurbewustzijn en hun literaire competentie. Leerlingen worden zich bewust van de rol van literaire teksten in de samenleving en verschillende culturele perspectieven.\r\r\n\r\r\nSamenhang\r\r\nDe kennis, vaardigheden en houdingen die leerlingen bij Nederlands opdoen, ondersteunen het leren en de taalontwikkeling in andere taalvakken en zaakvakken. Bij andere vakken vergroten leerlingen hun talige kennis en vaardigheden en gebruiken ze het Nederlands als middel om te leren. Leerlingen lezen, bekijken, beluisteren en bespreken vakinhouden, en schrijven en presenteren om hun ideeën onder woorden te brengen. Samenhang tussen Nederlands en andere schoolse contexten biedt dus kansen voor duurzame kennis- en taalontwikkeling. De inhouden zijn sterk verwant aan Friese taal en cultuur en aan de moderne vreemde talen, met name aan Engelse taal en cultuur.",
+		"karakteristiek3": "Nederlandse taal en literatuur in de schoolsoorten\r\r\nBij Nederlands ontwikkelen alle leerlingen kennis, vaardigheden en houdingen op het gebied van communicatie, taal en literatuur. Hiermee worden ze voorbereid op hun vervolgopleiding en hun plek in de samenleving. In de verschillende schoolsoorten en leerwegen worden specifieke accenten gelegd voor het beheersen van kennis, vaardigheden en houdingen, en het opdoen van ervaringen.\r\r\n\r\r\nVmbo\r\r\nEen goede beheersing van het Nederlands speelt een belangrijke rol om leerlingen voor te bereiden op het mbo en de beroepspraktijk. Leerlingen leren zich op het vmbo in allerlei communicatieve situaties goed uitdrukken. Ze kunnen teksten lezen en produceren over praktische, concrete en actuele onderwerpen. In alle leerwegen van het vmbo doen leerlingen kennis op over taal, vanuit maatschappelijk en cultureel perspectief. Ook is er aandacht voor het lezen en bespreken van een diversiteit aan literaire teksten.\r\r\nVoor wat betreft lezen, schrijven, spreken en gesprekken voeren, is er onderscheid in de aard en complexiteit van de communicatieve context. \r\r\nBinnen de basisberoepsgerichte leerweg (vmbo-bb) zijn de onderwerpen en communicatieve situaties concreet en toepasbaar in de directe leefomgeving en beroepscontexten. Ook is er aandacht voor het onderhouden van de onderliggende technische taalvaardigheden voor mondeling en schriftelijk taalgebruik. \r\r\nBinnen de kaderberoepsgerichte leerweg (vmbo-kb) is er eveneens oog voor maatschappelijke en beroepsgerichte contexten. Hier neemt de complexiteit van taken en teksten toe. \r\r\nIn de gemengde en theoretische leerweg (vmbo-gl/tl) zijn taken, teksten en contexten abstracter en complexer dan in de andere vmbo-leerwegen. Naast aandacht voor beroepsgerichte contexten met het oog op doorstroom naar het mbo, bereidt vmbo-gl/tl leerlingen voor op doorstroom naar het havo. \r\r\n\r\r\nHavo\r\r\nHet havo bereidt leerlingen voor op het hbo en op doorstroom naar het vwo. Leerlingen voeren authentieke en samenhangende taaltaken uit met een brede variatie aan teksten. Deze teksten zijn niet alleen relevant voor persoonlijke ontwikkeling en maatschappelijke deelname, maar laten hen ook kennismaken met beroepsgerelateerde vormen van communicatie, kennis over taal en taalgebruik, en literatuur.\r\r\n\r\r\nVwo\r\r\nOmdat het vwo de leerlingen voorbereidt op wetenschappelijk vervolgonderwijs, is er aandacht voor (pre)academische taalvaardigheden in theoretische en abstracte contexten. Leerlingen voeren complexere taaltaken uit die een beroep doen op kritisch denken en onderzoeksvaardigheden. Ze verdiepen zich in kennis over taal en taalgebruik en in de sociaal-culturele en historische context van teksten en literatuur.",
+		"replacedBy": [
+			"99f30887-7159-49be-9693-ec3a59deed47"
+		],
+		"types": [
+			"fo_set"
+		]
+	},
+	{
+		"title": "Examenprogramma Nederlandse taal en literatuur havo",
+		"description": "Definitief conceptexamenprogramma Nederlandse taal en literatuur havo",
+		"karakteristiek": "Kenmerken van het vak Nederlandse taal en literatuur\r\r\nHet vak Nederlandse taal en literatuur (vanaf nu: Nederlands) leidt leerlingen op tot taalvaardige, taalbewuste en cultuurbewuste burgers, die kunnen deelnemen aan een geletterde, meertalige en pluriforme samenleving. Het vak bevordert zo gelijke kansen om persoonlijke en maatschappelijke doelen te bereiken vanuit ieders eigen potentie, interesse, ambitie of achtergrond. Leerlingen leren doelgericht te communiceren, hun gedachten en gevoelens te uiten en om te gaan met de continue stroom aan informatie. Daarnaast ontwikkelen ze inzicht in talige verschijnselen en communiceren ze over literaire teksten uit heden en verleden. Zo ontwikkelen ze hun eigen talige en culturele identiteit. \r\r\nHet Standaardnederlands is in grote delen van het Koninkrijk der Nederlanden de taal die een belangrijke functie heeft in onderwijs, maatschappelijke participatie en persoonlijke ontwikkeling. Veel leerlingen hebben een andere thuistaal dan het Nederlands. Door aandacht te besteden aan de rijkdom en dynamiek van de Nederlandse taal en de verscheidenheid aan taalvariëteiten en teksten, krijgen leerlingen meer zicht op zichzelf en de ander. Ook krijgen zij meer zicht op de maatschappij en hun plek daarin. Het vak Nederlands levert met al deze inhouden en vaardigheden zodoende ook een belangrijke bijdrage aan de breder gestelde burgerschapsdoelen.",
+		"id": "a7009a66-d93d-49f1-bd33-4d28288caaa2",
+		"vakleergebied_id": [
+			"e41b8c50-d002-4a9f-be8b-9b5da0008656"
+		],
+		"fo_domein_id": [
+			"89b554bd-ad53-485f-b46e-8a8adeb0ce34",
+			"047a9212-14af-4a4b-8ffe-408c847d4a5c",
+			"6a575c62-130c-4490-94a5-51b244b61e57"
+		],
+		"status": "definitief concept",
+		"replaces": [
+			"bef9d565-4ef5-4dcc-a36c-9eeb02f293c4",
+			"a0bafe62-baba-488e-963c-de622b8774be",
+			"557e76d0-a417-46fd-aab7-8eedb1d4a86b"
+		],
+		"settype": "examenprogramma",
+		"karakteristiek2": "Nederlandse taal en literatuur als schoolvak\r\r\nNederlands is een verplicht kernvak in de bovenbouw van het voortgezet onderwijs en behoort tot het gemeenschappelijk deel voor alle schoolsoorten en leerwegen. Het bouwt voort op de kennis en vaardigheden die leerlingen in de onderbouw hebben verworven. Om een doorlopende leerlijn vanuit primair onderwijs en onderbouw vo te waarborgen, is voortgebouwd op de kerndoelen Nederlands. Dit is qua ordening van inhouden goed te zien. Het vak krijgt in een doorlopende leerlijn vorm vanuit drie invalshoeken: communicatie, taal en literatuur. \r\r\n\r\r\nCommunicatie\r\r\nLeerlingen leren hun communicatie af te stemmen op doel, publiek en context. De taalvaardigheden ontwikkelen zich in samenhang met elkaar. Bij lezen, schrijven, kijken, luisteren, spreken en gesprekken voeren, spelen dezelfde processen een rol. Leerlingen passen daarbij kennis toe over taal, teksten en communicatie. Hiermee versterken leerlingen hun taalvaardigheid en verbreden en verdiepen ze hun kennis. Meer dan in de onderbouw zijn communicatieve situaties georiënteerd op beroepscontexten en maatschappelijk functioneren. Leerlingen leren bewust, kritisch en efficiënt om te gaan met informatie uit teksten en multimediale bronnen. Ze leren die te beoordelen op bruikbaarheid en kwaliteit. In een steeds verder gedigitaliseerde samenleving ontwikkelen leerlingen daarnaast inzicht in de mogelijkheden, beperkingen en het gebruik van digitale communicatiemiddelen. \r\r\n\r\r\nTaal\r\r\nLeerlingen verwerven kennis, vaardigheden en houdingen over taal en taalgebruik. Ze ontwikkelen hun taalbewustzijn door talige verschijnselen en uitingen te analyseren, te bespreken en daarop te reflecteren. Ze doen kennis op over taaluitingen vanuit verschillende perspectieven en reflecteren daarop vanuit een onderzoekende houding. Inzien hoe talen veranderen en hoe taal werkt, stimuleert begrip en waardering voor talige diversiteit. \r\r\n\r\r\nLiteratuur\r\r\nLeerlingen lezen, beluisteren, schrijven en bespreken een verscheidenheid aan literaire teksten. Ze leren deze te analyseren en interpreteren met behulp van kennis van literaire begrippen en genres. Ze kennen betekenis en waarde toe aan literatuur vanuit een persoonlijk perspectief en vanuit de sociaal-culturele en historische context. Zo werken ze aan cultuurbewustzijn en hun literaire competentie. Leerlingen worden zich bewust van de rol van literaire teksten in de samenleving en verschillende culturele perspectieven.\r\r\n\r\r\nSamenhang\r\r\nDe kennis, vaardigheden en houdingen die leerlingen bij Nederlands opdoen, ondersteunen het leren en de taalontwikkeling in andere taalvakken en zaakvakken. Bij andere vakken vergroten leerlingen hun talige kennis en vaardigheden en gebruiken ze het Nederlands als middel om te leren. Leerlingen lezen, bekijken, beluisteren en bespreken vakinhouden, en schrijven en presenteren om hun ideeën onder woorden te brengen. Samenhang tussen Nederlands en andere schoolse contexten biedt dus kansen voor duurzame kennis- en taalontwikkeling. De inhouden zijn sterk verwant aan Friese taal en cultuur en aan de moderne vreemde talen, met name aan Engelse taal en cultuur.",
+		"karakteristiek3": "Nederlandse taal en literatuur in de schoolsoorten\r\r\nBij Nederlands ontwikkelen alle leerlingen kennis, vaardigheden en houdingen op het gebied van communicatie, taal en literatuur. Hiermee worden ze voorbereid op hun vervolgopleiding en hun plek in de samenleving. In de verschillende schoolsoorten en leerwegen worden specifieke accenten gelegd voor het beheersen van kennis, vaardigheden en houdingen, en het opdoen van ervaringen.\r\r\n\r\r\nVmbo\r\r\nEen goede beheersing van het Nederlands speelt een belangrijke rol om leerlingen voor te bereiden op het mbo en de beroepspraktijk. Leerlingen leren zich op het vmbo in allerlei communicatieve situaties goed uitdrukken. Ze kunnen teksten lezen en produceren over praktische, concrete en actuele onderwerpen. In alle leerwegen van het vmbo doen leerlingen kennis op over taal, vanuit maatschappelijk en cultureel perspectief. Ook is er aandacht voor het lezen en bespreken van een diversiteit aan literaire teksten.\r\r\nVoor wat betreft lezen, schrijven, spreken en gesprekken voeren, is er onderscheid in de aard en complexiteit van de communicatieve context. \r\r\nBinnen de basisberoepsgerichte leerweg (vmbo-bb) zijn de onderwerpen en communicatieve situaties concreet en toepasbaar in de directe leefomgeving en beroepscontexten. Ook is er aandacht voor het onderhouden van de onderliggende technische taalvaardigheden voor mondeling en schriftelijk taalgebruik. \r\r\nBinnen de kaderberoepsgerichte leerweg (vmbo-kb) is er eveneens oog voor maatschappelijke en beroepsgerichte contexten. Hier neemt de complexiteit van taken en teksten toe. \r\r\nIn de gemengde en theoretische leerweg (vmbo-gl/tl) zijn taken, teksten en contexten abstracter en complexer dan in de andere vmbo-leerwegen. Naast aandacht voor beroepsgerichte contexten met het oog op doorstroom naar het mbo, bereidt vmbo-gl/tl leerlingen voor op doorstroom naar het havo. \r\r\n\r\r\nHavo\r\r\nHet havo bereidt leerlingen voor op het hbo en op doorstroom naar het vwo. Leerlingen voeren authentieke en samenhangende taaltaken uit met een brede variatie aan teksten. Deze teksten zijn niet alleen relevant voor persoonlijke ontwikkeling en maatschappelijke deelname, maar laten hen ook kennismaken met beroepsgerelateerde vormen van communicatie, kennis over taal en taalgebruik, en literatuur.\r\r\n\r\r\nVwo\r\r\nOmdat het vwo de leerlingen voorbereidt op wetenschappelijk vervolgonderwijs, is er aandacht voor (pre)academische taalvaardigheden in theoretische en abstracte contexten. Leerlingen voeren complexere taaltaken uit die een beroep doen op kritisch denken en onderzoeksvaardigheden. Ze verdiepen zich in kennis over taal en taalgebruik en in de sociaal-culturele en historische context van teksten en literatuur.",
+		"replacedBy": [
+			"2e163185-f820-4f17-a3a6-b6cf2f9bbeb5"
+		],
+		"types": [
+			"fo_set"
+		]
 	}
 ]
