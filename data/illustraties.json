@@ -58654,50 +58654,6 @@
 		]
 	},
 	{
-		"dirty": true,
-		"title": "Te denken valt aan",
-		"description": "onderzoek doen naar de kansen en risico’s van het gebruik van digitale communicatiemiddelen bij het maken van teksten;",
-		"prefix": "t1",
-		"status": "definitief concept",
-		"id": "6ed9e3de-d4e3-4717-9d14-f64c11f6b037",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Te denken valt aan",
-		"description": "een krantenbericht en een online bericht over hetzelfde onderwerp vergelijken voor wat betreft het vasthouden van aandacht;",
-		"prefix": "t2",
-		"status": "definitief concept",
-		"id": "28aab4fa-71be-44c7-ac97-f51127583f9e",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Te denken valt aan",
-		"description": "verkennen van toekomstscenario’s voor de ontwikkeling van digitale communicatie;",
-		"prefix": "t3",
-		"status": "definitief concept",
-		"id": "0b628836-339e-45f3-900d-019b4ac8d869",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Te denken valt aan",
-		"description": "generatieve artificiële intelligentie (GenAI) gebruiken om gerichte feedback te vragen op zelfgeschreven teksten.",
-		"prefix": "t4",
-		"status": "definitief concept",
-		"id": "d19e1ccf-c58e-42ca-9122-e0f6c47271a2",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
-	},
-	{
 		"title": "Te denken valt aan",
 		"description": "een poster maken over de voor- en nadelen van digitale communicatiemiddelen bij het produceren van teksten;",
 		"prefix": "t1",
@@ -58736,30 +58692,6 @@
 		"prefix": "t4",
 		"status": "definitief concept",
 		"id": "43bb6b24-aaf1-4220-9420-a4447fa5ef25",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Te denken valt aan",
-		"description": "uitleggen hoe manipulatietechnieken zijn gebruikt in een voorbeeld van nepnieuws.",
-		"prefix": "t4",
-		"status": "definitief concept",
-		"id": "b20f0596-fec2-4c1d-a00f-262e845d26fb",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Te denken valt aan",
-		"description": "verkennen hoe schrijvers in verhalen aandacht vragen voor onderwerpen die belangrijk zijn in de samenleving.",
-		"prefix": "t4",
-		"status": "definitief concept",
-		"id": "96ba443c-5ad5-443e-a6c5-39104ff4d019",
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
@@ -59154,7 +59086,7 @@
 	},
 	{
 		"title": "Te denken valt aan",
-		"description": "uitleggen hoe receptiebronnen verschillende perspectieven op het thema bieden met de werkvorm experts;",
+		"description": "uitleggen hoe receptiebronnen verschillende perspectieven op het thema bieden met de werkvorm 'experts';",
 		"prefix": "t3",
 		"status": "definitief concept",
 		"id": "4497fede-d3cd-4d83-b321-5eacd27a5367",
@@ -59184,7 +59116,7 @@
 	},
 	{
 		"title": "Te denken valt aan",
-		"description": "argumenten geven voor een interpretatie door een receptiebron met betrekking tot het thema trouw;",
+		"description": "argumenten geven voor een interpretatie door een receptiebron met betrekking tot het thema 'trouw';",
 		"prefix": "t4",
 		"status": "definitief concept",
 		"id": "cf31317e-5e7c-4ae0-8a9c-57876bf6d8ac",
@@ -59234,7 +59166,7 @@
 	},
 	{
 		"title": "Te denken valt aan",
-		"description": "reageren op een stelling over het perspectief van een actualisatiebron op het thema leiderschap.",
+		"description": "reageren op een stelling over het perspectief van een actualisatiebron op het thema 'leiderschap'.",
 		"prefix": "t5",
 		"status": "definitief concept",
 		"id": "d2c38f54-c8de-436f-a114-100adf151338",
@@ -59264,7 +59196,7 @@
 	},
 	{
 		"title": "Te denken valt aan",
-		"description": "koppelen van kaartjes met de verschillende perspectieven op het thema sterven voor je overtuiging aan kaartjes met factoren die de verschillen zouden kunnen verklaren.",
+		"description": "koppelen van kaartjes met de verschillende perspectieven op het thema 'sterven voor je overtuiging' aan kaartjes met factoren die de verschillen zouden kunnen verklaren.",
 		"prefix": "t5",
 		"status": "definitief concept",
 		"id": "73eab663-d228-4e70-bbc4-34923c507747",
@@ -59464,13 +59396,6 @@
 	},
 	{
 		"title": "Te denken valt aan",
-		"description": "maken van een parafrase, samenvatting of schets van een situatie die in de tekst wordt beschreven;",
-		"prefix": "t3",
-		"status": "definitief concept",
-		"id": "f95809fd-46c0-4c31-8bea-f720c9ce5b4c"
-	},
-	{
-		"title": "Te denken valt aan",
 		"description": "reageren op een stelling over de thematische interpretatie van de tekst door een bron uit of over de oudheid;",
 		"prefix": "t4",
 		"status": "definitief concept",
@@ -59491,7 +59416,7 @@
 	},
 	{
 		"title": "Te denken valt aan",
-		"description": "uitleggen hoe receptiebronnen verschillende perspectieven op het thema bieden met de werkvorm experts;",
+		"description": "uitleggen hoe receptiebronnen verschillende perspectieven op het thema bieden met de werkvorm 'experts';",
 		"prefix": "t3",
 		"status": "definitief concept",
 		"id": "413cb0cf-66ec-40de-8694-13a03e10aefb",
@@ -59521,7 +59446,7 @@
 	},
 	{
 		"title": "Te denken valt aan",
-		"description": "argumenten geven voor een interpretatie door een receptiebron met betrekking tot het thema trouw;",
+		"description": "argumenten geven voor een interpretatie door een receptiebron met betrekking tot het thema 'trouw';",
 		"prefix": "t4",
 		"status": "definitief concept",
 		"id": "2fe56e08-4cf6-4d17-a979-dddd81153021",
@@ -59571,7 +59496,7 @@
 	},
 	{
 		"title": "Te denken valt aan",
-		"description": "reageren op een stelling over het perspectief van een actualisatiebron op het thema leiderschap.",
+		"description": "reageren op een stelling over het perspectief van een actualisatiebron op het thema 'leiderschap'.",
 		"prefix": "t5",
 		"status": "definitief concept",
 		"id": "5f5aae72-6e53-42c6-a1e3-320a383d03b2",
@@ -59721,13 +59646,6 @@
 	},
 	{
 		"title": "Te denken valt aan",
-		"description": "beargumenteren of Latijnse terminologie in de biologie past bij functies of vormen van biologische onderdelen;",
-		"prefix": "t3",
-		"status": "definitief concept",
-		"id": "463daba7-8663-4b81-969d-8352d1712ca8"
-	},
-	{
-		"title": "Te denken valt aan",
 		"description": "analyseren hoe vertalers omgaan met moeilijk vertaalbare Latijnse constructies en welke oplossingen zij daarvoor kiezen;",
 		"prefix": "t3",
 		"status": "definitief concept",
@@ -59757,259 +59675,6 @@
 		]
 	},
 	{
-		"dirty": true,
-		"title": "Te denken valt aan",
-		"description": "van een beroep dat in de module voorkomt, reflecteren of dit past bij de eigen interesses en kwaliteiten.",
-		"prefix": "t4",
-		"status": "definitief concept",
-		"id": "701b5f22-f09f-439a-b8c6-643910db11b5",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Te denken valt aan",
-		"description": "het nabootsen van de vertering van koolhydraatmoleculen in darmen met legoblokjes.",
-		"prefix": "t4",
-		"status": "definitief concept",
-		"id": "dad3dd87-8758-44e7-a6ac-ef0368cabd72",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Te denken valt aan",
-		"description": "uitleggen waarom bepaalde veiligheidsregels nodig zijn bij het zelf maken van een toestel van Hofmann;",
-		"prefix": "t4",
-		"status": "definitief concept",
-		"id": "69d29f7a-9258-40a6-b3a9-d0f1be5520fb",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Te denken valt aan",
-		"description": "sensoren gebruiken om zuurstofsaturatie digitaal te meten",
-		"prefix": "t5",
-		"status": "definitief concept",
-		"id": "89b93106-2e2f-47ee-99ee-f7af37b9208d",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Te denken valt aan",
-		"description": "een conclusie trekken over de bereikte hoogte van een waterraket gebaseerd op metingen met verschillende technologieën;",
-		"prefix": "t1",
-		"status": "definitief concept",
-		"id": "07445806-273b-47ae-ab91-b868d44f6a81",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Te denken valt aan",
-		"description": "conclusies trekken uit de eigen metingen van fijnstof, gecombineerd met de metingen van een citizen science-project;",
-		"prefix": "t2",
-		"status": "definitief concept",
-		"id": "bff20462-367f-42b6-be0b-ce2e6fa303a0",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Te denken valt aan",
-		"description": "verklaringen voor de gevonden waardes van metingen van waterkwaliteit formuleren;",
-		"prefix": "t3",
-		"status": "definitief concept",
-		"id": "3d195ca7-dfcd-4b6b-bc04-7f84b073498f",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Te denken valt aan",
-		"description": "kiezen van de beste lijm voor het bouwen van een houten modelbrug.",
-		"prefix": "t4",
-		"status": "definitief concept",
-		"id": "fea0107d-0492-403b-97b4-1482e8993e8f",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Te denken valt aan",
-		"description": "een partijprogramma voor de waterschapsverkiezingen meenemen in een project over de kwaliteit van oppervlaktewater;",
-		"prefix": "t1",
-		"status": "definitief concept",
-		"id": "6d654d2a-8dfb-4d5e-9a6e-90498d5a13f6",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Te denken valt aan",
-		"description": "het ordenen van de verschillende perspectieven op waterbeheer;",
-		"prefix": "t2",
-		"status": "definitief concept",
-		"id": "9bfb10e3-2d29-43e0-971e-2a4ad35765fe",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Te denken valt aan",
-		"description": "een maatschappelijke discussie organiseren met externe partijen;",
-		"prefix": "t3",
-		"status": "definitief concept",
-		"id": "9818309c-0443-4129-bcb9-d5886db199c0",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Te denken valt aan",
-		"description": "de voor- en nadelen van de aanleg van een stuwmeer beschrijven voor natuur en drinkwater;",
-		"prefix": "t4",
-		"status": "definitief concept",
-		"id": "ccef1568-e707-406c-afb2-924861b2c937",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Te denken valt aan",
-		"description": "een debat voeren over hoe hart- en vaatziekten voorkomen kunnen worden.",
-		"prefix": "t5",
-		"status": "definitief concept",
-		"id": "ef52aa68-141e-4a23-aa05-0274b8d82802",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Te denken valt aan",
-		"description": "in een dataset van stoffen in afvalwater patronen herkennen van periodieke fluctuaties;",
-		"prefix": "t1",
-		"status": "definitief concept",
-		"id": "d5ceb785-b5a9-4b79-8c7e-ee48cef6dcb0",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Te denken valt aan",
-		"description": "analyseren van data door technieken te gebruiken uit de machine learning;",
-		"prefix": "t2",
-		"status": "definitief concept",
-		"id": "34771482-2b5c-49c5-b9cf-c3aa8f6d9ee4",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Te denken valt aan",
-		"description": "uit ruwe data van slaaponderzoek uitspraken doen over de kwaliteit van de slaap;",
-		"prefix": "t3",
-		"status": "definitief concept",
-		"id": "6de87db1-78e2-43a0-9423-23ef6901e1ad",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Te denken valt aan",
-		"description": "voorspellen of het aantal ongelukken met fatbikes zal toenemen, afnemen of gelijk blijven.",
-		"prefix": "t4",
-		"status": "definitief concept",
-		"id": "338c95af-cd18-4bef-a884-4933774982ee",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Te denken valt aan",
-		"description": "een onderzoek doen naar de relatie tussen het toepassen van meststoffen en het bodemleven;",
-		"prefix": "t1",
-		"status": "definitief concept",
-		"id": "2c133b1b-153a-4cc2-9b91-6636ab462ec1",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Te denken valt aan",
-		"description": "het effect van verschillende nutriëntdeficiënties bij planten identificeren;",
-		"prefix": "t2",
-		"status": "definitief concept",
-		"id": "d5af47fd-7aa1-4a3a-af21-75832899b93a",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Te denken valt aan",
-		"description": "klassikaal bespreken of er een oorzakelijk verband ligt onder het aantal gevallen van wespensteken en het aantal verkochte ijsjes.",
-		"prefix": "t3",
-		"status": "definitief concept",
-		"id": "ba7f69df-6d5c-43bd-a041-181ea62d1ed8",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Te denken valt aan",
-		"description": "een schema van het hart maken en aangeven hoe aandoeningen de invoer en uitvoer van bloed beïnvloeden;",
-		"prefix": "t1",
-		"status": "definitief concept",
-		"id": "a29a6aeb-d55f-4add-99f1-ff234152b0a0",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Te denken valt aan",
-		"description": "adviseren over de beste hoogte van het grondwater voor het watersysteem in een polder;",
-		"prefix": "t2",
-		"status": "definitief concept",
-		"id": "3bea3d40-8656-4b8f-bbcb-b046d4a2a997",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Te denken valt aan",
-		"description": "schematisch kunnen aangeven wat in een digitaal systeem de input, verwerking en output zijn.",
-		"prefix": "t3",
-		"status": "definitief concept",
-		"id": "ae44b5f5-96c4-4e11-83b2-14eff3f6b1b3",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
-	},
-	{
 		"title": "Te denken valt aan",
 		"description": "afwegen en formuleren van oplossingen om meer woningen te realiseren op basis van interviews met bouwkundigen, beleidsmedewerkers, medewerkers van een woningbouwvereniging en woningzoekenden;",
 		"prefix": "t1",
@@ -60035,83 +59700,6 @@
 		"prefix": "t3",
 		"status": "definitief concept",
 		"id": "d05a856b-61d0-496e-b725-69a9cb517b82",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Te denken valt aan",
-		"description": "voor cluster A een module over het verzwaren van de Nederlandse rivierdijken;",
-		"prefix": "t1",
-		"status": "definitief concept",
-		"id": "8af11a26-7d1a-4051-b0e6-0618b6aefea9",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Te denken valt aan",
-		"description": "voor cluster B een module over waterzuivering;",
-		"prefix": "t2",
-		"status": "definitief concept",
-		"id": "c867e9a8-8cb5-4795-b2d0-a8d0f9e02952",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Te denken valt aan",
-		"description": "voor cluster C een module over de rol van waterstof in de energietransitie.",
-		"prefix": "t3",
-		"status": "definitief concept",
-		"id": "1b6cf72e-9945-4240-8778-0f545609769c",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Te denken valt aan",
-		"description": "voor cluster D een module over meten aan kosmische straling en melkwegstelsels.",
-		"prefix": "t4",
-		"status": "definitief concept",
-		"id": "12b9fe5f-c450-4e37-a23d-c9a10bc98289",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Te denken valt aan",
-		"description": "bij de start van de les aan de teamleden aangeven hoe ver de opdracht is gevorderd;",
-		"prefix": "t1",
-		"status": "definitief concept",
-		"id": "9c2e2263-15bc-4384-8eff-e1cec43a59b0",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Te denken valt aan",
-		"description": "bij het opstellen van het adviesrapport de kwaliteiten van elk teamlid bespreken en hiervan gebruikmaken;",
-		"prefix": "t2",
-		"status": "definitief concept",
-		"id": "f6c92069-19b8-40fd-97a7-4a5429147b28",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Te denken valt aan",
-		"description": "na het afronden van een groepsopdracht elk teamlid een tip en top geven.",
-		"prefix": "t3",
-		"status": "definitief concept",
-		"id": "b084276e-0c85-48de-a2d8-60dc0d9b9453",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -60352,17 +59940,6 @@
 		"prefix": "t3",
 		"status": "definitief concept",
 		"id": "f239401d-ae47-4142-a6aa-93ee2ddb83f0",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Te denken valt aan",
-		"description": "toepassen van concepten uit drie verschillende disciplines bij de eindpresentatie over een oplossing van het vraagstuk.",
-		"prefix": "t4",
-		"status": "definitief concept",
-		"id": "0a5aec71-ebc1-43f6-bd58-9cb46d917c64",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -60893,61 +60470,6 @@
 		"prefix": "t5",
 		"status": "definitief concept",
 		"id": "c9bb129d-f50d-4064-8afe-7f32ea276a84",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Te denken valt aan",
-		"description": "inrichten van de leeromgeving om het leerproces te bevorderen;",
-		"prefix": "t1",
-		"status": "definitief concept",
-		"id": "c55a84a9-a179-4d64-819d-80fee80f8c37",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Te denken valt aan",
-		"description": "opstellen en indien nodig aanpassen van een projectplanning tijdens het uitvoeren van het project;",
-		"prefix": "t2",
-		"status": "definitief concept",
-		"id": "3ad2a51e-439b-4443-9a8d-16bc6031aa6d",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Te denken valt aan",
-		"description": "na afloop van het gesprek met de expert of opdrachtgever vaststellen of de voorbereiding op het project voldoende was;",
-		"prefix": "t3",
-		"status": "definitief concept",
-		"id": "fdd6e650-0cd4-448e-8589-875e6270142c",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Te denken valt aan",
-		"description": "bespreken van feedback met medeleerlingen en de leraar op basis van een competentiemonitor om vast te stellen wat wel en niet bijdraagt aan het succesvol afronden van projecten;",
-		"prefix": "t4",
-		"status": "definitief concept",
-		"id": "3d064ce3-2582-4a8b-80fe-9cc417a9a702",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Te denken valt aan",
-		"description": "het maken en bijhouden van een persoonlijk ontwikkelingsplan en dit aanpassen na een tussentijdse afweging en eindreflectie.",
-		"prefix": "t5",
-		"status": "definitief concept",
-		"id": "903c632b-7376-47b2-996e-44ceb256135b",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -66262,7 +65784,7 @@
 		],
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "een documentaire over Fries erfgoed bekijken en puntsgewijs navertellen.",
+		"description": "een documentaire over Fries erfgoed bekijken en navertellen.",
 		"replaces": [
 			"7968abe7-95e9-47c4-9b43-55630c9779c9"
 		]
@@ -66743,7 +66265,7 @@
 		],
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "uitleggen hoe een woord, zin of alinea begrepen moet worden gezien  op basis van het genre.",
+		"description": "uitleggen hoe een woord, zin of alinea begrepen moet worden gezien op basis van het genre.",
 		"replaces": [
 			"41fd2f18-2ca4-412e-b75a-42f6a1b07b9b"
 		]
@@ -67016,7 +66538,7 @@
 		],
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "een discussie voeren met leeftijdgenoten over de woordvolgorde in het Griekse.",
+		"description": "een discussie voeren met leeftijdgenoten over de woordvolgorde in het Grieks.",
 		"replaces": [
 			"dbdaf289-83cf-4096-a321-b61fee52619b"
 		]
@@ -80961,7 +80483,7 @@
 		],
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "redeneren over samenhang tussen variabelen op basis van spreidingsdiagrammen, bijvoorbeeld met een spreidingsdiagram onderzoeken of er samenhang is tussen inname cafeïnehoudende drankjes en hartslag.",
+		"description": "redeneren over samenhang tussen variabelen op basis van spreidingsdiagrammen, bijvoorbeeld met een spreidingsdiagram onderzoeken of er samenhang is tussen de inname van cafeïnehoudende drankjes en hartslag.",
 		"replaces": [
 			"aa232b19-ae2e-4d10-afc1-fee439364340"
 		]
@@ -88922,7 +88444,7 @@
 		],
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "maken van een venndiagram met een toelichting over in hoeverre twee auteurs uit de oudheid verschillen en overeenkomen in hun uitspraken over het thema rechtvaardigheid;",
+		"description": "maken van een venndiagram met een toelichting over in hoeverre twee auteurs uit de oudheid verschillen en overeenkomen in hun uitspraken over het thema 'rechtvaardigheid';",
 		"replaces": [
 			"b66dd7d2-1a32-4bcd-97d3-7eb0f639d897",
 			"0c0ccaa2-089e-4996-9645-2476b7870e80"
@@ -88978,7 +88500,7 @@
 		],
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "beschrijven welke perspectieven op het thema wraak in de tekst wel en welke niet te herkennen zijn in een gedicht of film;",
+		"description": "beschrijven welke perspectieven op het thema 'wraak' in de tekst wel en welke niet te herkennen zijn in een gedicht of film;",
 		"replaces": [
 			"df3afe8e-47f4-4058-9deb-68e6e84b9f50",
 			"c5b2ad1b-c2db-41d3-8423-b1acf328ba06"
@@ -90182,7 +89704,7 @@
 		],
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "maken van een venndiagram met een toelichting over in hoeverre twee auteurs uit de oudheid verschillen en overeenkomen in hun uitspraken over het thema rechtvaardigheid;",
+		"description": "maken van een venndiagram met een toelichting over in hoeverre twee auteurs uit de oudheid verschillen en overeenkomen in hun uitspraken over het thema 'rechtvaardigheid';",
 		"replaces": [
 			"ff9bf5ad-5eac-4b2e-86f9-bd5d97dc2d1b",
 			"61bfa990-ca34-4e40-a016-3ed3d665aed4"
@@ -90238,7 +89760,7 @@
 		],
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "beschrijven welke perspectieven op het thema wraak in de tekst wel en welke niet te herkennen zijn in een gedicht of film;",
+		"description": "beschrijven welke perspectieven op het thema 'wraak' in de tekst wel en welke niet te herkennen zijn in een gedicht of film;",
 		"replaces": [
 			"a40fcf09-9dc3-4239-871e-7203327515fc",
 			"7964121d-dd61-45b6-9441-f592d245569e"
@@ -112729,7 +112251,7 @@
 		],
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "gegevens vertalen van en naar procenten en indices om ranglijsten te interpreteren en te gebruiken;",
+		"description": "gegevens vertalen naar procenten en indices om ranglijsten te interpreteren en te gebruiken;",
 		"replaces": [
 			"417e1e58-ad72-44ab-9523-9e76b9c61d4f",
 			"ab1aa92b-854d-4eed-9747-1aa17a8d28ba"
@@ -112771,7 +112293,7 @@
 		],
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "omgaan met kentallen en referentiematen, zoals totaal, per inwoner, per dag, per vlucht, en per huis;",
+		"description": "omgaan met kentallen en referentiematen, zoals totaal, per inwoner, per dag, per vlucht en per huis;",
 		"replaces": [
 			"a37d8f9b-99c1-4915-a35a-fde205f3d986",
 			"02daec90-1d63-4ec3-9a32-11918e5892d8"
@@ -112813,7 +112335,7 @@
 		],
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "interpreteren en valideren van uitkomsten in context:  is een miljoen euro veel of weinig winst?;",
+		"description": "interpreteren en valideren van uitkomsten in context: is een miljoen euro veel of weinig winst;",
 		"replaces": [
 			"abf124ce-dfe4-4e8e-9d68-8c120713acfa",
 			"07ea2a0a-94b6-425b-a94a-787e788c1b53"
@@ -114283,7 +113805,7 @@
 		],
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "interpreteren en valideren van uitkomsten in context: is een miljoen euro veel of weinig winst?;",
+		"description": "interpreteren en valideren van uitkomsten in context: is een miljoen euro veel of weinig winst;",
 		"replaces": [
 			"2bbd0e2e-677e-4723-be64-42cfb5e7f210",
 			"5e17fad7-1638-4f38-832a-6aa5dde6b754"
@@ -118679,7 +118201,7 @@
 		],
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "betekenis geven aan de irrationale getallen pi, e, wortel(2) en log(2) ;",
+		"description": "betekenis geven aan de irrationale getallen pi, wortel(2) en log(2) ;",
 		"replaces": [
 			"ad39d64b-34c1-4d86-ba39-340e30b6794c",
 			"e7383ab9-2bf9-4634-91ef-74ee4110517c"
@@ -119337,7 +118859,7 @@
 		],
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "de lengte berekenen van de hoogtelijn door gebruik te maken van de oppervlakte van de driehoek;",
+		"description": "de lengte berekenen van een hoogtelijn door gebruik te maken van de oppervlakte van de driehoek;",
 		"replaces": [
 			"3097f3f8-48ae-4caf-a32b-50ebcc8f11d2",
 			"4362b128-a7dd-4c4b-9096-2167307f06f5"
@@ -119365,7 +118887,7 @@
 		],
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "oppervlakte van driehoek berekenen op basis van twee zijden en ingesloten hoek;",
+		"description": "oppervlakte van driehoek berekenen op basis van twee zijden en een ingesloten hoek;",
 		"replaces": [
 			"dfdf7fdb-cf11-400c-8560-4c0036661840",
 			"5709f4db-f76b-4c91-8997-0281ea3af6f9"
@@ -119379,7 +118901,7 @@
 		],
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "strategisch hoeken, lengten, oppervlakten berekenen bij wiskundige en praktische probleemsituaties in het platte vlak, gebruik makend van eigenschappen van figuren.",
+		"description": "strategisch hoeken, lengten en oppervlakten berekenen bij wiskundige en praktische probleemsituaties in het platte vlak, gebruikmakend van eigenschappen van figuren.",
 		"replaces": [
 			"e0d4de8a-69fd-4524-8d84-c7a439605aac",
 			"d1d57bf9-d39c-449f-bb8a-58c1f1620e10"
@@ -119421,7 +118943,7 @@
 		],
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "berekenen van lengtes in een driedimensionaal figuur met  behulp van coördinaten;",
+		"description": "berekenen van lengtes in een driedimensionaal figuur met behulp van coördinaten;",
 		"replaces": [
 			"7677eb44-bfa1-4657-981a-fd12e022f988",
 			"9f2eeaf3-556c-40db-a07b-e955842812c2"
@@ -120261,7 +119783,7 @@
 		],
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "oplossen van vergelijkingen via substitutie 2sin^2 (x)-cos⁡-〖(x)〗=2;",
+		"description": "oplossen van vergelijkingen via substitutie 2sin^2 (x)-cos⁡-(x)=2;",
 		"replaces": [
 			"c720a519-7614-4df0-82a0-242d29b70512",
 			"4665279d-e1a3-4b01-a41a-f85e95b96a03"
@@ -120667,7 +120189,7 @@
 		],
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "bespreken van een verband met meerdere variabelen door het op te vatten als een functie, waarbij een afhankelijke en onafhankelijke variabele en eventueel parameters gekozen worden; bijvoorbeeld het herleiden van het verband P〖∙D〗^3=Q tot een functie die P uitdrukt in functie van D, met Q als parameter;",
+		"description": "bespreken van een verband met meerdere variabelen door het op te vatten als een functie, waarbij een afhankelijke en onafhankelijke variabele en eventueel parameters gekozen worden; bijvoorbeeld het herleiden van het verband P∙D^3=Q tot een functie die P uitdrukt in functie van D, met Q als parameter;",
 		"replaces": [
 			"6682a6d5-9aae-4136-9444-cc0957e7c798",
 			"28c40cc6-0892-40a5-aaae-cfc496b3841e"
@@ -120681,7 +120203,7 @@
 		],
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "onderzoeken voor welke waarden van de parameter a de reële functie f(x)=a x 〖+sin〗⁡x een inverse heeft.",
+		"description": "onderzoeken voor welke waarden van de parameter a de reële functie f(x)=a x +sin ⁡x een inverse heeft.",
 		"replaces": [
 			"5ca52db4-0196-4eab-93bd-f74646015f5a",
 			"92f7df31-16f4-4cfb-a678-8e366993b7a9"
@@ -120765,7 +120287,7 @@
 		],
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "werken met periodieke functies van de vorm f(sin⁡x), zoals f_1 (x)=2(sin⁡〖(x)〗 )^2+sin⁡〖(x)〗 en f_2 (x)=sin⁡〖(x)〗/(2 sin⁡〖(x)-1〗 )  ;",
+		"description": "werken met periodieke functies van de vorm f(sin⁡x), zoals f_1 (x)=2(sin⁡(x) )^2+sin(x) en f_2 (x)=sin⁡(x)/(2 sin (x)-1);",
 		"replaces": [
 			"f1e6890a-e46e-4aa6-90a7-192d05f67fbb",
 			"875b8b02-bce6-4f42-ace4-ed334a492178"
@@ -120919,7 +120441,7 @@
 		],
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "strategisch hoeken, lengten en oppervlakten berekenen bij wiskundige en praktische probleemsituaties in het platte vlak, gebruik makend van eigenschappen van figuren;",
+		"description": "strategisch hoeken, lengten en oppervlakten berekenen bij wiskundige en praktische probleemsituaties in het platte vlak, gebruikmakend van eigenschappen van figuren;",
 		"replaces": [
 			"8dae14a8-71fa-4482-9cfe-98b2570a91ab",
 			"aabc1604-46cb-4f3d-8119-38b3ba2309bb"
@@ -121045,7 +120567,7 @@
 		],
 		"status": "definitief concept",
 		"title": "Te denken valt aan",
-		"description": "onderzoeken of twee parametervoorstelling dezelfde kromme beschrijven;",
+		"description": "onderzoeken of twee parametervoorstellingen dezelfde kromme beschrijven;",
 		"replaces": [
 			"ff04e330-b236-41d7-8149-030576adc310",
 			"38ab38fa-b0a6-451f-bbb1-0c9e6d978943"
@@ -121959,6 +121481,580 @@
 		"replaces": [
 			"062aea3a-8ce2-4fe5-bf9c-c190f91ba234",
 			"3a0e50ca-9d33-4486-9418-b4dbc6716c09"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "onderzoek doen naar de kansen en risico’s van het gebruik van digitale communicatiemiddelen bij het maken van teksten;",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "f7640af2-b5e1-41ac-9cec-22f6c257c031",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replaces": [
+			"6ed9e3de-d4e3-4717-9d14-f64c11f6b037"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "een krantenbericht en een online bericht over hetzelfde onderwerp vergelijken voor wat betreft het vasthouden van aandacht;",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "92a86697-cba5-42f0-bd8a-2cb44328d9b8",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replaces": [
+			"28aab4fa-71be-44c7-ac97-f51127583f9e"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "verkennen van toekomstscenario’s voor de ontwikkeling van digitale communicatie;",
+		"prefix": "t3",
+		"status": "definitief concept",
+		"id": "5074cda2-31f3-4721-bf0f-32d9df29e7a5",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replaces": [
+			"0b628836-339e-45f3-900d-019b4ac8d869"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "generatieve artificiële intelligentie (GenAI) gebruiken om gerichte feedback te vragen op zelfgeschreven teksten.",
+		"prefix": "t4",
+		"status": "definitief concept",
+		"id": "49e447da-4fd6-4ee4-941a-69a33ccbabad",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replaces": [
+			"d19e1ccf-c58e-42ca-9122-e0f6c47271a2"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "uitleggen hoe manipulatietechnieken zijn gebruikt in een voorbeeld van nepnieuws.",
+		"prefix": "t4",
+		"status": "definitief concept",
+		"id": "5d1dc27e-efa2-4e96-9812-3a99b165f57d",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"replaces": [
+			"b20f0596-fec2-4c1d-a00f-262e845d26fb"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "verkennen hoe schrijvers in verhalen aandacht vragen voor onderwerpen die belangrijk zijn in de samenleving.",
+		"prefix": "t4",
+		"status": "definitief concept",
+		"id": "2fc56e7c-7ff8-4c25-8194-4c17856b1ff8",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"replaces": [
+			"96ba443c-5ad5-443e-a6c5-39104ff4d019"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "maken van een parafrase, samenvatting of schets van een situatie die in de tekst wordt beschreven;",
+		"prefix": "t3",
+		"status": "definitief concept",
+		"id": "e0648b0d-0970-4138-942c-12b37f599680",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replaces": [
+			"f95809fd-46c0-4c31-8bea-f720c9ce5b4c"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "beargumenteren of Latijnse terminologie in de biologie past bij functies of vormen van biologische onderdelen;",
+		"prefix": "t3",
+		"status": "definitief concept",
+		"id": "c287216b-7f60-47f3-8703-856b848b9df8",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replaces": [
+			"463daba7-8663-4b81-969d-8352d1712ca8"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "van een beroep dat in de module voorkomt, reflecteren of dit past bij de eigen interesses en kwaliteiten.",
+		"prefix": "t4",
+		"status": "definitief concept",
+		"id": "4df69c55-0ffe-4524-b0ce-3d2de61ec5f7",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replaces": [
+			"701b5f22-f09f-439a-b8c6-643910db11b5"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "het nabootsen van de vertering van koolhydraatmoleculen in darmen met legoblokjes.",
+		"prefix": "t4",
+		"status": "definitief concept",
+		"id": "36a28982-5a79-46f1-9627-64dea529873f",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replaces": [
+			"dad3dd87-8758-44e7-a6ac-ef0368cabd72"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "uitleggen waarom bepaalde veiligheidsregels nodig zijn bij het zelf maken van een toestel van Hofmann;",
+		"prefix": "t4",
+		"status": "definitief concept",
+		"id": "e14a9eaa-3c94-4730-aec7-43d14aea0bbd",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replaces": [
+			"69d29f7a-9258-40a6-b3a9-d0f1be5520fb"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "sensoren gebruiken om zuurstofsaturatie digitaal te meten",
+		"prefix": "t5",
+		"status": "definitief concept",
+		"id": "b453a627-e6c6-4162-8a20-c0b4f2eea77d",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replaces": [
+			"89b93106-2e2f-47ee-99ee-f7af37b9208d"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "een conclusie trekken over de bereikte hoogte van een waterraket gebaseerd op metingen met verschillende technologieën;",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "31f8051c-ef6e-4000-8cb6-64812bf79d69",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replaces": [
+			"07445806-273b-47ae-ab91-b868d44f6a81"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "conclusies trekken uit de eigen metingen van fijnstof, gecombineerd met de metingen van een citizen science-project;",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "a06604e0-593a-4e4c-a5ea-93da154c9150",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replaces": [
+			"bff20462-367f-42b6-be0b-ce2e6fa303a0"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "verklaringen voor de gevonden waardes van metingen van waterkwaliteit formuleren;",
+		"prefix": "t3",
+		"status": "definitief concept",
+		"id": "907949f8-b01f-4827-9a03-976975198922",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replaces": [
+			"3d195ca7-dfcd-4b6b-bc04-7f84b073498f"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "kiezen van de beste lijm voor het bouwen van een houten modelbrug.",
+		"prefix": "t4",
+		"status": "definitief concept",
+		"id": "e335cc08-8bfb-4c31-a7f5-e7c27beb30d7",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replaces": [
+			"fea0107d-0492-403b-97b4-1482e8993e8f"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "een partijprogramma voor de waterschapsverkiezingen meenemen in een project over de kwaliteit van oppervlaktewater;",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "2d9c2ffc-df81-4fea-8efc-2eb548e45906",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replaces": [
+			"6d654d2a-8dfb-4d5e-9a6e-90498d5a13f6"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "het ordenen van de verschillende perspectieven op waterbeheer;",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "bbe9ccf1-3de9-4ccd-a8c0-9bb9e5e012f4",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replaces": [
+			"9bfb10e3-2d29-43e0-971e-2a4ad35765fe"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "een maatschappelijke discussie organiseren met externe partijen;",
+		"prefix": "t3",
+		"status": "definitief concept",
+		"id": "544330fc-a0fe-4106-8190-cab59bdb901f",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replaces": [
+			"9818309c-0443-4129-bcb9-d5886db199c0"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "de voor- en nadelen van de aanleg van een stuwmeer beschrijven voor natuur en drinkwater;",
+		"prefix": "t4",
+		"status": "definitief concept",
+		"id": "292cee6e-4b13-485a-8885-e6744cdb2b63",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replaces": [
+			"ccef1568-e707-406c-afb2-924861b2c937"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "een debat voeren over hoe hart- en vaatziekten voorkomen kunnen worden.",
+		"prefix": "t5",
+		"status": "definitief concept",
+		"id": "17c0d7fa-0639-469a-b8c7-1855c68171d3",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replaces": [
+			"ef52aa68-141e-4a23-aa05-0274b8d82802"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "in een dataset van stoffen in afvalwater patronen herkennen van periodieke fluctuaties;",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "9ad87d3d-c4b5-4fd8-b92f-7a398d44d1de",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replaces": [
+			"d5ceb785-b5a9-4b79-8c7e-ee48cef6dcb0"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "analyseren van data door technieken te gebruiken uit de machine learning;",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "b047d433-d3ef-46f6-a431-dd039094c5a0",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replaces": [
+			"34771482-2b5c-49c5-b9cf-c3aa8f6d9ee4"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "uit ruwe data van slaaponderzoek uitspraken doen over de kwaliteit van de slaap;",
+		"prefix": "t3",
+		"status": "definitief concept",
+		"id": "6ce6450c-5355-45e6-815f-956ac7624bf9",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replaces": [
+			"6de87db1-78e2-43a0-9423-23ef6901e1ad"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "voorspellen of het aantal ongelukken met fatbikes zal toenemen, afnemen of gelijk blijven.",
+		"prefix": "t4",
+		"status": "definitief concept",
+		"id": "af232db4-076e-4d10-a739-6f9147989a8a",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replaces": [
+			"338c95af-cd18-4bef-a884-4933774982ee"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "een onderzoek doen naar de relatie tussen het toepassen van meststoffen en het bodemleven;",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "2b9e6389-977f-4f94-becd-3924bf3b0e3c",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replaces": [
+			"2c133b1b-153a-4cc2-9b91-6636ab462ec1"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "het effect van verschillende nutriëntdeficiënties bij planten identificeren;",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "6bb4ebcd-c025-4fb8-aea5-c7462b3190de",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replaces": [
+			"d5af47fd-7aa1-4a3a-af21-75832899b93a"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "klassikaal bespreken of er een oorzakelijk verband ligt onder het aantal gevallen van wespensteken en het aantal verkochte ijsjes.",
+		"prefix": "t3",
+		"status": "definitief concept",
+		"id": "3605b9c0-26d3-4ebe-926c-e6a7b2388d2b",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replaces": [
+			"ba7f69df-6d5c-43bd-a041-181ea62d1ed8"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "een schema van het hart maken en aangeven hoe aandoeningen de invoer en uitvoer van bloed beïnvloeden;",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "d33d4a61-0154-41d7-85b6-f873bbd92328",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replaces": [
+			"a29a6aeb-d55f-4add-99f1-ff234152b0a0"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "adviseren over de beste hoogte van het grondwater voor het watersysteem in een polder;",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "70eaacce-d66c-44f6-bdb6-fe18c9217999",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replaces": [
+			"3bea3d40-8656-4b8f-bbcb-b046d4a2a997"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "schematisch kunnen aangeven wat in een digitaal systeem de input, verwerking en output zijn.",
+		"prefix": "t3",
+		"status": "definitief concept",
+		"id": "d33fbbc3-e7bc-4702-9b7f-0fcdc76b0c3a",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replaces": [
+			"ae44b5f5-96c4-4e11-83b2-14eff3f6b1b3"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "voor cluster A een module over het verzwaren van de Nederlandse rivierdijken;",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "02719ec7-7d6a-441f-bacd-b5a25aa68107",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replaces": [
+			"8af11a26-7d1a-4051-b0e6-0618b6aefea9"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "voor cluster B een module over waterzuivering;",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "401398df-2c23-4d85-9cb6-084902d7b620",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replaces": [
+			"c867e9a8-8cb5-4795-b2d0-a8d0f9e02952"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "voor cluster C een module over de rol van waterstof in de energietransitie.",
+		"prefix": "t3",
+		"status": "definitief concept",
+		"id": "d5bb0b1f-3020-4d79-9f85-b78edd15b986",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replaces": [
+			"1b6cf72e-9945-4240-8778-0f545609769c"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "voor cluster D een module over meten aan kosmische straling en melkwegstelsels.",
+		"prefix": "t4",
+		"status": "definitief concept",
+		"id": "03b7a0b7-039f-4d1e-a2ee-62952763c8aa",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replaces": [
+			"12b9fe5f-c450-4e37-a23d-c9a10bc98289"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "bij de start van de les aan de teamleden aangeven hoe ver de opdracht is gevorderd;",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "25dcb201-7ea7-46e2-8c65-4062f2013a69",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replaces": [
+			"9c2e2263-15bc-4384-8eff-e1cec43a59b0"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "bij het opstellen van het adviesrapport de kwaliteiten van elk teamlid bespreken en hiervan gebruikmaken;",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "da22c7c4-4058-4fe0-8bf7-2dc22c15ec95",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replaces": [
+			"f6c92069-19b8-40fd-97a7-4a5429147b28"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "na het afronden van een groepsopdracht elk teamlid een tip en top geven.",
+		"prefix": "t3",
+		"status": "definitief concept",
+		"id": "7b3707ee-be6e-47df-beae-d03e1f445563",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replaces": [
+			"b084276e-0c85-48de-a2d8-60dc0d9b9453"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "toepassen van concepten uit drie verschillende disciplines bij de eindpresentatie over een oplossing van het vraagstuk.",
+		"prefix": "t4",
+		"status": "definitief concept",
+		"id": "de3b8c85-d6d9-42a8-81d3-b6a7dddb4585",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replaces": [
+			"0a5aec71-ebc1-43f6-bd58-9cb46d917c64"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "inrichten van de leeromgeving om het leerproces te bevorderen;",
+		"prefix": "t1",
+		"status": "definitief concept",
+		"id": "d8c5ec35-04e7-4cfb-8af4-f04123493cfc",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replaces": [
+			"c55a84a9-a179-4d64-819d-80fee80f8c37"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "opstellen en indien nodig aanpassen van een projectplanning tijdens het uitvoeren van het project;",
+		"prefix": "t2",
+		"status": "definitief concept",
+		"id": "0186fd96-56fd-4fe9-8d51-c41afcd5623b",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replaces": [
+			"3ad2a51e-439b-4443-9a8d-16bc6031aa6d"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "na afloop van het gesprek met de expert of opdrachtgever vaststellen of de voorbereiding op het project voldoende was;",
+		"prefix": "t3",
+		"status": "definitief concept",
+		"id": "c6ff8eb0-ce6a-4ddd-82df-1258602cc64f",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replaces": [
+			"fdd6e650-0cd4-448e-8589-875e6270142c"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "bespreken van feedback met medeleerlingen en de leraar op basis van een competentiemonitor om vast te stellen wat wel en niet bijdraagt aan het succesvol afronden van projecten;",
+		"prefix": "t4",
+		"status": "definitief concept",
+		"id": "b177bc0f-487f-4c7b-a6a3-f164fafb57b2",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replaces": [
+			"3d064ce3-2582-4a8b-80fe-9cc417a9a702"
+		]
+	},
+	{
+		"title": "Te denken valt aan",
+		"description": "het maken en bijhouden van een persoonlijk ontwikkelingsplan en dit aanpassen na een tussentijdse afweging en eindreflectie.",
+		"prefix": "t5",
+		"status": "definitief concept",
+		"id": "ce3f3228-457e-441f-9ef8-eed866563219",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replaces": [
+			"903c632b-7376-47b2-996e-44ceb256135b"
 		]
 	}
 ]

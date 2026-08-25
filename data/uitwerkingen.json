@@ -13519,19 +13519,6 @@
 		"status": "concept"
 	},
 	{
-		"description": "opstellen van de inverse functie;",
-		"prefix": "u3",
-		"id": "799650e9-622e-4a67-bbda-e82684757a0e",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "Het gaat hierbij om",
-		"status": "concept",
-		"replaces": [
-			"c686ca96-f75f-486a-800c-c5cf72055dca"
-		]
-	},
-	{
 		"title": "Het gaat hierbij om",
 		"description": "verkennen van de werking van verschillende digitale apparaten;",
 		"prefix": "u1",
@@ -69584,39 +69571,6 @@
 		]
 	},
 	{
-		"dirty": true,
-		"title": "Het gaat hierbij om",
-		"description": "verkennen hoe digitale technologie de communicatie in het dagelijks leven en de maatschappij beïnvloedt;",
-		"prefix": "u1",
-		"status": "definitief concept",
-		"id": "4d1b88c3-f068-46ab-8780-657166b1b1bd",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Het gaat hierbij om",
-		"description": "verkennen hoe makers van digitale media de aandacht van gebruikers trekken en vasthouden, en reacties uitlokken;",
-		"prefix": "u2",
-		"status": "definitief concept",
-		"id": "6ced839f-897d-46d1-b02a-3aff8ff4291b",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Het gaat hierbij om",
-		"description": "reflecteren op de mogelijkheden, beperkingen en geschiktheid van digitale middelen bij het verwerken en produceren van teksten.",
-		"prefix": "u3",
-		"status": "definitief concept",
-		"id": "36a2ccbd-7d02-40e0-a799-5f3cc1ae3cb9",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
-	},
-	{
 		"title": "Het gaat hierbij om",
 		"description": "verkennen hoe digitale technologie de communicatie in het dagelijks leven beïnvloedt;",
 		"prefix": "u1",
@@ -69651,20 +69605,6 @@
 	},
 	{
 		"title": "Het gaat hierbij om",
-		"description": "beschrijven hoe keuzes van een auteur of spreker voor literaire middelen, stijl en vorm bijdragen aan de interpretatie van een tekst",
-		"prefix": "u3",
-		"status": "definitief concept",
-		"id": "4b0e7fd8-0717-427c-9c5e-298798876e5b"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "verwoorden van inhouden en betekenis van de tekst.",
-		"prefix": "u5",
-		"status": "definitief concept",
-		"id": "ad93aceb-384a-4116-85d0-e4c045f348c7"
-	},
-	{
-		"title": "Het gaat hierbij om",
 		"description": "verkennen hoe digitale technologie de communicatie in het dagelijks leven beïnvloedt;",
 		"prefix": "u1",
 		"status": "definitief concept",
@@ -69692,20 +69632,6 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		]
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "beschrijven hoe keuzes van een auteur of spreker voor literaire middelen, stijl en vorm bijdragen aan de interpretatie van een tekst.",
-		"prefix": "u3",
-		"status": "definitief concept",
-		"id": "cd4f5757-1050-4bf9-a27f-15840b2ad780"
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "verwoorden van inhouden en betekenis van de tekst.",
-		"prefix": "u5",
-		"status": "definitief concept",
-		"id": "4a536098-5aeb-43bb-ad90-068de729948a"
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -69909,237 +69835,6 @@
 		]
 	},
 	{
-		"dirty": true,
-		"title": "Het gaat hierbij om",
-		"description": "reflecteren op wat wel of niet bijdraagt aan het succesvol afronden van een taak.",
-		"prefix": "u4",
-		"status": "definitief concept",
-		"id": "5bc3e707-433c-4ca3-9a71-63e786fa3c45",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Het gaat hierbij om",
-		"description": "deelnemen aan activiteiten die bijdragen aan het verkennen van interesses, kwaliteiten en mogelijkheden;",
-		"prefix": "u3",
-		"status": "definitief concept",
-		"id": "4f5e119d-6473-49d1-a713-cb03b5c195df",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Het gaat hierbij om",
-		"description": "reflecteren op opgedane ervaringen, indien relevant voor de eigen oriëntatie op studie en beroep.",
-		"prefix": "u4",
-		"status": "definitief concept",
-		"id": "57f89e38-553e-434c-9efe-999c23e791eb",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Het gaat hierbij om",
-		"description": "ontwerpen van een model om verschijnselen inzichtelijk te maken;",
-		"prefix": "u4",
-		"status": "definitief concept",
-		"id": "c533a497-4f0b-486b-b9ac-7802a403e05a",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Het gaat hierbij om",
-		"description": "evalueren of de uitkomsten vanuit een model aannemelijk zijn.",
-		"prefix": "u5",
-		"status": "definitief concept",
-		"id": "58482636-2c3c-4d7e-9861-26e00be9ad6b",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Het gaat hierbij om",
-		"description": "registreren van metingen en waarnemingen.",
-		"prefix": "u3",
-		"status": "definitief concept",
-		"id": "60be42a9-638e-493f-92d4-ff6ff1f7673f",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Het gaat hierbij om",
-		"description": "formuleren van mogelijke verklaringen, technologische oplossingen en onderdelen daarvan, met gebruik van vaktaal;",
-		"prefix": "u1",
-		"status": "definitief concept",
-		"id": "82d5dded-6d90-45fe-8f23-95f9134238d3",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Het gaat hierbij om",
-		"description": "kiezen van één aannemelijke verklaring;",
-		"prefix": "u2",
-		"status": "definitief concept",
-		"id": "09f2fc4a-d6c2-49a8-8c89-594119aeb382",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Het gaat hierbij om",
-		"description": "kiezen van één passende oplossing;",
-		"prefix": "u3",
-		"status": "definitief concept",
-		"id": "fb49084c-d6a2-490a-ab6d-6cb410724186",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Het gaat hierbij om",
-		"description": "onderbouwen van de keuze.",
-		"prefix": "u4",
-		"status": "definitief concept",
-		"id": "d87ab2fc-53be-47a2-a6d6-95d188c2503d",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Het gaat hierbij om",
-		"description": "identificeren van natuurwetenschappelijke en technologische feiten, principiële overwegingen en maatschappelijke en persoonlijke belangen;",
-		"prefix": "u1",
-		"status": "definitief concept",
-		"id": "97cdacd5-d21a-4fac-95d2-187eeecfcb37",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Het gaat hierbij om",
-		"description": "beoordelen van argumenten op correctheid en relevantie;",
-		"prefix": "u2",
-		"status": "definitief concept",
-		"id": "cfe71cf4-ed7f-4caa-ab95-1941f95ee57b",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Het gaat hierbij om",
-		"description": "afwegen van verschillende argumenten;",
-		"prefix": "u3",
-		"status": "definitief concept",
-		"id": "c09e98ba-ccb5-49d4-9445-4535df6f07c4",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Het gaat hierbij om",
-		"description": "onderbouwen van een standpunt.",
-		"prefix": "u4",
-		"status": "definitief concept",
-		"id": "5a1ee192-0559-4d6a-ac8b-a8e7bcd2abf7",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Het gaat hierbij om",
-		"description": "analyseren van patronen in waarnemingen en gegevens;",
-		"prefix": "u1",
-		"status": "definitief concept",
-		"id": "7d4443ad-3355-43c4-8956-dbfaa044d7ef",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Het gaat hierbij om",
-		"description": "formuleren van verwachtingen op basis van patronen.",
-		"prefix": "u2",
-		"status": "definitief concept",
-		"id": "aeaf7019-5a7b-45af-aa47-54eedcdf59b6",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Het gaat hierbij om",
-		"description": "analyseren van oorzaak en gevolg en de onderliggende mechanismes bij een gebeurtenis en een proces;",
-		"prefix": "u1",
-		"status": "definitief concept",
-		"id": "37d63099-0072-48a1-a341-c5451beed06c",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Het gaat hierbij om",
-		"description": "beschrijven dat niet onder iedere correlatie een oorzaak-gevolgrelatie ligt.",
-		"prefix": "u2",
-		"status": "definitief concept",
-		"id": "2892b345-dc9a-4455-944c-19830630c1f7",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Het gaat hierbij om",
-		"description": "beschrijven van een gegeven situatie als een systeem met systeemgrenzen en deelsystemen;",
-		"prefix": "u1",
-		"status": "definitief concept",
-		"id": "8559654a-d2c9-4089-b4da-10f26544a37b",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Het gaat hierbij om",
-		"description": "beschrijven van een gegeven systeem met invoer, uitvoer, interacties en terugkoppeling;",
-		"prefix": "u2",
-		"status": "definitief concept",
-		"id": "524f9ae2-3dfa-4e66-9260-807bdc0c41be",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Het gaat hierbij om",
-		"description": "redeneren over een systeem met een model.",
-		"prefix": "u3",
-		"status": "definitief concept",
-		"id": "9b6c378c-cf45-4e08-9537-e6596800ab87",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
-	},
-	{
 		"title": "Het gaat hierbij om",
 		"description": "werken aan het vraagstuk vanuit ten minste drie natuurwetenschappelijke of technologische disciplines;",
 		"prefix": "u1",
@@ -70200,99 +69895,11 @@
 		]
 	},
 	{
-		"dirty": true,
-		"title": "Het gaat hierbij om",
-		"description": "één vraagstuk uit cluster A - Klimaat en biodiversiteit:\r\r\nSDG 13 Klimaatactie\r\r\nSDG 14 Leven in het water\r\r\nSDG 15 Leven op het land;",
-		"prefix": "u1",
-		"status": "definitief concept",
-		"id": "eb8b58c9-e4f6-4b44-b1ba-777dfe764850",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Het gaat hierbij om",
-		"description": "één vraagstuk uit cluster B – Duurzaam en gezond leven: \r\r\nSDG 2 Geen honger\r\r\nSDG 3 Goede gezondheid en welzijn\r\r\nSDG 6 Schoon water en sanitair\r\r\nSDG 12 Verantwoorde consumptie en productie;",
-		"prefix": "u2",
-		"status": "definitief concept",
-		"id": "8430ca78-9659-4b59-8697-f833e5227441",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Het gaat hierbij om",
-		"description": "één vraagstuk uit cluster C – Energie, innovatie en infrastructuur: \r\r\nSDG 7 Betaalbare en duurzame energie\r\r\nSDG 9 Industrie, innovatie en infrastructuur\r\r\nSDG 11 Duurzame steden en gemeenschappen;",
-		"prefix": "u3",
-		"status": "definitief concept",
-		"id": "9c90d2b8-36ae-4462-93c1-405f85eaa32f",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Het gaat hierbij om",
-		"description": "één vraagstuk uit cluster D – Fundamenteel: \r\r\nfundamenten van natuurwetenschap en technologie.",
-		"prefix": "u4",
-		"status": "definitief concept",
-		"id": "6f8a54dc-f035-46ec-8541-3b078aaed148",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
-	},
-	{
 		"title": "Het gaat hierbij om",
 		"description": "eflecteren op wat wel of niet bijdraagt aan het succesvol afronden van een taak.",
 		"prefix": "u4",
 		"status": "definitief concept",
 		"id": "b3089e11-816c-418d-9ee7-59623133ae19",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Het gaat hierbij om",
-		"description": "werken aan een gezamenlijke oplossing met een herkenbare eigen inbreng;",
-		"prefix": "u1",
-		"status": "definitief concept",
-		"id": "630e5c84-06dc-4b53-a363-bda9a9be5118",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Het gaat hierbij om",
-		"description": "afstemmen over taken;",
-		"prefix": "u2",
-		"status": "definitief concept",
-		"id": "a165b28a-b612-4c9f-b194-ef06e97aeb8e",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Het gaat hierbij om",
-		"description": "zorg dragen voor het afronden van de eigen deeltaak;",
-		"prefix": "u3",
-		"status": "definitief concept",
-		"id": "bc3a135f-d03a-44c5-9ee5-c2342a95d8df",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Het gaat hierbij om",
-		"description": "formuleren van feedback op het samenwerken.",
-		"prefix": "u4",
-		"status": "definitief concept",
-		"id": "5a6093a0-79d4-4817-ae2a-984e0937fb4e",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -70768,61 +70375,6 @@
 		]
 	},
 	{
-		"dirty": true,
-		"title": "Het gaat hierbij om",
-		"description": "werken aan het behalen van zelf opgestelde leerdoelen;",
-		"prefix": "u1",
-		"status": "definitief concept",
-		"id": "a63a36b4-dd32-4503-8cd0-7fff0a13cee6",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Het gaat hierbij om",
-		"description": "ervaringen opdoen met hoe de eigen motivatie, focus, interesse en regulatie van gevoelens invloed hebben op de voorbereiding, uitvoering en afronding van een taak;",
-		"prefix": "u2",
-		"status": "definitief concept",
-		"id": "0da89627-f04a-47cb-ae73-fbaf6c4e3a3a",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Het gaat hierbij om",
-		"description": "ervaringen opdoen met hoe het bijstellen van een gepland proces bijdraagt aan de voorbereiding, uitvoering en afronding van een taak;",
-		"prefix": "u3",
-		"status": "definitief concept",
-		"id": "47acfb4c-ee17-4021-9926-48bec3111543",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Het gaat hierbij om",
-		"description": "afwegen van het eigen handelen tijdens het doorlopen van de drie fases van een taak: voorbereiding, uitvoering en reflectie;",
-		"prefix": "u4",
-		"status": "definitief concept",
-		"id": "75bf06f7-d028-45f1-b9b4-ee9b662b8594",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Het gaat hierbij om",
-		"description": "reflecteren op wat wel of niet bijdraagt aan het succesvol afronden van een taak.",
-		"prefix": "u5",
-		"status": "definitief concept",
-		"id": "e1151713-55a9-406c-84e3-29106213f660",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
-	},
-	{
 		"title": "Het gaat hierbij om",
 		"description": "schatten van waarden van relevante grootheden.",
 		"prefix": "u3",
@@ -70908,17 +70460,6 @@
 		"prefix": "u3",
 		"status": "definitief concept",
 		"id": "d1b3fe69-6514-42ee-8d00-345c4f37e73c",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Het gaat hierbij om",
-		"description": "ontwerpen van een model om verschijnselen inzichtelijk te maken;",
-		"prefix": "u4",
-		"status": "definitief concept",
-		"id": "98bc76f6-07aa-4297-b2f3-976d34a360a5",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -73533,13 +73074,6 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
-	},
-	{
-		"title": "Het gaat hierbij om",
-		"description": "werken volgens fasen van een onderzoekscyclus;",
-		"prefix": "u3",
-		"status": "definitief concept",
-		"id": "53d6e6a1-8f3a-4583-886b-175f992ac956"
 	},
 	{
 		"title": "Het gaat hierbij om",
@@ -79436,7 +78970,7 @@
 		]
 	},
 	{
-		"description": "verwoorden van de eigen literaire ontwikkeling op basis van kennis van literaire genres, eigen interesse, belevingswereld en leeservaringen.",
+		"description": "verwoorden van de eigen literaire ontwikkeling op basis van kennis van literaire genres, eigen interesses, belevingswereld en leeservaringen.",
 		"prefix": "u4",
 		"id": "4279ac1a-f98e-4550-b81e-c41968dddca2",
 		"niveau_id": [
@@ -79566,7 +79100,7 @@
 		]
 	},
 	{
-		"description": "verwoorden van de eigen literaire ontwikkeling op basis van kennis van literaire genres, eigen interesse, belevingswereld en leeservaringen.",
+		"description": "verwoorden van de eigen literaire ontwikkeling op basis van kennis van literaire genres, eigen interesses, belevingswereld en leeservaringen.",
 		"prefix": "u4",
 		"id": "325c3f5a-4c5b-4820-ad53-ff3f199bea9d",
 		"niveau_id": [
@@ -79704,7 +79238,7 @@
 		]
 	},
 	{
-		"description": "verwoorden van de eigen literaire ontwikkeling op basis van kennis van literaire genres, eigen interesse, belevingswereld en leeservaringen.",
+		"description": "verwoorden van de eigen literaire ontwikkeling op basis van kennis van literaire genres, eigen interesses, belevingswereld en leeservaringen.",
 		"prefix": "u4",
 		"id": "9dc4caa9-c1b8-402a-892f-a9a5b181998c",
 		"niveau_id": [
@@ -80639,7 +80173,7 @@
 		]
 	},
 	{
-		"description": "onderzoeken van opgedane kennis, vaardigheden en houdingen ten opzichte van taalbewustzijn, cultuurbewustzijn, literair bewustzijn en intercultureel bewustzijn;",
+		"description": "onderzoeken van opgedane kennis, vaardigheden en houdingen ten aanzien van taalbewustzijn, cultuurbewustzijn, literair bewustzijn en intercultureel bewustzijn;",
 		"prefix": "u2",
 		"id": "c8d84424-062a-4811-ab76-9c0d9f5c76aa",
 		"niveau_id": [
@@ -96104,7 +95638,7 @@
 		]
 	},
 	{
-		"description": "werken met verwachtingswaarden van stochasten;",
+		"description": "werken met verwachtingswaarden van stochasten.",
 		"prefix": "u5",
 		"id": "497a937d-270a-47b7-9c44-12359dac9cf2",
 		"niveau_id": [
@@ -96910,7 +96444,7 @@
 		]
 	},
 	{
-		"description": "berekenen van kansen, verwachtingswaarde bij continue kansverdelingen met behulp van een integraal;",
+		"description": "berekenen van kansen en verwachtingswaarden bij continue kansverdelingen met behulp van een integraal;",
 		"prefix": "u4",
 		"id": "4ddeb242-6c58-4fc5-85b5-4bbd93283d56",
 		"niveau_id": [
@@ -97184,7 +96718,7 @@
 	},
 	{
 		"title": "Het gaat hierbij om",
-		"description": "bepalen van het veranderingsgedrag van een functie met behulp van het differentiequatiënt.",
+		"description": "bepalen van het gemiddelde veranderingsgedrag van een functie met behulp van het differentiequotiënt.",
 		"prefix": "u3",
 		"id": "9ac805d8-5460-43ab-82cb-2ebf302c40fb",
 		"niveau_id": [
@@ -97197,7 +96731,7 @@
 	},
 	{
 		"title": "Het gaat hierbij om",
-		"description": "beargumenteren welke verwerking en karakterisering van data geschikt is.",
+		"description": "beargumenteren welke verwerking en karakterisering van data geschikt zijn.",
 		"prefix": "u5",
 		"id": "b1654586-8bc5-40bf-91ec-828d6fa9a961",
 		"niveau_id": [
@@ -97262,7 +96796,7 @@
 	},
 	{
 		"title": "Het gaat hierbij om",
-		"description": "bepalen van het veranderingsgedrag van een functie met behulp van het differentiequotiënt;",
+		"description": "bepalen van het gemiddelde veranderingsgedrag van een functie met behulp van het differentiequotiënt;",
 		"prefix": "u3",
 		"id": "3edd005f-57cb-49af-9a9c-696146daddef",
 		"niveau_id": [
@@ -97275,7 +96809,7 @@
 	},
 	{
 		"title": "Het gaat hierbij om",
-		"description": "gebruiken van de tweede afgeleide van de parametervoorstelling als versnellingsvector en de afgeleide van de baansnelheid als baanversnelling.",
+		"description": "gebruiken van de tweede afgeleide van een parametervoorstelling als versnellingsvector en de afgeleide van de baansnelheid als baanversnelling.",
 		"prefix": "u5",
 		"id": "6207d4f7-5385-4cd2-b2af-855770d626f5",
 		"niveau_id": [
@@ -99211,7 +98745,7 @@
 		]
 	},
 	{
-		"description": "actief bijdragen aan gesprekken gerelateerd aan alledaagse, maatschappelijke en beroepscontexten;",
+		"description": "initiatief nemen, actief luisteren en passend reageren op signalen en bijdragen van gesprekspartner(s);",
 		"prefix": "u2",
 		"id": "c56e8b60-1bd6-47ca-8001-6e6bd508b0f5",
 		"niveau_id": [
@@ -99511,7 +99045,7 @@
 		]
 	},
 	{
-		"description": "belevend en herkennend lezen van zes literaire werekn, waarvan ten minste drie oorspronkelijk Nederlandstalige boeken;",
+		"description": "belevend en herkennend lezen van zes literaire werken, waarvan ten minste drie oorspronkelijk Nederlandstalige boeken;",
 		"prefix": "u1",
 		"id": "7da75590-e6c1-499a-be5d-71582e2379b7",
 		"niveau_id": [
@@ -103724,7 +103258,7 @@
 		]
 	},
 	{
-		"description": "beschrijven inhoudelijke relaties binnen en tussen bronnen;",
+		"description": "beschrijven van inhoudelijke relaties binnen en tussen bronnen;",
 		"prefix": "u2",
 		"id": "9915df0a-5660-4aad-9366-9ffaae693666",
 		"niveau_id": [
@@ -104186,7 +103720,7 @@
 		]
 	},
 	{
-		"description": "uitleggen hoe belangrijke gebeurtenissen en ontwikkelingen in het heden in verband staan met de Friese geschiedenis.",
+		"description": "uitleggen hoe gebeurtenissen en ontwikkelingen in het heden in verband staan met de Friese geschiedenis.",
 		"prefix": "u4",
 		"id": "0aaa9611-ecfe-484e-bc6d-91c977146ecd",
 		"niveau_id": [
@@ -104522,7 +104056,7 @@
 		]
 	},
 	{
-		"description": "weergeven van de expliciet uitgedrukt(e) tekstverbanden;",
+		"description": "weergeven van de expliciet uitgedrukte tekstverbanden;",
 		"prefix": "u2",
 		"id": "6ba17575-da43-45f3-a4f3-3a3b4ae455ed",
 		"niveau_id": [
@@ -105012,7 +104546,7 @@
 		]
 	},
 	{
-		"description": "oriënteren op sectoren, beroepen en vervolgopleidingen waarin de kennis en vaardigheden van Griekse taal en cultuur een rol kunnen spelen;",
+		"description": "oriënteren op sectoren, beroepen en vervolgopleidingen waarin de kennis en vaardigheden van de Griekse taal en cultuur een rol kunnen spelen;",
 		"prefix": "u2",
 		"id": "90a607d8-f12d-474e-8b13-12b8d7e242ad",
 		"niveau_id": [
@@ -105558,7 +105092,7 @@
 		]
 	},
 	{
-		"description": "benoemen van expliciet uitgedrukte informatie in vergelijking met ander tekstgedeelte of met een andere bron.",
+		"description": "benoemen van expliciet uitgedrukte informatie in vergelijking met ander tekstgedeelte of met een ander tekstgedeelte.",
 		"prefix": "u4",
 		"id": "0feaa07a-86f7-44c7-9955-99ce826e7a79",
 		"niveau_id": [
@@ -125396,7 +124930,7 @@
 		]
 	},
 	{
-		"description": "bepalen van de eigenschappen van een populatieverdeling aan de hand van grafische representaties;",
+		"description": "benoemen van de eigenschappen van een populatieverdeling aan de hand van grafische representaties;",
 		"prefix": "u3",
 		"id": "8b9b622d-e640-48ca-a001-8130df035e16",
 		"niveau_id": [
@@ -125494,7 +125028,7 @@
 		]
 	},
 	{
-		"description": "kansen berekenen met discrete probleemsituaties;",
+		"description": "kansen berekenen in discrete probleemsituaties;",
 		"prefix": "u3",
 		"id": "c1c94a7d-4c11-485f-b704-f91414c5f7a3",
 		"niveau_id": [
@@ -126838,7 +126372,7 @@
 		]
 	},
 	{
-		"description": "kansen berekenen met discrete probleemsituaties;",
+		"description": "kansen berekenen in discrete probleemsituaties;",
 		"prefix": "u3",
 		"id": "cedc319f-4ec8-493e-ac7d-42889d4000c9",
 		"niveau_id": [
@@ -126922,7 +126456,7 @@
 		]
 	},
 	{
-		"description": "verkennen van mogelijke waarden variabelen bij een gegeven verband;",
+		"description": "verkennen van mogelijke waarden van variabelen bij een gegeven verband;",
 		"prefix": "u2",
 		"id": "76291d18-ae0a-45fd-b7e5-47e2d3348b0a",
 		"niveau_id": [
@@ -127062,7 +126596,7 @@
 		]
 	},
 	{
-		"description": "onderscheiden van de differentiequotiënt en de helling van een grafiek in een punt;",
+		"description": "onderscheiden van een differentiequotiënt en de helling van een grafiek in een punt;",
 		"prefix": "u1",
 		"id": "b82bb455-75d9-4d8f-b5df-77ad829fdea9",
 		"niveau_id": [
@@ -127076,7 +126610,7 @@
 		]
 	},
 	{
-		"description": "berekenen van het differentiequotiënt van een functie;",
+		"description": "berekenen van differentiequotiënten van een functie;",
 		"prefix": "u2",
 		"id": "c2c0fc4a-9913-4eae-bae9-dfedff33f0fe",
 		"niveau_id": [
@@ -127244,7 +126778,7 @@
 		]
 	},
 	{
-		"description": "abstraheren, generaliseren;",
+		"description": "abstraheren en generaliseren;",
 		"prefix": "u4",
 		"id": "83489d4b-1e1f-45fd-85ab-ab37c17e2643",
 		"niveau_id": [
@@ -127762,7 +127296,7 @@
 		]
 	},
 	{
-		"description": "hanteren van de juiste notaties, conventies en benamingen;",
+		"description": "hanteren van passende notaties, conventies en benamingen;",
 		"prefix": "u2",
 		"id": "1ca6852d-02ea-487a-a983-255c8bc9722f",
 		"niveau_id": [
@@ -128182,7 +127716,7 @@
 		]
 	},
 	{
-		"description": "data vergelijken op basis van frequentieverdelingen en andere visualisaties;",
+		"description": "data vergelijken op basis van frequentieverdelingen en andere representaties;",
 		"prefix": "u4",
 		"id": "7b6219ec-8284-4293-b6c4-3e2264a15cf9",
 		"niveau_id": [
@@ -128308,7 +127842,7 @@
 		]
 	},
 	{
-		"description": "berekenen van de correlatiecoëfficiënt en de formule van de regressielijn;",
+		"description": "redeneren met de correlatiecoëfficiënt en de formule van de regressielijn;",
 		"prefix": "u3",
 		"id": "90d7959b-7de1-4e0b-bf8a-0c356f8b6b69",
 		"niveau_id": [
@@ -128518,7 +128052,7 @@
 		]
 	},
 	{
-		"description": "berekenen van het differentiequotiënt van een functie;",
+		"description": "berekenen van differentiequotiënten van een functie;",
 		"prefix": "u2",
 		"id": "40f6cdd6-f053-4229-9f5c-f049c759a61a",
 		"niveau_id": [
@@ -128588,7 +128122,7 @@
 		]
 	},
 	{
-		"description": "gebruik maken van de kettingregel voor het differentiëren van functies van de vorm g(f(x)), waarbij f een lineaire functie is en g een standaardfunctie;",
+		"description": "gebruikmaken van de kettingregel voor het differentiëren van functies van de vorm g(f(x)), waarbij f een lineaire functie is en geen standaardfunctie;",
 		"prefix": "u2",
 		"id": "9e7d915a-d0dd-456f-b4fd-66f6cd20f2a7",
 		"niveau_id": [
@@ -129134,7 +128668,7 @@
 		]
 	},
 	{
-		"description": "hanteren van de juiste notaties, conventies en benamingen;",
+		"description": "hanteren van juiste notaties, conventies en benamingen;",
 		"prefix": "u2",
 		"id": "a3987d6e-5b19-470a-9451-c06991a2be84",
 		"niveau_id": [
@@ -129148,7 +128682,7 @@
 		]
 	},
 	{
-		"description": "maken van visuele representaties;",
+		"description": "maken van visuele representaties.",
 		"prefix": "u3",
 		"id": "7d688f76-ed9c-43bb-afcd-c2581fbb7fd5",
 		"niveau_id": [
@@ -129316,7 +128850,7 @@
 		]
 	},
 	{
-		"description": "herkennen van en werken met de verzamelingen N, Z, Q of R;",
+		"description": "herkennen van en werken met de verzamelingen N, Z, Q en R;",
 		"prefix": "u1",
 		"id": "0e549ffb-591e-4628-aa38-f6ad345e06c3",
 		"niveau_id": [
@@ -130198,7 +129732,7 @@
 		]
 	},
 	{
-		"description": "abstraheren, generaliseren en formuleren;",
+		"description": "abstraheren en generaliseren;",
 		"prefix": "u4",
 		"id": "b11b1b78-089b-4e27-891a-eec21fb7c39c",
 		"niveau_id": [
@@ -131024,7 +130558,7 @@
 		]
 	},
 	{
-		"description": "analyseren van effect van meetonnauwkeurigheden en afrondingen bij tussenresultaten op eindresultaten;",
+		"description": "analyseren van het effect van meetonnauwkeurigheden en afrondingen bij tussenresultaten op eindresultaten;",
 		"prefix": "u1",
 		"id": "6b4d21e0-48df-402b-b205-6745bb441ea6",
 		"niveau_id": [
@@ -131514,7 +131048,7 @@
 		]
 	},
 	{
-		"description": "gebruik maken van de kettingregel voor het differentiëren van functies van de vorm g(f(x)), waarbij f een lineaire functie is en g een standaardfunctie;",
+		"description": "gebruikmaken van de kettingregel voor het differentiëren van functies van de vorm g(f(x)), waarbij f een lineaire functie is en g een standaardfunctie;",
 		"prefix": "u2",
 		"id": "c1a9fcec-623e-471b-95ef-e921d9b399a7",
 		"niveau_id": [
@@ -132354,7 +131888,7 @@
 		]
 	},
 	{
-		"description": "herkennen van en werken met de verzamelingen N, Z, Q of R;",
+		"description": "herkennen van en werken met de verzamelingen N, Z, Q en R;",
 		"prefix": "u1",
 		"id": "70872a84-99e0-445a-8f55-5450143aa9e7",
 		"niveau_id": [
@@ -132550,7 +132084,7 @@
 		]
 	},
 	{
-		"description": "uitvoeren van eenhedenanalyse in een verband tussen grootheden.",
+		"description": "uitvoeren van een eenhedenanalyse in een verband tussen grootheden.",
 		"prefix": "u3",
 		"id": "a65720b9-7ca4-449c-b1a1-909f313ee911",
 		"niveau_id": [
@@ -132970,7 +132504,7 @@
 		]
 	},
 	{
-		"description": "berekenen van het differentiequotiënt van een functie;",
+		"description": "berekenen van het differentiequotiënten van een functie;",
 		"prefix": "u2",
 		"id": "8b0885df-9b74-42ac-b6dd-dddfbfe729c4",
 		"niveau_id": [
@@ -133348,7 +132882,7 @@
 		]
 	},
 	{
-		"description": "rekenen aan keerpunten van parameterkrommen;",
+		"description": "berekenen aan keerpunten van parameterkrommen;",
 		"prefix": "u1",
 		"id": "43a399dd-6328-4bf6-b494-fc2578f8973d",
 		"niveau_id": [
@@ -133530,7 +133064,7 @@
 		]
 	},
 	{
-		"description": "abstraheren, generaliseren;",
+		"description": "abstraheren en generaliseren;",
 		"prefix": "u4",
 		"id": "c88ae0c1-ed48-4510-bd9f-359a3b36ee8f",
 		"niveau_id": [
@@ -134314,6 +133848,566 @@
 		"replaces": [
 			"1e066fd9-7ba6-4868-a7be-29036541af5a",
 			"4b0827ac-c361-460e-bba3-b963cf0e6aab"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "verkennen hoe digitale technologie de communicatie in het dagelijks leven en de maatschappij beïnvloedt;",
+		"prefix": "u1",
+		"status": "definitief concept",
+		"id": "004681ff-3225-4830-b714-2c87b881d97a",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replaces": [
+			"4d1b88c3-f068-46ab-8780-657166b1b1bd"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "verkennen hoe makers van digitale media de aandacht van gebruikers trekken en vasthouden, en reacties uitlokken;",
+		"prefix": "u2",
+		"status": "definitief concept",
+		"id": "be439cdd-008d-43a9-8e1e-a7df8b4c30ca",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replaces": [
+			"6ced839f-897d-46d1-b02a-3aff8ff4291b"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "reflecteren op de mogelijkheden, beperkingen en geschiktheid van digitale middelen bij het verwerken en produceren van teksten.",
+		"prefix": "u3",
+		"status": "definitief concept",
+		"id": "fa764fa6-bb67-424c-8ada-2dcf69c6d388",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replaces": [
+			"36a2ccbd-7d02-40e0-a799-5f3cc1ae3cb9"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "beschrijven hoe keuzes van een auteur of spreker voor literaire middelen, stijl en vorm bijdragen aan de interpretatie van een tekst.",
+		"prefix": "u3",
+		"status": "definitief concept",
+		"id": "a2675b12-4691-40c7-ade4-b5998f3617c5",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"replaces": [
+			"4b0e7fd8-0717-427c-9c5e-298798876e5b"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "verwoorden van inhouden en betekenis van de tekst.",
+		"prefix": "u5",
+		"status": "definitief concept",
+		"id": "01d60ee2-e21b-4284-abd2-7f39cf0c3738",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"replaces": [
+			"ad93aceb-384a-4116-85d0-e4c045f348c7"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "beschrijven hoe keuzes van een auteur of spreker voor literaire middelen, stijl en vorm bijdragen aan de interpretatie van een tekst.",
+		"prefix": "u3",
+		"status": "definitief concept",
+		"id": "e91b6a37-fd6b-4012-9e75-8cc18e5a75aa",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"replaces": [
+			"cd4f5757-1050-4bf9-a27f-15840b2ad780"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "verwoorden van inhouden en betekenis van de tekst.",
+		"prefix": "u5",
+		"status": "definitief concept",
+		"id": "9c138046-0ea0-4222-a189-f8993deb8d9d",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"replaces": [
+			"4a536098-5aeb-43bb-ad90-068de729948a"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "reflecteren op wat wel of niet bijdraagt aan het succesvol afronden van een taak.",
+		"prefix": "u4",
+		"status": "definitief concept",
+		"id": "3f6872fe-c712-47a5-ae05-78862fd0862a",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replaces": [
+			"5bc3e707-433c-4ca3-9a71-63e786fa3c45"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "deelnemen aan activiteiten die bijdragen aan het verkennen van interesses, kwaliteiten en mogelijkheden;",
+		"prefix": "u3",
+		"status": "definitief concept",
+		"id": "1b2db93a-a2b1-4de5-8e67-681eaa5a7554",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replaces": [
+			"4f5e119d-6473-49d1-a713-cb03b5c195df"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "reflecteren op opgedane ervaringen, indien relevant voor de eigen oriëntatie op studie en beroep.",
+		"prefix": "u4",
+		"status": "definitief concept",
+		"id": "3ea9bce3-2073-47e4-ab0b-a54bb64e73e7",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replaces": [
+			"57f89e38-553e-434c-9efe-999c23e791eb"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "ontwerpen van een model om verschijnselen inzichtelijk te maken;",
+		"prefix": "u4",
+		"status": "definitief concept",
+		"id": "4db99586-e004-40aa-8f09-4da23d9f8eba",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replaces": [
+			"c533a497-4f0b-486b-b9ac-7802a403e05a"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "evalueren of de uitkomsten vanuit een model aannemelijk zijn.",
+		"prefix": "u5",
+		"status": "definitief concept",
+		"id": "869a3215-87a8-4f12-a6bf-4bd0c9bba8f1",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replaces": [
+			"58482636-2c3c-4d7e-9861-26e00be9ad6b"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "registreren van metingen en waarnemingen.",
+		"prefix": "u3",
+		"status": "definitief concept",
+		"id": "d2792b34-5697-4df9-bb49-2f5890ec5322",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replaces": [
+			"60be42a9-638e-493f-92d4-ff6ff1f7673f"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "formuleren van mogelijke verklaringen, technologische oplossingen en onderdelen daarvan, met gebruik van vaktaal;",
+		"prefix": "u1",
+		"status": "definitief concept",
+		"id": "c45fa533-3fb1-4c15-9aea-93b2c7132818",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replaces": [
+			"82d5dded-6d90-45fe-8f23-95f9134238d3"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "kiezen van één aannemelijke verklaring;",
+		"prefix": "u2",
+		"status": "definitief concept",
+		"id": "58dd970f-ffe4-4dc7-93aa-e34dc9e54639",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replaces": [
+			"09f2fc4a-d6c2-49a8-8c89-594119aeb382"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "kiezen van één passende oplossing;",
+		"prefix": "u3",
+		"status": "definitief concept",
+		"id": "b74a04d0-4f07-4531-b864-09ff5fb1d6c0",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replaces": [
+			"fb49084c-d6a2-490a-ab6d-6cb410724186"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "onderbouwen van de keuze.",
+		"prefix": "u4",
+		"status": "definitief concept",
+		"id": "6861ff47-1a34-4ca7-9438-b95dec93a203",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replaces": [
+			"d87ab2fc-53be-47a2-a6d6-95d188c2503d"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "identificeren van natuurwetenschappelijke en technologische feiten, principiële overwegingen en maatschappelijke en persoonlijke belangen;",
+		"prefix": "u1",
+		"status": "definitief concept",
+		"id": "3faab946-d9ae-4540-9ea4-37d5597ad9db",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replaces": [
+			"97cdacd5-d21a-4fac-95d2-187eeecfcb37"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "beoordelen van argumenten op correctheid en relevantie;",
+		"prefix": "u2",
+		"status": "definitief concept",
+		"id": "2248e9ab-4b61-450e-9876-98c55ceca0d9",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replaces": [
+			"cfe71cf4-ed7f-4caa-ab95-1941f95ee57b"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "afwegen van verschillende argumenten;",
+		"prefix": "u3",
+		"status": "definitief concept",
+		"id": "cfb93364-9838-4bb0-853b-4da84ae5bc8b",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replaces": [
+			"c09e98ba-ccb5-49d4-9445-4535df6f07c4"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "onderbouwen van een standpunt.",
+		"prefix": "u4",
+		"status": "definitief concept",
+		"id": "6c3da4d3-9cce-4ef3-9799-0cdf6a97776a",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replaces": [
+			"5a1ee192-0559-4d6a-ac8b-a8e7bcd2abf7"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "analyseren van patronen in waarnemingen en gegevens;",
+		"prefix": "u1",
+		"status": "definitief concept",
+		"id": "c3c0253a-ceb0-48c6-8f2a-5e0715d33679",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replaces": [
+			"7d4443ad-3355-43c4-8956-dbfaa044d7ef"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "formuleren van verwachtingen op basis van patronen.",
+		"prefix": "u2",
+		"status": "definitief concept",
+		"id": "eba84bce-9d1d-49b3-9a25-ce0c6dd52087",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replaces": [
+			"aeaf7019-5a7b-45af-aa47-54eedcdf59b6"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "analyseren van oorzaak en gevolg en de onderliggende mechanismes bij een gebeurtenis en een proces;",
+		"prefix": "u1",
+		"status": "definitief concept",
+		"id": "310093dc-4ab0-47e0-b9d5-302c153cdeab",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replaces": [
+			"37d63099-0072-48a1-a341-c5451beed06c"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "beschrijven dat niet onder iedere correlatie een oorzaak-gevolgrelatie ligt.",
+		"prefix": "u2",
+		"status": "definitief concept",
+		"id": "1f457626-9382-44be-80e9-d327a75b590f",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replaces": [
+			"2892b345-dc9a-4455-944c-19830630c1f7"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "beschrijven van een gegeven situatie als een systeem met systeemgrenzen en deelsystemen;",
+		"prefix": "u1",
+		"status": "definitief concept",
+		"id": "7d64c639-83c6-481e-a69c-6b5f8bdda78b",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replaces": [
+			"8559654a-d2c9-4089-b4da-10f26544a37b"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "beschrijven van een gegeven systeem met invoer, uitvoer, interacties en terugkoppeling;",
+		"prefix": "u2",
+		"status": "definitief concept",
+		"id": "b3537d24-225c-439b-98bf-db2661a4d362",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replaces": [
+			"524f9ae2-3dfa-4e66-9260-807bdc0c41be"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "redeneren over een systeem met een model.",
+		"prefix": "u3",
+		"status": "definitief concept",
+		"id": "0dae5208-bf9a-474d-9036-ff950fd0b152",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replaces": [
+			"9b6c378c-cf45-4e08-9537-e6596800ab87"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "één vraagstuk uit cluster A - Klimaat en biodiversiteit:\r\r\nSDG 13 Klimaatactie\r\r\nSDG 14 Leven in het water\r\r\nSDG 15 Leven op het land;",
+		"prefix": "u1",
+		"status": "definitief concept",
+		"id": "7ae28e13-7c94-40f4-822f-120407569afd",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replaces": [
+			"eb8b58c9-e4f6-4b44-b1ba-777dfe764850"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "één vraagstuk uit cluster B – Duurzaam en gezond leven: \r\r\nSDG 2 Geen honger\r\r\nSDG 3 Goede gezondheid en welzijn\r\r\nSDG 6 Schoon water en sanitair\r\r\nSDG 12 Verantwoorde consumptie en productie;",
+		"prefix": "u2",
+		"status": "definitief concept",
+		"id": "9081647d-73d8-4e1e-b303-ddc1f14bc442",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replaces": [
+			"8430ca78-9659-4b59-8697-f833e5227441"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "één vraagstuk uit cluster C – Energie, innovatie en infrastructuur: \r\r\nSDG 7 Betaalbare en duurzame energie\r\r\nSDG 9 Industrie, innovatie en infrastructuur\r\r\nSDG 11 Duurzame steden en gemeenschappen;",
+		"prefix": "u3",
+		"status": "definitief concept",
+		"id": "f9674c3f-9da8-4c8f-a9bf-7e11d6f31428",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replaces": [
+			"9c90d2b8-36ae-4462-93c1-405f85eaa32f"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "één vraagstuk uit cluster D – Fundamenteel: \r\r\nfundamenten van natuurwetenschap en technologie.",
+		"prefix": "u4",
+		"status": "definitief concept",
+		"id": "29258749-386c-4c08-b54f-3af8fdae964e",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replaces": [
+			"6f8a54dc-f035-46ec-8541-3b078aaed148"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "werken aan een gezamenlijke oplossing met een herkenbare eigen inbreng;",
+		"prefix": "u1",
+		"status": "definitief concept",
+		"id": "a8487202-58fb-4cb8-b3d4-89cd8f991908",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replaces": [
+			"630e5c84-06dc-4b53-a363-bda9a9be5118"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "afstemmen over taken;",
+		"prefix": "u2",
+		"status": "definitief concept",
+		"id": "ef35df06-ffd6-4a36-aeb1-6b7c63a03908",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replaces": [
+			"a165b28a-b612-4c9f-b194-ef06e97aeb8e"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "zorg dragen voor het afronden van de eigen deeltaak;",
+		"prefix": "u3",
+		"status": "definitief concept",
+		"id": "0022f37e-c91f-40f4-9cde-ef69cb8d84f1",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replaces": [
+			"bc3a135f-d03a-44c5-9ee5-c2342a95d8df"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "formuleren van feedback op het samenwerken.",
+		"prefix": "u4",
+		"status": "definitief concept",
+		"id": "1430fc7b-7019-401e-b82e-2847690d4a19",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replaces": [
+			"5a6093a0-79d4-4817-ae2a-984e0937fb4e"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "werken aan het behalen van zelf opgestelde leerdoelen;",
+		"prefix": "u1",
+		"status": "definitief concept",
+		"id": "17c77ede-b1e3-4634-97a3-1a4c98bc7dd6",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replaces": [
+			"a63a36b4-dd32-4503-8cd0-7fff0a13cee6"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "ervaringen opdoen met hoe de eigen motivatie, focus, interesse en regulatie van gevoelens invloed hebben op de voorbereiding, uitvoering en afronding van een taak;",
+		"prefix": "u2",
+		"status": "definitief concept",
+		"id": "c4956126-d0bf-467f-8cbf-89f9287ea847",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replaces": [
+			"0da89627-f04a-47cb-ae73-fbaf6c4e3a3a"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "ervaringen opdoen met hoe het bijstellen van een gepland proces bijdraagt aan de voorbereiding, uitvoering en afronding van een taak;",
+		"prefix": "u3",
+		"status": "definitief concept",
+		"id": "9d1e47aa-9375-46be-b9a3-b8d40a743d32",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replaces": [
+			"47acfb4c-ee17-4021-9926-48bec3111543"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "afwegen van het eigen handelen tijdens het doorlopen van de drie fases van een taak: voorbereiding, uitvoering en reflectie;",
+		"prefix": "u4",
+		"status": "definitief concept",
+		"id": "e7360110-2cff-4e28-b250-25f921eb047b",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replaces": [
+			"75bf06f7-d028-45f1-b9b4-ee9b662b8594"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "reflecteren op wat wel of niet bijdraagt aan het succesvol afronden van een taak.",
+		"prefix": "u5",
+		"status": "definitief concept",
+		"id": "5e96b3c6-dc52-41a5-8a92-d3875381468c",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replaces": [
+			"e1151713-55a9-406c-84e3-29106213f660"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "ontwerpen van een model om verschijnselen inzichtelijk te maken;",
+		"prefix": "u4",
+		"status": "definitief concept",
+		"id": "a12085ab-222b-42a8-ac47-03ccca58d7be",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replaces": [
+			"98bc76f6-07aa-4297-b2f3-976d34a360a5"
+		]
+	},
+	{
+		"title": "Het gaat hierbij om",
+		"description": "werken volgens fasen van een onderzoekscyclus;",
+		"prefix": "u3",
+		"status": "definitief concept",
+		"id": "4bb6de39-821a-400c-93f0-3bffea0fafad",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replaces": [
+			"53d6e6a1-8f3a-4583-886b-175f992ac956"
 		]
 	}
 ]

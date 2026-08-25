@@ -24513,7 +24513,7 @@
 			"0936d5a4-6058-47f1-9844-d53e6a7516ca",
 			"d0e8b847-d7a5-4ce0-8c7b-265afb9aa2d2"
 		],
-		"ce": 1
+		"ce": 0
 	},
 	{
 		"title": "Eindterm 7",
@@ -24605,7 +24605,8 @@
 		"replaces": [
 			"cf0d7521-8071-446f-bfaa-aadf427c6e18",
 			"9759ed5e-15ff-4a82-87fd-e19d37ab9f31"
-		]
+		],
+		"ce": 1
 	},
 	{
 		"title": "Eindterm 31",
@@ -24659,11 +24660,11 @@
 		]
 	},
 	{
-		"title": "Eindterm 36",
+		"title": "Eindterm 29",
 		"description": "De leerling formuleert een onderbouwd standpunt. (B)",
 		"prefix": "29",
 		"soort": "eindterm",
-		"ce": 1,
+		"ce": 0,
 		"se": 1,
 		"id": "c4f4ae40-40ee-47eb-8b5c-daf93de0a4fb",
 		"fo_uitwerking_id": [
@@ -27700,7 +27701,8 @@
 		"status": "concept",
 		"replaces": [
 			"18297df3-4af9-46a8-901e-b42fb83d9cdf"
-		]
+		],
+		"ce": 1
 	},
 	{
 		"title": "Eindterm 36",
@@ -28365,7 +28367,8 @@
 		"status": "concept",
 		"replaces": [
 			"b59bf551-5dd9-4830-81ec-1d095f0917c7"
-		]
+		],
+		"ce": 1
 	},
 	{
 		"title": "Eindterm 34",
@@ -29957,7 +29960,8 @@
 		"status": "concept",
 		"replaces": [
 			"f5005f95-b5c1-404f-9a35-57eb1ca054bf"
-		]
+		],
+		"ce": 1
 	},
 	{
 		"title": "Eindterm 42",
@@ -29981,7 +29985,8 @@
 		"status": "concept",
 		"replaces": [
 			"1eeeef59-c1f7-4ab7-b017-5f65afaa3a83"
-		]
+		],
+		"ce": 1
 	},
 	{
 		"title": "Eindterm 37",
@@ -30343,7 +30348,8 @@
 		"status": "concept",
 		"replaces": [
 			"d2e48ccc-c572-4369-a81f-d69adeb116c9"
-		]
+		],
+		"ce": 1
 	},
 	{
 		"title": "Eindterm 47",
@@ -33628,27 +33634,6 @@
 	},
 	{
 		"title": "Eindterm 4",
-		"description": "De leerling reflecteert op de mogelijkheden en beperkingen van digitale communicatiemiddelen.",
-		"prefix": "4",
-		"soort": "eindterm",
-		"se": 1,
-		"status": "definitief concept",
-		"doeltype": "ervaringsdoel",
-		"id": "15d44086-8e20-4a9e-b587-be6c776fbb2c",
-		"fo_uitwerking_id": [
-			"4d1b88c3-f068-46ab-8780-657166b1b1bd",
-			"6ced839f-897d-46d1-b02a-3aff8ff4291b",
-			"36a2ccbd-7d02-40e0-a799-5f3cc1ae3cb9"
-		],
-		"fo_illustratie_id": [
-			"6ed9e3de-d4e3-4717-9d14-f64c11f6b037",
-			"28aab4fa-71be-44c7-ac97-f51127583f9e",
-			"0b628836-339e-45f3-900d-019b4ac8d869",
-			"d19e1ccf-c58e-42ca-9122-e0f6c47271a2"
-		]
-	},
-	{
-		"title": "Eindterm 4",
 		"description": "De leerling toont inzicht in en reflecteert op de mogelijkheden en beperkingen van digitale communicatiemiddelen.",
 		"prefix": "4",
 		"soort": "eindterm",
@@ -33714,110 +33699,6 @@
 		]
 	},
 	{
-		"title": "Eindterm 16",
-		"description": "De leerling formuleert onderbouwde conclusies.",
-		"prefix": "16",
-		"soort": "eindterm",
-		"se": 1,
-		"status": "definitief concept",
-		"doeltype": "beheersingsdoel",
-		"id": "d9b50ffc-3abc-4e84-9436-457c42467853",
-		"fo_uitwerking_id": [
-			"82d5dded-6d90-45fe-8f23-95f9134238d3",
-			"09f2fc4a-d6c2-49a8-8c89-594119aeb382",
-			"fb49084c-d6a2-490a-ab6d-6cb410724186",
-			"d87ab2fc-53be-47a2-a6d6-95d188c2503d"
-		],
-		"fo_illustratie_id": [
-			"07445806-273b-47ae-ab91-b868d44f6a81",
-			"bff20462-367f-42b6-be0b-ce2e6fa303a0",
-			"3d195ca7-dfcd-4b6b-bc04-7f84b073498f",
-			"fea0107d-0492-403b-97b4-1482e8993e8f"
-		]
-	},
-	{
-		"title": "Eindterm 17",
-		"description": "De leerling formuleert onderbouwde standpunten.",
-		"prefix": "17",
-		"soort": "eindterm",
-		"se": 1,
-		"status": "definitief concept",
-		"doeltype": "beheersingsdoel",
-		"id": "dba0ea7b-1373-441e-acdd-8daaff7c29d3",
-		"fo_uitwerking_id": [
-			"97cdacd5-d21a-4fac-95d2-187eeecfcb37",
-			"cfe71cf4-ed7f-4caa-ab95-1941f95ee57b",
-			"c09e98ba-ccb5-49d4-9445-4535df6f07c4",
-			"5a1ee192-0559-4d6a-ac8b-a8e7bcd2abf7"
-		],
-		"fo_illustratie_id": [
-			"6d654d2a-8dfb-4d5e-9a6e-90498d5a13f6",
-			"9bfb10e3-2d29-43e0-971e-2a4ad35765fe",
-			"9818309c-0443-4129-bcb9-d5886db199c0",
-			"ccef1568-e707-406c-afb2-924861b2c937",
-			"ef52aa68-141e-4a23-aa05-0274b8d82802"
-		]
-	},
-	{
-		"title": "Eindterm 19",
-		"description": "De leerling redeneert met patronen.",
-		"prefix": "19",
-		"soort": "eindterm",
-		"se": 1,
-		"status": "definitief concept",
-		"doeltype": "beheersingsdoel",
-		"id": "9b387c91-b14e-4c2d-9355-76746d65e0fa",
-		"fo_uitwerking_id": [
-			"7d4443ad-3355-43c4-8956-dbfaa044d7ef",
-			"aeaf7019-5a7b-45af-aa47-54eedcdf59b6"
-		],
-		"fo_illustratie_id": [
-			"d5ceb785-b5a9-4b79-8c7e-ee48cef6dcb0",
-			"34771482-2b5c-49c5-b9cf-c3aa8f6d9ee4",
-			"6de87db1-78e2-43a0-9423-23ef6901e1ad",
-			"338c95af-cd18-4bef-a884-4933774982ee"
-		]
-	},
-	{
-		"title": "Eindterm 20",
-		"description": "De leerling redeneert met oorzaak en gevolg en relaties daartussen.",
-		"prefix": "20",
-		"soort": "eindterm",
-		"se": 1,
-		"status": "definitief concept",
-		"doeltype": "beheersingsdoel",
-		"id": "db1f2b5c-293e-47c3-8faa-13345f0cf4fa",
-		"fo_uitwerking_id": [
-			"37d63099-0072-48a1-a341-c5451beed06c",
-			"2892b345-dc9a-4455-944c-19830630c1f7"
-		],
-		"fo_illustratie_id": [
-			"2c133b1b-153a-4cc2-9b91-6636ab462ec1",
-			"d5af47fd-7aa1-4a3a-af21-75832899b93a",
-			"ba7f69df-6d5c-43bd-a041-181ea62d1ed8"
-		]
-	},
-	{
-		"title": "Eindterm 22",
-		"description": "De leerling redeneert met systemen.",
-		"prefix": "22",
-		"soort": "eindterm",
-		"se": 1,
-		"status": "definitief concept",
-		"doeltype": "beheersingsdoel",
-		"id": "7f1de1da-1524-4346-bee2-bcb69c70df07",
-		"fo_uitwerking_id": [
-			"8559654a-d2c9-4089-b4da-10f26544a37b",
-			"524f9ae2-3dfa-4e66-9260-807bdc0c41be",
-			"9b6c378c-cf45-4e08-9537-e6596800ab87"
-		],
-		"fo_illustratie_id": [
-			"a29a6aeb-d55f-4add-99f1-ff234152b0a0",
-			"3bea3d40-8656-4b8f-bbcb-b046d4a2a997",
-			"ae44b5f5-96c4-4e11-83b2-14eff3f6b1b3"
-		]
-	},
-	{
 		"title": "Eindterm 3",
 		"description": "De leerling werkt systematisch aan vraagstukken die een interdisciplinaire aanpak vereisen.",
 		"prefix": "3",
@@ -33838,96 +33719,6 @@
 			"76fa2d41-66b0-42c4-9105-5c062a728404",
 			"3b5cde8e-19e7-4ca0-80a6-5e837abee6a4",
 			"d05a856b-61d0-496e-b725-69a9cb517b82"
-		]
-	},
-	{
-		"title": "Eindterm 4",
-		"description": "De leerling werkt aan ten minste één vraagstuk uit elk cluster.",
-		"prefix": "4",
-		"soort": "eindterm",
-		"se": 1,
-		"status": "definitief concept",
-		"doeltype": "beheersingsdoel",
-		"id": "2b53a03f-d844-4ef7-8e50-44c75c022cc2",
-		"fo_uitwerking_id": [
-			"eb8b58c9-e4f6-4b44-b1ba-777dfe764850",
-			"8430ca78-9659-4b59-8697-f833e5227441",
-			"9c90d2b8-36ae-4462-93c1-405f85eaa32f",
-			"6f8a54dc-f035-46ec-8541-3b078aaed148"
-		],
-		"fo_illustratie_id": [
-			"8af11a26-7d1a-4051-b0e6-0618b6aefea9",
-			"c867e9a8-8cb5-4795-b2d0-a8d0f9e02952",
-			"1b6cf72e-9945-4240-8778-0f545609769c",
-			"12b9fe5f-c450-4e37-a23d-c9a10bc98289"
-		]
-	},
-	{
-		"title": "Eindterm 9",
-		"description": "De leerling werkt samen aan vraagstukken.",
-		"prefix": "9",
-		"soort": "eindterm",
-		"se": 1,
-		"status": "definitief concept",
-		"doeltype": "beheersingsdoel",
-		"id": "093bbf71-b8f4-43f0-b10a-ab12d26dd0f4",
-		"fo_uitwerking_id": [
-			"630e5c84-06dc-4b53-a363-bda9a9be5118",
-			"a165b28a-b612-4c9f-b194-ef06e97aeb8e",
-			"bc3a135f-d03a-44c5-9ee5-c2342a95d8df",
-			"5a6093a0-79d4-4817-ae2a-984e0937fb4e"
-		],
-		"fo_illustratie_id": [
-			"9c2e2263-15bc-4384-8eff-e1cec43a59b0",
-			"f6c92069-19b8-40fd-97a7-4a5429147b28",
-			"b084276e-0c85-48de-a2d8-60dc0d9b9453"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Eindterm 11",
-		"description": "De leerling modelleert.",
-		"prefix": "11",
-		"soort": "eindterm",
-		"se": 1,
-		"status": "definitief concept",
-		"doeltype": "beheersingsdoel",
-		"id": "b613a56c-4dff-4121-aee8-d85cc4e5880d",
-		"fo_uitwerking_id": [
-			"d793e0ea-f608-44a7-8e51-c1c622d1e4e0",
-			"5fd59e3e-d59c-4097-8f39-e01043d83697",
-			"99209796-8e5c-4796-87d2-c988aaecf3f2",
-			"2ffdfd71-5b47-4daa-a760-d56e662d22f9",
-			"0954969d-6a69-461c-b4ce-31a459e58d94"
-		],
-		"fo_illustratie_id": [
-			"c67ad611-59e6-4248-a8de-0269a891baa9",
-			"18409a64-40bc-40db-8dd8-1a3ff05c4179",
-			"7495fb8e-0bb6-49d4-8e55-16bee5c1a9ee",
-			"6cea8484-f106-41ef-b34b-db6ecebb29d0"
-		]
-	},
-	{
-		"dirty": true,
-		"title": "Eindterm 16",
-		"description": "De leerling formuleert onderbouwde conclusies.",
-		"prefix": "16",
-		"soort": "eindterm",
-		"se": 1,
-		"status": "definitief concept",
-		"doeltype": "beheersingsdoel",
-		"id": "3e079bae-fcf8-47c1-b6da-220b43b8262e",
-		"fo_uitwerking_id": [
-			"d553da76-1818-48e1-836a-183641756c19",
-			"4ba2bcf9-ab12-459d-ab22-2a8065fba78f",
-			"d3df7fe8-5c04-4063-8f5b-fe0a6cae2f00",
-			"d87d51fe-7814-422f-a819-91033ec0938a"
-		],
-		"fo_illustratie_id": [
-			"821f289b-f917-4dc1-a770-d9fe13a6342b",
-			"bf04dd99-d13e-4eca-8474-e3b98e604687",
-			"6cfd7410-9a1a-40dd-a3d9-254bde01a377",
-			"21400cba-5568-4483-9108-77859c783a5a"
 		]
 	},
 	{
@@ -33990,26 +33781,6 @@
 			"099edf83-accd-4247-83f8-5560a92f93ee",
 			"111d333e-0bd9-406a-861e-8a354e1d16fa",
 			"4037759c-11db-40c6-b863-90d6e5537b1a"
-		]
-	},
-	{
-		"title": "Eindterm 26",
-		"description": "De leerling verkent en gebruikt relevante concepten.",
-		"prefix": "26",
-		"soort": "eindterm",
-		"se": 1,
-		"status": "definitief concept",
-		"doeltype": "hybride doel",
-		"id": "2a62fc6c-7736-40fd-8158-36b60927af5f",
-		"fo_uitwerking_id": [
-			"e9950909-9070-4d01-8464-8578a174e9ff",
-			"cf800f89-9a1f-4995-9de1-464c5fac5b2c"
-		],
-		"fo_illustratie_id": [
-			"3d9eb9e8-edb4-4a20-b32a-39cf7417a126",
-			"ef3efa8f-2cf5-4b36-b4ad-35ee99783366",
-			"f239401d-ae47-4142-a6aa-93ee2ddb83f0",
-			"0a5aec71-ebc1-43f6-bd58-9cb46d917c64"
 		]
 	},
 	{
@@ -34128,31 +33899,6 @@
 		]
 	},
 	{
-		"dirty": true,
-		"title": "Eindterm 4",
-		"description": "De leerling reflecteert op ervaringen met zelfregulatie in leersituaties.",
-		"prefix": "4",
-		"soort": "eindterm",
-		"se": 1,
-		"status": "definitief concept",
-		"doeltype": "ervaringsdoel",
-		"id": "23c4b50c-1591-4359-b966-e9469805933b",
-		"fo_uitwerking_id": [
-			"a63a36b4-dd32-4503-8cd0-7fff0a13cee6",
-			"0da89627-f04a-47cb-ae73-fbaf6c4e3a3a",
-			"47acfb4c-ee17-4021-9926-48bec3111543",
-			"75bf06f7-d028-45f1-b9b4-ee9b662b8594",
-			"e1151713-55a9-406c-84e3-29106213f660"
-		],
-		"fo_illustratie_id": [
-			"c55a84a9-a179-4d64-819d-80fee80f8c37",
-			"3ad2a51e-439b-4443-9a8d-16bc6031aa6d",
-			"fdd6e650-0cd4-448e-8589-875e6270142c",
-			"3d064ce3-2582-4a8b-80fe-9cc417a9a702",
-			"903c632b-7376-47b2-996e-44ceb256135b"
-		]
-	},
-	{
 		"title": "Eindterm 13",
 		"description": "De leerling formuleert onderbouwde standpunten.",
 		"prefix": "13",
@@ -34173,30 +33919,6 @@
 			"f9d61f71-62e1-4da0-9f24-cdb7f64e3d05",
 			"084f40fc-8577-47ac-b8e6-f49d5f4e89c2",
 			"f7f30217-a0c9-47eb-8360-0d9108a9dc86"
-		]
-	},
-	{
-		"title": "Eindterm 15",
-		"description": "De leerling modelleert.",
-		"prefix": "15",
-		"soort": "eindterm",
-		"se": 1,
-		"status": "definitief concept",
-		"doeltype": "beheersingsdoel",
-		"id": "7bf59d0e-5f7c-456f-9be8-0ef9f3d34b90",
-		"fo_uitwerking_id": [
-			"45fabb3e-345c-432e-9831-68fc30d3a9ba",
-			"171b5de2-128b-4127-a201-1eec60d7be54",
-			"d1b3fe69-6514-42ee-8d00-345c4f37e73c",
-			"98bc76f6-07aa-4297-b2f3-976d34a360a5",
-			"ab05b435-2aae-41f4-ac93-a4756fd7cd4b"
-		],
-		"fo_illustratie_id": [
-			"93986c26-ac80-4038-ba65-b6e59428c1cb",
-			"81dc058d-0afc-4400-ac38-6bc45a543435",
-			"c85b6f22-db33-44b4-a57a-6c8a2991b8c1",
-			"e5ed799e-75f1-4c5b-b6c9-e55702496107",
-			"ff072e77-728b-4c3e-89df-77957b21c17b"
 		]
 	},
 	{
@@ -37110,34 +36832,6 @@
 		]
 	},
 	{
-		"title": "Eindterm 1",
-		"description": "De leerling toont begrip van zakelijke en literaire teksten, passend bij het lees-, kijk- of luisterdoel.",
-		"prefix": "1",
-		"soort": "eindterm",
-		"ce": 1,
-		"id": "a5104a01-c1af-4979-9639-786d18a9656e",
-		"fo_uitwerking_id": [
-			"1637b50e-48c3-4726-80d3-aad33558aac7",
-			"5fcf1268-6207-4b0f-bfa0-03e58e0387ef",
-			"7125b1f3-125b-4e5e-a95b-09eb4b779d15",
-			"f9fa583f-a600-4086-8b97-a991ae15e0a1",
-			"ad93aceb-384a-4116-85d0-e4c045f348c7"
-		],
-		"status": "definitief concept",
-		"fo_illustratie_id": [
-			"6c14ebc3-9a5b-4e31-9c63-f2969bd968ca",
-			"150b886d-8756-424e-91e6-4190f58570f0",
-			"ece9d7b7-c7a5-4ec6-8e34-b3985d956a98",
-			"acf42395-e68d-4ebf-a3c8-8b013dfd2002"
-		],
-		"replaces": [
-			"b65d9051-7217-4aa9-9cc9-9eeeb3c4f657",
-			"d6e7b7c9-80a1-4bdc-aa42-400b22f9b831"
-		],
-		"se": 1,
-		"doeltype": "beheersingsdoel"
-	},
-	{
 		"title": "Eindterm 2",
 		"description": "De leerling evalueert en reflecteert op zakelijke en literaire teksten, passend bij het lees-, kijk-  of luisterdoel.",
 		"prefix": "2",
@@ -37433,32 +37127,6 @@
 		"doeltype": "ervaringsdoel"
 	},
 	{
-		"title": "Eindterm 14",
-		"description": "De leerling legt verbanden tussen het interpreteren van een tekst en de gebruikte literaire middelen, stijl en vorm.",
-		"prefix": "14",
-		"soort": "eindterm",
-		"ce": 1,
-		"se": 1,
-		"id": "3f660f2c-2487-474a-aacd-f6da0d058161",
-		"fo_uitwerking_id": [
-			"8230da35-7db1-449d-be0f-13920c8d1ce5",
-			"39106f2e-7575-4c17-a60b-77e67d9ed23b",
-			"cd4f5757-1050-4bf9-a27f-15840b2ad780"
-		],
-		"status": "definitief concept",
-		"fo_illustratie_id": [
-			"92551a5e-75be-4e51-8a8d-a2e9f6f2ef11",
-			"b6a99b72-fac0-4f9d-824a-a4ced721c989",
-			"a50ba001-0026-4c3f-98ec-c553a9631e86",
-			"63ab5354-b534-467b-8f81-8e6e0b6f2ada"
-		],
-		"replaces": [
-			"de5ca4f6-39f1-40fa-b9f9-c28c964f269b",
-			"d084953c-4963-4d88-b76a-01916be8643d"
-		],
-		"doeltype": "beheersingsdoel"
-	},
-	{
 		"title": "Eindterm 15",
 		"description": "De leerling evalueert diens literaire ontwikkeling aan de hand van literaire teksten.",
 		"prefix": "15",
@@ -37507,34 +37175,6 @@
 			"98772045-ef8b-41b2-a114-0a56e7ceaecc"
 		],
 		"doeltype": "ervaringsdoel"
-	},
-	{
-		"title": "Eindterm 1",
-		"description": "De leerling toont begrip van zakelijke en literaire teksten, passend bij het lees-, kijk- of luisterdoel.",
-		"prefix": "1",
-		"soort": "eindterm",
-		"ce": 1,
-		"id": "e0b81307-e287-4182-b64f-b162d38b64a0",
-		"fo_uitwerking_id": [
-			"53174ea6-fdef-4b87-871a-bdd08874ba52",
-			"afc52668-2396-4864-9363-3951bb28ec4a",
-			"f3a34a93-a349-4c0a-9de4-aa1934186c08",
-			"c637e610-0d76-43bd-b8dc-264fa6cdb602",
-			"4a536098-5aeb-43bb-ad90-068de729948a"
-		],
-		"status": "definitief concept",
-		"fo_illustratie_id": [
-			"a0b3cafb-1604-4f99-b8ad-608879b974a2",
-			"31e66c32-eac2-4770-b1c5-43f161becbe9",
-			"581d8b13-3f6b-4390-a835-528fbffe55d7",
-			"2a20c3aa-700d-445d-acf3-f008075829e7"
-		],
-		"replaces": [
-			"4e76339c-fadf-4c4a-8783-f306d3b10791",
-			"722f01cc-bbd7-48ef-aa08-ae1425c443d1"
-		],
-		"se": 1,
-		"doeltype": "beheersingsdoel"
 	},
 	{
 		"title": "Eindterm 2",
@@ -38153,32 +37793,6 @@
 		"doeltype": "beheersingsdoel"
 	},
 	{
-		"title": "Eindterm 11",
-		"description": "De leerling beoordeelt de overtuigingskracht van een tekst en de auteur of spreker.",
-		"prefix": "11",
-		"soort": "eindterm",
-		"ce": 1,
-		"se": 1,
-		"id": "955c7ea4-8e66-4eab-bd8f-142170b96ee4",
-		"fo_uitwerking_id": [
-			"2659e5be-9dd6-4500-a367-823b59a267bd",
-			"bdf421f5-902d-46cb-b5e6-1c81eb8c4a67",
-			"405fc8c0-d073-4436-8654-e2f035b3cd15"
-		],
-		"status": "definitief concept",
-		"fo_illustratie_id": [
-			"e0a67660-0fda-4c52-84d9-51d78ae96086",
-			"5e33c03f-1189-49a8-ad58-37de8a889405",
-			"45f5201b-a7e2-4469-85bf-b3cdfe56747d",
-			"b20f0596-fec2-4c1d-a00f-262e845d26fb"
-		],
-		"replaces": [
-			"9b61fb80-be60-4f7e-8d16-bbe2e769c638",
-			"7e60c1ac-fd48-44e3-b1ec-281f72bfdd36"
-		],
-		"doeltype": "beheersingsdoel"
-	},
-	{
 		"title": "Eindterm 12",
 		"description": "De leerling  reflecteert op taalvariatie en taalverandering.",
 		"prefix": "12",
@@ -38231,32 +37845,6 @@
 		"doeltype": "ervaringsdoel"
 	},
 	{
-		"title": "Eindterm 14",
-		"description": "De leerling legt verbanden tussen het interpreteren van een tekst en de gebruikte literaire middelen, stijl en vorm.",
-		"prefix": "14",
-		"soort": "eindterm",
-		"ce": 1,
-		"se": 1,
-		"id": "37188365-2459-4ea1-afcd-5c53093cdbd2",
-		"fo_uitwerking_id": [
-			"aaae70e2-d025-4ca6-a227-eb4029d2bec4",
-			"4f656a9f-f01f-47f4-aa1b-0e7cf02488e9",
-			"4b0e7fd8-0717-427c-9c5e-298798876e5b"
-		],
-		"status": "definitief concept",
-		"fo_illustratie_id": [
-			"2c2dd70d-25b4-4c93-92ba-12c184dc3beb",
-			"fa444970-8ce3-4cd8-9b1e-b5f114b82246",
-			"f4ba428a-22eb-44f5-a2c4-eaab84c927cb",
-			"52183edf-07b0-459c-99d6-4ace190f174b"
-		],
-		"replaces": [
-			"df6790ef-725d-4572-b3bf-a39c790c6c56",
-			"86f3ee09-c56c-49fe-bc0c-f226d5467ac0"
-		],
-		"doeltype": "beheersingsdoel"
-	},
-	{
 		"title": "Eindterm 15",
 		"description": "De leerling evalueert diens literaire ontwikkeling aan de hand van literaire teksten.",
 		"prefix": "15",
@@ -38279,30 +37867,6 @@
 		"replaces": [
 			"f3f7196f-23d8-4fe0-9141-041f81f5c387",
 			"ba9a5617-27a8-4458-901e-f12c0256935f"
-		],
-		"doeltype": "ervaringsdoel"
-	},
-	{
-		"title": "Eindterm 16",
-		"description": "De leerling legt verbanden tussen literatuur en maatschappij.",
-		"prefix": "16",
-		"soort": "eindterm",
-		"se": 1,
-		"id": "d0d7c3e0-1468-4078-be20-b1505ba02718",
-		"fo_uitwerking_id": [
-			"050bcc2b-6ed3-4ae5-ba6e-7e8454b68535",
-			"8d09f0bb-d31e-41bc-8794-caa7b7a47fea"
-		],
-		"status": "definitief concept",
-		"fo_illustratie_id": [
-			"c5a79227-d466-4888-8e49-999fdc0e0736",
-			"fd395cc3-6953-44c4-9053-b8ad056d9ec5",
-			"70782e0d-79fc-46fb-99b7-228d005e1e47",
-			"96ba443c-5ad5-443e-a6c5-39104ff4d019"
-		],
-		"replaces": [
-			"f195ea02-947e-49ea-bc5e-0fe415a206e7",
-			"fb5d99b6-ca64-474d-8c0f-ad8c1e7007f7"
 		],
 		"doeltype": "ervaringsdoel"
 	},
@@ -40780,7 +40344,7 @@
 	},
 	{
 		"title": "Eindterm 2",
-		"description": "De leerling toont begrip van de inhoud van schriftelijke Friestalige teksten.",
+		"description": "De leerling toont begrip van de inhoud van schriftelijke Friestalige bronnen.",
 		"prefix": "2",
 		"soort": "eindterm",
 		"ce": 1,
@@ -41887,7 +41451,7 @@
 	},
 	{
 		"title": "Eindterm 26",
-		"description": "De leerling toont inzicht in een talig fenomeen uit het Grieks.",
+		"description": "De leerling toont inzicht in een talig fenomeen in het Grieks.",
 		"prefix": "26",
 		"soort": "eindterm",
 		"se": 1,
@@ -41938,7 +41502,7 @@
 	},
 	{
 		"title": "Eindterm 28",
-		"description": "De leerling onderzoekt een aspect van een talig fenomeen uit het Grieks.",
+		"description": "De leerling onderzoekt een aspect van een talig fenomeen in het Grieks.",
 		"prefix": "28",
 		"soort": "eindterm",
 		"se": 1,
@@ -42095,35 +41659,6 @@
 			"836e4ffd-2978-49c5-816f-c57393eb5cd7",
 			"410a055e-15fa-47db-9178-97cff98c771e"
 		]
-	},
-	{
-		"title": "Eindterm 3",
-		"description": "De leerling toont inzicht in de impliciete tekstinhoud.",
-		"prefix": "3",
-		"soort": "eindterm",
-		"ce": 1,
-		"se": 1,
-		"id": "d4b24dce-16cc-41fc-a3a2-aeaee581430f",
-		"fo_uitwerking_id": [
-			"0a7701df-0c3d-4c40-b78d-84591c50d943",
-			"1b309f5a-a6ad-4b2f-9eeb-a8302aace39e",
-			"a7a465d2-da88-4b76-9d14-f8bcfb10ee47",
-			"42bb7506-f055-4bf2-b4ea-0d0a1b9376da",
-			"7da77033-353c-4f08-9f41-06ce60330dd5"
-		],
-		"status": "definitief concept",
-		"fo_illustratie_id": [
-			"d5427fdb-394d-4f3d-9b37-02e2813a1d8f",
-			"17a64738-5413-4076-b4fb-19380a01a1d7",
-			"f95809fd-46c0-4c31-8bea-f720c9ce5b4c",
-			"c41beade-db89-4bcd-8518-7cd934159853",
-			"c4ddbe11-5753-43b0-b3cc-26ef8d5b9492"
-		],
-		"replaces": [
-			"35f4ea93-27f3-4815-99b2-b8f80f23061c",
-			"c676181b-3fef-4aa6-9ef8-91febcf89856"
-		],
-		"doeltype": "beheersingsdoel"
 	},
 	{
 		"title": "Eindterm 4",
@@ -42703,7 +42238,7 @@
 	},
 	{
 		"title": "Eindterm 26",
-		"description": "De leerling toont inzicht in een talig fenomeen uit het Latijn.",
+		"description": "De leerling toont inzicht in een talig fenomeen in het Latijn.",
 		"prefix": "26",
 		"soort": "eindterm",
 		"se": 1,
@@ -42728,33 +42263,8 @@
 		"doeltype": "beheersingsdoel"
 	},
 	{
-		"title": "Eindterm 27",
-		"description": "De leerling beargumenteert een interpretatie van een talig fenomeen in het Latijn.",
-		"prefix": "27",
-		"soort": "eindterm",
-		"se": 1,
-		"id": "3b00783b-6bed-4159-897f-f6d45e069854",
-		"fo_uitwerking_id": [
-			"5fc3e4fb-290a-4dfc-a001-dbd018b52ea1",
-			"c404a931-ff42-4226-9dcd-a2f41a2a27d2"
-		],
-		"status": "definitief concept",
-		"fo_illustratie_id": [
-			"cb095297-4fb8-4bda-b8c3-692b836e5678",
-			"292a7b3a-9a25-4c0f-8cfe-91ee7bd7048f",
-			"463daba7-8663-4b81-969d-8352d1712ca8",
-			"f4508281-3ba4-47cc-a2f7-d9914eda529b",
-			"ddd25270-144f-4ebd-ba15-ffa64917ed66"
-		],
-		"replaces": [
-			"e1bd6120-866f-46d8-9f81-110d80d1180d",
-			"60888753-cf81-4e5d-9d40-36e05b419359"
-		],
-		"doeltype": "beheersingsdoel"
-	},
-	{
 		"title": "Eindterm 28",
-		"description": "De leerling onderzoekt een aspect van een talig fenomeen uit het Latijn.",
+		"description": "De leerling onderzoekt een aspect van een talig fenomeen in het Latijn.",
 		"prefix": "28",
 		"soort": "eindterm",
 		"se": 1,
@@ -57392,31 +56902,6 @@
 		"doeltype": "beheersingsdoel"
 	},
 	{
-		"title": "Eindterm 5",
-		"description": "De leerling reflecteert op ervaringen met zelfregulatie in leersituaties.",
-		"prefix": "5",
-		"soort": "eindterm",
-		"se": 1,
-		"id": "ce078b5d-a264-4ee1-8e83-d063c78cd529",
-		"fo_uitwerking_id": [
-			"42df9afa-87dd-4d89-b350-97bd44dbe076",
-			"78ef8d68-e030-468f-95e3-62db7692f494",
-			"e3deb91e-ba1b-4cbc-81f2-c292719ceec6",
-			"5bc3e707-433c-4ca3-9a71-63e786fa3c45"
-		],
-		"status": "definitief concept",
-		"fo_illustratie_id": [
-			"de741c30-6cec-402d-8dc2-f2a488e2a9bd",
-			"1dfd65e4-c6d6-48f4-8898-40c31f134bdb",
-			"4822a8e7-7162-4303-9861-1cca8ebfb934"
-		],
-		"replaces": [
-			"1152bb7e-c7dc-4540-9101-272a9dac34c8",
-			"fb090b2f-8df1-4351-aaf0-a50039828b8c"
-		],
-		"doeltype": "ervaringsdoel"
-	},
-	{
 		"title": "Eindterm 6",
 		"description": "De leerling ervaart wat samenwerken vraagt van het eigen handelen.",
 		"prefix": "6",
@@ -57437,32 +56922,6 @@
 		"replaces": [
 			"9cd3bbe0-c657-47bc-89f8-2c2617c1d8fc",
 			"fcce9eab-1d9b-4a45-84d4-f7afd60c91db"
-		],
-		"doeltype": "ervaringsdoel"
-	},
-	{
-		"title": "Eindterm 7",
-		"description": "De leerling gebruikt ervaringen, interesses en kwaliteiten bij de eigen loopbaanontwikkeling.",
-		"prefix": "7",
-		"soort": "eindterm",
-		"se": 1,
-		"id": "cc61486b-deaa-4d58-9433-bb32b2b9b136",
-		"fo_uitwerking_id": [
-			"3981ef17-a2bd-4614-b7c6-84e32aa5684d",
-			"3c742391-e4ad-4d26-ab6c-6fa2f4a365bd",
-			"4f5e119d-6473-49d1-a713-cb03b5c195df",
-			"57f89e38-553e-434c-9efe-999c23e791eb"
-		],
-		"status": "definitief concept",
-		"fo_illustratie_id": [
-			"50796e77-5835-468f-92a6-3d59a4b8fae6",
-			"a13a51e3-9227-41a5-90d2-a9a8c3562298",
-			"a0f2cd26-16ac-4729-83fa-c4bbd4047bb1",
-			"701b5f22-f09f-439a-b8c6-643910db11b5"
-		],
-		"replaces": [
-			"12575901-7f58-43e2-96df-71328409e6ce",
-			"7c5d105d-25a1-40da-a2c7-f4c4475022b6"
 		],
 		"doeltype": "ervaringsdoel"
 	},
@@ -57630,33 +57089,6 @@
 		"doeltype": "beheersingsdoel"
 	},
 	{
-		"title": "Eindterm 11",
-		"description": "De leerling modelleert.",
-		"prefix": "11",
-		"soort": "eindterm",
-		"se": 1,
-		"id": "fb896b5c-932e-4f16-bd75-76cb90370cda",
-		"fo_uitwerking_id": [
-			"13062c62-0e9e-404f-9b95-ffeb3cea1c7a",
-			"0000e3fa-e06d-4929-9618-b10553120ccb",
-			"a6afb0aa-16a9-405e-9c28-a29dfae10ef2",
-			"c533a497-4f0b-486b-b9ac-7802a403e05a",
-			"58482636-2c3c-4d7e-9861-26e00be9ad6b"
-		],
-		"status": "definitief concept",
-		"fo_illustratie_id": [
-			"3bdb44f4-0d2d-4b75-a752-1eb81ef6f0fb",
-			"259e9c05-8d34-4f5d-9fcd-6e7c4313616b",
-			"3b5b775c-8c7b-42b5-bdc4-2fb12af15cd8",
-			"dad3dd87-8758-44e7-a6ac-ef0368cabd72"
-		],
-		"replaces": [
-			"d98e367c-85c9-42f2-97bb-ae22af222732",
-			"a2ea5b8c-8c45-412a-86a8-2d086046f2d2"
-		],
-		"doeltype": "beheersingsdoel"
-	},
-	{
 		"title": "Eindterm 12",
 		"description": "De leerling stelt een plan van aanpak op.",
 		"prefix": "12",
@@ -57676,32 +57108,6 @@
 		"replaces": [
 			"f2bf55b0-0c53-48a5-84e9-1ba99439e9ed",
 			"ab4d8d44-e907-428f-a273-161919d987d4"
-		],
-		"doeltype": "beheersingsdoel"
-	},
-	{
-		"title": "Eindterm 13",
-		"description": "De leerling voert een praktische activiteit uit.",
-		"prefix": "13",
-		"soort": "eindterm",
-		"se": 1,
-		"id": "c46738c5-adda-4893-984e-9f4031ff4bfb",
-		"fo_uitwerking_id": [
-			"565f2031-3c2e-4f0e-8c8d-6088c1235c21",
-			"93acd3d8-ed01-434b-a355-c3d282f8f80b",
-			"60be42a9-638e-493f-92d4-ff6ff1f7673f"
-		],
-		"status": "definitief concept",
-		"fo_illustratie_id": [
-			"31fdb6ee-38a6-4af5-8893-a2ce405aa0e5",
-			"0f5181f4-ffe2-42df-8ced-328525e8fe02",
-			"11e6f1a5-6bd7-4dd4-8505-b98079f1dd70",
-			"69d29f7a-9258-40a6-b3a9-d0f1be5520fb",
-			"89b93106-2e2f-47ee-99ee-f7af37b9208d"
-		],
-		"replaces": [
-			"c8355014-4e3d-4269-b630-d9fa20b1b87c",
-			"81f4030d-d981-4f38-b09b-54cb927048d4"
 		],
 		"doeltype": "beheersingsdoel"
 	},
@@ -60419,7 +59825,7 @@
 	},
 	{
 		"title": "Eindterm 11",
-		"description": "De leerling werkt redeneert met verbanden tussen variabelen.",
+		"description": "De leerling werkt en redeneert met verbanden tussen variabelen.",
 		"prefix": "11",
 		"soort": "eindterm",
 		"ce": 1,
@@ -60627,34 +60033,6 @@
 		"replaces": [
 			"13e5014d-a616-4de3-a8ca-db76d2b95714",
 			"1e350752-aec9-405d-afe6-b851585ac130"
-		],
-		"doeltype": "beheersingsdoel"
-	},
-	{
-		"title": "Eindterm 19",
-		"description": "De leerling doet systematisch onderzoek met behulp van wiskunde in een probleemsituatie.",
-		"prefix": "19",
-		"soort": "eindterm",
-		"se": 1,
-		"id": "a450b182-9386-4229-825d-4a4e2e8230de",
-		"fo_uitwerking_id": [
-			"8e6c445c-adc2-4423-8f9d-2a8b7dec2e3b",
-			"735852b5-6c8f-40c1-a9a9-c474cd88bad1",
-			"8ebebccd-ec3d-4eca-9abd-cca075acb2ef",
-			"53d6e6a1-8f3a-4583-886b-175f992ac956",
-			"c482094f-c285-43ec-9de2-bd6dc4bfffae"
-		],
-		"status": "definitief concept",
-		"fo_illustratie_id": [
-			"c46cde28-5e0b-4318-93a1-10a11ad68d1d",
-			"0a1667c0-f805-417e-b076-ea83477ff7cc",
-			"cc21f483-1f87-4113-9759-770562db4090",
-			"6cd9bd2d-0607-4a92-ac5e-4d482ced0c54",
-			"381d9edf-33c3-48f0-943d-4e5868f426db"
-		],
-		"replaces": [
-			"09405173-3bd3-4761-9568-81906ee3ef5b",
-			"b3fe508f-ca7a-4e45-89c4-31e8aeeb2028"
 		],
 		"doeltype": "beheersingsdoel"
 	},
@@ -61033,31 +60411,6 @@
 		"replaces": [
 			"5a12bb73-bf88-4352-8b82-f245f404740a",
 			"be91ba0d-5a3a-4b65-aabe-e80afa7f44ee"
-		],
-		"doeltype": "beheersingsdoel"
-	},
-	{
-		"title": "Eindterm 4",
-		"description": "De leerling is algebraïsch vaardig.",
-		"prefix": "4",
-		"soort": "eindterm",
-		"ce": 1,
-		"id": "d8bc97a3-5321-44a7-8384-bb4569f7d1bf",
-		"fo_uitwerking_id": [
-			"72206590-2a2d-426d-acb4-3eb9bedc32ea",
-			"f1cc1af1-86a4-4929-a1d0-5a6b9e9d90bf",
-			"799650e9-622e-4a67-bbda-e82684757a0e",
-			"24fc6ca4-f19f-46b5-be9d-33a39b088b1f",
-			"6da212bf-d229-4681-bbaf-a31e86ee5ec8"
-		],
-		"status": "definitief concept",
-		"fo_illustratie_id": [
-			"084d7712-b196-4593-a141-c489143c6214",
-			"a58cd7bc-aad2-4984-8582-5ea8c59633b2"
-		],
-		"replaces": [
-			"564db663-e63d-4862-8935-92583d86c5ec",
-			"0431129e-663a-48e3-bf3d-5f28d89d1c69"
 		],
 		"doeltype": "beheersingsdoel"
 	},
@@ -65022,6 +64375,708 @@
 			"bef68f7b-f650-492c-992a-985af78c86a4"
 		],
 		"se": 1,
+		"doeltype": "beheersingsdoel"
+	},
+	{
+		"title": "Eindterm 11",
+		"description": "De leerling modelleert.",
+		"prefix": "11",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "definitief concept",
+		"doeltype": "beheersingsdoel",
+		"id": "acca43cd-2a1e-4612-910e-bdabf1b0298f",
+		"fo_uitwerking_id": [
+			"d793e0ea-f608-44a7-8e51-c1c622d1e4e0",
+			"5fd59e3e-d59c-4097-8f39-e01043d83697",
+			"99209796-8e5c-4796-87d2-c988aaecf3f2",
+			"2ffdfd71-5b47-4daa-a760-d56e662d22f9",
+			"0954969d-6a69-461c-b4ce-31a459e58d94"
+		],
+		"fo_illustratie_id": [
+			"c67ad611-59e6-4248-a8de-0269a891baa9",
+			"18409a64-40bc-40db-8dd8-1a3ff05c4179",
+			"7495fb8e-0bb6-49d4-8e55-16bee5c1a9ee",
+			"6cea8484-f106-41ef-b34b-db6ecebb29d0"
+		],
+		"replaces": [
+			"b613a56c-4dff-4121-aee8-d85cc4e5880d"
+		]
+	},
+	{
+		"title": "Eindterm 16",
+		"description": "De leerling formuleert onderbouwde conclusies.",
+		"prefix": "16",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "definitief concept",
+		"doeltype": "beheersingsdoel",
+		"id": "0e545f4a-2315-4ad5-8f25-44e9db009970",
+		"fo_uitwerking_id": [
+			"d553da76-1818-48e1-836a-183641756c19",
+			"4ba2bcf9-ab12-459d-ab22-2a8065fba78f",
+			"d3df7fe8-5c04-4063-8f5b-fe0a6cae2f00",
+			"d87d51fe-7814-422f-a819-91033ec0938a"
+		],
+		"fo_illustratie_id": [
+			"821f289b-f917-4dc1-a770-d9fe13a6342b",
+			"bf04dd99-d13e-4eca-8474-e3b98e604687",
+			"6cfd7410-9a1a-40dd-a3d9-254bde01a377",
+			"21400cba-5568-4483-9108-77859c783a5a"
+		],
+		"replaces": [
+			"3e079bae-fcf8-47c1-b6da-220b43b8262e"
+		]
+	},
+	{
+		"title": "Eindterm 4",
+		"description": "De leerling reflecteert op ervaringen met zelfregulatie in leersituaties.",
+		"prefix": "4",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "definitief concept",
+		"doeltype": "ervaringsdoel",
+		"id": "1bd30a09-0041-4f4c-ae25-be25821ed5c3",
+		"fo_uitwerking_id": [
+			"17c77ede-b1e3-4634-97a3-1a4c98bc7dd6",
+			"c4956126-d0bf-467f-8cbf-89f9287ea847",
+			"9d1e47aa-9375-46be-b9a3-b8d40a743d32",
+			"e7360110-2cff-4e28-b250-25f921eb047b",
+			"5e96b3c6-dc52-41a5-8a92-d3875381468c"
+		],
+		"fo_illustratie_id": [
+			"d8c5ec35-04e7-4cfb-8af4-f04123493cfc",
+			"0186fd96-56fd-4fe9-8d51-c41afcd5623b",
+			"c6ff8eb0-ce6a-4ddd-82df-1258602cc64f",
+			"b177bc0f-487f-4c7b-a6a3-f164fafb57b2",
+			"ce3f3228-457e-441f-9ef8-eed866563219"
+		],
+		"replaces": [
+			"23c4b50c-1591-4359-b966-e9469805933b"
+		]
+	},
+	{
+		"title": "Eindterm 4",
+		"description": "De leerling is algebraïsch vaardig.",
+		"prefix": "4",
+		"soort": "eindterm",
+		"ce": 1,
+		"id": "0dc1ebce-cc67-4e4b-8e32-c9e2fd2b22e7",
+		"fo_uitwerking_id": [
+			"72206590-2a2d-426d-acb4-3eb9bedc32ea",
+			"f1cc1af1-86a4-4929-a1d0-5a6b9e9d90bf",
+			"24fc6ca4-f19f-46b5-be9d-33a39b088b1f",
+			"6da212bf-d229-4681-bbaf-a31e86ee5ec8"
+		],
+		"status": "definitief concept",
+		"fo_illustratie_id": [
+			"084d7712-b196-4593-a141-c489143c6214",
+			"a58cd7bc-aad2-4984-8582-5ea8c59633b2"
+		],
+		"replaces": [
+			"564db663-e63d-4862-8935-92583d86c5ec",
+			"0431129e-663a-48e3-bf3d-5f28d89d1c69",
+			"d8bc97a3-5321-44a7-8384-bb4569f7d1bf"
+		],
+		"doeltype": "beheersingsdoel"
+	},
+	{
+		"title": "Eindterm 4",
+		"description": "De leerling reflecteert op de mogelijkheden en beperkingen van digitale communicatiemiddelen.",
+		"prefix": "4",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "definitief concept",
+		"doeltype": "ervaringsdoel",
+		"id": "accf631b-a15d-4ee8-bf67-32c4360b7ecb",
+		"fo_uitwerking_id": [
+			"004681ff-3225-4830-b714-2c87b881d97a",
+			"be439cdd-008d-43a9-8e1e-a7df8b4c30ca",
+			"fa764fa6-bb67-424c-8ada-2dcf69c6d388"
+		],
+		"fo_illustratie_id": [
+			"f7640af2-b5e1-41ac-9cec-22f6c257c031",
+			"92a86697-cba5-42f0-bd8a-2cb44328d9b8",
+			"5074cda2-31f3-4721-bf0f-32d9df29e7a5",
+			"49e447da-4fd6-4ee4-941a-69a33ccbabad"
+		],
+		"replaces": [
+			"15d44086-8e20-4a9e-b587-be6c776fbb2c"
+		]
+	},
+	{
+		"title": "Eindterm 16",
+		"description": "De leerling formuleert onderbouwde conclusies.",
+		"prefix": "16",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "definitief concept",
+		"doeltype": "beheersingsdoel",
+		"id": "ac6b496b-0634-4e24-b990-329810412dc8",
+		"fo_uitwerking_id": [
+			"c45fa533-3fb1-4c15-9aea-93b2c7132818",
+			"58dd970f-ffe4-4dc7-93aa-e34dc9e54639",
+			"b74a04d0-4f07-4531-b864-09ff5fb1d6c0",
+			"6861ff47-1a34-4ca7-9438-b95dec93a203"
+		],
+		"fo_illustratie_id": [
+			"31f8051c-ef6e-4000-8cb6-64812bf79d69",
+			"a06604e0-593a-4e4c-a5ea-93da154c9150",
+			"907949f8-b01f-4827-9a03-976975198922",
+			"e335cc08-8bfb-4c31-a7f5-e7c27beb30d7"
+		],
+		"replaces": [
+			"d9b50ffc-3abc-4e84-9436-457c42467853"
+		]
+	},
+	{
+		"title": "Eindterm 17",
+		"description": "De leerling formuleert onderbouwde standpunten.",
+		"prefix": "17",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "definitief concept",
+		"doeltype": "beheersingsdoel",
+		"id": "255dfc4c-2687-43a1-ab05-883ddde7cb8f",
+		"fo_uitwerking_id": [
+			"3faab946-d9ae-4540-9ea4-37d5597ad9db",
+			"2248e9ab-4b61-450e-9876-98c55ceca0d9",
+			"cfb93364-9838-4bb0-853b-4da84ae5bc8b",
+			"6c3da4d3-9cce-4ef3-9799-0cdf6a97776a"
+		],
+		"fo_illustratie_id": [
+			"2d9c2ffc-df81-4fea-8efc-2eb548e45906",
+			"bbe9ccf1-3de9-4ccd-a8c0-9bb9e5e012f4",
+			"544330fc-a0fe-4106-8190-cab59bdb901f",
+			"292cee6e-4b13-485a-8885-e6744cdb2b63",
+			"17c0d7fa-0639-469a-b8c7-1855c68171d3"
+		],
+		"replaces": [
+			"dba0ea7b-1373-441e-acdd-8daaff7c29d3"
+		]
+	},
+	{
+		"title": "Eindterm 19",
+		"description": "De leerling redeneert met patronen.",
+		"prefix": "19",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "definitief concept",
+		"doeltype": "beheersingsdoel",
+		"id": "56b4a987-47cf-4646-a8df-5239f7e6830a",
+		"fo_uitwerking_id": [
+			"c3c0253a-ceb0-48c6-8f2a-5e0715d33679",
+			"eba84bce-9d1d-49b3-9a25-ce0c6dd52087"
+		],
+		"fo_illustratie_id": [
+			"9ad87d3d-c4b5-4fd8-b92f-7a398d44d1de",
+			"b047d433-d3ef-46f6-a431-dd039094c5a0",
+			"6ce6450c-5355-45e6-815f-956ac7624bf9",
+			"af232db4-076e-4d10-a739-6f9147989a8a"
+		],
+		"replaces": [
+			"9b387c91-b14e-4c2d-9355-76746d65e0fa"
+		]
+	},
+	{
+		"title": "Eindterm 20",
+		"description": "De leerling redeneert met oorzaak en gevolg en relaties daartussen.",
+		"prefix": "20",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "definitief concept",
+		"doeltype": "beheersingsdoel",
+		"id": "386a5fbb-1d1d-4402-bc9c-5bd827039776",
+		"fo_uitwerking_id": [
+			"310093dc-4ab0-47e0-b9d5-302c153cdeab",
+			"1f457626-9382-44be-80e9-d327a75b590f"
+		],
+		"fo_illustratie_id": [
+			"2b9e6389-977f-4f94-becd-3924bf3b0e3c",
+			"6bb4ebcd-c025-4fb8-aea5-c7462b3190de",
+			"3605b9c0-26d3-4ebe-926c-e6a7b2388d2b"
+		],
+		"replaces": [
+			"db1f2b5c-293e-47c3-8faa-13345f0cf4fa"
+		]
+	},
+	{
+		"title": "Eindterm 22",
+		"description": "De leerling redeneert met systemen.",
+		"prefix": "22",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "definitief concept",
+		"doeltype": "beheersingsdoel",
+		"id": "cdc09917-839e-4f9d-bc19-8f1f44ea5d72",
+		"fo_uitwerking_id": [
+			"7d64c639-83c6-481e-a69c-6b5f8bdda78b",
+			"b3537d24-225c-439b-98bf-db2661a4d362",
+			"0dae5208-bf9a-474d-9036-ff950fd0b152"
+		],
+		"fo_illustratie_id": [
+			"d33d4a61-0154-41d7-85b6-f873bbd92328",
+			"70eaacce-d66c-44f6-bdb6-fe18c9217999",
+			"d33fbbc3-e7bc-4702-9b7f-0fcdc76b0c3a"
+		],
+		"replaces": [
+			"7f1de1da-1524-4346-bee2-bcb69c70df07"
+		]
+	},
+	{
+		"title": "Eindterm 4",
+		"description": "De leerling werkt aan ten minste één vraagstuk uit elk cluster.",
+		"prefix": "4",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "definitief concept",
+		"doeltype": "beheersingsdoel",
+		"id": "8dc5615a-6cbb-48a5-83de-955e30a4826c",
+		"fo_uitwerking_id": [
+			"7ae28e13-7c94-40f4-822f-120407569afd",
+			"9081647d-73d8-4e1e-b303-ddc1f14bc442",
+			"f9674c3f-9da8-4c8f-a9bf-7e11d6f31428",
+			"29258749-386c-4c08-b54f-3af8fdae964e"
+		],
+		"fo_illustratie_id": [
+			"02719ec7-7d6a-441f-bacd-b5a25aa68107",
+			"401398df-2c23-4d85-9cb6-084902d7b620",
+			"d5bb0b1f-3020-4d79-9f85-b78edd15b986",
+			"03b7a0b7-039f-4d1e-a2ee-62952763c8aa"
+		],
+		"replaces": [
+			"2b53a03f-d844-4ef7-8e50-44c75c022cc2"
+		]
+	},
+	{
+		"title": "Eindterm 9",
+		"description": "De leerling werkt samen aan vraagstukken.",
+		"prefix": "9",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "definitief concept",
+		"doeltype": "beheersingsdoel",
+		"id": "b499dfe5-c4cf-4048-acbd-e8c4e3165f48",
+		"fo_uitwerking_id": [
+			"a8487202-58fb-4cb8-b3d4-89cd8f991908",
+			"ef35df06-ffd6-4a36-aeb1-6b7c63a03908",
+			"0022f37e-c91f-40f4-9cde-ef69cb8d84f1",
+			"1430fc7b-7019-401e-b82e-2847690d4a19"
+		],
+		"fo_illustratie_id": [
+			"25dcb201-7ea7-46e2-8c65-4062f2013a69",
+			"da22c7c4-4058-4fe0-8bf7-2dc22c15ec95",
+			"7b3707ee-be6e-47df-beae-d03e1f445563"
+		],
+		"replaces": [
+			"093bbf71-b8f4-43f0-b10a-ab12d26dd0f4"
+		]
+	},
+	{
+		"title": "Eindterm 26",
+		"description": "De leerling verkent en gebruikt relevante concepten.",
+		"prefix": "26",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "definitief concept",
+		"doeltype": "hybride doel",
+		"id": "289dff11-4b98-460b-85cf-ee16d3327157",
+		"fo_uitwerking_id": [
+			"e9950909-9070-4d01-8464-8578a174e9ff",
+			"cf800f89-9a1f-4995-9de1-464c5fac5b2c"
+		],
+		"fo_illustratie_id": [
+			"3d9eb9e8-edb4-4a20-b32a-39cf7417a126",
+			"ef3efa8f-2cf5-4b36-b4ad-35ee99783366",
+			"f239401d-ae47-4142-a6aa-93ee2ddb83f0",
+			"de3b8c85-d6d9-42a8-81d3-b6a7dddb4585"
+		],
+		"replaces": [
+			"2a62fc6c-7736-40fd-8158-36b60927af5f"
+		]
+	},
+	{
+		"title": "Eindterm 15",
+		"description": "De leerling modelleert.",
+		"prefix": "15",
+		"soort": "eindterm",
+		"se": 1,
+		"status": "definitief concept",
+		"doeltype": "beheersingsdoel",
+		"id": "af1c8d8d-95b6-4e46-af2b-f8ea5b3472d5",
+		"fo_uitwerking_id": [
+			"45fabb3e-345c-432e-9831-68fc30d3a9ba",
+			"171b5de2-128b-4127-a201-1eec60d7be54",
+			"d1b3fe69-6514-42ee-8d00-345c4f37e73c",
+			"a12085ab-222b-42a8-ac47-03ccca58d7be",
+			"ab05b435-2aae-41f4-ac93-a4756fd7cd4b"
+		],
+		"fo_illustratie_id": [
+			"93986c26-ac80-4038-ba65-b6e59428c1cb",
+			"81dc058d-0afc-4400-ac38-6bc45a543435",
+			"c85b6f22-db33-44b4-a57a-6c8a2991b8c1",
+			"e5ed799e-75f1-4c5b-b6c9-e55702496107",
+			"ff072e77-728b-4c3e-89df-77957b21c17b"
+		],
+		"replaces": [
+			"7bf59d0e-5f7c-456f-9be8-0ef9f3d34b90"
+		]
+	},
+	{
+		"title": "Eindterm 1",
+		"description": "De leerling toont begrip van zakelijke en literaire teksten, passend bij het lees-, kijk- of luisterdoel.",
+		"prefix": "1",
+		"soort": "eindterm",
+		"ce": 1,
+		"id": "0a5a0b8c-dcbc-4919-addb-a0210206b4bc",
+		"fo_uitwerking_id": [
+			"1637b50e-48c3-4726-80d3-aad33558aac7",
+			"5fcf1268-6207-4b0f-bfa0-03e58e0387ef",
+			"7125b1f3-125b-4e5e-a95b-09eb4b779d15",
+			"f9fa583f-a600-4086-8b97-a991ae15e0a1",
+			"01d60ee2-e21b-4284-abd2-7f39cf0c3738"
+		],
+		"status": "definitief concept",
+		"fo_illustratie_id": [
+			"6c14ebc3-9a5b-4e31-9c63-f2969bd968ca",
+			"150b886d-8756-424e-91e6-4190f58570f0",
+			"ece9d7b7-c7a5-4ec6-8e34-b3985d956a98",
+			"acf42395-e68d-4ebf-a3c8-8b013dfd2002"
+		],
+		"replaces": [
+			"b65d9051-7217-4aa9-9cc9-9eeeb3c4f657",
+			"d6e7b7c9-80a1-4bdc-aa42-400b22f9b831",
+			"a5104a01-c1af-4979-9639-786d18a9656e"
+		],
+		"se": 1,
+		"doeltype": "beheersingsdoel"
+	},
+	{
+		"title": "Eindterm 14",
+		"description": "De leerling legt verbanden tussen het interpreteren van een tekst en de gebruikte literaire middelen, stijl en vorm.",
+		"prefix": "14",
+		"soort": "eindterm",
+		"ce": 1,
+		"se": 1,
+		"id": "2904bc6c-5109-46a7-af46-c6cf2b702fb4",
+		"fo_uitwerking_id": [
+			"8230da35-7db1-449d-be0f-13920c8d1ce5",
+			"39106f2e-7575-4c17-a60b-77e67d9ed23b",
+			"e91b6a37-fd6b-4012-9e75-8cc18e5a75aa"
+		],
+		"status": "definitief concept",
+		"fo_illustratie_id": [
+			"92551a5e-75be-4e51-8a8d-a2e9f6f2ef11",
+			"b6a99b72-fac0-4f9d-824a-a4ced721c989",
+			"a50ba001-0026-4c3f-98ec-c553a9631e86",
+			"63ab5354-b534-467b-8f81-8e6e0b6f2ada"
+		],
+		"replaces": [
+			"de5ca4f6-39f1-40fa-b9f9-c28c964f269b",
+			"d084953c-4963-4d88-b76a-01916be8643d",
+			"3f660f2c-2487-474a-aacd-f6da0d058161"
+		],
+		"doeltype": "beheersingsdoel"
+	},
+	{
+		"title": "Eindterm 1",
+		"description": "De leerling toont begrip van zakelijke en literaire teksten, passend bij het lees-, kijk- of luisterdoel.",
+		"prefix": "1",
+		"soort": "eindterm",
+		"ce": 1,
+		"id": "b2804360-0dfc-4050-a14b-89e1a77eabfc",
+		"fo_uitwerking_id": [
+			"53174ea6-fdef-4b87-871a-bdd08874ba52",
+			"afc52668-2396-4864-9363-3951bb28ec4a",
+			"f3a34a93-a349-4c0a-9de4-aa1934186c08",
+			"c637e610-0d76-43bd-b8dc-264fa6cdb602",
+			"9c138046-0ea0-4222-a189-f8993deb8d9d"
+		],
+		"status": "definitief concept",
+		"fo_illustratie_id": [
+			"a0b3cafb-1604-4f99-b8ad-608879b974a2",
+			"31e66c32-eac2-4770-b1c5-43f161becbe9",
+			"581d8b13-3f6b-4390-a835-528fbffe55d7",
+			"2a20c3aa-700d-445d-acf3-f008075829e7"
+		],
+		"replaces": [
+			"4e76339c-fadf-4c4a-8783-f306d3b10791",
+			"722f01cc-bbd7-48ef-aa08-ae1425c443d1",
+			"e0b81307-e287-4182-b64f-b162d38b64a0"
+		],
+		"se": 1,
+		"doeltype": "beheersingsdoel"
+	},
+	{
+		"title": "Eindterm 11",
+		"description": "De leerling beoordeelt de overtuigingskracht van een tekst en de auteur of spreker.",
+		"prefix": "11",
+		"soort": "eindterm",
+		"ce": 1,
+		"se": 1,
+		"id": "cd1b64fe-7039-48de-8c01-e5857be4c72e",
+		"fo_uitwerking_id": [
+			"2659e5be-9dd6-4500-a367-823b59a267bd",
+			"bdf421f5-902d-46cb-b5e6-1c81eb8c4a67",
+			"405fc8c0-d073-4436-8654-e2f035b3cd15"
+		],
+		"status": "definitief concept",
+		"fo_illustratie_id": [
+			"e0a67660-0fda-4c52-84d9-51d78ae96086",
+			"5e33c03f-1189-49a8-ad58-37de8a889405",
+			"45f5201b-a7e2-4469-85bf-b3cdfe56747d",
+			"5d1dc27e-efa2-4e96-9812-3a99b165f57d"
+		],
+		"replaces": [
+			"9b61fb80-be60-4f7e-8d16-bbe2e769c638",
+			"7e60c1ac-fd48-44e3-b1ec-281f72bfdd36",
+			"955c7ea4-8e66-4eab-bd8f-142170b96ee4"
+		],
+		"doeltype": "beheersingsdoel"
+	},
+	{
+		"title": "Eindterm 14",
+		"description": "De leerling legt verbanden tussen het interpreteren van een tekst en de gebruikte literaire middelen, stijl en vorm.",
+		"prefix": "14",
+		"soort": "eindterm",
+		"ce": 1,
+		"se": 1,
+		"id": "db29742e-1e4b-4a8c-a8f9-ee706a777242",
+		"fo_uitwerking_id": [
+			"aaae70e2-d025-4ca6-a227-eb4029d2bec4",
+			"4f656a9f-f01f-47f4-aa1b-0e7cf02488e9",
+			"a2675b12-4691-40c7-ade4-b5998f3617c5"
+		],
+		"status": "definitief concept",
+		"fo_illustratie_id": [
+			"2c2dd70d-25b4-4c93-92ba-12c184dc3beb",
+			"fa444970-8ce3-4cd8-9b1e-b5f114b82246",
+			"f4ba428a-22eb-44f5-a2c4-eaab84c927cb",
+			"52183edf-07b0-459c-99d6-4ace190f174b"
+		],
+		"replaces": [
+			"df6790ef-725d-4572-b3bf-a39c790c6c56",
+			"86f3ee09-c56c-49fe-bc0c-f226d5467ac0",
+			"37188365-2459-4ea1-afcd-5c53093cdbd2"
+		],
+		"doeltype": "beheersingsdoel"
+	},
+	{
+		"title": "Eindterm 16",
+		"description": "De leerling verkent verbanden tussen literatuur en maatschappij.",
+		"prefix": "16",
+		"soort": "eindterm",
+		"se": 1,
+		"id": "86d061fb-58ad-46bf-aed7-d9220a246a12",
+		"fo_uitwerking_id": [
+			"050bcc2b-6ed3-4ae5-ba6e-7e8454b68535",
+			"8d09f0bb-d31e-41bc-8794-caa7b7a47fea"
+		],
+		"status": "definitief concept",
+		"fo_illustratie_id": [
+			"c5a79227-d466-4888-8e49-999fdc0e0736",
+			"fd395cc3-6953-44c4-9053-b8ad056d9ec5",
+			"70782e0d-79fc-46fb-99b7-228d005e1e47",
+			"2fc56e7c-7ff8-4c25-8194-4c17856b1ff8"
+		],
+		"replaces": [
+			"f195ea02-947e-49ea-bc5e-0fe415a206e7",
+			"fb5d99b6-ca64-474d-8c0f-ad8c1e7007f7",
+			"d0d7c3e0-1468-4078-be20-b1505ba02718"
+		],
+		"doeltype": "ervaringsdoel"
+	},
+	{
+		"title": "Eindterm 3",
+		"description": "De leerling toont inzicht in de impliciete tekstinhoud.",
+		"prefix": "3",
+		"soort": "eindterm",
+		"ce": 1,
+		"se": 1,
+		"id": "dae4ccc7-46e1-454f-b117-7dd634375b8e",
+		"fo_uitwerking_id": [
+			"0a7701df-0c3d-4c40-b78d-84591c50d943",
+			"1b309f5a-a6ad-4b2f-9eeb-a8302aace39e",
+			"a7a465d2-da88-4b76-9d14-f8bcfb10ee47",
+			"42bb7506-f055-4bf2-b4ea-0d0a1b9376da",
+			"7da77033-353c-4f08-9f41-06ce60330dd5"
+		],
+		"status": "definitief concept",
+		"fo_illustratie_id": [
+			"d5427fdb-394d-4f3d-9b37-02e2813a1d8f",
+			"17a64738-5413-4076-b4fb-19380a01a1d7",
+			"e0648b0d-0970-4138-942c-12b37f599680",
+			"c41beade-db89-4bcd-8518-7cd934159853",
+			"c4ddbe11-5753-43b0-b3cc-26ef8d5b9492"
+		],
+		"replaces": [
+			"35f4ea93-27f3-4815-99b2-b8f80f23061c",
+			"c676181b-3fef-4aa6-9ef8-91febcf89856",
+			"d4b24dce-16cc-41fc-a3a2-aeaee581430f"
+		],
+		"doeltype": "beheersingsdoel"
+	},
+	{
+		"title": "Eindterm 27",
+		"description": "De leerling beargumenteert een interpretatie van een talig fenomeen in het Latijn.",
+		"prefix": "27",
+		"soort": "eindterm",
+		"se": 1,
+		"id": "66bb814c-cb18-4828-a3bb-08b09cd61ec5",
+		"fo_uitwerking_id": [
+			"5fc3e4fb-290a-4dfc-a001-dbd018b52ea1",
+			"c404a931-ff42-4226-9dcd-a2f41a2a27d2"
+		],
+		"status": "definitief concept",
+		"fo_illustratie_id": [
+			"cb095297-4fb8-4bda-b8c3-692b836e5678",
+			"292a7b3a-9a25-4c0f-8cfe-91ee7bd7048f",
+			"c287216b-7f60-47f3-8703-856b848b9df8",
+			"f4508281-3ba4-47cc-a2f7-d9914eda529b",
+			"ddd25270-144f-4ebd-ba15-ffa64917ed66"
+		],
+		"replaces": [
+			"e1bd6120-866f-46d8-9f81-110d80d1180d",
+			"60888753-cf81-4e5d-9d40-36e05b419359",
+			"3b00783b-6bed-4159-897f-f6d45e069854"
+		],
+		"doeltype": "beheersingsdoel"
+	},
+	{
+		"title": "Eindterm 5",
+		"description": "De leerling reflecteert op ervaringen met zelfregulatie in leersituaties.",
+		"prefix": "5",
+		"soort": "eindterm",
+		"se": 1,
+		"id": "70fbafee-1f13-4e85-8fba-960df2993604",
+		"fo_uitwerking_id": [
+			"42df9afa-87dd-4d89-b350-97bd44dbe076",
+			"78ef8d68-e030-468f-95e3-62db7692f494",
+			"e3deb91e-ba1b-4cbc-81f2-c292719ceec6",
+			"3f6872fe-c712-47a5-ae05-78862fd0862a"
+		],
+		"status": "definitief concept",
+		"fo_illustratie_id": [
+			"de741c30-6cec-402d-8dc2-f2a488e2a9bd",
+			"1dfd65e4-c6d6-48f4-8898-40c31f134bdb",
+			"4822a8e7-7162-4303-9861-1cca8ebfb934"
+		],
+		"replaces": [
+			"1152bb7e-c7dc-4540-9101-272a9dac34c8",
+			"fb090b2f-8df1-4351-aaf0-a50039828b8c",
+			"ce078b5d-a264-4ee1-8e83-d063c78cd529"
+		],
+		"doeltype": "ervaringsdoel"
+	},
+	{
+		"title": "Eindterm 7",
+		"description": "De leerling gebruikt ervaringen, interesses en kwaliteiten bij de eigen loopbaanontwikkeling.",
+		"prefix": "7",
+		"soort": "eindterm",
+		"se": 1,
+		"id": "eb1f268f-b6a4-4713-aa7d-d028207e9f06",
+		"fo_uitwerking_id": [
+			"3981ef17-a2bd-4614-b7c6-84e32aa5684d",
+			"3c742391-e4ad-4d26-ab6c-6fa2f4a365bd",
+			"1b2db93a-a2b1-4de5-8e67-681eaa5a7554",
+			"3ea9bce3-2073-47e4-ab0b-a54bb64e73e7"
+		],
+		"status": "definitief concept",
+		"fo_illustratie_id": [
+			"50796e77-5835-468f-92a6-3d59a4b8fae6",
+			"a13a51e3-9227-41a5-90d2-a9a8c3562298",
+			"a0f2cd26-16ac-4729-83fa-c4bbd4047bb1",
+			"4df69c55-0ffe-4524-b0ce-3d2de61ec5f7"
+		],
+		"replaces": [
+			"12575901-7f58-43e2-96df-71328409e6ce",
+			"7c5d105d-25a1-40da-a2c7-f4c4475022b6",
+			"cc61486b-deaa-4d58-9433-bb32b2b9b136"
+		],
+		"doeltype": "ervaringsdoel"
+	},
+	{
+		"title": "Eindterm 11",
+		"description": "De leerling modelleert.",
+		"prefix": "11",
+		"soort": "eindterm",
+		"se": 1,
+		"id": "7643ea71-7148-46c3-bd84-7f0b0588f80a",
+		"fo_uitwerking_id": [
+			"13062c62-0e9e-404f-9b95-ffeb3cea1c7a",
+			"0000e3fa-e06d-4929-9618-b10553120ccb",
+			"a6afb0aa-16a9-405e-9c28-a29dfae10ef2",
+			"4db99586-e004-40aa-8f09-4da23d9f8eba",
+			"869a3215-87a8-4f12-a6bf-4bd0c9bba8f1"
+		],
+		"status": "definitief concept",
+		"fo_illustratie_id": [
+			"3bdb44f4-0d2d-4b75-a752-1eb81ef6f0fb",
+			"259e9c05-8d34-4f5d-9fcd-6e7c4313616b",
+			"3b5b775c-8c7b-42b5-bdc4-2fb12af15cd8",
+			"36a28982-5a79-46f1-9627-64dea529873f"
+		],
+		"replaces": [
+			"d98e367c-85c9-42f2-97bb-ae22af222732",
+			"a2ea5b8c-8c45-412a-86a8-2d086046f2d2",
+			"fb896b5c-932e-4f16-bd75-76cb90370cda"
+		],
+		"doeltype": "beheersingsdoel"
+	},
+	{
+		"title": "Eindterm 13",
+		"description": "De leerling voert een praktische activiteit uit.",
+		"prefix": "13",
+		"soort": "eindterm",
+		"se": 1,
+		"id": "293b773c-7b5e-43ee-ae56-7b3c60a00a26",
+		"fo_uitwerking_id": [
+			"565f2031-3c2e-4f0e-8c8d-6088c1235c21",
+			"93acd3d8-ed01-434b-a355-c3d282f8f80b",
+			"d2792b34-5697-4df9-bb49-2f5890ec5322"
+		],
+		"status": "definitief concept",
+		"fo_illustratie_id": [
+			"31fdb6ee-38a6-4af5-8893-a2ce405aa0e5",
+			"0f5181f4-ffe2-42df-8ced-328525e8fe02",
+			"11e6f1a5-6bd7-4dd4-8505-b98079f1dd70",
+			"e14a9eaa-3c94-4730-aec7-43d14aea0bbd",
+			"b453a627-e6c6-4162-8a20-c0b4f2eea77d"
+		],
+		"replaces": [
+			"c8355014-4e3d-4269-b630-d9fa20b1b87c",
+			"81f4030d-d981-4f38-b09b-54cb927048d4",
+			"c46738c5-adda-4893-984e-9f4031ff4bfb"
+		],
+		"doeltype": "beheersingsdoel"
+	},
+	{
+		"title": "Eindterm 19",
+		"description": "De leerling doet systematisch onderzoek met behulp van wiskunde in een probleemsituatie.",
+		"prefix": "19",
+		"soort": "eindterm",
+		"se": 1,
+		"id": "2d03fd3d-ea60-45c1-b1ad-332e7c62b1c0",
+		"fo_uitwerking_id": [
+			"8e6c445c-adc2-4423-8f9d-2a8b7dec2e3b",
+			"735852b5-6c8f-40c1-a9a9-c474cd88bad1",
+			"8ebebccd-ec3d-4eca-9abd-cca075acb2ef",
+			"4bb6de39-821a-400c-93f0-3bffea0fafad",
+			"c482094f-c285-43ec-9de2-bd6dc4bfffae"
+		],
+		"status": "definitief concept",
+		"fo_illustratie_id": [
+			"c46cde28-5e0b-4318-93a1-10a11ad68d1d",
+			"0a1667c0-f805-417e-b076-ea83477ff7cc",
+			"cc21f483-1f87-4113-9759-770562db4090",
+			"6cd9bd2d-0607-4a92-ac5e-4d482ced0c54",
+			"381d9edf-33c3-48f0-943d-4e5868f426db"
+		],
+		"replaces": [
+			"09405173-3bd3-4761-9568-81906ee3ef5b",
+			"b3fe508f-ca7a-4e45-89c4-31e8aeeb2028",
+			"a450b182-9386-4229-825d-4a4e2e8230de"
+		],
 		"doeltype": "beheersingsdoel"
 	}
 ]
