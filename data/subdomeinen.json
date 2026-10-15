@@ -11008,5 +11008,3710 @@
 			"2882cb4a-2926-42f3-b3b2-d4c7485ac3e1",
 			"8ab5c87a-d99a-4712-ba1c-8aae0df330d3"
 		]
+	},
+	{
+		"title": "Subdomein C1",
+		"description": "Bewegen en de maatschappij",
+		"prefix": "C1",
+		"id": "ed962f6e-f218-4684-aa13-b0346a552e21",
+		"fo_doelzin_id": [
+			"16bedeef-f7e3-4c16-853d-f15624e2b523",
+			"1096fd2c-bc6a-42f2-bd62-aa302af05ca3",
+			"b0c3d815-55cf-47ce-8e58-75df66d0c331"
+		]
+	},
+	{
+		"title": "Subdomein C2",
+		"description": "Bewegen en beweegidentiteit",
+		"prefix": "C2",
+		"id": "3a5abf81-0897-4019-9dc6-7b267ae1e5dd",
+		"fo_doelzin_id": [
+			"f0fb15b8-bc90-4d58-8010-7264085dc38b",
+			"fbf841bd-95bb-4cbe-94c8-de9bc4a875b5"
+		]
+	},
+	{
+		"title": "Subdomein F1",
+		"description": "Lesgeven",
+		"prefix": "F1",
+		"id": "52fe6ac5-bd63-4af7-87db-5add2157745c",
+		"fo_doelzin_id": [
+			"9b5f0da5-1baa-414f-a01a-2919c215480f",
+			"08e596d3-8bde-446d-85c8-218aff325306",
+			"6d1cb2d5-bba0-49e8-9399-6493360f82cb"
+		]
+	},
+	{
+		"title": "Subdomein F2",
+		"description": "Organiseren",
+		"prefix": "F2",
+		"id": "fb748a6a-6b55-4692-9eaa-fcad33946e3b",
+		"fo_doelzin_id": [
+			"bef7f12d-876f-4f9b-845d-9a6280008c26",
+			"63aac6a9-49ae-4256-bca1-6071d090b6d9",
+			"182b44f0-8e01-4db0-bd67-f6f36c1f1bec"
+		]
+	},
+	{
+		"title": "Subdomein C1",
+		"description": "Bewegen en de maatschappij",
+		"prefix": "C1",
+		"id": "e9f22ce1-011a-4441-b7bb-e188f466e11e",
+		"fo_doelzin_id": [
+			"6688a385-aca9-43a4-a517-eb6873bb7877",
+			"718a169e-33de-4aee-b84c-074037988264",
+			"abc6e2b1-73e3-4ad5-b532-6e154c98b8ae"
+		]
+	},
+	{
+		"title": "Subdomein C2",
+		"description": "Bewegen en beweegidentiteit",
+		"prefix": "C2",
+		"id": "f0d938a9-0d11-4edb-99af-0f368835848a",
+		"fo_doelzin_id": [
+			"09164e81-d3ab-4fec-bbea-7291ac3274d0",
+			"b34e48d7-9226-49de-a440-108b3cce0061"
+		]
+	},
+	{
+		"title": "Subdomein F1",
+		"description": "Lesgeven",
+		"prefix": "F1",
+		"id": "63e46b88-cdb3-4fb8-9b88-15d2d9ac893d",
+		"fo_doelzin_id": [
+			"a244bcb8-dce0-42df-a328-d62b32f12fb6",
+			"759f6fbf-df94-429c-af30-2dd713b7188a",
+			"b4d4ea6a-b501-4241-ba24-ba8d438dd6c0"
+		]
+	},
+	{
+		"title": "Subdomein F2",
+		"description": "Organiseren",
+		"prefix": "F2",
+		"id": "219726db-2bd4-4a44-a791-4f25ff5c3f42",
+		"fo_doelzin_id": [
+			"1aabd6a9-721f-4d8c-866e-0358f3252230",
+			"0df4fd17-ebfe-408e-b8b3-6d1c2e8759ae",
+			"e1126a8e-34c4-45ba-ac4c-a4143f3b3e2d"
+		]
+	},
+	{
+		"title": "Subdomein C1",
+		"description": "Bewegen en de maatschappij",
+		"prefix": "C1",
+		"id": "c9ad8b91-a6d1-413f-90e0-fa512e5e67c1",
+		"fo_doelzin_id": [
+			"ba22c14c-844d-40e9-bb66-bbf226fce60b",
+			"2990ecb8-eb44-451a-ac5e-8b690f1b0b04"
+		]
+	},
+	{
+		"title": "Subdomein C2",
+		"description": "Bewegen en beweegidentiteit",
+		"prefix": "C2",
+		"id": "88bfc4b5-08d3-4b03-96cd-5a75e6d23a0c",
+		"fo_doelzin_id": [
+			"b0702f1d-1469-4291-8355-e3ef0f82fca5",
+			"b2c90360-f583-4c36-89e8-fa8c2382eb00"
+		]
+	},
+	{
+		"title": "Subdomein B1",
+		"description": "Bewegen met anderen",
+		"prefix": "B1",
+		"id": "6f9ce560-355f-4d32-ad22-016a4b647a91",
+		"fo_doelzin_id": [
+			"cc76df5a-019f-43e7-a960-1876a7c2a313",
+			"8ce90f18-e425-465e-b87d-830f488b55cb"
+		]
+	},
+	{
+		"title": "Subdomein B2",
+		"description": "Regelen en creëren van beweegactiviteiten",
+		"prefix": "B2",
+		"id": "d092feaa-c5d1-4fe7-87f4-52ef82bc2c83",
+		"fo_doelzin_id": [
+			"b3e58d99-f50d-427b-bfa6-5dbec983df14",
+			"33ff9c5b-9ab5-4c0b-bc2b-007da4a9fee9"
+		]
+	},
+	{
+		"title": "Subdomein C1",
+		"description": "Beweeg- en sportcultuur",
+		"prefix": "C1",
+		"id": "6849d56e-8e1a-4b99-a869-864c18597eff",
+		"fo_doelzin_id": [
+			"5191ae87-545c-4d9c-8b3f-30cd605e1475",
+			"7388ba5f-229b-462b-9793-4009dfb8a7b0"
+		]
+	},
+	{
+		"title": "Subdomein C2",
+		"description": "Bewegen en beweegidentiteit",
+		"prefix": "C2",
+		"id": "1d95c3b7-a7f5-4373-8ae8-c3a7a5652949",
+		"fo_doelzin_id": [
+			"db12438c-40fa-4eb8-ae34-a83fe7604fac",
+			"85c626f8-7e47-4e73-aa0c-edee6f324248"
+		]
+	},
+	{
+		"title": "Subdomein C3",
+		"description": "Bewegen en vitaliteit",
+		"prefix": "C3",
+		"id": "71e00605-2e27-4bc2-b7c6-b8d5520d7482",
+		"fo_doelzin_id": [
+			"a2059033-65d1-41f5-9e73-3d1c34aa0146",
+			"4bf9e7b2-3cf2-4139-86ea-f89c18e8feec"
+		]
+	},
+	{
+		"title": "Subdomein B1",
+		"description": "Bewegen met anderen",
+		"prefix": "B1",
+		"id": "3d46f35f-bbc5-436d-a670-7258790151ed",
+		"fo_doelzin_id": [
+			"11a3f6dd-09b4-437d-974e-173bcdb2cbb1",
+			"fc1f6d1e-8493-4987-aab8-1e62981998c4"
+		]
+	},
+	{
+		"title": "Subdomein B2",
+		"description": "Regelen en creëren van beweegactiviteiten",
+		"prefix": "B2",
+		"id": "c8abc236-9451-44d8-93fe-f5cf25a26010",
+		"fo_doelzin_id": [
+			"d721e1c4-1654-49d1-b7ef-01b4be211963",
+			"dcf5876e-1afd-486d-ae51-ffa3bcfe1c54"
+		]
+	},
+	{
+		"title": "Subdomein C1",
+		"description": "Beweeg- en sportcultuur",
+		"prefix": "C1",
+		"id": "95a1c13e-f704-418c-bebc-c1dd80702283",
+		"fo_doelzin_id": [
+			"58295d86-c975-4bb9-998f-351a3874ac98",
+			"b3cab527-b57f-4d58-84c8-7730c5fe91dd"
+		]
+	},
+	{
+		"title": "Subdomein C2",
+		"description": "Bewegen en beweegidentiteit",
+		"prefix": "C2",
+		"id": "d85d23ff-ef5e-4b1d-8f0e-92655b6815f0",
+		"fo_doelzin_id": [
+			"352ebb63-62b5-41d6-b1f8-e8780a44ac1e",
+			"b6deeb0c-b7a1-4ea4-be8b-5599e2c53939"
+		]
+	},
+	{
+		"title": "Subdomein C3",
+		"description": "Bewegen en vitaliteit",
+		"prefix": "C3",
+		"id": "11ee4caa-f56f-4f11-93cc-03713293d5c5",
+		"fo_doelzin_id": [
+			"acfaeb21-ee59-4ad2-b72f-1ba039682cba",
+			"d2bb1358-7816-4d6d-84e4-518da85e1cd7"
+		]
+	},
+	{
+		"title": "Subdomein B1",
+		"description": "Bewegen met anderen",
+		"prefix": "B1",
+		"id": "9a26f01b-4223-4984-8e5e-519284c723aa",
+		"fo_doelzin_id": [
+			"7b9fcb6d-55bd-4321-b413-78d2a6bf8ce7",
+			"a449f2b4-8a2b-4b58-915d-75eab496bd4a"
+		]
+	},
+	{
+		"title": "Subdomein B2",
+		"description": "Regelen en creëren van beweegactiviteiten",
+		"prefix": "B2",
+		"id": "a3731ebd-0ba5-4e8d-b1a6-4e7f9d0ab3a5",
+		"fo_doelzin_id": [
+			"c73ce7bc-d890-4f3f-8cb9-fa90eecb6088",
+			"87806330-f3c7-4f04-b893-7484bda93637"
+		]
+	},
+	{
+		"title": "Subdomein C1",
+		"description": "Beweeg- en sportcultuur",
+		"prefix": "C1",
+		"id": "8266f648-94d0-4798-993f-79905fd7f1d1",
+		"fo_doelzin_id": [
+			"dcf5023d-d3f3-443f-8848-2aa187c3f83c",
+			"714a156e-ced1-45f8-ae77-f08315a1eeda"
+		]
+	},
+	{
+		"title": "Subdomein C2",
+		"description": "Bewegen en beweegidentiteit",
+		"prefix": "C2",
+		"id": "abac8e0e-37a2-4628-8114-d22031302251",
+		"fo_doelzin_id": [
+			"1db906f1-8a56-4e20-bbc1-988957e8ded6",
+			"82e25649-2938-4211-9159-67157026c888"
+		]
+	},
+	{
+		"title": "Subdomein C3",
+		"description": "Bewegen en vitaliteit",
+		"prefix": "C3",
+		"id": "49be3f1d-3c52-4b77-92e4-05564bb482e4",
+		"fo_doelzin_id": [
+			"29d34f1e-033a-4a01-904e-66320b6ec11d",
+			"b7a0ecc8-1a15-46ac-b3d9-b99189150e32"
+		]
+	},
+	{
+		"title": "Subdomein B1",
+		"description": "Bewegen met anderen",
+		"prefix": "B1",
+		"id": "4955983e-2e52-47c4-a609-c64fd2c1a756",
+		"fo_doelzin_id": [
+			"67812a6e-b743-4997-a4d6-7cc840d6b858",
+			"aa7edf8d-9163-4cb5-9fd0-eec3f4a9701b"
+		]
+	},
+	{
+		"title": "Subdomein B2",
+		"description": "Regelen en creëren van beweegactiviteiten",
+		"prefix": "B2",
+		"id": "8641b017-0c72-410f-9596-b4014aa40fc6",
+		"fo_doelzin_id": [
+			"5a6d5358-bcb1-4f98-a399-08bbb6b4e398",
+			"7e24efaa-d215-48b4-98be-056d258cbe55"
+		]
+	},
+	{
+		"title": "Subdomein C1",
+		"description": "Beweeg- en sportcultuur",
+		"prefix": "C1",
+		"id": "3842ea8d-994e-4862-8a6e-8b7e7c3b5434",
+		"fo_doelzin_id": [
+			"ba67edec-6fb7-4f0a-ab45-124ee26e9098",
+			"c746acd2-7899-4c38-9b47-e80fa8b3f90d"
+		]
+	},
+	{
+		"title": "Subdomein C2",
+		"description": "Bewegen en beweegidentiteit",
+		"prefix": "C2",
+		"id": "a1aed84f-3030-4a64-af4a-64eb363081ff",
+		"fo_doelzin_id": [
+			"9063033e-2955-47e0-b170-98de69fcbe66",
+			"d68bb3dd-ac4e-4173-a667-431b50826d1b"
+		]
+	},
+	{
+		"title": "Subdomein C3",
+		"description": "Bewegen en vitaliteit",
+		"prefix": "C3",
+		"id": "c3e42ae1-3c8d-4a0f-bc1a-cddbd2240e96",
+		"fo_doelzin_id": [
+			"db5b8754-b739-4668-a46a-cbc7c2e51c23",
+			"832f3bb1-9498-4636-ae98-feefeac35a14"
+		]
+	},
+	{
+		"title": "Subdomein B1",
+		"description": "Bewegen met anderen",
+		"prefix": "B1",
+		"id": "2b7824f7-9dd8-4b6e-b37d-059f6ebc3729",
+		"fo_doelzin_id": [
+			"4eb04b11-65b3-487f-b2db-b9d46a4b8038",
+			"0ffdfa1a-42cc-433f-8bd4-08bd53d524af"
+		]
+	},
+	{
+		"title": "Subdomein B2",
+		"description": "Regelen en creëren van beweegactiviteiten",
+		"prefix": "B2",
+		"id": "870f801c-3352-4525-8d90-9d0b9fe7b3b5",
+		"fo_doelzin_id": [
+			"75827d83-1d51-4fde-ad2b-93ef84a51d44",
+			"44b9789e-20b1-47ef-8563-4270bd94d37c"
+		]
+	},
+	{
+		"title": "Subdomein C1",
+		"description": "Beweeg- en sportcultuur",
+		"prefix": "C1",
+		"id": "08b19024-1b8f-44d5-a868-e90decf3bdc5",
+		"fo_doelzin_id": [
+			"72b3dce2-2765-4f50-bf84-58255b7e6719",
+			"b249b31c-09ab-4f0d-b344-11c3afbcd0f1"
+		]
+	},
+	{
+		"title": "Subdomein C2",
+		"description": "Bewegen en beweegidentiteit",
+		"prefix": "C2",
+		"id": "5011b10b-73f1-41f0-8584-47f87aa8092a",
+		"fo_doelzin_id": [
+			"b7bfd082-62f8-438d-a447-d265a03a6704",
+			"2bd54fb1-199c-4b8a-a5d0-2355be75256b"
+		]
+	},
+	{
+		"title": "Subdomein C3",
+		"description": "Bewegen en vitaliteit",
+		"prefix": "C3",
+		"id": "220b6624-8937-404b-a87f-c33657803e65",
+		"fo_doelzin_id": [
+			"f7f93568-4124-4d00-bd0d-aaf1b5e6da52",
+			"c12fda32-6623-4f29-b080-8f960fcba4f1"
+		]
+	},
+	{
+		"title": "Subdomein B1",
+		"description": "Filosofisch schrijven",
+		"prefix": "B1",
+		"id": "fa82ddb2-0c54-49d7-a7f7-8f8ddbcfda38",
+		"fo_doelzin_id": [
+			"8d237492-7e36-4f19-8f92-ad99ee684f34",
+			"1bf1760b-0b9c-46d7-99ca-c1ea5bc12eac"
+		]
+	},
+	{
+		"title": "Subdomein B2",
+		"description": "Filosofisch spreken",
+		"prefix": "B2",
+		"id": "d34c60e2-fceb-4e0b-8f5a-aa56d1892102",
+		"fo_doelzin_id": [
+			"1b55bebf-22c5-480c-9c4e-d599acae25f2",
+			"9d68ee37-56ac-472a-ace7-e52cc131025b"
+		]
+	},
+	{
+		"title": "Subdomein B3",
+		"description": "Filosofisch verbeelden",
+		"prefix": "B3",
+		"id": "dcdfd019-4805-47f8-b6c5-f1124a40253e",
+		"fo_doelzin_id": [
+			"c073edc9-0b82-49dd-bff9-1e81649f01a0",
+			"c3509818-afe7-4be1-9d9e-d0dee5676d66"
+		]
+	},
+	{
+		"title": "Subdomein B4",
+		"description": "Filosofisch praktiseren",
+		"prefix": "B4",
+		"id": "b63b43d1-c7d3-42f5-bae4-9dc9224b9e94",
+		"fo_doelzin_id": [
+			"642aa3f3-5d93-4b2c-9849-bb7870bab3eb",
+			"11a1f3be-5ca5-4eab-8519-033f78785804"
+		]
+	},
+	{
+		"title": "Subdomein C1",
+		"description": "Wat is filosofische antropologie?",
+		"prefix": "C1",
+		"id": "4edadd91-6693-4bf7-8ca9-4ac1157e4051",
+		"fo_doelzin_id": [
+			"71516591-7b92-49cb-970c-dd4e96700b6a",
+			"db5fbe9c-8e8e-460f-a8c0-215d9595c339",
+			"bee3587d-0e4f-4bfb-be24-331216606150"
+		]
+	},
+	{
+		"title": "Subdomein C2",
+		"description": "Wat is de mens?",
+		"prefix": "C2",
+		"id": "7722cd0c-1119-41b3-b5c6-f7608075ddf5",
+		"fo_doelzin_id": [
+			"ad2221b6-7d9c-4b7b-8778-6af9edc762ec",
+			"6cd09bf8-2a26-4b1d-9b95-0900b5e70201"
+		]
+	},
+	{
+		"title": "Subdomein D1",
+		"description": "Wat is ethiek?",
+		"prefix": "D1",
+		"id": "ee949d77-7966-4a5a-a2b5-ca9e528c7af9",
+		"fo_doelzin_id": [
+			"797d84be-38c9-4e7a-b2a5-b1d89e67efa8",
+			"df78b5b8-0620-4c38-a4af-fdc1034bfda6",
+			"d4cdf73e-7d5a-4a2f-b41f-901bf1110842"
+		]
+	},
+	{
+		"title": "Subdomein D2",
+		"description": "Wat is een goede handeling?",
+		"prefix": "D2",
+		"id": "cf791b17-c9d4-4837-a6b3-6fb6e06f9825",
+		"fo_doelzin_id": [
+			"35c406fe-ac43-4883-a1e1-443aec458811",
+			"53396343-5478-4994-beb0-9e368f1541bb",
+			"ec39e7b4-3e17-4537-aa11-64ab05fc8423"
+		]
+	},
+	{
+		"title": "Subdomein E1",
+		"description": "Wat is sociale en politieke filosofie?",
+		"prefix": "E1",
+		"id": "3eda767d-adab-456c-badd-3917eeb5cfdf",
+		"fo_doelzin_id": [
+			"62c7eab6-7c65-4dea-b4c5-e113147a5d0c",
+			"967e50ab-69fa-4193-9a00-ec9204637101",
+			"f449fc54-96f8-45da-bfb6-54689181ece9"
+		]
+	},
+	{
+		"title": "Subdomein E2",
+		"description": "Hoe krijgen het sociale en het politieke vorm?",
+		"prefix": "E2",
+		"id": "d371a35b-81e4-432a-86dc-60e59e233ade",
+		"fo_doelzin_id": [
+			"d112fcd7-1e07-4374-b946-32672892e9ec",
+			"578fcf81-bede-4592-a6e8-17d0d7b3e3eb"
+		]
+	},
+	{
+		"title": "Subdomein B1",
+		"description": "Filosofisch schrijven",
+		"prefix": "B1",
+		"id": "07b349ac-a14d-441c-8134-8d52b91ab45f",
+		"fo_doelzin_id": [
+			"ecdeefbb-fc5a-4521-a042-ac7e49fe36d0",
+			"67adf3d6-9ed0-4105-845e-f11e893df91b"
+		]
+	},
+	{
+		"title": "Subdomein B2",
+		"description": "Filosofisch spreken",
+		"prefix": "B2",
+		"id": "2ccc48d8-135d-4951-b52b-abe2a2ece192",
+		"fo_doelzin_id": [
+			"8cdfdd07-bd0a-45c4-853b-a3df02bab542",
+			"8a5c6b14-04bb-45b4-b17d-ea1ff871d0de"
+		]
+	},
+	{
+		"title": "Subdomein B3",
+		"description": "Filosofisch verbeelden",
+		"prefix": "B3",
+		"id": "eff24cd3-c22b-4329-be45-4be28d6f9b5b",
+		"fo_doelzin_id": [
+			"9d522331-3dbd-470e-8692-a27541f78bf4",
+			"e3dcd505-c0c8-4b58-bf27-72350fc9d929"
+		]
+	},
+	{
+		"title": "Subdomein B4",
+		"description": "Filosofisch praktiseren",
+		"prefix": "B4",
+		"id": "c9733632-456c-4561-afba-f39ac5e918b5",
+		"fo_doelzin_id": [
+			"dc56d73a-6c01-49ff-8aab-fb260aa93029",
+			"cdb29c30-5db6-4bc5-aee3-37a55926e42d"
+		]
+	},
+	{
+		"title": "Subdomein C1",
+		"description": "Wat is filosofische antropologie?",
+		"prefix": "C1",
+		"id": "95315789-edce-47b4-8e6a-307dd6cd84a5",
+		"fo_doelzin_id": [
+			"bc27cb8c-78e7-4cc4-8e08-29359bd9ae15",
+			"4317c3fb-250a-4f66-818d-7e3e9f021a9c"
+		]
+	},
+	{
+		"title": "Subdomein C2",
+		"description": "Wat is de mens?",
+		"prefix": "C2",
+		"id": "6d5a75c8-5fb0-43a6-ac94-eb2186773714",
+		"fo_doelzin_id": [
+			"3583f8ae-3b88-4555-8482-a8c1ed2ed20a",
+			"22c5463b-6eee-4f14-a0af-63ae7f89ce57",
+			"39eb8ceb-cae5-4b4c-810c-2da0aae10bf4"
+		]
+	},
+	{
+		"title": "Subdomein C3",
+		"description": "Wie ben ik?",
+		"prefix": "C3",
+		"id": "47612f82-5b82-45f2-b098-5ad60c54a7b5",
+		"fo_doelzin_id": [
+			"7c92862e-dd32-4199-9d0d-e3c5de113aaf",
+			"037291ca-98f8-4622-839f-dcd118531cf9"
+		]
+	},
+	{
+		"title": "Subdomein D1",
+		"description": "Wat is ethiek?",
+		"prefix": "D1",
+		"id": "39c8ed73-ea5e-4ece-b511-002dee3d32fa",
+		"fo_doelzin_id": [
+			"ed6ded66-ca2d-46aa-83ad-422a3902778c",
+			"a8779311-9c05-4b20-94fa-8abdc43a1738"
+		]
+	},
+	{
+		"title": "Subdomein D2",
+		"description": "Wat is een goede handeling?",
+		"prefix": "D2",
+		"id": "1169a834-d185-4758-b559-a0b85d6dc1b1",
+		"fo_doelzin_id": [
+			"c5bbba59-2d5a-44d3-b892-c4c9d21b26d7",
+			"5fbe3bd9-b0a4-4a25-9438-2433e88f1c60",
+			"12fbe658-df3d-4551-8ec3-c9e7d08c41e6"
+		]
+	},
+	{
+		"title": "Subdomein D3",
+		"description": "Wat moet ik doen?",
+		"prefix": "D3",
+		"id": "1e6dfc2d-ce85-44f6-b391-07e4380c28e3",
+		"fo_doelzin_id": [
+			"205069a0-f71e-4c52-a651-266f5a01fd9e",
+			"58dae640-65c4-477a-92e9-e46744b605aa"
+		]
+	},
+	{
+		"title": "Subdomein E1",
+		"description": "Wat is sociale en politieke filosofie?",
+		"prefix": "E1",
+		"id": "25d27571-4df6-4793-b2a7-503407ae3a8e",
+		"fo_doelzin_id": [
+			"c93bb8a6-0fff-4dd0-b62b-6c28840f1863",
+			"5e7f7aaa-3b9d-4c07-8a71-b08765ad13db"
+		]
+	},
+	{
+		"title": "Subdomein E2",
+		"description": "Hoe krijgen het sociale en het politieke vorm?",
+		"prefix": "E2",
+		"id": "d0e1f456-ea0e-4588-898b-c8a6eb3a44b2",
+		"fo_doelzin_id": [
+			"795551db-ce5c-413b-ba32-331782e5255d",
+			"72aa5159-2be8-43d1-80bc-1d72e104d656",
+			"4b37933c-7081-4d49-989e-1165585bfb36"
+		]
+	},
+	{
+		"title": "Subdomein E3",
+		"description": "Hoe verhoud ik mij tot het sociale en het politieke?",
+		"prefix": "E3",
+		"id": "58693b49-a11e-469f-86cb-2056e1c53f7a",
+		"fo_doelzin_id": [
+			"2f093697-43b3-47a8-94d9-21f8b70ed4ff",
+			"9cdd5d46-98ae-448f-8531-48549a3d1fd9"
+		]
+	},
+	{
+		"title": "Subdomein F1",
+		"description": "Wat is epistemologie en wetenschapsfilosofie?",
+		"prefix": "F1",
+		"id": "d5a30aba-56b1-4597-ac3b-ce2169f03676",
+		"fo_doelzin_id": [
+			"38886c20-bf45-43bc-9779-47e5aab1d437",
+			"0a085b10-5060-4f0e-ad20-8095bb99e08f"
+		]
+	},
+	{
+		"title": "Subdomein F2",
+		"description": "Wat is (wetenschappelijke) kennis?",
+		"prefix": "F2",
+		"id": "ec874e97-3c44-4837-b407-84fc06a5b0c9",
+		"fo_doelzin_id": [
+			"2880d63b-9280-48a7-ae20-6f2f70f6c8c1",
+			"20dd69c8-c280-4d66-ae3a-605f9e16acaf",
+			"b0604afb-2c68-42be-afea-e8135b7f3959"
+		]
+	},
+	{
+		"title": "Subdomein F3",
+		"description": "Wat is het belang van (wetenschappelijke) kennis?",
+		"prefix": "F3",
+		"id": "e1f547af-ecb2-4ad7-b1fd-96b9226ce587",
+		"fo_doelzin_id": [
+			"71a9b914-f250-4363-a179-8b17e5efe89b",
+			"8642d18f-1b83-4c17-ae40-d51318af051c"
+		]
+	},
+	{
+		"title": "Subdomein B1",
+		"description": "Creëren",
+		"prefix": "B1",
+		"id": "5617f676-734e-4f0b-90f9-6d27df8ae29b",
+		"fo_doelzin_id": [
+			"99caae7e-e8d1-4f11-a48a-d44aec88b0a4",
+			"38fd7153-e035-402c-b832-c0327a321ddf",
+			"9017d8f2-b282-442f-acb9-1e1313681a4c"
+		]
+	},
+	{
+		"title": "Subdomein B2",
+		"description": "Vakvaardigheid",
+		"prefix": "B2",
+		"id": "43111665-4499-4d71-9232-8d285561cdd1",
+		"fo_doelzin_id": [
+			"b50a5ab6-b55d-475a-ad8a-15cf82c56b76",
+			"d5549b80-f446-4427-85cd-03f90e268beb",
+			"1851b4fc-a491-480c-b4a4-c102630f9785",
+			"3a00069e-8919-4834-98dc-06a09d2b515d"
+		]
+	},
+	{
+		"title": "Subdomein C1",
+		"description": "Vaktheorie",
+		"prefix": "C1",
+		"id": "0664ee99-0ac4-4c83-99c3-db758d5c8ec8",
+		"fo_doelzin_id": [
+			"53c39dd9-2853-427a-b5df-b657ef77f852",
+			"e5b748b6-44de-422f-a682-79b1005bac11",
+			"055cfc2a-5e1a-4c46-bfa3-c1e43e78484e"
+		]
+	},
+	{
+		"title": "Subdomein C2",
+		"description": "Beeldend en kunsten in contexten",
+		"prefix": "C2",
+		"id": "e0c82e06-a1ef-443d-b6af-13851650650e",
+		"fo_doelzin_id": [
+			"1f09ef83-9763-408a-9196-361724ccdf10",
+			"6c31dc4b-1fb9-45d7-9fa2-19e4760a4933",
+			"8322fd5d-6fd5-4dbf-9836-ea900bad824a"
+		]
+	},
+	{
+		"title": "Subdomein B1",
+		"description": "Creëren",
+		"prefix": "B1",
+		"id": "300e4edc-9881-42ec-a1f7-55b0339ddfb3",
+		"fo_doelzin_id": [
+			"4620666a-25ee-43dd-96ad-c8e80308d742",
+			"02e144e8-a679-4073-8676-7f2e7d986810",
+			"daaea3f3-cd6a-4331-805d-6d6a89de4f2f"
+		]
+	},
+	{
+		"title": "Subdomein B2",
+		"description": "Vakvaardigheid",
+		"prefix": "B2",
+		"id": "beef9e70-792c-4473-ad8d-08fb868ead97",
+		"fo_doelzin_id": [
+			"ca749783-a1a4-4cfe-93b9-0706d715ca77",
+			"a258f700-4d64-4c5c-a4c9-bf384b54f177",
+			"22307db7-77b2-4baa-8ee0-9c7cbae0a71d",
+			"0daadaba-4fdf-4b9f-a1aa-87ef6a785cbf"
+		]
+	},
+	{
+		"title": "Subdomein C1",
+		"description": "Vaktheorie",
+		"prefix": "C1",
+		"id": "124884df-2917-402c-87a7-61aeb66b90ce",
+		"fo_doelzin_id": [
+			"4653bb6e-a5a2-4424-8cd0-dd075bfad0b4",
+			"d37f70e7-6937-4043-b131-b24bd1114675",
+			"bc5c7d3d-210b-4c4f-8a59-a5d5f8bd0e4f"
+		]
+	},
+	{
+		"title": "Subdomein C2",
+		"description": "Beeldend en kunsten in contexten",
+		"prefix": "C2",
+		"id": "89df87fa-5ff3-4fca-a198-3d188a04e8d7",
+		"fo_doelzin_id": [
+			"3e08b53f-76e3-4c1c-b13e-27dae8e16f7c",
+			"eccb0f5b-f864-4d9e-8869-c4fd11caec1f",
+			"5e3ace1e-28f6-47a9-8eda-0c846a884804"
+		]
+	},
+	{
+		"title": "Subdomein B1",
+		"description": "Creëren",
+		"prefix": "B1",
+		"id": "deb2e1b6-964a-4ed0-8d98-032a87634a2b",
+		"fo_doelzin_id": [
+			"ec023d47-945d-4be7-9603-c69bb183aa82",
+			"cb6c4045-d876-4701-9f83-08751e929797",
+			"79538ac6-b6f4-41db-b56b-e39a6900bced"
+		]
+	},
+	{
+		"title": "Subdomein B2",
+		"description": "Vakvaardigheid",
+		"prefix": "B2",
+		"id": "76eafdfa-4c7b-4ee9-8f62-fd7c015bd668",
+		"fo_doelzin_id": [
+			"a5fcdc7c-e47a-4ec6-8e99-55eb3ec44ef9",
+			"945a8015-c705-4de6-9fdd-f0d79440a1c7",
+			"df7bca39-a6a5-4f89-8acc-b8ed4bd8ef0b",
+			"0fc62213-06ec-4c25-80c8-06aaad2815f7"
+		]
+	},
+	{
+		"title": "Subdomein C1",
+		"description": "Vaktheorie",
+		"prefix": "C1",
+		"id": "a7c351f8-5460-42b7-8cef-0e9db18ce8a3",
+		"fo_doelzin_id": [
+			"705b7f69-9a3b-44cf-8222-0cd0764db334",
+			"c4d2985c-6645-44dc-bc1f-ba84e9b6af88",
+			"6c394a72-1f3b-454c-9d6d-07a5d321fd30"
+		]
+	},
+	{
+		"title": "Subdomein C2",
+		"description": "Beeldend en kunsten in contexten",
+		"prefix": "C2",
+		"id": "10088ba6-3023-478d-8c48-071c661d8440",
+		"fo_doelzin_id": [
+			"20fbc784-87df-40ca-8257-873c34098581",
+			"f4178f44-94ab-49de-bc46-3e1b49978926",
+			"ad56bc28-e25d-42da-83e8-6d92a2c03a5d"
+		]
+	},
+	{
+		"title": "Subdomein B1",
+		"description": "Ervaren en verkennen",
+		"prefix": "B1",
+		"id": "1557a37b-4e5b-4dec-ac33-55a4e3f3abca",
+		"fo_doelzin_id": [
+			"d80780bc-2615-4b08-8f1f-77314b5b7366",
+			"eb16f49e-f2b0-4200-b417-d8473531b526"
+		]
+	},
+	{
+		"title": "Subdomein B2",
+		"description": "Onderzoeken en verbreden",
+		"prefix": "B2",
+		"id": "cd9dd8f7-c28f-41a9-b2fd-23cabaa9b96a",
+		"fo_doelzin_id": [
+			"3b37f38f-f9d5-4722-96c4-1452716253b8",
+			"d6d31a80-f2d0-48d1-abbb-82275d29779f",
+			"4bdee9cb-2dc2-4af1-b737-2fd6f2134573",
+			"f0ad06c7-2af6-40da-8149-857dd5b43d91"
+		]
+	},
+	{
+		"title": "Subdomein B3",
+		"description": "Verbinden",
+		"prefix": "B3",
+		"id": "a32c85b2-595d-46d4-9b08-fdf9d255fb81",
+		"fo_doelzin_id": [
+			"4a3c7785-dbd0-4f03-be34-1e9a91f12d3d",
+			"f3497975-9b8f-4318-bbae-c10b4bdb4f49"
+		]
+	},
+	{
+		"title": "Subdomein B1",
+		"description": "Ervaren en verkennen",
+		"prefix": "B1",
+		"id": "6b1f71fd-77a2-41e8-836c-aaf35facfea4",
+		"fo_doelzin_id": [
+			"0af0cdb4-d5e5-4947-84e9-76f9cfffae2e",
+			"6012547a-3566-4c29-b59b-c2b06933acce"
+		]
+	},
+	{
+		"title": "Subdomein B2",
+		"description": "Onderzoeken en verbreden",
+		"prefix": "B2",
+		"id": "14314f69-c4dc-4b9c-a44d-c56f9714e1f3",
+		"fo_doelzin_id": [
+			"21c26016-826a-442a-bdf0-bcf0d9423399",
+			"6dc57e6c-5b2f-4db2-a73d-ce436e34690f",
+			"055fcd1e-f783-4ba3-931d-e761e2db7576",
+			"f0148328-f49e-4337-8d9c-314380526e48"
+		]
+	},
+	{
+		"title": "Subdomein B3",
+		"description": "Verbinden",
+		"prefix": "B3",
+		"id": "ccd2a86f-4954-4f39-8c99-f49b621c27e1",
+		"fo_doelzin_id": [
+			"309f2381-eacb-4609-9c25-f421691ecfef",
+			"f9c8418d-ff46-4338-bfb3-cf0a58a3432e"
+		]
+	},
+	{
+		"title": "Subdomein B1",
+		"description": "Ervaren en verkennen",
+		"prefix": "B1",
+		"id": "9a21764e-b01b-4840-a4c9-3aeba54dca96",
+		"fo_doelzin_id": [
+			"b33aa962-22f9-4c14-aeda-182d7fc6ceb8",
+			"915cc847-e420-45b2-9025-75000ea9e68d"
+		]
+	},
+	{
+		"title": "Subdomein B2",
+		"description": "Onderzoeken en verbreden",
+		"prefix": "B2",
+		"id": "d257bc16-34b0-4cd1-8833-1b943bdc9491",
+		"fo_doelzin_id": [
+			"2bd4beee-5e3e-4219-a9ab-1adadf7aaa74",
+			"c87e7931-03d9-4cb2-8c48-d36717a1f1f9",
+			"281a56e4-95b7-462a-8ebd-79ae573afe3e",
+			"8a0786b2-f358-44bb-b8e3-31487b764605"
+		]
+	},
+	{
+		"title": "Subdomein B3",
+		"description": "Verbinden",
+		"prefix": "B3",
+		"id": "0063156d-7660-4583-ae3b-f556164d8ca8",
+		"fo_doelzin_id": [
+			"ae2bce1c-3cb9-42b8-b7f6-66962488c5e7",
+			"c2784c7a-c253-40fc-94f1-436c3d1c11e4"
+		]
+	},
+	{
+		"title": "Subdomein B1",
+		"description": "Ervaren en verkennen",
+		"prefix": "B1",
+		"id": "bf4a7039-3270-41db-bba5-368806cc2fbb",
+		"fo_doelzin_id": [
+			"fc306946-66ee-44e8-983d-8f8835768ec4",
+			"f274316d-06f0-4fe6-a247-af84a0071084"
+		]
+	},
+	{
+		"title": "Subdomein B2",
+		"description": "Onderzoeken en verbreden",
+		"prefix": "B2",
+		"id": "0e1ba7e5-cdc8-4c1f-a7ea-3fb467f5779d",
+		"fo_doelzin_id": [
+			"da22b129-c334-455d-b818-aa77895a49a4",
+			"4e6934cd-e48d-4805-a253-d55db8f6ee36",
+			"b8ac23c8-1edd-4c04-afbb-a53524e909ba",
+			"82a915fc-6793-4c40-a8d3-54e46e6593b9"
+		]
+	},
+	{
+		"title": "Subdomein B3",
+		"description": "Verbinden",
+		"prefix": "B3",
+		"id": "27e7cb06-70b1-4e7f-b777-87f200dd7576",
+		"fo_doelzin_id": [
+			"21ab7e89-3923-47f9-80e0-1d799099e9c0",
+			"5adc4393-5d0b-4435-8683-bfa1526f5d49"
+		]
+	},
+	{
+		"title": "Subdomein B1",
+		"description": "Ervaren en verkennen",
+		"prefix": "B1",
+		"id": "b06c5d07-e809-4ab1-a6ce-2a0c5ac2441a",
+		"fo_doelzin_id": [
+			"5c245fe4-53fa-44c4-8fff-87039a429a84",
+			"efe6d849-6402-4071-9bc3-c7ecf1791f30"
+		]
+	},
+	{
+		"title": "Subdomein B2",
+		"description": "Onderzoeken en verdiepen",
+		"prefix": "B2",
+		"id": "fa77412e-d23b-44da-9e8c-34326738e21e",
+		"fo_doelzin_id": [
+			"1f95ef1e-5da0-4c85-aca1-a5f3ee16e0b4",
+			"a1c34da9-50f9-40f8-871f-6fc6d737ce09",
+			"3cc8844f-3bc3-47a2-8fc7-1333e3251e67",
+			"2e99ef99-7414-4e90-9fe8-1c0a4777e95f"
+		]
+	},
+	{
+		"title": "Subdomein B3",
+		"description": "Verbinden",
+		"prefix": "B3",
+		"id": "62e4aae1-1833-4047-ab7b-4021c9c98b9c",
+		"fo_doelzin_id": [
+			"59a5b37f-fe4e-4dae-9eae-07d30b81de87",
+			"683d3f9f-4cd5-4f84-ba00-348e1290d74c"
+		]
+	},
+	{
+		"title": "Subdomein B1",
+		"description": "Creëren",
+		"prefix": "B1",
+		"id": "7e04acdb-cca8-46ba-ac5e-a5468b44bf7c",
+		"fo_doelzin_id": [
+			"59f9520c-50aa-44bf-a6a5-f2195f3bfab7",
+			"1fc3eda4-9ffa-462e-a126-630846ba857d",
+			"ef3e33d4-1662-4c6a-a174-99e366a90a6c"
+		]
+	},
+	{
+		"title": "Subdomein B2",
+		"description": "Vakvaardigheid",
+		"prefix": "B2",
+		"id": "543fff60-920f-4547-90b9-10cd71613ee4",
+		"fo_doelzin_id": [
+			"6453cff5-a02f-463d-90f2-46e2857a3089",
+			"f06a7593-c5ef-4796-8e3d-d86744093686",
+			"4577b293-5fc3-49ba-9722-b2766eb7f5b1",
+			"174937f1-0836-407c-849e-00497b2b7692",
+			"8c4904c1-1276-4c19-8f55-69ccedb89659"
+		]
+	},
+	{
+		"title": "Subdomein C1",
+		"description": "Vaktheorie",
+		"prefix": "C1",
+		"id": "f118c612-43b0-4523-94dc-4ced7afb9cf0",
+		"fo_doelzin_id": [
+			"a6896372-20ba-4352-b7a5-9e54178487f3",
+			"503f5d93-2d23-4eaa-909d-81edcbb4d7ca",
+			"c056ac7c-3881-4108-b6b2-f4b41135ccdc"
+		]
+	},
+	{
+		"title": "Subdomein C2",
+		"description": "Dans en kunsten in contexten",
+		"prefix": "C2",
+		"id": "f08070a7-0d5f-4b01-9e70-21eca7c0241b",
+		"fo_doelzin_id": [
+			"0c6cab19-3ebc-46d1-8f55-a5fe9c3bfdb9",
+			"d564a22c-7959-4c5f-916c-29cc54e59b32",
+			"a76d7845-6297-4ab1-971a-fc2704cda9d3"
+		]
+	},
+	{
+		"title": "Subdomein B1",
+		"description": "Creëren",
+		"prefix": "B1",
+		"id": "e538119f-5b91-499b-b3db-ca635d14ca46",
+		"fo_doelzin_id": [
+			"5f88e16e-183c-45c1-b1e0-3f898649ab22",
+			"1bf19bdb-9425-491e-bd15-2bc9b4b31e54",
+			"ac37c939-25dc-4477-bc75-d28fd2af29d6"
+		]
+	},
+	{
+		"title": "Subdomein B2",
+		"description": "Vakvaardigheid",
+		"prefix": "B2",
+		"id": "f6661685-3e98-4d31-9104-2719eea9808f",
+		"fo_doelzin_id": [
+			"137392fb-bf17-497b-86c8-5a56176b97d2",
+			"57d36604-41ad-4deb-b4ac-f2080ea59177",
+			"41f522be-211c-4fe7-a233-426051c4aeec",
+			"29c8e775-6963-495e-a04e-e986cc720abf",
+			"87a643fb-bae3-4b66-aa33-45477e71dfc9"
+		]
+	},
+	{
+		"title": "Subdomein C1",
+		"description": "Vaktheorie",
+		"prefix": "C1",
+		"id": "3a028521-79ab-4eb5-b9f2-51e9027a4ee9",
+		"fo_doelzin_id": [
+			"7784e9c0-6494-4820-bff7-71635cfad7b1",
+			"4123c784-4c47-4634-97c0-c1e74e7d89eb",
+			"5ac34580-7dd4-4e62-bac3-36ce76a7ea37"
+		]
+	},
+	{
+		"title": "Subdomein C2",
+		"description": "Dans in contexten",
+		"prefix": "C2",
+		"id": "d551c925-5258-4504-bfb6-b431b3d85a19",
+		"fo_doelzin_id": [
+			"3565073d-c847-4daa-826f-a5984bbf08da",
+			"68be8b6c-fe00-43f1-a4f4-9ee3c18f9d5d",
+			"a4197bdf-901a-4140-b2cf-4e918e23a95d"
+		]
+	},
+	{
+		"title": "Subdomein B1",
+		"description": "Creëren",
+		"prefix": "B1",
+		"id": "e36cdc1d-3aeb-4319-85da-3569e98b2ce0",
+		"fo_doelzin_id": [
+			"91e02105-3855-4634-b5e5-121222d54345",
+			"63f3c624-b445-4f6e-8d1f-2c8fd6d41ede",
+			"44312d50-d73c-44ee-a0ab-71d37bb812d2"
+		]
+	},
+	{
+		"title": "Subdomein B2",
+		"description": "Vakvaardigheid",
+		"prefix": "B2",
+		"id": "e5cfc288-f73e-4a70-8e78-0a1d359cb7bc",
+		"fo_doelzin_id": [
+			"e60f039b-0d24-49a0-89a6-84bb184b3185",
+			"1f81ba5c-4244-4f00-a8d9-61bd2ae0ab68",
+			"3201eac5-30ca-4457-9bd3-828e72050b63",
+			"6dca71c4-b954-4897-b037-768172b0a9ac",
+			"e145f937-7038-47ec-aa47-f13decb72c48"
+		]
+	},
+	{
+		"title": "Subdomein C1",
+		"description": "Vaktheorie",
+		"prefix": "C1",
+		"id": "abe2b900-3caf-4bb2-a397-49d1c62915a7",
+		"fo_doelzin_id": [
+			"7c524106-2c4b-4c40-a75c-5b0922e13006",
+			"b787fcf5-f8e3-4808-84a2-47d08680c053",
+			"e2a6f73a-27e3-4d34-81f5-2c6863f4f87e"
+		]
+	},
+	{
+		"title": "Subdomein C2",
+		"description": "Dans en kunsten in contexten",
+		"prefix": "C2",
+		"id": "4062a337-4d72-4e0d-b1bf-918fee65e1bc",
+		"fo_doelzin_id": [
+			"0361b784-72c1-494e-91f5-b2953a260cfd",
+			"af17d51f-0ed1-415d-b7b2-1b17b0e04c10",
+			"f08a0b59-7486-43e0-b394-c01971a1a33c"
+		]
+	},
+	{
+		"title": "Subdomein B1",
+		"description": "Creëren",
+		"prefix": "B1",
+		"id": "b1808880-6898-417b-82d0-933a9fb998bd",
+		"fo_doelzin_id": [
+			"487f7d0d-378f-428b-a5be-55cfe41ca722",
+			"d73f8ef1-2be5-468f-ad73-fd40a75766fd",
+			"254682a8-2bb0-4c36-bb4a-17f17d2f22d4"
+		]
+	},
+	{
+		"title": "Subdomein B2",
+		"description": "Vakvaardigheid",
+		"prefix": "B2",
+		"id": "cf738985-167d-4370-85ca-a08d28d44d55",
+		"fo_doelzin_id": [
+			"1e3a55e9-dc2c-4b3d-b26c-4c325c096f4c",
+			"d0c7296f-b21f-4b18-ae41-c3c78b63752c",
+			"cc499fad-c2d2-4d0f-9872-f72381ab2f4c",
+			"66c36434-b0d9-4d36-8378-4c2169a3cb04"
+		]
+	},
+	{
+		"title": "Subdomein C1",
+		"description": "Vaktheorie",
+		"prefix": "C1",
+		"id": "f41bcc19-3731-488a-9a88-ca16f459e514",
+		"fo_doelzin_id": [
+			"d823c414-4908-4a34-bc56-ac433019b76a",
+			"85c88c8c-1979-4653-ae04-3eb3ee5d265d",
+			"bac33c08-2ab1-484e-acf0-460bd178c818"
+		]
+	},
+	{
+		"title": "Subdomein C2",
+		"description": "Film en kunsten in contexten",
+		"prefix": "C2",
+		"id": "5fb887af-99c8-40c8-ab32-519ff70e7792",
+		"fo_doelzin_id": [
+			"3befffad-2b65-4fc0-808d-ad723f3deee3",
+			"566e5224-bf3a-4532-bec2-2b645bce8e6e",
+			"cf39d773-b6f6-40dc-866f-85aa56b5a00a"
+		]
+	},
+	{
+		"title": "Subdomein B1",
+		"description": "Creëren",
+		"prefix": "B1",
+		"id": "f2de6c7e-2b97-4e31-8178-489f17fa6efb",
+		"fo_doelzin_id": [
+			"6021d0ea-b8b1-4945-8ce3-e8b3198da103",
+			"272a45f1-fa05-4fce-9cbe-c410dd9354c7",
+			"6727e1ae-286f-4c94-991a-ed1aa7c1309e"
+		]
+	},
+	{
+		"title": "Subdomein B2",
+		"description": "Vakvaardigheid",
+		"prefix": "B2",
+		"id": "1b0856b8-1a81-4bb6-b0c1-bc1b27769c71",
+		"fo_doelzin_id": [
+			"4361a3f6-0525-4103-8dbb-e94a6a8e9b5f",
+			"4368d6e1-d09e-4cf0-ac5e-93ee70377a06",
+			"bcb3d34c-b60e-4c6a-a14c-b284be0c981c",
+			"5a0e5d49-49c1-47a5-9b61-bb09a69075ad"
+		]
+	},
+	{
+		"title": "Subdomein C1",
+		"description": "Vaktheorie",
+		"prefix": "C1",
+		"id": "9baa0682-a1ec-4313-9ef8-c4ca89a1729c",
+		"fo_doelzin_id": [
+			"de445c12-caab-41a5-96e4-c5bc0f17e966",
+			"adcfd2b2-ec5f-4a0f-b90c-e8a54a2519af",
+			"2da169a6-0ca2-44ae-88a0-806697cf8f24"
+		]
+	},
+	{
+		"title": "Subdomein C2",
+		"description": "Film in contexten",
+		"prefix": "C2",
+		"id": "b60fd9db-49d5-45a3-a20f-234bcd2ff6d7",
+		"fo_doelzin_id": [
+			"a99adf8a-4005-44af-88f1-9419063be619",
+			"c20fbe3c-a8c8-4f05-9ef4-6e2e70295dec",
+			"ee594838-5a93-4dbf-85c2-a2ef7f581901"
+		]
+	},
+	{
+		"title": "Subdomein B1",
+		"description": "Creëren",
+		"prefix": "B1",
+		"id": "f1ce148d-27d1-40e1-8e53-eff7177d97a1",
+		"fo_doelzin_id": [
+			"d55fdd55-b092-4abe-bcf2-90d9a6c4b3ed",
+			"9bca7302-7bcd-4dd8-9bb7-2871a20dee7c",
+			"773f8bff-33a6-42a4-9dcc-3d16b1efb001"
+		]
+	},
+	{
+		"title": "Subdomein B2",
+		"description": "Vakvaardigheid",
+		"prefix": "B2",
+		"id": "1f8efe9d-f008-489a-88c6-e8e86fe94353",
+		"fo_doelzin_id": [
+			"dd9b2562-9f9e-45df-98be-b8a65cb44d77",
+			"d31f4e3c-96a2-4c41-9e9f-9492ef3940a5",
+			"4e3dcb0f-7dc6-40aa-97a5-d948bbd4b116",
+			"f6ac6d8f-a9af-4a3a-ac24-9603f432dd7f"
+		]
+	},
+	{
+		"title": "Subdomein C1",
+		"description": "Vaktheorie",
+		"prefix": "C1",
+		"id": "4abe22e0-3af1-4599-b0e8-84ea624b412b",
+		"fo_doelzin_id": [
+			"18f2ad55-4d6a-467e-bcf3-873134bcef00",
+			"636f6c51-33ab-4f51-815c-142ee25806ee",
+			"6f7f04b1-4a78-4ba2-bf70-2ee7614cdf65"
+		]
+	},
+	{
+		"title": "Subdomein C2",
+		"description": "Film en kunsten in contexten",
+		"prefix": "C2",
+		"id": "80b3a8ae-dcb7-468e-9a5a-e3081cec2cbe",
+		"fo_doelzin_id": [
+			"abd434f9-670f-49f5-af2b-789839b85976",
+			"682bd7c1-4ddf-407a-a9c0-c7d382ae03ff",
+			"966431e7-8444-49cb-8fda-ab7802c2bbda"
+		]
+	},
+	{
+		"title": "Subdomein B1",
+		"description": "Eigen muziek maken",
+		"prefix": "B1",
+		"id": "51ed0fcb-39c4-438f-8342-014db444ed4a",
+		"fo_doelzin_id": [
+			"3df8df4f-db05-4b28-a4fb-de44738b4f61",
+			"9e3c73e6-8b2b-4fcb-9abf-42498941d898",
+			"668ad6ba-c699-48b0-abae-81ceed015cf0"
+		]
+	},
+	{
+		"title": "Subdomein B2",
+		"description": "Vakvaardigheid",
+		"prefix": "B2",
+		"id": "ce6f8936-d95a-4e70-97c2-0c1778d5528e",
+		"fo_doelzin_id": [
+			"d478fcf2-6364-40a5-8f11-7c6b59a7132e",
+			"556d179c-ac9a-4840-aea5-317a91b0f3cb",
+			"35bc5656-eeb1-4f82-b779-de8a6c605920"
+		]
+	},
+	{
+		"title": "Subdomein C1",
+		"description": "Vaktheorie",
+		"prefix": "C1",
+		"id": "21421fcc-6d10-4130-885a-37e76e706854",
+		"fo_doelzin_id": [
+			"d8fa8a88-b43e-4a51-aa11-a72103fd1c34",
+			"f9e556c7-e33f-416e-9636-e60836ba4db1",
+			"fc0feb21-53c2-46aa-850b-c89edf4d9edd",
+			"9b020f53-8b27-4f98-a0d4-d3d81a4eecaf",
+			"c3c9548d-0281-45bc-887d-0a48ce60bdd5",
+			"24540551-8bf0-4ed5-b5b0-00b9c6d621b1"
+		]
+	},
+	{
+		"title": "Subdomein C2",
+		"description": "Muziek en kunsten in contexten",
+		"prefix": "C2",
+		"id": "c4d9c1ea-2d79-4b24-953e-7ad3214f45a0",
+		"fo_doelzin_id": [
+			"e32ab0c7-a8c5-4983-8432-dc8c2990f6fb",
+			"cc5cd892-97cc-429d-b585-dfc9d33cca3c",
+			"0f09699c-0423-4423-aa7e-4feabb8c1fdb",
+			"69332752-7720-4480-9852-8f58a3c088fa"
+		]
+	},
+	{
+		"title": "Subdomein B1",
+		"description": "Eigen muziek maken",
+		"prefix": "B1",
+		"id": "32f23d8e-8487-47fd-ad31-cade419c38db",
+		"fo_doelzin_id": [
+			"80aefb47-3023-43d3-b6e3-f8e10749edd4",
+			"d58bdec6-56db-4afb-9aee-03396c6ca83f",
+			"969fc428-2687-4edc-a86d-fc02d80e9e08"
+		]
+	},
+	{
+		"title": "Subdomein B2",
+		"description": "Vakvaardigheid",
+		"prefix": "B2",
+		"id": "ec2b0ce5-5118-4c0f-8ece-62e78bd94f21",
+		"fo_doelzin_id": [
+			"31cfded8-b6aa-4b54-a4b6-ec69a1e0b097",
+			"f2a6abe5-403c-42ca-9099-484b344d652d",
+			"461daaeb-7a30-4dca-98c4-72e223eb9669"
+		]
+	},
+	{
+		"title": "Subdomein C1",
+		"description": "Vaktheorie",
+		"prefix": "C1",
+		"id": "0875223d-c77f-4ef5-825a-55f18e08ec2c",
+		"fo_doelzin_id": [
+			"e9cca8d2-b896-4f87-acba-1f31fce3db73",
+			"8cb70ab3-2df4-4006-bdb5-44c79a422549",
+			"48979268-2d09-4964-9f68-c89de4f3cf26",
+			"0fa19b4b-a816-4613-801e-802f0a6324bb",
+			"8447b97b-f627-4c22-99c7-323247822775",
+			"cacad712-6b67-4a7e-aeb9-6491caba4127"
+		]
+	},
+	{
+		"title": "Subdomein C2",
+		"description": "Muziek in contexten",
+		"prefix": "C2",
+		"id": "d071c9fb-8133-4276-b5d2-fd0a864a6a8a",
+		"fo_doelzin_id": [
+			"1b62c477-c089-4a57-9ce4-b27ae41c7b7e",
+			"c52fa0da-2cf2-4854-b413-70914bc14855",
+			"5600c54c-c636-4f42-9d88-473dc2fadd91",
+			"d3e0de91-4a72-4cc6-861d-d2177621539e"
+		]
+	},
+	{
+		"title": "Subdomein B1",
+		"description": "Eigen muziek maken",
+		"prefix": "B1",
+		"id": "9ebceef2-f7cc-4b33-aba3-a32a899b88d7",
+		"fo_doelzin_id": [
+			"91bcf4db-8134-4969-bd91-05fbffb31fd9",
+			"202898ab-724f-4b39-a5de-078d47eea7c3",
+			"393c3eed-0e6b-4eb7-b0c8-3d9aca3326fe"
+		]
+	},
+	{
+		"title": "Subdomein B2",
+		"description": "Vakvaardigheid",
+		"prefix": "B2",
+		"id": "85c5a879-786b-4027-8ff1-cb1c853f7b00",
+		"fo_doelzin_id": [
+			"2854c237-6797-476c-9862-7a8ca6cf517c",
+			"b72ef12c-18a3-4e1e-9f0c-751f71623f21",
+			"faccefae-f930-45b9-80bf-9cb6857217a8"
+		]
+	},
+	{
+		"title": "Subdomein C1",
+		"description": "Vaktheorie",
+		"prefix": "C1",
+		"id": "b4bf6f62-f95d-43a4-b35e-30e0955a8062",
+		"fo_doelzin_id": [
+			"a3c426b1-9128-4c65-a3a8-d1022783adc8",
+			"a8da310d-8ff3-4ce1-9a46-0df9dbf389f5",
+			"ce15885b-4542-491f-ae03-2d1e5dec6a93",
+			"eff55cd7-74bd-4849-bc0b-e697a219b6f5",
+			"55813ed7-ea4b-48ab-a35b-95ccf2027e5d",
+			"3c2f901b-4d65-4a50-89bb-e77ef2a3a783"
+		]
+	},
+	{
+		"title": "Subdomein C2",
+		"description": "Muziek en kunsten in contexten",
+		"prefix": "C2",
+		"id": "332ab4a1-d8ce-427e-985f-818ce4243da5",
+		"fo_doelzin_id": [
+			"8b0e900f-df8a-4b3a-8c6e-3a93a1e2d450",
+			"320a6c43-cdc1-4826-ad26-ac17ae667083",
+			"58df73a1-6fd5-40f0-8027-052a9f98cb87",
+			"4538280a-120b-4b99-b598-4e1203ae78ce"
+		]
+	},
+	{
+		"title": "Subdomein B1",
+		"description": "Creëren",
+		"prefix": "B1",
+		"id": "ae40a1f7-e92b-4ecb-8c20-4b9d105e94c5",
+		"fo_doelzin_id": [
+			"5825a24a-6ce4-4e93-bc05-ec883f756e34",
+			"cbca3546-c180-4cf5-810c-c024e8bbd597",
+			"33f32c81-a18e-4d78-b43d-8b9958189889"
+		]
+	},
+	{
+		"title": "Subdomein B2",
+		"description": "Vakvaardigheid",
+		"prefix": "B2",
+		"id": "81467072-58e2-42a8-b33e-2824bdaf347f",
+		"fo_doelzin_id": [
+			"ce7da093-f450-4ea7-9475-de571f6cb51a",
+			"074cdbe1-28e2-4d25-b485-60e77eb0b3a7",
+			"44c89ce2-b990-482a-95d9-93ef2c5127e8",
+			"26cdc998-e112-415b-9e21-f4658055c4d2",
+			"8c039480-4c50-4a95-b710-a251fe2c418a"
+		]
+	},
+	{
+		"title": "Subdomein C1",
+		"description": "Vaktheorie",
+		"prefix": "C1",
+		"id": "152e8ff8-b360-4e7f-bc33-49251bd24b2e",
+		"fo_doelzin_id": [
+			"ec34ff66-fa17-40a2-a113-395b94c608bf",
+			"a1d4add0-1afd-49e0-a40b-1e2e6a6df2e6",
+			"1f2c9ac7-c4d9-4d1b-98f3-69e97c319bb8"
+		]
+	},
+	{
+		"title": "Subdomein C2",
+		"description": "Theater en kunsten in contexten",
+		"prefix": "C2",
+		"id": "4ba551b7-97f6-4eb2-97ee-d3fc8b6f9049",
+		"fo_doelzin_id": [
+			"9de5124c-0c5f-45a4-b080-040386c83779",
+			"91d6631d-8538-414a-b86f-41889c596db9",
+			"05df095d-d4c4-478a-8422-c7d4e3f7fc00"
+		]
+	},
+	{
+		"title": "Subdomein B1",
+		"description": "Creëren",
+		"prefix": "B1",
+		"id": "c684808e-6130-4347-829a-09283e934cf3",
+		"fo_doelzin_id": [
+			"97531806-6b8e-47c8-a8a4-c55120d67ff7",
+			"af27e5cc-4311-4bf1-a7d8-84893db69e48",
+			"f431038e-c70a-49b1-84e4-6b0119519273"
+		]
+	},
+	{
+		"title": "Subdomein B2",
+		"description": "Vakvaardigheid",
+		"prefix": "B2",
+		"id": "51176b98-c735-461d-95d6-aff655448bfd",
+		"fo_doelzin_id": [
+			"ba85659c-5f67-4882-b1f1-a5ed0c5fb30f",
+			"07f9a461-75a1-4e5b-b94f-b594b64d79f9",
+			"8c834b46-04d6-4506-b923-1d971bad54a3",
+			"6a413415-79b7-4ff7-9b2d-9d6f490bb2ee",
+			"58c58888-8c26-4c01-b0d9-ad6476b0c9bf"
+		]
+	},
+	{
+		"title": "Subdomein C1",
+		"description": "Vaktheorie",
+		"prefix": "C1",
+		"id": "ba610f3d-a6dc-4449-b962-4ba407179855",
+		"fo_doelzin_id": [
+			"d4669922-cd2e-4b44-98d4-dc57cf487414",
+			"a2121e02-d3be-41f9-aaaf-dd02f3492865",
+			"ddbd1cd1-4172-42be-ad17-71a70866ea5a"
+		]
+	},
+	{
+		"title": "Subdomein C2",
+		"description": "Theater in contexten",
+		"prefix": "C2",
+		"id": "804c7bdd-4ff2-46bb-be02-9bc107fb249c",
+		"fo_doelzin_id": [
+			"907ba9ef-dd41-47ac-adaf-b5b11dafc518",
+			"35ee978c-5e97-4fd5-8970-076dfd9cc13c",
+			"73e3d554-34cd-4ebb-abcc-ed15d9e99ef7"
+		]
+	},
+	{
+		"title": "Subdomein B1",
+		"description": "Creëren",
+		"prefix": "B1",
+		"id": "8820dd5f-1201-4fb4-9a31-0357267bd658",
+		"fo_doelzin_id": [
+			"86aed05c-30ae-45bf-a425-a89d76bc35cf",
+			"7b7e9e3d-256e-4e4f-87f2-1f837397a844",
+			"a66b2f68-ae9d-4fa2-b4c8-cd7113c835d0"
+		]
+	},
+	{
+		"title": "Subdomein B2",
+		"description": "Vakvaardigheid",
+		"prefix": "B2",
+		"id": "50815ece-daf0-4557-b393-b16919748db2",
+		"fo_doelzin_id": [
+			"61e32334-875d-4cbc-bf8c-afb0a50542b1",
+			"e3b083f8-a8f6-45f6-8e20-9ca43b299343",
+			"bcaaa3c6-9acc-4553-88d6-3980b793eb47",
+			"e9531957-0c08-4ddc-98ab-21967f440589",
+			"3c55cf1b-a044-4a6e-93e0-cc9d6b0143a9"
+		]
+	},
+	{
+		"title": "Subdomein C1",
+		"description": "Vaktheorie",
+		"prefix": "C1",
+		"id": "5c10fb0e-5641-44ff-8738-35650b8ed310",
+		"fo_doelzin_id": [
+			"9fdbad9e-3118-42bf-b416-cebe8c743e00",
+			"27d7b157-523c-455b-ac4b-8b84c7e8dcee",
+			"e18173a5-88fe-4ced-a9cf-8048638e03ba"
+		]
+	},
+	{
+		"title": "Subdomein C2",
+		"description": "Theater en kunsten in contexten",
+		"prefix": "C2",
+		"id": "2982697d-fd15-46d9-a9ab-8f4984bbcadb",
+		"fo_doelzin_id": [
+			"71b8b046-a2cf-4343-ac0d-ea47076a77bc",
+			"474a4c5b-1c49-4ce1-b8e9-98f80ef3501b",
+			"172092d0-5c73-457c-9e53-6e29dc29049c"
+		]
+	},
+	{
+		"title": "Subdomein A1",
+		"description": "Geschiedenis in de samenleving",
+		"prefix": "A1",
+		"id": "5cea7bf5-5606-429e-a564-4276c600f487",
+		"fo_doelzin_id": [
+			"7064d0fc-d5be-412c-90d0-00c3a8e5911b",
+			"4326c41f-c75e-49ff-94d8-6db2971ccae1",
+			"e0b45d06-9e0c-40e7-9f87-4a63b712ac3d"
+		]
+	},
+	{
+		"title": "Subdomein A2",
+		"description": "Historische denk- en werkwijzen",
+		"prefix": "A2",
+		"id": "70cd8c4e-cf9f-4ac5-8a04-532c83943efb",
+		"fo_doelzin_id": [
+			"f515863a-9bd0-4f4f-9d24-618bb93c3aa4",
+			"827c8b95-1eef-4858-81fb-1beb03fa0bdb",
+			"c49219cb-9b0d-4b47-8540-59d1d2127019",
+			"b6ec6c7d-8f6c-45b5-b06d-c9e16c64a6a7",
+			"d7316cbd-14e6-4984-b7d7-791a3b3d37ae",
+			"806242d4-7582-43df-80d1-cdccdd8e3a2e"
+		]
+	},
+	{
+		"title": "Subdomein B1",
+		"description": "Diachroon",
+		"prefix": "B1",
+		"id": "9d999852-04a8-42ed-a631-f028729a9248",
+		"fo_doelzin_id": [
+			"1ac38d18-0100-41bc-be21-2475b51b460c"
+		]
+	},
+	{
+		"title": "Subdomein B2",
+		"description": "Tijdgebonden",
+		"prefix": "B1",
+		"id": "8f1b7802-8778-47f2-bb6c-30393e88daa5",
+		"fo_doelzin_id": [
+			"0ca36029-f579-46b7-b0b0-3f2e7a11d48a",
+			"35908c05-cc26-47ca-b217-5216df99bc90"
+		]
+	},
+	{
+		"title": "Subdomein C1",
+		"description": "Diachroon",
+		"prefix": "C1",
+		"id": "f76597a6-89df-41c1-bf2b-b6d494983799",
+		"fo_doelzin_id": [
+			"1fdd9f00-e9f9-4e3f-abfb-4d34e6abcee7",
+			"0b8fe75c-00f7-4930-9864-b93db170fc28"
+		]
+	},
+	{
+		"title": "Subdomein C2",
+		"description": "Tijdgebonden",
+		"prefix": "C2",
+		"id": "7c504d22-6d71-44bb-b82d-c60c1c439289",
+		"fo_doelzin_id": [
+			"51c734a1-d617-4579-9b03-fe89db43a5ec"
+		]
+	},
+	{
+		"title": "Subdomein D1",
+		"description": "Diachroon",
+		"prefix": "D1",
+		"id": "123963dc-8660-4d28-9819-58728b4abac7",
+		"fo_doelzin_id": [
+			"3d01ac54-8715-4550-87f0-9db9b14493c1"
+		]
+	},
+	{
+		"title": "Subdomein D2",
+		"description": "Tijdgebonden",
+		"prefix": "D2",
+		"id": "3f01920d-b428-4097-a538-d4aac3fdba20",
+		"fo_doelzin_id": [
+			"131ad4ce-38b0-47ef-a64c-8d581c1572d8",
+			"1557e90e-d12c-4386-89c4-4c94990ed79b"
+		]
+	},
+	{
+		"title": "Subdomein E1",
+		"description": "Diachroon",
+		"prefix": "E1",
+		"id": "2e6128d8-53a9-4d2a-a577-e775dd28850e",
+		"fo_doelzin_id": [
+			"fe2f54c6-a636-41b3-b37e-31d3b413bf0e"
+		]
+	},
+	{
+		"title": "Subdomein E2",
+		"description": "Tijdgebonden",
+		"prefix": "E2",
+		"id": "e52fd9de-38b9-4a67-bb6f-2f6476c33f60",
+		"fo_doelzin_id": [
+			"02440787-a96b-4f63-9106-d329d7bf01a3"
+		]
+	},
+	{
+		"title": "Subdomein F1.1",
+		"description": "Natuur en maatschappij - F1.1 Diachroon",
+		"prefix": "F1",
+		"id": "58a3a340-5f75-43e9-a79f-a418c95d8b4f",
+		"fo_doelzin_id": [
+			"5ad61a76-83a4-471a-a5e0-5a4f8f8015e9"
+		]
+	},
+	{
+		"title": "Subdomein F1.2",
+		"description": "Natuur en maatschapij - F1.2 Tijdgebonden",
+		"prefix": "F1",
+		"id": "d84c7c55-1304-41cf-8f4d-38afb37d3597",
+		"fo_doelzin_id": [
+			"89de8b29-1368-47a0-b478-dad18acd6093"
+		]
+	},
+	{
+		"title": "Subdomein F2.1",
+		"description": "Samenleven en levensbeschouwingen - F2.1 Diachroon",
+		"prefix": "F2",
+		"id": "f83f3cb5-1368-44fa-a489-48da1b221c8c",
+		"fo_doelzin_id": [
+			"6b7b36f7-67c8-4987-94c5-f840be80dc10"
+		]
+	},
+	{
+		"title": "Subdomein F2.2",
+		"description": "Samenleven en levensbeschouwingen - F2.2 Tijdgebonden",
+		"prefix": "F2",
+		"id": "ac5fd03a-7a66-4562-b9a7-c51646b99960",
+		"fo_doelzin_id": [
+			"b2f33c0d-3a6f-4923-a2fb-67b0d606ffe4"
+		]
+	},
+	{
+		"title": "Subdomein F3",
+		"description": "Actueel vraagstuk",
+		"prefix": "F3",
+		"id": "f94a0130-c772-4990-9656-20e52d688d46",
+		"fo_doelzin_id": [
+			"44a6b8c6-0fbd-4b37-bb63-cca2ea76d244"
+		]
+	},
+	{
+		"title": "Subdomein A1",
+		"description": "Geschiedenis in de samenleving",
+		"prefix": "A1",
+		"id": "56f9ff3d-8288-4d5f-b9cc-a00dce9c70b4",
+		"fo_doelzin_id": [
+			"9ce5d84f-b2d1-43d8-82a8-ed79ecb5bfd1",
+			"da3deace-c606-4136-9c71-8f729b0141ee",
+			"2d1a3111-22cc-4263-bf3f-5dc86f1609fc"
+		]
+	},
+	{
+		"title": "Subdomein A2",
+		"description": "Historische denk- en werkwijzen",
+		"prefix": "A2",
+		"id": "5d1dfa59-b1e6-4d5d-9af2-b66f5e930510",
+		"fo_doelzin_id": [
+			"e0070bce-2b7e-474d-9306-5936e51a1f9b",
+			"ad1f90db-9c03-439c-a674-a3161445504b",
+			"9d8cabc4-9aaf-4e5c-8a7f-8a9945405de3",
+			"a6bb7bdf-dac7-4fc7-9cf6-a6207db1b361",
+			"661f5668-481c-4ea6-ae5a-3fa0708e706d",
+			"c9c536bd-420f-45c7-9f97-0e7155c0a69f"
+		]
+	},
+	{
+		"title": "Subdomein B1",
+		"description": "Diachroon",
+		"prefix": "B1",
+		"id": "25e5a3c3-afdf-4d4a-a4a4-44c27a578d42",
+		"fo_doelzin_id": [
+			"238f33b6-88e6-454e-a9f1-206c1a3f2ef6"
+		]
+	},
+	{
+		"title": "Subdomein B2",
+		"description": "Tijdgebonden",
+		"prefix": "B1",
+		"id": "5744bf18-f7c3-4c6e-aa49-3f0982055572",
+		"fo_doelzin_id": [
+			"c0b867bd-c52b-463d-b987-8182fc720302",
+			"6dbe18ef-5600-488e-8e83-f87a4af5103c"
+		]
+	},
+	{
+		"title": "Subdomein C1",
+		"description": "Diachroon",
+		"prefix": "C1",
+		"id": "acbbd0fa-1fe2-4c93-813c-cc3c4977cd95",
+		"fo_doelzin_id": [
+			"6d1abe70-19dc-44a2-8d44-79d2496e3d11"
+		]
+	},
+	{
+		"title": "Subdomein C2",
+		"description": "Tijdgebonden",
+		"prefix": "C2",
+		"id": "a203c340-11f7-4000-9f47-1b497dbf54f2",
+		"fo_doelzin_id": [
+			"956e46e3-64f1-4751-a7f8-5c075438d01a",
+			"9e2f7526-1e20-47be-b1d6-ea5987fea77e"
+		]
+	},
+	{
+		"title": "Subdomein D1",
+		"description": "Diachroon",
+		"prefix": "D1",
+		"id": "8ac6b337-3024-42e6-943a-df9f437fd7b0",
+		"fo_doelzin_id": [
+			"298ea830-de36-45c0-9f03-1daf67f4b8c8"
+		]
+	},
+	{
+		"title": "Subdomein D2",
+		"description": "Tijdgebonden",
+		"prefix": "D2",
+		"id": "aa733a6a-52f7-4229-8bf9-44390e216477",
+		"fo_doelzin_id": [
+			"bb13bcab-bf99-475b-aefe-d0a8cbfd2dab"
+		]
+	},
+	{
+		"title": "Subdomein E1.1",
+		"description": "Techniek en wetenschap - E1.1 Diachroon",
+		"prefix": "E1",
+		"id": "ca48c0cd-f284-4273-ac14-6f5b9401c6bf",
+		"fo_doelzin_id": [
+			"447f4ab7-d172-441d-abb5-4bca077ba38b"
+		]
+	},
+	{
+		"title": "Subdomein E1.2",
+		"description": "Techniek en wetenschap - E1.2 Tijdgebonden",
+		"prefix": "E2",
+		"id": "632f3070-9397-4bbe-82b9-37bb04d26c90",
+		"fo_doelzin_id": [
+			"725c4284-f9e6-4140-bbde-4db97c49e95a"
+		]
+	},
+	{
+		"title": "Subdomein E2.1",
+		"description": "Samenwerking en conflict - E2.1 Diachroon",
+		"id": "1b96fd0c-bb9e-44a7-ba4f-cc1debb8df15",
+		"fo_doelzin_id": [
+			"9496c822-bcf8-49a3-9bea-21140ab01628"
+		]
+	},
+	{
+		"title": "Subdomein E2.2",
+		"description": "Samenwerking en conflict - E2.2 Tijdgebonden",
+		"id": "26d854e7-ccd2-478a-9ecd-a81e8779db64",
+		"fo_doelzin_id": [
+			"7e1974d9-fae1-4c9d-8bc3-6b85c238527f",
+			"0780d53d-cffb-42ff-a849-8e608f040822"
+		]
+	},
+	{
+		"title": "Subdomein E3.1",
+		"description": "Natuur en maatschappij - E3.1 Diachroon",
+		"id": "60ecbdad-4e11-49df-9a4f-59252e48d7c9",
+		"fo_doelzin_id": [
+			"f3824d77-6338-447a-9128-6c311c1f5bfa"
+		]
+	},
+	{
+		"title": "Subdomein E3.2",
+		"description": "Natuur en maatschappij - E3.2 Tijdgebonden",
+		"id": "399ee524-150d-436e-9680-06a32d7b98c5",
+		"fo_doelzin_id": [
+			"d58008a5-4549-4814-9450-aaaa4722de10"
+		]
+	},
+	{
+		"title": "Subdomein E4",
+		"description": "Actueel vraagstuk",
+		"id": "b94f6ef5-ac42-40f3-a43d-0c0b8c3c560f",
+		"fo_doelzin_id": [
+			"f3fa567c-13a8-4dd2-9d54-8b610ace3e2e"
+		]
+	},
+	{
+		"title": "Subdomein A1",
+		"description": "Geschiedenis in de samenleving",
+		"prefix": "A1",
+		"id": "88d1cc09-d948-40c2-b348-a81c1eb52c11",
+		"fo_doelzin_id": [
+			"15a82d8b-0d80-45f8-b8d0-868c7e56560c",
+			"7f27124a-14b2-42b1-9ff7-5519570aa551",
+			"965cfe53-19e1-44eb-8c8c-dcbde25ecf82"
+		]
+	},
+	{
+		"title": "Subdomein A2",
+		"description": "Historische denk- en werkwijzen",
+		"prefix": "A2",
+		"id": "d69b4b2b-65fb-4c83-a12a-f7ce8ab9dbbd",
+		"fo_doelzin_id": [
+			"7d7a8716-9a88-4440-8713-95bd70b3c981",
+			"76a6ef11-8f97-44a3-850b-717f38503931",
+			"0db1b684-9d49-4aa2-b730-6cef25c96479",
+			"e6dabf20-34be-4d83-a5a6-aee22ef2fb84",
+			"6def67e5-15d7-4335-a5cd-d8c919f8e0cd",
+			"cbef3399-5a47-451c-9958-211ec571dba7"
+		]
+	},
+	{
+		"title": "Subdomein B1",
+		"description": "Diachroon",
+		"prefix": "B1",
+		"id": "027185d1-3121-4499-8712-d6f88ee641d2",
+		"fo_doelzin_id": [
+			"e5dc93a8-aabb-4692-a902-2936eb579f74"
+		]
+	},
+	{
+		"title": "Subdomein B2",
+		"description": "Tijdgebonden",
+		"prefix": "B1",
+		"id": "0b64e9da-6de7-4622-977b-3b432cb0f0c8",
+		"fo_doelzin_id": [
+			"fc156c07-93c2-4f6d-8982-37dd7eac7689",
+			"c6c34298-62fe-4ef9-a2c2-9976c2e7c103"
+		]
+	},
+	{
+		"title": "Subdomein C1",
+		"description": "Diachroon",
+		"prefix": "C1",
+		"id": "aa5ef4cd-fd74-4958-a9f2-d4e34d1f4614",
+		"fo_doelzin_id": [
+			"914ac085-6152-48c8-8ade-5fbe95b73c9c"
+		]
+	},
+	{
+		"title": "Subdomein C2",
+		"description": "Tijdgebonden",
+		"prefix": "C2",
+		"id": "d76eb75c-30f0-4241-b125-3708eb4be79f",
+		"fo_doelzin_id": [
+			"b4ad5edd-d6a4-47c3-8549-79258e376fca",
+			"8c57a73a-1bdf-4ca4-91f1-4700c99b8d50"
+		]
+	},
+	{
+		"title": "Subdomein D1",
+		"description": "Diachroon",
+		"prefix": "D1",
+		"id": "11cbd2d4-3405-4c05-8f62-896a743f0c73",
+		"fo_doelzin_id": [
+			"fddc46c5-ddac-4332-b853-ac9202b77822"
+		]
+	},
+	{
+		"title": "Subdomein D2",
+		"description": "Tijdgebonden",
+		"prefix": "D2",
+		"id": "af7adafa-edd3-4627-aaac-52e4ba3568e7",
+		"fo_doelzin_id": [
+			"9ad9ddc8-f33e-4251-b950-84081f8e1ba9"
+		]
+	},
+	{
+		"title": "Subdomein E1.1",
+		"description": "Techniek en wetenschap - E1.1 Diachroon",
+		"prefix": "E1",
+		"id": "388f67aa-bc83-4e27-98c1-79b45e9a0bde",
+		"fo_doelzin_id": [
+			"2e844a93-77fb-4e70-b8a5-077539efc3ad"
+		]
+	},
+	{
+		"title": "Subdomein E1.2",
+		"description": "Techniek en wetenschap - E1.2 Tijdgebonden",
+		"prefix": "E2",
+		"id": "b15651f9-2c02-4e01-aadf-e222bab96c1c",
+		"fo_doelzin_id": [
+			"ceea3fa1-7d44-471b-8cc5-70be07490fa8"
+		]
+	},
+	{
+		"title": "Subdomein E2.1",
+		"description": "Samenwerking en conflict - E2.1 Diachroon",
+		"id": "7f828a3f-18a2-4390-b30f-b3117e830f04",
+		"fo_doelzin_id": [
+			"89f4c117-2533-425b-a24c-c5c3d3edfc9d"
+		]
+	},
+	{
+		"title": "Subdomein E2.2",
+		"description": "Samenwerking en conflict - E2.2 Tijdgebonden",
+		"id": "918d9cde-8012-4039-88c5-6e593adc747e",
+		"fo_doelzin_id": [
+			"14b57205-661f-4459-84e5-05d9c0c8ae52",
+			"df3e1e18-6a70-478c-80c2-3fe41cfe52a7"
+		]
+	},
+	{
+		"title": "Subdomein E3.1",
+		"description": "Natuur en maatschappij - E3.1 Diachroon",
+		"id": "7bfe2ae0-95ed-406b-a679-903ab9a661a3",
+		"fo_doelzin_id": [
+			"11df8e48-6eaf-44b0-892e-7ae8bec67a0e"
+		]
+	},
+	{
+		"title": "Subdomein E3.2",
+		"description": "Natuur en maatschappij - E3.2 Tijdgebonden",
+		"id": "105a30c5-5025-476c-baee-6a3c29218d19",
+		"fo_doelzin_id": [
+			"cf6f3c7a-ce43-432e-a62a-26e58a65b1ac"
+		]
+	},
+	{
+		"title": "Subdomein E4",
+		"description": "Actueel vraagstuk",
+		"id": "e74913fd-2ff1-4634-afeb-b2e1b08a403f",
+		"fo_doelzin_id": [
+			"74d607a2-0508-4d7d-b9e4-9904a053cff2"
+		]
+	},
+	{
+		"title": "Subdomein A1",
+		"description": "Geschiedenis in de samenleving",
+		"prefix": "A1",
+		"id": "d70b7af8-e554-4cb2-9bba-e8faf4120c12",
+		"fo_doelzin_id": [
+			"9790ce74-3175-41c9-9017-5e77e24a19d2",
+			"4e331053-0b62-420b-8bcf-32ac49dcda0f",
+			"ca17579a-c956-4319-b7e5-f63daee38d1a"
+		]
+	},
+	{
+		"title": "Subdomein A2",
+		"description": "Historische denk- en werkwijzen",
+		"prefix": "A2",
+		"id": "2cbffee8-022c-4b83-8d8b-aa9696dd0ea8",
+		"fo_doelzin_id": [
+			"5659b273-cadf-493f-9870-87905afb9655",
+			"8fc2626e-0c31-4ceb-89d3-f496688c2ac2",
+			"9b3c23fb-0a41-43c8-ae56-2229a30cd5d6",
+			"353cf212-ab0f-45d2-908d-f48bba1c904a",
+			"4e7daec3-482c-4414-90cb-98cb1b6f6a61",
+			"6891e114-2fa4-42ab-a5e8-b76394e622b7"
+		]
+	},
+	{
+		"title": "Subdomein B1",
+		"description": "Diachroon",
+		"prefix": "B1",
+		"id": "19de3a77-9be8-4e81-a4a6-44d8d07c0c5e",
+		"fo_doelzin_id": [
+			"d0ffef53-5ab8-4fa7-baa4-ed28058e359f"
+		]
+	},
+	{
+		"title": "Subdomein B2",
+		"description": "Tijdgebonden",
+		"prefix": "B1",
+		"id": "6fc7fd05-0367-4a6b-80f5-4328a73bc3a4",
+		"fo_doelzin_id": [
+			"d6c29149-287b-4d14-b006-9ad2075fb952",
+			"403d8e8f-3bb7-4ffc-82dc-185264ad93d5"
+		]
+	},
+	{
+		"title": "Subdomein C1",
+		"description": "Diachroon",
+		"prefix": "C1",
+		"id": "caab3c1c-c738-423f-a5dd-9213b3863d1e",
+		"fo_doelzin_id": [
+			"2941d28f-36e6-4306-a220-07b1aad25088"
+		]
+	},
+	{
+		"title": "Subdomein C2",
+		"description": "Tijdgebonden",
+		"prefix": "C2",
+		"id": "3a395e0a-0b99-46ce-bd17-3129369773dd",
+		"fo_doelzin_id": [
+			"26f447b1-f030-4259-a0eb-bfdad93a9453",
+			"6ada347e-3f1d-4ac1-b93a-ad0748435a64"
+		]
+	},
+	{
+		"title": "Subdomein D1",
+		"description": "Diachroon",
+		"prefix": "D1",
+		"id": "65e06bea-7f47-448a-827b-0c11962a4c0c",
+		"fo_doelzin_id": [
+			"5386e266-a341-4a28-b037-aaadb543fe20"
+		]
+	},
+	{
+		"title": "Subdomein D2",
+		"description": "Tijdgebonden",
+		"prefix": "D2",
+		"id": "750dd054-67d1-4279-8fb2-2d7aa6ddf791",
+		"fo_doelzin_id": [
+			"8b0aaaa4-0abb-42a3-976d-b579b4c3c44d"
+		]
+	},
+	{
+		"title": "Subdomein E1.1",
+		"description": "Techniek en wetenschap - E1.1 Diachroon",
+		"prefix": "E1.1",
+		"id": "82abbe63-106f-4ece-bd53-deeb860e3057",
+		"fo_doelzin_id": [
+			"274c0beb-23a9-402e-8ba1-ef1fac18ae29"
+		]
+	},
+	{
+		"title": "Subdomein E1.2",
+		"description": "Techniek en wetenschap - E1.2 Tijdgebonden",
+		"prefix": "E1.2",
+		"id": "59b70a14-e183-42da-8421-6adc95f4cf83",
+		"fo_doelzin_id": [
+			"cbfe8bbc-bdc3-4ffe-825b-27f20fc06a9a"
+		]
+	},
+	{
+		"title": "Subdomein E2.1",
+		"description": "Samenwerking en conflict - E2.1 Diachroon",
+		"prefix": "E2.1",
+		"id": "feb04491-0b4f-4a3e-ab84-f0ac5490ca95",
+		"fo_doelzin_id": [
+			"b82ae308-095a-4858-8882-63f9d2939cbf"
+		]
+	},
+	{
+		"title": "Subdomein E2.2",
+		"description": "Samenwerking en conflict - E2.2 Tijdgebonden",
+		"prefix": "E2.2",
+		"id": "91a2cfda-5cb7-4b60-8a98-11aa71fb04ac",
+		"fo_doelzin_id": [
+			"502b6196-a588-4cb4-9864-acea17c218a8",
+			"41d83205-3fae-4c8c-b7ee-6b0a4109a24b"
+		]
+	},
+	{
+		"title": "Subdomein E3.1",
+		"description": "Natuur en maatschappij - E3.1 Diachroon",
+		"prefix": "E3.1",
+		"id": "b2061f78-7071-44d6-96cb-1b6825da548c",
+		"fo_doelzin_id": [
+			"c0ddaf48-ff89-4022-aaab-577fc3bf77a5"
+		]
+	},
+	{
+		"title": "Subdomein E3.2",
+		"description": "Natuur en maatschappij - E3.2 Tijdgebonden",
+		"prefix": "E3.2",
+		"id": "3f2c65a0-e05f-4915-a561-acb940abf4a5",
+		"fo_doelzin_id": [
+			"7733f454-7e5f-44fc-9dcc-9951ba6ea96f"
+		]
+	},
+	{
+		"title": "Subdomein E4",
+		"description": "Actueel vraagstuk",
+		"prefix": "E4",
+		"id": "37c8f826-38f0-4355-8ccf-1b1f754b86ac",
+		"fo_doelzin_id": [
+			"a5d0d6ce-5ffe-4dc1-a788-32dd2ffd2965"
+		]
+	},
+	{
+		"title": "Subdomein A1",
+		"description": "Geschiedenis in de samenleving",
+		"prefix": "A1",
+		"id": "f3fcdeeb-942f-457d-b0d2-5f296c5ce740",
+		"fo_doelzin_id": [
+			"56a3ff61-f94f-4030-8c1b-25acd7b11210",
+			"e2609755-9829-41b5-aac7-ba1342b6660a",
+			"d1305522-73de-42cb-8f3a-7fe3c9356e6a"
+		]
+	},
+	{
+		"title": "Subdomein A2",
+		"description": "Historische denk- en werkwijzen",
+		"prefix": "A2",
+		"id": "0504dfe2-e35a-4e2e-ab8d-d0a416d49a09",
+		"fo_doelzin_id": [
+			"c2ba7a61-0340-42fc-a652-b9fba03b7d14",
+			"661b81eb-4325-4f2b-8f3f-9f73db0f8e54",
+			"453357e8-5330-466c-8bb0-586b9fbc6bd4",
+			"066693b8-b183-4d5d-9855-0b76001beff3",
+			"6bde509e-5879-471c-bef3-d2c906917947",
+			"80b24239-369f-4d86-b9b8-2838380a6cc2"
+		]
+	},
+	{
+		"title": "Subdomein B1",
+		"description": "Diachroon",
+		"prefix": "B1",
+		"id": "57fea626-582f-42fd-8993-8af5e2375681",
+		"fo_doelzin_id": [
+			"524cab6a-6603-419a-9cf3-3a2fc99156b7"
+		]
+	},
+	{
+		"title": "Subdomein B2",
+		"description": "Tijdgebonden",
+		"prefix": "B1",
+		"id": "d7ab2288-345a-41b6-ba02-40a919ad76a5",
+		"fo_doelzin_id": [
+			"520e0e4a-99c3-4252-9e27-dd0b423a8493",
+			"b05d2eb1-2b81-4dbe-8381-616e74ccb562"
+		]
+	},
+	{
+		"title": "Subdomein C1",
+		"description": "Diachroon",
+		"prefix": "C1",
+		"id": "fd4426ad-a296-4c78-a4c2-548c726371f8",
+		"fo_doelzin_id": [
+			"af959082-8fa8-45ff-aeb3-d315d6baaff4"
+		]
+	},
+	{
+		"title": "Subdomein C2",
+		"description": "Tijdgebonden",
+		"prefix": "C2",
+		"id": "809eca6a-5bba-49b9-bcd4-5fad80822797",
+		"fo_doelzin_id": [
+			"83913766-7a72-4e30-883d-52ceba7190cf",
+			"a2e62926-2537-4c08-b480-fee2c39eb794"
+		]
+	},
+	{
+		"title": "Subdomein D1",
+		"description": "Diachroon",
+		"prefix": "D1",
+		"id": "32dee7b6-9ff0-4c54-89c1-318996c4e593",
+		"fo_doelzin_id": [
+			"c3791026-8d8c-4c08-8bac-47206e58cd44"
+		]
+	},
+	{
+		"title": "Subdomein D2",
+		"description": "Tijdgebonden",
+		"prefix": "D2",
+		"id": "8dc14cc3-d3ea-41d6-8fb1-af1a2a5189a6",
+		"fo_doelzin_id": [
+			"268f9538-0c49-40d9-8a3e-4579a5a8fd55",
+			"a4feb8cb-e1f8-4328-bd1f-8c4ae5251ce4"
+		]
+	},
+	{
+		"title": "Subdomein E1",
+		"description": "Diachroon",
+		"prefix": "E1",
+		"id": "922ffc51-5228-4786-9398-f143a0c5f706",
+		"fo_doelzin_id": [
+			"b4f30f36-cdf9-4d05-864a-8dfe4fea6e5e"
+		]
+	},
+	{
+		"title": "Subdomein E2",
+		"description": "Tijdgebonden",
+		"prefix": "E2",
+		"id": "9bd3e149-5dad-46de-ba30-33a752a7fc81",
+		"fo_doelzin_id": [
+			"6adfc1c6-7609-42e5-b5c6-ffc8a950b39b"
+		]
+	},
+	{
+		"title": "Subdomein F1",
+		"description": "Diachroon",
+		"prefix": "F1",
+		"id": "b66dc214-e837-4cb1-a08a-67827f518166",
+		"fo_doelzin_id": [
+			"5ecbddc4-c2bf-4afb-be4d-827548b72b4c"
+		]
+	},
+	{
+		"title": "Subdomein F2",
+		"description": "Tijdgebonden",
+		"prefix": "F2",
+		"id": "db932990-bb42-44e5-84a6-6d0d7de0dd25",
+		"fo_doelzin_id": [
+			"ba26fdc0-44c0-4901-a678-5d481019d1dc"
+		]
+	},
+	{
+		"title": "Subdomein G1",
+		"description": "Diachroon",
+		"prefix": "G1",
+		"id": "e0d9f8d0-829c-429d-a334-ebbae297722d",
+		"fo_doelzin_id": [
+			"c41a7d5b-652d-44cf-9dd7-8e21d483c417"
+		]
+	},
+	{
+		"title": "Subdomein G2",
+		"description": "Tijdgebonden",
+		"prefix": "G2",
+		"id": "db996f8b-a202-4fda-8ea2-254071dd9c61",
+		"fo_doelzin_id": [
+			"0c826a13-bb6e-4e6a-a60b-b510a59285be"
+		]
+	},
+	{
+		"title": "Subdomein H1",
+		"description": "Onderzoek doen",
+		"prefix": "H1",
+		"id": "92ddd954-eeb1-410b-8745-0faab61d3409",
+		"fo_doelzin_id": [
+			"1cd2e739-b922-4a8b-bbfc-f4c0e21fbd35"
+		]
+	},
+	{
+		"title": "Subdomein H2",
+		"description": "Actueel vraagstuk",
+		"prefix": "H2",
+		"id": "ac883ac8-946d-4f83-923f-b9e35424f875",
+		"fo_doelzin_id": [
+			"49fba831-15b5-4044-8be2-08a671cc1366"
+		]
+	},
+	{
+		"title": "Subdomein A1",
+		"description": "Bedrijfseconomische besluitvorming",
+		"prefix": "A1",
+		"id": "03767c04-4c7d-49ec-883c-d4e008350149",
+		"fo_doelzin_id": [
+			"68a69d82-30aa-46f3-92f3-f0a9d81bd8f3",
+			"0dea0e6c-9b6c-4486-b99e-3eab0f96a449"
+		]
+	},
+	{
+		"title": "Subdomein A2",
+		"description": "Vaardigheden",
+		"prefix": "A2",
+		"id": "99e2fe3a-ea64-4211-a149-6440d7e76c64",
+		"fo_doelzin_id": [
+			"7dbeb9ad-e24b-4140-ac9e-570824b62f26",
+			"07def745-34d8-4d7f-ae68-19b92ae1a7d4",
+			"217aec1e-9135-44db-a52a-11899f157549",
+			"0a8dea4f-c60c-4603-9d3b-b0a15e01128d"
+		]
+	},
+	{
+		"title": "Subdomein B1",
+		"description": "Persoonlijke toegevoegde waarde en positionering",
+		"prefix": "B1",
+		"id": "8be236e4-3b0c-4295-ab84-afccdc9e3cbf",
+		"fo_doelzin_id": [
+			"a17ef9f0-aeeb-45b4-97f4-9ef4a9983bce",
+			"d0ecdb58-0c23-4d39-adbd-f5be42da5859"
+		]
+	},
+	{
+		"title": "Subdomein B2",
+		"description": "Strategische marketing en impact",
+		"prefix": "B1",
+		"id": "095c2786-782f-49df-8a96-0e71d4e98a28",
+		"fo_doelzin_id": [
+			"7dc9fa4c-986f-40b1-9630-6e873bad160e",
+			"17975c6e-f82c-4900-b5a6-1026e447d9e1",
+			"7c4eb25f-0abc-47ed-b603-014b81ece373"
+		]
+	},
+	{
+		"title": "Subdomein B3",
+		"description": "Effectiviteit van marketing",
+		"prefix": "B1",
+		"id": "b26a163d-1d23-4be5-8856-056fc2f858f8",
+		"fo_doelzin_id": [
+			"af56adda-919c-4d6d-8dc0-795683bba470"
+		]
+	},
+	{
+		"title": "Subdomein C1",
+		"description": "Organiseren bij veranderingen in een persoonlijk leven",
+		"prefix": "C1",
+		"id": "45b8cc8c-c453-4ef5-804b-a5f2e0c23fce",
+		"fo_doelzin_id": [
+			"37614768-634c-402f-92cd-4742ad3e642c",
+			"aab6a2e1-c2ec-43a2-b91c-d41a61ad10f3"
+		]
+	},
+	{
+		"title": "Subdomein C2",
+		"description": "Bestaansrecht en rechtsvormen",
+		"prefix": "C2",
+		"id": "ccbb8fd9-0a1e-4100-941d-afcb0fda2e11",
+		"fo_doelzin_id": [
+			"a22bd2e2-16c2-484c-9c2e-57a0c802dae3",
+			"ed65e8db-5615-47e2-bede-a55efccd352a"
+		]
+	},
+	{
+		"title": "Subdomein C3",
+		"description": "Organiseren bij veranderingen",
+		"prefix": "C3",
+		"id": "898e9cff-9e3d-4f92-a695-df0aa6c5ac07",
+		"fo_doelzin_id": [
+			"7517a2fc-0773-4776-92a2-3f60a5bec3d0"
+		]
+	},
+	{
+		"title": "Subdomein D1",
+		"description": "Ontvangsten en uitgaven in een persoonlijk leven",
+		"prefix": "D1",
+		"id": "4113eaca-6c01-47cb-a81b-a13e0a175e88",
+		"fo_doelzin_id": [
+			"733b6637-eedc-4eb0-a29c-e184c61d660c",
+			"21924ff5-3e54-4efb-94f2-26116fc4139e"
+		]
+	},
+	{
+		"title": "Subdomein D2",
+		"description": "Interne verslaggeving",
+		"prefix": "D2",
+		"id": "ce8fdc56-96fb-4588-8a3c-f83ddd8d52b9",
+		"fo_doelzin_id": [
+			"5d5afb05-34a5-4c1d-98a8-acc8fb5a15c8",
+			"5a352347-efa6-448d-b423-ece5d984cab6"
+		]
+	},
+	{
+		"title": "Subdomein D3",
+		"description": "Externe verslaggeving",
+		"prefix": "D3",
+		"id": "b6d8c5dc-a2ab-4fb8-843e-71778a08b6b1",
+		"fo_doelzin_id": [
+			"31cccc9c-19f4-490d-8b22-44ec422b40c4"
+		]
+	},
+	{
+		"title": "Subdomein E1",
+		"description": "Bezittingen en schulden in een persoonlijk leven",
+		"prefix": "E1",
+		"id": "45e95573-520f-44e6-9211-69ad44c8408d",
+		"fo_doelzin_id": [
+			"fc852865-4ca8-480b-8f19-4e482b71be52",
+			"cfdd7262-bddb-46d1-9e33-af41cfca360d",
+			"67191457-d432-4857-8723-8968212f4ca4"
+		]
+	},
+	{
+		"title": "Subdomein E2",
+		"description": "Kapitaal en vermogen van organisaties",
+		"prefix": "E2",
+		"id": "657e56ab-8602-4efe-b85b-5be2a932ac59",
+		"fo_doelzin_id": [
+			"65d81f99-1cc1-4ded-88d1-7db9918a32e1",
+			"e74bb490-a07f-4a09-879c-9378622ab028"
+		]
+	},
+	{
+		"title": "Subdomein E3",
+		"description": "Investerings- en financieringsvraagstukken",
+		"prefix": "E3",
+		"id": "a821173a-fd7b-4c5b-96d2-6e598c6ffebc",
+		"fo_doelzin_id": [
+			"5feb885d-3279-4eb7-941a-4338cd57bb65",
+			"c501bd46-b9cd-4679-a6d6-fc0c2e6c7ce3"
+		]
+	},
+	{
+		"title": "Subdomein F1",
+		"description": "Ondernemerschap en bedrijfseconomie",
+		"prefix": "F1",
+		"id": "19395ba2-819a-489a-ad84-a0e51db7f25e",
+		"fo_doelzin_id": [
+			"880913cc-0d78-40fd-b92e-fdc5935b71fa",
+			"334b6356-7e9f-4313-ab30-fe8c69361663",
+			"3af17a2a-3fd5-4190-ad82-da94021cbf6d",
+			"393eac50-8bb5-4032-a912-d1482c8ff2f2"
+		]
+	},
+	{
+		"title": "Subdomein F2",
+		"description": "Keuzedomein - Ondernemen. Het bevoegd gezag selecteert één eindterm naar keuze (34-36)",
+		"prefix": "F2",
+		"id": "84cb92fc-b00d-4901-91e1-f600c6f03844",
+		"fo_doelzin_id": [
+			"fad15cec-1b39-42c3-9b17-85a018eb7582",
+			"de671d63-447d-4c25-a42d-e83e395df431",
+			"9210787a-2d57-420b-b13c-a817e64af8c6"
+		]
+	},
+	{
+		"title": "Subdomein A1",
+		"description": "Bedrijfseconomische besluitvorming",
+		"prefix": "A1",
+		"id": "c3485e22-d693-48d5-8631-3d90d22d416a",
+		"fo_doelzin_id": [
+			"68ebd45f-168f-409d-b999-5e48e303c495",
+			"c492a258-bca1-428f-8f67-ddedc68ff214",
+			"10bcfe92-11a0-4fc3-a039-0480d0e818e8"
+		]
+	},
+	{
+		"title": "Subdomein A2",
+		"description": "Vaardigheden",
+		"prefix": "A2",
+		"id": "937f4413-c7e8-42f5-98e5-2fdeb9157fdc",
+		"fo_doelzin_id": [
+			"fc9496f6-ef80-40c0-95df-afa606cd5a45",
+			"c46efb4a-947a-43ff-a4f7-bc42af3c9951",
+			"d6364ca6-5621-406e-90c8-4fa17d19e0fe",
+			"b502ae36-accf-441b-b18c-fa0dbcb457ab"
+		]
+	},
+	{
+		"title": "Subdomein B1",
+		"description": "Persoonlijke toegevoegde waarde en positionering",
+		"prefix": "B1",
+		"id": "99e783fa-6a9f-4996-a3f3-2904463597c1",
+		"fo_doelzin_id": [
+			"bdd7284e-3cce-43d8-86cd-5e5bcfbc9351",
+			"4f0a3f5d-0922-43ac-ab30-de4f6424e3c5"
+		]
+	},
+	{
+		"title": "Subdomein B2",
+		"description": "Strategische marketing en impact",
+		"prefix": "B1",
+		"id": "d1ce1f72-321a-428a-a24a-8e9690e34db8",
+		"fo_doelzin_id": [
+			"cf9c1ea1-25a8-419e-8ee0-6d38b7956de2",
+			"387f0b23-21da-4746-a763-217100fca178",
+			"97f6ed92-e2ab-4784-b70b-b12aae544ca6",
+			"ac15235f-0566-4d49-8b45-facc93b31453"
+		]
+	},
+	{
+		"title": "Subdomein B3",
+		"description": "Effectiviteit van marketing",
+		"prefix": "B1",
+		"id": "6bd04849-4555-4d71-97c2-794a77d21408",
+		"fo_doelzin_id": [
+			"40ecfbf6-dd4b-47e1-afbb-5285ce39d9fa"
+		]
+	},
+	{
+		"title": "Subdomein C1",
+		"description": "Organiseren bij veranderingen in een persoonlijk leven",
+		"prefix": "C1",
+		"id": "3a68a7c6-6826-4199-9213-1e5a9f957fd5",
+		"fo_doelzin_id": [
+			"69487d01-aa56-4501-8175-268c68269488",
+			"bbc8843f-b372-4889-b7c9-e96849b9b9d0"
+		]
+	},
+	{
+		"title": "Subdomein C2",
+		"description": "Bestaansrecht en rechtsvormen",
+		"prefix": "C2",
+		"id": "18f9b55a-8366-48ee-b37a-f7a659f9f9a6",
+		"fo_doelzin_id": [
+			"dce29741-fef9-4a9e-9e43-4e0426f4d400",
+			"89bd63f6-06b9-492b-acd7-f1a115f0973d"
+		]
+	},
+	{
+		"title": "Subdomein C3",
+		"description": "Organiseren bij veranderingen",
+		"prefix": "C3",
+		"id": "8919b8bd-5801-4b4e-adde-41093cf3fe00",
+		"fo_doelzin_id": [
+			"3bfcac0c-f22c-41d9-b0ce-30dc4bf0f32b",
+			"91ed5557-d9c5-4870-9f94-e05eba216395"
+		]
+	},
+	{
+		"title": "Subdomein D1",
+		"description": "Ontvangsten en uitgaven in een persoonlijk leven",
+		"prefix": "D1",
+		"id": "247f29d4-dc7d-4d4a-b85b-2f9843a664b7",
+		"fo_doelzin_id": [
+			"d8d0a33a-8f7d-4409-95ab-14abbde4b40f",
+			"ecae6206-2774-42e2-ab8f-40c93ee95ab3"
+		]
+	},
+	{
+		"title": "Subdomein D2",
+		"description": "Interne verslaggeving",
+		"prefix": "D2",
+		"id": "51ce674e-220d-4cdc-a5b4-63fc9a16f820",
+		"fo_doelzin_id": [
+			"4e8942ab-ce43-43f4-9444-7f71a2f2a49a",
+			"c45b4517-004f-4b9b-ba91-3e83f8669032",
+			"e5fc5214-3e90-441b-8739-117fd0668d6f"
+		]
+	},
+	{
+		"title": "Subdomein D3",
+		"description": "Externe verslaggeving",
+		"prefix": "D3",
+		"id": "1c3c196c-effa-4b4c-8595-8a8888ae32c6",
+		"fo_doelzin_id": [
+			"ab48b9fe-5909-4618-ad6c-9f65d1fff0d3",
+			"f840ae33-5c96-433f-8548-923e4874961f"
+		]
+	},
+	{
+		"title": "Subdomein E1",
+		"description": "Bezittingen en schulden in een persoonlijk leven",
+		"prefix": "E1",
+		"id": "b0560c4d-9e1f-48db-9068-f8454630a35f",
+		"fo_doelzin_id": [
+			"40fd73a2-db0a-4666-a8a1-f579841bd095",
+			"6abaffa7-74db-49f4-bcd1-6f89c1b1c310",
+			"1b7c429a-395b-4609-bc40-382ee037ecb2"
+		]
+	},
+	{
+		"title": "Subdomein E2",
+		"description": "Kapitaal en vermogen van organisaties",
+		"prefix": "E2",
+		"id": "8ecd48a1-f586-4dd2-8a67-09188483ea20",
+		"fo_doelzin_id": [
+			"624f2931-f030-4551-acae-f125f4ea95df",
+			"45756069-3e23-4e5f-a320-edcbf77a52ab"
+		]
+	},
+	{
+		"title": "Subdomein E3",
+		"description": "Investerings- en financieringsvraagstukken",
+		"prefix": "E3",
+		"id": "63c4e13e-01de-483b-8243-ce911a0f4ba2",
+		"fo_doelzin_id": [
+			"bfad1522-d6bc-438b-9150-1b0a23172827",
+			"9b5e2707-b58d-49a1-adfb-a5cf00791a23",
+			"ed95077e-0feb-406d-84bb-076a6eaed6c6"
+		]
+	},
+	{
+		"title": "Subdomein F1",
+		"description": "Ondernemerschap en bedrijfseconomie",
+		"prefix": "F1",
+		"id": "a506f2c0-bae7-4436-af46-af461807b416",
+		"fo_doelzin_id": [
+			"da14ba12-af41-4a2f-99e7-4cd32b1f9941",
+			"6c3daf0a-fc91-4c91-9548-a14e13ae3c8e",
+			"1e4cc4d4-e434-4040-93df-db1a410aa9b9",
+			"dfb5d488-8d68-4432-8b36-26a4a6308c13"
+		]
+	},
+	{
+		"title": "Subdomein F2",
+		"description": "Keuzedomein - Ondernemen. Het bevoegd gezag selecteert één eindterm naar keuze (40-42)",
+		"prefix": "F2",
+		"id": "a47f28ee-f0d2-47f8-9f93-3302eb2237ab",
+		"fo_doelzin_id": [
+			"0d6fe5c0-6935-44fd-a500-c5c2b2976bf4",
+			"f5dd5fd1-0f72-46d5-ad89-8d263a836407",
+			"7748fa8b-cf0d-4d2a-a366-9b51f945514e"
+		]
+	},
+	{
+		"title": "Subdomein A1",
+		"description": "Economische denk- en werkwijzen",
+		"prefix": "A1",
+		"id": "4ccfab7e-525f-476a-8f94-02191bb5c050",
+		"fo_doelzin_id": [
+			"cae353be-e7af-4658-aa0d-377de5248128",
+			"5f7c5e2a-0831-4152-ab7f-2b73fc244400",
+			"c48b9908-3be6-4ca2-9fbc-b3ed6e6e2a2d",
+			"bf9b1b7e-ffea-4f72-a867-f793b5038a32",
+			"fcfedaaf-a8cd-4f0b-8589-0dd21d6005fc"
+		]
+	},
+	{
+		"title": "Subdomein A2",
+		"description": "Oriëntatie op studie en beroep",
+		"prefix": "A2",
+		"id": "1e51b9d3-d4ae-4651-bdb1-753eb918ac81",
+		"fo_doelzin_id": [
+			"77049507-b992-4a3b-9d32-e12cd67c9654"
+		]
+	},
+	{
+		"title": "Subdomein B1",
+		"description": "Economische inzichten - Kiezen",
+		"prefix": "B1",
+		"id": "b2ea1ccc-9c3f-42c0-8132-29bedf005448",
+		"fo_doelzin_id": [
+			"7e523df8-0972-4185-8a78-c261f662f7ea",
+			"c8225793-2b7d-42ca-96c0-7b3caf4c1133",
+			"979ff0c1-e185-4160-81d9-eb3ea789b692",
+			"419c1c82-3ea0-4412-8ba7-e14330b7e78e"
+		]
+	},
+	{
+		"title": "Subdomein B2",
+		"description": "Economische werkelijkheid - Kiezen",
+		"prefix": "B2",
+		"id": "298de725-8cd1-4f50-916c-7eba408d09ca",
+		"fo_doelzin_id": [
+			"548ec927-e3a1-4081-ab7a-25c4f8f0f69c",
+			"c7de2c50-9a83-440c-a511-934483ace6ac",
+			"9d5b3843-c0a0-4dd6-9d80-e4aac61aea06"
+		]
+	},
+	{
+		"title": "Subdomein C1",
+		"description": "Economische inzichten - Ruilen en interactie",
+		"prefix": "C1",
+		"id": "ef3286d4-cf86-4301-9166-4493ceb71bbf",
+		"fo_doelzin_id": [
+			"d97ae415-816f-4584-803a-b685520b02fe",
+			"209fa726-acd6-4b55-8e00-a03cf8185ed9",
+			"bc41922a-92e5-4ccd-a7b8-c61f93888870"
+		]
+	},
+	{
+		"title": "Subdomein C2",
+		"description": "Economische werkelijkheid - Ruilen en interactie",
+		"prefix": "C2",
+		"id": "74001b21-ce96-4668-bc15-38709a39f364",
+		"fo_doelzin_id": [
+			"7913bb1b-b740-485f-93d0-bd5996fccc53",
+			"854724f2-7ae2-477a-a44c-88f7c8f41206",
+			"02a3ee6a-c001-4e28-bff9-c7f01e3f7f43"
+		]
+	},
+	{
+		"title": "Subdomein D1",
+		"description": "Economische inzichten - Productie en allocatie van goederen en diensten",
+		"prefix": "D1",
+		"id": "45dbc91b-15ca-46f6-a0f7-f502772e732d",
+		"fo_doelzin_id": [
+			"f703cde2-c249-498f-a523-39cbf86d8b66",
+			"26a08f77-4f82-4634-a8c3-ca45a51fa45d",
+			"c6ca2203-5a69-45bf-9d75-4cd4bbbb054d",
+			"8d4b3529-9470-4632-92d8-8648046b4228",
+			"cfa568ff-d89b-4bd5-81dc-b4a3a071a0f9",
+			"bcde8be9-89ed-4555-98a6-3a93221f71c4"
+		]
+	},
+	{
+		"title": "Subdomein D2",
+		"description": "Economische werkelijkheid - Productie en allocatie van goederen en diensten",
+		"prefix": "D2",
+		"id": "af4321fe-b0fd-4247-9c5b-f8f8e8043737",
+		"fo_doelzin_id": [
+			"c89bc9a4-7a74-4cd7-aded-cf972bf441fb",
+			"3b05a9a9-44e5-4327-aaec-5a9732a6bca0",
+			"772e783a-7cff-41d8-b6cb-19f0e50d2dfe",
+			"38b40232-0559-474e-a0b7-13ef7cc0a1d7"
+		]
+	},
+	{
+		"title": "Subdomein E1",
+		"description": "Economische inzichten - Inrichting en ontwikkeling van de Nederlandse economie",
+		"prefix": "E1",
+		"id": "09388f7c-2d15-4050-a1fb-529aa8876fc4",
+		"fo_doelzin_id": [
+			"8c51c1b0-9967-4d36-9a5b-a23b89e25f25",
+			"e339212c-5092-404f-836a-fb4fd3918d68",
+			"fb43bb52-510f-4b48-8910-114028058899",
+			"f548a5a1-3895-4114-9e90-f41f46ffd5a5",
+			"0b843a56-a7df-4ef4-80e6-7e43d046ff63",
+			"d1184030-ea1c-4b72-b6a8-3e3f735513d6",
+			"9c06e9e7-62e6-465b-a2f4-41320edaa94a"
+		]
+	},
+	{
+		"title": "Subdomein E2",
+		"description": "Economische werkelijkheid - Inrichting en ontwikkeling van de Nederlandse economie",
+		"prefix": "E2",
+		"id": "b721bbb9-d521-4bf7-9074-93c6ede1547c",
+		"fo_doelzin_id": [
+			"dc5c0f02-282e-4439-b386-0cee196433e1",
+			"e2661713-7a3f-48cd-83c2-3042c57d89d4"
+		]
+	},
+	{
+		"title": "Subdomein F1",
+		"description": "Economische inzichten - Internationale economische betrekkingen",
+		"prefix": "F1",
+		"id": "59ea68f4-b8bf-4b32-8905-79eba1937468",
+		"fo_doelzin_id": [
+			"bb66c7dd-8681-4a4d-bff8-0bb55226787e",
+			"7c3790b7-b8ca-4870-8658-3876bdea7527",
+			"ef9a9539-49c0-48ae-9afc-a4ad328ef91b",
+			"41cea21d-6433-404f-9844-e0cce02531fc"
+		]
+	},
+	{
+		"title": "Subdomein F2",
+		"description": "Economische werkelijkheid - Internationale economische betrekkingen",
+		"prefix": "F2",
+		"id": "1c67f041-dbcc-4336-9bf6-c8fd610873bb",
+		"fo_doelzin_id": [
+			"2480baf9-2278-4cee-999e-5afb166fcfdb",
+			"a0150d39-1bdb-419d-9c7d-c90649948e96",
+			"8c072f65-87c2-4cab-9be1-ef1f892fef27"
+		]
+	},
+	{
+		"title": "Subdomein G1 Keuze",
+		"description": "Maatschappelijke vraagstukken",
+		"prefix": "G1",
+		"id": "5a11f16f-3389-4cc8-a3c2-e10a724203f9",
+		"fo_doelzin_id": [
+			"9e5503ea-4f64-4831-a5c6-ff2efdfa5c4e",
+			"79b48f30-83af-4ea2-91c2-16df6b3fd5fe"
+		]
+	},
+	{
+		"title": "Subdomein G2 Keuze",
+		"description": "Economische modellen",
+		"prefix": "G2",
+		"id": "f9667a89-9c4d-4e63-9257-6089d0d07dde",
+		"fo_doelzin_id": [
+			"c45ab2ec-53c8-470b-9671-d44264f2d05f",
+			"4263cae6-573d-4205-9d37-68d8e492b03e"
+		]
+	},
+	{
+		"title": "Subdomein A1",
+		"description": "Economische denk- en werkwijzen",
+		"prefix": "A1",
+		"id": "dfed8185-6e23-4dd2-8515-46bd4453f742",
+		"fo_doelzin_id": [
+			"b001bd6d-274c-4b76-98f8-1370b73e9102",
+			"36527aae-015f-4767-b27b-1c6f9e4d1b62",
+			"1cdbd913-6c61-4158-b6c9-e6eab5d0bb5e",
+			"a54ce18c-efe8-4a3e-ad01-74c17a48bd4e",
+			"d662a520-cfc9-4f5c-8847-b257d5976027"
+		]
+	},
+	{
+		"title": "Subdomein A2",
+		"description": "Oriëntatie op studie en beroep",
+		"prefix": "A2",
+		"id": "ffeea0e3-c586-457b-8f63-299b534fed33",
+		"fo_doelzin_id": [
+			"c0ebecf9-081f-43fe-907b-b41edfb407c0"
+		]
+	},
+	{
+		"title": "Subdomein B1",
+		"description": "Economische inzichten - Kiezen",
+		"prefix": "B1",
+		"id": "42a34e50-f921-44cc-ba19-08a85b972712",
+		"fo_doelzin_id": [
+			"6c7a6f4b-91ef-4042-8eb8-397b81a14f88",
+			"1b52a288-66dd-40e5-85ed-715719c8a878",
+			"c834fe90-4dc0-4e5c-afee-34106e6e19c0",
+			"4a97b5bf-995d-4078-b8ff-95024517d9bb"
+		]
+	},
+	{
+		"title": "Subdomein B2",
+		"description": "Economische werkelijkheid - Kiezen",
+		"prefix": "B2",
+		"id": "c5005673-02b8-48fe-adc1-80f11fc40b8c",
+		"fo_doelzin_id": [
+			"bbbb8904-fe4a-44e1-9907-3a63f378764a",
+			"7d56fcb8-e365-4bc5-815c-39a3f0d551a4",
+			"dedaece0-2511-4f75-8bac-000d38bea58b"
+		]
+	},
+	{
+		"title": "Subdomein C1",
+		"description": "Economische inzichten - Ruilen en interactie",
+		"prefix": "C1",
+		"id": "54214dcc-7682-4e49-a0de-ae3d9eb185d3",
+		"fo_doelzin_id": [
+			"dbaa745a-52a8-4b83-ae92-b611aec05bba"
+		]
+	},
+	{
+		"title": "Subdomein C2",
+		"description": "Economische werkelijkheid - Ruilen en interactie",
+		"prefix": "C2",
+		"id": "0f958535-a97a-4c0c-80be-91959b4361ad",
+		"fo_doelzin_id": [
+			"3c9eb1d7-77bb-4607-9089-3c97b7e3682f"
+		]
+	},
+	{
+		"title": "Subdomein D1",
+		"description": "Economische werkelijkheid - Productie en allocatie van goederen en diensten",
+		"prefix": "D1",
+		"id": "77b264c0-7bc0-4f35-ab9e-f7222b7a03e5",
+		"fo_doelzin_id": [
+			"c7685523-22db-4b64-95ed-9679b54bbaa0",
+			"c028de2c-c384-4c1b-afdd-65f987cf2b54",
+			"6c9ecdd1-05dc-47fd-b7bc-c008ca3b6c44",
+			"74ead0c2-f09e-44ea-8c62-44199093db3d"
+		]
+	},
+	{
+		"title": "Subdomein D2",
+		"description": "Economische werkelijkheid - Productie en allocatie van goederen en diensten",
+		"prefix": "D2",
+		"id": "c3ed3ab7-8e5d-467d-ab3d-0676e66e515c",
+		"fo_doelzin_id": [
+			"3ef9a030-a269-4029-a493-3c6219862ba4",
+			"6b0abc55-1997-4e5c-9c5b-dffaad621ac6"
+		]
+	},
+	{
+		"title": "Subdomein E1",
+		"description": "Economische inzichten - Inrichting en ontwikkeling van de Nederlandse economie",
+		"prefix": "E1",
+		"id": "65d2b9c6-c7f9-4892-920b-10c032b2c04f",
+		"fo_doelzin_id": [
+			"f6cb73a1-d6fd-48f0-9169-df31e79f3925",
+			"ff93884d-cfd8-427c-8357-32a81d189402",
+			"0e70a4ba-3e97-4b4c-ad5f-c4cdd638c26a",
+			"a7cb248a-9276-4357-bee5-cab22a8f87c9"
+		]
+	},
+	{
+		"title": "Subdomein E2",
+		"description": "Economische werkelijkheid - Inrichting en ontwikkeling van de Nederlandse economie",
+		"prefix": "E2",
+		"id": "fc6322c6-36c5-4e4c-a7cb-d31ad15a8710",
+		"fo_doelzin_id": [
+			"28be2cd7-793d-4d87-ba4f-54b24f3d90c9",
+			"459403f7-dfc4-4a92-9bcb-cc690576d714"
+		]
+	},
+	{
+		"title": "Subdomein F1",
+		"description": "Economische inzichten - Internationale economische betrekkingen",
+		"prefix": "F1",
+		"id": "55774df5-5fcb-4b66-9dda-343a2abbbf6c",
+		"fo_doelzin_id": [
+			"e20b6680-ffa6-4d72-be2b-c7a799c1dacd",
+			"f14f904e-f548-454c-b6a2-78dd310eb0fd"
+		]
+	},
+	{
+		"title": "Subdomein F2",
+		"description": "Economische werkelijkheid - Internationale economische betrekkingen",
+		"prefix": "F2",
+		"id": "37383460-0fa7-4e63-ae47-1474cb388315",
+		"fo_doelzin_id": [
+			"16fb0ac4-9707-4ca9-8405-c223bb4ecb50",
+			"0a8e8753-0abc-4aec-8fb6-2342bf21dcd5",
+			"4bc9eda8-44df-416c-8bef-5c0b1185ad6a"
+		]
+	},
+	{
+		"title": "Subdomein G1 Keuze",
+		"description": "Maatschappelijke vraagstukken",
+		"prefix": "G1",
+		"id": "31d513a1-4339-43aa-aa15-84e23b946d1c",
+		"fo_doelzin_id": [
+			"67e6cb0d-73b8-4eb6-a2a9-dd9d05f55db3",
+			"b12d8e93-9ea7-41dc-9c9c-e5f8567fb3a6"
+		]
+	},
+	{
+		"title": "Subdomein G2 Keuze",
+		"description": "Bedrijfseconomie",
+		"prefix": "G2",
+		"id": "c43da1b9-e5fd-4716-89e7-5005d23c07b0",
+		"fo_doelzin_id": [
+			"1c271b5f-8d37-47e0-a81d-b790c702bb68",
+			"b02747b8-73a7-4482-8998-59568143b1d4",
+			"64f0924d-da66-49a6-ae72-7857f0a39837"
+		]
+	},
+	{
+		"title": "Subdomein A1",
+		"description": "Economische denk- en werkwijzen",
+		"prefix": "A1",
+		"id": "2cc1337f-46c0-4ed1-925e-25cba129e818",
+		"fo_doelzin_id": [
+			"0ad78fa6-6493-49be-a059-0a1bf4458cdd",
+			"8c004d49-a8d4-4a55-b3a8-3c69e0408d3e",
+			"85bd7096-be63-4270-aacf-07c067b304a6",
+			"c2306d36-2f0d-4c8b-a665-25163befcea3",
+			"4eb2e9dc-5346-4ed7-bac1-acd84be0be37"
+		]
+	},
+	{
+		"title": "Subdomein A2",
+		"description": "Oriëntatie op studie en beroep",
+		"prefix": "A2",
+		"id": "91082ba2-9214-43cb-b5e5-24583243d064",
+		"fo_doelzin_id": [
+			"da1604de-a667-4815-bdcd-ab83a6f208ed"
+		]
+	},
+	{
+		"title": "Subdomein B1",
+		"description": "Economische inzichten - Kiezen",
+		"prefix": "B1",
+		"id": "a19481f5-03cb-4452-89eb-1b57060460a1",
+		"fo_doelzin_id": [
+			"2b4cea84-9ef4-4c59-bf40-335502b5171e",
+			"6e2cb4ea-9924-4709-b0bc-680475789f7a",
+			"6df7aff6-a46c-4f70-a923-8cf5c140bde5",
+			"ef09c6df-1271-45ad-a741-0b8e518973d2"
+		]
+	},
+	{
+		"title": "Subdomein B2",
+		"description": "Economische werkelijkheid - Kiezen",
+		"prefix": "B2",
+		"id": "3bbb838d-47b0-4e16-b78d-14e561529c26",
+		"fo_doelzin_id": [
+			"13be884b-7afd-466c-bf39-30065d94b564",
+			"513df4a5-093c-4130-b2b8-04706c528194",
+			"4200d9ed-e56b-4730-abd8-c3a5e539f698"
+		]
+	},
+	{
+		"title": "Subdomein C1",
+		"description": "Economische inzichten - Ruilen en interactie",
+		"prefix": "C1",
+		"id": "ef0ec325-2c59-4faa-a9a5-c836ab152905",
+		"fo_doelzin_id": [
+			"7ac9e034-4221-4e1c-925f-8161d7336821"
+		]
+	},
+	{
+		"title": "Subdomein C2",
+		"description": "Economische werkelijkheid - Ruilen en interactie",
+		"prefix": "C2",
+		"id": "f8ee5b50-9da4-4ee6-8ba5-75337eae3017",
+		"fo_doelzin_id": [
+			"815bb3d1-22db-4b0e-a0ab-2aafaf9a18df"
+		]
+	},
+	{
+		"title": "Subdomein D1",
+		"description": "Economische werkelijkheid - Productie en allocatie van goederen en diensten",
+		"prefix": "D1",
+		"id": "35c6527a-7e57-4983-8d45-6a73d494581e",
+		"fo_doelzin_id": [
+			"01918b52-dd23-412b-83ac-9a491d42d7c3",
+			"78738994-a8fa-4c1c-9dde-d1c6f95936f0",
+			"c299aebe-33ad-413c-962f-00d35dd292c1",
+			"a031cbba-b5b5-4387-9674-3ca36e5f0aab"
+		]
+	},
+	{
+		"title": "Subdomein D2",
+		"description": "Economische werkelijkheid - Productie en allocatie van goederen en diensten",
+		"prefix": "D2",
+		"id": "dadd9555-9bbc-42c7-8029-329cb68ad803",
+		"fo_doelzin_id": [
+			"878ad760-1e58-4188-a3f3-75df85edcb84",
+			"ad7b1d3a-8c34-4e2e-ace6-56ba2c9ea01d"
+		]
+	},
+	{
+		"title": "Subdomein E1",
+		"description": "Economische inzichten - Inrichting en ontwikkeling van de Nederlandse economie",
+		"prefix": "E1",
+		"id": "8c5fde65-0fc2-4f9c-b285-cf0d91372429",
+		"fo_doelzin_id": [
+			"e5425179-e770-4306-88a8-f88e16673f83",
+			"fc6c770b-85c8-437d-a258-728428badb61",
+			"0b73186b-ab07-485b-91f9-f47f78c3d1fe",
+			"0c84b5ef-c190-4777-bb70-9438f0cc33a0"
+		]
+	},
+	{
+		"title": "Subdomein E2",
+		"description": "Economische werkelijkheid - Inrichting en ontwikkeling van de Nederlandse economie",
+		"prefix": "E2",
+		"id": "132bf081-6100-4e93-8537-92ced79259cf",
+		"fo_doelzin_id": [
+			"3f53e295-1afb-4537-83ce-cdf766094e9d",
+			"b334aece-ebf6-484c-ba14-6cb2742c45d2"
+		]
+	},
+	{
+		"title": "Subdomein F1",
+		"description": "Economische inzichten - Internationale economische betrekkingen",
+		"prefix": "F1",
+		"id": "8fc83fc5-4046-42fb-83d9-8d1b10d25dc3",
+		"fo_doelzin_id": [
+			"d2054368-18bd-45c3-81be-d35ce4483f5d",
+			"bde876ab-6cf1-41aa-acde-c2061feb8ce3"
+		]
+	},
+	{
+		"title": "Subdomein F2",
+		"description": "Economische werkelijkheid - Internationale economische betrekkingen",
+		"prefix": "F2",
+		"id": "8bdcfd77-a9f6-4895-959e-62d2b0f04159",
+		"fo_doelzin_id": [
+			"e401f539-2401-434a-b48e-2e86bbbe407f",
+			"d090c159-bab2-43d1-b9f0-64734b0de67a",
+			"54922924-f8ae-41d9-8bf3-eb3896f04881"
+		]
+	},
+	{
+		"title": "Subdomein G1 Keuze",
+		"description": "Maatschappelijke vraagstukken",
+		"prefix": "G1",
+		"id": "283bc44c-8dc2-4af3-a2af-f659d0b2e90c",
+		"fo_doelzin_id": [
+			"97902a8b-2e39-43a7-ab60-3227d37d557e",
+			"6127beca-8757-4e11-b950-07d361e6a153"
+		]
+	},
+	{
+		"title": "Subdomein G2 Keuze",
+		"description": "Bedrijfseconomie",
+		"prefix": "G2",
+		"id": "7f17ee87-50ac-4451-8fef-4dd443082658",
+		"fo_doelzin_id": [
+			"5d328516-5007-4410-badf-1e8f808d74e2",
+			"779228e0-4b64-45dc-be01-8b3969ee9f8d",
+			"c35d8225-5d2b-4829-a30a-4ee4dab735fd"
+		]
+	},
+	{
+		"title": "Subdomein A1",
+		"description": "Economische denk- en werkwijzen",
+		"prefix": "A1",
+		"id": "f5489a7a-bce7-402c-9d1e-845a03e4701e",
+		"fo_doelzin_id": [
+			"f06232be-dabe-4d41-b492-cc27832aff26",
+			"6d8cda30-6e8d-4c1b-89a1-b1eda2e92f69",
+			"ba2cc0e7-8a61-4b70-963b-5e93c2723dee",
+			"6217ef9a-4cf9-4305-81c5-b5a6ce33dacf",
+			"14563e14-cf2d-4570-b37e-59d95f9ead34"
+		]
+	},
+	{
+		"title": "Subdomein A2",
+		"description": "Oriëntatie op studie en beroep",
+		"prefix": "A2",
+		"id": "aac99d7b-fddf-48d1-a0d7-6b1ea1928289",
+		"fo_doelzin_id": [
+			"5974c4ff-c625-477d-b5eb-948a1106164a"
+		]
+	},
+	{
+		"title": "Subdomein B1",
+		"description": "Economische inzichten - Kiezen",
+		"prefix": "B1",
+		"id": "c79bbc4f-5a60-4d7e-89a5-c5684199ce53",
+		"fo_doelzin_id": [
+			"b5cd2023-d274-44d7-921d-8406f38bd0b5",
+			"137f4672-ae55-40d9-941a-51cfa02c2fdf",
+			"9b28446a-41e1-4db6-8e48-ae6c252c8b17",
+			"77e1af55-0651-4993-bcec-53a35fe6b9d0"
+		]
+	},
+	{
+		"title": "Subdomein B2",
+		"description": "Economische werkelijkheid - Kiezen",
+		"prefix": "B2",
+		"id": "0ab7c952-773d-4a7c-9f75-22e0fba73451",
+		"fo_doelzin_id": [
+			"9f29a4a1-fdd4-4b11-baa4-b4bb5319993d",
+			"b9605339-be12-4f8c-a77b-dcd866112f9f",
+			"0234f494-1ca7-4f49-bb8e-1b9680ad96f4"
+		]
+	},
+	{
+		"title": "Subdomein C1",
+		"description": "Economische inzichten - Ruilen en interactie",
+		"prefix": "C1",
+		"id": "728cd75c-62f2-441b-a4a3-b4ddc6347922",
+		"fo_doelzin_id": [
+			"4bef3631-8a1b-4ed4-b3e1-1e2d063bfb8d",
+			"bc6b8d9a-a928-457a-9eea-6a9ac5fdaa16"
+		]
+	},
+	{
+		"title": "Subdomein C2",
+		"description": "Economische werkelijkheid - Ruilen en interactie",
+		"prefix": "C2",
+		"id": "49a6d785-b21e-4a93-8441-71ffb4cb4d24",
+		"fo_doelzin_id": [
+			"c62952bb-582a-42d1-b1ec-0f444ae74996",
+			"9d043c73-3b88-4554-b2d4-8671a5fc7a0f"
+		]
+	},
+	{
+		"title": "Subdomein D1",
+		"description": "Economische inzichten - Productie en allocatie van goederen en diensten",
+		"prefix": "D1",
+		"id": "4c3bf587-9f09-454b-9d01-e4fa57561211",
+		"fo_doelzin_id": [
+			"6c4d889c-9622-45ec-846e-251d26ba9dde",
+			"7a46bd8d-b286-4d98-8d03-861aa2d2e178",
+			"67be7539-aa79-4c3d-bf91-510cee0479d3",
+			"d27f2051-7a28-41b7-b734-de36a7049fe7",
+			"44fe3911-b651-426e-b045-77190b24293f",
+			"989dc376-ac05-4dce-aaed-8609d372c202"
+		]
+	},
+	{
+		"title": "Subdomein D2",
+		"description": "Economische werkelijkheid - Productie en allocatie van goederen en diensten",
+		"prefix": "D2",
+		"id": "23f85b91-6e52-44fa-b81a-02f66a667ae7",
+		"fo_doelzin_id": [
+			"96837873-c913-498f-95af-a978437d969b",
+			"94e85068-f273-497a-8b51-f8b917edd5b8",
+			"15fea373-b429-4291-b9bb-9024cae6d480"
+		]
+	},
+	{
+		"title": "Subdomein E1",
+		"description": "Economische inzichten - Inrichting en ontwikkeling van de Nederlandse economie",
+		"prefix": "E1",
+		"id": "0e474d89-28be-456f-9805-50d43b19bc86",
+		"fo_doelzin_id": [
+			"66f2f58d-97f7-494b-ba8e-3fa16772274f",
+			"014fd30f-6486-49b2-a2c1-db6216ffd327",
+			"b1200c1c-16ab-4557-8ec9-b389e63b60af",
+			"5a74f334-19da-4553-bccc-21e9284a4078",
+			"cb474919-b3b8-4faf-9bd9-5d722fa2da3e"
+		]
+	},
+	{
+		"title": "Subdomein E2",
+		"description": "Economische werkelijkheid - Inrichting en ontwikkeling van de Nederlandse economie",
+		"prefix": "E2",
+		"id": "be72282f-d2b9-47ca-9d89-48a47e6da26e",
+		"fo_doelzin_id": [
+			"bfd926a0-9005-48c0-916e-58320a080441",
+			"28084e60-5255-4c74-84b1-74165cd5c528"
+		]
+	},
+	{
+		"title": "Subdomein F1",
+		"description": "Economische inzichten - Internationale economische betrekkingen",
+		"prefix": "F1",
+		"id": "0e40297c-5131-478d-a0bd-3e1310eb2949",
+		"fo_doelzin_id": [
+			"ccec6b6e-bacc-42fc-8110-0c5fca622819",
+			"bd0dad89-efc7-4b07-ab72-0ccdc3715659"
+		]
+	},
+	{
+		"title": "Subdomein F2",
+		"description": "Economische werkelijkheid - Internationale economische betrekkingen",
+		"prefix": "F2",
+		"id": "50dfa521-89df-47ab-a3bd-7b6b24ecbd6b",
+		"fo_doelzin_id": [
+			"1320ec7f-752d-4369-a749-746de02d1990",
+			"8a44f9fc-4341-4152-a908-982388818029",
+			"f7be25df-fe0b-4b1b-a720-b416d10b8f49"
+		]
+	},
+	{
+		"title": "Subdomein G1 Keuze",
+		"description": "Maatschappelijke vraagstukken",
+		"prefix": "G1",
+		"id": "e27946e4-97fd-4aff-966b-09663fb81d0c",
+		"fo_doelzin_id": [
+			"35443500-e167-4815-89ad-d1cfec97d25d",
+			"deb25bb5-8276-4b64-928a-49c04658a241"
+		]
+	},
+	{
+		"title": "Subdomein G2 Keuze",
+		"description": "Bedrijfseconomie",
+		"prefix": "G2",
+		"id": "5bccf257-e6db-4b3f-b641-9eadf6b90369",
+		"fo_doelzin_id": [
+			"70a4346b-5d82-4400-8329-467e0a114f39",
+			"d544bc74-8a72-4ece-8fb8-83158bd52025",
+			"d53d529d-ad43-4a33-bdfd-00f59d0c39c2"
+		]
+	},
+	{
+		"title": "Subdomein A1",
+		"description": "Economische denk- en werkwijzen",
+		"prefix": "A1",
+		"id": "f8577650-26c4-4e78-8a21-cc225862e82e",
+		"fo_doelzin_id": [
+			"c12d5720-c79a-41df-abc1-9fb4442e1f7d",
+			"d59ede72-3c7e-4f98-a6ee-31d2f2e13b38",
+			"94609979-f16e-4776-b8ed-3fee15baae79",
+			"dde5ac9e-6c89-43fc-85d4-ba8360734ae4",
+			"cd50022f-109f-42a0-9bc3-0e4c28467d43"
+		]
+	},
+	{
+		"title": "Subdomein A2",
+		"description": "Oriëntatie op studie en beroep",
+		"prefix": "A2",
+		"id": "966f8853-4084-426e-834c-121ff2e5d21c",
+		"fo_doelzin_id": [
+			"805a0105-e932-45b9-9fdd-ef9521407351"
+		]
+	},
+	{
+		"title": "Subdomein B1",
+		"description": "Economische inzichten - Kiezen",
+		"prefix": "B1",
+		"id": "5f2fa3e2-9d0d-4995-bad1-cb1160184e72",
+		"fo_doelzin_id": [
+			"5c2b924e-fcf4-4067-8aee-7cd8fefb3f0b",
+			"526ccf31-e649-4c29-9feb-126ae4fd6e53",
+			"971be013-f2d9-461d-ac6e-1943e4e9dbfd",
+			"18b8d934-3c1d-450b-a788-79129deb031e"
+		]
+	},
+	{
+		"title": "Subdomein B2",
+		"description": "Economische werkelijkheid - Kiezen",
+		"prefix": "B2",
+		"id": "38f08c64-6c64-4d16-97be-722ff1da1c27",
+		"fo_doelzin_id": [
+			"b7ce9ba3-93ee-4352-8643-27be3fb2b4f2",
+			"b546b1c7-d7a8-45c7-b5b2-cda86c4718d7",
+			"d66dd7f4-16fa-4b79-a49e-ca36c84e7008"
+		]
+	},
+	{
+		"title": "Subdomein C1",
+		"description": "Economische inzichten - Ruilen en interactie",
+		"prefix": "C1",
+		"id": "bf6c1606-6b52-4039-a85d-4b14f8e23fb0",
+		"fo_doelzin_id": [
+			"63868eab-d0a6-4cbf-b31c-4b699aa0b337",
+			"74cc1b1e-89a5-4d89-a9a3-39d096ae8113",
+			"0cede0c2-64fe-47f9-8fae-cb454d79c862"
+		]
+	},
+	{
+		"title": "Subdomein C2",
+		"description": "Economische werkelijkheid - Ruilen en interactie",
+		"prefix": "C2",
+		"id": "3e27b775-9559-481a-92a3-ec54fc03b0f3",
+		"fo_doelzin_id": [
+			"10917d72-6d85-4165-a56c-5425e3bc4ac8",
+			"e109a3c2-209b-4156-9bc7-9d1ecbd2412a",
+			"39d62397-2b71-4e84-b3cd-10bb355157f3"
+		]
+	},
+	{
+		"title": "Subdomein D1",
+		"description": "Economische inzichten - Productie en allocatie van goederen en diensten",
+		"prefix": "D1",
+		"id": "33462507-64c2-44bf-b551-611c40ebdade",
+		"fo_doelzin_id": [
+			"ff5e0aec-c945-4126-8a54-267396cae78d",
+			"3befa054-084e-41e9-be26-b53bf617802c",
+			"233b65b6-f6ae-4c74-8563-156b5a02516d",
+			"a4968375-53a4-4496-a800-7955523f1153",
+			"800eb42a-cae4-42bc-9b64-a607a3016a53",
+			"61b17f09-9ce7-40bf-b699-d1bf5af44bf5",
+			"e33e3cee-c53f-4ee7-b2ee-b97910ed233b"
+		]
+	},
+	{
+		"title": "Subdomein D2",
+		"description": "Economische werkelijkheid - Productie en allocatie van goederen en diensten",
+		"prefix": "D2",
+		"id": "363edea8-c4cc-4711-a866-5ff6526e2451",
+		"fo_doelzin_id": [
+			"fcd42a23-5fb9-4d7f-b954-c11caf8ea29c",
+			"d816f31b-4011-4aa2-87bb-b4d3e24f6e82",
+			"eddbcb67-0969-48b9-afd4-bac0cdfb4d67",
+			"4be5d998-ce6f-4679-824f-d95dd088780a"
+		]
+	},
+	{
+		"title": "Subdomein E1",
+		"description": "Economische inzichten - Inrichting en ontwikkeling van de Nederlandse economie",
+		"prefix": "E1",
+		"id": "fc25ca59-ecce-434c-8693-c904a693ac45",
+		"fo_doelzin_id": [
+			"2d5b3f6f-ae30-4dfe-9c8d-a816d79f85c1",
+			"7a872c02-ad8f-42c8-91d6-0e1dabaad28e",
+			"3b9e56a2-4fcb-4880-a07e-6363c6c6bc63",
+			"4c04b034-a7f8-47f3-8c7e-adde1f79583e",
+			"f146615c-28c7-4b18-826d-bf30764ab85b",
+			"12bb2d93-1aa9-4156-bb7b-62f54ce46bb7",
+			"18ca63d5-667e-425b-9b73-326cebc47729"
+		]
+	},
+	{
+		"title": "Subdomein E2",
+		"description": "Economische werkelijkheid - Inrichting en ontwikkeling van de Nederlandse economie",
+		"prefix": "E2",
+		"id": "318b8915-a16a-4630-82a0-25d66d59cf2d",
+		"fo_doelzin_id": [
+			"3e6b2294-ff3c-44f6-8be7-e3a57e0995d2",
+			"9f19d3fe-cae8-43fd-be36-5eeb1909d510",
+			"6d8de978-1661-49a3-bf88-7231935a0625"
+		]
+	},
+	{
+		"title": "Subdomein F1",
+		"description": "Economische inzichten - Internationale economische betrekkingen",
+		"prefix": "F1",
+		"id": "84860133-2935-4c47-874d-deb67d1b49db",
+		"fo_doelzin_id": [
+			"e9c11fed-f5da-4aed-8c27-e34786508f27",
+			"cbda6759-eef1-46ab-9a4b-0a544d55a41e",
+			"c98b3ae8-ccd7-4e10-a21a-2e730c0f0224",
+			"59f609a5-fc45-4454-9ff9-1341e8b8b906"
+		]
+	},
+	{
+		"title": "Subdomein F2",
+		"description": "Economische werkelijkheid - Internationale economische betrekkingen",
+		"prefix": "F2",
+		"id": "4b4a7e76-b78b-4792-841e-530ee2a0d7c5",
+		"fo_doelzin_id": [
+			"afb8605e-5132-4fb2-a5d3-380ff6d22204",
+			"b489ca47-f82f-46d2-8591-7db226e7f152",
+			"cffd4963-8298-41f8-aaff-bb4319a78492"
+		]
+	},
+	{
+		"title": "Subdomein G1 Keuze",
+		"description": "Maatschappelijke vraagstukken",
+		"prefix": "G1",
+		"id": "039930fc-1b9e-4a71-b469-16948b08d0f0",
+		"fo_doelzin_id": [
+			"769530a1-826e-4b72-bfb6-ac88a1f61dfc",
+			"d2c360f8-dad0-48af-8967-2373cf1dd6d4"
+		]
+	},
+	{
+		"title": "Subdomein G2 Keuze",
+		"description": "Economische modellen",
+		"prefix": "G2",
+		"id": "e5e526fd-889c-4c75-89c9-abbb21c26e64",
+		"fo_doelzin_id": [
+			"3e815e00-8bf6-45ff-a9d2-033a7067b764",
+			"c4d9d944-6a49-4c68-9ae9-8096c13a3e1b",
+			"58cdd4c2-04f7-4284-be13-b43a445acc3e"
+		]
+	},
+	{
+		"title": "Subdomein A1",
+		"description": "Geografisch redeneren",
+		"prefix": "A1",
+		"id": "f2d7494f-ed9d-4f7a-b300-3c16262ce4b9",
+		"fo_doelzin_id": [
+			"e2064ecb-f850-4429-933c-2f0455258a6f",
+			"c3b8d7b4-14d2-41de-afbf-aeeb1684b7eb",
+			"01078dc6-aefa-4fea-a8d4-79c22ee92f5c"
+		]
+	},
+	{
+		"title": "Subdomein A2",
+		"description": "Geografische denkwijzen",
+		"prefix": "A2",
+		"id": "9c555471-aecf-4822-849f-6bf00f4281d4",
+		"fo_doelzin_id": [
+			"c99d602b-b8d3-491e-9ba0-c78131d863b2",
+			"f743c317-f263-4b62-8d2f-a4a7e2d8f567",
+			"265ee75e-8bc1-487a-aba2-a9981cc6cc1a",
+			"72e2712e-0f17-449a-8504-93c0bcf4f133",
+			"3be3487f-5e7e-4e94-a556-0812c25443b3"
+		]
+	},
+	{
+		"title": "Subdomein A3",
+		"description": "Geografische vaardigheden",
+		"prefix": "A3",
+		"id": "b5f46541-c0a2-4bca-85d0-127b01d3b9b1",
+		"fo_doelzin_id": [
+			"8027234b-ede5-4cb2-9c9d-aa1bc8459804",
+			"6fc725e3-b987-44cc-8959-ef97d6585b2e",
+			"a6307f81-3eeb-43fd-9c16-586767674c27",
+			"8c2b1806-ea5a-4d3d-9c73-9c4df39a0cc6",
+			"6336683b-09f4-4fb3-86e9-4d177a6622a1"
+		]
+	},
+	{
+		"title": "Subdomein C1",
+		"description": "Klimaatvraagstukken in het landschap (CE)",
+		"prefix": "C1",
+		"id": "9cdc442e-b4d7-468d-a376-d476754002c9",
+		"fo_doelzin_id": [
+			"46cc2a14-be1e-4d4b-a722-7c594a38cb9e",
+			"2bed08a6-2587-42c4-83f4-6dfd6f1469bf",
+			"51decfe5-0012-48c6-a03c-b3b09144947b"
+		]
+	},
+	{
+		"title": "Subdomein C2",
+		"description": "Klimaatvraagstukken in het landschap (SE)",
+		"prefix": "C2",
+		"id": "386145d0-3c29-4115-a346-7d0901b9b4b0",
+		"fo_doelzin_id": [
+			"c234b654-7410-4a9b-b7ee-f2cb67560179",
+			"db64a6ec-a875-4ab2-9f2c-5728fa19c263"
+		]
+	},
+	{
+		"title": "Subdomein D1",
+		"description": "Vraagstukken van de leefomgeving (CE)",
+		"prefix": "D1",
+		"id": "a09bb0c3-6d33-4792-9ff3-4b09829a8182",
+		"fo_doelzin_id": [
+			"dcdd35d6-80d0-424e-8927-aafc5013a12e",
+			"d0fcc07b-34fe-44e0-9104-e3cb204e3f6e",
+			"cca470e9-3a0a-4de8-aeb9-ebb8cc556d3d"
+		]
+	},
+	{
+		"title": "Subdomein D2",
+		"description": "Vraagstukken van de leefomgeving (SE)",
+		"prefix": "D2",
+		"id": "8cbd407d-9d23-413d-89c9-590f2cdf7f08",
+		"fo_doelzin_id": [
+			"b2bd0a83-5fcb-4919-af92-1c2ef509cb19",
+			"7b053531-c168-4c0a-a343-de1ee723ba33"
+		]
+	},
+	{
+		"title": "Subdomein A1",
+		"description": "Geografisch redeneren",
+		"prefix": "A1",
+		"id": "96f589f6-3122-4360-b4ad-7a7557d9eb95",
+		"fo_doelzin_id": [
+			"1f0b216a-a7c9-4260-b23e-cde86b7a4dff",
+			"7d4f8567-2439-4c6e-a5f5-ef81d05ea09e",
+			"d361138a-dfa1-4eb8-a3aa-bd6b71f1a4e2"
+		]
+	},
+	{
+		"title": "Subdomein A2",
+		"description": "Geografische denkwijzen",
+		"prefix": "A2",
+		"id": "d3f23324-e768-49d1-80ac-89cdc9f56c08",
+		"fo_doelzin_id": [
+			"f5f523d4-165c-4d91-a055-9d1bc504edcc",
+			"8431c3b9-dc5d-4af4-97f8-3687c80b5f1a",
+			"55da6095-ab1e-4d60-b335-48227d675c3b",
+			"f793b370-6952-4193-bfef-6068d7b4d512",
+			"6184f69d-456d-4258-8161-e0f9647e770f"
+		]
+	},
+	{
+		"title": "Subdomein A3",
+		"description": "Geografische vaardigheden",
+		"prefix": "A3",
+		"id": "42b2925e-d910-42c8-a7dd-7a4ffb6f5ad3",
+		"fo_doelzin_id": [
+			"71f2b00b-fcfe-4b42-ad0f-19d77a568541",
+			"ed883fa9-7edb-44c9-9dfc-fca8f9fa13e0",
+			"3913a24f-fb66-4e01-9242-b491b784436a",
+			"50075723-1e39-4379-98ea-8305a74bf27b",
+			"5b27b2aa-91c5-4b8e-8d20-be4f642038a9"
+		]
+	},
+	{
+		"title": "Subdomein C1",
+		"description": "Klimaatvraagstukken in het landschap (CE)",
+		"prefix": "C1",
+		"id": "4296a06c-6621-4e6e-91da-50bf7cc2b231",
+		"fo_doelzin_id": [
+			"32a152d6-0847-42fd-b9e6-9add226840c1",
+			"80c29597-0343-45a6-a4dd-234e6f78a3d7",
+			"8d3d03b0-08d9-4114-a6eb-abb85e639b22"
+		]
+	},
+	{
+		"title": "Subdomein C2",
+		"description": "Klimaatvraagstukken in het landschap (SE)",
+		"prefix": "C2",
+		"id": "2a4cc967-c59c-4c88-9a10-7f764b083695",
+		"fo_doelzin_id": [
+			"6dd6206a-4c08-41f4-ad60-fce13cf6c4f7",
+			"71427300-8021-4971-a974-fcf622c46ddb"
+		]
+	},
+	{
+		"title": "Subdomein D1",
+		"description": "Vraagstukken van de leefomgeving (CE)",
+		"prefix": "D1",
+		"id": "4dde43ba-0d82-4431-b863-fedacfb8002d",
+		"fo_doelzin_id": [
+			"bc4c5174-d12e-40e7-a68e-86cffd7af464",
+			"378bc5fd-2644-4d94-9109-e0cbcbc66d2d",
+			"009ef638-60c3-47a4-ab6f-e55f857d1c30"
+		]
+	},
+	{
+		"title": "Subdomein D2",
+		"description": "Vraagstukken van de leefomgeving (SE)",
+		"prefix": "D2",
+		"id": "668ff59a-0f39-4078-95d4-70acdb6b0fb5",
+		"fo_doelzin_id": [
+			"50462b73-d246-455d-908c-66e47a1e4204",
+			"d3acf062-9304-4642-88c2-65a2b25b85d6"
+		]
+	},
+	{
+		"title": "Subdomein A1",
+		"description": "Geografisch redeneren",
+		"prefix": "A1",
+		"id": "94ad4acb-6666-4aad-808b-2d54e356e839",
+		"fo_doelzin_id": [
+			"d13091fe-8380-480b-a679-40ee1be82d68",
+			"4cf228dc-41d8-469a-bb12-27e6bdda2493",
+			"54c07930-74a9-43f8-9e60-75b9856791ce"
+		]
+	},
+	{
+		"title": "Subdomein A2",
+		"description": "Geografische denkwijzen",
+		"prefix": "A2",
+		"id": "42495a02-0284-499e-bca8-945aae83769b",
+		"fo_doelzin_id": [
+			"36a034c8-e7ad-45ed-acd9-89b5e1728f47",
+			"79d76486-fd60-41f8-92b0-b2c8b855ca99",
+			"1f8d24b7-ef61-4b51-a6a7-beecff2a74ea",
+			"e95f824b-a6be-4d27-912d-a38bfb8d7d33",
+			"35b33785-8089-4b6f-bf16-383d219a0a9e"
+		]
+	},
+	{
+		"title": "Subdomein A3",
+		"description": "Geografische vaardigheden",
+		"prefix": "A3",
+		"id": "0ad8e90b-1e85-4903-9d44-4d3e93488918",
+		"fo_doelzin_id": [
+			"13c15a16-f360-4d0c-884f-6397688bb477",
+			"148ccece-a603-4877-b9a1-59688e719371",
+			"ec33e83e-1127-4bc3-b551-8fbc0784abbf",
+			"966f5ccb-b5a7-4fe7-a8d9-db1f07ceef40",
+			"f6cf605c-41a8-4493-8ce1-0cfa9a482cd7"
+		]
+	},
+	{
+		"title": "Subdomein C1",
+		"description": "Klimaatvraagstukken in het landschap (CE)",
+		"prefix": "C1",
+		"id": "c27cb60a-8f58-46b1-8d3c-aaa520742132",
+		"fo_doelzin_id": [
+			"c0d975c2-51bc-49a7-984c-9f8ed3876e31",
+			"b8d19bc0-f89b-4673-9502-9dd1eac31a64",
+			"7d3b5061-3225-4251-976e-b77af2d434eb"
+		]
+	},
+	{
+		"title": "Subdomein C2",
+		"description": "Klimaatvraagstukken in het landschap (SE)",
+		"prefix": "C2",
+		"id": "d54f26b1-ec58-4bc4-b244-a4576e2f4601",
+		"fo_doelzin_id": [
+			"e97a0c21-1c0f-4230-99b7-4d44acb1bc6f",
+			"f6b5fe3d-9b5d-4475-bdbd-7fc906240103"
+		]
+	},
+	{
+		"title": "Subdomein D1",
+		"description": "Vraagstukken van de leefomgeving (CE)",
+		"prefix": "D1",
+		"id": "2ffcd24f-3123-40e2-9cee-30944b36f5c9",
+		"fo_doelzin_id": [
+			"bd4d33b6-ef34-4a9f-ba11-540925378c91",
+			"1b6ac7a2-f047-4b1c-bd7c-b4f06db5cb10",
+			"e144b813-3b1f-4b80-99e9-fff6afab5dc1"
+		]
+	},
+	{
+		"title": "Subdomein D2",
+		"description": "Vraagstukken van de leefomgeving (SE)",
+		"prefix": "D2",
+		"id": "889d0150-a3bf-4848-adea-0f5f4d85d30a",
+		"fo_doelzin_id": [
+			"e5261d88-2d60-4903-a0fa-018a98bc3752",
+			"499a2596-93cf-4d60-81fb-78f3ddbe9d97"
+		]
+	},
+	{
+		"title": "Subdomein A1",
+		"description": "Geografisch redeneren",
+		"prefix": "A1",
+		"id": "5fb39232-e632-446a-afd8-d57aee97aa0e",
+		"fo_doelzin_id": [
+			"d25b59e5-96a5-4ea0-bd0f-1dcff3966a7e",
+			"c8f55222-42cb-4375-86c6-742150f91e04",
+			"a62ca9f9-8634-4b79-b121-960b008ba02f"
+		]
+	},
+	{
+		"title": "Subdomein A2",
+		"description": "Geografische denkwijzen",
+		"prefix": "A2",
+		"id": "50378f91-b7e2-4030-96a1-ff30cb8e810f",
+		"fo_doelzin_id": [
+			"7077cf25-d518-46e8-8ee0-5776625c6497",
+			"ff9d91aa-5244-4fea-a790-2c62effc79a9",
+			"23ebd740-f0cb-40e2-a1fe-35fded537887",
+			"741c9ccc-e1b5-42e6-a014-cdf5de5b52da",
+			"500bf573-e320-4616-b1cc-6075d4006be1"
+		]
+	},
+	{
+		"title": "Subdomein A3",
+		"description": "Geografische vaardigheden",
+		"prefix": "A3",
+		"id": "6358b8e0-9e99-4d4a-a497-c0a1120a0882",
+		"fo_doelzin_id": [
+			"8b4f67b2-5252-41fb-9a50-75652e409036",
+			"d5c1a3ad-589f-4624-8217-c8b7d34a5f0e",
+			"6a06b1dd-f9e5-436d-acfa-a34abcfc995c",
+			"1169ed58-499c-4cea-9ff5-ecc4cd025b8b",
+			"77079705-acca-4977-b167-b6a515ef292e"
+		]
+	},
+	{
+		"title": "Subdomein C1",
+		"description": "Klimaatvraagstukken in het landschap (CE)",
+		"prefix": "C1",
+		"id": "c2a8ab6a-2a38-4626-942c-33019420ae08",
+		"fo_doelzin_id": [
+			"6e9abb8a-6915-4a35-85b0-bd094474bfa0",
+			"702730a9-9f4a-4d92-b8a6-6bb55b615738",
+			"c2ba0e4d-fad3-4b8e-8269-bbef51838b03"
+		]
+	},
+	{
+		"title": "Subdomein C1",
+		"description": "Klimaatvraagstukken in het landschap (SE)",
+		"prefix": "C1",
+		"id": "5cf5d3c3-cac9-4be4-b44d-d33066e9345f",
+		"fo_doelzin_id": [
+			"13830829-9d89-4901-88ed-72ec6b7d9f83",
+			"08a4ed2d-8053-4f75-856b-e5c30dee36ab"
+		]
+	},
+	{
+		"title": "Subdomein D1",
+		"description": "Vraagstukken van de leefomgeving (CE)",
+		"prefix": "D1",
+		"id": "5d4f940e-cc69-4aab-9043-fd3f9f55d122",
+		"fo_doelzin_id": [
+			"8304bfc1-872b-46ff-8179-a072ce7e80e9",
+			"94507c48-49dc-4cec-bddf-2109547ad375",
+			"a4f6e870-5870-407d-9089-02520cae7536"
+		]
+	},
+	{
+		"title": "Subdomein D2",
+		"description": "Vraagstukken van de leefomgeving (SE)",
+		"prefix": "D2",
+		"id": "24c9c045-354d-448c-81d3-6177e4973474",
+		"fo_doelzin_id": [
+			"d1d29cfc-6744-4fa2-a4a1-50e025229ed1",
+			"8378ed07-1a8e-4d6b-bb07-9d28371b231e"
+		]
+	},
+	{
+		"title": "Subdomein A1",
+		"description": "Geografisch redeneren",
+		"prefix": "A1",
+		"id": "b8bf7d6e-416d-4dd2-85c2-b1a7e36b4c3f",
+		"fo_doelzin_id": [
+			"7bd8733d-5e55-4a44-b752-3a689d9f580f",
+			"713b34b4-6851-40bd-9c60-c0ba946ca905",
+			"888e9da2-f4bf-4d98-8851-89e3d8416467"
+		]
+	},
+	{
+		"title": "Subdomein A2",
+		"description": "Geografische denkwijzen",
+		"prefix": "A2",
+		"id": "8604a8cc-5e1b-463b-8eef-c99366be0f82",
+		"fo_doelzin_id": [
+			"d9a62b3f-4a02-45d8-bd76-9a4067b92bf6",
+			"a2a4da9a-da5f-4e0e-88c6-39132e7fff6d",
+			"5fd714a7-a581-4a0d-8717-91426abeab99",
+			"2bfd2844-2a2d-4f41-8914-2056c77b5b15",
+			"519cc0e8-b1a9-4017-849d-fee6be8d0645"
+		]
+	},
+	{
+		"title": "Subdomein A3",
+		"description": "Geografische vaardigheden",
+		"prefix": "A3",
+		"id": "36f41a4b-e12f-4745-a1d6-f75855cc84a3",
+		"fo_doelzin_id": [
+			"bd404c90-4627-4456-8a5c-1608e8ad121f",
+			"d0fe9ac5-9d74-40f6-8ec3-9d7e1b096bba",
+			"776cef3f-5b46-4210-84c4-3eb59c13c120",
+			"c0a07e6c-8a9b-40f3-8381-e8ab13189926",
+			"0c11b946-d9b5-41c1-a4ca-f2260def88c5"
+		]
+	},
+	{
+		"title": "Subdomein C1",
+		"description": "Klimaatvraagstukken in het landschap (CE)",
+		"prefix": "C1",
+		"id": "0e546bbc-9fb5-424d-8bb3-1287f8e94772",
+		"fo_doelzin_id": [
+			"76c63f5b-18ac-463a-a929-45c7ad7e728d",
+			"05517fe1-3c92-4b46-b3f5-736555f2dd0c",
+			"efb0da6f-4235-47b0-b171-18f7a2db0c5c"
+		]
+	},
+	{
+		"title": "Subdomein C2",
+		"description": "Klimaatvraagstukken in het landschap (SE)",
+		"prefix": "C2",
+		"id": "ff53ade6-e9da-4fbf-89f4-88e7b02ace6c",
+		"fo_doelzin_id": [
+			"6a2b9fb7-c667-4d40-9cac-b1d47fda3fca",
+			"eb0fa261-4fba-42a5-9163-1c931affc95a"
+		]
+	},
+	{
+		"title": "Subdomein D1",
+		"description": "Vraagstukken van de leefomgeving (CE)",
+		"prefix": "D1",
+		"id": "a2033d2d-2c8d-4331-b8c0-f06c9b0474b8",
+		"fo_doelzin_id": [
+			"c74197f6-4f9d-42ca-b330-5d33b228d34c",
+			"bb873438-d9bc-4f91-b0c6-85d7cf4f6395",
+			"9a09b9ad-6d63-4238-b2c4-767f1e00520c"
+		]
+	},
+	{
+		"title": "Subdomein D1",
+		"description": "Vraagstukken van de leefomgeving (SE)",
+		"prefix": "D1",
+		"id": "fca0b580-e84e-4073-9f9a-9493813740cf",
+		"fo_doelzin_id": [
+			"d90eb86b-45b4-43db-86aa-8c045dd4a3da",
+			"7475b516-4ad1-498e-baf8-6fcc36b5ef5d"
+		]
 	}
 ]

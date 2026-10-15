@@ -4424,7 +4424,6 @@
 		"description": "Tekst en leerling",
 		"prefix": "D",
 		"id": "8d36973f-74ab-450d-923b-13cf1d7806bb",
-		"fo_subdomein_id": [],
 		"replaces": [
 			"f39fed40-2cd6-4fd4-bc9d-bc16314c181e",
 			"1a0cc30d-6483-4e25-bb58-b95895eabbcd"
@@ -4455,7 +4454,6 @@
 		"description": "Tekst en leerling",
 		"prefix": "D",
 		"id": "1240b8dd-1cd3-43a0-8398-43d00e6e8a30",
-		"fo_subdomein_id": [],
 		"replaces": [
 			"17d034b3-0c9f-4bd5-847e-72bb0d87b924",
 			"8fd86729-7097-4376-a4ae-1a631e18c834"
@@ -6694,6 +6692,2492 @@
 			"610f33b2-aee5-4aba-ad33-4a0a06d91ea7",
 			"4dc42746-1f24-4396-b031-a52409afb4ca",
 			"89b554bd-ad53-485f-b46e-8a8adeb0ce34"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Leren bewegen",
+		"prefix": "A",
+		"id": "3f633d90-f92e-4a63-8063-57ad98b60525",
+		"fo_doelzin_id": [
+			"528e9a34-ce76-4b27-b52a-0131b7824c56",
+			"6154180b-1da8-42ae-a831-b1c5b6d6f811",
+			"53330dae-4b87-4bc0-acea-0e1411c280c8"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Samen bewegen",
+		"prefix": "B",
+		"id": "94521541-1a38-494f-9f5a-ddf1c4c1a37b",
+		"fo_doelzin_id": [
+			"5caf538f-f2a2-4a97-b4dc-d840725cb4a8",
+			"56718f07-a591-42e1-b795-838fc83ced22"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Betrokken bewegen",
+		"prefix": "C",
+		"id": "40b1ad92-1bdc-49be-bc6d-d7402da47444",
+		"fo_subdomein_id": [
+			"ed962f6e-f218-4684-aa13-b0346a552e21",
+			"3a5abf81-0897-4019-9dc6-7b267ae1e5dd"
+		]
+	},
+	{
+		"title": "Domein D",
+		"description": "Bewegen en gezondheid",
+		"prefix": "D",
+		"id": "1a66d4b6-d9ed-4449-89ba-7f816109c3ba",
+		"fo_doelzin_id": [
+			"a18859bf-c59a-4a55-bec3-0870c727015a",
+			"d0b38954-30c0-4f14-841f-a61220a128c6",
+			"fa1c2b4b-a91b-4ad4-a834-896cc427667f",
+			"738ae0fb-fba8-4021-98ec-acb45dcba931",
+			"d87153d3-d7a9-46a2-9c59-0e4cc2b29d77"
+		]
+	},
+	{
+		"title": "Domein E",
+		"description": "Ontwerpen van bewegen",
+		"prefix": "E",
+		"id": "de09979b-482b-4104-abd1-71e0459a491b",
+		"fo_doelzin_id": [
+			"2b856e71-0dc1-47a0-89ac-13dcee5764f8",
+			"698d2ffd-506c-444f-9e6f-54cb33fd8aae",
+			"8368679e-bc0b-4292-9e40-0be86ffd21b6"
+		]
+	},
+	{
+		"title": "Domein F",
+		"description": "Lesgeven en organiseren",
+		"prefix": "F",
+		"id": "d3c16ee9-5a0a-4bbf-9740-9a785bc1b290",
+		"fo_subdomein_id": [
+			"52fe6ac5-bd63-4af7-87db-5add2157745c",
+			"fb748a6a-6b55-4692-9eaa-fcad33946e3b"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Leren bewegen",
+		"prefix": "A",
+		"id": "446657d2-db4e-4076-9dbc-a57f5c55492d",
+		"fo_doelzin_id": [
+			"119ceffa-607b-4840-a629-799dcc0bd72d",
+			"11843a90-a73a-42fd-8950-432a208ccf27",
+			"2d44376f-e14d-49d9-8d57-1b96169c6568"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Samen bewegen",
+		"prefix": "B",
+		"id": "f3b57236-2c2f-409e-83f4-ee7d86788bbb",
+		"fo_doelzin_id": [
+			"4a02be3b-fbd2-489c-b795-5cc77f0ca06d",
+			"4bff4ced-9e18-4964-8c27-8149a10c15db"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Betrokken bewegen",
+		"prefix": "C",
+		"id": "f6653927-9660-48e2-aac6-ce076a955bae",
+		"fo_subdomein_id": [
+			"e9f22ce1-011a-4441-b7bb-e188f466e11e",
+			"f0d938a9-0d11-4edb-99af-0f368835848a"
+		]
+	},
+	{
+		"title": "Domein D",
+		"description": "Bewegen en gezondheid",
+		"prefix": "D",
+		"id": "5a0c5a6a-2098-4238-9ee3-b6cd7521bc1c",
+		"fo_doelzin_id": [
+			"76555acd-f564-41ac-b194-f8799b4b2239",
+			"d4c33776-f4ff-43c5-9d38-9067e2fb0d6c",
+			"463a2e91-73e5-4889-aac8-277beebc3f5b",
+			"0bee3ab6-645a-4707-9af7-85c2febd9565",
+			"d30747a5-849e-4727-b44c-082cda085e97"
+		]
+	},
+	{
+		"title": "Domein E",
+		"description": "Ontwerpen van bewegen",
+		"prefix": "E",
+		"id": "09d6670d-fb23-4357-af71-a43b13a45053",
+		"fo_doelzin_id": [
+			"e1a36a93-c618-4539-acd5-4b6b9e7955ab",
+			"2c04c691-9ce0-4142-aa15-ff23e7b5d26d",
+			"b5fe4892-2bc5-4ffd-b1e0-00fbb0225c7d"
+		]
+	},
+	{
+		"title": "Domein F",
+		"description": "Lesgeven en organiseren",
+		"prefix": "F",
+		"id": "d05925bd-9695-4d04-afc7-d77b970cd2c7",
+		"fo_subdomein_id": [
+			"63e46b88-cdb3-4fb8-9b88-15d2d9ac893d",
+			"219726db-2bd4-4a44-a791-4f25ff5c3f42"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Leren bewegen",
+		"prefix": "A",
+		"id": "4a5951ad-d466-4275-ae54-ce7e38fcbf57",
+		"fo_doelzin_id": [
+			"ea6f83c2-312e-44a3-8511-2eb76976821c",
+			"ee5bf4cd-99c1-4d6e-a520-62d8d98963b5",
+			"2dfa5053-2f99-4e13-a08e-ca8abb78520b"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Samen bewegen",
+		"prefix": "B",
+		"id": "ee3bd4b0-ef76-459e-ab5b-90cd45b5b66e",
+		"fo_doelzin_id": [
+			"43a4983b-21de-4953-8af8-fae1fd184855",
+			"b9287a9d-c11d-4d48-9b44-db2981281262"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Betrokken bewegen",
+		"prefix": "C",
+		"id": "317f4a0c-a76d-4ee8-a4d4-ecd8018f1f9c",
+		"fo_subdomein_id": [
+			"c9ad8b91-a6d1-413f-90e0-fa512e5e67c1",
+			"88bfc4b5-08d3-4b03-96cd-5a75e6d23a0c"
+		]
+	},
+	{
+		"title": "Domein D",
+		"description": "Bewegen en gezondheid",
+		"prefix": "E",
+		"id": "359d4930-78eb-433c-8610-fb034de80c90",
+		"fo_doelzin_id": [
+			"96f13991-0b1e-4488-a884-cbff3bd3df06",
+			"8b45aa5a-74e2-493c-ae0d-d5539c99f2e8",
+			"57febc64-3095-4130-b68a-05d7b09cb554"
+		]
+	},
+	{
+		"title": "Domein E",
+		"description": "Ontwerpen van bewegen",
+		"prefix": "E",
+		"id": "69d2fd29-2275-421b-b161-fa3e7c9e3fc2",
+		"fo_doelzin_id": [
+			"f9aed161-deb0-4b95-8263-4ebc6425eb23",
+			"5cd2631d-8e8b-405c-a8e1-e2ba53167851",
+			"5e911430-da73-44f0-b6a6-e49a9ea12e3c"
+		]
+	},
+	{
+		"title": "Domein F",
+		"description": "Lesgeven",
+		"prefix": "F",
+		"id": "048a2cdd-5867-42d4-8c5e-bd205b4141e0",
+		"fo_doelzin_id": [
+			"5ca70ce3-b33e-4c02-a3f8-92625df8ad7b",
+			"a3cf846f-75ad-4480-82bb-c28f26a56552",
+			"da422261-8a8f-44a8-9c2e-3f99d47634bd"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Leren bewegen",
+		"prefix": "A",
+		"id": "10003377-2468-4ecf-9017-c4960e77dc80",
+		"fo_doelzin_id": [
+			"c0e33f45-2cf1-4fa1-bc56-4de13a91db87",
+			"67ada941-aa02-4b06-aca3-9ed963408fb1",
+			"e1271d28-c58e-40e0-a729-852c7842dacf",
+			"18e5e740-b7bb-4918-861d-08fa24eee90c"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Samen bewegen",
+		"prefix": "B",
+		"id": "6ecc26e7-83b3-447d-bdf9-aa82645e2ea4",
+		"fo_subdomein_id": [
+			"6f9ce560-355f-4d32-ad22-016a4b647a91",
+			"d092feaa-c5d1-4fe7-87f4-52ef82bc2c83"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Betrokken bewegen",
+		"prefix": "C",
+		"id": "7ccefd04-2d04-4886-b301-ffdaf6d84ee0",
+		"fo_subdomein_id": [
+			"6849d56e-8e1a-4b99-a869-864c18597eff",
+			"1d95c3b7-a7f5-4373-8ae8-c3a7a5652949",
+			"71e00605-2e27-4bc2-b7c6-b8d5520d7482"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Leren bewegen",
+		"prefix": "A",
+		"id": "2b22ec2e-225d-4951-a2cc-b44ae1292347",
+		"fo_doelzin_id": [
+			"3def8a1d-22b2-4228-8055-21fac5a1b0c2",
+			"e5fb9591-b8d6-4c0a-977e-1cf84368ba4a",
+			"56420438-e3ce-4999-938d-4f678df2f687",
+			"b5a5131c-8fa8-41af-9ecf-2b0d5340f61f"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Samen bewegen",
+		"prefix": "B",
+		"id": "99737fcd-718b-45ae-9748-763bad0d2051",
+		"fo_subdomein_id": [
+			"3d46f35f-bbc5-436d-a670-7258790151ed",
+			"c8abc236-9451-44d8-93fe-f5cf25a26010"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Betrokken bewegen",
+		"prefix": "C",
+		"id": "33a3a179-158f-47b4-a805-17a665ada11b",
+		"fo_subdomein_id": [
+			"95a1c13e-f704-418c-bebc-c1dd80702283",
+			"d85d23ff-ef5e-4b1d-8f0e-92655b6815f0",
+			"11ee4caa-f56f-4f11-93cc-03713293d5c5"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Leren bewegen",
+		"prefix": "A",
+		"id": "37428834-a9fb-45b8-9851-b62863a8671a",
+		"fo_doelzin_id": [
+			"830446fa-60a8-423b-b544-88382ee9e468",
+			"04fb7758-870f-4a0c-b476-afadcd6a06c9",
+			"b1493ddd-b10e-4a63-a9d1-5a6e4a49527b",
+			"08ac5584-0288-4936-8f6f-1855dbeb2a8f"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Samen bewegen",
+		"prefix": "B",
+		"id": "fe84ec13-6626-4cfd-a596-b5d62e505918",
+		"fo_subdomein_id": [
+			"9a26f01b-4223-4984-8e5e-519284c723aa",
+			"a3731ebd-0ba5-4e8d-b1a6-4e7f9d0ab3a5"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Betrokken bewegen",
+		"prefix": "C",
+		"id": "3a5b5c2c-3252-43cb-917e-6b5687765c0e",
+		"fo_subdomein_id": [
+			"8266f648-94d0-4798-993f-79905fd7f1d1",
+			"abac8e0e-37a2-4628-8114-d22031302251",
+			"49be3f1d-3c52-4b77-92e4-05564bb482e4"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Leren bewegen",
+		"prefix": "A",
+		"id": "68712254-adbe-4215-8749-738221ba678e",
+		"fo_doelzin_id": [
+			"6285c698-fb45-454a-9f8a-9fcfc98aeb11",
+			"ab10ad17-6a90-460a-855a-15eecb5931e0",
+			"a4004ce1-9af4-4bf2-997b-4ce60c222370",
+			"d68f9698-b7a6-4149-8a13-127aae86a402"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Samen bewegen",
+		"prefix": "B",
+		"id": "afd05832-d172-4b67-9561-2f2a0f10b49f",
+		"fo_subdomein_id": [
+			"4955983e-2e52-47c4-a609-c64fd2c1a756",
+			"8641b017-0c72-410f-9596-b4014aa40fc6"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Betrokken bewegen",
+		"prefix": "C",
+		"id": "fc1f2ae3-301d-40c2-83b0-18e969e19923",
+		"fo_subdomein_id": [
+			"3842ea8d-994e-4862-8a6e-8b7e7c3b5434",
+			"a1aed84f-3030-4a64-af4a-64eb363081ff",
+			"c3e42ae1-3c8d-4a0f-bc1a-cddbd2240e96"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Leren bewegen",
+		"prefix": "A",
+		"id": "e21ba25c-ae51-4dcb-bf61-510fd0f437b8",
+		"fo_doelzin_id": [
+			"22b1991b-002d-4662-8c70-287a0a5044aa",
+			"97a1189e-3698-48c0-9a1c-3b8739b1ca58",
+			"fd9893a9-8977-4139-9328-ca35e395f2da",
+			"67130f10-fc95-415c-b444-14ec5b982c7f"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Samen bewegen",
+		"prefix": "B",
+		"id": "442bd284-fbad-4721-a60d-2019906a7c76",
+		"fo_subdomein_id": [
+			"2b7824f7-9dd8-4b6e-b37d-059f6ebc3729",
+			"870f801c-3352-4525-8d90-9d0b9fe7b3b5"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Betrokken bewegen",
+		"prefix": "C",
+		"id": "20373b05-d13f-4d9a-9753-f648d0f116a2",
+		"fo_subdomein_id": [
+			"08b19024-1b8f-44d5-a868-e90decf3bdc5",
+			"5011b10b-73f1-41f0-8584-47f87aa8092a",
+			"220b6624-8937-404b-a87f-c33657803e65"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Filosofische vaardigheden",
+		"prefix": "A",
+		"id": "7f1c59c7-4286-4193-86fd-d9d031b5321c",
+		"fo_doelzin_id": [
+			"ac1f213b-2e49-4171-a92e-ec664d791cc1",
+			"862b1471-c6d4-4e89-bda0-6d11bd09fff1",
+			"4178d6c5-93cd-4ed1-9ef1-988785d70c3a",
+			"5a7b0b39-8272-44e9-94a5-e1a0529e7395",
+			"b28b47e3-0e0a-440b-8372-4d4dd173c0a0",
+			"688ddd32-466f-4af0-a035-e13a00dc0db2",
+			"700ab57b-fcad-436d-a42a-3b5b0af8bc21",
+			"d0b04aef-f59a-4b86-995e-e5d8dde74f68",
+			"b2776c16-1d41-4266-be04-6452a3e2223f"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Filosofische praxis",
+		"prefix": "B",
+		"id": "d9d76523-8f12-4433-82b7-74616cf20dba",
+		"fo_subdomein_id": [
+			"fa82ddb2-0c54-49d7-a7f7-8f8ddbcfda38",
+			"d34c60e2-fceb-4e0b-8f5a-aa56d1892102",
+			"dcdfd019-4805-47f8-b6c5-f1124a40253e",
+			"b63b43d1-c7d3-42f5-bae4-9dc9224b9e94"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Filosofische antropologie",
+		"prefix": "C",
+		"id": "534cfcec-b952-4e09-b6fe-8f4c5145b984",
+		"fo_subdomein_id": [
+			"4edadd91-6693-4bf7-8ca9-4ac1157e4051",
+			"7722cd0c-1119-41b3-b5c6-f7608075ddf5"
+		]
+	},
+	{
+		"title": "Domein D",
+		"description": "Ethiek",
+		"prefix": "D",
+		"id": "5b2065fa-13d7-4b77-9e9d-11a5b15ff91a",
+		"fo_subdomein_id": [
+			"ee949d77-7966-4a5a-a2b5-ca9e528c7af9",
+			"cf791b17-c9d4-4837-a6b3-6fb6e06f9825"
+		]
+	},
+	{
+		"title": "Domein E",
+		"description": "Sociale en politieke filosofie",
+		"prefix": "E",
+		"id": "037878c0-0b5d-4d16-a981-6ee6c018df5a",
+		"fo_subdomein_id": [
+			"3eda767d-adab-456c-badd-3917eeb5cfdf",
+			"d371a35b-81e4-432a-86dc-60e59e233ade"
+		]
+	},
+	{
+		"title": "Domein F",
+		"description": "Examendomein havo",
+		"prefix": "F",
+		"id": "7e92acf8-75b8-4faf-8344-11a24893b979",
+		"fo_doelzin_id": [
+			"40480f16-5504-4991-a9e6-99527d4ab1ba",
+			"ebea428f-d97e-4fe4-b279-5720e77ff2ba",
+			"8f90b21f-19dd-4d1f-abdd-2c27d0208f79"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Filosofische vaardigheden",
+		"prefix": "A",
+		"id": "5c4964a3-b7ce-4550-8fe5-59450d19939d",
+		"fo_doelzin_id": [
+			"dfa29f6e-057a-40b0-b986-3b20e4627c69",
+			"667ae61a-ecb3-4d06-a6d5-f1e470e49f7b",
+			"5f947033-90c3-4e76-a577-d6238ee81c9b",
+			"20fa8d01-e4ac-4616-a379-277ace5e759b",
+			"8d02d9ea-47ae-43a2-9aba-a52215b3931d",
+			"db99084f-ac96-4644-be55-365ab2fdf9ae",
+			"21205cb6-0e80-4e0f-aea6-4ed882f079eb",
+			"0a4be3b0-c522-49b8-80ef-69dd14978ac9",
+			"2ecb2b89-ad14-4e1a-840e-ee1971ea70fd",
+			"01c6c631-4295-4bdd-aab7-93e4bf658591"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Filosofische praxis",
+		"prefix": "B",
+		"id": "c2c219f6-3f7a-477a-8f8b-75f597aadc0c",
+		"fo_subdomein_id": [
+			"07b349ac-a14d-441c-8134-8d52b91ab45f",
+			"2ccc48d8-135d-4951-b52b-abe2a2ece192",
+			"eff24cd3-c22b-4329-be45-4be28d6f9b5b",
+			"c9733632-456c-4561-afba-f39ac5e918b5"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Filosofische antropologie",
+		"prefix": "C",
+		"id": "430c8015-c70c-493a-abaa-42dac26e29e2",
+		"fo_subdomein_id": [
+			"95315789-edce-47b4-8e6a-307dd6cd84a5",
+			"6d5a75c8-5fb0-43a6-ac94-eb2186773714",
+			"47612f82-5b82-45f2-b098-5ad60c54a7b5"
+		]
+	},
+	{
+		"title": "Domein D",
+		"description": "Ethiek",
+		"prefix": "D",
+		"id": "817b40e1-318f-455a-9268-d66fd4a40149",
+		"fo_subdomein_id": [
+			"39c8ed73-ea5e-4ece-b511-002dee3d32fa",
+			"1169a834-d185-4758-b559-a0b85d6dc1b1",
+			"1e6dfc2d-ce85-44f6-b391-07e4380c28e3"
+		]
+	},
+	{
+		"title": "Domein E",
+		"description": "Sociale en politieke filosofie",
+		"prefix": "E",
+		"id": "6c77c9ee-98b2-4109-823e-6b8fe2011f02",
+		"fo_subdomein_id": [
+			"25d27571-4df6-4793-b2a7-503407ae3a8e",
+			"d0e1f456-ea0e-4588-898b-c8a6eb3a44b2",
+			"58693b49-a11e-469f-86cb-2056e1c53f7a"
+		]
+	},
+	{
+		"title": "Domein F",
+		"description": "Epistemologie en wetenschapsfilosofie",
+		"prefix": "F",
+		"id": "0071828b-e6f0-4354-8641-f72759a43f5d",
+		"fo_subdomein_id": [
+			"d5a30aba-56b1-4597-ac3b-ce2169f03676",
+			"ec874e97-3c44-4837-b407-84fc06a5b0c9",
+			"e1f547af-ecb2-4ad7-b1fd-96b9226ce587"
+		]
+	},
+	{
+		"title": "Domein G",
+		"description": "Wisselend examenonderwerp",
+		"prefix": "G",
+		"id": "41e0c5eb-7eda-4449-bd3f-63c354d35341",
+		"fo_doelzin_id": [
+			"a60d3f44-0780-4b12-ba2e-49c292c06a58",
+			"cb66c566-bcbd-4d59-948b-ed07e4652e00",
+			"7d44dbd1-cb05-492c-8527-5cf299ff12c0"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Artistiek creatief vermogen",
+		"prefix": "A",
+		"id": "fe137b56-93f4-4583-a138-95d2bd267f66",
+		"fo_doelzin_id": [
+			"be2d5ae9-3f39-4aab-9174-ad3a2ad416da",
+			"c4e9efda-32fe-4252-bcb8-0d178c5acfe3",
+			"dc594359-1707-4f4b-80c3-2c6790a486fc",
+			"4c0231dc-486c-465a-87d8-8a415b54a860"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Maken en betekenis geven",
+		"prefix": "B",
+		"id": "9943c9b4-5b35-4acc-8505-987410e02d45",
+		"fo_subdomein_id": [
+			"5617f676-734e-4f0b-90f9-6d27df8ae29b",
+			"43111665-4499-4d71-9232-8d285561cdd1"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Meemaken en betekenis geven",
+		"prefix": "C",
+		"id": "3747540a-a41a-4342-a031-4591e0b0fcf3",
+		"fo_subdomein_id": [
+			"0664ee99-0ac4-4c83-99c3-db758d5c8ec8",
+			"e0c82e06-a1ef-443d-b6af-13851650650e"
+		]
+	},
+	{
+		"title": "Domein D",
+		"description": "Vraagstukken",
+		"prefix": "D",
+		"id": "0d53be85-a305-4957-b240-f274a7489a2a",
+		"fo_doelzin_id": [
+			"ddf63f86-cae9-4ceb-a289-c866c6152355",
+			"f8065318-0c7c-46a9-a99d-1f3c8b838857",
+			"6ec9531d-59e7-4141-bdfd-7497f6cac25b",
+			"00f5af29-0189-44d2-920c-148d66e7422d"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Artistiek creatief vermogen",
+		"prefix": "A",
+		"id": "c9c66c63-774f-4a2d-80a6-2bec33405d52",
+		"fo_doelzin_id": [
+			"1778e214-2232-4a97-828c-4df80b8ccb1c",
+			"f1df1555-adad-4c1a-b032-eaed184c4c84",
+			"6fd67874-a561-489a-9e9c-bf638d7d4488",
+			"79e1190c-808c-4ee4-a697-9dcc89928805"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Maken en betekenis geven",
+		"prefix": "B",
+		"id": "9f10a0a3-ca9f-41f4-85a2-13d1797c7a47",
+		"fo_subdomein_id": [
+			"300e4edc-9881-42ec-a1f7-55b0339ddfb3",
+			"beef9e70-792c-4473-ad8d-08fb868ead97"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Meemaken en betekenis geven",
+		"prefix": "C",
+		"id": "46002df3-2848-47be-ba35-a69f1e54248f",
+		"fo_subdomein_id": [
+			"124884df-2917-402c-87a7-61aeb66b90ce",
+			"89df87fa-5ff3-4fca-a198-3d188a04e8d7"
+		]
+	},
+	{
+		"title": "Domein D",
+		"description": "Vraagstukken",
+		"prefix": "D",
+		"id": "0c234852-98d6-408a-8540-6e6f7e2ad208",
+		"fo_doelzin_id": [
+			"81c17532-15a9-4ee3-bd33-4637b5c24fd9",
+			"945b144f-fa7a-4718-bd31-a9e2572ce4de",
+			"ffdb7e7c-ed27-419b-b379-fb38e998324c",
+			"cd7d2eab-f38f-499e-a097-eed613613c80"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Artistiek creatief vermogen",
+		"prefix": "A",
+		"id": "57ca40c3-54ae-46c6-a16c-e11af9bba570",
+		"fo_doelzin_id": [
+			"172cba42-2b25-47db-a96c-146f528a4ae1",
+			"d6137bf6-115a-4974-8c0e-2112033adc7e",
+			"ca848a17-d19a-44b7-a72d-559cf64a2364",
+			"62a34df1-d4aa-4ea0-9b30-8b3e2b411005"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Maken en betekenis geven",
+		"prefix": "B",
+		"id": "3559f3af-d893-4275-86c6-14bcbf3d2b71",
+		"fo_subdomein_id": [
+			"deb2e1b6-964a-4ed0-8d98-032a87634a2b",
+			"76eafdfa-4c7b-4ee9-8f62-fd7c015bd668"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Meemaken en betekenis geven",
+		"prefix": "C",
+		"id": "1d9e2702-e392-456b-be20-2e7349a50b9f",
+		"fo_subdomein_id": [
+			"a7c351f8-5460-42b7-8cef-0e9db18ce8a3",
+			"10088ba6-3023-478d-8c48-071c661d8440"
+		]
+	},
+	{
+		"title": "Domein D",
+		"description": "Vraagstukken",
+		"prefix": "D",
+		"id": "f6d60982-354d-4ea0-94a6-e38da11c765b",
+		"fo_doelzin_id": [
+			"609bbb41-8d19-41d7-af94-00c58f51dc91",
+			"e1e974bc-3aeb-49ba-b669-67154061ab4d",
+			"e6c6cbde-a4e5-4e29-85a1-784e11314ca5",
+			"2e5d91f2-4a20-440b-8591-7d294beed245"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Cultureel kunstzinnig vermogen",
+		"prefix": "A",
+		"id": "b0b5265a-b2ce-4eea-9419-6fa56f3b5c97",
+		"fo_doelzin_id": [
+			"88ea9280-9879-4baa-98a0-dc2727bf4c3b",
+			"f63cd388-0907-441c-9a58-8bc983efac48",
+			"0a7ca1ec-6ffd-47f3-a582-9b37b69de3a0",
+			"a95f416f-c20f-4b09-87fe-4b2a412fe8b4"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Meemaken en betekenis geven",
+		"prefix": "B",
+		"id": "2a31df11-b2de-40fc-8e01-cb5aed316801",
+		"fo_subdomein_id": [
+			"1557a37b-4e5b-4dec-ac33-55a4e3f3abca",
+			"cd9dd8f7-c28f-41a9-b2fd-23cabaa9b96a",
+			"a32c85b2-595d-46d4-9b08-fdf9d255fb81"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Cultureel kunstzinnig vermogen",
+		"prefix": "A",
+		"id": "d68fb4b5-ed58-45e8-aebb-99a85cb45c2d",
+		"fo_doelzin_id": [
+			"0914770e-b688-41b2-bab5-d5943f503eee",
+			"827ca082-452f-462a-862d-f7578b9487b2",
+			"d0a5cbc8-5224-4b23-b95c-e028c2afcc1e"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Meemaken en betekenis geven",
+		"prefix": "B",
+		"id": "6d147159-e6b6-432e-8943-46376f578774",
+		"fo_subdomein_id": [
+			"6b1f71fd-77a2-41e8-836c-aaf35facfea4",
+			"14314f69-c4dc-4b9c-a44d-c56f9714e1f3",
+			"ccd2a86f-4954-4f39-8c99-f49b621c27e1"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Cultureel kunstzinnig vermogen",
+		"prefix": "A",
+		"id": "be2f5cdf-d74f-49bf-b30f-c82e2d87ef36",
+		"fo_doelzin_id": [
+			"b4ec118d-7a99-4890-bb0c-b05ce7afbbf7",
+			"66d8971c-0539-4f02-a7b1-5eabd6243b49",
+			"a4b6d056-c1e2-4e0e-b988-44e370c44116"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Meemaken en betekenis geven",
+		"prefix": "B",
+		"id": "837b5f13-be0e-4c35-8f96-b8b56d7e7fe7",
+		"fo_subdomein_id": [
+			"9a21764e-b01b-4840-a4c9-3aeba54dca96",
+			"d257bc16-34b0-4cd1-8833-1b943bdc9491",
+			"0063156d-7660-4583-ae3b-f556164d8ca8"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Cultureel kunstzinnig vermogen",
+		"prefix": "A",
+		"id": "9c4818d2-a775-4b51-94e6-fc5ebd0fc652",
+		"fo_doelzin_id": [
+			"b4a50b08-ed70-4d0f-a0fb-0477405ee012",
+			"3ec31a0f-55c7-46f7-a2b7-faf50624754c",
+			"3d95a2b4-3a32-455e-b85b-33fa6e91accd"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Meemaken en betekenis geven",
+		"prefix": "B",
+		"id": "ab8b06bd-0bde-4029-90aa-2ef0eae21d66",
+		"fo_subdomein_id": [
+			"bf4a7039-3270-41db-bba5-368806cc2fbb",
+			"0e1ba7e5-cdc8-4c1f-a7ea-3fb467f5779d",
+			"27e7cb06-70b1-4e7f-b777-87f200dd7576"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Cultureel kunstzinnig vermogen",
+		"prefix": "A",
+		"id": "a90ad28f-eca5-4412-a8ca-fbd8101c4efc",
+		"fo_doelzin_id": [
+			"026ddce8-45b6-4110-970e-926d3b1a2dfb",
+			"91915cb7-9bab-42ad-a1f3-398808ce591a",
+			"a968464d-af5c-4931-bcb0-242043d7ba46",
+			"75a840a0-53d2-4b8b-a573-ff5bf7bcff14"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Meemaken en betekenis geven",
+		"prefix": "B",
+		"id": "97c938c8-a528-4c3e-a494-40c4380d08df",
+		"fo_subdomein_id": [
+			"b06c5d07-e809-4ab1-a6ce-2a0c5ac2441a",
+			"fa77412e-d23b-44da-9e8c-34326738e21e",
+			"62e4aae1-1833-4047-ab7b-4021c9c98b9c"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Artistiek creatief vermogen",
+		"prefix": "A",
+		"id": "2c763437-f084-4820-bf35-1ce3709f3864",
+		"fo_doelzin_id": [
+			"093f30cd-7056-4ba5-afe5-ee9ba9fe4378",
+			"55f197a3-daa5-4353-a188-053d8ce5173b",
+			"32cc707c-4414-44f8-a7f6-db86abae28db",
+			"3f4474c5-12fc-4c3d-9140-1a0c1a670788"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Maken en betekenis geven",
+		"prefix": "B",
+		"id": "90b7bfed-ea9b-4d7c-8501-4c599b672f7f",
+		"fo_subdomein_id": [
+			"7e04acdb-cca8-46ba-ac5e-a5468b44bf7c",
+			"543fff60-920f-4547-90b9-10cd71613ee4"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Meemaken en betekenis geven",
+		"prefix": "C",
+		"id": "02dd032d-a298-4f28-8312-70acd8aba126",
+		"fo_subdomein_id": [
+			"f118c612-43b0-4523-94dc-4ced7afb9cf0",
+			"f08070a7-0d5f-4b01-9e70-21eca7c0241b"
+		]
+	},
+	{
+		"title": "Domein D",
+		"description": "Vraagstukken",
+		"prefix": "D",
+		"id": "28819fea-32de-4030-95ba-15781e5b3521",
+		"fo_doelzin_id": [
+			"d2efc3e8-616a-4b0e-b642-409b9502b80e",
+			"fb46de0d-fba8-49fb-b85a-e891b1f36090",
+			"11efb411-7ceb-48fa-9fa1-8ba0ebf3e93a",
+			"f7851439-e47d-4df7-bd69-46ea810b82a6"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Artistiek creatief vermogen",
+		"prefix": "A",
+		"id": "9e02226f-f078-4d0b-b54c-890ba2dd3558",
+		"fo_doelzin_id": [
+			"c12b33f5-d95f-4a4c-9927-766f8cdb5823",
+			"a5f68a83-35df-4924-a549-ee6d062a484c",
+			"113f31e5-9f1e-4f95-9326-5223858c89b3",
+			"317ace8e-9bf4-4fc9-a743-ac528a24e939"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Maken en betekenis geven",
+		"prefix": "B",
+		"id": "de6e60b4-af62-4784-a16b-6766917280f5",
+		"fo_subdomein_id": [
+			"e538119f-5b91-499b-b3db-ca635d14ca46",
+			"f6661685-3e98-4d31-9104-2719eea9808f"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Meemaken en betekenis geven",
+		"prefix": "C",
+		"id": "bde7232a-e40a-4f35-ac62-e30eb66d2572",
+		"fo_subdomein_id": [
+			"3a028521-79ab-4eb5-b9f2-51e9027a4ee9",
+			"d551c925-5258-4504-bfb6-b431b3d85a19"
+		]
+	},
+	{
+		"title": "Domein D",
+		"description": "Vraagstukken",
+		"prefix": "D",
+		"id": "52e6a6c4-4e2e-4f42-ab6f-fd7487abf0ce",
+		"fo_doelzin_id": [
+			"21a41167-c45b-4390-99c8-fce2bc2b5038",
+			"d1e77f12-092b-45a0-b515-f02bbf6ab063",
+			"241fe6d2-af46-44b0-a48d-2c00786e0b02",
+			"50aa78fb-79f3-4560-b606-81c0c830fc6f"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Artistiek creatief vermogen",
+		"prefix": "A",
+		"id": "eab91b28-048a-4059-a922-c6737a214801",
+		"fo_doelzin_id": [
+			"ff4c8cf5-e001-408d-b534-b2ae08940b7f",
+			"43267893-db81-4c1e-b35a-69e2b54fe216",
+			"a258410f-ffbe-4b25-b719-595147380e4b",
+			"19964446-cd2f-4bc9-b1b4-82c46006b310"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Maken en betekenis geven",
+		"prefix": "B",
+		"id": "94378306-10c6-41ad-aa49-74e10819e443",
+		"fo_subdomein_id": [
+			"e36cdc1d-3aeb-4319-85da-3569e98b2ce0",
+			"e5cfc288-f73e-4a70-8e78-0a1d359cb7bc"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Meemaken en betekenis geven",
+		"prefix": "C",
+		"id": "048c4d3b-0e92-49d4-86d1-29a688b9d2ba",
+		"fo_subdomein_id": [
+			"abe2b900-3caf-4bb2-a397-49d1c62915a7",
+			"4062a337-4d72-4e0d-b1bf-918fee65e1bc"
+		]
+	},
+	{
+		"title": "Domein D",
+		"description": "Vraagstukken",
+		"prefix": "D",
+		"id": "7640691d-8bc2-44ec-8ee2-a482bb81670b",
+		"fo_doelzin_id": [
+			"0a476aa7-83a3-4620-8dd2-8296ebd5da78",
+			"5c4e8457-2ca5-4f22-9193-f14c908a3811",
+			"73ad1258-d351-4d4a-b8e7-7d1fc1262d5e",
+			"39cbc95e-9707-4813-a538-72c86aa9c812"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Artistiek creatief vermogen",
+		"prefix": "A",
+		"id": "b7b71483-4e8c-4c87-bb2c-3b3231c0e54d",
+		"fo_doelzin_id": [
+			"3c24714f-aa84-4c12-ab32-08bffa58a478",
+			"402101dc-177d-4a2b-8b9a-3835cadc2112",
+			"58457654-6040-402b-9d93-def9b450c355",
+			"75cb5e03-8963-4071-a35a-58c9007e03e0"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Maken en betekenis geven",
+		"prefix": "B",
+		"id": "6f369c0a-2e77-44ee-bd76-9b8433a2710f",
+		"fo_subdomein_id": [
+			"b1808880-6898-417b-82d0-933a9fb998bd",
+			"cf738985-167d-4370-85ca-a08d28d44d55"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Meemaken en betekenis geven",
+		"prefix": "C",
+		"id": "d74ea902-88d6-4d7b-9171-cca21d2cb6fd",
+		"fo_subdomein_id": [
+			"f41bcc19-3731-488a-9a88-ca16f459e514",
+			"5fb887af-99c8-40c8-ab32-519ff70e7792"
+		]
+	},
+	{
+		"title": "Domein D",
+		"description": "Vraagstukken",
+		"prefix": "D",
+		"id": "b58c444f-954e-402d-9697-43010bf28cde",
+		"fo_doelzin_id": [
+			"2ad90ac7-2a85-4f82-8a33-50ece44f9d52",
+			"de8e1f75-320c-4bcd-ab25-cb2c8fd48058",
+			"552f307b-cf80-4c35-b880-89c2743c9d93",
+			"bad636cd-2354-45ff-92e2-1e9f38fc8b08"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Artistiek creatief vermogen",
+		"prefix": "A",
+		"id": "65864890-c89d-403f-82c2-d4b7e632406d",
+		"fo_doelzin_id": [
+			"06468365-1f06-4c69-9e46-7872fbf7b6af",
+			"e84b64ec-55ad-4790-9e19-ca38fd2b5555",
+			"04c658cb-1402-4062-9452-272f1bdda744",
+			"45577374-3b11-4d44-9e4f-f911f1d7ce1e"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Maken en betekenis geven",
+		"prefix": "B",
+		"id": "76649bbd-b810-4bff-8f2b-00964e1982e6",
+		"fo_subdomein_id": [
+			"f2de6c7e-2b97-4e31-8178-489f17fa6efb",
+			"1b0856b8-1a81-4bb6-b0c1-bc1b27769c71"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Meemaken en betekenis geven",
+		"prefix": "C",
+		"id": "339cc15f-a3e2-41fd-b47a-6a71bedca749",
+		"fo_subdomein_id": [
+			"9baa0682-a1ec-4313-9ef8-c4ca89a1729c",
+			"b60fd9db-49d5-45a3-a20f-234bcd2ff6d7"
+		]
+	},
+	{
+		"title": "Domein D",
+		"description": "Vraagstukken",
+		"prefix": "D",
+		"id": "88dbc96a-e83d-4897-9c5c-2f3db13397b2",
+		"fo_doelzin_id": [
+			"5b331379-946c-48c9-a010-7155e4d9505f",
+			"99dc2817-66ae-4eb2-a54b-d6d0ebd8539e",
+			"d9b4e9d3-ecbc-4484-bd8c-63d0c063437a",
+			"1097f703-9caf-4b19-aaac-5e3a49db20ea"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Artistiek creatief vermogen",
+		"prefix": "A",
+		"id": "34029a00-6a4b-4cbf-9e16-f46a9fc44a46",
+		"fo_doelzin_id": [
+			"42d3d20f-eaf3-474c-b82b-5f12387a14da",
+			"d2f5c452-51ed-4b48-b4b6-8f5ef2e592e3",
+			"f2e8d9cf-f30a-4af1-a0a9-da00bd9858fc",
+			"ba965aa0-be94-44b2-ac54-b5d97568190c"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Maken en betekenis geven",
+		"prefix": "B",
+		"id": "a38b8179-df02-4355-acdd-a04d04d9fa71",
+		"fo_subdomein_id": [
+			"f1ce148d-27d1-40e1-8e53-eff7177d97a1",
+			"1f8efe9d-f008-489a-88c6-e8e86fe94353"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Meemaken en betekenis geven",
+		"prefix": "C",
+		"id": "ead9ab9f-d038-44e1-a1af-2b0f889ba324",
+		"fo_subdomein_id": [
+			"4abe22e0-3af1-4599-b0e8-84ea624b412b",
+			"80b3a8ae-dcb7-468e-9a5a-e3081cec2cbe"
+		]
+	},
+	{
+		"title": "Domein D",
+		"description": "Vraagstukken",
+		"prefix": "D",
+		"id": "e2130579-b700-4324-b58d-203b1c34d191",
+		"fo_doelzin_id": [
+			"967bd3d0-993f-46b2-829a-56aef84e50fc",
+			"259bb253-be6a-467d-b92b-4b2ed08dfc6f",
+			"5cd9aecf-86f6-42f4-9d7b-6f567cfba4f2",
+			"4526bbde-e215-44f0-a23b-05dfdd709f8e"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Artistiek creatief vermogen",
+		"prefix": "A",
+		"id": "58d89f75-4b90-451f-8e7a-2bfaad64aa5f",
+		"fo_doelzin_id": [
+			"0035dfc1-7fd9-4926-9013-a6fb1da83b3d",
+			"a19df7e6-6b35-440b-8b22-30a810b9656a",
+			"9c9b7600-fb87-4ae5-bd1d-c876f2369c09",
+			"793c6943-d723-49ec-83a8-93d358a15d97",
+			"789f4336-e2e9-4ca3-b04f-711b94d37574"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Maken en betekenis geven",
+		"prefix": "B",
+		"id": "025ec6a0-3f10-4f49-b5d2-5dc498b073dd",
+		"fo_subdomein_id": [
+			"51ed0fcb-39c4-438f-8342-014db444ed4a",
+			"ce6f8936-d95a-4e70-97c2-0c1778d5528e"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Meemaken en betekenis geven",
+		"prefix": "C",
+		"id": "7b696819-43be-43dd-9237-1a90fc797c02",
+		"fo_subdomein_id": [
+			"21421fcc-6d10-4130-885a-37e76e706854",
+			"c4d9c1ea-2d79-4b24-953e-7ad3214f45a0"
+		]
+	},
+	{
+		"title": "Domein D",
+		"description": "Vraagstukken",
+		"prefix": "D",
+		"id": "84cdac1c-e266-44cd-af7f-a9e4b402313b",
+		"fo_doelzin_id": [
+			"bd04ff79-dbe6-4364-81cc-73e915888c99",
+			"90b47a2e-c4da-4f67-8885-11e19160eac7",
+			"2e942a99-525e-4bef-a62a-3a8895436311",
+			"23855e16-501c-4530-8dcb-2f3ee8d1cebe"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Artistiek creatief vermogen",
+		"prefix": "A",
+		"id": "f3b865e7-8b0b-4ea8-b467-70f3d5d882e4",
+		"fo_doelzin_id": [
+			"8fda7f69-7fab-423d-935f-38ecd61323b8",
+			"7d02ccc7-b58f-46a8-b55f-21f1a6655202",
+			"4541eb73-6c24-42e8-8ccd-a5e75c7a740b",
+			"7a2c2858-13d0-4529-8e0f-66d0fc9303e6",
+			"36e7d668-55fd-4f0f-930d-93bba70f6585"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Maken en betekenis geven",
+		"prefix": "B",
+		"id": "a97d69f5-9448-42aa-90ce-9d6dedfb5a37",
+		"fo_subdomein_id": [
+			"32f23d8e-8487-47fd-ad31-cade419c38db",
+			"ec2b0ce5-5118-4c0f-8ece-62e78bd94f21"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Meemaken en betekenis geven",
+		"prefix": "C",
+		"id": "1faf9d28-6f95-4f28-b19a-5913f6b662cc",
+		"fo_subdomein_id": [
+			"0875223d-c77f-4ef5-825a-55f18e08ec2c",
+			"d071c9fb-8133-4276-b5d2-fd0a864a6a8a"
+		]
+	},
+	{
+		"title": "Domein D",
+		"description": "Vraagstukken",
+		"prefix": "D",
+		"id": "f88a31c6-2b14-4af0-aadb-4ed816690468",
+		"fo_doelzin_id": [
+			"480faf69-707a-4406-bb2f-109076820e90",
+			"67ef9724-ccb0-4d2d-9251-48052ec2caa2",
+			"8dc269d2-ec72-416a-b83b-9f456986e4ff",
+			"6a42ebb8-56a9-4185-88f0-aaabe1d83495"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Artistiek creatief vermogen",
+		"prefix": "A",
+		"id": "bf246b40-9938-4139-8c21-2f8e6726d984",
+		"fo_doelzin_id": [
+			"953ec663-3dc1-48ba-86c1-8eccc0811959",
+			"68bdf82a-d921-4213-9a35-dcd1db124903",
+			"46710e68-eb6e-4f6c-838c-cba31125e09d",
+			"43a6ea80-fdc1-4534-9ba3-5f87fdd22db1",
+			"f7a05657-6744-4163-a2c2-6ae3cf73e2ef"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Maken en betekenis geven",
+		"prefix": "B",
+		"id": "85ec8dd7-7dad-4bfe-ad2f-65670d6ea041",
+		"fo_subdomein_id": [
+			"9ebceef2-f7cc-4b33-aba3-a32a899b88d7",
+			"85c5a879-786b-4027-8ff1-cb1c853f7b00"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Meemaken en betekenis geven",
+		"prefix": "C",
+		"id": "f28bb0b0-e3b6-4d0d-976f-79bde53ea265",
+		"fo_subdomein_id": [
+			"b4bf6f62-f95d-43a4-b35e-30e0955a8062",
+			"332ab4a1-d8ce-427e-985f-818ce4243da5"
+		]
+	},
+	{
+		"title": "Domein D",
+		"description": "Vraagstukken",
+		"prefix": "D",
+		"id": "7b4e2a6d-1c84-4715-b76a-0f851ce2bc7b",
+		"fo_doelzin_id": [
+			"8ed634e8-1936-4859-92c7-76a403bcead1",
+			"0dbb26c2-a886-4405-990d-7d685a844b50",
+			"50b4e4b8-9d0a-4875-87e5-9abd40011152",
+			"50018d4e-bc2d-491c-9010-6706ce50c8ca"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Artistiek creatief vermogen",
+		"prefix": "A",
+		"id": "90726a4d-fa0d-42a2-bc34-a5ef2088bbd6",
+		"fo_doelzin_id": [
+			"b1f05cf9-373c-4de9-8583-b7f2793700c9",
+			"0201a042-94c0-4cd8-97b1-6c4543bc9c0c",
+			"f9227d42-af11-4d9f-97e2-1096ae8a52bb",
+			"7922dcdb-b67a-47ef-b63e-4703a0f84483"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Maken en betekenis geven",
+		"prefix": "B",
+		"id": "998b50ef-108c-4c36-9e06-55e80298027e",
+		"fo_subdomein_id": [
+			"ae40a1f7-e92b-4ecb-8c20-4b9d105e94c5",
+			"81467072-58e2-42a8-b33e-2824bdaf347f"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Meemaken en betekenis geven",
+		"prefix": "C",
+		"id": "49ec8650-c689-4f51-aebb-a63a829fe510",
+		"fo_subdomein_id": [
+			"152e8ff8-b360-4e7f-bc33-49251bd24b2e",
+			"4ba551b7-97f6-4eb2-97ee-d3fc8b6f9049"
+		]
+	},
+	{
+		"title": "Domein D",
+		"description": "Vraagstukken",
+		"prefix": "D",
+		"id": "b34a2d5f-e41c-4ef3-a3b8-5e02a05d8cd0",
+		"fo_doelzin_id": [
+			"6157ee00-afa7-4941-9617-fb660d84e749",
+			"44d1fa3b-9d73-489e-a65b-b82096ad5cdc",
+			"2f054853-932d-4c2b-a04d-58fcdc7fddf8",
+			"41bb98ca-701e-453b-a084-cd1447c23b31"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Artistiek creatief vermogen",
+		"prefix": "A",
+		"id": "666c2755-9b31-4ccc-adce-7cabb093e8db",
+		"fo_doelzin_id": [
+			"2c6404f4-629d-49d6-b2db-f0b0f336e216",
+			"ba270f10-e9bb-40b4-bd24-16361bfdddaf",
+			"d40ce38c-deca-4f1e-a935-39ab9b0002b7",
+			"6ebe8fb0-2e09-4981-86b2-d45df109a021"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Maken en betekenis geven",
+		"prefix": "B",
+		"id": "b071741f-7f93-463f-82d8-2bcae596c67e",
+		"fo_subdomein_id": [
+			"c684808e-6130-4347-829a-09283e934cf3",
+			"51176b98-c735-461d-95d6-aff655448bfd"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Meemaken en betekenis geven",
+		"prefix": "C",
+		"id": "c30a6ea4-a38e-49fe-944c-dd2cea3eba4a",
+		"fo_subdomein_id": [
+			"ba610f3d-a6dc-4449-b962-4ba407179855",
+			"804c7bdd-4ff2-46bb-be02-9bc107fb249c"
+		]
+	},
+	{
+		"title": "Domein D",
+		"description": "Vraagstukken",
+		"prefix": "D",
+		"id": "5355c448-6341-4f68-92b8-e1323e2afe49",
+		"fo_doelzin_id": [
+			"356bb035-218d-4acc-8a54-502ab23356a8",
+			"8cbbb74f-d86d-4b1e-8c70-634c9c4cc90b",
+			"4100a010-0995-47c3-b0c1-f199bbeb5e04",
+			"a4cd8ea4-5248-40bc-826f-83b137acb00d"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Artistiek creatief vermogen",
+		"prefix": "A",
+		"id": "8b068778-51ba-4ff3-9716-d5db8d0b9cbe",
+		"fo_doelzin_id": [
+			"359e4512-5d88-46da-87c3-ffe4941539fd",
+			"0b507e8e-b379-4379-911a-e89da828cb0d",
+			"ba078e07-720f-4323-9bc0-463c6c69231e",
+			"ebc63f67-25a2-4ed7-9a32-b4ba91b6507e"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Maken en betekenis geven",
+		"prefix": "B",
+		"id": "ac8ff109-854b-44f6-ac5a-fb720ba2a720",
+		"fo_subdomein_id": [
+			"8820dd5f-1201-4fb4-9a31-0357267bd658",
+			"50815ece-daf0-4557-b393-b16919748db2"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Meemaken en betekenis geven",
+		"prefix": "C",
+		"id": "b2e8c10b-3899-4812-8804-e6234a6343d6",
+		"fo_subdomein_id": [
+			"5c10fb0e-5641-44ff-8738-35650b8ed310",
+			"2982697d-fd15-46d9-a9ab-8f4984bbcadb"
+		]
+	},
+	{
+		"title": "Domein D",
+		"description": "Vraagstukken",
+		"prefix": "D",
+		"id": "0a7a1652-e8fd-4291-9c1e-e3e63877a424",
+		"fo_doelzin_id": [
+			"a668723c-951b-4b60-af59-6ae4ad5e2861",
+			"23c4349f-67f6-49c3-917b-d4ab7358cc62",
+			"cc5d28d0-0d5d-4135-93da-9b5e3990c761",
+			"43d6d177-9dcb-4af8-934a-ed7261724a1c"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Historische vaardigheden",
+		"prefix": "A",
+		"id": "ab898534-5109-43a0-a6bb-37380dae6bac",
+		"fo_subdomein_id": [
+			"5cea7bf5-5606-429e-a564-4276c600f487",
+			"70cd8c4e-cf9f-4ac5-8a04-532c83943efb"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Macht en invloed",
+		"prefix": "B",
+		"id": "35a65975-724d-4541-9aab-555ef5f79629",
+		"fo_subdomein_id": [
+			"9d999852-04a8-42ed-a631-f028729a9248",
+			"8f1b7802-8778-47f2-bb6c-30393e88daa5"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Kolonialisme en onafhankelijkheid",
+		"prefix": "C",
+		"id": "526f5594-c06b-4223-b9f1-35ee0f4650c3",
+		"fo_subdomein_id": [
+			"f76597a6-89df-41c1-bf2b-b6d494983799",
+			"7c504d22-6d71-44bb-b82d-c60c1c439289"
+		]
+	},
+	{
+		"title": "Domein D",
+		"description": "Samenwerking en conflict",
+		"prefix": "D",
+		"id": "9dc7dea8-2d51-4ac6-8ea4-5cfb449a1988",
+		"fo_subdomein_id": [
+			"123963dc-8660-4d28-9819-58728b4abac7",
+			"3f01920d-b428-4097-a538-d4aac3fdba20"
+		]
+	},
+	{
+		"title": "Domein E",
+		"description": "Techniek en wetenschap",
+		"prefix": "E",
+		"id": "5a967144-1a6e-4e2d-9e29-7a2ab85f4810",
+		"fo_subdomein_id": [
+			"2e6128d8-53a9-4d2a-a577-e775dd28850e",
+			"e52fd9de-38b9-4a67-bb6f-2f6476c33f60"
+		]
+	},
+	{
+		"title": "KeuzeDomein F",
+		"description": "Natuur en maatschappij - bevoegd gezag kiest één van de drie keuzedomeinen",
+		"prefix": "F",
+		"id": "f225df6e-ee00-4ea1-9e17-87d703277f99",
+		"fo_subdomein_id": [
+			"58a3a340-5f75-43e9-a79f-a418c95d8b4f",
+			"d84c7c55-1304-41cf-8f4d-38afb37d3597",
+			"f83f3cb5-1368-44fa-a489-48da1b221c8c",
+			"ac5fd03a-7a66-4562-b9a7-c51646b99960",
+			"f94a0130-c772-4990-9656-20e52d688d46"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Historische vaardigheden",
+		"prefix": "A",
+		"id": "dd3e0842-9bd5-438d-9b3d-c2a0ffed9e5f",
+		"fo_subdomein_id": [
+			"56f9ff3d-8288-4d5f-b9cc-a00dce9c70b4",
+			"5d1dfa59-b1e6-4d5d-9af2-b66f5e930510"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Macht en invloed",
+		"prefix": "B",
+		"id": "aff84088-61de-453a-a5c2-ac8402586231",
+		"fo_subdomein_id": [
+			"25e5a3c3-afdf-4d4a-a4a4-44c27a578d42",
+			"5744bf18-f7c3-4c6e-aa49-3f0982055572"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Kolonialisme en onafhankelijkheid",
+		"prefix": "C",
+		"id": "8341247e-522a-4cc0-8ada-40a3858df2b3",
+		"fo_subdomein_id": [
+			"acbbd0fa-1fe2-4c93-813c-cc3c4977cd95",
+			"a203c340-11f7-4000-9f47-1b497dbf54f2"
+		]
+	},
+	{
+		"title": "Domein D",
+		"description": "Samenleven en levensbeschouwingen",
+		"prefix": "D",
+		"id": "4975fb8e-6c65-4901-b32f-d706d6cd9df4",
+		"fo_subdomein_id": [
+			"8ac6b337-3024-42e6-943a-df9f437fd7b0",
+			"aa733a6a-52f7-4229-8bf9-44390e216477"
+		]
+	},
+	{
+		"title": "Domein E",
+		"description": "Keuzedomein - bevoegd gezag kiest één van de vier keuzedomeinen",
+		"prefix": "E",
+		"id": "c1302f84-d90a-4da2-983c-8c1eb9c249fc",
+		"fo_subdomein_id": [
+			"ca48c0cd-f284-4273-ac14-6f5b9401c6bf",
+			"632f3070-9397-4bbe-82b9-37bb04d26c90",
+			"1b96fd0c-bb9e-44a7-ba4f-cc1debb8df15",
+			"26d854e7-ccd2-478a-9ecd-a81e8779db64",
+			"60ecbdad-4e11-49df-9a4f-59252e48d7c9",
+			"399ee524-150d-436e-9680-06a32d7b98c5",
+			"b94f6ef5-ac42-40f3-a43d-0c0b8c3c560f"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Historische vaardigheden",
+		"prefix": "A",
+		"id": "b5fc9805-5e0f-4ee0-add8-d7c392d59de6",
+		"fo_subdomein_id": [
+			"88d1cc09-d948-40c2-b348-a81c1eb52c11",
+			"d69b4b2b-65fb-4c83-a12a-f7ce8ab9dbbd"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Macht en invloed",
+		"prefix": "B",
+		"id": "7e23fe63-76a7-43fa-92bd-056e96b720f3",
+		"fo_subdomein_id": [
+			"027185d1-3121-4499-8712-d6f88ee641d2",
+			"0b64e9da-6de7-4622-977b-3b432cb0f0c8"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Kolonialisme en onafhankelijkheid",
+		"prefix": "C",
+		"id": "1351818b-307d-4bf1-93ed-a07195e1acf4",
+		"fo_subdomein_id": [
+			"aa5ef4cd-fd74-4958-a9f2-d4e34d1f4614",
+			"d76eb75c-30f0-4241-b125-3708eb4be79f"
+		]
+	},
+	{
+		"title": "Domein D",
+		"description": "Samenleven en levensbeschouwingen",
+		"prefix": "D",
+		"id": "b8458d15-bcfa-4d78-9eab-849d026482ca",
+		"fo_subdomein_id": [
+			"11cbd2d4-3405-4c05-8f62-896a743f0c73",
+			"af7adafa-edd3-4627-aaac-52e4ba3568e7"
+		]
+	},
+	{
+		"title": "Domein E",
+		"description": "Keuzedomein - bevoegd gezag kiest één van de vier keuzedomeinen",
+		"prefix": "E",
+		"id": "006b1c7a-e90e-4d1f-a56b-0cdc9f9ddce1",
+		"fo_subdomein_id": [
+			"388f67aa-bc83-4e27-98c1-79b45e9a0bde",
+			"b15651f9-2c02-4e01-aadf-e222bab96c1c",
+			"7f828a3f-18a2-4390-b30f-b3117e830f04",
+			"918d9cde-8012-4039-88c5-6e593adc747e",
+			"7bfe2ae0-95ed-406b-a679-903ab9a661a3",
+			"105a30c5-5025-476c-baee-6a3c29218d19",
+			"e74913fd-2ff1-4634-afeb-b2e1b08a403f"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Historische vaardigheden",
+		"prefix": "A",
+		"id": "9f3a2c4a-52dc-4c6a-ad96-7c992470b018",
+		"fo_subdomein_id": [
+			"d70b7af8-e554-4cb2-9bba-e8faf4120c12",
+			"2cbffee8-022c-4b83-8d8b-aa9696dd0ea8"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Macht en invloed",
+		"prefix": "B",
+		"id": "56f91954-f6e7-46ad-9940-5930a313ad38",
+		"fo_subdomein_id": [
+			"19de3a77-9be8-4e81-a4a6-44d8d07c0c5e",
+			"6fc7fd05-0367-4a6b-80f5-4328a73bc3a4"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Kolonialisme en onafhankelijkheid",
+		"prefix": "C",
+		"id": "cea49e27-4cf4-4876-b396-a726a08309fc",
+		"fo_subdomein_id": [
+			"caab3c1c-c738-423f-a5dd-9213b3863d1e",
+			"3a395e0a-0b99-46ce-bd17-3129369773dd"
+		]
+	},
+	{
+		"title": "Domein D",
+		"description": "Samenleven en levensbeschouwingen",
+		"prefix": "D",
+		"id": "74ddf6e3-19c7-4092-a3e0-3dbbf56f35b5",
+		"fo_subdomein_id": [
+			"65e06bea-7f47-448a-827b-0c11962a4c0c",
+			"750dd054-67d1-4279-8fb2-2d7aa6ddf791"
+		]
+	},
+	{
+		"title": "Keuzedomein E",
+		"description": "Keuzedomein - bevoegd gezag kiest één van de drie keuzedomeinen",
+		"prefix": "E",
+		"id": "d7de415b-1608-416d-9216-38a9309b67c5",
+		"fo_subdomein_id": [
+			"82abbe63-106f-4ece-bd53-deeb860e3057",
+			"59b70a14-e183-42da-8421-6adc95f4cf83",
+			"feb04491-0b4f-4a3e-ab84-f0ac5490ca95",
+			"91a2cfda-5cb7-4b60-8a98-11aa71fb04ac",
+			"b2061f78-7071-44d6-96cb-1b6825da548c",
+			"3f2c65a0-e05f-4915-a561-acb940abf4a5",
+			"37c8f826-38f0-4355-8ccf-1b1f754b86ac"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Historische vaardigheden",
+		"prefix": "A",
+		"id": "aa8b8441-661d-4754-82a9-1c7007dae9b2",
+		"fo_subdomein_id": [
+			"f3fcdeeb-942f-457d-b0d2-5f296c5ce740",
+			"0504dfe2-e35a-4e2e-ab8d-d0a416d49a09"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Macht en invloed",
+		"prefix": "B",
+		"id": "5c5d2542-9b65-4e1c-b7ec-ca75443e1cca",
+		"fo_subdomein_id": [
+			"57fea626-582f-42fd-8993-8af5e2375681",
+			"d7ab2288-345a-41b6-ba02-40a919ad76a5"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Kolonialisme en onafhankelijkheid",
+		"prefix": "C",
+		"id": "a0998183-f689-4870-abfe-ec9fb09cb182",
+		"fo_subdomein_id": [
+			"fd4426ad-a296-4c78-a4c2-548c726371f8",
+			"809eca6a-5bba-49b9-bcd4-5fad80822797"
+		]
+	},
+	{
+		"title": "Domein D",
+		"description": "Samenwerking en conflict",
+		"prefix": "D",
+		"id": "e239e6de-d621-47bb-aec4-c649bfab3b7f",
+		"fo_subdomein_id": [
+			"32dee7b6-9ff0-4c54-89c1-318996c4e593",
+			"8dc14cc3-d3ea-41d6-8fb1-af1a2a5189a6"
+		]
+	},
+	{
+		"title": "Domein E",
+		"description": "Techniek en wetenschap",
+		"prefix": "E",
+		"id": "6e702ab2-2fd2-45d1-9af9-34e4545fee79",
+		"fo_subdomein_id": [
+			"922ffc51-5228-4786-9398-f143a0c5f706",
+			"9bd3e149-5dad-46de-ba30-33a752a7fc81"
+		]
+	},
+	{
+		"title": "Domein F",
+		"description": "Natuur en maatschappij",
+		"prefix": "F",
+		"id": "9fdc8f35-3d60-477a-91ad-b3a9125bd99e",
+		"fo_subdomein_id": [
+			"b66dc214-e837-4cb1-a08a-67827f518166",
+			"db932990-bb42-44e5-84a6-6d0d7de0dd25"
+		]
+	},
+	{
+		"title": "Domein G",
+		"description": "Samenleven en levensbeschouwingen",
+		"prefix": "G",
+		"id": "0000af85-f362-4b56-b9dc-04254b36fd47",
+		"fo_subdomein_id": [
+			"e0d9f8d0-829c-429d-a334-ebbae297722d",
+			"db996f8b-a202-4fda-8ea2-254071dd9c61"
+		]
+	},
+	{
+		"title": "Domein H",
+		"description": "Keuzedomein - bevoegd gezag kiest één van de twee keuzedomeinen",
+		"prefix": "H",
+		"id": "a495c798-b895-471a-a29a-495d14b42ea8",
+		"fo_subdomein_id": [
+			"92ddd954-eeb1-410b-8745-0faab61d3409",
+			"ac883ac8-946d-4f83-923f-b9e35424f875"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Bedrijfseconomische besluitvorming en vaardigheden",
+		"prefix": "A",
+		"id": "8159fa64-ee89-4c36-b317-6d6b08fee893",
+		"fo_subdomein_id": [
+			"03767c04-4c7d-49ec-883c-d4e008350149",
+			"99e2fe3a-ea64-4211-a149-6440d7e76c64"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Marketing",
+		"prefix": "B",
+		"id": "3cee485e-fa41-4488-9fcd-59a6c4122fc2",
+		"fo_subdomein_id": [
+			"8be236e4-3b0c-4295-ab84-afccdc9e3cbf",
+			"095c2786-782f-49df-8a96-0e71d4e98a28",
+			"b26a163d-1d23-4be5-8856-056fc2f858f8"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Organisatie",
+		"prefix": "C",
+		"id": "0231e9c1-e3fa-44fd-91c5-5971dcce59b2",
+		"fo_subdomein_id": [
+			"45b8cc8c-c453-4ef5-804b-a5f2e0c23fce",
+			"ccbb8fd9-0a1e-4100-941d-afcb0fda2e11",
+			"898e9cff-9e3d-4f92-a695-df0aa6c5ac07"
+		]
+	},
+	{
+		"title": "Domein D",
+		"description": "Accounting",
+		"prefix": "D",
+		"id": "e7df3869-576a-418d-b25f-92b503a11613",
+		"fo_subdomein_id": [
+			"4113eaca-6c01-47cb-a81b-a13e0a175e88",
+			"ce8fdc56-96fb-4588-8a3c-f83ddd8d52b9",
+			"b6d8c5dc-a2ab-4fb8-843e-71778a08b6b1"
+		]
+	},
+	{
+		"title": "Domein E",
+		"description": "Financiering",
+		"prefix": "E",
+		"id": "495a571b-e6e1-4f8f-9ce9-7f2852ceb2a8",
+		"fo_subdomein_id": [
+			"45e95573-520f-44e6-9211-69ad44c8408d",
+			"657e56ab-8602-4efe-b85b-5be2a932ac59",
+			"a821173a-fd7b-4c5b-96d2-6e598c6ffebc"
+		]
+	},
+	{
+		"title": "Domein F",
+		"description": "Ondernemerschap",
+		"prefix": "F",
+		"id": "fd9b5849-15ff-4f27-843a-40edf137a2cd",
+		"fo_subdomein_id": [
+			"19395ba2-819a-489a-ad84-a0e51db7f25e",
+			"84cb92fc-b00d-4901-91e1-f600c6f03844"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Bedrijfseconomische besluitvorming en vaardigheden",
+		"prefix": "A",
+		"id": "e326ffaa-a4c1-4b4b-aa06-ef57b4a32f36",
+		"fo_subdomein_id": [
+			"c3485e22-d693-48d5-8631-3d90d22d416a",
+			"937f4413-c7e8-42f5-98e5-2fdeb9157fdc"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Marketing",
+		"prefix": "B",
+		"id": "af07a28c-2cdd-4ca4-9eb3-f8cef1bd4066",
+		"fo_subdomein_id": [
+			"99e783fa-6a9f-4996-a3f3-2904463597c1",
+			"d1ce1f72-321a-428a-a24a-8e9690e34db8",
+			"6bd04849-4555-4d71-97c2-794a77d21408"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Organisatie",
+		"prefix": "C",
+		"id": "586b491d-2739-4f5b-b5bb-7f4126f7e0ed",
+		"fo_subdomein_id": [
+			"3a68a7c6-6826-4199-9213-1e5a9f957fd5",
+			"18f9b55a-8366-48ee-b37a-f7a659f9f9a6",
+			"8919b8bd-5801-4b4e-adde-41093cf3fe00"
+		]
+	},
+	{
+		"title": "Domein D",
+		"description": "Accounting",
+		"prefix": "D",
+		"id": "e442e3ec-6e21-4b30-b2b8-820cf01a665f",
+		"fo_subdomein_id": [
+			"247f29d4-dc7d-4d4a-b85b-2f9843a664b7",
+			"51ce674e-220d-4cdc-a5b4-63fc9a16f820",
+			"1c3c196c-effa-4b4c-8595-8a8888ae32c6"
+		]
+	},
+	{
+		"title": "Domein E",
+		"description": "Financiering",
+		"prefix": "E",
+		"id": "1cbb281a-60ef-4898-81bd-c3844cb30ef1",
+		"fo_subdomein_id": [
+			"b0560c4d-9e1f-48db-9068-f8454630a35f",
+			"8ecd48a1-f586-4dd2-8a67-09188483ea20",
+			"63c4e13e-01de-483b-8243-ce911a0f4ba2"
+		]
+	},
+	{
+		"title": "Domein F",
+		"description": "Ondernemerschap",
+		"prefix": "F",
+		"id": "a4070a53-105b-4274-bc33-a286b35487ec",
+		"fo_subdomein_id": [
+			"a506f2c0-bae7-4436-af46-af461807b416",
+			"a47f28ee-f0d2-47f8-9f93-3302eb2237ab"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Aard van het vak",
+		"prefix": "A",
+		"id": "6dc862b3-e5df-4dec-9ea7-cbaf4c968e8a",
+		"fo_subdomein_id": [
+			"4ccfab7e-525f-476a-8f94-02191bb5c050",
+			"1e51b9d3-d4ae-4651-bdb1-753eb918ac81"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Kiezen",
+		"prefix": "B",
+		"id": "3f685263-37ce-4508-ab0f-af20a383e07b",
+		"fo_subdomein_id": [
+			"b2ea1ccc-9c3f-42c0-8132-29bedf005448",
+			"298de725-8cd1-4f50-916c-7eba408d09ca"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Ruilen en interactie",
+		"prefix": "C",
+		"id": "16a49039-873a-4058-b7d9-60d8ad0f62cb",
+		"fo_subdomein_id": [
+			"ef3286d4-cf86-4301-9166-4493ceb71bbf",
+			"74001b21-ce96-4668-bc15-38709a39f364"
+		]
+	},
+	{
+		"title": "Domein D",
+		"description": "Productie en allocatie van goederen en diensten",
+		"prefix": "D",
+		"id": "0e215180-c3a2-41a5-81e5-368f772163b7",
+		"fo_subdomein_id": [
+			"45dbc91b-15ca-46f6-a0f7-f502772e732d",
+			"af4321fe-b0fd-4247-9c5b-f8f8e8043737"
+		]
+	},
+	{
+		"title": "Domein E",
+		"description": "Inrichting en ontwikkeling van de Nederlandse economie",
+		"prefix": "E",
+		"id": "d8acf59b-08a4-4400-bf7f-d7b72246fec7",
+		"fo_subdomein_id": [
+			"09388f7c-2d15-4050-a1fb-529aa8876fc4",
+			"b721bbb9-d521-4bf7-9074-93c6ede1547c"
+		]
+	},
+	{
+		"title": "Domein F",
+		"description": "Internationale economische betrekkingen",
+		"prefix": "F",
+		"id": "99f8a059-2a96-4414-bc05-977a69870354",
+		"fo_subdomein_id": [
+			"59ea68f4-b8bf-4b32-8905-79eba1937468",
+			"1c67f041-dbcc-4336-9bf6-c8fd610873bb"
+		]
+	},
+	{
+		"title": "Keuzedomein G",
+		"description": "Keuzedomein G - Het bevoegd gezag kiest 1 van de 2 opties",
+		"prefix": "G",
+		"id": "e75821d0-b1a5-4ccc-a03b-9ec5621634cf",
+		"fo_subdomein_id": [
+			"5a11f16f-3389-4cc8-a3c2-e10a724203f9",
+			"f9667a89-9c4d-4e63-9257-6089d0d07dde"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Aard van het vak",
+		"prefix": "A",
+		"id": "f6ae5f75-48dd-47fa-aae8-9db2876e236c",
+		"fo_subdomein_id": [
+			"dfed8185-6e23-4dd2-8515-46bd4453f742",
+			"ffeea0e3-c586-457b-8f63-299b534fed33"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Kiezen",
+		"prefix": "B",
+		"id": "4b349184-2b78-4e5f-9e6b-938d5e96d092",
+		"fo_subdomein_id": [
+			"42a34e50-f921-44cc-ba19-08a85b972712",
+			"c5005673-02b8-48fe-adc1-80f11fc40b8c"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Ruilen en interactie",
+		"prefix": "C",
+		"id": "902d1f60-6e85-4180-b502-dec20111b1e3",
+		"fo_subdomein_id": [
+			"54214dcc-7682-4e49-a0de-ae3d9eb185d3",
+			"0f958535-a97a-4c0c-80be-91959b4361ad"
+		]
+	},
+	{
+		"title": "Domein D",
+		"description": "Productie en allocatie van goederen en diensten",
+		"prefix": "D",
+		"id": "42149567-38ef-40cd-882d-0cd455bdec4b",
+		"fo_subdomein_id": [
+			"77b264c0-7bc0-4f35-ab9e-f7222b7a03e5",
+			"c3ed3ab7-8e5d-467d-ab3d-0676e66e515c"
+		]
+	},
+	{
+		"title": "Domein E",
+		"description": "Inrichting en ontwikkeling van de Nederlandse economie",
+		"prefix": "E",
+		"id": "e5323f96-ebd8-4939-ae93-cfbe911e5a8c",
+		"fo_subdomein_id": [
+			"65d2b9c6-c7f9-4892-920b-10c032b2c04f",
+			"fc6322c6-36c5-4e4c-a7cb-d31ad15a8710"
+		]
+	},
+	{
+		"title": "Domein F",
+		"description": "Internationale economische betrekkingen",
+		"prefix": "F",
+		"id": "6d128ebc-9c4b-4c2b-8d6c-645e3e5d3122",
+		"fo_subdomein_id": [
+			"55774df5-5fcb-4b66-9dda-343a2abbbf6c",
+			"37383460-0fa7-4e63-ae47-1474cb388315"
+		]
+	},
+	{
+		"title": "Keuzedomein G",
+		"description": "Keuzedomein G - Het bevoegd gezag kiest 1 van de 2 opties",
+		"prefix": "G",
+		"id": "c4543a06-c782-486e-9ce4-80a56cc148ad",
+		"fo_subdomein_id": [
+			"31d513a1-4339-43aa-aa15-84e23b946d1c",
+			"c43da1b9-e5fd-4716-89e7-5005d23c07b0"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Aard van het vak",
+		"prefix": "A",
+		"id": "a1429c5a-6fe1-4d0b-895c-6af33c29736a",
+		"fo_subdomein_id": [
+			"2cc1337f-46c0-4ed1-925e-25cba129e818",
+			"91082ba2-9214-43cb-b5e5-24583243d064"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Kiezen",
+		"prefix": "B",
+		"id": "6fd48ff1-60e5-42b7-91eb-97c754434f35",
+		"fo_subdomein_id": [
+			"a19481f5-03cb-4452-89eb-1b57060460a1",
+			"3bbb838d-47b0-4e16-b78d-14e561529c26"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Ruilen en interactie",
+		"prefix": "C",
+		"id": "515f3595-d9fd-4865-b7c7-586d895cba08",
+		"fo_subdomein_id": [
+			"ef0ec325-2c59-4faa-a9a5-c836ab152905",
+			"f8ee5b50-9da4-4ee6-8ba5-75337eae3017"
+		]
+	},
+	{
+		"title": "Domein D",
+		"description": "Productie en allocatie van goederen en diensten",
+		"prefix": "D",
+		"id": "fcb80ecd-b632-4f56-84f5-bda10f729561",
+		"fo_subdomein_id": [
+			"35c6527a-7e57-4983-8d45-6a73d494581e",
+			"dadd9555-9bbc-42c7-8029-329cb68ad803"
+		]
+	},
+	{
+		"title": "Domein E",
+		"description": "Inrichting en ontwikkeling van de Nederlandse economie",
+		"prefix": "E",
+		"id": "27927121-67b8-4d45-8405-1c4c1be0957e",
+		"fo_subdomein_id": [
+			"8c5fde65-0fc2-4f9c-b285-cf0d91372429",
+			"132bf081-6100-4e93-8537-92ced79259cf"
+		]
+	},
+	{
+		"title": "Domein F",
+		"description": "Internationale economische betrekkingen",
+		"prefix": "F",
+		"id": "7f643123-f699-4968-8317-a4a96561edeb",
+		"fo_subdomein_id": [
+			"8fc83fc5-4046-42fb-83d9-8d1b10d25dc3",
+			"8bdcfd77-a9f6-4895-959e-62d2b0f04159"
+		]
+	},
+	{
+		"title": "Keuzedomein G",
+		"description": "Keuzedomein G - Het bevoegd gezag kiest 1 van de 2 opties",
+		"prefix": "G",
+		"id": "1f288f98-d9c9-4704-b8a8-4a11ffd3d874",
+		"fo_subdomein_id": [
+			"283bc44c-8dc2-4af3-a2af-f659d0b2e90c",
+			"7f17ee87-50ac-4451-8fef-4dd443082658"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Aard van het vak",
+		"prefix": "A",
+		"id": "26361864-26f7-4843-b3e9-fffb74a1cf0f",
+		"fo_subdomein_id": [
+			"f5489a7a-bce7-402c-9d1e-845a03e4701e",
+			"aac99d7b-fddf-48d1-a0d7-6b1ea1928289"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Kiezen",
+		"prefix": "B",
+		"id": "eed84f79-c301-454f-b4e8-f28923d230dc",
+		"fo_subdomein_id": [
+			"c79bbc4f-5a60-4d7e-89a5-c5684199ce53",
+			"0ab7c952-773d-4a7c-9f75-22e0fba73451"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Ruilen en interactie",
+		"prefix": "C",
+		"id": "b1a907ce-0496-44c3-9269-e867ac3b5bba",
+		"fo_subdomein_id": [
+			"728cd75c-62f2-441b-a4a3-b4ddc6347922",
+			"49a6d785-b21e-4a93-8441-71ffb4cb4d24"
+		]
+	},
+	{
+		"title": "Domein D",
+		"description": "Productie en allocatie van goederen en diensten",
+		"prefix": "D",
+		"id": "af007ec5-f489-4617-86bd-7acd9d6080ca",
+		"fo_subdomein_id": [
+			"4c3bf587-9f09-454b-9d01-e4fa57561211",
+			"23f85b91-6e52-44fa-b81a-02f66a667ae7"
+		]
+	},
+	{
+		"title": "Domein E",
+		"description": "Inrichting en ontwikkeling van de Nederlandse economie",
+		"prefix": "E",
+		"id": "e892b2a1-06db-4a13-a021-4df554aca229",
+		"fo_subdomein_id": [
+			"0e474d89-28be-456f-9805-50d43b19bc86",
+			"be72282f-d2b9-47ca-9d89-48a47e6da26e"
+		]
+	},
+	{
+		"title": "Domein F",
+		"description": "Internationale economische betrekkingen",
+		"prefix": "F",
+		"id": "dad0dba5-fabb-4c8b-b905-9fb3fcff1199",
+		"fo_subdomein_id": [
+			"0e40297c-5131-478d-a0bd-3e1310eb2949",
+			"50dfa521-89df-47ab-a3bd-7b6b24ecbd6b"
+		]
+	},
+	{
+		"title": "Keuzedomein G",
+		"description": "Keuzedomein G - Het bevoegd gezag kiest 1 van de 2 opties",
+		"prefix": "G",
+		"id": "8d4f0feb-ccf7-44e1-971e-7249731da103",
+		"fo_subdomein_id": [
+			"e27946e4-97fd-4aff-966b-09663fb81d0c",
+			"5bccf257-e6db-4b3f-b641-9eadf6b90369"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Aard van het vak",
+		"prefix": "A",
+		"id": "89e8f243-50e4-4eef-8827-547f9dae4476",
+		"fo_subdomein_id": [
+			"f8577650-26c4-4e78-8a21-cc225862e82e",
+			"966f8853-4084-426e-834c-121ff2e5d21c"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Kiezen",
+		"prefix": "B",
+		"id": "631cba28-87ee-4903-834d-1c08943d20ff",
+		"fo_subdomein_id": [
+			"5f2fa3e2-9d0d-4995-bad1-cb1160184e72",
+			"38f08c64-6c64-4d16-97be-722ff1da1c27"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Ruilen en interactie",
+		"prefix": "C",
+		"id": "f77b27f4-af90-447d-97cb-ebfcc2f5dd16",
+		"fo_subdomein_id": [
+			"bf6c1606-6b52-4039-a85d-4b14f8e23fb0",
+			"3e27b775-9559-481a-92a3-ec54fc03b0f3"
+		]
+	},
+	{
+		"title": "Domein D",
+		"description": "Productie en allocatie van goederen en diensten",
+		"prefix": "D",
+		"id": "0cfd4059-9d43-4cd3-b162-270fc37f88b2",
+		"fo_subdomein_id": [
+			"33462507-64c2-44bf-b551-611c40ebdade",
+			"363edea8-c4cc-4711-a866-5ff6526e2451"
+		]
+	},
+	{
+		"title": "Domein E",
+		"description": "Inrichting en ontwikkeling van de Nederlandse economie",
+		"prefix": "E",
+		"id": "09a2a9be-dd64-4b79-86ce-2ed70b2e3fbe",
+		"fo_subdomein_id": [
+			"fc25ca59-ecce-434c-8693-c904a693ac45",
+			"318b8915-a16a-4630-82a0-25d66d59cf2d"
+		]
+	},
+	{
+		"title": "Domein F",
+		"description": "Internationale economische betrekkingen",
+		"prefix": "F",
+		"id": "24c38672-7a8d-43f7-9d55-3a17c5a684bc",
+		"fo_subdomein_id": [
+			"84860133-2935-4c47-874d-deb67d1b49db",
+			"4b4a7e76-b78b-4792-841e-530ee2a0d7c5"
+		]
+	},
+	{
+		"title": "Keuzedomein G",
+		"description": "Keuzedomein G - Het bevoegd gezag kiest 1 van de 2 opties",
+		"prefix": "G",
+		"id": "674106d2-b827-4ea2-8c91-d4c2b8e226f3",
+		"fo_subdomein_id": [
+			"039930fc-1b9e-4a71-b469-16948b08d0f0",
+			"e5e526fd-889c-4c75-89c9-abbb21c26e64"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Geografische benadering",
+		"prefix": "A",
+		"id": "34e82977-07e2-474e-9b6b-5d569c69a479",
+		"fo_subdomein_id": [
+			"f2d7494f-ed9d-4f7a-b300-3c16262ce4b9",
+			"9c555471-aecf-4822-849f-6bf00f4281d4",
+			"b5f46541-c0a2-4bca-85d0-127b01d3b9b1"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Geologische vraagstukken",
+		"prefix": "B",
+		"id": "4c8d5cab-44b2-4394-b6e6-09968737fd5f",
+		"fo_doelzin_id": [
+			"d66e16a4-80bc-4480-b774-620f7e8309fe",
+			"4307de8a-a133-48a8-bcbb-0dbce0e9712a",
+			"b6126439-8b6a-416e-866a-06cac77b9aea"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Klimaatvraagstukken in het landschap",
+		"prefix": "C",
+		"id": "bf1c5815-f692-4d9b-acc2-32323a16aea3",
+		"fo_subdomein_id": [
+			"9cdc442e-b4d7-468d-a376-d476754002c9",
+			"386145d0-3c29-4115-a346-7d0901b9b4b0"
+		]
+	},
+	{
+		"title": "Domein D",
+		"description": "Vraagstukken van de leefomgeving",
+		"prefix": "D",
+		"id": "54d5d52e-73d6-4514-a634-12e67735174e",
+		"fo_subdomein_id": [
+			"a09bb0c3-6d33-4792-9ff3-4b09829a8182",
+			"8cbd407d-9d23-413d-89c9-590f2cdf7f08"
+		]
+	},
+	{
+		"title": "Domein E",
+		"description": "Geo-economische en geopolitieke vraagstukken",
+		"prefix": "E",
+		"id": "de18efec-9c74-46ba-9b7f-a63581bf1e52",
+		"fo_doelzin_id": [
+			"6aabd4ea-365f-49dd-9ef3-0de655ee0a40",
+			"46da324f-957a-4f31-85d9-62d97b6d9729",
+			"05aa8a8e-0808-4b42-9230-067a0eb8dcf4"
+		]
+	},
+	{
+		"title": "Domein F",
+		"description": "Europa als dynamisch krachtenveld",
+		"prefix": "F",
+		"id": "332943c0-e510-4907-aa3f-484a41258092",
+		"fo_doelzin_id": [
+			"118c0dba-94c3-4367-a92e-98fa0f6841a4",
+			"9dbdb811-6f18-48a0-af1c-a86ca57c01ca",
+			"691a3a27-f41f-4bef-b0bc-557671706419"
+		]
+	},
+	{
+		"title": "Domein G",
+		"description": "Caribisch gebied als dynamisch krachtenveld",
+		"prefix": "G",
+		"id": "e74a3ad6-ddc9-4a9e-a108-33487d249de7",
+		"fo_doelzin_id": [
+			"ebbb817f-f2f4-47f1-90d1-c8a6829c33dc",
+			"b12aa429-080c-4637-ad82-06b08167eb9a",
+			"b9d40292-73b9-4ed4-bc64-7598b156bf37"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Geografische benadering",
+		"prefix": "A",
+		"id": "746424dd-bc44-4a3b-a9d9-4e618028eecc",
+		"fo_subdomein_id": [
+			"96f589f6-3122-4360-b4ad-7a7557d9eb95",
+			"d3f23324-e768-49d1-80ac-89cdc9f56c08",
+			"42b2925e-d910-42c8-a7dd-7a4ffb6f5ad3"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Geologische vraagstukken",
+		"prefix": "B",
+		"id": "82f9ec23-8734-46f5-b6ad-29b87e0edf3a",
+		"fo_doelzin_id": [
+			"b7b6a5c5-1995-4e6d-a46e-558cad4b088c",
+			"43e7dcfe-a797-47a8-9ad6-d36795941c63",
+			"e0f3881e-1ef2-40e4-8a31-6ff4befe84ea"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Klimaatvraagstukken in het landschap",
+		"prefix": "C",
+		"id": "b71d9ad3-83aa-474c-8388-75a8f884206d",
+		"fo_subdomein_id": [
+			"4296a06c-6621-4e6e-91da-50bf7cc2b231",
+			"2a4cc967-c59c-4c88-9a10-7f764b083695"
+		]
+	},
+	{
+		"title": "Domein D",
+		"description": "Vraagstukken van de leefomgeving",
+		"prefix": "D",
+		"id": "ec642464-d9b9-43a7-affc-ecc681a0afeb",
+		"fo_subdomein_id": [
+			"4dde43ba-0d82-4431-b863-fedacfb8002d",
+			"668ff59a-0f39-4078-95d4-70acdb6b0fb5"
+		]
+	},
+	{
+		"title": "Domein E",
+		"description": "Geo-economische en geopolitieke vraagstukken",
+		"prefix": "E",
+		"id": "45881935-5c0f-4a32-9458-26effbad3f8e",
+		"fo_doelzin_id": [
+			"7349e2e4-153f-40ba-99cd-14b3c7f944c4",
+			"64d27a0b-ee30-4084-9c99-dfde47724442",
+			"45e3ca2f-4074-4489-9844-ea4360028817"
+		]
+	},
+	{
+		"title": "Domein F",
+		"description": "Europa als dynamisch krachtenveld",
+		"prefix": "F",
+		"id": "a41bca0b-b3c2-4b84-916c-dd15084d2a56",
+		"fo_doelzin_id": [
+			"29ae2e9f-87d5-4428-b5e4-4753babe1576",
+			"a191ed74-6238-468c-a680-6319c82c9c5a",
+			"c4c6f9f7-dd0e-4a39-aee7-5f62ebdb2323"
+		]
+	},
+	{
+		"title": "Domein G",
+		"description": "Caribisch gebied als dynamisch krachtenveld",
+		"prefix": "G",
+		"id": "94a00085-e301-4f29-b469-eee81b9df8fb",
+		"fo_doelzin_id": [
+			"f792cece-d873-4fd7-a02c-ab9a60be6fba",
+			"d3cf4003-c458-4427-96a1-e59d21a0cdde",
+			"72c2dfdd-d67d-47bf-9e03-c1935e077b44"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Geografische benadering",
+		"prefix": "A",
+		"id": "94132502-e6d4-4c77-9fb5-3e8452426547",
+		"fo_subdomein_id": [
+			"94ad4acb-6666-4aad-808b-2d54e356e839",
+			"42495a02-0284-499e-bca8-945aae83769b",
+			"0ad8e90b-1e85-4903-9d44-4d3e93488918"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Geologische vraagstukken",
+		"prefix": "B",
+		"id": "476cc209-b741-4944-b994-fcc6f548fdd5",
+		"fo_doelzin_id": [
+			"f6829f68-5ed3-40e9-b229-c2c05f4605ae",
+			"9a19b8a6-2dac-4adb-835c-cf2802049f04",
+			"de4952f0-aa47-41f5-93b9-50845bb0e4c5"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Klimaatvraagstukken in het landschap",
+		"prefix": "C",
+		"id": "8d5afff7-93ce-45a6-a743-b2a7d809e7f4",
+		"fo_subdomein_id": [
+			"c27cb60a-8f58-46b1-8d3c-aaa520742132",
+			"d54f26b1-ec58-4bc4-b244-a4576e2f4601"
+		]
+	},
+	{
+		"title": "Domein D",
+		"description": "Vraagstukken van de leefomgeving",
+		"prefix": "D",
+		"id": "f6831da4-f136-427a-8dda-20fb13588d56",
+		"fo_subdomein_id": [
+			"2ffcd24f-3123-40e2-9cee-30944b36f5c9",
+			"889d0150-a3bf-4848-adea-0f5f4d85d30a"
+		]
+	},
+	{
+		"title": "Domein E",
+		"description": "Geo-economische en geopolitieke vraagstukken",
+		"prefix": "E",
+		"id": "a0c378c7-046b-4c11-ade5-d2e26158c566",
+		"fo_doelzin_id": [
+			"526a9ca7-c553-424d-b610-faf2150cbee8",
+			"fa413959-45c2-4d3e-8a75-710913d136a4",
+			"cf90f341-25ac-4d31-ac61-b470f2f29b59"
+		]
+	},
+	{
+		"title": "Domein F",
+		"description": "Europa als dynamisch krachtenveld",
+		"prefix": "F",
+		"id": "20028d37-934c-4071-bb7d-cfe742957df2",
+		"fo_doelzin_id": [
+			"a98f0259-7012-4e61-82cf-4a12d612f2fe",
+			"284b7420-96a3-4ebf-a48d-1b50c469c219",
+			"e1090dbf-cfd4-42a1-a952-08909966a437"
+		]
+	},
+	{
+		"title": "Domein G",
+		"description": "Caribisch gebied als dynamisch krachtenveld",
+		"prefix": "G",
+		"id": "106e1c33-24c5-4d3a-aaa4-145423fcbe2c",
+		"fo_doelzin_id": [
+			"69ea98d1-91f1-4e6e-bdbf-2f0f88bf7d6b",
+			"da70f0f1-c7cf-4dd5-b6e2-2ff97e01d912",
+			"941f97fc-9cee-4065-a8c5-6a796b271c38"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Geografische benadering",
+		"prefix": "A",
+		"id": "a6162663-29cd-4a4a-a15f-c01204e931f6",
+		"fo_subdomein_id": [
+			"5fb39232-e632-446a-afd8-d57aee97aa0e",
+			"50378f91-b7e2-4030-96a1-ff30cb8e810f",
+			"6358b8e0-9e99-4d4a-a497-c0a1120a0882"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Geologische vraagstukken",
+		"prefix": "B",
+		"id": "dd56a774-164c-466f-bd10-8056bb1673ec",
+		"fo_doelzin_id": [
+			"6a15994b-3671-451f-8181-cf57e9ebac74",
+			"c988719c-bc65-40b6-8b21-c325a29e9d1e",
+			"796173b2-61aa-432a-9503-ee05e9a13a51"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Klimaatvraagstukken in het landschap",
+		"prefix": "C",
+		"id": "68c9bc7b-cb8a-4e50-83dd-b37632cfbfd0",
+		"fo_subdomein_id": [
+			"c2a8ab6a-2a38-4626-942c-33019420ae08",
+			"5cf5d3c3-cac9-4be4-b44d-d33066e9345f"
+		]
+	},
+	{
+		"title": "Domein D",
+		"description": "Vraagstukken van de leefomgeving",
+		"prefix": "D",
+		"id": "1c927fe7-44f5-42af-876b-47cf01d87f45",
+		"fo_subdomein_id": [
+			"5d4f940e-cc69-4aab-9043-fd3f9f55d122",
+			"24c9c045-354d-448c-81d3-6177e4973474"
+		]
+	},
+	{
+		"title": "Domein E",
+		"description": "Geo-economische en geopolitieke vraagstukken",
+		"prefix": "E",
+		"id": "e63fc611-a12e-47f5-875a-d1258537a83c",
+		"fo_doelzin_id": [
+			"a94e80f7-02d0-43b1-a404-86187cc99dbc",
+			"a9af0aea-aef6-444f-b2a3-54ba57fd252c",
+			"cc87b1e8-82bc-4520-9a7a-275f5b38f7e6"
+		]
+	},
+	{
+		"title": "Domein F",
+		"description": "Europa als dynamisch krachtenveld",
+		"prefix": "F",
+		"id": "d9aa5bb7-931e-42f5-8d55-777101b49612",
+		"fo_doelzin_id": [
+			"cce33cae-3e9b-44e1-b995-0d67f6f3e670",
+			"a4df5080-df37-4615-b6f5-21b34bf3f462",
+			"2dc2df92-8d5b-483a-94b6-27f5afa46db3"
+		]
+	},
+	{
+		"title": "Domein G",
+		"description": "Caribisch gebied als dynamisch krachtenveld",
+		"prefix": "G",
+		"id": "9f1e7b54-2a61-4951-9b4f-b2df3650f848",
+		"fo_doelzin_id": [
+			"1bbec938-a966-47ec-a4ab-29f7c3328234",
+			"ad8effdb-487f-49c4-98cb-1e7b7aeb44a6",
+			"5002e47d-d2f4-4fce-bfdf-55cffffd23fd"
+		]
+	},
+	{
+		"title": "Domein A",
+		"description": "Geografische benadering",
+		"prefix": "A",
+		"id": "778db5cc-b0b6-41f7-a080-9be257bf3041",
+		"fo_subdomein_id": [
+			"b8bf7d6e-416d-4dd2-85c2-b1a7e36b4c3f",
+			"8604a8cc-5e1b-463b-8eef-c99366be0f82",
+			"36f41a4b-e12f-4745-a1d6-f75855cc84a3"
+		]
+	},
+	{
+		"title": "Domein B",
+		"description": "Geologische vraagstukken",
+		"prefix": "B",
+		"id": "74e8eada-6cf1-4f0b-9e84-bbb64433f820",
+		"fo_doelzin_id": [
+			"c36d0054-2c5e-4619-8cc6-1b49eda056a6",
+			"5c65686b-4e1d-485c-9f54-e11a44233796",
+			"7fc0a7a5-d04b-45d5-bd11-28404784120e"
+		]
+	},
+	{
+		"title": "Domein C",
+		"description": "Klimaatvraagstukken in het landschap",
+		"prefix": "C",
+		"id": "34af5c81-7e52-44f7-9137-46b6b8c8640c",
+		"fo_subdomein_id": [
+			"0e546bbc-9fb5-424d-8bb3-1287f8e94772",
+			"ff53ade6-e9da-4fbf-89f4-88e7b02ace6c"
+		]
+	},
+	{
+		"title": "Domein D",
+		"description": "Vraagstukken van de leefomgeving",
+		"prefix": "D",
+		"id": "c2815caf-d659-4fa4-b452-331985314ac7",
+		"fo_subdomein_id": [
+			"a2033d2d-2c8d-4331-b8c0-f06c9b0474b8",
+			"fca0b580-e84e-4073-9f9a-9493813740cf"
+		]
+	},
+	{
+		"title": "Domein E",
+		"description": "Geo-economische en geopolitieke vraagstukken",
+		"prefix": "E",
+		"id": "89c69057-867d-4abf-937f-db15d91631e4",
+		"fo_doelzin_id": [
+			"c78deebf-6a32-48a0-8ccd-ea386d2a86e3",
+			"aec4c73b-3db7-4b82-82d3-e67ae756542a",
+			"a694dbc1-8138-42b7-acec-32b0d7fc3893"
+		]
+	},
+	{
+		"title": "Domein F",
+		"description": "Voedselvraagstukken",
+		"prefix": "F",
+		"id": "0c231fa8-dbbf-4ed3-aeef-085909c3eba1",
+		"fo_doelzin_id": [
+			"58d61cc3-070d-4c40-80fe-7f9d70410566",
+			"8810320d-c989-45f2-ba49-828ad8c8275e",
+			"5a9c1e99-04fb-46f9-bb10-678859d6319f",
+			"c4049642-94e0-4968-9956-0919a3ed5d6f"
+		]
+	},
+	{
+		"title": "Domein G",
+		"description": "Nexusvraagstukken van ruimtegebruik in Nederland",
+		"prefix": "G",
+		"id": "dae128a6-f426-4aae-8bba-213d56dfcdb1",
+		"fo_doelzin_id": [
+			"a40f1f3c-9f06-4e98-903a-d90b6fc30e18",
+			"56f4163b-a7bc-4395-b9b2-40e86fef5963",
+			"e45b6842-b1b0-4f59-b71d-45a000df1cf0",
+			"9716408f-cada-427e-8801-f6c15f1dc9d6"
+		]
+	},
+	{
+		"title": "Domein H",
+		"description": "Europa als dynamisch krachtenveld",
+		"prefix": "H",
+		"id": "7628b28c-d37b-41ff-9520-fd7a8f510491",
+		"fo_doelzin_id": [
+			"09f094f4-67b3-4976-9542-9c4b2a16df8f",
+			"605a180b-2486-4b3e-b07c-738171ad2019",
+			"122ba055-4c1f-4ea2-abec-66a2c99c7bb0"
+		]
+	},
+	{
+		"title": "Domein I",
+		"description": "Caribisch gebied als dynamisch krachtenveld",
+		"prefix": "I",
+		"id": "1e255b52-0a24-4fdc-9240-9b49947ee65d",
+		"fo_doelzin_id": [
+			"24bf166f-32ea-4df6-b47b-b2d20e0afef2",
+			"8cae42be-46de-4da9-80dd-505285090758",
+			"a5250523-2be7-4fab-b5cf-f6890c0dcb80"
+		]
+	},
+	{
+		"title": "Domein J",
+		"description": "Ruimtelijk vraagstuk naar keuze",
+		"prefix": "J",
+		"id": "2bf91d06-95e0-4018-9210-9beb92c0b7fa",
+		"fo_doelzin_id": [
+			"bcfbb03e-fa2c-45c9-870d-244a81aade22",
+			"a885d0a4-d928-45ea-bb0d-6d74a503b52d",
+			"30b01b69-ee20-41b9-8782-313d8cdc2278",
+			"711abe0d-b8ab-4322-b711-a084c5a655d2"
 		]
 	}
 ]
